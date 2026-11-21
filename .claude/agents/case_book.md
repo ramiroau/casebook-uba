@@ -28,9 +28,11 @@ Leer, en este orden y completos:
 
 Luego, para la unidad pedida:
 
-- Si la unidad ya existe, comparar `unidades/U0N.md` con
-  `respaldos/U0N_agente.md` (`diff`) y listar las ediciones del autor antes de
-  escribir nada (ver «Ediciones del autor» en las reglas).
+- Crear una rama propia desde `main` (`git switch -c agente/u0N-<tema>`). Nunca
+  trabajar en `main`.
+- Si la unidad ya existe, revisar `git blame` y `git log -p` de
+  `unidades/U0N.md` y listar las ediciones del autor antes de escribir nada
+  (ver «Ediciones del autor» en las reglas).
 - El encabezado y el copete del programa en
   `../Programa_UBA/last_version/programa_uba_v25.md` (se transcriben literales).
 - Las lecturas obligatorias y optativas de esa unidad según el programa.
@@ -46,20 +48,21 @@ Luego, para la unidad pedida:
 - **Ediciones del autor.** Prevalecen sobre cualquier otra regla de este
   archivo, de `ESTILO.md` y de `PLANTILLA_UNIDAD.md`, y sobre el pedido de
   reescribir una unidad entera. Son ediciones del autor:
-  1. toda diferencia entre `unidades/U0N.md` y la última versión escrita por el
-     agente, `respaldos/U0N_agente.md` (texto agregado, modificado **o
-     eliminado**, incluidos marcadores de extracto quitados o cambiados);
-  2. todo pasaje entre `<!-- AUTOR -->` y `<!-- /AUTOR -->`;
-  3. toda nota `<!-- AUTOR: eliminado … -->`.
+  1. toda línea cuyo último commit es de un autor humano, es decir, un commit
+     sin el trailer `Co-Authored-By: Claude` (`git blame`);
+  2. todo texto que un commit humano eliminó, incluidos los marcadores de
+     extracto quitados o cambiados (`git log -p`);
+  3. los pasajes marcados `<!-- AUTOR -->` en el commit `13c5f06`, anteriores a
+     la migración a Git (sólo U01).
 
   Se conservan literales: no se reformulan, no se corrigen, no se mueven y no
   se eliminan. Lo que el autor eliminó no se reintroduce. Si una edición del
   autor choca con otra regla (citekey inexistente, cita sin página, error
   tipográfico, extracto más corto que lo que pide la preferencia por extractos
   largos), se deja como está y se informa en el informe final, con una
-  propuesta de corrección que el autor decide. Si `respaldos/U0N_agente.md` no
-  existe, se trata la unidad entera como edición del autor y se pregunta antes
-  de reescribir.
+  propuesta de corrección que el autor decide. Si el historial no permite
+  distinguir quién escribió qué, se trata la unidad entera como edición del
+  autor y se pregunta antes de reescribir.
 - Ninguna afirmación sustantiva sin citekey. Ninguna citekey que no exista en
   `programauba.json`, a menos que la introduzca un autor humano. Ninguna referencia inventada.
 - Toda reconstrucción de argumento debe poder rastrearse a un pasaje concreto
@@ -153,12 +156,10 @@ citar por marcador y página.
    disimularlo: dejarlo marcado en el texto con `[PENDIENTE: …]`.
 3. Actualizar `FUENTES.md` con toda fuente nueva o discrepancia detectada, y el
    estado en `README.md` si cambió.
-4. Proteger las ediciones del autor detectadas en esta pasada, para que sigan
-   protegidas cuando cambie la versión de referencia: envolver cada pasaje
-   agregado o modificado entre `<!-- AUTOR -->` y `<!-- /AUTOR -->`, y dejar
-   `<!-- AUTOR: eliminado «primeras palabras…» -->` donde el autor eliminó algo.
-   Recién entonces copiar la unidad terminada a `respaldos/U0N_agente.md`
-   (sobrescribe la anterior). Ese archivo lo escribe sólo el agente.
+4. Hacer commit en la rama propia, con el trailer `Co-Authored-By: Claude` (que
+   distingue el trabajo del agente de las ediciones del autor), y proponer la
+   fusión por *pull request* (`gh pr create`) si hay remoto. No fusionar ni
+   empujar a `main`. No escribir en `respaldos/`: es histórico.
 
 ## Informe final
 

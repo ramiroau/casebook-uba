@@ -33,6 +33,8 @@ unidad, las de estilo en `ESTILO.md` y las de bibliografía en Zotero.
 
 ### Migración del estado actual
 
+*Hecha el 21 de noviembre de 2026: los pasos 1 a 4 están aplicados en https://github.com/ramiroau/casebook-uba.*
+
 Hoy el proyecto vive en una carpeta de Google Drive sin control de versiones.
 La regla de `CLAUDE.md` sobre ediciones del autor (los marcadores
 `<!-- AUTOR -->` y los `respaldos/U0N_agente.md`) reemplaza a mano lo que Git

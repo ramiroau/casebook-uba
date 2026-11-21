@@ -2,7 +2,7 @@
 
 Casebook de Elementos de Derecho Constitucional, cátedra Gargarella-Bouzat,
 comisión 6661/6651. Acompaña al programa analítico y al compendio de materiales;
-no los reemplaza. Estado actual: **las 18 unidades redactadas según `ESTILO.md` de noviembre de 2026** (U01–U03 revisadas; U04–U18 nuevas, ver `notas_unidades/`). Las lecturas obligatorias se reproducen extensamente por marcador; las versiones anteriores están en `respaldos/`.
+no los reemplaza. Estado actual: **las 18 unidades redactadas según `ESTILO.md` de noviembre de 2026** (U01–U03 revisadas; U04–U18 nuevas, ver `notas_unidades/`). Las lecturas obligatorias se reproducen extensamente por marcador; el proyecto está bajo Git (https://github.com/ramiroau/casebook-uba); la autoría de cada línea está en el historial (`git blame`) y las reglas sobre ediciones del autor, en `CLAUDE.md`.
 
 ## Compilar
 
@@ -51,7 +51,7 @@ Cuatro controles:
 | `extractos/` | texto de cada fuente, con marcadores `[[PDF p. N]]` |
 | `extractos/limpios/` | copias corregidas a mano de los extractos OCR (cabecera `# revisado: si/no`) |
 | `_build/` | unidades con los extractos ya insertados; se regenera en cada compilación |
-| `respaldos/` | versiones anteriores de unidades reescritas |
+| `respaldos/` | histórico, anterior a la migración a Git (21-11-2026); no se agregan archivos: las versiones anteriores están en el historial |
 | `scripts/extraer.py` | `pdftotext -layout` o `tesseract -l spa` → `extractos/` (`--doble` para escaneos de dos páginas por hoja) |
 | `scripts/insertar_extractos.py` | expande los marcadores `EXTRACTO` → `_build/` |
 | `scripts/paginacion.py` | infiere el mapeo página de PDF → página impresa |
