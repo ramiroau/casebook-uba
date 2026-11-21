@@ -1,0 +1,975 @@
+# fuente: Unidad10/1_Sáenz and Sucunza - 2019 - Comentario al 75.12.pdf
+# md5_original: bb92b86a92cffdb23a44a411452fbbc6
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Art. 75.- Corresponde al Congreso:
+11. Hacer sellar moneda, fijar su valor y el de las extranjeras; y adoptar un sistema uniforme de pesos
+y medidas para toda la Nación.
+
+          Monedas, pesos y medidas: su regulación y determinación1
+          La instauración de la moneda para un Estado constituye una de las expresiones soberanas más
+relevantes2. Su regulación es trascendental para la fijación de valor, el desenvolvimiento de la economía de
+un país y su vinculación e integración regional y universal. De allí que la CN reconozca la potestad de hacer
+sellar moneda, fijar su valor y el de las extranjeras en cabeza del Congreso Nacional.Las provincias han
+delegado expresamente dicha potestad mediante la cláusula en tratamiento.
+          Reafirma dicha atribución el hecho de que: (i) dentro del esquema federal adoptado su regulación
+aparece como necesaria y conveniente para preservar la unidad (política, económica y jurídica) del Estado;
+(ii) se trata de una regulación general que pertenece en la división de funciones al Poder Legislativo; (iii)
+otorga previsibilidad, orden y seguridad para los agentes y actores económicos internos y externos; y, (iv)
+forma parte elemental del crecimiento de un país y una condición para su integración.
+          En razón de esta norma y por las razones expresadas, las provincias carecen de facultades para
+hacer sellar moneda de curso legal. El artículo 126 de la CN ratifica la prohibición de acuñar monedas o de
+establecer bancos con facultad de emitir billetes. Es decir, que no puede emitir ningún tipo de moneda de
+curso legal. No obstante ello, las crisis económicas, limitaciones presupuestarias y financieras en que se
+han encontrado las provincias provocaron la emisión de bonos que han sido utilizados para pagar deudas
+(por ejemplo, Quebrachos, Patacones, etc.). Especialmente, durante la crisis del año 2001.
+          Estos bonos no son moneda en términos legales sino obligaciones cambiarias (por ello se las llamó
+cuasi monedas). Su circulación, aceptabilidad y “valor” (paridad con la moneda de curso legal), dependió
+de los reaseguros que las provincias detentaban para cancelarlos a futuro. Muchas veces se (re)tomaron
+como medios para saldar deudas impositivas.
+          Su naturaleza (letras de obligaciones de pago) y el hecho de que fueron “voluntariamente
+aceptadas” fueron argumentos utilizados para admitir su constitucionalidad. Bajo esas condiciones no
+contrariaban lo dispuesto en los artículos 75 inc. 11 y 126 de la CN. Una situación aún más peculiar
+aconteció con los empleados públicos y los acreedores del Estado, quienes no tuvieron alternativa ni margen
+para discutir su “aceptabilidad”.
+          Judicializado el alcance y circulación de estasletras, la mayoría de la Suprema Corte de la Provincia
+de Buenos Aires convalidó el Patacón3. En ese sentido, se alegó que el “patacón” no es moneda corriente
+nacional. Su circulación es limitada; y su aceptación, al no resultar de curso legal obligatorio para toda la
+Nación, no es forzoso, sino para los agentes de la Administración Pública alcanzados por dicha medida, por
+razones de orden público, a causa de la situación de emergencia económica y, voluntario, para los agentes
+del mercado en general. También se expuso que la tenencia o posesión de Letras de Tesorería para
+cancelación de obligaciones (patacón), implica o conlleva una restricción o mengua de derechos implícita,
+que es la que surge de su propia naturaleza de título de la deuda pública provincial (o a la inversa título de
+crédito provincial), de circulación limitada. La aceptación, colocación, utilidad o potencialidad dineraria de
+la misma, depende de la credibilidad económica que despierte, de la mano de las necesidades o urgencias
+del mercado y de la extrema prudencia con que las autoridades gubernamentales de la provincia de Buenos
+
+
+
+1
+  Por Matías A. Sucunza.
+2
+  La moneda es una “creación y una imposición al mismo tiempo del orden jurídico local que escapa a la ley de la oferta y la demanda por constituir
+un monopolio del Estado, se halla revestida en razón de sus funciones específicas con la fuerza cancelatoria que a tales efectos le proporciona el
+poder público. Dicho de otra manera, el valor de la moneda circulante con fuerza legal en todo el territorio de la Nación -que cumple la función de
+un bien económico insusceptible de ser regulada directa o indirectamente por la ley de la oferta y demanda- se funda en la autoridad del Estado que
+es su creador y por consiguiente, la perdurabilidad de ese valor como signo monetario de fuerza legal, en tanto no fuere alterado por el propio
+Estado de quien dimana, no puede estar a merced de las convenciones concertadas por las partes entre sí” (CSJN, “Susana Carlota Pacheco
+Santamarina de Bustillo c/Café Paulista”, Fallos 225:135, 1953, voto de la mayoría).
+3
+  SCBA, causa B. 62974 “Asociación de Maestros de la Provincia de Buenos Aires s/Amparo”, sent. del 10-04-02 (integrada por conjueces).
+
+[[PDF p. 2]]
+Aires, recurran a este título excepcional, sin que constituya un medio normal, corriente u ordinario de
+financiamiento del déficit fiscal4.
+         Otra consecuencia directa es que el alcance de la cláusula constitucional imposibilitaría al Congreso
+sancionar una regla general que impusiese una moneda extranjera como divisa oficial. Los argumentos que
+justifican esa imposibilidad son múltiples. Entre ellos destacamos: (i) la norma alude a hacer sellar moneda,
+fijar su valor, cuantía y el de las extranjeras. Es decir, que su análisis exegético-gramatical permite advertir
+una diferenciación entre una moneda nacional y otras extranjeras; (ii)no hay moneda extranjera sin una
+nacional; (iii) constituye una expresión de soberanía e independencia política frente a los demás Estados5;
+y, (iv) condicionaría indebida e inconvenientemente el desarrollo de la economía del país. La sanción de
+una norma que desconozca esta regla resultaría inconstitucional.
+         En ese sentido, la Corte Suprema ha entendido que la facultad del Congreso para proveer a la
+creación de la moneda para el país, emitir billetes de crédito y de banco, ponerla a circulación por leyes
+apropiadas a tal fin, darles el carácter de moneda y suspender finalmente los pagos en metálico, es un
+atributo de soberanía jamás desconocido y de constante aplicación por los gobiernos de todos los países,
+sin distinción de forma, ya de los poderes explícitos e implícitos que acuerdan las cláusulas 3, 5, 10 y 28
+del entonces art. 67 (hoy art. 75 incs. 4, 6, 11 y 32, de la Constitución Nacional)6.
+         Los procesos de integración constituyen un desafío para este postulado, pues supone que los
+Estados vayan relativizando su “soberanía” y reconociendo potestades a una autoridad común que integran,
+la cual definirá cuestiones macroeconómicas y políticas de incidencia directa para los países. A cambio,
+obtendrán ventajas de la misma índole que repercutirá en el crecimiento (o condena) de sus sociedades.
+         La Unión Europea constituyeun ejemplo paradigmático en la materia. La adopción de una moneda
+común fue una de las últimas medidas adoptadas dentro de un proceso de integración progresivo,
+planificado y escalonado. Los condicionamientos de toda índole que desde las “autoridades” comunes
+recibieronlos Estados, el cuestionamiento de sus ventajas y el resurgimiento de planteos nacionalistas
+(sumado a otras cuestiones como la complejidad social; la resignificación del mundo del trabajo; la
+reconfiguración geopolítica con el nuevo rol deChina en el orden mundial; el pluralismo; las crisis sociales
+y económicas, etc.), han puesto en crisis la Unión.
+         Como sabemos, las experiencias en América Latina distan de ello. Ninguno de los procesos de
+integración ha sido exitoso, por cuanto los Estados jamás han logrado construir, sostener y respetar las
+medidas y acciones planificadas como parte del mismo. El Mercosur podría haber sido un proyecto que
+empodere y posicione a la región en el mundo, dándole otro margen de negociación estratégico. Sin
+embargo, muchas de las razones que hoy jaquean el proceso europeo, son las que explican el fracaso en la
+región.
+         La circunstancia de que nunca se llegase a discutir seriamente acerca de la posibilidad de una
+moneda común evitó que se susciten discusiones sobre el alcance de esta cláusula y lo dispuesto en el
+artículo 75 inciso 24, en tanto habilita la aprobación de tratados de integración que deleguen competencias
+y jurisdicción a organizaciones supraestatales en condiciones de reciprocidad e igualdad y que respeten el
+orden democrático y los derechos humanos.Teniendo en consideración la razón de ser de un proceso de
+integración y sus implicancias, podríamos conjeturar su admisión siempre que exista una efectiva
+participación, reciprocidad e igualdad. Remitimos a los comentarios efectuados en dicho inciso.
+         En lo que respecta al alcance de la disposición, cabe consignar que la noción de “moneda” utilizada
+comprende a todo tipo de monedas.En uso de esta facultad, el Congreso ha prohibido toda posibilidad legal,
+reglamentaria, jurisdiccional o contractual de actualización monetaria7.
+
+
+4
+   SCBA LP B 63068 “Sallas, Hortensia Reneé s/Amparo. Cuestión de competencia, art. 6 CPCA”, sent. del 10-7-02, voto del Juez Cafferatta
+(mayoría). La SCBA estaba integrada por conjueces. En sentido concordante, SCBA LP B 62995 “Delfino, Juan M. y otros c/Poder Ejecutivo
+s/Amparo”, sent. del 13-6-03.
+5
+  La moneda nacional constituye “uno de los atributos esenciales de la soberanía argentina y, consecuentemente, una de las instituciones
+fundamentales de la Nación” (CSJN, “Susana Carlota Pacheco Santamarina de Bustillo c/Café Paulista”, ob. cit.).
+6
+  CSJN, “Adolfo Posse y hermano c/Frugoni, Parpaglioni y Cª s/Cobro de pesos”, Fallo 36:177, 1889 (ver fallo de primera instancia que confirma).
+7
+  La ley de convertibilidad incluyó una cláusula por la cual se vedó la posibilidad de actualizar, indexar o repotenciar deudas, impuestos, precios,
+o tarifas de bienes o servicios, a los efectos de las relaciones jurídicas existentes, procurando neutralizar las decisiones judiciales que “restablecían”
+
+[[PDF p. 3]]
+         En relación a esta norma, la Corte sostuvo que constituía una decisión clara y terminante del
+Congreso de la Nación de ejercer las funciones que le encomendaba el art. 75 inc. 11 de la CN el que no
+sólo había derogado disposiciones legales en contrario, sino que obligaba a revisar las soluciones de origen
+pretoriano que admitían el ajuste por depreciación de la moneda8.
+         Lainsostenibilidad del sistema de convertibilidad impuesto, que derivó en la crisis económica,
+social y política del 2001, llevó a la sanción de la Ley Nº 25561. A través de ella se derogó la ley de
+convertibilidad, instituyendo un régimen de emergencia pública y modificación del régimen cambiario que,
+de todas maneras, mantuvo el nominalismo y la prohibición de indexar deudas, impuestos, precios y tarifas
+establecidas en la Ley Nº 23928.
+         La existencia de diferencias abruptas entre el régimen derogado y el instituido en relación al valor
+de la moneda, llevo al establecimiento de uncoeficiente de estabilización de referencia (CER) y un
+Coeficiente de Variación Salarial (CVS) que en cierta forma supusieron laactualización de créditos y deudas
+(Decreto Nº 214/02, 762/02 y 1242/02). Estos coeficientes procuraron lograrrazonabilidad entre la
+protección del derecho de propiedad y el ejercicio de una potestad pública dentro de un marco de
+emergencia (bajo la idea del esfuerzo compartida), a fin de restablecer la seguridad pública ylaconfianza en
+la moneda.
+         En cuanto al sistema de pesos y medidas, el Congreso reglamentó originariamente esta cláusula
+mediante la Ley Nº 52, modificándose posteriormente a través de la Ley Nº 19511. La misma instituyó el
+sistema métrico legal argentino (SIMELA). El mismo está constituido por las unidades, múltiplos y
+submúltiplos, prefijos y símbolos del Sistema Internacional de Unidades y aquellos ajenos al Sistema
+Internacional que figuran en el cuadro de unidades que se incorporan en la ley como anexo. El Poder
+Ejecutivo es quien tiene el deber de actualizarlo y de fijar un patrón nacional para cada unidad que lo admita,
+el cual tendrá carácter de excluyente y será custodiado y mantenido, así como sus testigos, en la forma que
+establezca la reglamentación. El SIMELA es de uso obligatorio y exclusivo en todos los actos públicos o
+privados de cualquier orden o naturaleza (arts. 1, 2, 3 y 14). La norma también determina los instrumentos
+de medición, las autoridades responsables, régimen de sanciones, procedimiento y tasas y aranceles (arts.
+6, 15, 27, 32, 33 y concs.).
+
+
+
+12. Dictar los códigos Civil, Comercial, Penal, de Minería, y del Trabajo y Seguridad Social, en
+cuerpos unificados o separados, sin que tales códigos alteren las jurisdicciones locales,
+correspondiendo su aplicación a los tribunales federales o provinciales, según que las cosas o las
+personas cayeren bajo sus respectivas jurisdicciones; y especialmente leyes generales para toda la
+Nación sobre naturalización y nacionalidad, con sujeción al principio de nacionalidad natural y por
+opción en beneficio de la argentina; así como sobre bancarrotas, sobre falsificación de la moneda
+corriente y documentos públicos del Estado, y las que requiera el establecimiento del juicio por
+jurados.
+
+         Derecho federal:fuentes explícitas en la Constitución9
+         Bajo la denominación genérica de “derecho federal” suele aludirse a la legislación nacional sobre
+materias o contenidos que la CN asigna expresa o tácitamente al gobierno federal, en particular al Congreso
+de la Nación. Es decir, comprende las leyes que este dicta en ejercicio de las facultades que le otorga la CN
+y aquellas otras derivadas que el Poder Ejecutivo (o la CSJN) dicta en ejercicio de su función materialmente
+legislativa10. Los actos particulares que cualquiera de las tres funciones del Estado federal dicta también
+
+el valor de la moneda (depreciada por el proceso inflacionario que ha caracterizado sin solución de continuidad la economía argentina). Ver arts. 7,
+8 y 10 de Ley Nº 23928.
+8
+  CSJN, “Mill de Pereyra, Rita A. y otos c/Provincia de Corrientes”, Fallos 324:3219, 2001, considerando 14 del voto de la mayoría.
+9
+  Por Juan I. Sáenz y Matías A. Sucunza. El presente comentario se estructura y reproduce las ideas expuestas en Sáenz, Juan I., Atribuciones al
+gobierno federal: el derecho federal y la legislación “común” o “de fondo”, inédito.
+10
+   Por ejemplo, reglamentos de ejecución, delegados, autónomos o de necesidad y urgencia dictados por el Poder Ejecutivo u otros actos genreales
+de las secretarías de Estado o entes descentralizados. También las acordadas de la CSJN quedan comprendidas aquí.
+
+[[PDF p. 4]]
+son federales, en función de que emanan de órganosde dicha naturaleza, en ejercicio de sus competencias
+y dentro del mencionado régimen legal. En esos términos, puede decirse que son parte del derecho federal
+genéricamente hablando (aún cuando sean actos de aplicación y no generales).
+         La naturaleza federal de una norma perteneciente al derecho federalsólo se justifica si encuentra
+fundamento en alguna de aquellas facultades o materias que han sido detraídas de las autonomías
+provinciales, centralizadas y uniformadas bajo la competencia del gobierno federal y en estricta relación
+con sus fines. Ello es lo que lo diferencia del llamado derecho local, el cual se encuentra integrado por
+todas aquellas reglas generales sancionadas por los poderes locales en ejercicio facultades propias,
+reservadas y concurrentes11.
+         De esa manera, es posible advertir cómo detrás de cada una de las facultades del gobierno federal
+subyace siempre algún fundamento vinculado con los propósitos enunciados en el Preámbulo o con otros
+fines manifiestos de la organización federal argentina (tales como los de índole económico)12.
+         Hay materias o contenidos del derecho federal que pueden ser fácilmente identificadas porque
+surgen inequívocamente del texto constitucional y/o porque resultan de imprescindible unificación dentro
+de una organización federal que nació bajo la tensión de intereses locales contrapuestos y cuyo
+mantenimiento y perdurabilidad en el tiempo se encontraba sometida a los mismos riesgos de ruptura que
+las frustradas Constituciones de 1819 y 1826.
+         Frente a tal peligro, la CN dotó al gobierno federal de ciertas garantías de supremacía frente a
+eventuales afrentas locales, intentos de secesión o de recuperación de poderes que las provincias cedían13.
+         Son ejemplos típicos de la fortaleza que pretendió asignársele al gobierno federal las facultades de:
+(i) establecer la ciudad capital donde funcionen las autoridades federales, bajo su protección y sólo regidos
+por la legislación exclusiva del Congreso, para así garantizar su normal desempeñocontra todo peligro de
+perturbación14; (ii) disponer la intervención federal a una provincia o a la ciudad de Buenos Aires a fin de
+restablecer el orden republicano o repeler sediciones en los términos de los artículos 6 y 75 inc. 31 de la
+CN15; y, (iii) fijar las fuerzas armadas en tiempos de paz y guerra, y dictar las normas para su organización
+y gobierno (art. 75 inc. 27, CN).
+         La unidad nacional procuró obtenerse a través de una serie de dispositivos:
+         (i) Los arts. 8 y 75 inciso 12 de la CN en cuanto confieren con exclusividad al Congreso sancionar
+una ley de nacionalidad y naturalización16. En nuestro país, dicha condición está asociada al principio del
+nacimineto (es nacional aquel nacido en suelo argentino) o por opción (incorporada mediante Ley N° 34617).
+La Ley N° 16569 declaró que los hijos de argentinos nacidos en el extranjero durante el exilio político que
+hubieran sufrido sus padres son argentinos, en absoluta igualdad jurídica con los nacidos en el territorio
+nacional, bajo las condiciones fijadas en su artículo 2. Por su parte, la Ley N° 25871 reglamentó el régimen
+de admisión, ingreso, permanencia y egreso de personas al territorio nacional (en una norma que se
+consideró de avanzada), el cual fue modificado vía DNU N° 70/17. Dicha decisión fue criticada,tanto por
+la forma en que se produjo su modificación como por sualcance (regulación regresiva desde un enfoque de
+derechos)18.Por último, la reforma de 1994 eliminó del presente inciso el término ciudadanía, lo cual
+reafirmó las potestades locales para sancionar reglas generales en materia electoral vinculadas con dicha
+
+
+
+11
+   Por ejemplo, aquellas disposiciones relativas a la organización del poder, institucional, tributaria, contravencional, educativa, protección del
+ambiente, seguridad, planeamiento urbano, usos del suelo, régimen procedimental y procesal, etc. Como veremos muchas de estas facultades se
+han complejizado en el marco de las leyes de presupuestos mínimos. Los actos particulares de aplicación son locales e integran, genéricamente
+hablando, el derecholocal.
+12
+    Alberdi lo expuso en su “Sistema Rentístico y Económico para la Confederación Argentina” (ver primera parte y conclusión,
+http://www.eumed.net/cursecon/textos/2004/alberdi-sistema.pdf, pp. 7 a 25, 211 y ss.).
+13
+   Por ejemplo, las potestades para cobrar impuestos al tránsito por tierra y por agua (arts. 9 a 12 CN), regular de alguna manera la navegación por
+los ríos interiores (art. 26 y 75 inc. 10) o la acuñación de moneda (art. 75 inc. 6).
+14
+   Remitimos a las consideraciones vertidas en los artículos 3, 75 inc. 30 y 129 de la presente obra y lo prescripto en las Leyes Nº 1024, 23.512 y
+24588.
+15
+   Ha habido más de 130 desde 1853 hasta la fecha. Remitimos a los comentarios a los arts. 6 y 75 inc. 31.
+16
+   La vigente es la Ley Nº 346 de 1869.
+17
+   Ver Leyes N° 14354, 16569, 16801, 20835, 21610, 21795, 23059, 26744 y modificatorias.
+18
+   Remitimos a los comentarios efectuados a los artículos 20 y 25.
+
+[[PDF p. 5]]
+condición. Ello así, a pesar del mantenimiento de la prohibición del artículo 126. Remitimos a los
+comentarios a los artículos 20, 22, 38 y 126.
+         (ii) Otorgar al Congreso de la Nación la facultad exclusiva para fijar los límites exteriores del
+territorio nacional y los que separan las provincias, así como para crear nuevas provincias19.
+         (iii) Un sistema de educación uniforme a través de los “planes de instrucción general” y las “leyes
+de organización y de base de la educación” a que se refiere el art. 75 en sus incisos 18 y 19 tercer párrafo20.
+         La Constitución de 1853 y la centralización de ciertas competencias en el gobierno federal tuvieron
+por objeto también la organización económica del país y el propósito de integrar a la Argentina al sistema
+de comercio mundial de la época como proveedora de materias primas agrícolas y ganaderas. Para ello
+resultaba necesario el aliento de la producción, liberando las trabas internas al comercio y a la circulación
+y la atracción de inversiones extranjeras dirigidas a la infraestructura en ferrocarriles, canales navegables,
+comunicaciones, puertos y/o maquinarias.
+         Para dichas finalidades la Constitución establece: (i) la supresión de las aduanas provincialesy la
+competencia exclusiva del Congreso para fijar aduanas únicamente nacionales donde rige legislación
+aduanera e impuestos federales a la exportación e importación21; (ii) regulación federal exclusiva sobre la
+navegación en los ríos y en el mar territorial22; (iii) relaciones con los demás Estados únicamente a cargo
+del gobierno federal (arts. 27 y 75 incs. 22 y 24, CN); (iv) facultades suficientes del gobierno federal y
+concurrentes con lasreservadas por las provincias para promover el bienestar general (art. 75 inc. 18, CN),
+como en materia de salud y seguridad interior. Sobre salud y medio ambiente cabe destacar el art. 41 CN y
+la legislación federal que establece los presupuestos mínimos de protección del ambiente23; (v) regulación
+federal en materia de emisión de moneda nacional y actividad bancaria, financiera y bursátil24; (vi) la
+regulación federal exclusiva en materia de comercio interjurisdiccional e intereses federales de máxima
+jerarquía; y, (vii) la unificación de toda la legislación de fondo que rige las relaciones privadas en el ámbito
+civil y comercial (relaciones de familia, constitución de personas jurídicas, reglas para la relación acreedor-
+deudor, régimen de los contratos civiles y comerciales, etc.), laboral (todos los aspectos de la relación
+empleador-trabajador) y penal.
+         Por último, la CN prevé la creación de un Estado central fuertemente organizado, sin dependencia
+alguna de las autoridades provinciales y con dotación propia de recursos.Todo ello es fuente de importantes
+normas de derecho federal, como las leyes del Congreso de la Nación que establecen el sistema de defensa
+exterior y la organización de las fuerzas armadas25; las vinculadas a la integración y organización de los
+otros poderes y organismos previstos en la Constitución26; la elección de autoridades nacionales27 y la
+fijación de impuestos aplicables en todo el país y otros recursos (empréstitos) para hacer frente a gastos del
+Estado Nacional (arts. 4 y 75 incs. 2, 3, 4, 7 y 8 CN).
+         En definitiva, componen el llamado derecho federal u orden jurídico federal, todas las normas
+emanadas fundamentalmente del Congreso de la Nación, del Poder Ejecutivo Nacionaly de todos los
+órganos que de él dependen, mediante las cuales se ponen en práctica y ejecución cualquiera de las
+facultades mencionadas u otras otorgadas por la Constitución al gobierno federal.
+
+           La regulación del comercio interjurisdiccional: cuestiones federales
+
+
+19
+   Ver arts. 13 y 75 inc. 15 CN y la Ley Nº 23.775 por la cual se creó la provincia de Tierra del Fuego.
+20
+   Las leyes a lo largo han sido varias a lo largo de la historia constitucional. Desde la Ley de Educación Común Nº 1420 de 1884 hasta la actualmente
+vigente Ley de Educación Nacional Nº 26.206 de 2006, que promueven la formación de la conciencia nacional.
+21
+   Ver arts. 4, 9 y 75 inc. 1, CN y Código Aduanero -Decreto Ley N° 22415 de 1980-.
+22
+   Ver arts. 26, 75 inc. 10 y 126, CN y Ley Nº 20094.
+23
+   Leyes Nº 25675,25831, 26331 y 26639.
+24
+   Ver arts. 75 incs. 6 y 11 CN y Leyes Nº 24441 y 21526.
+25
+   Ver art. 75 inc. 27, CN y Ley Nº 23554.
+26
+   Por ejemplo, leyes de creación y organización de tribunales federales que integran el Poder Judicial de la Nación; fijación del número de miembros
+de la Corte Suprema y de las reglas de su competencia; organización del Consejo de la Magistratura, Ministerio Público, Auditoría General de la
+Nación y Defensor del Pueblo; acefalía presidencial; número, denominación y competencias de los Ministerios del Poder Ejecutivo; creación de
+organismos administrativos autárquicos con funciones específicas, enetre otras.
+27
+   Ver Código Nacional Electoral y leyes complementarias y los arts. 37, 38, 45, 47, 54, 94, 95, 96, 97 y 98, CN.
+
+[[PDF p. 6]]
+         Existe en la Constitución una disposición de suma importancia en el diseño del sistema federal,
+extraída de la Constitución de los Estados Unidosde 1787 y presente en el ideario económico de Alberdi:
+el artículo 75 inciso 13.Esta disposición establece queesfacultad del Congreso reglar el comercio con las
+naciones extranjeras28 y de las provincias entre sí. Remitimos a las consideraciones efectuadas en el inciso
+siguiente (art. 75 inc. 13).
+
+          El derecho federal que se sustenta en razones de seguridad del gobierno federal
+          Existen ciertas situaciones que comprometen la garantía de paz interior, la estabilidad del orden
+federal, la unión nacional y la seguridad de las autoridades nacionales. En estos supuestos, la regulación
+que dicte el Congreso para preservar dichos valores será federal.
+          Su tratamiento no puede dejarse librado a la competencia de las provincias porque: (i) ello resulta
+directamente inconveniente o peligroso, acaso facilitando la formación de milicias locales o movimientos
+conspirativos del gobierno nacional o del orden federal29. Suele decirse que el gobierno nacional provee a
+su autopreservación mediante estas reglas. Algunos sostienen que ella encuentra su base en el inciso 32 del
+art. 75, en cuanto faculta al Congreso de la Nación a “hacer todas las leyes que sean convenientes para
+poner en ejercicio los poderes antecedentes, y todos los otros concedidos por la presente Constitución al
+Gobierno de la Nación Argentina”; y, (ii) por las características de la materia involucrada, resulta
+imprescindible su tratamiento uniforme por parte del gobierno federal, de modo que exista sólo una
+regulación al respecto en todo el país y no tantas como jurisdicciones existen en él.
+          Se pueden citar como ejemplos de normativa federal exclusiva y excluyente en la materia:(i)
+regulación de la actividad nuclear (Ley Nº 24.808);(ii) régimen de armas y explosivos (Ley Nº 20.429); y,
+(iii) la legislación penal especialque pena delitos que se consideran atentatorios de la estabilidad del
+gobierno federal, el normal ejercicio de sus facultades y de los fines políticos y económicos de la
+organización federal de Estado. Por ejemplo, la tenencia de armas de guerra, el alzamiento contra los
+poderes constituidos, la falsificación de moneda, la interrupción de servicios públicos de alcance
+interjurisdiccional, el tráfico de estupefacientes, etc. Algunos se encuentran previstos en el Código Penal,
+aunqueintegrenun derecho penal especial diferente del derecho penal común que abarca todos los demás
+delitos. Otros están regulados en leyes especiales. El conjunto de estos delitos integra el llamado derecho
+penal federal, siendo juzgados por tribunales federales integrantes del Poder Judicial de la Nación (a
+diferencia de los delitos comunes previstos en la mayor parte del Código Penal que son juzgados por los
+tribunales locales de las Provincias).
+
+         La legislación federal dictada en protección de los intereses generales de la población
+         Finalmente, existe un importante cuerpo de legislación cuyo carácter federal encuentra diversas
+justificaciones según el caso. Remitimos a los comentarios realizados al artículo 75 incisos 18 y 19.
+
+         La legislación común o de “fondo”: su delegación y alcance
+         Con independencia del derecho localy del derecho federal, la CN centraliza en la competencia del
+gobierno federal y del Congreso de la Nación el llamado derecho de fondo o común, que es la legislación
+mencionada en la primera parte del artículo 75 inciso 12 (civil, comercial, penal y laboral).
+         Si bien el 75 inc. 12 expresa que corresponde al Congreso dictar los códigos, ello no debe llevar al
+error de pensar que cualquier código que exista en el país está subsumido en esa cláusula, pues está claro
+que existen muchos códigos, algunos del derecho local30 y otros del derecho federal31. Esos códigos nada
+tienen que ver con el art. 75 inc. 12 ni con la legislación común o de fondo.
+         Un código es un cuerpo exhaustivo, unificado y sistemático de artículos y disposiciones. El art. 75
+inc. 12 debiera decir la legislación, que puede estar unificada en un código o dispersa en distintas leyes. De
+
+28
+   La regulación del comercio con los demás países ya se encuentra establecido en el art. 27, pues no existe otra manera de realizarlo que a través
+de tratados internacionales y acuerdos comerciales, por lo que su inclusión aquí es redundante.
+29
+   Dicha circunstancia remite a la etapa de la guerra civil y de las luchas que persistieron hasta finales del siglo XIX.
+30
+   Por ejemplo, códigos contravencionales y de faltas, de tránsito, de edificación, de habilitación de comercios, entre otros.
+31
+   Por ejemplo, códigos aduanero, aeronáutico, electoral, etc.
+
+[[PDF p. 7]]
+hecho, sólo la parte principal de la legislación civil, penal32 y comercial se encuentra inserta en un código,
+pues existen numerosas leyes atinentes a dichas materias que se hallan separadas de los mismos. La
+legislación laboral y de la seguridad social, a su vez, permanece diseminada (v.gr., ley decontrato de trabajo,
+de accidentes laborales, salario mínimo, de feriados y días no laborables, asignaciones familiares, etc.).
+          El sentido que ha tenido esta unificación de toda la legislación de fondo para el país, defendida
+enfáticamente por Alberdi, evidentemente respondía a la necesidad de proveer a la unidad jurídica en todo
+el territorio y a promover el comercio, las inversiones y la inmigración. Se estimó que un medio eficaz para
+lograrlo consistía en igualar las reglas de las relaciones civiles, comerciales y laborales, estableciendo a su
+vez un solo derecho criminal que diera certeza y previsibilidad acerca de las conductas reprochadas bajo
+un parámetro moral uniforme en toda la Nación.
+          En la Argentina, la unidad de la legislación civil, comercial y penal es un elemento del Estado
+unitario incorporado a nuestra CN33.Como lo sostuviese Alberdi, “varios códigos civiles serían la
+codificación de ángulos de la República Argentina: nuevo obstáculo para la unión que se desea; nuevo
+ataque a las prerrogativas de la Nación, a quien corresponde la sanción del código civil único. La capacidad
+personal, el sistema de la familia civil, la organización de la propiedad, el sistema hereditario, los contratos
+civiles, les pactos de comercio, el derecho marítimo: si todo esto llega sólo hasta el Arroyo del Medio,
+frontera doméstica de la Provincia de Buenos Aires, para encontrarse al otro lado con leyes civiles diferentes
+sobre todos esos puntos, sería el espectáculo más triste y miserable a que pudiera descender la República
+Argentina (...) Sabido es que Napoleón I sancionó su código civil con la alta mira de establecer la unidad o
+nacionalidad de Francia, dividida antes de la revolución en tantas legislaciones civiles como provincias (...)
+La legislación civil y comercial argentina debe ser uniforme como ha sido hasta aquí. No sería racional que
+tuviésemos tantos códigos de comercio, tantas legislaciones civiles, tantos sistemas hipotecarios, como
+provincias. La uniformidad de la legislación, en esos ramos, no daña en lo mínimo a las atribuciones de
+soberanía local, y favorece altamente el desarrollo de nuestra nacionalidad argentina”34.
+          Esa legislación es de fondo pues es la que se refiere en general a todo el espectro de relaciones inter
+personales, regulando los aspectos sustantivos de la misma e, inclusive, algunos aspectos procesales
+fundamentales para su realización. También es llamada legislación ordinaria, sustantiva o común.
+          Esa legislación o derecho es común, pues es uniforme en todo el país. En esto nuestros
+constituyentes se apartaron de la Constitución de los Estados Unidos, donde los Estados han mantenido la
+facultad para legislar en dichas materias. Por sólo citar algunos ejemplos de la heterogeneidad que impera
+allí, en algunos Estados existe la pena de muerte y en otros no, otro tanto sucede con la penalización del
+aborto o con instituciones civiles como el contrato prenupcial, el divorcio, la edad para adquirir la plena
+capacidad civil, la libertad para disponer de la herencia, entre otras.
+          Se hallaba en el ideario del constituyente, proveer a la unión nacional mediantela uniformidad de
+la legislación común u ordinaria, además de una ley única sobre adquisición de la nacionalidad sancionada
+por el Congreso o la regulación federal exclusiva en materia de navegación, aduanas, comercio
+interprovincial, normativa base para la educación, emisión de moneda, límites, milicias, etc.
+          No obstante ello, la complejidad de las relaciones, la superposición de funciones o su vinculación,
+ha provocado que las provincias dicten normas que interfieren o incursionan en aspectos de las materias
+sujetas a unificación bajo la legislación nacional de fondo.
+          En relación a ello, ya en 1923 la CSJN sostuvo que constituyen preceptos de fondo o sustantivos
+destinados a regir las relaciones entre deudor y acreedor y, por consiguiente, normas generales del derecho
+
+32
+   Quiroga Lavié sostiene que el hecho de que “al Congreso le haya sido asignada la competencia de dictar el Código Penal, le ha permitido sostener
+a la doctrina, en forma pacífica, que las provincias tienen competencia para crear faltas o contravenciones. Claro está que la diferencia entre uno y
+otro tipo de ilícito es de absoluta relatividad (…) Por otra parte nosotros, desde antiguo, nos hemos resistido a sostener que las provincias no pueden
+crear figuras delictivas dirigidas a proteger bienes jurídicos de su exclusiva competencia local: la hacienda pública provincial, a través de algún
+tipo de malversación o cohecho; el funcionamiento electoral provincial (…) Las provincias crecen a partir de su autonomía, y si las provincias no
+violan garantías constitucionales en su legislación penal local, no encontramos argumentos jurídicos, mucho menos sociológicos, para sostener la
+inconstitucionalidad de este tipo de legislación penal provincial” (Quiroga Lavié Humberto, Constitución de la Nación Comentada. Tercera
+Edición, Zavalia Editor, Capital Federal, 2000, p. 401).
+33
+   Ver Alberdi, Juan B., - Bases y puntos de partida para la organización nacional Ediciones varias.Capítulos XXII y XXIII.
+34
+   Alberdi, Juan B., Bases…, ob. cit., Capítulo XVI: De la legislación como medio de estimular la población y el desarrollo de nuestrasRepúblicas.
+
+[[PDF p. 8]]
+civil, todas aquellas limitan el derecho del acreedor, excluyendo de la posibilidad de ejecución a los objetos
+más indispensables para la vida del deudor, por consideraciones de humanidad (como los bienes muebles
+elementales, los sepulcros y una parte de los sueldos, salarios y pensiones)35. Esto es así porque al atribuir
+la Constitución al Congreso la facultad de dictar el Código Civil, ha querido poner en sus manos lo referente
+a las obligaciones y a los contratos, es decir, a todo lo que constituye el derecho común de las personas
+consideradas en el aspecto de sus relaciones privadas36.
+         También estableció que las provincias y municipalidades pueden ser ejecutadas por el
+cumplimiento de sus obligaciones y embargados sus bienes, en los términos del artículo 42 del (hoy
+derogado) Código Civil, por lo que es inconstitucional cualquier disposición contraria de las leyes
+provinciales, si bien cabía determinar “en cada caso, las rentas o recursos embargables, sobre la base de
+que, siendo aquellas entidades de derecho público, no pueden ser privadas de aquellos cuya falta pudiera
+perturbar su vida y desarrollo”37.
+         En “Cía. Luz y Fuerza c/ Municip. de Córdoba” declaró la inconstitucionalidad del art. 149 de la
+Constitución de Córdoba que excluía a las rentas municipales de los poderes de ejecución o embargo,
+sosteniendo que “cualesquiera que sean las disposiciones de las leyes locales tendientes a substraer de la
+acción de los acreedores los bienes, recursos y rentas de las Provincias o municipalidades contrariando los
+preceptos de la ley civil, no pueden ser válidamente invocadas, pues las relaciones entre el acreedor y
+deudor son de la exclusiva legislación del Congreso Nacional”38.
+         En el caso “Liebig’s” declaró la inconstitucionalidad del por entonces vigente artículo 30 de la
+Constitución de Entre Ríos-en cuanto otorgaba un año de plazo al Estado provincial para cumplir las
+sentencia de contenido pecuniario en que resultara condenada-, por considerarlo contrario al artículo 42 del
+derogado CC, reiterando que “las disposiciones de las leyes locales tendientes a substraer de la acción de
+los acreedores los bienes, recursos y rentas de ese Estado no pueden ser válidamente invocadas pues las
+relaciones entre acreedor y deudor son de la exclusiva legislación del Congreso Nacional”39.
+         Ha dicho la CSJNque “al atribuir la Constitución al Congreso la facultad de dictar el Código Civil,
+ha querido poner en sus manos lo referente a la organización de la familia, a los derechos reales, a las
+sucesiones, a las obligaciones y a los contratos, es decir, a todo lo que constituye el derecho común de los
+particulares considerados en el aspecto de sus relaciones privadas”40. Las provincias no ejercen el poder
+delegado a la Nación y no les está permitido dictar los códigos después de haberlos sancionado el Congreso,
+precepto que no deja lugar a duda en cuanto a que todas las leyes que estatuyen sobre las relaciones privadas
+de los habitantes de la república, sean personas físicas o jurídicas, al ser del dominio de la legislación civil
+y comercial, están comprendidas entre las facultades de dictar los códigos fundamentales que la CN atribuye
+exclusivamente al Congreso41.
+         En “S. A. Bodegas y Viñedos Arizu c/ Provincia de Mendoza” (1929, Fallos 156:20) declaró la
+inconstitucionalidad de la ley de Mendoza sobre salario mínimo.
+         En materia de prescripción también tiene dicho desde antiguo que “Las leyes locales no pueden
+modificar los plazos fijados para la prescripción en las leyes de la Nación, sin violar el art. 67, inc. 11 (hoy
+75 inc. 12) de la Constitución Nacional”42.
+         En “Sandoval, Héctor c/ Provincia del Neuquén"rechazó la excepción de prescripción quinquenal
+opuesta con fundamento en el art. 191 inc. a de la Ley N° 1284 de la Provincia, en la demanda que le
+iniciara un ex empleado del casino provincial, tendiente a obtener el resarcimiento de los daños derivados
+de la rescisión unilateral del contrato en razón del cual prestaba servicios. Sostuvo allí la Corte que “la
+
+35
+   CSJN, “D. de Antonelli, Merita c/ Paniza, Esperandino”, Fallos 138:240, 1923.
+36
+   CSJN, Fallos: 156:20, 36, 37.
+37
+   CSJN, “Roselli, Eliseo F. c/ Prov. de Bs. Aires”, Fallos 171:431, 1934.
+38
+    CSJN, Fallos 188:383, 1940. En similar sentido, Fallos: 61:19; 113:158; 119:117; 121:250; 133:161; 171:431; 172:11; 176:230; 182:498;
+188:383; 198:458; 275:254; 284: 458; F.578 XIX "Frutícola Búfalo S.A.A.C.I.F.I. c/ Río Negro, Provincia de s/ daños y perjuicios", 29-9-1987;
+Fallos: 311:1795; 318:2660; N. 127 XXII "Neuquén, Provincia del c/ Estado Nacional s/ cobro de pesos -regalías- decreto 631- 451", 15-12-1998,
+entre otros.
+39
+   CSJN, Fallos 284: 458, 1972)
+40
+   CSJN, Fallos: 156:20, 36, 37.
+41
+   CSJN, Fallos: 150:320, 326.
+42
+   CSJN, “Diehl de Miguens, María c/ Prov. de Bs. Aires”, 1936, Fallos 176:115; 226:727.
+
+[[PDF p. 9]]
+facultad del Congreso Nacional para dictar tales códigos comprende la de establecer las formalidades
+necesarias para hacer efectivos los derechos que reglamenta. El efecto interruptivo del curso de la
+prescripción atribuido en el art. 3986 del Código Civil a la demanda, aunque fuese planteada ante juez
+incompetente, constituye una formalidad propia del régimen de la prescripción liberatoria, comprendida
+dentro de las facultades de aquél para legislar de manera uniforme sobre los modos de extinción de las
+obligaciones, por lo que el superior tribunal no debió anteponer su ley local a dicho precepto de fondo”43.
+        En “Inmar S.A. c/ Entre Ríos, Provincia de y otro s/ ejecutivo” (1994) rechazó la pretensión de la
+Provincia de someter al régimen de consolidación de deudas y pago con títulos públicos a las obligaciones
+de dar suma de dinero surgidas de un título ejecutivo de carácter comercial (pagaré). Más recientemente,
+en "Banco del Suquía S.A. c/ Juan Carlos Tomassini s/ P.V.E. apelación" (2002) declaró la
+inconstitucionalidad del art. 58 de la Constitución de la Provincia de Córdoba que establece la
+inembargabilidad de la vivienda única. Allí, la Corte reiteró los criterios antes expuestos y expresó que la
+determinación acerca de “qué bienes del deudor están sujetos al poder de agresión patrimonial del acreedor
+-y cuáles, en cambio, no lo están- es materia de la legislación común y, como tal, prerrogativa única del
+Congreso Nacional, lo cual impone concluir que no corresponde que las provincias incursionen en ese
+ámbito”. Añadió que la ley nacional N° 14394 prevé y regula la institución del bien de familia con la
+diferencia que mientras la ella exige una inscripción registral especial para hacer valer los efectos del bien
+de familia, para las normas provinciales la inscripción es innecesaria y el resguardo legal opera
+automáticamente.
+        Las materias civiles y comerciales han sido recientemente unificadas. El Código Civil y Comercial
+sancionado es el resultado de un particular entramado de fuerzas, que consagró normativamente (parte de)
+un cambio de filosofía política, social y económica que se reclamaba y que la Constitución Nacional
+convencionalizada ya reconocía normativamente como parte del acuerdo social y programa de gobierno.
+        Destacan como elementos de ese cambio de concepción del Código, la entronización de la
+Constitución en el título preliminar (para pensar desde allí la sistemática del Código)44, la pluralidad del
+sistema de fuentes y su inserción en la lógica del sistema jurídico45, las numerosas e importantes normas
+procesales fijadas46 o la redefinición de las vinculaciones y límites existentes entre las esferas privadas y
+públicas de la vida de relación individual-social47. También aparece cierta apertura al pluralismo, a la
+(des)igualdad estructural, el reconocimiento y legitimación de sujetos y bienes preferentemente tutelados,
+la desmercantilización de derechos fundamentales48, la colectivización de derechos y la intensificación de
+la regulación estatal en consonancia con dichos hechos. Ello contrasta con la tradición iluminista
+decimonónica, centrada en la individualidad, patrimonialidad, la igualdad formal y el perfeccionismo
+eurocentrista ilustrado (propietario, blanco, heterosexual y masculino) que recorrían la fisonomía del
+Código derogado49.
+        Una cuestión especial genera la regulación sobre bancarrotas. En Estados Unidos constituye una
+facultad del Congreso Federal, quien regula la materia para todos los Estados de la Unión. Con ello, se
+procuró garantizar una legislación uniforme que permitiese realizar los fines inmediatos y mediatos
+43
+   CSJN, Fallos: 256:215, 1997.
+44
+   En ese sentido, Alegre afirma que “la constitucionalización del derecho privado implica echar por tierra con la tradicional pretensión de aislar al
+derecho privado del alcance de los principios constitucionales, sobre todo en lo atinente a estándares de justicia distributiva. La idea tradicional era
+que el derecho privado tiene su propia dinámica, y sus propios principios” (Alegre, Marcelo, A propósito de la reforma al Código Civil. Duguit y
+la constitucionalización del derecho privado, en “Pensar en derecho”, http://www.derecho.uba.ar/publicaciones/pensar-en-derecho/revistas/0/a-
+proposito-de-la-reforma-al-codigo-civil.pdf, 2-3-2015).
+45
+   Al comentar el artículo 1 del Código Civil y Comercial, Lorenzetti señala que “el Código está diseñado para resolver conflictos y en este artículo
+se establecen las fuentes donde se encuentran los criterios de autoridad para esa tarea. El gran cambio respecto del sistema anterior consiste en que
+se admite una pluralidad de fuentes, incluyendo no sólo la ley, sino todo el Derecho. Dentro de ello se destaca la Constitución y los tratados
+internacionales que permiten concretar la constitucionalización del Derecho Privado” (Lorenzetti, Ricardo Luis (Director), Código Civil y
+Comercial de la Nación. Comentado, Tomo I. arts. 1 a 256, RubinzalCulzoni Editores, Santa Fe, 2014, p. 26).
+46
+   Ver Oteiza, Eduardo y Sucunza, Matías, Aspectos generales y procesales del Código Civil y Comercial Unificado, Instituto de Derecho Procesal
+de la UNLP, Editorial Librería Platense, 2016.
+47
+   Son ejemplo de ello la regulación acerca de uniones convivenciales, maternidad subrogada o propiedad colectiva.
+48
+   Ello supone concebir que existen bienes que no pueden concebirse como mercancías sino como derechos (por ejemplo, el acceso al suelo, al
+hábitat y vivienda o la alimentación adecuada).
+49
+   Sucunza, Matías y Verbic, Francisco, El Deber de razonable fundamentación en el Código Civil y Comercial de la Nación: alcance, contenido
+e implicancias, Revista La Ley, Suplemento Especial, 3 de febrero de 2017.
+
+[[PDF p. 10]]
+involucrados en el desarrollo del comercio, obligaciones y circulación de bienes y servicios. En nuestro
+país, que tomó de allí su fuente (art. I, sección 8.4, Constitución Norteamericana), está claro que ella
+constituye una facultad del Congreso. Ello dio lugar a la sanción de la Ley Nº 24.522 y modificatorias (Ley
+de Concursos y quiebras). La duda que se suscitó fue si dicha regulación era federal o común.
+Jurisprudencialmente se ha determinado que ella constituye legislación común que corresponde fiscalizar
+y aplicar a las autoridades locales (salvo que se acredite algún supuesto que determine la existencia de
+competencia federal).
+        Otra facultad que corresponde al Congreso es el establecimiento de juicios por jurados en materia
+penal. A pesar del claro mandato de la presente cláusula, lo establecido en los artículos 24 y 118 de la CN,
+el hecho de que la CSJN reconociese su instrumentación50 y que la reforma constitucional no solo no la
+derogara sino que la reafirmase, el legislador ha omitido su deber reglamentario. Algunas provincias,
+reivindicando las potestades conferidas por los artículos 5, 75 inc. 12 y 121 de la CN (v.gr., organización
+de la justicia, determinación política, potestad de regular los códigos procesales, la vinculación entre
+derechos y reglas de discusión y la revalorización de los medios para la realización de los fines), han
+modificado sus Códigos Procesales Penales introduciendo el juicio por jurados. Remitimos a los
+comentarios efectuados a dichos artículos.
+
+         Aplicación del derecho de fondo por las autoridades provinciales
+         Conforme lo determina el artículo en comentario, la observancia y aplicación de la legislación de
+fondo corresponde a las autoridades de las provincias. Por ejemplo, el Código Civil y Comercial unificado
+regula todo lo atinente a la constitución y registro de personas jurídicas, en cuanto a sus reglas, requisitos
+y condiciones, pero tal reconocimiento y registro se encuentra a cargo en cada provincia por los organismos
+creados a ese efecto (Inspección de Personas Jurídicas o Registro de Personas Jurídicas). Otro tanto ocurre
+con la celebración e inscripción de los matrimonios: institución regulada por el Código Civil y Comercial
+y aplicada por autoridades administrativas (Registro Civil o equivalentes). La transmisión y registración de
+los inmuebles están reguladas en la legislación de fondo, pero se llevan a cabo ante organismos locales
+(Registros de la Propiedad Inmueble). La legislación laboral consagra una serie de derechos de los
+trabajadores, cuya fiscalización y “policía de control” corresponde a las autoridades de control de cada
+provincia. Así podrían seguir enumerándose ejemplos. Los propios establecimientos carcelarios
+provinciales constituyen organismos de aplicación del Código Penal en lo referido a la ejecución de la pena.
+         En lo que hace a la competencia de los tribunales ocurre lo mismo: pertenece a los tribunales locales
+de cada Provincia, salvo que por más que se trate de legislación común corresponda la competencia de un
+tribunal federalen razón de la persona que interviene en juicio o del lugar donde se han verificado los hechos
+del caso. Por ejemplo, si quien resulta actor o demandado es el Estado Nacional, una provincia contra un
+vecino de otra provincia o si es parte un embajador extranjero(art. 116 CN).
+         Asimismo, si por ejemplo en materia penal los hechos imputados se hubieren producido en un lugar
+sometido a la jurisdicción federal (los llamados establecimientos de utilidad nacional a que se refiere el art.
+75 inc. 30 CN o en el mar territorial) ello impone también el desplazamiento de la competencia desde el
+juez local al juez federal. A todo este problema de disquisición entre tribunales locales o federales en la
+aplicación del derecho común se refiere el artículo 75 inciso 12 cuando expresa, con alguna oscuridad,
+“correspondiendo su aplicación a los tribunales federales o provinciales, según que las cosas o las personas
+cayeren bajo sus respectivas jurisdicciones”. Recordemos que para determinar la competencia la CSJN
+establece que deberán ponderarse: (i) de modo principal, los hechos que se relatan en el escrito de demanda
+y su exposición51; (ii) sólo en la medida en que se adecue a ellos, el derecho que se invoca como fundamento
+de la pretensión; y(iii) la naturaleza jurídica de la relación existente entre las partes52.
+         En cuanto a la vinculación entre la aplicación de las leyes de fondo y la organización de justicia
+como potestad local, remitimos a las consideraciones efectuadas en los artículos 5 y 129.
+
+50
+   CSJN, “Ministerio Fiscal c/La Fronda”, Fallos 165:258, 1932.
+51
+   Arts. 4 y concs., Código Procesal Civil y Comercial de la Nación.
+52
+   CSJN, Fallos: 328:73; 329:5514; 308:2230; 320:46; 334:1143; entre muchos otros. En general, sobre la cuestión de la jurisdicción federal,
+remitimos a los comentarios a los artículos 116 y 117 de esta obra.
+
+[[PDF p. 11]]
+         CCC, leyes de presupuestos mínimos y normas procesales53
+         Argentina es un Estado de estructura federal donde la potestad de sancionar los regímenes
+procesales (y administrativo) está reservada a las provincias.
+         El artículo 75 inciso 12 de la Constitución Nacional, prescribe que corresponde al Congreso
+Nacional "Dictar los Códigos Civil, Comercial, Penal, de Minería, y del Trabajo y Seguridad Social, en
+cuerpos unificados o separados, sin que tales códigos alteren las jurisdicciones locales (…)”. Por su parte,
+el artículo 121 reconoce que “Las provincias conservan todo el poder no delegado por esta Constitución
+al Gobierno federal, y el que expresamente se hayan reservado por pactos especiales al tiempo de su
+incorporación".
+         De ese modo, la primera conclusión general a la que puede arribarse, es que en función del reparto
+constitucional de competencias (arts 1, 5, 75 inc. 12, 121 y concs.), son las provincias quienes tienen el
+deber sancionar los Códigos Procesales en ejercicio de sus potestades propias, no delegadas54.
+         No obstante ello, históricamente se han constatado, en diversas leyes comunes, disposiciones
+procesales55. El propio Código de Vélezcontenía numerosas normas de naturaleza adjetiva o concerniente
+a materia procesal56.
+         Su incorporación generó posiciones encontradas en la doctrina autoral. Existían aquellos que
+sostenían que podían dictarse normas procesales para toda la Nación, en tanto sean para la aplicación de
+los Códigos de fondo y permitan asegurar su eficacia (por ejemplo, divorcio) o, cuando establezcan
+formalidades particulares para el ejercicio de determinados derechos. Otros postulaban, con un criterio tan
+restrictivo como desacertado y contradictorio, que lo único reservado a las provincias era la organización
+de los tribunales y la determinación de la competencia. Por último, estaban aquellos que consideraban que
+era conveniente establecer algún cuerpo normativo general sobre aspectos comunes57.
+         Por su parte, al analizar esas disposiciones, la Corte Suprema sostuvo la “constitucionalidad de la
+facultad del Congreso Nacional de dictar normas procesales con el fin de asegurar la efectividad de los
+derechos que consagra la legislación de fondo que le incumbe sancionar”58. Esta constituye una posición
+consolidada del Máximo Tribunal, seguida pacíficamente desde el precedente "Bernabé Correa" de 192359.
+         El Código Civil y Comercial sancionado reitera dicha práctica. Sin embargo, la lectura aun más
+superficial, no sólo permite advertir el aumento notorio de disposiciones procesales, sino también su mayor
+complejidad y especificidad.En este contexto, el interrogante que también vuelve a reeditarse, es si estas
+disposiciones (todas o algunas) son válidas y, en todo caso, cuáles son las razones para sostener su
+afirmación o rechazo.
+         Rosales Cuello y Marino sostienen que “la inclusión de normas de derecho público en un Código
+Civil y Comercial no merece objeciones. El propio texto elaborado por Vélez incluye numerosas normas
+de derecho público que hacen difícil de justificar el carácter estrictamente privatista que históricamente se
+le ha asignado al Código Civil. En este punto es adecuado el enfoque de la Comisión Redactora al decir
+
+53
+   Reiteramos en este apartado las ideas expuestas en Oteiza, Eduardo y Sucunza, Matías, Aspectos generales y procesales del Código Civil y
+Comercial Unificado, Instituto de Derecho Procesal de la UNLP, Editorial Librería Platense, 2016.
+54
+   Afirmando esta premisa, Palacio sostiene que “en forma casi unánime se entiende que -por el sistema de gobierno adoptado con la Constitución
+Nacional- la atribución de legislar materia procesal pertenece, en principio, a cada una de las provincias y no al Congreso de la Nación” (Palacio,
+Lino E., "Derecho Procesal Civil", Tomo I, Buenos Aires, 2011, 3ª Ed. Actualizada, p. 26).
+55
+   Falcón argumenta que esta injerencia de lo nacional en lo provincial debe ser muy restringida: a) Por la autonomía del derecho procesal; b) Por
+la existencia de códigos que el constituyente no puede ignorar (por lo que en caso de no estar de acuerdo había hecho la salvedad); c) Por haber
+mantenido la materia sustancial y la procesal que consideró no delegadas (art. 75, inc. 12). De modo que en principio puede admitirse, pero con las
+limitaciones apuntadas, que el Congreso Nacional puede dictar normas procesales aplicables a las jurisdicciones locales sin que ello altere por sí
+solo el principio del artículo 75 inciso 12 de la Constitución Nacional (Falcón, Enrique M., El nuevo Código Civil y Comercial y el Derecho
+Procesal, RC D 436/2015).
+56
+   El anteproyecto de reforma del Código Civil Unificado de 1998 también incluía un amplio tratamiento procesal de las instituciones de fondo
+legisladas (Morello, Augusto M., Bermejo, Patricia y Morello, María S., Lectura Procesal de Temas Sustanciales, Editora Platense, La Plata, 2000,
+p. 31 y ss.).
+57
+   Por caso, la Ley Nº 22172 sobre notificaciones es un ejemplo de ello. Ver FALCÓN, Enrique M., El nuevo Código Civil…, ob. cit.
+58
+   CSJN, Fallos, 137:307; 138:154 y 157; 141:254; 162:376; 247:524; 265:30; 299:45, entre otros.Sagüés, Néstor P., Elementos de Derecho
+Constitucional, Tomo II, Buenos Aires, 2003, p. 129.
+59
+   CSJN, Fallos 138:157. A este precedente le siguieron los casos "Netto" de 1924 (Fallos 141:254),"Real de Maciel" de 1928 (Fallos 151:315),
+entre muchos otros.
+
+[[PDF p. 12]]
+que debe haber comunicación entre la Constitución Nacional, los principios del derecho público y el
+derecho privado, ya que ésa es la manera en que, en determinadas instituciones, es posible hacer efectiva la
+adecuada concreción de los derechos reconocidos en el Código de fondo. A fin de cuentas, no pueden darse
+los unos sin los otros y eso es lo que determina y justifica su incorporación en el Código”60.
+         Falcón expresa que “(…) si bien las normas procesales pueden estar contenidas en la legislación de
+fondo, para que ello sea viable en un país federal como el nuestro es necesario que la norma sustancial y la
+norma procesal contenida en la ley de fondo tengan una relación de necesidad y de preservación de los
+intereses superiores y generales de la Nación, de modo que la regla procesal esté determinada como una
+solución adecuada en tanto una norma procesal distinta puede hacer cambiar el sentido dado por el
+legislador a la norma sustantiva”, aunque aclara que “(…) desde el punto de vista sistémico la cuestión
+tiene menos importancia, a menos que se avance decididamente sobre derechos que tienen las provincias
+de manera específica y exclusiva (como sería el caso de crear por la Nación tribunales provinciales), dado
+que el estudio del derecho sustancial por un lado y del procesal por el otro responde a un criterio analítico
+de estudio e investigación, pero que en la práctica del proceso desaparece”61.
+         De allí que este autor postule un criterio selectivo según la caracterización y tipo de norma. En ese
+sentido, argumenta que “algunas de las cuestiones sobre las que se expresa el nuevo Código, como por
+ejemplo sujetos, sociedades, representación, domicilio o prejudicialidad, tienen indudablemente una base
+sustancial necesaria y han sido resueltas bastante adecuadamente, respecto de problemas que estaban
+pendientes. Otras cuestiones no son propias del ordenamiento de fondo y resultan de algún modo
+concurrentes, como el caso del Recurso de Revisión al que afecta a través de la acción autónoma de nulidad
+para la cual fija un año como tiempo de la prescripción (art. 2564, inc. f), la determinación de supuestos de
+improponibilidad objetiva de la demanda (o mejor dicho improponibilidad de la pretensión), lo que evita
+procesos inútiles, como en los casos de inadmisibilidad de la impugnación de filiación matrimonial o
+extramatrimonial de los hijos nacidos mediante el uso de técnicas de reproducción humana asistida cuando
+haya mediado consentimiento previo, informado y libre a dichas técnicas, de conformidad con este Código
+y la ley especial, con independencia de quién haya aportado los gametos (regla del art. 577 que se reitera
+en los arts. 592 y 593), o la imposibilidad de contratar (arts. 1001 y 1002)”62. Por último, en relación a otras,
+destaca la importancia de la restricción operada, por tratarse “(…) de problemas específicamente procesales,
+como por ejemplo en el art. 6 cuando habla de la forma de contar los intervalos de derecho (…). O en otros
+aspectos cuando remite a procesos específicos del sistema procesal para el tratamiento de instituciones
+(…)”, concluyendo en que “(…) el actual Código Civil y Comercial se ha excedido en el tratamiento de las
+cuestiones procesales, invadiendo en muchos aspectos el ámbito provincial”63.
+         Por su parte, Leguisamón opina que “El nuevo Código Civil y Comercial contiene, traspasando el
+art. 75, inciso 12, de la Constitución Nacional, considerable cantidad de normas de naturaleza procesal, y
+también otras que impactan o influyen en el proceso judicial que, por tratarse de materia sustancial, deben
+ser reguladas por la legislación de fondo”, precisando que “no es que no esté de acuerdo con lo que disponen
+tales normas, sino que estén incluidas en el Código sustantivo, puesto que, en palabras del senador Guinle
+en el debate en la Cámara de Senadores -aunque en su intervención se refirió a la responsabilidad del
+Estado- se trata de ‘una cuestión de competencias de la Constitución Nacional, que es lo que hay que
+respetar, y no la mera conveniencia’”64.
+         Asimismo, de los fundamentos del Anteproyecto puede leerse que:
+         (i) “En el Proyecto de 1998 se incluyen normas relativas a la carga de la prueba en materia de
+responsabilidad, lo que ha sido recibido positivamente por la doctrina, ya que disminuye la litigiosidad y
+confiere seguridad en este tema”, afirmando que “este tipo de normas no es procesal, sinoque son directivas
+sustantivas dirigidas al juez a fin del dictado de la sentencia en ausencia de pruebas concretas sobre el tema
+60
+   Rosales Cuello, Ramiro y Marino, Tomás, Las normas procesales en el nuevo Código Civil y Comercial, SJA 2014/11/26-3; JA 2014-IV, 2014-
+11-26.
+61
+   Falcón, Enrique M., El derecho procesal en el Código Civil y Comercial de la Nación, RubinzalCulzoni Editores, Santa Fe, 2014, pp. 149-150.
+62
+   Falcón, Enrique M., El nuevo Código…, ob. cit..
+63
+   Falcón, Enrique M., El nuevo Código…, ob. cit.
+64
+   Leguisamón, Héctor E., Algunas normas de naturaleza y de ingerencia procesal en el nuevo Código Civil y Comercial, en Apuntes sobre el Nuevo
+Código Civil y Comercial de la Nación, Tomo II, IJ-XCIII-57.
+
+[[PDF p. 13]]
+a decidir. En tales casos, se establece cómo debe distribuir ese riesgo probatorio y a quién adjudicarlo” (la
+itálica nos pertenece).
+         (ii) En relación al modo de contar los intervalos del derecho, “(…) este Título no ha merecido
+críticas, excepto en la cuestión referida al plazo de gracia que, como el propio proyecto lo dice, es una
+cuestión procesal. Teniendo en cuenta que, además de no ser derecho de fondo, este aspecto puede variar
+según las provincias y los temas regulatorios, esta Comisión no lo incorpora, dejando que cada
+ordenamiento procesal se ocupe de resolverlo, como sucede actualmente, excepto lo dispuesto en materia
+de prescripción, en tanto, en ese ámbito, resulta necesario dar una solución armónica en todo el territorio
+nacional” (la itálica es propia).
+         (iii) Analizando el matrimonio, “Las modificaciones de fondo mencionadas producen
+transformaciones en el plano procedimental. En efecto, se suprimen varias de las reglas que prevé el Código
+Civil en el artículo 236, entre otras, las facultades judiciales de conciliación y la doble audiencia en un plazo
+de tiempo determinado. No se establecen otras reglas específicas, por considerar que no resulta necesario
+avanzar sobre las reglas procesales locales. Los cambios mencionados mejoran el servicio de justicia al
+poner fin a ciertos debates sobre los cuales no hay criterios uniformes, perjudicando al justiciable por la
+falta de seguridad jurídica” (la itálica nos pertenece).
+         (iv) “El Anteproyecto sigue la línea legislativa del Proyecto de 1998 que regula en un Título
+especial cuestiones relativas a las acciones de estado de familia, pero de un modo más amplio, extendiendo
+el Título no sólo a este tema sino también a los procesos de familia en general. En este sentido, se enumeran
+los principios generales de los procesos de familia, surgidos de los principales avances y consideraciones
+esgrimidas a la luz del derecho procesal constitucional de la familia”.
+         (v) “En la regulación de estos aspectos (se refiere a los daños a los derechos de incidencia colectiva)
+se han evitado las cuestiones procesales, que no corresponden al ámbito del Código. Sin embargo, es
+necesario dar algunas directivas genéricas y sustantivas sobre el funcionamiento de los procesos
+colectivos, tanto para las acciones reguladas en el Código como para suplir las que no han sido previstas en
+la legislación especial del derecho del consumidor”.
+         De ello puede concluirse que las razones que primaron en los redactores del Código para incorporar
+disposiciones de naturaleza procesal, fue considerar que algunas de ellas eran derechos o “directivas” de
+fondo; que constituían medios (necesarios) para la efectividad de los derechos regulados; y/o, que eran
+convenientes para uniformar criterios en todo el territorio y, de esa manera, mejorar la protección igualitaria
+de los derechos en juego.
+         Estas razones parecen estar en línea con el criterio que, tal como lo señalásemos, la Corte Suprema
+tiene en el punto. Sin embargo, hay algunos datos que pueden ponerlo en crisis y que complejizan la
+cuestión. Por ejemplo, el aumento de su número, el alcance de las disposiciones, su complejidad y
+especificidad. Otro dato ambivalente, según cómo se lea, es la posición y argumentos dados por el
+Legislativo y Ejecutivo para eliminar cuestiones como las regulaciones de los procesos colectivos y
+mantener otras de similar índole.
+         Ante este escenario, Rosales Cuello y Marino sostienen que “No parece ya posible unificar todas
+las reglas que versan sobre aspectos procesales en una única categoría (v.gr., ‘normas procesales’,
+‘disposiciones procesales’, etc.), ni tampoco su inclusión en un Código de fondo puede ser explicada -y
+eventualmente justificada- únicamente a la luz de la ya referida doctrina del Máximo Tribunal federal”65.
+         De todos modos, la posición del Código podríasustentarse en los siguientes argumentos:
+         (i) El hecho normativo de la constitucionalización del derecho y su recepción en el Código,
+loscuales conllevan pensar a las garantías para la realización de las prerrogativas como mecanismos
+constitutivos del derecho mismo (bajo el principio normativo de la indivisibilidad e interdependencia) e
+
+65
+  De allí que sostengan que “(…) no todas las ‘normas procesales’ incluidas en el nuevo Código Civil y Comercial son de idéntica naturaleza.
+Algunas de ellas efectivamente son reglas derecho procesal; otras, en cambio, son normas que versan sobre aspectos vinculados al proceso, pero
+que no por ello dejan de ser derecho sustancial. Finalmente, dimos cuenta de que hay disposiciones -algunas, incluso, de carácter público- que
+constituyen una regulación del derecho a la tutela judicial efectiva y el debido proceso, dando forma a un estándar mínimo de derecho común
+aplicable a todo el territorio nacional y que habrá de concurrir con una legislación complementaria de tipo provincial” (Rosales Cuello, Ramiro y
+Marino, Tomás, Las normas procesales…, ob. cit.).
+
+[[PDF p. 14]]
+imprescindibles para su protección. Pensemos, por caso, en los estándares de mínima que el debido proceso
+colectivo constitucional-convencional supone.
+         (ii) La existencia de una serie de sujetos y bienes preferentemente tutelados (constitucional-
+convencionalmente), que requieren la construcción de pisos sustantivos y/o adjetivos mínimos en tanto
+componentes fundamentales de sus derechos, especialmente en el marco de un Estado Federal como el
+nuestro.
+         La legislación contiene una serie de tutelas diferenciadas que cuentan con diversos esquemas de
+contenidos básicos comunes66, las cualesdeben entenderse como medios que permiten garantizar la
+efectividad de derechos y que posibilitan a las jurisdicciones locales a ampliar el marco de protección en
+ejercicio de facultades concurrentes y/o propias. Con ello se obtiene una mejor protección del derecho,
+armonizando la interrelación de potestades dentro del marco de distribución constitucional de
+competencias.
+         (iii) La circunstancia de que las normas procesales incorporadas han sido instituidas con el fin de
+asegurar y maximizar la efectividad de los derechos que consagra el propio Código.
+         (iv) Debido a que los dispositivos procesales reglamentados responden, en líneas generales, a los
+recaudos de necesidad, especificidad y suficiencia que justifican su presencia en un Código de fondo.
+         (v) La imposición de este tipo de normas, en tanto garantías directamente vinculadas a los derechos
+reconocidos, procura generar uniformidad y homogeneizar su reconocimiento igualitario en todo el
+territorio, circunstancia que de otro modo podría verse socavado o desconocido.
+         (vi) Las particularidades de nuestro régimen federal, su estructura e intensidad, las cuales
+justificarían el dictado de disposiciones de este tipo. En ese sentido, la delegación realizada en pos de la
+sanción de normas comunes, sumado a la constitucionalización señalada y la importancia para la tutela de
+los derechos de reglas y estándares procesales (bajo la idea de presupuestos mínimos), permitiría afirmar
+su necesidad y conveniencia.
+         (vii) La omisión de sancionar reglamentaciones adecuadas y/o de controlar que las existentes
+respeten los estándares de mínima en términos unidimensionales (sustantivo-adjetivo), constituye una
+violación a los derechos humanos (directa o indirectamente vinculados) que entraña responsabilidad
+internacional.
+         En consonancia con ello, la Corte Interamericana de Justicia ha sostenido inveteradamente que “un
+Estado no puede alegar su estructura federal para dejar de cumplir una obligación internacional”67.
+         Asimismo, la Convención de Viena sobre el Derecho de los Tratados dispone en su artículo 27 que
+“una Parte no podrá invocar las disposiciones de su derecho interno como justificación del incumplimiento
+de un tratado. Esta norma se entenderá sin perjuicio de lo dispuesto en el artículo 46”.
+         Además, tanto el PIDESC como el PIDCP expresamente establecen que los mismos son aplicables
+en toda la extensión territorial sin excepción o limitación de algún tipo. De ese modo, de manera idéntica
+prevén que “Las disposiciones del presente Pacto serán aplicables a todas las partes componentes de los
+Estados federales, sin limitación ni excepción alguna” (arts. 28 y 50, respectivamente).
+         De allí que, como exponeDulitzky, “los Estados Federales parte de la Convención Americana son
+plenamente responsables a nivel internacional por las violaciones cometidas por acción o por omisión, por
+agentes estatales de sus unidades componentes. Además, el Estado Federal está obligado a adoptar las
+medidas necesarias a nivel interno para asegurar su cumplimiento en el ámbito de las provincias. Una
+lectura conjunta de los artículos 1.1, 2 y 28 de la Convención implica que todo Estado parte de la
+Convención con estructura federal que no se encuentre garantizado el libre y pleno ejercicio de todos y cada
+uno de los derechos reconocidos en la Convención para todas las personas bajo su jurisdicción,
+independientemente de que las mismas se encuentren dentro del ámbito de competencias del gobierno
+
+66
+   Por ejemplo, Ley General del Ambiente (Nº 25675), Ley de Defensa del Consumidor (LDC) Nº 24240 y modificatorias, Ley Nº 26657 (Protección
+a la Salud Mental), Ley Nº 26061 (Sistema de Protección Integral de los Derechos de los Niños, Niñas y Adolescentes), Ley Nº 26485 (Para
+prevenir, sancionar y erradicar la violencia contra las mujeres), Nº 22431 (Sistema de Protección Integral de los Discapacitados), entre otras.
+67
+   Corte IDH, Caso Garrido y Baigorria, Reparaciones (art. 63.1, Convención Americana sobre Derechos Humanos), sentencia de 27 de agosto de
+1998, Corte IDH. (Ser. C) Nº 39, párr. 46; Resolución de la Corte Interamericana de Derechos Humanos, de 7 de julio de 2004, Medidas
+Provisionales, Respecto de la República Federativa del Brasil, Caso de la Cárcel de Urso Branco, voto concurrente del Juez A. A. CançadoTrindade.
+
+[[PDF p. 15]]
+federal o de una de las unidades territoriales de la federación, se encuentra en la obligación de adoptar la
+legislación o las medidas que sean necesarias según su ordenamiento interno para cumplir con ese fin”68.
+         El debate que deja latente el CCC es el de la necesidad de contar con tantos códigos procesales
+como provincias tiene el país. La posición asumida por el CCC fue hacer de la excepción la regla sin
+importar la atribución otorgada por las provincias.
+         Solamente México, en América Latina, mantiene el criterio de la existencia de un código procesal
+por Estado. No puede atribuirse a esa decisión la crisis de la situación de la justicia en México, pero es uno
+de los factores que no ayudan a plasmar una reforma que mejore la actual situación. Entre 1890 y 1934
+Brasil adscribió a un federalismo que otorgaba a los Estados la potestad de dictar la legislación Procesal.
+Desde el año 1934 el Congreso Brasileño es el encargado de dictar el Código Procesal.
+         Al reconocer que los derechos y las vías para hacerlos efectivos constituyen una sola matriz, la
+discusión sobre medios esencialesque tiene, no resulta muy convincente. Frente al paulatino acercamiento
+de las legislaciones procesales en América Latina, la reserva de la propia regulación frente a un derecho
+sustantivo unificado debería ser nuevamente discutida. En los hechos el gobierno de facto de la
+autodenominada Revolución Argentina impuso con la ley 17.454 de 1968, cuya estructura sigue dominando
+las legislaciones procesales locales, una uniformidad no resistida hasta el presente. Más que discutir
+aferrados a la práctica de quebrantar la regla se debería ver bajo que perspectiva normativa se brinda mayor
+efectividad a la hora de reclamar la vigencia efectiva de los derechos. Se debería hablar en serio de derechos
+y remedios, de ambos aspectos de una misma ecuación, ya que sin vías aptas todos los derechos son meras
+expectativas fácilmente vulnerables.
+
+        Conflictos y procesos colectivos: jurisdicción y reglas69
+        Como mencionásemos, dentro de la estructura federal la potestad de sancionar los regímenes
+procesales (y administrativo), está reservada a las provincias (arts 1, 5, 75 inc. 12, 121, 123 y concs.). En
+este marco, la regulación de los procesos colectivos aparecería como una potestad propia de las mismas.
+        Sin embargo, consideramos que esta clase de procesos conlleva una serie de dificultades adicionales
+que producen tensiones en el ejercicio de esa potestad y que deberían ser sopesadas al momento de legislar
+sobre la misma o de escrutar su constitucionalidad.
+        Entre esas dificultades, nos interesa señalar tres. La primera está asociada con el alcance y
+dimensión que los conflictos colectivos suelen suponer. La segunda con el correcto procesamiento de esos
+conflictos, la reiteración de múltiples procesos en diversas jurisdicciones y la eficacia de una sentencia
+colectiva. La tercera, con el respeto por parte de las regulaciones locales de los estándares de mínima que
+el debido proceso colectivo constitucional-convencional supone.
+        Todas estas cuestiones nos interpelan acerca de la necesidad de trabajar seriamente en algún tipo
+de concertación en la materia. Las modalidades pueden ser múltiples. Puede trabajarse con un esquema
+estructural, de mínima o complementario. Lo importante, en todo caso, es entender que debe existir un
+trabajo conjunto (coordinación y/o concertación) que permita estructurar un sistema de procesamiento
+colectivo adecuado.
+        También es oportuno recordar la existencia, validez y necesariedad, propia del federalismo de
+concertación o de la uniformidad del derecho sustantivo en juego (donde las potestades reglamentarias
+locales ceden o deben compatibilizarse), de normas de presupuestos mínimos70. En ese sentido, debe
+entenderse que esos presupuestos mínimos (en términos de recursos, medios o justiciabilidad), son los que
+
+
+68
+   Dulitzky, Ariel E., Implementación del Derecho Internacional de los Derechos Humanos en los sistemas federales. El caso de la Convención
+Americana sobre Derechos Humanos y la República Argentina, en Abramovich Víctor, Bovino Alberto y Courtis Christian, La aplicación…, ob.
+cit., p. 51. Ver Dulitzky, Ariel, Artículo 28. Cláusula Federal, en Convención Americana sobre Derechos Humanos. Comentario, Steiner Christian
+y Uribe Patricia (Editores), Konrad Adenauer Stiftung, Colombia, 2014, pp. 687-706.
+69
+    Reiteramos aquí las ideas expuestas en Sucunza, Matías A., El derecho constitucional-convencional al debido proceso colectivo:
+conceptualización e interpelaciones en pos de su efectividad, en Revista de Derecho Público, Santa Fe, RubinzalCulzoni, 2016-I, pp. 105-163.
+70
+   Por ejemplo, Ley General del Ambiente (Nº 25675), Ley de Defensa del Consumidor (LDC) Nº 24240 y modificatorias, Ley Nº 26657 (Protección
+a la Salud Mental), Ley Nº 26061 (Sistema de Protección Integral de los Derechos de los Niños, Niñas y Adolescentes), Ley Nº 26485 (Para
+prevenir, sancionar y erradicar la violencia contra las mujeres), Nº 22431 (Sistema de Protección Integral de los Discapacitados), entre otras.
+
+[[PDF p. 16]]
+permiten garantizar la efectividad de los derechos que se reconocen. De allí, el deber de superar el control
+de su constitucionalidad-convencionalidad.
+         Lo expuesto cobra mayor importancia, si tenemos en consideración que entre los regímenes
+procesales locales en materia de tutela colectiva de derechos existentes, pueden señalarse críticas similares
+a las ensayadas respecto de la LGA y la LDC71. Es decir, que no superarían un test de razonabilidad, al no
+garantizar en debida forma los componentes fundamentales del debido proceso colectivo.
+         En la Provincia de Buenos Aires, la Ley Nº 13928 regula no sólo el amparo individual sino el
+colectivo (art. 7). De ese modo, a pesar de que al regular distintos aspectos del procesamiento colectivo
+observa algunos de los requisitos estructurales que la Corte Suprema reconociese en “Halabi”, regula
+parcialmente algunos (como la representatividad adecuada) y omite otros (como modulaciones especiales
+en cautelares, ejecución, etc.). Asimismo, si bien las reglas pueden ser utilizadas por los jueces para tramitar
+conflictos colectivos bajo formas ordinarias, ello no suple la ausencia de un régimen coherente y sistémico.
+         Por su parte, en la Ciudad Autónoma de Buenos Aires, el amparo se encuentra regido por la Ley
+Nº 2145, aunque carece de un trámite específico para regular los conflictos colectivos dentro de éste debido
+a que el artículo 27 de la misma, fue vetado por el Poder Ejecutivo72.
+         En la Pampa, la Ley Nº 1352 establece el régimen de procedimientos para el amparo de los intereses
+difusos o derechos colectivos73, la cual en su artículo 11 reconoce que “el proceso se tramitará conforme a
+las normas establecidas en el Código Procesal Civil y Comercial de la Provincia para el proceso sumario,
+en cuanto no resulten específicamente modificadas por la presente Ley”.La Ley V Nº 84 de la provincia de
+Chubut, dispone en su artículo 15 que “el juez o tribunal, a petición de parte o de oficio, subsanará todos
+los vicios e irregularidades del procedimiento, asegurando, dentro de la naturaleza sumarísima de esta vía,
+la vigencia del principio de contradicción (…)”, agregando en su artículo 16 que “las normas procesales
+establecidas en el Código Procesal Civil y Comercial para la sustanciación del proceso sumarísimo, son de
+aplicación subsidiaria en la tramitación de la acción de amparo”.Por su parte, la Ley Nº 6170 (Acción de
+amparo de la provincia de Corrientes) reconoce, en los amparos colectivos, el deber de impulso de oficio y
+con la mayor celeridad el proceso (art. 6), remitiendo supletoriamente para la tramitación de la acción
+pertinente a las disposiciones del Código Procesal Civil y Comercial de la Provincia para el juicio
+sumarísimo (art. 32).La provincia de Río Negro regula a través de su Ley Nº 2279 el procedimiento para el
+ejercicio del amparo de los intereses difusos y/o derechos colectivos, estatuyendo diversos tipos de
+acciones para la protección de disímiles bienes y derechos colectivos (arts. 1, 2 y concs.). Como vemos,
+estas reglamentaciones adolecen de déficits idénticos a los señalados con anterioridad.
+         Por último, debemos recordar que la omisión de sancionar reglamentaciones adecuadas y/o de
+controlar que las existentes respeten los estándares de mínima de todo proceso colectivo, constituye una
+
+
+71
+   Verbic, Francisco, El remedio estructural de la causa “Mendoza”. Antecedentes, principales características y algunas cuestiones planteadas
+durante los primeros tres años de su implementación, Revista Anales de la Facultad de Ciencias Jurídicas y Sociales de la UNLP.
+72
+    En un reciente precedente, el Juzgado en lo Contencioso Administrativo y Tributario N° 13 de la Ciudad de Buenos Aires resolvió el 19 de
+noviembre de 2015 en autos “Asociación Civil Vecinos de Barrio Parque y Palermo Chico c/ GCBA s/ Amparo” (Expte. N° A38698-2015/0),
+reconocer prima facie la legitimación de la actora para promover el caso y ordenar la realización de numerosas medidas de publicidad y difusión
+para garantizar el conocimiento del proceso por parte del grupo afectado y permitir la intervención de sus miembros en la discusión. En lo que
+interesa, la decisión consideró que: (i) “la legislación no prevé un trámite específico para los procesos que tienen por objeto la protección de
+derechos de incidencia colectiva” debido al veto que en el año 2006 sufrió el art. 27 de la Ley de Amparo de la Ciudad N° 2145 (considerando 3);
+y que (ii) “Sin perjuicio de ello, la Corte Suprema de Justicia de la Nación, ante similar carencia legislativa en el orden nacional, ha sostenido
+que la “disposición constitucional es claramente operativa y es obligación de los jueces darle eficacia”, para lo cual ha señalado una serie de
+pautas a seguir frente a este tipo de procesos” (considerando 4). En particular, el fallo recordó lo sostenido por la CSJN en “Halabi”, “PADEC c.
+Swiss Medical“ y otros precedentes con relación al carácter esencial que reviste la toma de medidas para garantizar en cada caso “un procedimiento
+apto para garantizar la adecuada notificación de todas aquellas personas que pudieran tener un interés en el resultado del litigio, de manera
+de asegurarles tanto la alternativa de optar por quedar fuera del pleito como la de comparecer en él como parte o contraparte. Es menester, por
+lo demás, que se implementen adecuadas medidas de publicidad orientadas a evitar la multiplicación o superposición de procesos colectivos con
+un mismo objeto a fin de aventar el peligro de que se dicten sentencia disímiles o contradictorias sobre idénticos puntos” (considerando 4).
+73
+   Su artículo 1 establece que “la presente Ley regulará el procedimiento para el amparo de los intereses difusos o derechos colectivos relacionados
+con: a) La defensa del medio ambiente y del equilibrio ecológico, preservando de las depredaciones o alteraciones del aire, las aguas, el suelo y sus
+frutos, los animales y vegetales incluyendo la defensa contra la contaminación sonora; b) La conservación de los valores estéticos, históricos,
+urbanísticos, artísticos, arquitectónicos, arqueológicos y paisajísticos; c) Con la defensa de los derechos e intereses del consumidor y d) Con la
+defensa de cualquier otro bien que responda, en forma análoga, a necesidades de grupos humanos a fin de salvaguardar la calidad de la vida social”.
+En relación a las acciones previstas, véanse los arts. 2, 3, 4, y 5.
+
+[[PDF p. 17]]
+violación a los derechos humanos (directa o indirectamente vinculados) que entraña responsabilidad
+internacional.
+        La reciente Acordada Nº 12/2016 pone en evidencia las objeciones señaladas, tanto al regular los
+aspectos asociados al deber de registración, su actualización o las reglas de prevención, como al reconocer
+que “sólo los tribunales nacionales federales, en el marco de procesos colectivos comprendidos en la
+Acordada Nº 32/2014, deberán ajustar su actuación” a lo establecido en ella (artículo II) e “invitar a los
+superiores tribunales de justicia de las Provincias y de la Ciudad de Buenos Aires a celebrar convenios con
+esa Corte que permitan compartir la información almacenada y facilitar el acceso recíproco ilimitado a los
+registros respectivos” (artículo III).

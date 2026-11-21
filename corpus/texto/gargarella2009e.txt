@@ -1,0 +1,888 @@
+# fuente: Unidad15/2_Gargarella - 2009 - Constitucionalismo y Privacidad.pdf
+# md5_original: 63552e10fbddd610bd887bd5a7d27872
+# via: ocr
+# modo_ocrmypdf: nuevo
+# motor: ocrmypdf + tesseract spa (300 dpi)
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                    CAPÍTULO XXIX
+
+                CONSTITUCIONALISMO Y PRIVACIDAD
+
+
+                             Por ROBERTO GARGARELLA
+
+
+
+  L INTRODUCCIÓN
+
+       Según la filosofía política contemporánea, pocas preguntas son más
+ importantes en la actualidad que la referida a los límites del uso legítimo
+ de la coerción estatal. Ello, sobre todo, cuando reconocemos que vivimos
+ en sociedades marcadas por la existencia de radicales diferencias en cuanto
+ a los valores que defendemos. En efecto, una de las características cen-
+ trales de estas sociedades es la existencia —al decir del filósofo John
+ Rawls— del “hecho del pluralismo razonable”, vale decir, el hecho de que
+ distintas personas defienden visiones muy diferentes sobre cómo vivir, qué
+ proyecto de vida perseguir. Estas diferencias hacen que sea muy comple-
+jo regular el uso de los poderes coercitivos del Estado porque cada grupo
+ puede llegar a reclamar el uso de los recursos estatales en defensa de los
+intereses de su parcialidad (i.e., para declarar obligatoria la educación en
+ciertos valores religiosos), y a pesar de que otros grupos rechacen fervien-
+temente dichas propuestas. Pero ocurre que dichas diferencias son tan
+inevitables como comprensibles y, finalmente, razonables, sobre todo
+cuando tomamos en cuenta los diferentes elementos que distinguen y li-
+Mitan nuestro ejercicio de la razón !.
+
+
+      | Entre tales elementos podemos citar, por ejemplo, el hecho de que frente a cual-
+quiera de las cuestiones en las que disentimos la evidencia a la que tenemos acceso es
+demasiado compleja, y por tanto difícil de evaluar; el hecho de que aun cuando estamos
+de acuerdo acerca de cuáles son las consideraciones relevantes, las sopesamos de modo
+diferente, y llegamos por tanto a juicios diferentes; el
+                                                           hecho de que muchos de los con-
+“£ptos que usamos son vagos y requieren interpretaciones; el hecho de que nuestra pro-
+Pla experiencia moldea, hasta cierto punto, el modo en que determinamos qué evidencia
+
+[[PDF p. 2]]
+   780     IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+        La pregunta planteada por la filosofía política, entonces, Mantiene
+   su vigencia, tanto como la dificultad para contestarla. A la hora de empren.
+  der dicho ejercicio, de todos modos, es difícil no comenzar haciendo re-
+  ferencia a la respuesta dada por John Stuart Mill a través de la enuncia.
+  ción de su famoso “principio del daño”. Según Mill, en efecto, era posible
+  apelar a una única y simple respuesta frente a cuestiones tan dilemáticas
+  como la citada. En su opinión, expresada en su reconocida obra On Liberty,
+  el único fin que justifica el uso de la coerción estatal en contra de la
+  voluntad de algún individuo es el de prevenir el daño a terceros?. Esta
+  respuesta, por supuesto, requiere muchas clarificaciones, y es a la vez muy
+  polémica, pero la intuición de Mill sigue teniendo importancia, y así tam.-
+  bién las razones aportadas por Mill en defensa de la misma.
+       El filósofo daba varios argumentos en defensa de su postura. Por un
+  lado, partía de la idea de que cada individuo era el mejor juez de sus pro-
+  pios intereses, y destacaba el valor de las ideas de libertad y autonomía
+  para nuestras vidas. Sostenía que en honor de dichos valores cada perso-
+  na debía ser autorizada a equivocarse, experimentando formas de vida
+  diferentes, hasta reconocer cuál era la forma de vida que prefería seguir.
+  Sostenía que ello no implicaba ser indiferente respecto del modo de vida
+ adoptado por los demás: el punto era que —para respetar la libertad de
+ pensamiento y elección de los otros— debía tratarse, en todo caso, de per-
+ suadir a quienes no actuaban del modo en que nosotros creíamos que debía
+ actuarse, en lugar de pasar a imponerles cierto estilo de vida, que noso-
+ tros creíamos mejor para ellos. Por lo demás, agregaba, cualquier impo-
+ sición tendía a ser autofrustrante: ¿de qué sirve, por ejemplo, imponerle
+ a alguien que concurra diariamente a una celebración religiosa, si esa per-
+ sona no se encuentra internamente identificada con tal religión? ¿De qué
+ sirve obligar a alguien a entonar el himno nacional de su país, y ponerse
+ de pie, si no se encuentra identificado con los valores del mismo país?
+ En definitiva, si lo que queremos es que más individuos participen de nues-
+tras creencias religiosas o políticas, lo mejor que podemos hacer es per-
+suadirlos, en lugar de castigarlos a través de la coerción estatal ?.
+
+
+es relevante y definimos cómo evaluarla; el hecho de que existen consideraciones nof-
+mativas de peso en ambos lados de nuestras disputas, lo que torna más compleja la reso-
+lución de las mismas (RAwLs, J., Political Liberalism, Columbia University Press,
+va York, 1993, ps. 56 y 57).
+      2 Mit, J. S., On Liberty, Bobbs-Merrill, Indianapolis, 1956.                  .
+      3 Por lo demás, agregaba Mill, si lo que pensamos es que el sujeto en cuestión
+está equivocado, siguiendo una vida “descarriada”, cuál es el sentido de agregarlo (
+
+[[PDF p. 3]]
+                          CONSTITUCIONALISMO Y PRIVACIDAD
+                                                                                 781
+
+
+         Por lo demás, señalaba Mill, correspondía hacer un esfuer
+                                                                         zo para que
+    la política no se guiara por lo que podían ser, en definitiva, nuestros sim-
+    ples prejuicios. Mucho menos, agregaba, cuando advertíamos el modo en
+    que la propia sociedad podía enriquecerse al contar con person
+                                                                         as inspira-
+   das por formas de vida diferente: así, por ejemplo, cada uno
+                                                                        de nosotros
+   podría conocer nuevas maneras en las que pensar y actuar. Ésta era, en
+   definitiva, su versión sobre el progreso moral: se crece y se mejora,
+                                                                         co-
+   lectivamente, en la medida en que tenemos la oportunidad de discuti
+                                                                              r acer-
+   ca de distintas formas de vida.
+        Frente a posiciones como las de Mill, que se destacan en
+                                                                         su defensa
+   de la autonomía individual, se han erigido múltiples críticas que, de modo
+   más o menos directo, abrazan lo que podríamos denom
+                                                       inar           posturas per-
+  Jfeccionistas. Para entender el significado de esta idea, conviene contras-
+   tar
+     conla
+         la noción de la autonomía individual. Si la postura defensora de
+  la autonomía parte —como partía Mill- del supuesto según el cual cada
+  uno es el mejor juez de sus propios intereses, el perfeccionismo sostiene,
+  en principio, que lo que es bueno para cada individuo es independiente
+  de lo que cada individuo piense al respecto. Esta idea parece basarse en
+  una marcada desconfianza respecto de las capacidades de cada uno, así
+  como también en un cierto elitismo, conforme al cual sólo algunos tienen
+  acceso a las “verdades morales” que todos deben seguir *. Finalmente, se-
+  gún la descripción del perfeccionismo que aquí voy a tomar en cuenta, el
+ Estado debe comprometer el uso de la fuerza en defensa de las ideas
+ morales correctas, lo cual significa —en contradicción, nuevamente, con
+ lo que podía requerir el liberalismo milleano— que algunos individuos
+ pueden resultar forzados a dejar de lado algunas de sus creencias más
+ básicas e impedidos de actuar conforme a ellas.
+      Al momento de repasar el pensamiento de raíz perfeccionista, es difícil
+ no comenzar citando el trabajo del juez James Fitzjames Stephen. La po-
+ sición de Stephen en defensa del perfeccionismo fue articulada directa-
+ mente en polémica con la defendida por Mill, por lo cual la referencia a
+ la misma parece casi obligada. Stephen consideraba que el principio del da-
+ño ofrecido por Mill debía ser reemplazado por otro, que estableciera como
+objeto de la coerción estatal la reducción del mal y de los comportamientos
+
+
+que representa, desde nuestro punto de vista) un castigo más, en lugar de ayudarlo
+                                                                                     o
+Persuadirlo para que cambie de modo de pensar.
+      4 Sobre la relación entre elitismo y perfeccionismo ver, por ejemplo, Scanlon
+(ScanLon, T., “The Principles of Justice”, en DANIELS, N. (ed.), Reading Rawls, Basil
+Blackwell, Oxford, 1975, p. 171).
+
+[[PDF p. 4]]
+        782    IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN.
+
+        viciosos, y la promoción del bien y así de los comportamientos virtuosos
+        Para Stephen, la legislación orientada a reducir el mal, promoviendo el
+        bien, estaba justificada, en tanto el cálculo en el que estuviera basado así
+       lo estuviera. Básicamente, la idea era la de utilizar la fuerza estatal de
+       modo tal de reducir el espacio de los comportamientos indeseables, y en
+       tanto no se incurriera, de ese modo, en una innecesaria restricción de la
+      libertad (por ejemplo, en razón de la magnitud de las restricciones jm.
+      puestas, comparadas con los riesgos de equivocarse al imponerlas, o ej
+      valor de las libertades recortadas). Pero en definitiva, debe anotarse, para
+      él el valor de la libertad no estaba asociado a la idea de vivir cualquier
+      tipo de vida (aun, digamos, una vida “equivocada”): la libertad sólo tenía
+     sentido en la medida en que se vivían vidas valiosas. Si éste no era el
+     caso, entonces, no había por qué utilizar la fuerza de la ley en protección
+     de tales comportamientos o modelos de conducta 5,
+           Varias décadas después, y promediando los años sesenta, otro juez
+     _lord Devlin—, polemizando con otro filósofo "Herbert Hart-, tuvo la opor-
+     tunidad de sofisticar la posición avanzada por Stephen, en defensa del
+    perfeccionismo. Devlin encontró dicha oportunidad en ocasión de haber-
+    se publicado el reporte Wolfenden, encargado por las autoridades britá-
+   nicas con el objeto de evaluar la posibilidad de descriminalizar la homo-
+   sexualidad, una práctica sujeta, por entonces, a la punición estatal. Devlin
+   atacó entonces el informe, que se había manifestado en favor de la des-
+    criminalización de las prácticas homosexuales entre adultos que daban su
+   consentimiento a las mismas. Sus argumentos fueron diversos. Por una
+   parte, sostuvo Devlin, cualquier nación tiene el derecho de autodefenderse
+                    to
+               de ataqu
+   cuando es obje       es, y los mismos —agregó— podían provenir tan-
+   to de potencias extranjeras cuanto de fuerzas internas. Para Devlin, el
+  Estado se encontraba justificado a actuar frente a ambos tipos de emba-o
+  tes: no había razón para aceptar dicha reacción en el primer caso (com
+ lo hace naturalmente cualquier ciudadano) y no en el segundo. La comu:
+ nidad, agregaba, se encuentra asentada en ciertas bases morales, que son
+ las que le proveen solidez, cohesión y estabilidad. Y, según afirmaba
+Devlin siguiendo al ejemplo bíblico de las comunidades de SodomaY
+Gomorra-, si se socavan dichas bases, la comunidad pierde los apoyos
+que la sostienen se cae, se termina disolviendo—. Si el derecho puede 10
+accionar frente a dicha situación e impedir la disolución social debe bar
+cerlo, a costa de hacerse corresponsable de aquella anunciada desgraciá.
+     S STEPHEN, J., Liberty, Equality, Fraternity, Liberty Fund, Indianapolis, 1993.
+
+[[PDF p. 5]]
+                     CONSTITUCIONALISMO Y PRIVACIDAD                          783
+
+
+por lo demás, concluía lord Devlin, el derecho ya se encuentra involucrado
+en cantidad de acciones que avanzan sobre las acciones autónomas de los
+individuos y que no nos despiertan ningún reproche: en cualquier comu-
+nidad se penaliza el incesto, la eutanasia, prácticas que en última instan-
+cia rechazamos por razones morales y no por el hecho de que afecten a
+un tercero 6.
+     Hart reaccionó entonces frente a los comentarios de Devlin, agregan-
+do una diversidad de buenas razones a las que había dado Mill en favor
+de una posición antiperfeccionista”. Para Hart, argumentos como los for-
+mulados por Devlin resultaban irrazonables,    en primer lugar, porque par-
+tian de algo que distaba de ser obvio, esto es, la certeza de que resultaba 7
+posible determinar cuál era la moralidad compartida por la sociedad, y a
+la que el Estado, supuestamente, debía apoyar. Lo cierto es que, en una
+mayoría de los casos —agregaba Hart- o no estamos en condiciones de
+determinar cuáles son los rasgos morales dominantes dentro de la comu-
+nidad, o nos encontramos con una diversidad de pautas morales entre-
+cruzadas, muchas veces contradictorias entre sí. ¿Quién es entonces el que
+está en condiciones de decirnos, finalmente, cuáles son los rasgos mora-
+les apropiados, a los que el Estado debe salvaguardar? La pregunta gana
+en peso cuando recordamos aquello que los perfeccionistas están dispues-
+tos a hacer en defensa de la moral dominante, esto es, utilizar la fuerza
+estatal en favor de algunos y en contra de otros, tal vez —como ocurría
+entonces, con el caso de la homosexualidad— para considerar un delito lo
+que otros consideran una parte integral de sus vidas.
+     Ahora bien, aun si por hipótesis aceptáramos que es posible recono-
+cer cuáles son los rasgos morales predominantes en la sociedad, todavía
+tendríamos un largo trecho por recorrer, hasta llegar a acordar con posi-
+ciones como las de Devlin. Hart atacaba, entonces, el reclamo empírico
+presentado por Devlin, y conforme al cual los cambios radicales en las
+creencias morales de la sociedad implicaban algo así como la disolución —
+de la misma. Por qué =se preguntaba Hart- es que debemos aceptar una
+afirmación como ésta cuando es dable pensar exactamente lo contrario,
+esto es, que las sociedades cambien profundamente sus valores y sigan
+existiendo tal como lo hacían hasta entonces y tal vez mejor que antes.
+Por qué no pensar que las sociedades evolucionan en sus convicciones y
+atraviesan por períodos de cambios dramáticos en sus valores, sin por ello
+verse enfrentadas a ningún escenario apocalíptico.
+
+
+     6 Devin, P., The Enforcement of Morals, Oxford University Press, Oxford, 1965.
+     7 Harr, H., Law, Liberty and Morality, Oxford University Press, Oxford, 1963.
+
+[[PDF p. 6]]
+        784    IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN..
+
+              De todos modos, aun si conociéramos cuáles son los rasgos Mora.
+        les dominantes en nuestra comunidad, y tuviéramos la certeza de que un
+       cambio en los mismos llevaría a que nuestra sociedad deje de ser lo que
+       es, aun así no resultaría claro que debiéramos acompañar a Devlin en Su
+       razonamiento. Para defender este criterio, Hart insistía en una distinción
+       muy importante, entre lo que podemos denominar la moral “convencio.
+       nal” y la moral “crítica”. La idea es que la moral “convencional” o dom;
+       nante no se superpone con la moral “crítica” o ideal. Para decirlo de un
+       modo sencillo, los valores dominantes no merecen ser defendidos (cual si
+       fueran valores ideales) porel mero hecho de ser los valores dominantes
+NY
+
+
+
+
+                                                                       de
+       Los mismos pueden ser, en efecto, los valores mayoritarios dentro
+       nuestra comunidad pero al mismo tiempo valores inaceptables (i.e., en una
+       comunidad en donde predomina la intolerancia, la mentira, las prácticas
+       corruptas). Decir, como parece decir Devlin, que los valores dominantes
+       merecen siempre la protección de las leyes resulta, cuanto menos, apre.
+       surado. Entre lo primero y lo segundo hay un paso muy largo, que debe
+      ser justificado: del hecho de que ciertos valores sean los dominantes no
+      se sigue que tengamos razones para apoyarlos (o para combatirlo).
+            Por supuesto, decir esto no requiere que sepamos, de antemano, cuáles
+      son los valores ideales, los que “sí merecen ser defendidos”. Tal vez nun-
+      ca tengamos certeza acerca de ello. Sin embargo, lo dicho no niega lo
+      anterior, esto es, que determinados valores no se convierten en valores
+      que merecen ser respaldados (o atacados) con la fuerza estatal por el mero
+     hecho de ser los valores que predominan en una determinada comunidad
+     (hecho, finalmente, que puede deberse a un sinnúmero de causas repro-
+     chables, como la imposición, la falta de discusión, la difusión de prácti-
+     cas prejuiciosas, el dogmatismo, etc.).
+          Una postura como la presentada hasta aquí conlleva una obvia críti-
+     ca hacia textos, decisiones y opiniones jurídicas todavía de enorme peso
+     en la actualidad. Ante todo, dicho antiperfeccionismo choca contra mu-
+     chos textos constitucionales que, de modo explícito, siguen apareciendo
+     comprometidos con particulares concepciones del bien —típicamente, la
+     religión católica—. Esta práctica ha sido muy común en Latinoamérica (tan-
+     to como en una mayoría de Estados norteamericanos), desde los orígenes
+ de su vida constitucional, en los albores del siglo XIX. Desde entonces,
+ en muchos casos, los textos constitucionales no sólo reservaron un lugar
+especial para la religión católica (mientras que se prohibía o limitaba el
+culto público a otro tipo de religiones), sino que además ordenaron la
+entera estructura de los derechos conforme a aquellos mandatos morales:
+Se mantenía, así, por ejemplo, que derechos como el de libre expresión
+
+[[PDF p. 7]]
+$
+
+
+Í                         CONSTITUCIONALISMO Y PRIVACIDAD                              785
+
+encontraban su límite en los principios del culto católico (como en la Cons-
+titución chilena de 1823); se establecía que la educación debía regularse
+conforme a lo dispuesto por la Iglesia Católica (como en la Constitución
+colombiana de 1843); o se decía que el derecho de asociación dependía
+del “respeto a la religión, la moralidad y el orden público” (como en la
+Constitución ecuatoriana de 1869). A pesar de que, con el paso de los años,
+muchos de los rasgos más perfeccionistas de estas primeras Constitucio-
+nes fueron dejados de lado,'lo cierto es que numerosas Constituciones
+siguen reservando un sitial de privilegio para ciertas “visiones comprehen-
+sivas” particulares. Típicamente, la remozada Constitución argentina si-
+    gue afirmando que el Estado “sostiene” al culto católico, una expresión
+    que sigue teniendo impacto en la jurisprudencia constitucional, a la hora
+    de interpretar, por ejemplo, el alcance de los derechos de los diferentes
+    cultos existentes.
+         Por otra parte, posiciones antiperfeccionistas como las defendidas por
+    Mill nos sirven para criticar también cantidad de sentencias judiciales que,
+    aún hoy, siguen distinguiendo a nuestra vida jurídica. Tales decisiones no
+    sólo abundan en contextos jurídicamente menos sólidos, como los que
+    encontramos en Latinoamérica, sino también en otros más poderosos, como
+    el de los Estados Unidos*. En la Argentina, un caso muy notable al res- (4)
+    pecto apareció en “CHA”, en donde la Corte nacional reconoció la cons-
+    titucionalidad de un acto administrativo por el que se denegaba la perso-
+    nería jurídica a la organización que nucleaba a la comunidad homosexual
+    argentina (CHA).
+          Una línea argumentativa similar —en sus rasgos perfeccionistas— puede
+    encontrarse en casos como “Montalvo”, en donde la Corte desdijo una
+
+
+          8 En este sentido destacan, por así decirlo, decisiones tales como “Bowers v.
+     Hardwick” (478 US 186, 1986) —revertida más recientemente, en el caso “Lawrence”-,
+    en la cual la Corte norteamericana se pronunció sobre una norma del Estado de Georgia,
+     en donde se criminalizaban los actos homosexuales entre adultos, aun los celebrados en
+     la intimidad del hogar. En dicha oportunidad, la Corte sostuvo que la proscripción de
+     los comportamientos homosexuales encontraba fuertes raíces en la tradición jurídica nor-
+     teamericana, y en razón de ello rechazó el reclamo de los demandantes, conforme al cual
+     dichas conductas no eran ajenas a la historia del país y se encontraban implícitas en el
+     concepto mismo de libertad, central dentro de la estructura de la Constitución. Yendo
+     todavía más lejos, y en su opinión concurrente, el juez Burger recurrió al apoyo de
+     Blackstone para describir a la homosexualidad como un “crimen infamante en contra de la
+     naturaleza”, una ofensa de “maldad más profunda” que la violación, un acto “cuya mera
+     mención es una desgracia para la naturaleza humana”, y un “crimen” que no merece ni
+     ser nombrado (ver, por ejemplo, RUBENFELD, J., “The Right to Privacy”, 102 Harvard
+     Law Review, 737 [1989)).
+
+[[PDF p. 8]]
+ 786      IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+ decisión tomada por ella misma (aunque a partir de una composición
+ diferente) unos meses atrás, en “Bazterrica”, referida al consumo
+ nal de estupefacientes ?. En “Bazterrica” (Corte Sup., 29/8/1986), y a tra.
+ vés del voto de Petracchi, la Corte había distinguido apropiadamente en.
+ tre las “acciones privadas y las que no lo son, y entre ética privada y mora]
+ pública” '.
+       El enfoque antiperfeccionista aquí defendido, además, objeta por sus
+                                                                           idea
+ limitaciones y riesgos a la lectura, bastante común, que identifica a la
+ de privacidad con una visión espacial o fisica del término ''. La doctrina
+
+       9 En “Montalvo” (Fallos 308: 1392), en efecto, la Corte realizó una penosa aproxi.
+ mación a la idea de privacidad, sosteniendo que la correcta interpretación del art. 19
+                                                                       orden y la moral
+ CN (que protege las acciones privadas que “de ningún modo” ofendan alentonces: “La ex.
+ pública), implicaba tomar esos términos en el sentido literal. Sostuvo
+presión entrecomillada tiene alcance inequívoco y no es lícito soslayarla. Para que    que-
+den fuera del ámbito de aquel precepto no es necesario que las acciones privadas sean
+ofensivas o perjudiciales... en toda hipótesis o en la generalidad de los casos. Basta que
+                                                                                    idea de
+ “de algún modo”, cierto y ponderable, tengan ese carácter”. Así, resulta obvio, la sentido
+privacidad es simplemente pulverizada, ya que no existe absolutament      e ningún
+del término que no sea susceptible de impactar en el ámbito público. La Corte completó
+su notable argumentación condenatoria del consumo personal de estupefacientes alegan-
+do, con poca modestia, la necesidad de proteger “un conjunto de bienes jurídicos de re-
+levante jerarquía que trasciende con amplitud aquella finalidad [de resguardar la salud
+pública], abarcando la protección de los valores morales, de la familia, de la sociedad,
+de la juventud, de la niñez y, en última instancia, la subsistencia misma de la Nación y
+hasta la humanidad toda”.
+       10 “Por cierto -agregó— no puede concebirse a las acciones privadas como las que
+se hacen en privado, puesto que muchos delitos contemplados en nuestra legislación
+podrían ser ejecutados en privado. Por consiguiente, tal distinción está vinculada a la
+diferenciación entre moral pública y ética privada”. La idea de moral privada incorpora-
+da en el art. 19 de la Constitución Nacional fue definida entonces como una “esfera pri-
+vada de acción de los hombres en la que no puede inmiscuirse ni el Estado ni ninguna
+de las formas en que los particulares se organizan como factores de poder”. De esta
+manera, sostuvo la Corte, “el art. 19 de la Constitución Nacional establece el deber del
+                                                                                     ar
+Estado de garantizar, y por esta vía promover, el derecho de los particulares a program
+y proyectar su vida según sus propios ideales de existencia”.
+      11 Por supuesto, aquí se dejan de lado también conce pciones tan ext
+                                                                               rañas de] lo
+que significa una violación de la privacidad, como la desplegada por la Corte argentina
+                                                                      donde el tribunal
+en casos como “Ekmekdjian v. Sofovich” (Fallos 315: 1492, 1992),delensujeto
+consideró que se había producido una violación de la privaci dad            en cuestión
+                                                juicio emitido en un medio televisivo
+(el constitucionalista Ekmekdjian), en razón de un                                   ámbito
+en contra de la Virgen María. Según la Corte, dicha opinión había interferido “en el endo
+privado de Ekmekdjian, conmoviendo sus convicciones más profundas... interfiri el
+la vida ajena, mortificando sus sentimientos, lo que implica un verdadero agravio a W
+derecho subjetivo tutelado por el legislador”.
+
+[[PDF p. 9]]
+                      CONSTITUCIONALISMO Y PRIVACIDAD                                 787
+
+
+y la jurisprudencia han adoptado de modo muy habitual este enfoque, ha-
+vlando del derecho de privacidad como “el derecho a ser dejado solo” o
+el derecho a concebir la propia casa como un castillo inexpugnable '?. En
+particular, el derecho constitucional norteamericano
+                                             ha contribuido a acen-
+mar tales confusiones en algunos de sus casos más importantes en los que
+ha tratado el tema!?. Dos de ellos, en particular, merecen una mención
+especial. Ante todo, cabe citar al caso “Griswold v. Connecticut” !*, por-
+que con él, fundamentalmente, comenzó la vida constitucional del derecho
+de privacidad que —aunque implícito en algunas de las discusiones más
+importantes del derecho norteamericano— se encontraba claramente exclui-
+do del texto constitucional. Los jueces, entonces, “encontraron” el dere-
+cho de privacidad en las “penumbras de algunas garantías específicas de
+la Declaración de Derechos”. Derechos como éste, sostuvieron, permitían
+dar “vida y sustancia” a las cláusulas sobre derechos **. En particular, la
+mayoria
+ “Griswold”
+        de se refirió al derecho de privacidad como uno que
+protegía al apelante del caso (el médico Griswold, que dirigía una clínica
+en donde se suministraba información sobre planificación familiar a pa-
+rejas casadas). La Corte sostuvo entonces que era irrazonable aceptar una
+condena en el caso, que implicaría, indirectamente, “autorizar a la poli-
+cía a iniciar búsquedas en el sagrado precinto de los dormitorios matri-
+moniales, en búsqueda de signos que muestren el uso de contraceptivos”.
+Así, en su descripción del derecho de privacidad, la Corte pareció acer-
+carlo, confusamente, a la idea “espacial” o “física” arriba citada.
+
+
+     12 WARREN, S. - BRANDEIS, L., “The Right to Privacy”, Harvard Law Review, vol. 4,
+nro. 5 (1890), ps. 303 a 330.                                    y
+      13 Según Allen (ALLEN, A., “Constitutional Law and Privacy”, en PATTERSON, D.
+[ed.], A Companion to Philosophy of Law and Legal Theory, Blackwell Publishers,
+Blackwell, 1996, p. 140), el derecho constitucional norteamericano oscila entre tres no-
+ciones distintas de privacidad: una que ve a la privacidad en un sentido “físico” (en cuanto
+seguridad, protección en el hogar, integridad corporal); otra que la entiende en un senti-
+do “informacional” (privacidad como secreto, confidencialidad); y otra que define a la
+privacidad en un sentido “decisional” (vinculado con el tipo de nociones arriba emplea-
+das: libertad, autonomía, libertad de elección en cuestiones tales como el sexo, el matri-
+MOnio, etc.).
+
+      14 381 US 479 (1965).
+      15 Los jueces dijeron entonces que encontraban la idea de privacidad en la “penum-
+dra” del derecho a la asociación de la Primera Enmienda; en la demanda de la Tercera
+Enmienda que exigía que los soldados no se agruparan en los hogares de particulares du-
+Tánte tiempo de paz; en la afirmación de la Cuarta Enmienda en favor de la seguridad de
+las personas en sus hogares, papeles y efectos; en la Quinta Enmienda y el derecho a no
+“utoincriminarse; y en la Novena Enmienda que se refiere a los derechos no enumerados.
+
+[[PDF p. 10]]
+  788      IGUALDAD. LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+      Los jueces norteamericanos insistieron con esta lectura de la pri-
+ vacidad en algunos fallos posteriores, y de modo muy notable en “Roe
+ v. Wade” '5. En dicha ocasión, los magistrados consideraron la constity.
+ cionalidad del aborto, enmarcado dentro de ciertas circunstancias particy.
+ lares, y a la luz de la protección que le brindaba a la mujer el derechoa la
+ privacidad. La decisión aparecida entonces fue, de algún modo, “revolu-
+ cionaria”, ya que por primera vez el máximo tribunal norteamericano to-
+ maba una posición tan abierta en la materia. Sin embargo, lo cierto es que
+ tanto “Roe” como antes “Griswold” aparecían defendiendo una noción de
+ privacidad difícil de aceptar, sobre todo a partir del carácter no indivi.
+ dualista de la misma.                                                     :
+       En efecto, casos como los citados vinculaban el valor de la privacidad
+ a la “familia” *”, entendida ésta como una unidad, ubicada, preferentemen-
+ te, en un espacio geográfico definido: el propio hogar. Al hacerlo, entre
+ otras cosas, parecían descuidar las implicaciones del mismo derecho en
+ relación con los miembros particulares de dicho grupo a los que, de al-
+ gún modo, dejaba desguarnecidos. En lo que aquí nos interesa, conviene
+ decir que un derecho concebido así —digamos, “espacialmente”— parece
+ abrir la puerta a la opresión doméstica, a violaciones sobre los intereses
+ más básicos de algunos de los integrantes de la familia, típicamente sus
+ miembros más débiles. Resulta claro, si el respeto de la privacidad requiere
+una actitud de no interferencia por parte del Estado, y la privacidad abar-
+ca, pongamos, “todo lo que ocurre al interior del hogar”, entonces, el
+Estado deja en el desamparo a aquellos que sufren de la violencia domés-
+tica, la violación marital o las agresiones paternas. Afirmar el derecho de
+privacidad, bajo esta descripción, aparecía entonces como un modo de dar
+vía libre a acontecimientos tan desgraciados como los mencionados: la
+justicia, parecía decirse, iba a mantener vendados sus ojos frente a ellos ER,
+De este modo, se obtenía una conclusión altamente paradójica: decisio-
+nes que, en principio, podían ser celebradas como un triunfo (del princi-
+pio de la autonomía individual, de los grupos más preocupados por los
+derechos de las mujeres y los niños), terminaban mostrando su cara más
+horrenda y reafirmándonos que, en verdad, aquellas razones para la cele-
+bración debían mutar en razones para la congoja. No resulta sorprendente,
+
+        16 410 US 113 (1973).
+        17 Kymucka, W., Contemporary Political Philosophy, Oxford University Press,
+Oxford, 2001, p. 395.
+     18 SieGEL, R., “The Rule of Love: Wife Beating as Prerogative and Privacy”, Yale
+Law Journal, 1018 (1996), ps. 2117 a 2208.
+
+[[PDF p. 11]]
+                         CONSTITUCIONALISMO Y PRIVACIDAD                        789
+
+
+or ello, que grupos feministas, entre muchos otros, comenzaron a cargar
+desde entonces contra el derecho de la privacidad (y, en general, contra
+ja llamada “distinción liberal entre lo público y lo privado”), al que res-
+ onsabilizaron por reproducir una visión machista, absolutamente injus-
+iificada, sobre el derecho '”.
+
+
+
+[.        NEUTRALIDAD
+
+
+          La postura defendida hasta aquí reclama, de parte del Estado, y en
+principio, una actitud de neutralidad, es decir, su abstención. en materia
+moral. Aquí seexigeque
+                     el Estado no asuma un compromiso especialcon
+alguna concepción del bien, para tornar más difíciles las elecciones de vida
+de algunos individuos o grupos, o para premiar la actitud de algunos por
+la mera suerte de haber abrazado el proyecto de vida favorecido por el
+Estado. Aquí se plantea que el Estado no debe ser un “jugador” más, iden-
+tificado con ciertos planes de vida, sino un “garante”, que haga posible
+que cualquier persona sea respetada en sus elecciones vitales, en tanto y
+en cuanto no afecte, con ellas, de un modo significativo a terceros.
+          Cabe señalar que esta postura no se lleva bien con la idea de poder
+de policía desarrollada por la doctrina y la jurisprudencia argentinas, y
+según la cual el Estado tiene la potestad de limitar derechos a partir de lo
+que él mismo entiende que son los intereses generales de la comunidad.
+La Corte argentina desarrolló tal visión, por ejemplo, en casos como “Plaza
+de Toros”, “Saladeristas”, “Ercolano”, “Callao”, “Avico” o “Peralta”, au-
+torizando a los poderes públicos a actuar en áreas que incluían la moral,
+la salud, o el orden público, ya sea en relación con situaciones pasadas o
+con el objeto de impedir males futuros. Aquí se sugiere más bien lo con-
+trario: los derechos no encuentran su límite en la idea del bien común,
+sino que el bien común encuentra su límite en la idea de derechos (ver,
+por ejemplo, opinión del juez Petracchi en “CHA”).
+          Es claro, de todos modos, que lo dicho sólo puede representar un frágil
+comienzo: es necesario, todavía, realizar numerosas aclaraciones sobre los
+alcances y contenidos de esta idea de neutralidad. Resulta evidente, por
+caso, que el Estado no puede ser neutral en todo sentido. Por ejemplo
+                                                                     ,
+siempre deberá hacer 'sus comunicaciones en algún idioma, y no lo hará
+en todos los posibles. Cualquier elección de un símbolo patrio implica una
+
+
+lo        12 MAcKINNON, C., Feminism Unmodified, Harvard University Press, Cambridge,
+     7.
+
+[[PDF p. 12]]
+   790      IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+   elección relevante frente al principio de neutralidad. Cualquier diseño de
+   un calendario, con sus fechas de descanso, por ejemplo, implica una toma
+   de partido que puede ser extraordinariamente relevante y/u ofensiva para
+   determinados grupos ?,
+        A pesar de la razonabilidad que puede haber en comentarios como
+   los anteriores, aquí nos inclinaremos por seguir utilizando la noción de
+   neutralidad, en un sentido modesto, para referirnos a las políticas orien.
+   tadas a dejar el mayor espacio posible a la búsqueda personal del bien,
+                                      de amplia aceptación en la actuali.
+   Este reclamo recoge ciertas demandas
+- dad, y en principio afines a muchas de nuestras intuiciones más básicas
+  en relación con el significado de la idea de libertad. Se afirma aquí, en-
+  tonces, obviamente, la importancia de contar con un Estado que salva.
+  guarde la libertad de expresión; que se abstenga de perseguir a las perso-
+  nas por participar de alguna determinada idea política, o cosmovisión
+  filosófica o religiosa; que conciba a la educación no como un medio de
+  ideologización o adoctrinamiento, sino como una forma de expandir la
+  libertad de cada uno?!.
+       Una idea también subyacente en la postura aquí defendida se refie-
+ re al valor de un cierto individualismo, entendido éste —simplemente-
+ como la postura según la cual el Estado debe procurar la maximización
+ de la autonomía de cada uno de los miembros de la sociedad”. Di-
+ cha postura niega, por otro lado, la posibilidad de que una persona sea
+
+       20 Kymuicka, W., Multicultural Citizenship, Clarendon Press, Oxford, 1995, De
+ modo más radical todavía, uno puede decir que cualquier elección, aun la pretendida
+ elección en favor de la neutralidad, implica una toma de partido poderosa: seguramente,
+ para quienes defienden una posición de imperialismo religioso, la abstinencia moral del
+ Estado sea la peor toma de posición imaginable. La idea sería, entonces, que no hay lugar
+ para la neutralidad, al menos en un sentido común del término, sino para distintas ver-
+ siones, más o menos liberales, del perfeccionismo (Raz, J., The Morality of Freedom,
+ Clarendon Press, Oxford, 1986).
+      21 Nuevamente, la aceptabilidad de lo expresado en el párrafo anterior depende
+de cómo definamos, en cada caso, los conceptos más claves que allí aparecen: qué es lo
+que significa “expandir la libertad”, qué es lo que significa “salvaguardar la libertad de
+expresión”. Aquí pensaremos dichos conceptos, ante todo, bajo el trasfondo de una vi-
+sión en algún sentido antiutilitarista, una visión que busca ser respetuosa de la autono-
+mía individual, tanto como de la intuición kantiana con la que puede asociarse a aquella
+idea, y conforme a la cual “cada uno debe ser tratado como un fin en sí mismo”. Se
+                                                                      algo así como expandir
+                                de que expandir la libertad implica acallar
+rechazará, por tanto, laenideadesmedro
+la libertad de algunos,                de la libertad de otros (i.e.,        a los opositores,
+como modo de amplificar la libertad agregada de los que participan del oficialismo).
+      22 Nino, C., The Ethics of Human Rights, Oxford University Press, Oxford, 1991.
+
+[[PDF p. 13]]
+                   CONSTITUCIONALISMO Y PRIVACIDAD                      791
+
+
+
+insirumentalizada por otra, tanto a través de acciones como a través de
+omisiones. Es decir, esta postura no busca defender sino modificar el sta-
+ms quo, particularmente cuando el estado de cosas dominante no se en-
+cuentra justificado y permite que una minoría se beneficie a costa de todo
+o] resto. Frente a dicha situación, el Estado respetuoso de la neutralidad
+no sería aquel que se mantuviera inactivo, de brazos cruzados frente a las
+injusticias presentes: el Estado neutral no es el Estado inactivo, sino el
+gue impide que algunas personas sean utilizadas como medios por parte
+de otras. En una situación de injusticia social, entonces, el Estado inacti-
+vo no es un Estado neutral, sino uno que toma partido en favor de la ex-
+plotación de los débiles por parte de los más poderosos.
+
+
+
+IM. PATERNALISMO
+
+
+    La discusión abierta en la sección anterior, en torno a los límites de
+la neutralidad estatal y la relevancia moral de las acciones y omisiones
+estatales, nos obliga a repensar los contornos del milleano “principio del
+daño”. Una primera pregunta pertinente, en este sentido, tiene que ver con
+la justificación o no del paternalismo estatal. Aquí, definiré la idea de
+paternalismo de un modo acotado,
+                           en parte diferente de las definiciones
+más usuales del concepto. Paternalista será aquí aquella medida orienta-
+da a fortalecer la capacidad del individuo para actuar autónomamente. Este
+tipo de medidas, por un lado, parecen vedadas por el “principio del daño”
+de Mill, ya que trascienden la idea de evitar los daños a terceros. Por otro
+lado, ellas difieren de las medidas perfeccionistas, ya que en este caso no
+se asume, como sí lo hace el pensamiento perfeccionista, que el indivi-
+duo no debe tener la última palabra en lo que hace a su propia vida, o
+que los ciudadanos no se encuentran capacitados para autogobernarse. Más
+dien lo contrario: aquí se considera que los individuos (adultos) deben
+hacerse cargo de sus propias vidas, y por ello mismo es que se propone
+fortalecer Ta capacidad decisoria del individuo. El paternalismo no justi-
+ficaría, por caso, la restricción del consumo de estupefacientes por razo-
+nes morales, pero podría justificar una campaña informativa a cargo del
+Estado, orientada a que la elección del individuo, cuando se produzca, y
+Cualquiera que sea, resulte el producto de su decisión y no el resultado de
+la mala información o la información ausente.
+    Muchas medidas paternalistas —distribuir información respecto de las
+consecuencias del consumo de distintos estupefacientes, alertar a la po-
+blación acerca de cómo reducir los riesgos de contraer el virus HIV— nos
+
+[[PDF p. 14]]
+        792    IGUALDAD. LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+        parecen o inocuas u obviamente necesarias, y conforman ya una Parte
+SN
+        importante de la vida cultural de la modernidad. Y es que, finalmente, ellas
+        representan una forma razonable de interpretar la idea de que cada perso.
+ l
+
+
+
+
+        na debe ser respetada en sus elecciones, que cada persona debe ser respe.
+        tada en su igual dignidad moral. Filósofos como Raz, por ejemplo, def.
+        nen la elección autónoma (entre otras condiciones) como la que se produce
+       frente a alternativas significativas ??: elegir entre morir o ser torturado no
+       es, en este sentido, una elección que valga la pena ser considera como
+       tal. Volviendo a nuestro ejemplo, una elección basada en la mala infor.
+      mación (i.e., la elección de consumir cierto estupefaciente ignorando los
+      efectos reales del mismo) contradice lo que cualquier persona puede que-
+      rer respecto de sus propias decisiones. Reconociendo lo anterior, el Esta-
+                                                                   indivi-
+      do que se decide, simplemente, a reemplazar las opiniones de los
+       duos, es un Estado perfeccionista. Pero el que abre información frente a
+      los ojos de cada individuo parece estar lejos de merecer una calificación
+      semejante: aquí cada individuo sigue siendo quien conserva la última
+      palabra. El Estado procura, simplemente, robustecer el carácter autóno-
+      mo de dicha elección. Luego de producida, el Estado la acepta, aunque
+      sus autoridades no estén satisfechas con ella.
+          Por supuesto, los casos que plantean los mayores conflictos son otros,
+     diferentes de los señalados, y en donde los límites entre el paternalismo y
+     el perfeccionismo se tornan menos visibles. Por ejemplo, ciertas medidas
+     orientadas a dilatar determinadas elecciones individuales, a los efectos de
+     fortalecer la posibilidad reflexiva del individuo, pueden verse como for-
+     mando parte de las medidas autorizadas por un paternalismo no perfec-a
+     cionista. Esto es lo que sucede, por ejemplo, en muchos países, frente
+ los trámites de divorcio. Así, por caso, se decide volver a convocar a la
+ pareja en cuestión luego de un cierto tiempo (i.e., tres meses) con el obje-
+ to de dificultar las decisiones apresuradas, en una materia tan importante
+ para los involucrados. El Estado, aquí, está plenamente abierto a aceptar
+ la decisión final de los individuos, ya sea favorable o no a la continuz”
+ción en el matrimonio, pero interviene débilmente para contribuir a qué
+los involucrados reflexionen tanto como sea posible hacerlo. Según en-
+tiendo, con alguna dificultad, medidas como la citada también pueden ser
+vistas como compatibles con un razonable paternalismo.
+        Otras medidas, orientadas a remediar casos de “debilidad de volun-
+tad” de las personas, se ubican en una zona más dudosa: la obligación
+
+       23 Raz, J., The Morality..., cit.
+
+[[PDF p. 15]]
+                                         Ls     DD AOgt?
+
+
+                    CONSTITUCIONALISMO Y PRIVACIDAD                   793
+
+
+car el cinturón de seguridad, o el casco en los motociclistas. Ambas
+ odidas resultan más polémicas, porque aquí sí se reemplaza la voluntad
+inal del individuo (aunque no resulten medidas perfeccionistas, en tanto
+ , se encuentran orientadas a “reemplazar la concepción del bien” de los
+ejetos en cuestión, por la concepción preferida por el Estado). Por su-
+esto, dado el hecho de que los costos impuestos sobre cada uno son
+an bajos, y tan claramente orientados a preservar a cada persona como
+«yjeto autónomo, los mismos parecen poco reprochables, pero la pregun-
+¡a permanece: poco costosos o no, ¿son ellos justificables como actos ge-
+suinamente paternalistas?
+    ¿Y qué decir, por ejemplo, del voto obligatorio? Si existe la certeza
+de que mucha gente no vota, simplemente, porque no cree que quienes
+sufren sus mismos padecimientos lo harán, pero que lo haría si ese pro-
+blema de acción colectiva estuviera resuelto, ¿por qué no fortalecer la ca-
+pacidad de elección ciudadana tornando obligatorio el voto? Adviértase
+gue el voto obligatorio es perfectamente compatible con la decisión de
+alguien de votar por cualquier partido político, o la de anular su voto, o
+la de votar por ninguno. El voto obligatorio también podría ser compati-
+ble (aunque no suele serlo en los países que lo adoptan) con la posibili-
+dad de que los anarquistas, y los que por alguna razón no quieren tener
+ningún contacto con el sistema político, justifiquen en esas bases su deci-
+sión de no ir a votar. Luego, ¿sobre la base de qué razones debería verse
+al voto obligatorio como una medida que afecta la autonomía individual?
+¿Por qué no podría considerarse dicha institución como una medida pa-
+ternalista justificada?
+
+
+
+
+IV. RESPETO A LA PRIVACIDAD, RESPETO AL AUTOGOBIERNO COLECTIVO
+
+    Medidas como las anteriores se orientan, fundamentalmente, a ase-
+gurar que cada individuo pueda estar en condiciones de desarrollar su
+propia vida, conforme a sus propias decisiones. Según dijimos, se justifi-
+ca el hecho de que el Estado intervenga en favor de la autonomía perso-
+nal. Ahora bien, señalado esto, interesa examinar si lo expresado a través
+de dichas consideraciones no implica asignar demasiado peso a cuestio-
+Nes vinculadas con las “elecciones” de cada uno, asumiendo una visión
+indebidamente atomizada de la sociedad. Me interesa explorar si no esta-
+mos dejando de lado, injustificadamente, consideraciones relevantes so-
+bre lo que implica para cada uno de nosotros vivir en sociedad. En defi-
+Nitiva, me interesa examinar si, al poner tanta atención en la autonomía
+
+[[PDF p. 16]]
+          794    IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN..
+
+         individual, no estamos ignorando indebidamente la importancia de aque.
+         llo que nos une o puede reunirnos como comunidag4,
+              Ocurre aquí que los dos ideales que de    réfamos a lo largo de este
+         trabajo —el de la autonomía individual y el del autogobierno colectivo.
+        entran en tensión, como no puede ser de otro modo. Esta tensión, se n
+        entiendo, es en cierta medida irresoluble, como lo es la tensión entre
+        constitucionalismo y democracia. En lo que sigue, trataré de avanzar
+       algunas reflexiones y sugerencias en torno a aquellos ideales, tratando de
+       ver hasta qué punto ambos pueden acomodarse y convivir armónicamente                ,
+
+
+       dados los lazos íntimos que los vinculan.
+             Un primer paso que puede darse, intentando contener el pánico que
+      puede generar esta tensión (que, en su peor versión, nos exige abdicar de
+      un ideal o del otro), es el de reconocer hasta qué punto ambos ideales se
+      requieren mutuamente. Es que un sistema institucional respetuoso de la
+     libertad de todos requiere ciertos compromisos públicos de parte de cada
+     uno —requiere ciertas cualidades morales particulares—, del mismo modo
+     en que el autogobierno colectivo pierde mucho de su sentido si su reali.
+     zación exige el aniquilamiento de las libertades individuales (¿por qué re-
+    clamar el autogobierno colectivo, finalmente, si no como un modo de ex-
+    pandir nuestra libertad individual?).
+        Esta relación de mutua necesidad entre un ideal y otro ha ido reafir-
+    mándose, contemporáneamente, a través del paulatino acercamiento en-
+    tre las corrientes de pensamiento liberales (más preocupadas, habitualmen-
+    te, por preservar el ideal de la autonomía individual) y las republicanas
+   (más preocupadas, habitualmente, por preservar el ideal del autogobierno
+   colectivo) ?.
+       Dicho acercamiento quedó reflejado, de modo muy especial, en el
+  reconocimiento que hiciera John Rawls acerca de la compatibilidad de la
+  doctrina por la que él abogaba con algunos de los principales requerimien-
+  tos del pensamiento republicano. Conforme dijera el profesor de Harvard,
+  la necesidad de asegurar el sostenimiento del propio sistema de gobierno
+
+       24 SanpEL, M., Liberalism and the Limits ofJustice, Cambridge University Press,
+ Cambridge, 1982; TayLoR, C., Philosophical Papers, Cambridge University Press, Cam-
+ bridge, 1985.
+      25 KymLicka, W., Contemporary Political..., cit.; OVEJERO, F. - MARTÍ, J. L, - GA»
+                                                                              0 . Pued
+GARELLA, R., (comps.), El republicanismo contemporáneo, Paidós, Barcelona, 20403
+                                                                                       e
+decirse algo similar respecto del paulatino acercamiento entre posiciones liberales ?
+comunitaristas. Avanzo algunas reflexiones al respecto en GARGARELLA, R., Las teor
+
+de la justicia después de Rawls, Paidós, Barcelona, 1999.
+
+[[PDF p. 17]]
+                      CONSTITUCIONALISMO Y PRIVACIDAD                               795
+
+ pe permite que cada uno viva libremente requiere una sensata preocupa-
+ ¡an por las cualidades morales que animan a la ciudadanía. Desenten-
+perso del tema resulta, simplemente, una muestra de irracionalidad: al
+ obierno protector de la libertad no le puede resultar indiferente que sus
+miembros se encuentren O no comprometidos con la salud del sistema
+ olítico; no le puede resultar indiferente que los ciudadanos voten o no,
+que intervengan o no en política, que se involucren o no en la discusión
+de asuntos de interés público *,
+     El reconocimiento realizado por Rawls es importante porque ayuda
+g terminar con una serie de planteamientos más bien estériles aparecidos
+en torno a los significados del ideal de la neutralidad. Defender la neu-
+tralidad, nos dice Rawls, no implica ser ciego a la importancia de “culti-
+var” ciertas virtudes cívicas. Dicho esto, de todos modos, me gustaría ir
+algo más allá de tales consideraciones, para reafirmar lo aquí ya afirma-
+do en distintas etapas de este escrito: existe un nivel en donde la neutra-
+lidad estatal es simplemente imposible, ya que, cualquiera sea la actitud
+que asuma, el Estado se encuentra tomando partido en favor de una u otra
+forma de integración social, endefensa detales o cuales valores. De modo
+          —    -       A
+
+
+
+
+especialmente importante, la opción por un determinado modelo econó-
+mico o cultural implica, en definitiva, una opción valorativa sustantiva:
+tipicamente, de ese modo, se alienta cierto tipo de conductas individuales
+y relaciones interpersonales mientras que se desalientan otras.
+     Cuando reconocemos esto —cuando advertimos los significativos al-
+cances, pero también los límites, del ideal de la neutralidad estatal- queda-
+mos enfrentados a una pintura más completa, pero también a una encru-
+cijada difícil. Fundamentalmente, se nos plantean ahora, con más gravedad
+que antes, dudas acerca de qué es lo que corresponde hacer y qué no, en
+materia
+   de “cultivo” de la virtud. Es indudablemente
+                                           cierto que
+                                                   la deci-
+sión consciente de involucrar al Estado —-la decisión de utilizar, en defini-
+tiva, los recursos propios del aparato coercitivo— en la forja de ciertas
+
+cualidades  de carácter?” es una decisión riesgosa (como lo es cualquier
+alternativa aparentemente  más inocente). Debemos preguntarnos seriamen-
+le qué tipo de medidas pueden tomarse, entonces, que no sean simplemente
+
+
+    26 Rawls defiende, entonces, una concepción “instrumental” de las virtudes cívi-
+ás, que asocia a lo que denomina republicanismo, y distingue del “aristotelismo” o “hu-
+Manismo cívico” (que pretendería imponer ciertas virtudes cívicas por considerar que ellas
+Promueven nuestra “naturaleza esencial”).
+Haro ll SANDEL, M., Democracy 's Discontent. America in Search of a Public Philosophy,
+   ard University Press, Cambridge, 1996.
+
+[[PDF p. 18]]
+  796    IGUALDAD, LIBERTAD DE EXPRESIÓN, ACCESO A LA INFORMACIÓN...
+
+  inocuas respecto de los fines propuestos (i.e., anuncios públicos ensalzando
+  las virtudes de la solidaridad ciudadana) y que, por otro lado, sigan sien.
+ do respetuosas de la libertad de elección de cada uno (esto es, por ejem.
+ plo, que no nos conduzcan a una suerte de “adoctrinamiento” estata)), La
+ respuesta a este tipo de interrogantes es sin duda muy compleja pero, dada
+ la inescapabilidad de las preguntas en juego, resulta necesario encararl
+ y comenzar a reflexionar más explícitamente al respecto. Durante años
+ tanto el constitucionalismo como la filosofía política (liberal) procuraron
+ ignorar dichos interrogantes o escapar de ellos, por lo que hay todavía
+ mucho territorio por explorar.
+       Aquí, por supuesto, no procuraré adentrarme en la resolución de es-
+ tos dilemas, aunque sí quisiera destacar la importancia de que tengamos
+ alguna claridad mayor respecto de preguntas que son relevantes. Entien-
+ do que la teoría institucional contemporánea debe decir algo, por ejem-
+ plo, acerca del impacto de los arregloseconómicos    que una comunidad
+ adopta, sobre las cualidades personaledes quienes viven en ella: no pue-
+                              €
+
+
+
+
+ de asumirse, como hasta ahora, que la economía es una esfera separadae
+         .        7     Pa                  €A
+
+
+
+independiente de la esfera de la política o el derecho; no puede asumirse,
+como hasta ahora, que los arreglos económicos son moralmente inocuos.
+Entiendo que la teoría contemporánea debe decir algo acerca del valor o
+no de pensar a los ciudadanos, fundamentalmente, como consumidores, y
+sobre lo que ello implica. Entiendo que debe decirse algo, también, sobre
+los modos en que se realiza la escolarización (y los valores que, sutilmente
+o no, se imponen todavía, por su intermedio); sobre los modos en que se
+organiza la vida cultural; sobre los modos en que se regula (a través de
+acciones u omisiones) la comunicación pública; sobre los modelos de per-
+sona, de relaciones, de familia, de carácter, o aun de belleza que, a través
+de todos aquellos medios, se alientan o desalientan cotidianamente. Si el
+ideal de la neutralidad nos exige la mayor amplitud y el respeto frente2
+la posibilidad de que distintas personas vivan de modos radicalmente di-
+ferente, lo primero que debemos hacer es abandonar la ilusión liberal que
+ha cegado a muchos hasta ahora, que veía neutralidad estatal donde no
+había más que la imposición sutil de ciertos modelos de conducta, bajo el
+manto del Estado mínimo, el Estado inactivo.

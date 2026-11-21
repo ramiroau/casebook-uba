@@ -1,0 +1,1571 @@
+# fuente: Unidad16/1_Saba - 2005 - (Des)igualdad estructural copy.pdf
+# md5_original: e1d412915c0088b789a80008bd62c73f
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Este artículo fue publicado en:
+
+Roberto Saba, “(Des)igualdad Estructural”, en Jorge Amaya (ed.), Visiones de la
+Constitución, 1853-2004, UCES, 2004, pp. 479-514
+
+Roberto Saba, "(Des)igualdad estructural", en Revista Derecho y Humanidades
+Nº11, Facultad de Derecho Universidad de Chile, 2005.
+
+Roberto Saba, “(Des)igualdad estructural”, en Marcelo Alegre y Roberto Gargarella
+(coords.), El Derecho a la Igualdad. Aportes para un constitucionalismo igualitario,
+Lexis Nexis, Buenos Aires, 2007.
+
+
+
+
+                        (DES)IGUALDAD ESTRUCTURAL
+
+                                          Por Roberto Saba1
+
+
+       El 6 de diciembre de 1810, Mariano Moreno proyectó un decreto que luego
+sancionaría la Primera Junta según el cual “la libertad de los pueblos no consiste en
+palabras, ni debe existir en los papeles solamente. Cualquier déspota puede obligar a sus
+esclavos a que canten himnos de libertad, y este canto maquinal es muy compatible con
+las cadenas y opresión de los que lo entonan. Si deseamos que los pueblos sean libres,
+observemos religiosamente el sagrado dogma de la igualdad”2. El principio expresado en
+este decreto fue antecedente del art. 1ro, Capítulo V y del artículo 5to del Capítulo XIV
+del Proyecto de Constitución para las Provincias del Río de la Plata de 18123; del art. 8vo
+
+
+1
+  Abogado (Universidad de Buenos Aires), Master en Derecho (Universidad de Yale). Profesor de Derecho
+Constitucional y de Derechos Humanos en las Universidades de Buenos Aires y de Palermo. Director
+Ejecutivo de la Asociación por los Derechos Civiles, Buenos Aires, Argentina (www.adc.org.ar).
+Agradezco a Marcelo Alegre, Martín Böhmer, Roberto Gargarella, Daniel Lago, Mariela Puga, Fernando
+Racimo, Laura Saldivia y Sebastián Schvartzman por sus comentarios al manuscrito de este ensayo.
+También agradezco a los estudiantes y profesores participantes del Coloquio sobre Derecho, Moral y
+Política del Centro de Estudios de Postgrado de la Facultad de Derecho de la Universidad de Palermo, que
+dirige el profesor Alegre, por la riqueza de sus preguntas y observaciones, y a los estudiantes de la Facultad
+de Derecho de la Universidad de Chile, en particular a Claudio Ruiz, por los productivos intercambios que
+me permitieron repensar algunos aspectos de este trabajo en el marco de la Congreso Estudiantil de
+Derecho y Teoría Constitucional organizado por ellos en Santiago en agosto de 2003. Finalmente, les estoy
+agradecido a Micaela Alterio y a Carlos Rosenkrantz por una estimulante conversación que terminó de
+convencerme de la necesidad de escribir estas líneas.
+2
+  Citado en Jonathan Miller, María Angélica Gelly y Susana Cayuso, Constitución y derechos humanos,
+Tomo 2, Astrea, Buenos Aires, 1991, p. 1524. Para una reseña histórica sobre el principio de igualdad en
+los orígenes de nuestra historia constitucional, ver este volumen en pp. 1523 a 1528.
+3
+  Capítulo V, artículo 1ro: “Todos los ciudadanos gozan de igualdad ante la ley…, bajo la inmediata
+protección de las leyes”.
+Capítulo XIV, artículo 5to: “…no podrá [el Congreso] conceder títulos de nobleza”.
+
+
+                                                      1
+
+[[PDF p. 2]]
+del Capítulo II del Proyecto de la Sociedad Patriótica4; del Decreto del 12 de marzo de
+1813, las Leyes del 21 de mayo y del 13 de agosto de 1813, todos sancionados por la
+Asamblea General Constituyente reunida ese año5. Finalmente, el principio fue receptado
+por el proyecto de Constitución de Juan B. Alberdi de 1853 y cristalizado en el artículo
+16 de la Carta Magna6. En aquella afirmación de Moreno se hace referencia a una idea de
+igualdad que construida sobre el rechazo del sometimiento de esclavos por déspotas.
+Moreno entendía la igualdad como principio opuesto a la opresión y a la imposición de
+cadenas visibles o invisibles. La intuición fuerte del revolucionario de Mayo, no reflejaba
+la tantas veces aludida tensión entre libertad e igualdad. La igualdad de la que nos
+hablaba Moreno no se contradecía con la idea de libertad sino que se encontraba
+estrechamente vinculada a ella. La igualdad entendida como inexistencia de opresión,
+sometimiento o, usando un lenguaje más moderno, exclusión, alude al imperativo moral
+de una igual libertad como precondición de la autonomía de las personas.
+
+        En 1958, Isaiah Berlin, uno de los pensadores liberales más importantes del siglo
+XX, distinguido internacionalmente por haber dedicado su vida a la defensa de los
+derechos civiles, ofreció una Conferencia Inaugural en la Universidad de Oxford, donde
+fue profesor hasta su muerte en 1997. En ella, sin saberlo, claro, coincidió con aquella
+visión de la igualdad que Moreno presentó en su proyecto de decreto un siglo y medio
+antes. Allí, Berlin propone su teoría acerca de la existencia de una libertad positiva que,
+lejos de limitarse a la idea de libertad entendida como no-injerencia estatal en las
+decisiones de las personas (libertad negativa), se funda en la necesidad de que éstas
+participen en igualdad de condiciones de la empresa colectiva del autogobierno:
+
+                 “A mí me parece que lo que preocupa a la conciencia de los
+         liberales occidentales no es que crean que la libertad que buscan los
+         hombres sea diferente en función de las condiciones sociales y económicas
+         que éstos tengan, sino que la minoría que la tiene la haya conseguido
+         explotando a la gran mayoría que no la tiene o, por lo menos,
+         despreocupándose de ella. Creen, con razón, que si la libertad individual
+         es un último fin del ser humano, nadie puede privar a nadie de ella, y
+         mucho menos aún deben disfrutarla a expensas de otros. Igualdad y
+
+4
+  Capítulo II, Artículo 8: “La igualdad consiste en que la ley –bien sea preceptiva, penal o aflictiva—es
+igual para todos y asiste igualmente al poderoso que al miserable, para la conservación de los derechos que
+cada uno disfruta”.
+5
+  El decreto del 12 de marzo de 1813 dio por extinguida la mita, las encomiendas, el yanaconazgo y el
+servicio personal de los indios a las iglesias, sus párrocos y ministros. En él se estableció que los indios
+debían ser tenidos por “…hombres perfectamente libres y en igualdad de derechos a todos los demás
+ciudadanos que pueblan [las provincias unidas] debiendo imprimirse y publicarse este soberano decreto en
+todos los pueblos de las mencionadas provincias, traduciéndose fielmente en los idiomas guaraní, quechua
+y aymará, para la común inteligencia”. Ver Helio Zarini, Constitución de la Nación Argentina. Aportes
+para el estudio de derecho e historia constitucionales, 2da edición ampliada, Buenos Aires, Astrea, 1982,
+p. 36, citado por Jonathan Miller en Constitución y derechos humanos, Tomo 2, Astrea, Buenos Aires, p.
+1525.
+6
+  Artículo 16 de la Constitucional Nacional: “La Nación Argentina no admite prerrogativas de sangre, ni de
+nacimiento: no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales ante la
+ley, y admisibles en los empleos sin otra condición que la idoneidad. La igualdad es la base del impuesto y
+de las cargas públicas”
+
+
+                                                     2
+
+[[PDF p. 3]]
+        libertad, no tratar a los demás como yo no quisiera que ellos me trataran a
+        mí, resarcimiento de mi deuda a los únicos que han hecho posible mi
+        libertad, mi prosperidad y mi cultura; justicia en su sentido más simple y
+        más universal: estos son los fundamentos de la moral liberal.”7
+
+       De un modo que nos deja perplejos, Berlin se acerca sorprendentemente a
+Moreno, incluso en el ejemplo: “’El Triunfo del despotismo es forzar a los
+esclavos a declararse libres.’ Puede que no sea necesaria la fuerza, puede que los
+esclavos proclamen su libertad sinceramente; pero por eso no son menos esclavos.
+Quizá para los liberales el valor principal de los derechos políticos –‘positivos’—,
+de participar en el gobierno, es el de ser medios para proteger lo que ellos
+consideraron que era un valor último: la libertad individual ‘negativa’”.8
+
+        Berlin, confrontando con la idea de libertad individual defendida por John Stuart
+    9
+Mill , sostiene que la libertad de las personas incorpora el dato de la pertenencia a un
+colectivo libre de autodeterminarse, en eso consiste el régimen democrático de gobierno.
+De todos modos, y para ser justo con Mill, esta visión individualista de la libertad (y de la
+igualdad) no encuentra correlato en el reconocimiento de la dimensión “social” de la
+libertad de expresión que se pone de manifiesto cuando Mill reconoce que, en verdad, ese
+derecho podría ser mejor descripto como el derecho a la “libertad de discusión”10.
+
+        A 193 años de aquella aspiración igualitaria de la revolución de mayo y a 150
+años de la sanción de nuestra Constitución originaria depositaria final de ella, Argentina
+enfrenta la peor situación de su historia en cuanto a la posibilidad de que millones de
+nuestros compatriotas puedan ejercitar la mayoría de sus derechos más elementales y,
+entre ellos, los instrumentalmente vitales derechos políticos que son consecuencia directa
+de la posibilidad de acceder a una mínima educación, alimentación o atención sanitaria.
+Para la gran mayoría de ellos, parafraseando a Moreno y a Berlin, la libertad sólo
+“consiste en palabras”.
+
+        En este punto, es preciso hacer una aclaración sobre las limitadas aspiraciones de
+este ensayo a fin de intentar evitar ser malinterpretado. Si bien no creo correcto definir el
+alcance de un trabajo “por la negativa”, ciertas características alcanzadas por el debate
+sobre pobreza y desigualdad en nuestro país me obligan a hacerlo. En este trabajo no me
+referiré a la distinción entre la igualdad formal y la igualdad de hecho. No es mi intención
+llamar la atención sobre un tema tan discutido. En estas líneas sólo intentaré proponer un
+nuevo marco para discutir la “igualdad ante la ley” que establece la Constitución
+Nacional. Un encuadre de la discusión que nos permita distinguir entre dos visiones de la
+igualdad. Una, más cercana a la del pensamiento liberal clásico, de cariz individualista y
+que ha dominado la (a mi modesto entender, poca) discusión sobre el principio de
+
+7
+  Isaiah Berlin, “Dos conceptos de libertad”, en su libro Cuatro ensayos sobre la libertad, Alianza
+Universidad, Madrid, 1993, p.195. El énfasis es mío.
+8
+  Ibidem, p. 236.
+9
+  John Stuart Mill, Sobre la libertad, Alianza Editorial, Madrid, 1993, Capítulo 1.
+10
+   Owen Fiss, “A Freedom Both individual and Political”, en David Bromwich and Geroge Kateb (eds.),
+John Stuart Mill. On Liberty, Yale University Press, New Haven, 2003, p.179.
+
+
+                                                  3
+
+[[PDF p. 4]]
+igualdad en Argentina. La otra idea de igualdad, y sobre la cual intentaré atraer la
+atención de la lectora, se relaciona con una visión de aquélla a la que llamaré estructural.
+De acuerdo con esta perspectiva, resulta relevante la incorporación de datos históricos y
+sociales que dé cuenta del fenómeno de sometimiento y exclusión sistemática a la que se
+encuentran sometidos amplios sectores de la sociedad. Esta segunda concepción del
+principio de igualdad ante la ley, relativamente ausente de la discusión constitucional
+local – salvo contadas excepciones que emergen en forma aislada en escasas sentencias
+judiciales y en trabajos de doctrina a los que me referiré –, se apoya en la idea de que el
+derecho no puede ser completamente “ciego” a las relaciones existentes en un
+determinado momento histórico entre diferentes grupos de personas. Esta perspectiva
+recepta la preocupación de Moreno acerca de la posibilidad de que los “déspotas”
+sometan a los “esclavos” (siendo éstas categorías generales que expresan una relación de
+sometimiento de un grupo por otro) o, siguiendo a Berlin, que la libertad de algunos se
+logre gracias a la explotación de otros. Afortunadamente, hoy ya no contamos en nuestro
+país con esclavos y déspotas claramente identificables cuya relación de sometimiento se
+manifieste de forma explícita. Sin embargo, sí existen en nuestra sociedad grupos que
+carecen de acceso a ciertos empleos, funciones, actividades, espacios físicos o a la
+empresa colectiva del autogobierno. Partiré del presupuesto de que estos grupos no se
+excluyen de esas actividades o prácticas en forma voluntaria y completamente autónoma.
+En Argentina, no hay prácticamente11 normas que excluyan a las mujeres, los
+discapacitados, los indígenas, u otros “grupos vulnerables” (como podrían serlo los
+pobres estructurales, aunque esto merecería mayor discusión) del ejercicio de los
+derechos a ser elegidos para cargos públicos, de trabajar en la administración pública, del
+derecho a la educación, a la salud o a la alimentación. Sin embargo, de hecho, esos
+derechos son para ellos “sólo palabras”. Y ello, no como consecuencia de la “desigualdad
+de hecho”, sino como resultado de una situación de exclusión social o de “sometimiento”
+de estos grupos por otros que, en forma sistemática y debido a complejas prácticas
+sociales, prejuicios y sistemas de creencias, desplazan a mujeres, discapacitados,
+indígenas u otros grupos de personas de ámbitos en los que ellos se desarrollan o
+controlan.
+
+        Este ensayo de carácter exploratorio aspira a sugerir una interpretación un tanto
+diferente del principio de igualdad ante la ley del artículo 16 de nuestra Constitución de
+aquél que la visión “individualista” le ha dado. Como alternativa propondré una visión
+“estructural” de la igualdad que, en lugar de tomar como elemento único de juicio la
+relación de funcionalidad entre la categoría escogida para hacer diferencias y la actividad
+regulada, considera relevante la situación de la persona individualmente considerada pero
+como integrante de un grupo sistemáticamente excluido. Además, intentaré demostrar
+que, a la luz de las modificaciones introducidas en 1994, y en particular en su nuevo
+artículo 75, inciso 2312, la visión “estructural” de la igualdad ha sido expresamente
+11
+   Digo “prácticamente” porque en nuestro país afirmar esto de un modo más contundente podría ser un
+tanto arriesgado, pues uno nunca puede estar positivamente seguro de que no existan normas específicas
+que establezcan la exclusión de alguno de estos grupos de ciertas actividades. De todos modos, este ensayo
+apunta a demostrar que esas normas, de existir, serían inconstitucionales.
+12
+   Artículo 75, Inciso 23 de la Constitución Nacional: “[Corresponde al Congreso] Legislar y promover
+medidas de acción positiva que garanticen la igualdad real de oportunidades y de trato, y el pleno goce y
+ejercicio de los derechos reconocidos por esta Constitución y por los tratados internacionales vigentes sobre
+
+
+                                                     4
+
+[[PDF p. 5]]
+incorporada a la Constitución confirmando la intuición de Moreno presente, aunque
+muchas veces olvidada, en nuestro artículo 16. Esta “relectura” de nuestra Constitución a
+150 años de su sanción originaria puede constituirse en una posible respuesta a
+situaciones individuales y colectivas puestas en mayor evidencia como consecuencia de
+la crisis social que enfrenta nuestro país en el presente. Esta visión de la igualdad es
+consistente con una tradición constitucional liberal igualitaria que se inicia en 1810, se
+refleja en la Carta Magna de 1853 y se perfecciona en la reforma constitucional de 1994.
+
+
+
+
+                  EL TRATO IGUAL Y EL PRINCIPIO DE NO-DISCRIMINACIÓN
+
+
+        Empecemos por lo básico. El artículo 16 de nuestra Constitucional Nacional
+establece que “La Nación Argentina no admite prerrogativas de sangre, ni de nacimiento:
+no hay en ella fueros personales ni títulos de nobleza. Todos sus habitantes son iguales
+ante la ley, y admisibles en los empleos sin otra condición que la idoneidad. La igualdad
+es la base del impuesto y de las cargas públicas”. Este artículo se complementa con lo
+establecido por el Preámbulo cuando asegura los beneficios de la libertad “para nosotros,
+para nuestra posteridad y para todos los hombres del mundo que quieran habitar el suelo
+argentino”. Ambas expresiones normativas dan cuenta de un principio de igual libertad
+para todos los habitantes de la Nación, el cual reaparece en el artículo 14 cuando
+establece que “Todos los habitantes de la Nación gozan de los siguientes derechos (...)” y
+en el artículo 20, al reconocer a nacionales y extranjeros los mismos derechos civiles13.
+
+        Si bien es posible identificar la propuesta constitucional de 1853 con el ideal de
+igualdad ante la ley expresado en el artículo 16, sin embargo, establecer con claridad el
+significado de este ideal normativo no es tarea sencilla. Empecemos por descartar
+posibles versiones de su significado sobre las que parece haber cierto consenso acerca de
+no ser ellas adecuadas. Es claro que el principio de igualdad ante la ley no implica un
+derecho de los habitantes de nuestro país a que el estado14 no realice ningún tipo de
+distinción en cuanto a la aplicación de la ley. Las leyes que regulan el ejercicio de los
+derechos, según lo establece el artículo 14 de la Constitución Nacional con los límites
+que al Congreso le impone el artículo 2815, siempre establecen “tratos diferentes” de las
+personas. La cuestión no radica en dilucidar si el estado puede o no puede realizar
+distinciones entre las personas por medio de las leyes que sanciona el Congreso y que
+reglamenta el Poder Ejecutivo. El interrogante, en verdad, apunta a establecer si existe
+
+derechos humanos, en particular respecto de los niños, las mujeres, los ancianos y las personas con
+discapacidad”. El énfasis es mío.
+13
+   El énfasis es mío en ambas referencias al articulado de la Constitución Nacional.
+14
+   En este artículo me referiré exclusivamente al modo en que el artículo 16 y sus concordantes limitan la
+acción del estado. No me referiré a las decisiones tomadas por particulares que podrían resultar contrarias a
+la igualdad ante la ley, aunque las posiciones aquí defendidas son extensibles a esos casos con algunas
+prevenciones que no se analizarán en este ensayo.
+15
+   Artículo 28 de la Constitución Nacional: “Los principios, garantías y derechos reconocidos en los
+anteriores artículos, no podrán ser alterados por las leyes que reglamenten su ejercicio”.
+
+
+                                                     5
+
+[[PDF p. 6]]
+posibilidad alguna de identificar cuáles son los criterios que permiten diferenciar las
+“distinciones” permitidas por nuestra Constitución Nacional de las que no lo son.
+Veamos un ejemplo: el estado puede establecer un criterio regulatorio del derecho a
+estudiar según el cuál sólo podrán ingresar a las universidades públicas aquellas personas
+que hubieren completado sus estudios secundarios. Difícilmente, si hacemos caso aunque
+más no sea, por ahora, a nuestras intuiciones, podamos sostener que este tipo de
+distinciones resultarían ser contrarias al ideal de igualdad del artículo 16. Como dije más
+arriba, no encontrándose prohibida la facultad de hacer distinciones, ésta parecería ser, en
+principio una distinción que no despierta en nosotros ninguna sensación de rechazo. Sin
+embargo, ello no parece suceder si el Congreso de la Nación estableciera una regulación
+del derecho a la educación que distinguiera entre varones y mujeres de modo que
+reconociera sólo a los primeros el derecho a ingresar a la universidad y prohibiera a las
+segundas la posibilidad de hacerlo. Muchos de nosotros –espero no pecar de ingenuo–,
+reaccionaríamos intuitivamente contra este trato diferente como contrario a lo que el
+artículo 16 permite. Esta intuición sobre la irrelevancia del sexo para realizar distinciones
+válidas no resulta ser tan excepcional dado que algunas decisiones judiciales de nuestros
+tribunales y de los de los Estados Unidos, nos acompañan. El juez White, en su clásica
+decisión en el caso Cleburne v. Cleburne Living Center, Inc.16 sostuvo que:
+
+
+                “Las clasificaciones legales realizadas sobre la base del género
+        requieren un estándar más alto de revisión. Ese factor generalmente no
+        provee ningún fundamento relevante para un trato diferenciado. ‘Lo que
+        diferencia al sexo de otros criterios no-sospechosos, tales como la
+        inteligencia o la discapacidad física... es que el sexo frecuentemente no
+        guarda ninguna relación con la habilidad para desempeñarse o contribuir
+        con la sociedad.’ En lugar de basarse en consideraciones de alguna
+        significancia, las leyes que distribuyen beneficios o cargas entre los sexos
+        de modo diferente muy probablemente reflejan nociones anacrónicas
+        acerca de las capacidades relativas de hombres y mujeres. Una
+        clasificación basada en el género no se sostiene a menos que ella se
+        encuentre sustancialmente relacionada con un interés suficientemente
+        importante del gobierno”.17
+
+
+        Como dije más arriba, la igualdad de trato ante la ley establecida en el artículo 16
+de la Constitución Nacional no requiere del estado tratar a todas las personas del mismo
+modo. “Tratar igual” no significa “tratar a todos los individuos como si fueran los
+mismo”, estableciendo una distinción, que cuesta traducir fielmente al español, entre
+equality y sameness18 que sería equivalente a algo así como “trato igual” versus “trato
+idéntico”. El estado está constitucionalmente facultado a tratar a las personas de modo
+
+16
+   473 U.S. 432 (1985)
+17
+   Ibidem. La traducción y el énfasis son míos.
+18
+   K. Anthony Appia, “Stereotypes and the Shaping of Identity”, en Robert C. Post et al., Prejudicial
+Appearances: The Logic of American Antidiscrimination Law, Duke University Press, Durham, 2003, p.
+56. La traducción es mía.
+
+
+                                                   6
+
+[[PDF p. 7]]
+diferente, siempre que ese trato diferente se funde un criterio justificado. Por supuesto, lo
+que entendamos por “justificado” hace al centro de la discusión sobre esta cuestión y al
+tema que me preocupa en este ensayo.
+
+        De este modo, nuestra Corte Suprema de Justicia de la Nación ha interpretado en
+numerosas oportunidades desde 1875 que la igualdad de trato ante la ley implica la
+obligación del Estado de tratar igual a aquellas personas que se encuentren en igualdad de
+circunstancias19. Así, en el caso Caille20 (1928) ha sostenido que “la igualdad ante la ley
+establecida por el artículo 16 de la Constitución (...) no es otra cosa que el derecho a que
+no se establezcan excepciones o privilegios que excluyan a unos de lo que en iguales
+circunstancias se concede a otros; de donde se sigue que la verdadera igualdad consiste
+en aplicar la ley en los casos ocurrentes, según las diferencias constitutivas de ellos y que
+cualquier otra inteligencia o excepción de este derecho es contraria a su propia naturaleza
+y al interés social”. En un sentido similar, en el caso García Monteavaro c/ Amoroso y
+Pagano21 (1957), la Corte sostuvo que “la garantía del artículo 16 de la Constitución
+Nacional no impone una rígida igualdad, pues entrega a la discreción y sabiduría del
+Poder Legislativo una amplia latitud para ordenar y agrupar, distinguiendo y clasificando
+objetos de la legislación, siempre que las distinciones o clasificaciones se basen en
+diferencias razonables y no en propósitos de hostilidad contra determinadas clases o
+personas”.
+
+        En la misma dirección se ha pronunciado la Corte Suprema de Justicia de los
+Estados Unidos, por ejemplo, en el caso F.S. Royster Guano Co. v. Virginia22 (1920),
+cuando sostuvo que “la clasificación debe ser razonable (reasonable), no arbitraria, y
+debe fundarse la diferencia de trato en una relación justa y sustancial entre ella y el objeto
+buscado por la legislación, de modo que todas las personas ubicadas en circunstancias
+similares deben ser tratadas del mismo modo”23. También, en el mismo sentido, esta
+Corte ha dicho en Reed v. Reed24 (1971), que “Cualquier clasificación debe ser razonable
+(reasonable), no arbitraria, y debe descansar sobre algún tipo de base de diferenciación
+que tenga vinculación, sustancial y justa, con el propósito de la legislación, de manera tal
+que todas las personas en similares circunstancias sean tratadas de igual forma”. Es
+preciso destacar que la Corte Suprema de los Estados Unidos distingue aquí entre la
+razonabilidad (reasonableness) de la relación entre la clasificación realizada y el fin
+buscado (classifications-ends relatioships), de la “racionalidad” (rationality
+requirenment) como principio más amplio y general que se refiere a la relación entre
+medios y fines y que se vincula con el debido proceso. Si bien ambos principios, el más
+abarcativo de racionalidad (rationality) y el más específico de razonabilidad
+(reasonableness), se encuentran relacionados, no son exactamente lo mismo. Mientras el
+primero se refiere a la proporcionalidad de medios a fines, el segundo indica la necesidad
+de no establecer clasificaciones arbitrarias. Es este último principio el que ambas Cortes
+19
+   Fallos, 16:118
+20
+   Fallos, 153:67
+21
+   Fallos, 238:60
+22
+   253 U.S. 412
+23
+   La traducción es mía.
+24
+   404 U.S. 71. Una versión traducida de este fallo se puede encontrar en Jonathan Miller, María Angélica
+Gelly y Susana Cayuso, Constitución y derechos humanos, Tomo 2, Astrea, Buenos Aires, 1991, p. 1524.
+
+
+                                                    7
+
+[[PDF p. 8]]
+utilizarán para poder establecer un criterio que les permita distinguir los tratos diferentes
+constitucionalmente permitidos de los prohibidos25.
+
+        Si bien el principio de “igualdad de trato en igualdad de circunstancias” parecería
+proveer de un estándar interpretativo del derecho constitucional a la igualdad de trato
+ante la ley, lamento señalar que la cuestión no encuentra solución definitiva y completa
+en él. Este estándar interpretativo sólo ayuda a acercarnos un poco a una respuesta
+satisfactoria respecto del significado del artículo 16, pero aún resulta relativamente
+“vacío”. Lo único que parece dejar en claro este criterio de interpretación de la norma es
+que es posible tratar de modo diferente a las personas siempre y cuando se lo haga en
+forma homogénea, uniforme y no arbitraria, pero este “principio guía” sigue sin decirnos
+nada respecto de lo que califica a esa distinción homogéneamente aplicada como una
+distinción permitida por el artículo 16. Volvamos a nuestro ejemplo hipotético sobre el
+ingreso a la universidad pública. En él dijimos que la regla que establece que sólo podrán
+estudiar en la universidad aquellas personas que hubieren completado los estudios
+secundarios constituiría una distinción válida a la luz del principio de igualdad de trato
+ante la ley. Ahora imaginemos que se presenta una persona que no completó sus estudios
+secundarios y que reclama su derecho a ingresar a la universidad requiriendo, para ello,
+se declare inconstitucional la regulación mencionada. El fundamento de su reclamo se
+encuentra en lo que ella dirá es su derecho a ser tratada igual que aquellos que sí
+completaron sus estudios secundarios (entendiendo “trato igual” como “tratar a todas las
+personas del mismo modo”). Frente a este reclamo, la Corte, ahora armada con su criterio
+interpretativo, rechazará el reclamo de la quejosa sosteniendo algo así como lo siguiente:
+
+                “Igualdad ante la ley” significa “igualdad de trato en igualdad de
+        circunstancias”. En este caso, la “circunstancia” escogida por el Congreso
+        como “relevante” para hacer una distinción fue la de “haber terminado los
+        estudios secundarios”. En este sentido, todas las personas que se
+        encuentren encuadradas en esa “circunstancia” podrán ejercer su derecho a
+        la educación universitaria, mientras que aquellas que no lo estén no podrán
+        hacerlo. Esta distinción no viola, entonces, la igualdad ante la ley. Lo
+        haría, claro está, si se le negara el derecho a estudiar en la universidad a
+        alguien que se encontrara encuadrado en esa “circunstancia”, es decir, si
+        no se le permitiera el ingreso a la universidad a una persona que hubiera
+        completado satisfactoriamente sus estudios secundarios”.
+
+        El razonamiento parece impecable. Sin embargo, no lo es. La respuesta hipotética
+del tribunal no se encuentra dirigida a responder la pregunta que se le plantea. La
+cuestión central del caso no se refiere a la aplicación “homogénea” o “general” de la
+norma regulatoria del derecho, sino a la validez constitucional del criterio escogido para
+hacer la distinción. El razonamiento “parece” correcto porque el criterio escogido para
+hacer la distinción es demasiado claramente, a primera vista, relevante para el fin que
+busca la regulación. Tratemos de aclarar este punto con el siguiente caso hipotético que
+expone más desnudamente el problema al que me refiero. Imaginemos que la regulación
+
+25
+ Gerald Gunther, Individual Rights in Constitutional Law, Fifth Edition, The Foundation Press, New
+York, 1992, pp. 279-283.
+
+
+                                                   8
+
+[[PDF p. 9]]
+estableciera que, además de tener completos los estudios secundarios, también se
+impondrá como requisito de ingreso “ser varón”. De acuerdo a la regla de este nuevo
+ejemplo, el estudio en la universidad pública le estará vedado a las mujeres, incluso
+cuando hubieran completado sus estudios secundarios satisfactoriamente. Frente a esta
+regulación, se presenta una mujer que reclama la declaración de inconstitucionalidad de
+la norma que establece la distinción, por violar el principio de igualdad de trato ante la
+ley. El Estado, ateniéndose a la estrecha interpretación del principio de “igualdad de trato
+en igualdad de circunstancias” sostenida hipotéticamente en el ejemplo anterior, podría
+argumentar que él no ha hecho nada contrario al mandato constitucional entendido de ese
+modo. En ese sentido, podría argumentar que “todos los que se encuentren bajo esa
+circunstancia (“ser varón”) gozarán de un trato igualitario, mientras que aquellas que no
+lo estén, también serán tratadas en forma igualitaria, es decir, no ingresarán a la
+universidad”. Una vez más, y siguiendo un razonamiento similar al sugerido por el Juez
+White en el caso Cleburne, esta solución no resulta convincente desde que “ese factor
+[ser mujer] generalmente no provee ningún fundamento relevante para un trato
+diferenciado”26. El estándar “igualdad ante la ley como igualdad de trato en igualdad de
+circunstancias” requiere ser completado, si intentamos que sea capaz de responder
+adecuadamente a situaciones como la del último ejemplo. Es necesario algo más, y ello es
+una calificación de la circunstancia seleccionada como relevante para realizar la
+distinción que el Estado desea llevar a cabo al regular el ejercicio de un derecho. De este
+modo, y con la aspiración de perfeccionar el principio de “igualdad de trato en igualdad
+de circunstancias”, debemos agregar un segundo estándar que prescriba que esas
+circunstancias deben ser razonables, entendiendo por “razonables”, por ejemplo, que ellas
+guarden una relación de “funcionalidad” o “instrumentalidad” entre el fin buscado por la
+norma y el criterio o categoría escogido para justificar el trato diferente. Esto esa lgo
+similar a lo que la Corte Suprema de los Estados Unidos hace en Reed v. Reed cuando
+sostiene que “cualquier clasificación debe ser razonable, no arbitraria, y debe descansar
+sobre algún tipo de base de diferenciación que tenga vinculación, sustancial y justa, con
+el propósito de la legislación, de manera tal que todas las personas en similares
+circunstancias sean tratadas de igual forma”. Esta idea de “razonabilidad funcional” se
+asemeja al concepto rawlsiano de razonabilidad “apropiado” para su “posición original”.
+En este sentido, John Rawls sugiere interpretar esa razonabilidad funcional, en su versión
+más limitada y estrecha posible, característica de la teoría económica, es decir, “adoptar
+los medios más efectivos para alcanzar determinados fines”27. En un sentido similar se
+manifiesta Robert Post cuando, analizando la aplicación del principio de igualdad ante la
+ley aplicado al caso particular de los contratos de empleo, sostiene que lo que debe
+justificar los “tratos diferenciados” es la posibilidad, por parte del empleador de argüir
+una “razón instrumental”. “Desde esta perspectiva –dice Post– los empleados pueden ser
+
+
+
+
+26
+  473 U.S. 432 (1985)
+27
+  Ver John Rawls, A Theory of Justice, Harvard University Press, Cambridge, Massachusetts, 1971.
+Precisamente, Rawls sostiene que “Moreover, the concept of rationality must be interpreted as far as
+possible in the narrow sense, standard in economic theory, of taking the most effective means to given
+ends.”, p. 14. La traducción al español de este párrafo que se incluye en el texto principal es mía.
+
+
+                                                     9
+
+[[PDF p. 10]]
+percibidos meramente como medios para el logro de los propósitos gerenciales del
+negocio del empleador”28.
+
+        Esta versión reformulada del significado de “igualdad de trato ante la ley”
+requiere de un doble juicio. Por un lado, es preciso establecer cuál es el fin que persigue
+la norma (en nuestro ejemplo, podría ser, según sostendrían algunos, el de admitir en la
+universidad personas que hayan recibido el entrenamiento básico necesario para poder
+pasar a un estadio educativo superior sin el cual éste último no sería posible) y, por el
+otro, es necesario poder encontrar una relación de “funcionalidad” o “instrumentalidad”
+entre el criterio escogido (haber completado los estudios secundarios) y el fin buscado
+(identificar por medio de ese “criterio indicativo” a aquellas personas que podrán
+efectivamente realizar estudios universitarios). El criterio “haber completado los estudios
+secundarios” supera este test, mientras que los criterios “ser varón” o “no ser mujer” no
+lo superan, por ejemplo, por las razones que dio White en el caso Cleburne. Siguiendo el
+argumento de White, no hay modo de poder afirmar que “ser mujer” opera como “criterio
+indicativo” de “no tener la formación básica necesaria para poder iniciar estudios de nivel
+superior”29.
+
+        Este tipo de razonamiento fue tomado por nuestra Corte Suprema, que, siguiendo
+a la Corte de los Estados Unidos, ha avanzado incluso un poco más. El máximo tribunal
+de nuestro país no sólo reconoció que criterios como “ser mujer” no son adecuados para
+establecer una relación “funcional” con el fin de la regulación (suponemos, “tener la
+formación adecuada para ingresar a etapas formativas superiores”), sino que ese criterio
+se percibe a priori como irrelevante para cualquier relación de funcionalidad o
+instrumentalidad que podamos imaginar, entendiendo que, en principio, el criterio “ser
+mujer” o “ser varón” nunca superarán el test de razonabilidad en el sentido estrecho que
+Rawls le asignaría, a menos que el Estado demuestre un “interés estatal urgente o
+insoslayable”. Digo que ha avanzado un poco más porque ambas Cortes no se detienen al
+momento de sostener la prescripción de que la categoría en que se funda el trato diferente
+debe guardar una relación de funcionalidad o de instrumentalidad, sino que establecen a
+priori ciertas categorías que (casi) nunca podrán ser consideradas razonables. En este
+sentido, afirman que sólo sería razonables si se fundaran en prejuicios anacrónicos sobre
+los roles que le corresponden a mujeres y varones en nuestra sociedad. Reitero la cita de
+White: “En lugar de basarse en consideraciones de alguna significancia, las leyes que
+distribuyen beneficios o cargas entre los sexos de modo diferente muy probablemente
+reflejan nociones anacrónicas acerca de las capacidades relativas de hombres y mujeres.
+
+28
+   Robert C. Post, “Prejudicial Appearances: The Logic of American Antidiscrimination Law”, en Robert
+C. Post et al., Prejudicial Appearances: The Logic of American Antidiscrimination Law, Duke University
+Press, Durham, 2003, p. 18. La traducción es mía.
+29
+   Esto es así, a menos que se logre demostrar que por razones genéticas o biológicas, las mujeres no se
+encuentran “naturalmente equipadas” para realizar este tipo de estudios, lo cual resulta inadmisible. Sin
+embargo, no olvidemos que han habido intentos semejantes impulsados por autores racistas tales como el
+que surge del libro The Bell Curve: Intelligence and Class Structure in American Life, de Richard J.
+Herrsntein and Charles Murray (Oxford University Press, New York, 1994). Para una crítica a estas
+posiciones asociadas con el determinismo genético, ver Orlando Patterson, The Ordeal of Integration,
+Civitas Counterpoint, Washington D.C., 1998, especialmente el Capítulo 4: “For Whom the Bell Curves:
+The Intellectual and Cultural Contradictions of Genetic Determinism”, p.125-145.
+
+
+                                                   10
+
+[[PDF p. 11]]
+Una clasificación basada en el género no se sostiene a menos que ella se encuentre
+sustancialmente relacionada con un interés suficientemente importante del gobierno”.30
+
+        En los casos Repetto, Inés María c/ Provincia de Buenos Aires s/
+inconstitucionalidad de normas legales31 y González de Delgado, Cristina y otros c/
+Universidad Nacional de Córdoba32, a partir de los votos de los Jueces Enrique Petracchi
+y Jorge Bacqué, la Corte no sólo ha adherido a esta idea de “categorías no razonables por
+no funcionales” sino que ha empezado a identificar algunas categorías que, en principio,
+nunca parecen ser razonables o son irrazonables a priori. Ellas son similares a lo que la
+doctrina, la legislación y la jurisprudencia de los Estados Unidos han denominado
+“categorías sospechosas”33. El derivado de esta identificación y calificación de ciertas
+categorías, lleva a los magistrados a establecer una presunción de inconstitucionalidad de
+la regulación sólo superable si el Estado lograra demostrar lo que dieron en denominar
+“un interés estatal urgente o insoslayable”. Así, en el caso Repetto, estos jueces
+sostuvieron que “(...) ante los categóricos términos del art. 20, Constitución Nacional –
+que toda distinción efectuada entre nacionales y extranjeros, en lo que respecta al goce de
+los derechos reconocidos en la Ley Fundamental, se halla afectada por una presunción de
+inconstitucionalidad. Por tal razón, aquel que sostenga la legitimidad de la citada
+distinción debe acreditar la existencia de un ‘interés estatal urgente’ para justificar
+aquélla, y no es suficiente, a tal efecto, que la medida adoptada sea ‘razonable’”34. En un
+sentido similar, en el caso González de Delgado, Cristina y otros c/ Universidad
+Nacional de Córdoba, Petracchi sostiene que:
+
+                “El tribunal [de los Estados Unidos] sostuvo que quienes intenten
+        defender una acción gubernamental que impone categorías, clasificaciones
+        o exclusiones basadas en el sexo, deben demostrar una "justificación (de
+        dicha acción) sumamente persuasiva". Los actos gubernamentales
+        (federales o estaduales) no son compatibles con la "Equal Protection
+        Clause" cuando una ley o una política oficial niega a la mujer,
+        simplemente porque es mujer, un rango de plena ciudadanía, es decir la
+        oportunidad -igual a la del hombre- para participar y contribuir al desa-
+        rrollo social de acuerdo a sus talentos y a sus capacidades. Quien defienda
+        una clasificación o exclusión basada en el género sexual deberá probar que
+        aquélla sirve a un importante objetivo gubernamental y que los medios
+        discriminatorios empleados están relacionados sustancialmente con el
+        logro de aquellos objetivos. La justificación ha de ser "genuina" y no ha de
+        basarse en indebidas generalizaciones sobre los diferentes talentos,
+        capacidades o preferencias de hombres y mujeres. Las diferencias
+        inherentes a hombres y mujeres siguen siendo causa de beneplácito
+
+30
+   473 U.S. 432 (1985). La traducción y el énfasis son míos.
+31
+   Fallos 311:2272. También, en forma similar, Calvo y Pesini c. Provincia de Córdoba, Fallos 321:194.
+32
+   CSJN, G.653-XXXIII, 20 de septiembre de 2000.
+33
+   Sobre la doctrina de las “categorías sospechosas”, ver Fernando Rey Martínez, “Igualdad, Diferencia,
+Discriminación”, en El derecho fundamental a no ser discriminado por razón de sexo, Edit. Mac Graw-
+Hill, Madrid, 1995, pp. 39-61. También Victor Ferreres Comellas, Justicia constitucional y democracia,
+Centro de Estudios Políticos y Constitucionales, Madrid, 1997, pp. 242-268.
+34
+   Caso Repetto, Considerandos 6to y 7mo.
+
+
+                                                   11
+
+[[PDF p. 12]]
+        -afirma la Corte-, pero no para denigrar a los miembros de alguno de
+        estos sexos, o para establecer restricciones artificiales a las oportunidades
+        de una persona.
+                “El exigente estándar de revisión que se aplica a las clasificaciones
+        basadas en el sexo no convierte a aquéllas en una categoría totalmente
+        proscripta; pero, sí significa que las categorías fundadas en el sexo no
+        deben usarse para crear o perpetuar la inferioridad legal, social y econó-
+        mica de la mujer. En todo caso, las clasificaciones fundadas en el sexo
+        pueden ser utilizadas para compensar a las mujeres por las inhabilidades
+        que ellas han sufrido a través de la historia.
+                “En el fallo norteamericano se propone un estándar de escrutinio
+        que, si no llega a ser tan estricto como el empleado para las clasificaciones
+        basadas en la raza o la nacionalidad, es sumamente exigente (es revelador
+        que el único juez que hizo disidencia lo encuentre indistinguible del
+        "escrutinio estricto" aplicado para estas dos últimas clasificaciones: 518
+        U.S. 515, 596).”35
+
+        En ambos casos, la Corte estableció que las circunstancias – o categorías – “ser
+extranjero” y “ser mujer”, en principio, nunca constituyen categorías razonables de modo
+que superen el test que entiende se desprende del artículo 16 para establecer cuáles
+distinciones pueden ser realizadas por el Estado sin violar el principio de igualdad ante la
+ley. En el primer caso, “ser nacional” no es un buen criterio indicador para deducir de él
+que una persona será una buena maestra, y, en el segundo, “ser varón” no es la
+característica de la persona que asegura que ella será un buen estudiante de colegio
+secundario 36.
+
+        En síntesis, el principio de igualdad ante la ley, según esta interpretación que le ha
+dado la Corte Suprema de Justicia de nuestro país, refleja lo que alguna doctrina ha
+denominado el “principio de no discriminación”37, según el cual la igualdad de trato ante
+la ley se encontrará violada siempre que no sea posible superar el test de razonabilidad,
+test que algunas categorías (las “sospechosas”), se presume, a priori no pueden superar.
+
+       Esta visión individualista de la igualdad ante la ley que establece la posibilidad de
+hacer distinciones basadas en criterios razonables –entendiendo por “razonables”
+aquellos que logren establecer una relación de funcionalidad con el fin buscado por la
+regulación del derecho–, tiene por objeto impedir que las decisiones estatales (y, quizás,
+también algunas decisiones de particulares) se realicen sobre la base de prejuicios y
+visiones estigmatizantes de grupos de personas. El objeto de un artículo como el 16 de
+
+35
+   Caso González de Delgado, Cristina y otros c/ Universidad Nacional de Córdoba. El énfasis agregado es
+mío.
+36
+   Para un análisis de la doctrina de las “categorias sospechosas” en nuestra Corte Suprema, ver Hernán
+Gullco, “El uso de las categories sospechosas en el derecho argentino”, en AA.VV., El derecho como
+objeto e instrumento de transformacción, SELA 2002, Editores del Puerto, Buenos Aires, 2003, pp. 287-
+302.
+37
+   Owen Fiss, Una comunidad de iguales, Miño y Avila, Buenos Aires, 2002. Traducido del ingles por Raúl
+M. Mejía del original A Community of Equals. The Constitutional Protection of New Americans, Beacon
+Press, Boston, 1999, pp. 3-29.
+
+
+                                                  12
+
+[[PDF p. 13]]
+nuestra Constitución Nacional, entendido desde esta perspectiva, aspira a que las
+personas sean tratadas de modo que sólo sea relevante su capacidad para cumplir con el
+objeto que busca la regulación en cuestión. El Estado (y, quizás, también los particulares)
+debe ser ciego a las características de nacimiento, físicas, o de otro tipo que no resulten
+de relevancia para los fines de la actividad que esa persona aspira a realizar (por ejemplo,
+un empleo). El objetivo es noble y sencillo de entender. De todos modos, veamos un
+ejemplo por demás gráfico para terminar de entender esta visión de lo que igualdad ante
+la ley significa. En los Estados Unidos, en la década del ‘70, con el fin de evitar una
+extendida práctica discriminatoria en la conformación de las orquestas, las audiciones en
+las que se probaban a los candidatos para formar parte de ellas se realizaban con paneles
+opacos que separaban al candidato de los miembros del jurado examinador. Incluso, en
+algunos casos, se tendían alfombras en el piso para que no se pudiera deducir el sexo de
+la persona sometida a prueba por el sonido de sus pasos. De este modo, el sexo, la raza, la
+religión, el color de piel, el origen nacional o la apariencia externa de la persona se
+encontraba completamente detrás del “velo de ignorancia” –casi sin metáforas– del
+comité examinador, de modo que la decisión de contratar a una de esas personas
+estuviera basada solamente en la calidad del sonido emitido. Según Post, “el músico se
+convertía en un instrumento perfectamente descorporizado (disembodied)”38. El objeto de
+las normas protectorias de la igualdad, y en particular, la interpretación individualista del
+artículo 16, intentan construir desde el derecho el mismo tipo de panel opaco virtual entre
+el sujeto que hace la distinción justificada, ya sea el estado o un particular, y el sujeto
+cuyo trato igual se aspira a proteger. De este modo, se busca evitar el prejuicio y la
+selección de personas sobre la base de criterios ajenos a los estrictamente funcionales.
+¿Qué tiene esto de malo? ¿Qué puede ser incorrecto acerca de esta visión de la igualdad?
+Veremos en la sección siguiente que la “ignorancia” no siempre es neutral y que la
+ceguera respecto de los efectos de un derecho “ciego a las diferencias” puede tener como
+consecuencia un cierto tipo de trato desigual no justificado desde una visión diferente de
+la igualdad ante la ley. ¿Podemos pedir más?
+
+
+
+                EL PRINCIPIO DE NO-DISCRIMINACIÓN PUESTO A PRUEBA:
+                       EL CASO DE LAS ACCIONES AFIRMATIVAS
+
+        Hasta aquí, todo parece ser muy consistente y casi podemos tener la tentación de
+relajar nuestros esfuerzos frente a la sensación del deber cumplido. Los avances
+descriptos en la sección anterior parecen indicar que hemos logrado identificar el carácter
+y ubicación de esa línea que el Estado (y, quizá, los particulares) no puede pasar cuando
+se dispone a realizar distinciones entre las personas dentro de los límites constitucionales.
+Hemos logrado construir un estándar que interpreta la “igualdad ante la ley” de modo que
+destierra los prejuicios y los estigmas.
+
+
+38
+ El ejemplo es ofrecido por Robert Post en Robert C. Post, “Prejudicial Appearances: The Logic of
+American Antidiscrimination Law”, en Robert C. Post et al., Prejudicial Appearances: The Logic of
+American Antidiscrimination Law, Duke University Press, Durham, 2003, pp. 18-19. La traducción es mía.
+Ver también “American Orchestras: All Ears”, The Economist, 30 de Noviembre de 1996, p. 89.
+
+
+                                                 13
+
+[[PDF p. 14]]
+        A modo de introducción del problema que intentaré describir en este apartado,
+puedo adelantar que el principio de no-discriminación, sostenido por una visión
+individualista del principio de igualdad ante la ley, no nos provee de suficientes
+herramientas para decidir en una gran cantidad de casos en los que las diferencias de
+hecho entre las personas, y en particular las diferencias que surgen a partir de un trato
+sistemáticamente excluyente o de sometimiento, son relevantes para realizar tratos
+diferentes que no serían tolerados por esa visión individualista de la igualdad. Uno de los
+desafíos más complejo que en este sentido enfrenta la interpretación individualista de la
+igualdad ante la ley está dado por el establecimiento de acciones afirmativas o también
+denominadas “medidas de discriminación inversa”.
+
+        Las acciones afirmativas se corresponden con un “trato (estatal) diferente”
+fundado en la identificación de ciertos grupos a cuyos miembros, exclusivamente por su
+calidad de tales, se les reconocen prerrogativas o tratos especiales que no les son
+reconocidos a miembros de otros grupos. Por ejemplo, diremos que el estado lleva a cabo
+una política de acción afirmativa cuando establece, al regular el derecho a la educación
+universitaria, que, debido a que de hecho las mujeres no acceden a este tipo de educación
+superior, se les reconocerá prioridad en el ingreso a la universidad, a través, por ejemplo,
+de un sistema de cuotas que aparta un cierto número (mínimo y nunca máximo) de las
+vacantes disponibles por las cuales sólo competirán las personas que sean miembros del
+grupo al que el Estado ha decidido dar un trato preferencial por diferentes motivos que
+veremos más adelante. Estas cuotas, al apartar esas vacantes a las que sólo podrán
+acceder los miembros del grupo beneficiado por el sistema, restan posibilidades a
+candidatos, en este caso varones, que pudieren incluso demostrar mayor “idoneidad” o
+“mérito” para desempeñarse como estudiantes universitarios que las mujeres que
+accederán a las vacantes. En otras palabras, es posible que como consecuencia de este
+sistema de cuotas, una mujer “menos idónea” que un varón (es decir, con menos
+preparación o antecedentes) sea aceptada en la universidad al tiempo que aquél no lo será
+por haberse completado las vacantes destinadas a varones (y mujeres no beneficiadas por
+las cuotas) con otros candidatos mejores que él. En resumen, este postulante varón estaría
+peor calificado que el resto de los varones admitidos, pero mejor que sus competidoras
+mujeres, una de las cuales tomó una posición que pudiera haber sido suya si se hubiera
+realizado una competencia “detrás del panel opaco”.
+
+        Veamos un ejemplo hipotético: supongamos que el ingreso a la universidad
+pública estuviera limitado a diez vacantes al año y que la selección se hará por medio de
+un examen que evalúe los conocimientos adquiridos en el colegio secundario. Asumamos
+también que, si bien es verdad que no existe ninguna norma que establezca un
+impedimento para que las mujeres ingresen a la universidad, se puede percibir
+estadísticamente que, de hecho, las mujeres no acceden a este nivel educativo. Esto puede
+darse por diferentes motivos, tales como la autoexclusión de las mujeres (como
+consecuencia de bajos niveles de autoestima derivados de un discurso degradante
+sostenido por décadas por los varones – y también por mujeres – de la sociedad) o por
+ciertas características estructurales derivadas de la distribución de roles en la familia (“la
+mujer se encarga de las cosas del hogar”). Esta “exclusión de hecho” de las mujeres del
+derecho a estudiar, le brindaría al Estado el justificativo para establecer que de las diez
+
+
+
+                                             14
+
+[[PDF p. 15]]
+vacantes anuales, tres de ellas estarán sólo destinadas a ser cubiertas por mujeres, incluso
+en el caso en que las tres mujeres con mejores calificaciones no alcancen los niveles de
+las calificaciones de los tres varones peor calificados entre los diez mejor calificados. En
+esta situación, habrá varones con mejores calificaciones que las mujeres mejor calificadas
+y que, sin embargo, no ingresarán a la universidad por encontrarse ese cupo de tres
+ingresantes reservado a las mujeres. Claramente, los varones con buenas calificaciones –
+pero no tan buenas como las de los primeros siete calificados, claro –, apoyados en la
+doctrina de la igualdad de trato como no-discriminación presentada en el parágrafo
+anterior, sostendrán que su derecho a ser tratados igual ante la ley se encuentra violado
+por realizar el Estado una distinción fundada en un criterio irrazonable, en el sentido de
+que el criterio escogido, “el sexo”, no guarda relación funcional o instrumental con el fin
+buscado, asumiendo que el fin buscado es el de identificar para el ingreso a la universidad
+a los “mejores estudiantes”. Como ya vimos en la sección anterior, el sexo de los
+postulantes no opera aquí como “criterio indicativo” de la calidad académica necesaria
+para comenzar estudios superiores. He aquí el dilema. ¿Cómo es posible justificar el trato
+desigual fundado en el sexo (más precisamente, “ser mujer”) en el caso de las acciones
+afirmativas, al tiempo que se sostiene que el criterio a utilizarse debe guardar relación de
+funcionalidad con el fin buscado por la regulación? Es en este punto en el que las
+acciones afirmativas, de considerarse justificadas39, entran en conflicto con el principio
+de igualdad ante la ley entendido como “no-discriminación”. Parece ser que, o bien las
+acciones afirmativas serían contrarias al principio de igualdad ante la ley; o bien el
+principio de igualdad ante la ley debería ser redefinido y reinterpretado de modo que sea
+compatible con medidas semejantes a las que se instrumentan a través de las acciones
+afirmativas. Este es el dilema que debió enfrentar la Corte Suprema de los Estados
+Unidos en el caso Bakke40 (1978) y, muy recientemente, en los dos casos Universidad de
+Michigan41 (2003). En ellos, frente a políticas de acción afirmativa llevadas adelante por
+las universidades respectivas para favorecer el ingreso de estudiantes afroamericanos,
+alumnos blancos que vieron impedido su ingreso a pesar de haber obtenido mejores
+calificaciones que sus competidores de raza negra, exigían la declaración de
+inconstitucionalidad de estas políticas por violar el derecho a ser tratados igual ante la ley
+entendiendo este derecho como un derecho a no ser discriminados por causas
+irrazonables, es decir, entendiendo el derecho de igualdad ante la ley como fundado en el
+principio de no-discriminación. El argumento se construía, básicamente, sobre la idea de
+que la identificación de la raza como criterio relevante para hacer distinciones en función
+de la posibilidad de ejercer el derecho a realizar estudios en la universidad no superaba el
+test de razonabilidad entendido como funcionalidad o instrumentalidad. Para ser gráfico,
+“ser afroamericano” claramente no operaba como criterio indicativo de “ser mejor
+estudiante”. Esto era “claro”, pero sobre todo porque en ningún momento las medidas de
+acción afirmativa aspiran a establecer criterios que permitan establecer esta relación de
+funcionalidad o instrumentalidad. Todo lo contrario. Estos criterios se erigen con plena
+
+39
+   Sobre diferentes justificaciones de las acciones afirmativas, ver Michael Rosenfeld, Affirmative Action
+and Justice. A Philosophical and Constitutional Inquiry, Yale University Press, New Haven, 1991, pp. 11-
+163.
+40
+   438 U.S. 265
+41
+   Barbara Grutter v. Lee Bollinger et al. and Jennifer Gratz and Patrick Hamacher v. Lee Bollinger et al.,
+decididos por la Corte Suprema de los Estados Unidos el 23 de junio de 2003.
+
+
+                                                    15
+
+[[PDF p. 16]]
+conciencia de la imposibilidad de que los beneficiarios de estas acciones afirmativas
+superen ese test. Ellos asumen la dificultad de personas de ciertos grupos para lograr
+alcanzar los estándares académicos de sus competidores de otros grupos y, por esa misma
+razón, reciben un trato preferencial que antepone la pertenencia al grupo favorecido por
+la política, por sobre la calidad académica del postulante. En este sentido, Dworkin
+afirma, basado en un estudio empírico42, que “si la Corte Suprema declarara
+inconstitucionales las acciones afirmativas (...) el ingreso de estudiantes negros a
+universidades de élite se vería drásticamente reducido, y los estudiantes negros serían
+muy excepcionalmente admitidos a las mejores facultades de derecho o de medicina”43.
+Planteado en estos términos, la tensión entre las medidas de acción afirmativa y el
+principio de igualdad ante la ley como principio de no-discriminación queda
+completamente al descubierto. ¿Cómo rescatar a las acciones afirmativas de su propia
+“confesión” de apoyarse sobre un criterio irrazonable en términos de funcionalidad o
+instrumentalidad, es decir, “discriminatorio”?
+
+         Ronald Dworkin, sugirió un modo de superar este dilema, en el caso particular del
+ingreso a las universidades, sin modificar el principio de no-discriminación a la vez que
+justificaba, fundado en él, la constitucionalidad de las acciones afirmativas. Su estrategia
+se articula sobre la base de una redefinición de los fines mismos de la regulación. En este
+sentido, dice Dworkin, el dilema surge a partir de una identificación errónea por parte de
+los recurrentes de los fines de la regulación que establece distinciones respecto de
+quiénes pueden acceder al ejercicio del derecho a la educación universitaria. No es cierto,
+sostiene, que el fin buscado sea el de identificar a aquellos estudiantes que sean capaces,
+gracias a su formación previa, de desempeñarse satisfactoriamente en los cursos
+universitarios. Los fines buscados por la regulación del ingreso son otros, asociados a los
+fines mismos de la universidad. En este sentido, Dworkin sostiene que:
+
+                “A veces se dice que los aspirantes a ingresar a la universidad
+        tienen el derecho de ser juzgados sólo sobre la base de estrechos criterios
+        académicos, pero esto no puede sostenerse seriamente. Las vacantes en las
+        universidades que tiene sistemas de selección de los aspirantes no
+        constituyen insignias de mérito o premios a la posesión de talentos innatos
+        o al desempeño logrado en el pasado o en cierta actividad: ellas son
+        oportunidades que son ofrecidas a quienes demuestren una mayor
+        probabilidad futura de contribuir con los fines que la universidad persigue.
+        Estos fines pueden ser, e históricamente han sido [en los Estados Unidos],
+        sociales, además de ser también, en un sentido más estrecho, académicos.
+        Las Universidades dicen que entrenan a los futuros líderes de la nación y
+        del mundo: si es mejor para la nación que los líderes se identifiquen más
+        íntimamente con la diversidad de sus ciudadanos, entonces nadie es
+        afectado por el accionar de universidades que incluyen ese objetivo entre
+        sus aspiraciones. Por supuesto, ellas no deben actuar injustamente o
+        violando los derechos morales de nadie. Particularmente, ellas no deben
+
+42
+   William G. Bowen y Derek Bok, The Shape of the River: Long Term Consequences of Considering Race
+in College and University Admissions, Princeton University Press, 1998.
+43
+   Ronald Dworkin, Sovereign Virtue, Harvard University Press, Cambridge, 2000, p. 410.
+
+
+                                                16
+
+[[PDF p. 17]]
+         excluir estudiantes sobre la base de su raza o cualquier otra forma de
+         prejuicio o estereotipo. Pero los programas de la Universidad de Michigan
+         no reflejan prejuicio racial o de otro tipo. Por el contrario, los estudiantes
+         que eligen esos programas aspiran, entre otras cosas, a reducir el prejuicio
+         en el aula y en el país”.44
+
+        Para Dworkin, no hay dilema alguno entre las acciones afirmativas y el principio
+de igualdad ante la ley entendido como no-discriminación tendiente a evitar distinciones
+realizadas sobre la base de criterios irrazonables. Sólo se trata de una identificación
+errada de los fines de la regulación, error que se vincula a una identificación equivocada
+de los fines de la universidad. Una vez redefinidos los fines de la regulación, el criterio de
+raza se torna una categoría razonable (en lo funcional o instrumental) para efectuar
+distinciones y, por lo tanto, ellas serían permitidas por el principio de igualdad ante la ley
+(establecido en la constitución de los Estados Unidos) o, incluso, requeridas por él45. Sin
+embargo, más allá de la aparente adhesión de Dworkin al principio de instrumentalidad o
+de funcionalidad, su redefinición de los fines no se condice perfectamente con la visión
+individualista de la igualdad asociada a la idea de no-discriminación. La misma
+redefinición de los fines que él sugiere en el sentido de tornar relevante el contexto social
+en el que ellos son identificados (es decir, la inclusión de representantes de ciertos grupos
+nacionales, raciales o de género, de modo que éstos se encuentren reflejados en la
+composición del aula o tornen posible la generación de líderes para esos grupos con
+personas provenientes de ellos), convierte a la perspectiva de Dworkin en una mucho más
+próxima a la que más adelante identificaremos con autores como Post o Fiss en el sentido
+de que todos ellos consideran relevante el contexto social en el que opera el trato
+(des)igual, que con la perspectiva individualista y descontextualizada de la Corte
+norteamericana en Reed. En suma, y a riesgo de pecar por superficial en esta
+consideración de su posición al paso, entiendo que Dworkin intenta permanecer en el
+terreno de la igualdad como no-discriminación incorporando el dato del contexto social
+
+44
+   Ronald Dworkin, “The Court and the University”, New York Review of Books, 15 de mayo de 2003,
+Volumen L, Número 8, pp. 8-9. La traducción, los agregados y el énfasis son míos. Ver también Ronald
+Dworkin, Sovereign Virtue, Harvard University Press, Cambridge, 2000, Capítulo 12: “Affirmative Action:
+Is It Fair?”, pp. 409-426.
+45
+   Si bien el caso no es idéntico, puesto que lo que se encontraba en debate era la razonabilidad misma del
+criterio “ser varón” para poder ingresar a un colegio público, la Corte Suprema de Argentina debió también
+establecer la correlación entre el criterio de ingreso y el fin de la institución educativa “redefinido”, según
+el voto de Fayt, en términos “dworkinianos”: “La educación que brindan los colegios universitarios ha sido
+entendida como "el secreto, el método de la verdadera disciplina que asegure los beneficios combinados del
+colegio y de la universidad", "la llave de oro para develar el ansiado tesoro educativo que busca la
+República y que, sin definirlo, la conciencia nacional anhela para la selección de sus elementos directivos",
+en cuyo ámbito "se desarrolla el lazo fraternal y solidario...que es el de la convicción de un destino común
+en la gran asociación política que es la patria" (conf. Joaquín V. González, "Universidades y Colegios",
+conferencia del ministro de Justicia e Instrucción Pública en el aula "Estrada" del Colegio Nacional Central
+de Buenos Aires antes de su demolición, el 5 de julio de 1905, págs. 249 y sgtes.). De allí la importancia de
+admitir a esta altura de los tiempos que esta calidad de educación no cuente con limitación alguna en razón
+del sexo; por el contrario, y como se señaló ya en la oportunidad recién indicada (conf. op. y loc. cit.), la
+selección de quienes habrán de recibir esa mejor formación destinada a conformar el grupo directivo, "no es
+deliberada respecto a las personas, ni puede serlo en manos del Estado: éste funda el sistema, le imprime
+movimientos, y el mecanismo por si sólo devuelve al artífice el producto depurado." Caso Universidad de
+Córdoba. El énfasis agregado es mío.
+
+
+                                                     17
+
+[[PDF p. 18]]
+en el que el trato (des)igual se lleva a cabo, pero, para lograrlo, abandona la visión
+individualista y, casi imperceptiblemente, se desliza hacia una visión de la igualdad más
+sociológica que definiré como estructural.
+
+        Sin ánimo de criticar aquí esta estrategia dworkiniana de rescate del principio de
+no-discriminación por la vía de la redefinición de los fines de la regulación, dado que no
+es el objetivo de este artículo, y con el objeto exploratorio que domina en este ensayo,
+propongo asumir que ella no resulta convincente. En su caso, sugiero examinar otro
+intento de superar este dilema en el contexto del derecho constitucional argentino. Ella se
+relaciona con una versión diferente del principio de igualdad, ya no como no-
+discriminación, sino como no-sometimiento o no-exclusión46. Sobre ella me referiré en
+las próximas dos secciones.
+
+        Finalmente, y para concluir este parágrafo, es importante señalar que la discusión
+que se da en el contexto del derecho constitucional de los Estados Unidos y que pone en
+evidencia la tensión entre el principio de igualdad ante la ley y las acciones afirmativas
+no es fácilmente extrapolable a nuestro país. Ello es así debido a que, mientras que en los
+Estados Unidos el principio de igualdad es de carácter constitucional y las medidas de
+acción afirmativa encuentran su fuente en la ley (y, por ello, son pasibles de ser
+declaradas inconstitucionales por los tribunales), la incorporación en la propia
+Constitución Nacional de nuestro país de acciones afirmativas respecto de algunos grupos
+específicos, como lo es el de las mujeres, según lo establece el artículo 75, inciso 23,
+torna el debate sobre su “constitucionalidad” irrelevante, dado que ya tienen
+reconocimiento constitucional. En el caso del país del norte, la raíz legal de las acciones
+afirmativas puede hacerlas vulnerables frente a ataques fundados en la Enmienda XIV de
+la Constitución, de modo que la discusión tiene sentido al buscar derribar la validez
+constitucional de la norma legal. En el caso de nuestro país, la inclusión constitucional de
+las acciones afirmativas obliga a conciliar ambas normas, el artículo 16 y el artículo 75,
+inciso 23, quizá redefiniendo el significado del primero de ellos. A este punto me referiré
+en la sección siguiente a la próxima.
+
+
+
+
+        LAS VERSIONES “INDIVIDUALISTA” Y “ESTRUCTURAL” DE LA IGUALDAD
+         Y SU CORRESPONDENCIA CON LOS PRINCIPIOS DE NO-DISCRIMINACIÓN
+                   Y DE NO-SOMETIMIENTO (O DE NO-EXCLUSIÓN)
+
+
+
+        El principio de igualdad ante la ley entendido como “no discriminación”, tiene su
+raíz en una versión individualista de la igualdad. Esta versión se vincula, por un lado, con
+una visión descontextualizada de la situación de cada individuo, como contraria a una
+visión “sociológica” o contextualizada de una realidad social más amplia que contempla
+
+46
+  Owen Fiss, “Groups and the Equal Protection Clause”, en Philosophy and Public Affairs, Volumen 5, p.
+107, 1976. También, más reciente y en referencia a la situación de los inmigrantes en los Estados Unidos,
+Owen Fiss, A Community of Equal, Beacon Press, Boston.
+
+
+                                                   18
+
+[[PDF p. 19]]
+la pertenencia de ese individuo a un grupo que se encuentra sometido a ciertos tratos o
+prácticas sociales como consecuencia de ser ese grupo. Por otro parte, la versión
+individualista de la igualdad requiere de una supuesta intención de discriminación
+reconocida a partir de la irrazonabilidad del criterio seleccionado.
+
+        Vale la pena aclarar que la versión sociológica de la igualdad no se asocia
+necesariamente con una perspectiva holista (y por ello, no liberal) que identifica la
+existencia de entes superiores y diferentes a las partes que los componen. Esta visión no
+individualista de la igualdad continúa reconociendo a las personas como fines en sí
+mismos y valiosos en términos individuales, sólo que incorpora, además, el dato de su
+pertenencia a un grupo determinado que le permite reconocer su identidad, tanto a ella
+misma, como a los terceros que comparten su condición y aquellos que no. Sostener que
+el grupo de las mujeres resulta segregado de la actividad política, que el grupo de los
+discapacitados motrices resulta excluido de los espacios públicos (y privados) o que los
+afectados del virus de HIV son segregados de los empleos, no implica necesariamente
+presumir que estos grupos conforman entes diferentes de las partes que los conforman y,
+por lo tanto, “sacrificables” por el bienestar del “todo”, que sería lo criticable de una
+visión holista del grupo por un liberal. El reconocimiento de la existencia de grupos, en
+este sentido, sólo se limita a reconocer que la identidad individual de las personas
+autónomas se constituye, entre otras cosas, por su condición de ser mujer, ser
+discapacitado o ser afectado por una enfermedad que tiene implicancias en las prácticas
+sociales dirigidas a tratar con aquellos que la han contraído.
+
+        También merece un comentario la relación entre la versión individualista de la
+igualdad y la requerida intención de trato desigual irrazonable (y, por ello,
+discriminatorio). Si bien este rasgo parece ser fundamental al momento de desplegar una
+estrategia que enfrente el prejuicio, ella no parece ser prácticamente posible o efectiva.
+Fiss y Dworkin, por ejemplo, sostienen que las leyes no pueden ser juzgadas respecto de
+su constitucionalidad por la intención de los legisladores, dada las dificultades que se
+encuentran en el proceso de identificación de esa particular intención47. ¿Es ella la
+intención del legislador que propuso originalmente el proyecto de regulación? ¿O la de
+los legisladores que votaron a favor de ella al sancionarse la ley en cuestión? Y si los
+votantes en el Congreso apoyaron la sanción por diferentes razones, ¿cuál de ellas es
+relevante para realizar ese juicio? Si reconocemos el fracaso de esta estrategia
+“originalista” o “subjetivista”48, entonces, desde una visión de la igualdad como no-
+discriminación, sólo nos resta juzgar la regulación, según dice Fiss refiriéndose a las
+situaciones de los inmigrantes en Estados Unidos, “sobre la base del propósito social
+concebido objetivamente, y no de la motivación real. Desde esta perspectiva, sería difícil
+impugnar una ley que impone discapacidades a los inmigrantes [o a otros grupos
+
+
+
+47
+   Owen Fiss, A Community of Equals, p. 29. Ronald Dworkin, Sovereign Virtue, Harvard University Press,
+Cambridge, 2000, Capítulo 12: “Affirmative Action: Is It Fair?”, pp. 411. También Ronald Dworkin, Law’s
+Empire, Harvard University Press, Cambridge, 1986, Capítulo 9.
+48
+   Sobre críticas a este tipo de interpretación “originalista” realizada sobre la base de la identificación de
+intenciones, ver Roberto Gargarella, La justicia frente al gobierno, Ariel, Barcelona, 1996, pp. 59-80.
+
+
+                                                     19
+
+[[PDF p. 20]]
+“sometidos”] alegando discriminación arbitraria, ya que casi siempre puede imaginarse
+un propósito social legítimo”49.
+
+        Teniendo en cuenta ambas críticas a la versión individualista de la igualdad,
+autores como Fiss50, Post51, Siegel52 o MacKinnon53, entre muchos otros, proponen una
+visión diferente de la igualdad ante la ley. Una versión de la igualdad que no es de tipo
+individualista y que, por lo tanto, tampoco se asocia necesaria o exclusivamente al
+principio de no-discriminación, si bien no siempre debe percibirse como opuesto a él.
+Fiss denomina a esta versión “estructural”, y tiene fuertes parentescos con lo que Post
+denomina una versión sociológica de la igualdad.
+
+        En este sentido, Fiss sugiere que “el principio de no-discriminación encierra una
+concepción muy limitada de igualdad ... [y que por ese motivo propone] delinear otro
+principio intermedio – el principio del grupo desaventajado – que tenga un buen, si no
+mejor, argumento para representar el ideal de la igualdad, un principio que dé mejor
+cuenta de la realidad social, y que haga foco más claramente en las cuestiones sobre las
+que es preciso decidir en los casos de igual protección de la ley”54.
+
+        Esta lectura estructural de la igualdad ante la ley no se vincula con la
+irrazonabilidad (funcional o instrumental) del criterio escogido para realizar la distinción,
+sino que entiende que lo que la igualdad ante la ley persigue es el objetivo de evitar la
+constitución y establecimiento de grupos sometidos, excluidos o sojuzgados por otros
+grupos. Fiss llama nuestra atención sobre la contradicción que existe entre el principio de
+igualdad y la cristalización de “castas” o grupos considerados “parias”, justamente como
+consecuencia de una práctica sistemática de exclusión social, económica y, sobre todo,
+política. Según esta perspectiva, evitar la cristalización de un grupo excluido, sometido o
+sojuzgado55 es lo que parece subyacer como fundamento del principio de igualdad ante la
+ley. Es ésta posiblemente la idea de igualdad que se encontraba detrás de la afirmación de
+Moreno citada al inicio de este ensayo, en la que se identificaba a la igualdad con la lucha
+contra la opresión y las cadenas con las que los déspotas someten a los esclavos que
+cantan, forzados, himnos de libertad sin ser libres. Esta es, probablemente, la misma idea
+de igualdad como “libre de opresión” que Berlin defendía al presentar su concepto de
+libertad positiva ante su audiencia en la Universidad de Oxford en 1956.
+
+
+49
+   Owen Fiss, A Community of Equals, p. 29.
+50
+   Owen Fiss, “Groups and the Equal Protection Clause”, en Philosophy and Public Affairs, Volumen 5, p.
+107, 1976.
+51
+   Robert Post en Robert C. Post, “Prejudicial Appearances: The Logic of American Antidiscrimination
+Law”, en Robert C. Post et al., Prejudicial Appearances: The Logic of American Antidiscrimination Law,
+Duke University Press, Durham, 2003, p.1-53.
+52
+   Reva B. Siegel, “Discrimination in the Eyes of the Law: How “Color Blindness” Discourse Disrupts and
+Rationalizes Social Stratification”, en Robert C. Post et al., Prejudicial Appearances: The Logic of
+American Antidiscrimination Law, Duke University Press, Durham, 2003, p. 99-152.
+53
+   Catharine A. MacKinnon, Sexual Harassment of Working Women, Yale University Press, New Haven,
+1979, pp. 102-103.
+54
+   Owen Fiss, “Groups and the Equal Protection Clause”, en Philosophy and Public Affairs, Volumen 5, p.
+107, 1976.
+55
+   Fiss los denomina “castas”, Owen Fiss, A Community of Equals, p. 12.
+
+
+                                                  20
+
+[[PDF p. 21]]
+        Esta concepción de la igualdad estructural emerge también en la jurisprudencia de
+la Corte Suprema de los Estados Unidos, sobre todo a través de la opinión del juez
+Brennan en varios casos, como por ejemplo Plyler v. Doe56 (1982). En este pleito se
+encontraba en debate la existencia de un derecho a la provisión mínima de recursos
+educativos. En 1975, el Congreso del estado de Texas modificó su legislación en materia
+educativa autorizando a las escuelas locales de distrito a negar la inscripción en ellas de
+niños que no hubieran ingresado legalmente a los Estados Unidos, es decir, hijos e hijas
+de inmigrantes ilegales. El caso había sido promovido por medio de una acción de clase
+que reclamaba la inconstitucionalidad de la ley de Texas ante la Corte Suprema de los
+Estados Unidos. El argumento de la defensa se centró en sostener que la Enmienda XIV
+establece “que ningún estado (...) negará a ninguna persona bajo su jurisdicción una
+protección igual de las leyes” (una cláusula sumamente emparentada con la idea de
+“igualdad de trato ante la ley” de nuestro artículo 16) y que, debido a su status legal en
+materia inmigratoria, los que hubieran ingresado ilegalmente a los Estados Unidos no
+eran, estrictamente, “personas bajo su jurisdicción”. Brennan se opuso frontalmente a este
+argumento sosteniendo que más allá de status que tengan estos inmigrantes de acuerdo
+con las leyes de migraciones, ellos “son claramente ‘personas’ en el sentido más
+ordinario del término”. En referencia al tema que nos ocupa, Brennan desarrolla con
+claridad una interpretación de la Enmienda XIV fundada en una visión de la igualdad
+ante la ley similar a la idea de igualdad estructural que persigue impedir la constitución
+de grupos excluidos que se cristalicen como “castas” o “parias” sociales:
+
+         “la más completa incapacidad o la aplicación laxa de las leyes que
+         impiden el ingreso ilegal a este país, acompañadas del fracaso en
+         establecer una barrera efectiva al empleo de inmigrantes indocumentados,
+         ha resultado en la creación de una significativa ‘población en las sombras’
+         (shadow population) de inmigrantes ilegales – que llega a ser de millones
+         – dentro de nuestras fronteras. Esta situación levanta el espectro de una
+         casta permanente de residentes indocumentados, alentados por algunos a
+         permanecer aquí como fuerza de trabajo barata, pero negándoseles los
+         beneficios que nuestra sociedad pone a disposición de los ciudadanos y
+         residentes legales. La existencia de este grupo marginado (underclass)
+         representa uno de sus problemas más complejos para una Nación que se
+         enorgullece por su adhesión al principio de igualdad ante la ley.”57
+
+       Los demandantes en este caso no eran los padres ilegales, sino los niños y
+niñas que, por la ley de Texas, resultaban afectados por la decisión de sus padres
+de ingresar ilegalmente a los Estados Unidos. En este sentido, Brennan agrega
+mayor definición a lo que es para él este particular grupo de “marginados”,
+cuando sostiene, citando Trimble v. Gordon58 (1977), que estos niños “no tienen
+la posibilidad de influir en la conducta de sus padres, así como tampoco en su
+propio status (...) utilizar la responsabilidad de la conducta ilegal de los padres
+contra sus hijos no se condice con las concepciones más fundamentales de
+
+56
+   457 U.S. 202
+57
+   La traducción y el énfasis son míos.
+58
+   430 U.S. 762, 770.
+
+
+                                             21
+
+[[PDF p. 22]]
+justicia.”59 De esta última afirmación se podría desprender un rasgo adicional que
+permitiría identificar a este grupo marginado, y que podría estar dado por su falta
+de responsabilidad respecto de su propia situación, por encontrarse éste en la
+situación en la que se halla (en este caso, los niños no son responsables por una
+situación que encuentra su raíz en la decisión de sus padres de ingresar
+ilegalmente a un país), o su contracara, es decir, la ausencia de la posibilidad de
+influir sobre la decisión o la conducta de aquellos que los condujeran a la
+situación en la que se encuentran.
+
+        Finalmente, y por los rasgos particulares de este caso, que se refería, en
+última instancia, al derecho de acceso a la educación, Brennan, luego de aclarar
+que la educación pública no es un “derecho” reconocido a los individuos por la
+Constitución, citando San Antonio School District, y en consistencia con la
+tradición de rechazo del reconocimiento de los denominados “derechos sociales”
+por el derecho constitucional de los Estados Unidos60, agrega que la Corte
+Suprema de los Estados Unidos ha reconocido “a la escuela pública como una
+institución cívica vital para la preservación del sistema democrático de gobierno”,
+de acuerdo a lo sostenido por el propio Brennan en su voto concurrente en
+Abington School District v Schempp61 (1963) y en el famoso caso Wisconsin v.
+Yoder62 (1972), en el que la Corte estableció que “algún grado de educación es
+necesario para preparar a los ciudadanos para participar efectiva e
+inteligentemente en nuestro sistema político abierto si aspiramos a preservar la
+libertad y la independencia”63. Estas afirmaciones agregan mayor definición a la
+caracterización del grupo marginado inconstitucionalmente, agregando un rasgo
+asociado a lo que Berlin llamaba libertad positiva y que se relaciona con la idea
+de inclusión en la toma de decisiones colectivas en un sistema democrático y que,
+según John Ely64, también emerge en la famosa nota de pie de página número 4
+del caso United States v. Carolene Products Co. 65 decidido por la Corte Suprema
+de los Estados Unidos en 1938, en la que el tribunal llama la atención sobre la
+posibilidad del control judicial de constitucionalidad cuando se hubiere operado la
+exclusión de “minorías insulares” del proceso de toma decisión política.
+
+       MacKinnon, siguiendo el marco conceptual ofrecido por Fiss en su
+angular artículo de 197666, sostiene en su libro de 1979 sobre el acoso sexual de
+las mujeres trabajadoras67, que “la posición social de las mujeres tiene un lugar
+59
+   La traducción y el énfasis son míos.
+60
+   Para una relación entre el reclamo por el respeto de derechos sociales y el principio de igualdad ante la
+ley como una estrategia de exigibilidad indirecta de los primeros, ver Víctor Abramovich y Christian
+Courtis, Los derechos sociales como derechos exigibles, Editorial Trotta, Madrid, 2002, pp. 168-178.
+61
+   374 U.S. 203, 230.
+62
+   406 U.S. 205, 221.
+63
+   La traducción es mía.
+64
+   John H. Ely, Democracia y desconfianza, Universidad de los Andes, Capítulo 4, pp. 97-131.
+65
+   304 U.S. 144, 152-153, nota 4.
+66
+   Owen Fiss, “Groups and the Equal Protection Clause”, en Philosophy and Public Affairs, Volumen 5, p.
+107, 1976.
+67
+   Catharine A. MacKinnon, Sexual Harassment of Working Women, Yale University Press, New Haven,
+1979, pp. 102-103.
+
+
+                                                     22
+
+[[PDF p. 23]]
+particular en el análisis de la desigualdad, mientras que no lo tiene en el análisis
+de la diferenciación arbitraria. Desde esta perspectiva, la prohibición de la
+discriminación por sexo aspira a eliminar la inferioridad social de un sexo
+respecto del otro, y a desmantelar la estructura social que mantiene una serie de
+prácticas que se acumulan, en términos de Owen Fiss, sobre las mujeres
+‘desaventajadas’”68.
+
+        Fiss y MacKinnon rechazan la versión de la igualdad asociada a la idea de
+no discriminación por no incorporar el “dato” sociológico de la situación social de
+las mujeres como grupo desplazado por otro grupo. La versión de la igualdad
+estructural no adhiere sólo y exclusivamente a la idea de no discriminación
+(entendida como trato no arbitrario fundado en prejuicios), sino a un trato
+segregacionista y excluyente tendiente a consolidar una situación de grupo
+marginado (la casta o underclass). La idea de igualdad como no sometimiento no
+se opone al ideal de no arbitrariedad que subyace a la idea de igualdad como no
+discriminación, sino que lo concibe como insuficiente o incompleto. Volvamos
+por un momento a nuestro ejemplo de la selección de músicos para una orquesta.
+La mampara opaca, símbolo de ignorancia desprejuiciada, permite evaluar a los
+candidatos sólo sobre la base de sus aptitudes como ejecutores de instrumentos
+musicales. Como sostiene, Post, cada postulante es como si fuera un instrumento
+en sí mismo. En un mundo ideal, este modo de seleccionar miembros de la
+orquesta, permitirá elegir a los mejores músicos sin resultar influenciados por
+prejuicios discriminatorios hacia, por ejemplo, mujeres o afroamericanos. El
+jurado es completamente ciego – pero no sordo, en este caso, por supuesto – a las
+diferencias que sean irrelevantes para juzgar el desempeño de los músicos. Sin
+embargo, esta decisión aparentemente neutral y desprejuiciada, fundada en el
+principio de igualdad como no discriminación, es también ciega, y por lo tanto no
+neutral, al tipo de personas que se presentan como candidatos para formar parte de
+la orquesta. Me explico. Supongamos que debido a ciertas condiciones y prácticas
+sociales las mujeres se autoexcluyeran de este concurso para cubrir puestos
+vacantes en la orquesta. Esto es perfectamente imaginable si pensamos que
+algunas sociedades asignan informalmente a las mujeres un rol social que se
+limita, por ejemplo, a las actividades domésticas. Asumamos que dado el hecho
+de que la mayoría de las orquestas, hasta el momento, no cuentan con mujeres,
+éstas pueden bien suponer que, incluso de ser aceptadas, su situación dentro de la
+orquesta no será sencilla debiendo enfrentar prejuicios y maltratos cotidianos
+mientras ejecutan sus obligaciones. Supongamos que algo de esto sucediera y que
+los postulantes para los puestos vacantes en la orquesta, aquellos cuyos rostros no
+son vistos por los jurados ubicados detrás de la mampara opaca, fueran todos
+varones, ¿podríamos afirmar sin algún grado de duda que esa selección es
+totalmente neutral? Desde el punto de vista de la igualdad ante la ley, ¿es
+absolutamente irrelevante el dato de quiénes llegan a participar de la instancia de
+selección detrás del “velo de ignorancia” del jurado? Para la visión de la igualdad
+como no sometimiento o no exclusión, este dato no es irrelevante. Todo lo
+
+68
+  Catharine A. MacKinnon, Sexual Harassment of Working Women, Yale University Press, New Haven,
+1979, pp. 103. La traducción y el énfasis son míos.
+
+
+                                               23
+
+[[PDF p. 24]]
+contrario. Ese es exactamente el dato de mayor relevancia contra cuyas causas y
+efectos se articula el principio de igualdad ante la ley. Correr el velo y tratar de
+modo diferente a las personas de acuerdo con el grupo (de personas de un
+determinado sexo) al que pertenecen, privilegiando, por ejemplo a las mujeres por
+sobre los varones en un contexto de exclusión sistemática de las primeras de su
+participación en las orquestas, no sólo no sería contrario al principio de igualdad
+como no sometimiento, sino que sería requerido por éste, mientras que resultaría
+inadmisible desde la perspectiva de la igualdad como no discriminación. No sería
+el “sexo” el criterio insostenible para hacer distinciones, sino el hecho de “ser
+mujer” el que no sólo no podría tomarse como relevante para la contratación de
+músicos, sino que él sería relevante – y constitucionalmente requerido – para
+brindarles a las mujeres un trato privilegiado justificado. Es más, en un contexto
+de exclusión de las mujeres como el descripto, sería inconstitucional por contrario
+a la idea de igualdad como no sometimiento, establecer algún tipo de privilegio
+para los varones. Es por este motivo que las acciones afirmativas respecto de las
+mujeres serían requeridas por el principio de igualdad, mientras sería impensable
+establecer acciones afirmativas para varones69.
+
+        En nuestro país, esta distinción entre las dos versiones del principio de
+igualdad ante la ley y su consiguiente tensión, se ha puesto de manifiesto en unos
+pocos casos, siendo el más representativo González de Delgado, Cristina y otros
+c/ Universidad Nacional de Córdoba. Es éste un caso un tanto extraño que llega a
+los estrados de la Corte Suprema de Justicia a instancia de los padres de los
+alumnos varones de un prestigioso colegio público que luego de más de un
+centenar de años de no admitir mujeres, comenzó a hacerlo. Los padres de los
+estudiantes alegaban un supuesto derecho de sus hijos a continuar asistiendo al
+colegio sin mujeres en las aulas. Más allá de la curiosidad del planteo y la
+extrañeza de que caso hubiere sido admitido por la Corte para decidir sobre él, el
+debate de fondo se centró en la constitucionalidad del criterio “sexo” para la
+admisión de estudiantes al colegio. La mayoría de los argumentos de los
+Ministros de la Corte se articularon en torno al principio de no discriminación,
+identificando al “sexo” como criterio irrazonable apoyado en la tradición
+dominante de interpretación del principio de igualdad ante la ley. Sin embargo, es
+en el voto del Juez Enrique Petracchi que se reconocen rasgos emergentes de una
+idea diferente de igualdad, más cercana a la de no sometimiento:
+
+        “Que lo expuesto evidencia que la Universidad Nacional de Córdoba, al
+        disponer que las inscripciones en el Colegio Nacional de Monserrat se
+        efectuarán sin distinción de sexo, no sólo ha actuado como órgano
+        competente dentro de la esfera de sus atribuciones, sino que, más aún, ha
+        removido un valladar discriminatorio -que hoy resulta moral y jurídica-
+        mente abominable- que impedía la plena participación de las jóvenes
+        cordobesas en la vida educacional y cultural de su provincia”70.
+
+69
+   Ruth B. Ginsburg, Constitutional Aspects of Sex-Based Discrimination, St. Paul, Minnesotta, West
+Publishing Co., 1974, p.89.
+70
+   Caso González de Delgado, Cristina y otros c/ Universidad Nacional de Córdoba.
+
+
+                                                   24
+
+[[PDF p. 25]]
+        Y agrega:
+
+                “las categorías fundadas en el sexo no deben usarse para crear o
+        perpetuar la inferioridad legal, social y económica de la mujer. En todo
+        caso, las clasificaciones fundadas en el sexo pueden ser utilizadas para
+        compensar a las mujeres por las inhabilidades que ellas han sufrido a
+        través de la historia”71.
+
+
+       Al afirmar Petracchi que el estado no puede “perpetuar la inferioridad legal, social
+y económica de la mujer”, incorpora al análisis sobre la igualdad de trato ante la ley
+mucho más que el limitado principio de razonabilidad funcional o instrumental. La idea
+de “no perpetuación de la inferioridad” de un grupo, nos acerca a la aspiración de
+desmantelar un sistema de castas, como dirían Fiss o MacKinnon, que coloca a ese grupo
+en condición permanente de exclusión e inferioridad. Con este argumento, Petracchi pasó
+del campo de la igualdad como no discriminación, que domina la interpretación histórica
+de la Corte del artículo 16, al de la igualdad como no sometimiento. Aquí Petracchi está
+más cerca del Brennan de Plyer que de la Corte Suprema de los Estados Unidos en Reed
+v. Reed.
+
+
+
+                             DOS CONCEPTOS DE IGUALDAD;
+                       DOS CONCEPTOS DE CATEGORÍAS SOSPECHOSAS
+
+
+       La adopción justificada de alguno de los dos conceptos de igualdad presentados
+en este ensayo tiene implicancias relevantes para discernir la constitucionalidad de una
+variada gama de decisiones públicas. Según la jurisprudencia y doctrina vigentes, las
+categorías sospechosas operan como límite al accionar del estado respecto de distinciones
+que éste desee llevar a cabo entre las personas. Sin embargo, la identificación de esas
+categorías sospechosas estará controlada por el concepto de igualdad que se adopte. La
+toma de posición respecto del concepto de igualdad como no-discriminación o como no
+sometimiento, conduce a dos concepciones muy diferentes de categorías sospechosas.
+Veamos qué sucede en cada caso.
+
+       Desde la perspectiva de la igualdad como no-discriminación, las categorías
+sospechosas se referirían a aquellos criterios utilizados para realizar diferencias entre las
+personas y que nunca parecerían justificarse como criterios que puedan superar el test de
+razonabilidad funcional o instrumental. La edad (caso Salgado, Graciela Beatriz c.
+Gobierno de la Ciudad de Buenos Aires s/ acción declarativa de inconstitucionalidad72),
+
+71
+   Caso González de Delgado, Cristina y otros c/ Universidad Nacional de Córdoba. El énfasis agregado es
+mío.
+72
+   Expte. Nro. 826/01, 21 de Noviembre de 2001, Superior Tribunal de la Ciudad Autónoma de Buenos
+Aires, La Ley, 2002-B, p. 79. Ver el comentario a este fallo de Sebastián Schvartzman, “¿Debe ser la edad
+
+
+                                                   25
+
+[[PDF p. 26]]
+la estatura (caso Arenzon,Gabriel c/ Gobierno Nacional (Ministerio de Educación)”73), la
+nacionalidad (caso Repetto, Inés M. c/Pcia. de Buenos Aires74), o incluso la apariencia
+exterior o lookism (Ordenanza del Municipio de Santa Cruz, California, de enero de 1992
+prohibiendo la discriminación en el empleo sobre la base de la apariencia75), serían
+consideradas como categorías sospechosas desde la perspectiva de la igualdad como no
+discriminación. La calificación de una categoría como “sospechosa” no es una cuestión
+menor, desde que ella deposita en aquél que realiza la distinción, la carga de la
+demostración argumentativa de que existe un interés estatal urgente, si se trata del ámbito
+estatal76, o de una excepción basada en lo que la jurisprudencia de los Estados Unidos a
+denominado “calificación ocupacional de buena fe” (bona fide occupational qualification
+o BFOQ), si la distinción se realizara en la actividad privada77, a fin de superar la
+presunción de inconstitucionalidad. Según el principio de igualdad como no
+discriminación, estaría vedada la utilización de cualquier tipo de categoría que no fuera
+estrictamente funcional o instrumental a los fines de la regulación. En este sentido,
+resulta difícil identificar alguna actividad (laboral, política, deportiva, etc.) que pudiera
+estar condicionada por la edad, el sexo, la raza, la religión o incluso la apariencia física.
+Estas categorías refuerzan la “opacidad” de la mampara detrás de la cual se ubica el
+jurado (o el empleador) para tomar una decisión, por ejemplo, de contratación. Si lo que
+deseo es contratar una persona para operar la caja de un banco, el jurado sólo necesitará
+saber si puede cumplir las funciones que se espera realice (contar dinero, atender al
+público amablemente, etc.). Si esa persona es hombre o mujer, alto o bajo, feo o bonita,
+resulta ser irrelevante y, por lo tanto, la elección de alguno de estos criterios o categorías
+pondría en evidencia una decisión fundada en razones “prohibidas” por no ser de tipo
+funcional o instrumental y, por lo tanto, inconstitucionales.
+
+       Desde la perspectiva de la igualdad como no-sometimiento, las categorías
+sospechosas sólo serían aquellas que se refieran a una condición (“ser mujer”, por
+ejemplo) que se asocie con la caracterización de un grupo sistemáticamente excluido,
+sometido o sojuzgado por otro u otros grupos dentro de una estructura social
+medianamente cristalizada. Este principio no expande ni reduce el universo de las
+categorías sospechosas, sino que asocia las categorías sospechosas con criterios
+divergentes o idénticos a los que identifica el principio de no-discriminación, pero por
+razones diferentes. No cualquier categoría que no pueda superar el test de
+“funcionalidad” o “instrumentalidad” será calificada de sospechosa, sino que sólo lo
+serán aquellas categorías que se correspondan con un grupo sojuzgado o excluido. “Ser
+bajo de estatura” difícilmente pueda corresponderse con la categoría que identifica a un
+grupo sojuzgado. Las personas de baja estatura no son, generalmente, un grupo sometido.
+En cambio, “ser mujer”, en la mayoría de los países de América Latina y, por cierto en
+
+considerada una categoría sospechosa?, Suplemento de Derecho Constitucional, Revista La Ley, Buenos
+Aires, 18 de octubre de 2002.
+73
+   Corte Suprema de Justicia de la Nación, 15 de mayo de1984, publicado en La Ley, 1984-C, p. 183.
+74
+   Corte Suprema de Justicia de la Nación 8 de noviembre 1988, publicado en La Ley. 1989-B, p. 348
+75
+   Ver Robert Post en Robert C. Post, “Prejudicial Appearances: The Logic of American Antidiscrimination
+Law”, en Robert C. Post et al., Prejudicial Appearances: The Logic of American Antidiscrimination Law,
+Duke University Press, Durham, 2003, p. 2.
+76
+   Ver Robert Post, “Prejudicial Appearances…, p. 17.
+77
+   Robert Post, “Prejudicial Appearances…”, p. 24.
+
+
+                                                  26
+
+[[PDF p. 27]]
+Argentina, es una categoría sospechosa desde la perspectiva de la igualdad como no
+sometimiento.
+
+         Esta distinción entre categorías sospechosas (que se corresponden con la igualdad
+como no sometimiento) y categorías irrazonables (que se corresponden con la igualdad
+como no discriminación) impone en cabeza de los agentes que llevan a cabo el trato
+diferente sobre la base de unas y otras, distintos niveles de exigencia argumentativa
+justificatoria del trato desigual, se trate del estado o de particulares, y un tipo de análisis
+diferente. En el primer caso, deberá demostrarse la no existencia de una situación de
+sometimiento, sojuzgamiento, exclusión o, en términos de Petracchi, de perpetuación de
+una relación de inferioridad. En el segundo caso, se deberá demostrar la relación de
+funcionalidad o instrumentalidad entre el criterio escogido y el fin buscado por la
+regulación (la estatura no parece ser funcional al buen desempeño como maestro), a
+menos que se redefinan los fines de la regulación.
+
+        Volviendo al caso González de Delgado, Cristina y otros c/ Universidad Nacional
+de Córdoba, es interesante observar de qué modo, la falta de claridad respecto de la
+concepción de igualdad adoptada, condujo a una cierta ambigüedad en la decisión de
+Petracchi, quien por momentos parece adoptar un criterio de igualdad como no
+sometimiento (de acuerdo al párrafo citado más arriba) y por momentos funda su opinión
+en una concepción de igualdad como no discriminación. La versión de igualdad como no
+discriminación, contribuye a identificar al “sexo” como categoría sospechosa y, por lo
+tanto, como sostiene Petracchi, pone en cabeza del estado la carga de la argumentación
+necesaria para derribar la presunción de inconstitucionalidad por no ser un criterio
+funcional o instrumental con el fin de selección a los mejores estudiantes. Sin embargo,
+desde la perspectiva de la igualdad como no sometimiento, que parece subyacer a la
+aspiración de Petracchi de revertir una situación de “perpetuación de la inferioridad” de
+un grupo respecto de otro, la categoría sospechosa no sería el “sexo” sino la condición de
+“ser mujer”. No es el “sexo” el criterio sospechoso, sino “ser de sexo femenino” lo que
+resulta una categoría imposible de ser sostenida como justificatoria de diferencias que se
+correspondan con el mandato constitucional. Además, desde la perspectiva de la igualdad
+como no sometimiento, no se trata de demostrar que “ser de sexo femenino” o “ser
+mujer” no es una categoría que supere el test de razonabilidad funcional o instrumental,
+sino que es una categoría que contribuye a “perpetuar la inferioridad” del grupo de las
+mujeres. Una de las razones por la que esta distinción entre tipos de categorías
+sospechosas es sumamente relevante, es justamente porque en algunos casos las
+categorías sospechosas fundadas en el principio de igualdad como no sometimiento
+resultan contradictorias con las categorías sospechosas que se fundan en la igualdad como
+no discriminación. Veamos un último caso hipotético. Asumamos que vivimos en una
+sociedad en la que sistemáticamente se excluye a las mujeres de los cargos políticos, de
+las posiciones más importantes en los órganos de decisión empresarial o de la actividad
+educativa. Supongamos que, fundados en la concepción de igualdad como no
+sometimiento consideramos contraria al artículo 16 de la Constitución Nacional la
+contratación de empleados públicos exclusivamente varones por “perpetuar una situación
+de inferioridad” de las mujeres. Supongamos que, en este mismo contexto, una
+determinada agencia del gobierno sólo contrate mujeres. ¿Es posible sostener que esta
+
+
+
+                                              27
+
+[[PDF p. 28]]
+práctica de contratación es contraria a la igualdad ante la ley del artículo 16? Desde la
+perspectiva de la igualdad como no discriminación, el “sexo” será la categoría vedada y
+la contratación deberá siempre hacerse sin tener en cuenta esa característica de la persona
+(como en nuestro ejemplo de la mampara opaca para seleccionar miembros de la
+orquesta). Sin embargo, desde la perspectiva de la igualdad como no sometimiento, “ser
+mujer” será la categoría vedada, mientras que “ser varón” no sufriría la misma suerte.
+
+
+
+
+              LA IGUALDAD ANTE LA LEY EN LA CONSTITUCIÓN ARGENTINA
+                         A 150 DE SU SANCIÓN ORIGINARIA
+
+
+
+        Dos conceptos de igualdad están en debate: la igualdad como no discriminación y
+la igualdad como no sometimiento. La idea de igualdad como no discriminación no está
+necesariamente en el completo error. Todo lo contrario, ella responde al ideal básico de la
+igualdad de trato ante la ley libre de caprichos, tratos arbitrarios o prejuiciosos. Ello es lo
+menos que exigimos como trato igualitario. Sin embargo, esta idea de igualdad parece
+olvidar situaciones en las que la desigualdad de trato no se funda en la arbitrariedad o el
+prejuicio, sino que es la consecuencia de situaciones de desigualdad estructural a la que
+se encuentran sometidos algunos grupos de nuestra sociedad. Una idea de igualdad nos
+protege frente al capricho y la “irrazonabilidad”, la otra se dirige a revertir prácticas
+sociales de exclusión y “perpetuación de situaciones de inferioridad”. Como sostiene
+Post, la razonabilidad funcional puede, en ocasiones, por ser “ciega” al contexto,
+perpetuar prácticas sociales desigualitarias78. La mampara opaca es “aparentemente”
+neutral, sólo que opera desprejuiciadamente en una estructura social que impide tener un
+real acceso a la audición de prueba para la orquesta a todos los grupos por igual. La
+mampara, sin embargo, resulta altamente eficaz para impedir al jurado seleccionar al
+músico fundando la decisión en que es más elegante o que es el amigo del mayor donante
+al teatro en el que funciona la orquesta, pero esa neutralidad sirve para evitar cierto tipo
+de trato desigual pero no todos ellos.
+
+        La nuestra es una Constitución de raíz liberal igualitaria que incorpora una idea de
+igualdad relacionada con la idea de no-sometimiento. Sin embargo, es verdad que el
+artículo 16 no ofrece muestras claras e irrefutables de reflejar ese sentido. Su redacción es
+muy magra y la referencia a la “idoneidad” para ocupar cargos públicos puede inducirnos
+a pensar que la idea de igualdad como no-discriminación subyace a esa norma. También
+podemos decir que expresiones como las de Moreno confirman la intuición del ideal
+igualitario en el sentido de igualdad como no-sometimiento presente en los debates
+constitucionales del siglo XIX. Sin embargo, las cosas se han aclarado un poco más a
+partir de 1994. El reconocimiento constitucional de las acciones afirmativas vino a
+confirmar que la concepción de igualdad como no sometimiento debe complementar la
+
+78
+  Robert Post en Robert C. Post, “Prejudicial Appearances: The Logic of American Antidiscrimination
+Law”, en Robert C. Post et al., Prejudicial Appearances: The Logic of American Antidiscrimination Law,
+Duke University Press, Durham, 2003, p.40.
+
+
+                                                  28
+
+[[PDF p. 29]]
+idea de igualdad como no discriminación y, de este modo, esta versión combinada de la
+igualdad ante la ley es la que debe guiar nuestra interpretación del artículo 16 de la
+Constitución Nacional y la resolución de casos en los que esa igualdad se encuentra
+vulnerada por actos u omisiones del estado o de los particulares. La introducción del
+artículo 75, inciso 23 y su implícito reconocimiento de la igualdad como no
+sometimiento, sumada al camino que nuestra Corte ha empezado a transitar con la idea de
+“no perpetuación de la inferioridad” de grupos por medio de los votos del Ministro
+Petracchi, deben guiar nuestra más moderna interpretación del principio de igualdad ante
+la ley del artículo 16 de nuestra Constitución Nacional.
+
+
+
+
+                                          29

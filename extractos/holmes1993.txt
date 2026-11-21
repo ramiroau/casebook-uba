@@ -1,0 +1,1325 @@
+# fuente: 2_Holmes_1993_El precompromiso y la paradoja de la democracia.pdf
+# modo: texto
+# paginas: 27
+
+[[PDF p. 1]]
+                                 EL PRECOMPROMISO Y
+                      LA PARADOJA DE LA DEMOCRACIA
+                                                                                      Stephen Holmes
+
+LAURENCE TRIBE comienza su influyente tratado sobre derecho constitucional con una
+formulación concreta del dilema contra mayoritario: la discordia entre la política mayoritaria y
+los frenos anclados en la Constitución: “En su forma más básica, la pregunta [...] es por qué
+una nación que fundamenta la legalidad sobre el consentimiento de los gobernados decidiría
+constituir su vida política mediante un compromiso con un acuerdo original [...] estructurado
+deliberadamente para dificultar el cambio”. De diversas maneras se ha planteado ya el
+problema subyacente. ¿Cómo se puede reconciliar “el consentimiento de los gobernados” con
+la garantía de un consentimiento ulterior mediante una convención constitucional? ¿Por qué un
+marco constitucional, ratificado hace dos siglos, debe ejercer tan enorme poder sobre nuestras
+vidas actuales? ¿Por qué solamente algunos de nuestros conciudadanos han sido facultados
+para impedir que se hagan enmiendas a la Constitución? ¿La revisión judicial, cuando está
+basada en una lealtad supersticiosa a la intención de sus creadores, es compatible con la
+soberanía popular?
+
+
+         LA TENSIÓN ENTRE CONSTITUCIONALISMO Y DEMOCRACIA
+Estas preguntas tienen una larga historia. En el Caso del Saludo a la Bandera, de 1943, el juez
+Robert Jackson hizo el siguiente pronunciamiento, hoy clásico:
+         El propósito mismo de una Declaración de Derechos fue retirar ciertos temas de las
+         vicisitudes de la controversia política para colocarlos fuera del alcance de mayorías y
+         funcionarios y establecerlos como principios jurídicos que serían aplicados por los
+         tribunales. El propio derecho a la vida, a la libertad y la propiedad, a la libertad de
+         expresión, a la prensa libre, a la libertad de cultos y de reunión y otros derechos
+         fundamentales no deben someterse a votación: no dependen del resultado de
+         elecciones.
+Desde esta perspectiva, puede verse que el constitucionalismo es esencialmente
+antidemocrático. La función básica de una Constitución es separar ciertas decisiones del
+proceso democrático, es decir, atar las manos de la comunidad.
+Pero, ¿cómo podemos justificar un sistema que sofoca la voluntad de la mayoría? Por una
+parte, podemos invocar -siguiendo el espíritu del juez Jackson- derechos fundamentales: si tales
+
+Tomado de Jon Elster y Rune Slagstad, Constitucinalismo y democracia, México, Fondo de Cultura Económica, 1999,
+páginas 217 a 262.
+
+[[PDF p. 2]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+derechos están de algún modo “inscritos en la naturaleza”, simplemente pueden pasar por
+encima de todo consentimiento. O bien, podemos enfocar el carácter autodestructivo de una
+democracia constitucionalmente ilimitada. Esta línea de argumento la sigue, por ejemplo, F. A.
+Hayek. A su parecer, una Constitución no es más que un recurso para limitar el poder del
+gobierno. Los ciudadanos de hoy son miopes; tienen poco dominio de sí mismos; son
+lamentablemente indisciplinados y siempre tienden a sacrificar principios perdurables en aras
+de placeres y beneficios inmediatos. Una Constitución es el remedio institucionalizado contra
+esta miopía crónica: quita poderes a mayorías temporales en nombre de normas obligatorias.
+Una Constitución es como un freno, mientras que el electorado es como un caballo
+desbocado. Los ciudadanos necesitan una Constitución, así como Ulises necesitó que lo ataran
+al palo mayor. Si se permitiera a los votantes realizar sus deseos, inevitablemente naufragarían.
+Al atarse a unas reglas rígidas, pueden evitar tropezarse con sus propios pies.
+Martin Shapiro ofrece una perspectiva diferente; de hecho, contraria. La posición de Shapiro es
+sutil y difícil de resumir, pero su ensayo sobre el significado de la Constitución estadounidense
+concluye con una afirmación retórica memorable. Cuando examinamos un estatuto
+promulgado democráticamente, escribe, no debiéramos preguntar, como los abogados que se
+apegan al texto, ¿es constitucional? Antes bien, debiéramos preguntar, como ciudadanos
+democráticos, ¿queremos que sea constitucional? No debemos dejamos esclavizar por “ciertos
+caballeros ya difuntos que no pudieron visual izar nuestras circunstancias actuales”. Debemos
+dejamos guiar tan sólo por nuestra decisión colectiva acerca del tipo de comunidad en que
+queremos convertimos.
+Shapiro y Hayek ejemplifican el punto y el contrapunto de un debate que prosigue. Su
+desacuerdo representa claramente la pugna -si puedo decirlo así- entre los demócratas, para
+quienes la Constitución es un fastidio, y los constitucionalistas, para quienes la democracia es
+una amenaza. Algunos teóricos se preocupan de que la democracia quede paralizada por la
+camisa de fuerza constitucional. Otros temen que se rompa el dique constitucional arrastrado
+por el torrente democrático. Pese a sus diferencias, ambos bandos convienen en que existe una
+tensión profunda, casi irreconciliable, entre constitucionalismo y democracia. En realidad,
+poco les falta para sugerir que la “democracia constitucional” es un matrimonio de opuestos,
+un oxímoron.
+La existencia de una “tensión” irreconciliable entre constitucionalismo y democracia es uno de
+los mitos centrales del pensamiento político moderno. Al ponerlo en entredicho, no intento
+negar hechos bien conocidos; antes bien, al dudar de una suposición ampliamente compartida,
+es decir, al atender a la sugerencia (en cierto sentido obvia) de que constitucionalismo y
+democracia se apoyan mutuamente, espero aclarar algunas dimensiones descuidadas de la
+teoría democrática y constitucional.
+También John Hart Ely ha sostenido que los frenos constitucionales, lejos de ser
+sistemáticamente antidemocráticos, pueden reforzar la democracia. El gobierno democrático,
+como toda creación humana, necesita reparación periódica. Hay que asegurar y reafirmar sus
+requisitos previos; y esto no siempre puede lograrse por medios directamente que suelan ser
+democráticos. Por ello, el Tribunal recibe facultades constitucionales para ser el guardián de la
+democracia. Representantes elegidos y responsables deben determinar qué “valores
+sustantivos” deberán guiar la política pública; pero en cuestiones de procedimiento de toma de
+decisiones fundamentales, el Tribunal asume la principal responsabilidad de su custodia.
+Deberá abrogar toda legislación (aun- que sea muy popular entre las mayorías electorales) que
+socave las condiciones de una democracia que funcione debidamente: “desbloquear las
+construcciones del proceso democrático es lo que debe hacer supuestamente la revisión
+judicial”. Éste es un acuerdo democrático (no tan sólo paternalista). El poder general de los
+
+[[PDF p. 3]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+votantes aumenta cuando el electorado limita la autoridad de sus propios funcionarios elegidos
+sobre los procesos fundamentales del gobierno.
+Ely desarrolla hábilmente esta tesis en el contexto de las actuales controversias jurídicas, pero
+hace su sorprendente afirmación con poca elaboración teórica abstracta y I casi sin ningún
+trasfondo histórico. Como resultado, deja lamentablemente intacto el mito de una tensión
+fundamental entre constitucionalismo y democracia. De manera sorprendente para gran
+número de pensadores serios, la democracia constitucional sigue siendo una paradoja o, si no,
+una contradicción de términos. Según se revela, todas las democracias que funcionan actúan
+dentro de los límites fijados por unas limitaciones estabilizadoras. Por tanto, el concepto de
+Ely, de que las constituciones pueden reforzar la democracia, resulta manifiestamente superior
+a la idea opuesta de que constituciones y democracias son fundamentalmente antagónicas. Y
+sin embargo, subsiste el mito de una “tensión” latente.
+El estudio de esta cuestión puede profundizarse mediante una mayor abstracción teórica y
+arrojando más lejos las redes históricas. Por una parte la relación entre constitucionalismo y
+democracia se puede aclarar considerablemente por medio de un análisis del modo en que los
+“frenos” en general pueden producir o aumentar la “libertad”. Por otra parte, la disputa acerca
+de la relación entre constitucionalismo y democracia se puede retrotraer al siglo XVIII y aún
+más atrás. Empezaré por una incursión en la historia de las ideas.
+
+
+                   LA PROHIBICIÓN DE OBSTRUIR EL FUTURO
+En el decenio de 1740, David Hume observó que había una contradicción importante en el
+meollo mismo de la teoría republicana. Por doquier, los republicanos se basaban en la ficción
+de un contrato social. Pero, escribió Hume, “esto supone el consentimiento de los padres de
+anular a los hijos, aun a las generaciones más remotas (lo que los escritores republicanos nunca
+consentirían)”. Pese a su interés por crear una estructura perdurable al autogobierno, en otras
+palabras, los republicanos en general insistieron en que una generación fundadora nunca
+debería condicionar a sus sucesores con un esquema constitucional fijo. En los Debates de
+Putney, por ejemplo, dijo un orador: “Supongo que todos los hombres y todas las naciones,
+cualesquiera que sean, tienen la libertad y el poder de alterar y modificar sus constituciones si
+las consideran frágiles e inseguras”. Y en la Declaración de Independencia, Thomas Jefferson
+abrazó el mismo principio: “Es derecho del pueblo alterar o abolir” cualquier “forma de
+gobierno” que se haya vuelto “destructiva” de la vida, la libertad y la búsqueda de la felicidad.
+Ninguna institución, por muy importante que sea, es inalterable; ninguna ley, por muy
+fundamental que sea, es irrevocable.
+Este tabú, ampliamente reconocido, contra el precompromiso constitucional fue, a su vez, la
+generalización de una prohibición más fundamental: el principio de que ningún padre puede
+atar a sus hijos. Locke formuló sucintamente la regla básica: “Cierto es que cualesquiera
+compromisos o promesas que alguien haya hecho por sí mismo se encontrará bajo la
+obligación de ellos; pero no podrá, por ningún pacto que sea, atar a sus hijos o a la
+posteridad”. Durante el siglo XVIII, hasta quienes intentaban construir un orden político
+duradero sacaron de las premisas de Locke la conclusión lógica. En el artículo 28 de la
+Constitución jacobina (jno aplicada!) de 1793, por ejemplo, descubrimos la siguiente
+declaración, incongruente pero inequívoca: “una generación no puede someter a sus leyes a las
+generaciones futuras”. De hecho, al terminar el siglo XVIII, la prohibición de comprometer a
+generaciones futuras podría jactarse de contar con muchos abogados teóricos. Para transmitir
+el sabor de sus argumentos, enfocaré con cierta extensión las posiciones planteadas por
+Jefferson y por Tom Paine.
+
+[[PDF p. 4]]
+Stephen Holmes                                                     El Precompromiso y la Paradoja de la Democracia
+
+
+
+                  PAINE Y EL CONSENTIMIENTO DE LOS VIVOS
+En 1776, Paine había sido el fogoso abogado de una “Carta continental”, a la que describió
+como “firme convenio” y como “nexo de obligación solemne”. Pero en 1791, sin cambiar
+radicalmente sus otras opiniones, lanzó un agudo ataque contra la idea misma de un marco
+constitucional heredado. Según Burke, el Parlamento inglés de 1688 había cancelado
+legalmente su posteridad hasta el fin de los tiempos. Paine respondió que no existía semejante
+derecho o poder: “Cada época y generación debe ser tan libre de actuar por sí misma, en todos
+los casos, como las edades y generaciones que la precedieron”. No sólo es inmoral sino
+imposible arrogarse las opciones de las generaciones venideras. Los grilletes del pasado son
+como ataduras de arena. No obstante, los intentos por cancelar el futuro, aunque a la postre
+vanos, pueden ser muy irritantes. Por tanto, se les debe denunciar como lo que son: violaciones
+abiertas a la justicia natural.
+En cierto modo, el ataque frontal de Paine contra el precompromiso constitucional proviene
+lógicamente de su concepción de la democracia. Para él, la democracia es la regla de la vida.
+Dicho con mayor beligerancia, la democracia es una guerra contra el pasado. El viejo mundo
+europeo de reyes, aristócratas y títulos hereditarios está íntegramente podrido. El “fraude, la
+efigie y la ostentación” del antiguo régimen deben ser relegados al basurero de la historia, pues
+la historia es un basurero. La tradición no es un almacén de sabiduría acumulada, como lo
+sugirió Burke, resultado de mil minúsculos ajustes materializados más experiencia y
+conocimiento de los que pueda llegar a poseer un solo individuo. En cambio, la tradición es
+una pestilente atarjea de abusos.
+La soberanía del pasado es el reino de la nobleza [nobility], que en realidad significa
+“incapacidad” [no-ability]. La competencia no se puede heredar; por ello, no resulta
+sorprendente que en las sociedades tradicionales se acumulen poder y prebendas en los
+imbéciles. Burke había sugerido de manera deshonesta que las tradiciones, piadosamente
+acogidas, podrían remediar que la generación actual no tuviese elecciones difíciles. Pero aun si
+fuese deseable evadir así la responsabilidad (que no lo es), sería imposible, porque el pasado
+está preñado de contradicciones. Por ejemplo, el acuerdo de 1688 fue una innovación impuesta
+a los ingleses por el conflicto irreconciliable entre las tradiciones religiosa y dinástica. y esto lo
+sabía Burke. Aunque menospreciando el presente y resaltando el pasado, en realidad estaba
+sirviendo a los intereses de una minúscula élite: a hombres excesivamente inteligentes.
+Según Locke, “un argumento a partir de lo que ha sido hacia lo que debería en justicia ser no
+tiene gran fuerza”. Paine apoyó esta opinión con vehemencia. Según él, la democracia era
+convertir en rutina la impiedad. No había ninguna razón sobre la tierra para que la gente
+hiciera las cosas en el futuro como las había hecho en el pasado. La democracia era un sistema
+de inagotable inventiva y orientado hacia el cambio y la reforma constantes. La batalla del siglo
+XVIII contra los sentimientos prescritos y las obligaciones involuntarias no dio cuartel a las
+primeras opciones del individuo. Las decisiones tomadas por nuestro pasado mismo llegaron a
+parecer impuestas y, por ello, ilegítimas para nuestro yo actual. Al menos en los países
+protestantes, el matrimonio dejó de ser un sacramento. Por ello, un contrato perpetuo empezó
+a parecer innecesario para los fines del matrimonio, por no mencionar lo incompatible con la
+necesidad humana de corregir los propios errores. La campaña por una distensión de las leyes
+de divorcio reflejó una renuencia general a permitir que el pasado esclavizara al presente.
+La democracia era la contrapartida colectiva a esta institucionalización personal de la
+precariedad:
+
+[[PDF p. 5]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+       Nunca existió, jamás existirá ni podrá existir un Parlamento o algún tipo de hombres,
+       en cualquier país, que posea el derecho o el poder de mediatizar y controlar a la
+       posteridad hasta el “fin de los tiempos”, o de mandar para siempre cómo se deberá
+       gobernar el mundo, o quién deberá gobernarlo, y, por tanto, todas esas cláusulas, actas
+       o declaraciones por las cuales sus creadores intentan hacer lo que no tienen derecho ni
+       poder de hacer, ni el poder de ejecutar, son nulas e inválidas.
+La generación actual tiene el derecho ilimitado e ilimitable de remodelar las instituciones bajo
+las cuales vive. El único consentimiento que legitima cualquier forma de gobierno es “el
+consentimiento de los vivos”.
+Aquí, el argumento de Paine presupone una tensión irresoluble entre constitucionalismo y
+democracia, entre la herencia de un marco legal fijo la omnipotencia de los ciudadanos
+actualmente vivos. Así como Locke lo había negado a los padres el derecho de encadenar a sus
+hijos, así , también Paine (al menos en estos pasajes) negó a los Padres Fundadores el derecho
+de mediatizar las generaciones venideras con un esquema constitucional fijo.
+
+
+        JEFFERSON Y LA AUTOSUFICIENCIA DE LAS GENERACIONES
+Thomas Jefferson negó explícitamente a la legislatura el poder de anular las libertades
+personales consagradas en la Declaración de Derechos. Apoyó las “constituciones limitadas
+para restringir a aquellos a quienes estamos obligados a confiar el poder”. Y hasta escribió, de
+la manera más legalista, que “nuestra seguridad peculiar está en la posesión de una
+Constitución escrita”. Sin embargo, Jefferson, como Paine, fue un constitucionalista tornadizo.
+También lanzó un ataque implacable contra la idea misma de un precompromiso
+constitucional. En septiembre de 1789 (dos años antes de que Paine publicara 1he Rights of
+Man), Jefferson escribió a Madison, enfrentándose a la pregunta de si una generación de
+hombres tiene el derecho de mediatizar a otra”. y su respuesta fue un enfático no.
+Antes, en sus Notes on the State of Virginia (1781-1782), Jefferson había hecho un modesto
+esfuerzo “por librarse de la magia que supuestamente tiene la palabra Constitución”. La
+ordenanza de Virginia del gobierno no era “perpetua e inalterable” y, en realidad, no era más
+restrictiva que la legislación ordinaria. Sin embargo, él condicionó estas observaciones
+arguyendo que una convención constitucional debidamente elegida podría colocar los derechos
+básicos cuando la propia forma de gobierno “fuera del alcance de toda cuestión”.
+En una polémica contra Jefferson publicada en 1788, Noah Webster se burló en extremo de
+estas concesiones de último minuto a las constituciones inalterables. Jefferson, al parecer, tomó
+a pecho el hiriente sarcasmo de Webster. De todos modos, en esta carta de 1789 adoptó una
+actitud más congruentemente mayoritaria. Como Paine, afirmó “la tierra pertenece a los vivos
+y no a los muertos”. Años después, repitió el mismo argumento en forma un tanto más brutal:
+“los muertos no tienen derechos. No son nada”. Y, “las partículas de materia que compusieron
+sus cuerpos hoy forman parte de los cuerpos de otros animales, vegetales o minerales”. En su
+carta a Madison, Jefferson llegó hasta a negar todas las suposiciones ordinarias acerca de la
+continuidad histórica y (por tanto) de la identidad nacional: “por la ley de la naturaleza, una
+generación es a otra como una nación independiente a otra”. Al parecer, una asamblea
+constituyente en Filadelfia no podía legislar más para los futuros estadounidenses que para los
+chinos contemporáneos.
+La idea de “perpetuidad” es moralmente repugnante, asociada como está a una servidumbre
+perpetua y a unos monopolios que se perpetúan. El término mismo de perpetuo debiera ser
+barrido junto con otros derechos heredados del antiguo régimen: “Ninguna sociedad puede
+
+[[PDF p. 6]]
+Stephen Holmes                                                    El Precompromiso y la Paradoja de la Democracia
+
+hacer una Constitución perpetua, ni siquiera una ley perpetua.” Los pueblos “son amos de sus
+propias personas y, por consiguiente, pueden gobernarlas como gusten”. Por tanto, “la
+Constitución y las leyes de sus predecesores [se] extinguen en su curso natural, junto con
+quienes les dieron el ser”. La muerte física de los constitucionalistas entraña la muerte
+espiritual de la Constitución.
+En una conferencia, durante el decenio de 1760, Adam Smith había dicho a sus estudiantes en
+Glasgow: “Un poder que disponga de las propiedades por siempre es manifiestamente
+absurdo. La tierra y toda su riqueza pertenecen a cada generación, y la anterior no puede tener
+derecho de mediatizarla desde la posteridad”. Escribiendo desde París en tiempos de crisis
+financiera, Jefferson se hizo eco de la preocupación de Smith por esta manera tradicional por la
+cual una generación inmovilizaba a la siguiente. De hecho, la mayor parte de su análisis giró en
+tomo de las leyes de herencia. Por ejemplo, preguntó “si la nación puede cambiar la
+transmisión por herencia de tierras tenidas en propiedad”. También inquirió si un padre tenía
+el derecho natural de dejar enterrados a sus hijos bajo una montaña de cuentas no pagadas.
+Más políticamente, preguntó si una generación podía justificar el contraer deudas enormes, con
+la esperanza de que generaciones sucesivas las pagaran. La respuesta de Jefferson, similar a la
+de Smith, fue que los sucesores “por naturaleza están libres de las deudas de sus predecesores”.
+Sobre la base de las tablas actuariales de Buffon, Jefferson calculó que “la mitad de las
+personas de 21 años y más que viven en cualquier instante habrán muerto en 18 años y ocho
+meses”. Una persona sólo puede contraer una deuda mientras se halle en posibilidades de
+pagarla en persona. Análogamente, la mayoría política no debe contraer deudas que no pueda
+solventar en el curso de 19 años. Jefferson extendió explícitamente este argumento a la
+cuestión de los marcos constitucionales. Una de sus declaraciones más rotundas aparece en la
+carta de 1816:
+       Según las tablas europeas de mortalidad, de los adultos que viven en cualquier
+       momento del tiempo, una mayoría habrá muerto en unos 19 años. Al término de ese
+       periodo, pues, una nueva mayoría ocupará su lugar o, en otras palabras, una nueva
+       generación. Cada generación es tan independiente de la precedente como de todas las
+       que transcurrieron antes. Tiene entonces, como ellas, el derecho de elegir por sí misma
+       la forma de gobierno que crea que mejor puede promover su propia felicidad.
+Cada 20 o 30 años deben celebrarse plebiscitos nacionales que determinen la forma de
+gobierno y que promulguen las leyes fundamentales. La simple oportunidad de enmienda o de
+anulación constitucional era totalmente inadecuada. En periodos establecidos debieran
+prescribir todas las leyes y los acuerdos constitucionales. Sólo unos plebiscitos constitucionales,
+periódicos y obligatorios, podrían liberar al presente del pasado y asegurar a cada generación su
+propio decir.
+
+
+         EL PRECOMPROMISO Y EL AUMENTO DE CONOCIMIENTO
+La impaciencia de Paine ante los legados provenientes del pasado se alimentó principalmente
+por su enconado odio a la aristocracia. También a Jefferson le repugnaban los monopolios
+hereditarios. Sin embargo, no menos importante fue su veneración por la ciencia: “leyes e
+instituciones deben ir de la mano con el progreso del espíritu humano. Conforme éste se
+desarrolle más, se vuelva más cultivado al hacerse nuevos descubrimientos, se revelen nuevas
+verdades y se modifiquen los comportamientos y opiniones junto con el cambio de las
+circunstancias, las instituciones también deberán avanzar y mantenerse al ritmo de los
+tiempos”. La ciencia moderna ha hecho permanentemente inestable al conocimiento. La
+
+[[PDF p. 7]]
+Stephen Holmes                                                 El Precompromiso y la Paradoja de la Democracia
+
+esperanza de que el progreso científico derroque sin falta las creencias actuales transforma
+todo compromiso previo en un absurdo epistemológico.
+Esta idea, como las otras que he planteado, tiene una historia larga e intrincada. La breve
+observación citada de los Debates de Putney ya implicaba que las necesidades de la enseñanza
+pública debían pasar por encima de las devociones constitucionales. Si descubrimos que
+nuestra Constitución es débil y enfermiza, deberemos cambiarla. De manera similar, Locke
+arguyó que la capacidad humana de aprendizaje y de autocorrección hace ilegítimos ciertos
+tipos de contrato perpetuo. Por ejemplo, una persona no debe hacer ninguna promesa de que
+será miembro de una comunidad religiosa durante toda la vida. Nadie tiene ningún derecho a
+entrar en un acuerdo irrevocable de esta índole: “si después descubre algo erróneo en la
+doctrina o incongruente en el culto, deberá siempre tener la misma libertad de salirse que la
+que tuvo para entrar”.
+La impaciencia ante las trabas estúpidas a todo nuevo aprendizaje también fue expresada por
+lmmanuel Kant:
+       Una época no puede entrar por juramento en una alianza que coloque a la siguiente
+       época en una posición en la que sería imposible extender y corregir su conocimiento,
+       particularmente en cuestiones tan importantes [las cuestiones de religión], o hacer un
+       progreso cualquiera en materia de ilustración. Esto sería un crimen contra la naturaleza
+       humana, cuyo destino original se encuentra precisamente en dicho progreso. Por ello,
+       las generaciones posteriores tienen perfecto derecho a rechazar tales acuerdos como no
+       autorizados y criminales.41
+A una generación piadosa se le prohíbe supeditar a la siguiente a una fórmula doctrinal. y aún
+más radicalmente, un individuo no puede comprometer con anterioridad sus propios ego s
+futuros: “es absolutamente inadmisible aceptar, así sea por una sola vida, una Constitución
+religiosa permanente que nadie pueda cuestionar en público”.
+Para comprender cuál principio abstracto está en juego en estas afirmaciones, consideremos
+una afirmación paralela, planteada en un medio distinto. Sesenta y cinco años después de Kant,
+John Stuart Mill escribió que “la máxima práctica de dejar libres los contratos no es aplicable
+sin grandes limitaciones en caso de compromisos a perpetuidad”.43 Aquí, MilI no estaba
+preocupado por la religión, sino por el matrimonio.
+La experiencia actual, sostuvo, no da al individuo un conocimiento suficiente para adquirir un
+compromiso vitalicio irrevocable. La promesa de matrimonio perpetuo no sólo violenta la
+capacidad humana de cambiar, sino también la capacidad humana de aprender.
+El precompromiso es ilegítimo cuando sofoca y hace befa de la propia capacidad de aprender
+o de la de generaciones ulteriores. En este punto concurrieron Locke, Kant y Millo Sin
+embargo, su argumento común contra el precompromiso resulta con sorprendentes
+implicaciones. Con cierto esfuerzo, como veremos, se le puede convertir en un poderoso
+argumento en favor del compromiso previo.
+
+
+                 TRASFONDO DE LA TESIS DE PAINE-JEFFERSON
+El malestar con los límites constitucionales sobre las mayorías democráticas se remonta al
+menos al siglo XVIII. Elaborando conscientemente sobre las premisas lockianas, tanto Paine
+como Jefferson arguyeron que una generación no tenía derecho de obligar a la siguiente. Sin
+embargo, en otros aspectos, ambos teóricos defendieron alguna forma de precompromiso
+
+[[PDF p. 8]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+constitucional, y lo hicieron sin dudar de la soberanía última de la mayoría. La historia como la
+he narrado hasta aquí resulta por tanto obviamente incompleta.
+Para poner en perspectiva los argumentos de Paine y de Jefferson en el siglo XVIII,
+necesitamos preguntar qué escribieron los pensadores de los siglos XVI y XVII acerca de la
+condición de las obligaciones heredadas. Casi todos los teóricos de comienzos de la época
+moderna admiraron a Solon Licurgo, Numa Pompilio y además a grandes legisladores de la
+Antigüedad. Las más gloriosas realizaciones del mundo antiguo habrían sido imposibles si una
+generación hubiese sido renuente o incapaz de mediatizar a la siguiente. La pregunta no era
+tanto si un constitucionalista podía asegurar las condiciones de un buen gobierno al establecer
+unas leyes más o menos inalterables. La pregunta era cómo justificar unas obligaciones
+impuestas, a las que generaciones ulteriores no tendrían oportunidad de consentir.
+Richard Hooker, para citar un ejemplo clásico, explicó de manera muy sencilla el poder
+obligatorio de las decisiones ancestrales. Al igual que una persona, escribió, también un reino
+retiene su identidad moral a través del tiempo:
+       Consentimos recibir órdenes cuando la sociedad de la cual somos parte lo había
+       tolerado en algún momento anterior, sin revocar la misma por un similar acuerdo
+       universal. Por lo cual, como el pasado de cualquier hombre es bueno mientras él
+       mismo continúe, así el acto de una sociedad pública de hombres hecho 500 años antes
+       sigue siendo como el de quienes hoy son de las mismas sociedades, porque las
+       corporaciones son inmortales; nosotros vivimos en nuestros predecesores, y ellos en
+       sus sucesores viven aún.
+La generación actual está obligada por las decisiones de sus predecesores, porque los muertos y
+los vivos constituyen un pueblo, unidos por las mismas continuidades que unen a una sola
+persona a las edades, por ejemplo, de 20 y de 50 años. La defensa de Hooker al
+precompromiso constitucional, en otras palabras, fue esencialmente analógica. Como cualquier
+otro individuo, una nación está obligada por sus votos originales.
+Las promesas crean una obligación prima facie de cumplirlas. Más aún, de acuerdo con Grocio,
+“una asociación, así como un individuo, tiene el derecho de obligarse por su propio acto o por
+el acto de una mayoría de sus miembros”. Las promesas crean un deber para el individuo o la
+colectividad que las hace, porque crean un derecho para quien las recibe. De este modo, los
+problemas jurídicos y morales que con el tiempo brotaron en las polémicas de Jefferson y
+Paine no surgieron de los casos de promesas de primera mano y de dos partes del tipo normal:
+no hubo nunca algo controversial acerca de un acuerdo por el cual una persona se
+comprometiera personalmente con otra. Sin embargo, sí surgió una perplejidad en dos casos
+especiales: 1) donde un individuo -o una generación- trató de sujetar a otro, y 2) donde no
+intervinieron en el contrato dos partes, sino sólo una; es decir, cuando un individuo trató de
+hacerse una promesa obligatoria a sí mismo. Ya he analizado el primer caso. Permítaseme
+ahora considerar el segundo.
+Las “constituciones” medievales, como la Carta Magna, fueron contratos entre el rey y varios
+estamentos, especialmente los barones. Los que obligaban y los obligados eran partes distintas.
+Habiendo hecho una promesa a la nobleza, el rey no era libre de liberarse de ella. El acuerdo
+whig de 1688 todavía se consideró como un pacto entre el rey y el pueblo. y aún en el siglo
+XIX, los secesionistas estadounidenses se inclinaron a interpretar la Constitución de los
+Estados Unidos como un pacto entre estados soberanos. Sin embargo, en general las
+constituciones modernas que surgieron en los Estados Unidos Y en Francia a fines del siglo
+XVIII no se concibieron como treguas negociadas entre clases o facciones. De hecho, tal
+como fueron escritas muestran un parecido notable. pero descuidado, con las proclamas por
+
+[[PDF p. 9]]
+Stephen Holmes                                                    El Precompromiso y la Paradoja de la Democracia
+
+las cuales un monarca absoluto declara su voluntad soberana. En lugar de ser presentadas
+como un intercambio de promesas entre partes separadas. las constituciones modernas se
+presentan, típicamente, como marcos que “nosotros. el pueblo”, nos damos a nosotros
+mismos. No obstante. en las relaciones entre un individuo Y él mismo. el poder de mediatizar
+entraña el poder de liberar. (Psicológicamente. para tomar un ejemplo trivial, es mucho más
+fácil cumplir con una cita con nuestro compañero de tenis que cumplir con una promesa hecha
+a nosotros mismos de ir a hacer ejercicio.) En el aspecto legal, lo que alguien se prometió a sí
+mismo libremente puede libremente no cumplirlo. Lo que nosotros, el pueblo, nos damos a
+nosotros mismos, nosotros, el pueblo, podemos quitárnoslo. Desde esta perspectiva una
+Constitución que a la vez es obligatoria y democrática no sólo parece paradójica, sino
+incoherente.
+
+
+                  NADIE PUEDE SER OBLIGADO POR SI MISMO
+Aquí, el principio en cuestión puede remontarse, al menos, hasta Séneca. Una promesa
+obligatoria requiere de dos partes, y no puede establecerse por una sola. Esta posición fue
+elaborada por un grupo de pensadores posteriores. incluyendo a Bodin. Hobbes, Pufendorf y.
+finalmente. Rousseau. Por ejemplo. según Bodin. “el príncipe soberano” no puede “ser
+obligado por las leyes y ordenanzas que se dio a sí mismo; pues un hombre bien puede recibir
+una ley de otro hombre, pero es imposible por naturaleza que se dé una ley a sí mismo”.
+Hobbes nacionalizó este argumento. Como nadie se siente atado por una promesa que se ha
+hecho a sí mismo, ningún reino puede ser obligado por su propia Constitución:
+       Tampoco puede nadie [...] ser obligado ante sí mismo, dado que la misma parte sería el
+       obligador y el obligado, y teniendo el obligador el poder de librar al obligado, sería
+       simplemente vano que un hombre se obligara a sí mismo, dado que puede liberarse a
+       su propio capricho y dado que el que puede hacer esto ya es en realidad libre. Por lo
+       cual es claro que la ciudad no está atada a las leyes civiles, pues las leyes civiles son las
+       leyes de la ciudad, por las cuales, si se hubiera comprometido, se habría comprometido
+       ante si misma.
+Bodin y Hobbes adujeron la máxima “una voluntad no puede obligarse a sí misma”, para
+justificar su tesis de que el reyes, más o menos, legibus solutus. Pufendorf extendió
+explícitamente este argumento para incluir las democracias. A su parecer, el pueblo ocupaba la
+misma posición de poder constituyente libre de obstáculos que ocupaba el monarca absoluto
+de Hobbes. Después de plantear en forma convencional que “un hombre no puede quedar
+obligado por sí mismo”, Pufendorf pasó a afirmar que “nada” podía impedir que un pueblo
+democrático abrogue todas sus leyes fundamentales en cualquier momento.
+Este argumento recibió de Rousseau su reformulación clásica. Rousseau, minucioso lector de
+Bodin, Hobbes y Pufendorf, arguyó que “es contradictorio que la autoridad soberana se ponga
+trabas a sí misma”, que “va contra la naturaleza del cuerpo político que el soberano se imponga
+una ley que no pueda infringir” y que “no hay en un Estado ninguna ley fundamental que no se
+pueda revocar, ni siquiera el pacto social”. La novedad del rechazo del precompromiso por
+Rousseau se encuentra en su apasionada preocupación por la transformación moral y
+psicológica. No se trata tanto de que una nación soberana no tenga el derecho o el poder de
+obligarse a sí misma, sino más bien de que la participación de primera mano en el ritual de
+establecer leyes fundamentales libera al hombre de la animalidad, transformándolo en un ser
+moral. Podríamos decir que la creación y ratificación de las constituciones en que se fundan
+regímenes cambian al individuo de ser “un animal stupide et borné” [un animal estúpido y
+limitado], a ser “un etre intelligent et un homme” [un ser inteligente y un hombre]. La elección
+
+[[PDF p. 10]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+periódica de la ley fundamental tenía una función humanamente redentora. Esto era mucho
+más importante para Rousseau que la necesidad de flexibilidad gubernamental, tan esencial
+para los pensadores de la raison d'état, como Bodin.y Hobbes.
+No obstante, Rousseau siguió fielmente a sus grandes predecesores al burlarse de la sugestión
+misma de que el soberano pueda tener una obligación de cumplir una promesa hecha a sí
+mismo. Al hacerlo, supuso explícitamente que puede concebir adecuadamente a las naciones
+como individuos. Pero esta suposición es discutible. Por ejemplo, no es obvio que el pueblo
+pueda tener algo, como una “voluntad” coherente, anterior y aparte de todos los procesos
+constitucionales.
+
+
+     POR QUÉ UNA GENERACIÓN SI PUEDE OBLIGAR A LA SIGUIENTE
+Los problemas que obsesionaron a Paine, Jefferson y otros radicales del siglo XVIII no
+pasaron inadvertidos a anteriores teóricos europeos. Los escritores de antaño se preocuparon
+especialmente por definir si un rey recién coronado tenía la obligación de pagar las deudas de
+su predecesor en el trono. Hasta un monarca cauteloso puede verse a veces obligado a incurrir
+en deudas mayores de las que pueda pagar durante su propio y breve reinado. Así, había
+apremiantes razones prácticas para argüir que sus sucesores, en realidad, se veían obligados a
+pagar las deudas de sus predecesores.
+En general, la promesa de un individuo o de una generación no puede obligar a otros. Pero
+esta regla tiene una excepción crucial: “el acto de una generación sólo puede obligar a otra
+cuando algún hombre [por ejemplo, un acreedor] ha adquirido de él un derecho”. Más
+explícita. mente, si alguien hereda la propiedad de otros (por ejemplo, su trono). también
+heredará sus deudas. “Por estricta ley de la naturaleza. nadie está obligado por el acto de otro,
+excepto el que hereda su propiedad; pues el principio de que la propiedad se debe transferir
+con todas sus obligaciones data del establecimiento de los derechos de propietario.” En otras
+palabras, contra la tradición de legibus solutus, los teóricos del derecho natural del siglo XVII
+arguyeron que los reyes estaban obligados por las promesas y contratos de sus predecesores
+porque voluntaria. mente aceptaban el reino del que eran inseparables esas promesas.
+Una versión apenas disimulada de este argumento llegó a desempeñar un papel fundamental en
+los Two Treatises of Government. Paine y Jefferson se apoyaron marcadamente en la idea de
+Locke, de que un padre no puede obstruir a sus hijos. Pero, como lo observó Hume, este
+principio no era totalmente congruente con la creencia en un pacto original. Locke
+circunnavegó el problema invocando el concepto de consentimiento tácito. Sólo los legítimos
+firmantes del pacto habían consentido expresamente en el contrato social. Para explicar por
+qué los que llegaran después estaban obligados, a pesar de todo, a obedecer a las autoridades
+políticas, Locke siguió a Grocio. Cada vez que acepta un le. gado alguien que no ha firmado el
+contrato original, consiente implícitamente con las condiciones políticas que hacen posible el
+goce de esa propiedad.
+Según Sheldon Wolin, Locke empleó “la institución de la herencia de propiedad para socavar el
+concepto predilecto del radicalismo, de que cada generación era libre de reconstruir la sociedad
+política”. Ahora bien, el argumento de Locke también podría servir aquí como poderoso
+testimonio de su propio radicalismo: si sólo los legados justifican la obediencia de generaciones
+sucesoras, la propiedad heredable debe ser vastamente difundida lo antes posible. Comoquiera
+que sea, las premisas lockianas obviamente no imponen la visión intransigente de Jefferson y
+de Paine. También Madison fue lockiano, como ahora veremos.
+
+[[PDF p. 11]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+       POR QUÉ UNA VOLUNTAD SI PUEDE REFRENARSE A SI MISMA
+En cierto sentido, la prohibición de que una generación obligue a la siguiente es más fácil de
+superar que la supuesta imposibilidad de que un individuo (o una nación) se haga una promesa
+de mediatizarse a sí mismo (o a sí misma). En teología, se hizo una notable contribución para
+resolver este problema. La capacidad de Dios para refrenarse a sí mismo, arguyeron
+persistentemente varios pensadores de la baja Edad Media, es una expresión aterradora de su
+poder y de su libertad. Resumiendo a Occam y a otros, escribe Francis Oakley: “Después de
+todo, la única fuerza capaz de mediatizar a la omnipotencia sin por ello negarla es la propia
+voluntad omnipotente”. Hooker se hace eco de esta tradición anterior cuando argumenta que
+los compromisos de Dios consigo mismo son inmutables: “Tampoco el libre albedrío de Dios
+en nada puede ser reducido, abandonado u obstaculizado por este medio, porque la imposición
+de su propia ley sobre sí mismo es su propio acto libre y voluntario”. Es absurdo y hasta
+blasfemo decir que Dios no puede hacerse una promesa obligatoria a sí mismo, pues esto sería
+poner un límite a la libertad y al poder de Dios.
+La versión política más importante de este argumento teológico aparece en los Six livres de la
+république. Como hemos visto, Bodin afirma explícitamente que ningún soberano puede verse
+obligado por promesas hechas a sí mismo. Empero, su posición básica es mucho más flexible
+de lo que podría desprenderse de esta rígida estipulación. En el meollo mismo de su gran
+tratado se encuentra una lista de restricciones que cada soberano puede -en realidad debe-
+imponerse a sí mismo. Resulta notable la analogía con la autoobligación de Dios: estas
+restricciones no son límites sino, antes bien, expresiones de la libertad y de poder reales. La
+autoatadura es ilícita cuando incluye una disminución de la autoridad del rey; en cambio, es
+permisible y hasta obligatoria cuando sostiene y aumenta el poder soberano. Si el rey sólo
+puede retener y extender la autoridad atándose las propias manos, entonces deberá atárselas.
+De hecho, en muchas circunstancias la abdicación del poder no es una infracción de la
+voluntad del príncipe, sino más bien una técnica indirecta por la cual puede afirmar su
+voluntad.
+Al aceptar limitaciones a su propio capricho, un príncipe puede aumentar su capacidad de
+alcanzar sus fines. La idea de que la autoatadura pueda ser una estrategia de libertad explica por
+qué Bodin -el defensor de la monarquía absoluta- arguye, no obstante, que la comunidad “debe
+ser gobernada por leyes y no por la voluntad y el capricho del príncipe”. Después de todo, el
+día de un soberano sólo tiene 24 horas. Las leyes generales consumen mucho menos tiempo,
+es decir, dan mayores rendimientos por unidad de esfuerzo que las proclamas y decretos
+particulares. Y de manera semejante, el rey debe comprometerse a sí mismo con anterioridad a
+acuñar un valor fijo. Al hacerlo puede aumentar su dominio de la economía y resistir presiones
+faccionales para devaluar y cultivar la confianza de sus acreedores. Ya sea que el soberano esté
+obligado legalmente o no a consultar a los estamentos antes de fijar un impuesto, podrá
+aumentar considerablemente sus ingresos concediendo a tales asambleas un rol en el proceso
+de extracción de recursos. En forma análoga, para asegurar obediencia a su propia ley, el
+soberano deberá limitar su propia autoridad sobre los parlamentos y otros funcionarios del
+reino. En suma, Bodin supera su propia prohibición al obligarse a sí mismo y al afirmar que el
+compromiso previo es un vehículo de la libertad real, estrategia por la cual un soberano puede
+afirmar más eficazmente su voluntad.
+
+
+                 MADISON DEFIENDE EL COMPROMISO PREVIO
+Al criticar el ataque de Jefferson al precompromiso constitucional, James Madison pudo
+resucitar estos argumentos anteriores. Las dos prohibiciones (la de que una generación
+
+[[PDF p. 12]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+comprometiera a la siguiente y la de que una voluntad se autolimitara) ya habían sido refutadas
+en el pasado, con considerable éxito. Aunque la promesa de un hombre no podía
+comprometer a otro en forma directa, sí podía hacerlo indirectamente por medio de una
+propiedad legada junto con las obligaciones concomitantes. En abstracto, una voluntad no
+puede atarse a sí misma, pero en la práctica la autoatadura es instrumento indispensable de la
+agencia humana.
+Como respuesta a Jefferson, Madison negó esencialmente que una Constitución fuese un peso
+muerto o una obstrucción. Los nexos no necesariamente forman una atadura; las limitaciones
+pueden promover la libertad. La Constitución estadounidense era un instrumento de gobierno,
+no un obstáculo para el gobierno; no incapacitaba, sino capacitaba. Sus creadores se habían
+sentido impulsados a la acción al ver que el país sufría por falta de gobierno y de atención a los
+intereses comunes. Al establecer un gobierno firme y enérgico, la Constitución que impusieron
+remediaría estas fallas. No sólo limitaría el poder; también crearía y asignaría poderes y, desde
+luego, impondría una preocupación gubernamental por el bienestar general.
+En Inglaterra, por esa misma época, Burke estaba describiendo la sociedad como “una
+asociación [...] entre quienes viven, quienes están muertos y quienes aún van a nacer”. Pero su
+argumento resultó curiosamente medieval, pues apelaba a la unidad orgánica del cosmos. La
+idea de Madison -en apariencia, similar- de una división intergeneracional del trabajo fue
+mucho más secular y pragmática. Si podemos dar por sentados ciertos procedimientos e
+instituciones establecidos en el pasado, podremos alcanzar nuestros actuales objetivos mejor de
+lo que podríamos lograrlo si estuviésemos siendo constantemente distraídos por la necesidad
+recurrente de establecer un marco básico para la vida política. Una Constitución heredada
+puede ayudar a posibilitar la democracia, así como a estabilizarla. No es tan sólo ni
+esencialmente un obstáculo contra el gobierno autoritario. Dado que resulta relativamente
+difícil cambiarla, una Constitución puede liberar, es decir, emancipar a la generación actual. Por
+ello no es plausible caracterizarla como fuerza opresora, como intento autocrático del pasado
+para encadenar al futuro. El compromiso previo se justifica porque no esclaviza, sino que, por
+lo contrario, libera a las generaciones futuras.
+En El Federalista, núm. 49, publicado tres años antes de que Madison formulara su respuesta a
+Jefferson, Madison ya había criticado el procedimiento de enmienda de la puerta giratoria,
+propuesto en el borrador de una Constitución para Virginia y hecho por su amigo en 1783.
+Las objeciones de Madison al programa de Jefferson eran básicamente psicológicas. Convino
+en que “el pueblo constituye la única fuente legítima del poder” y en que se debe “trazar y
+mantener abierto un camino constitucional para que la decisión del pueblo se exprese en
+ciertas grandes y extraordinarias ocasiones”. Pero la frecuente convocatoria a convenciones
+constitucionales crearía periódicamente un vacío legal, en que no sería probable que se
+tomaran decisiones racionales basadas en “los verdaderos méritos de la cuestión”. En esta
+condición extraconstitucional, legalmente anómala, “sería no la razón, sino las pasiones
+públicas quienes juzgarían”.
+Madison advirtió que las experiencias absolutamente positivas de su propia generación con las
+convenciones constitucionales no eran típicas. En los Estados Unidos, acto seguido a la
+revolución, el entusiasmo patriótico y el resentimiento universal contra Gran Bretaña habían
+creado condiciones psicológicas favorables a la confianza y a la cooperación al margen del
+marco de una Constitución escrita. Mas no era probable que tales condiciones perduraran. En
+circunstancias más ordinarias, no sería a fuerza democrático rebasar despreocupadamente el
+marco constitucional y pretender pedir al “pueblo” revisar las reglas fundamentales. Madison,
+escéptico ante la teatralidad republicana y desconfiado de toda coerción informal (es decir, del
+desproporcionado poder de élites autoelegidas, de hombres agresivos, extrovertidos y
+
+[[PDF p. 13]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+socialmente seguros de sí mismos) en los sistemas de la llamada democracia directa, deseó
+limitar los llamados plebiscitarios, dado que amenazaban con nulificar los previos
+compromisos constitucionales estabilizadores de la democracia; los plebiscitos periódicos
+hacían el juego a las fuerzas antirrepublicanas. Madison se opuso por esta sola razón al
+excesivamente moderado plan de enmienda de Jefferson.
+En su brillante carta de febrero de 1790, Madison siguió su misma línea de ataque. A la
+aserción de Jefferson de que “una generación viva solo puede atarse a sí misma”, escribió
+Madison: “No es en todos los aspectos compatible con el curso de los asuntos humanos”. El
+llamado a plebiscitos centenarios pasaba por alto ciertos rasgos básicos de la política
+republicana. “El que en teoría fuera muy aplicable l a doctrina a una Constitución, en la práctica
+parece expuesta a varias graves objeciones.”
+La principal crítica de Madison se basó en su preocupación, que Jefferson no compartía, por
+las condiciones psicológicas que probablemente prevalecerían entre la derogación de una
+Constitución y la ratificación de otra. El plan de Jefferson, de una asamblea constituyente cada
+20 años, haría que el gobierno “se viera demasiado sujeto a la casualidad y a las consecuencias
+de un interregno”. La inevitable inestabilidad reduciría sin duda la importancia del
+consentimiento popular, mientras intensificaría notablemente el papel del azar y de una
+mañosa demagogia. Unas asambleas constituyentes que se reunieran con frecuencia no serían,
+como había imaginado Jefferson, ventanas transparentes para contemplar los deseos de la
+mayoría. De hecho, la esperanzada o temerosa previsión de esas periódicas refundaciones
+ejercería una fuerza encontrada en la escena política, creando intereses que de otra manera no
+existirían: “una revisión periódica engendraría unas facciones perniciosas, que de otra manera
+no hubieran cobrado existencia”. Por contraste, si las reglas fundamentales se situaran lejos del,
+fácil alcance, las partes agraviadas se sentirían obligadas a administrar sus recursos. Los
+ciudadanos se beneficiarían de tener las manos atadas a este respecto: al evitar una ruinosa
+lucha por reglas abstractas, podrían alcanzar más metas concretas que si se entablara y se
+ganara una campaña enconada por las enmiendas.
+De acuerdo con Jefferson, “algunos ven las constituciones con una gazmoña reverencia, y
+juzgan que es, como el arca de la alianza, demasiado sagrada para poder tocarla”. Madison no
+fue uno de ellos. No quiso marginar las reglas básicas de toda critica y reforma; no abogó por
+una Constitución inalterable. Quiso simplemente que el proceso de enmienda fuese complejo y
+dilatado, requiriendo no una mayoría sencilla sino, más bien, una secuencia de mayorías
+extraordinarias en varios organismos a lo largo de todo un periodo. En otras palabras, no
+buscó una permanencia absoluta sino sólo una permanencia relativa. Consideraba que la
+rigidez del poder de enmienda desalentaría todo frívolo intento por revisar la Constitución
+cada vez que hubiese un estancamiento político. La ineficacia de la enmienda constitucional
+como estrategia política ordinaria alentaría los procesos democráticos de negociación y de
+conocimiento mutuos. Los tiempos obligatorios elevarían también la calidad de las enmiendas
+logradas, porque los procedimientos engorrosos dan tiempo de pensar a las partes. En última
+instancia, el plan de Jefferson no era realista, porque pasaba por alto la psicología exasperante
+de los interregnos y el modo en que las periódicas oportunidades de rescindir toda la
+Constitución (de)formarían las preferencias y despilfarrarían unos recursos escasos.
+Madison también consideró la cuestión de la deuda pública y específicamente la afirmación de
+Jefferson de que una generación nunca tiene el derecho de obligar a sus sucesoras a pagar
+deudas en que se incurrió antes. Una vez más, la objeción de Madison era práctica y tenía,
+como cautelosamente sugirió, “cierto fundamento en la naturaleza de las cosas”. Siguiendo a
+los teóricos del derecho natural del siglo XVll, escribió que las obligaciones financieras pueden
+
+[[PDF p. 14]]
+Stephen Holmes                                                    El Precompromiso y la Paradoja de la Democracia
+
+transmitirse por herencia de una generación a otra, porque ciertos esenciales propósitos
+nacionales sólo se pueden lograr sobre la base de una intertemporal división del trabajo:
+       Se puede incurrir en deudas con vista directa al interés de los aún no nacidos, así como
+       de los vivos. Tales son las deudas en que se incurre para rechazar una conquista, cuyos
+       males se transmitirían a través de muchas generaciones. Principalmente se puede
+       incurrir en deudas para beneficio de la posteridad: tal es, acaso, la deuda [la guerra
+       revolucionaria] en que incurrieron los Estados Unidos. En estos ejemplos, las deudas
+       pueden no ser saldadas sino en el término de 19 años.
+Si los beneficios son distribuidos entre muchas generaciones, las caro gas deben asignarse de la
+misma manera. Semejante disposición corres onde a la equidad y otorga recompensas a todas
+las partes de una alianza intergeneracional. Cierto, rara vez se pregunta a las generaciones
+futuras si desean aceptar un beneficio (por ejemplo, la derrota de Hitler) a cambio de asumir
+una deuda. Pero si todos los contratos civilizados requirieran la copresencia, entonces cada
+generación se veda reducida a una nación separada; es decir, se vería calamitosamente privada
+de las ventajas resultantes de la cooperación a través del tiempo y en que los asociados, en
+principio, no pueden enfrentarse unos con otros. Tan sólo consideraciones prácticas sugieren
+que, en tales casos, debemos pasar por encima del principio formal de que no es posible
+incurrir en obligaciones sin un consentimiento expreso.
+Madison consideró a continuación la ley de propiedad. Los derechos de propiedad no son
+naturales, sino “positivos”; es decir, convencionales y revocables. Sin embargo, aun en el caso
+de semejante ley menor, las asambleas periódicas para su derogación o su reafirmación
+tendrían efectos deletéreos. Según el plan de Jefferson, a intervalos de 20 años “todos los
+derechos dependientes de las leyes positivas [...] se vuelven absolutamente cadáveres” para ser
+reaplicados o no, según lo considere apropiado la asamblea constituyente. Una vez más,
+semejante disposición no sólo registraría el cambio de preferencias a lo largo del tiempo. Una
+asamblea constituyente es como un termómetro que altera drásticamente la temperatura del
+salón. En el caso de la ley de propiedad, la anticipación de tales asambleas provocaría “las
+luchas más violentas [...] entre las partes interesadas en revivir y los interesados en reformar el
+estado anterior de la propiedad”. Cierto que los intereses en conflicto con respecto a la ley de
+propiedad existen con o sin asambleas constituyentes periódicas. Pero lo inevitable del
+conflicto latente no implica que un brote cíclico de luchas violentas vaya necesariamente a
+resultar a largo plazo, digamos, para los deudores. U na incertidumbre general desalentaría todo
+esfuerzo útil de constante laboriosidad acosado por la sanción de las leyes existentes” y, lo más
+importante de todo, daría una ventaja inmerecida y nada democrática a quienes fuesen lo
+bastante sagaces e inescrupulosos para explotar el caos social con objeto de obtener ventajas
+políticas.
+Jefferson estaba insatisfecho con la oportunidad formal de rechazar leyes y de enmendar el
+orden constitucional, porque rechazaba la idea de , que un consentimiento tácito fuera capaz
+de legitimar reglas y decisiones. De acuerdo con la doctrina tradicional, el consentimiento se
+puede inferir “de la omisión de una revocación expresa”; por ejemplo, de la no invocación del
+derecho de rebelión. En forma modificada, Madison adoptó esta idea. Resignación no era señal
+de consentimiento. Pero cuando los ciudadanos no invocan su derecho de enmienda y de
+derogación, aunque pudieran hacerlo fácilmente y sin temor a un castigo, j están aceptando
+implícitamente el marco legal. No es necesario planificar unos momentos mágicos en que se
+pueda proclamar en voz alta un ( consentimiento expreso, mientras se garantice la oportunidad
+ininterrumpida de protestar y de ejercer presión para lograr una revocación.
+Los problemas que afectaban la propuesta de Jefferson eran múltiples y obvios. Sólo la
+doctrina del consentimiento tácito podría dar “alivio a tales embarazos”. Madison reconoció
+
+[[PDF p. 15]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+que, en el pasado, la doctrina del consentimiento tácito había tenido un efecto “pestilente”.
+Pero j también creyó que sus nocivos efectos laterales podrían neutralizarse ] con mayor
+facilidad por medio de una Constitución hábilmente formulada, que a través de “los males”
+que necesariamente derivarían del plan de Jefferson en cuanto a unas asambleas constituyentes
+periódicas.
+Madison terminó arguyendo que el consentimiento, implícito o tácito, es fundamental para “el
+fundamento mismo de la sociedad civil”. El propio mayoritarismo, tan esencial para el plan de
+Jefferson, depende de la suposición de que las personas nacidas en una sociedad consienten
+tácitamente con “la regla por la cual la mayoría decide por la totalidad”. Exigir el
+consentimiento expreso a cada generación del marco constitucional (o a cada individuo del
+gobierno mayoritario) introduciría un elemento de histeria nerviosa en el seno mismo de la
+política democrática, debilitando su capacidad de resolver conflictos, así como la de conjuntar
+diversos intereses sin violencia. Exigir un consentimiento expreso y constantemente reiterado
+disminuiría la influencia de los ciudadanos sobre la dirección de la política pública y, con ello,
+sobre sus propias vidas.
+Jefferson había asociado su idea del gobierno de los vivos con una imagen no realista de unas
+generaciones actuales discretas: “permítasenos suponer toda una generación de hombres que
+nacieran el mismo día, que llegaran a la madurez el mismo día y que murieran el mismo día,
+dejando a la siguiente generación en el momento de alcanzar toda ella su edad madura”. Por
+desgracia, esta fantasía acerca de ciudadanos que nacen y mueren en cohortes generacionales
+como en un desfile transmite un mensaje opuesto al que se había propuesto Jefferson. Hume
+(descrito afectuosamente por Jefferson como “traidor a sus congéneres”) era a su vez muy
+escéptico acerca del concepto del consentimiento tácito. Pero sacó una conclusión
+diferenciadamente no jeffersoniana de su observación de que una generación humana no
+“aparecía en escena toda ella al mismo tiempo y otra la sucedía, como ocurre con los gusanos
+de seda y con las mariposas”. Precisamente porque las generaciones se superponen, los vivos
+no tienen el derecho de rechazar a intervalos fijos los legados del pasado. Cerrar las puertas a
+los compromisos de nuestros predecesores es algo impráctico, porque los miembros de cada
+nueva generación deben coexistir con los sobrevivientes de la antigua. Madison, menos
+temeroso que Hume a las innovaciones, también se angustiaba al pensar en unos métodos que
+registraran el consentimiento público y que fueran compatibles con los itinerarios no
+sincronizados de las vidas humanas.
+
+
+                           FUNDADORES Y CIUDADANOS
+En contraste con el anhelo de Rousseau por una experiencia moral y psicológicamente
+transformativa, la fórmula de Paine-Jefferson tiene mucho que decir en su favor. La generación
+actual vive en el mundo. Si no son sus propios miembros, ¿quién más debiera ser responsable
+del funcionamiento del gobierno? Hay que mantener bajo control el culto a los antepasados.
+A pesar de todo, como lo sugirió Madison, la idea del gobierno de los vivos no está tan libre de
+problemas como a primera vista pudiera creerse. Por una parte, el repudio del pasado es una
+espada de dos filos. Las decisiones actuales, tomadas teniendo en mente al futuro, pronto
+pertenecerán al pasado. Si podemos establecer que generaciones subsiguientes tratarán con
+soberano desprecio nuestras elecciones hechas pensando en el futuro, ¿por qué habríamos de
+pensar más en el futuro que en el pasado? Deseamos actuar de manera responsable hacia las
+generaciones sucesivas mientras tendemos a rechazar el concepto de que las generaciones
+anteriores son responsables por nosotros. Pero, ¿es en realidad congruente adoptar esta
+actitud? Añadiendo la sugerencia de que quienes hoy viven anhelan controlar el futuro, Jon
+
+[[PDF p. 16]]
+Stephen Holmes                                                      El Precompromiso y la Paradoja de la Democracia
+
+Elster formula esta misma paradoja de la democracia de la manera siguiente: “Cada generación
+desea ser libre para obligar a sus sucesoras, sin estar obligada por sus predecesoras”.
+Jefferson y Paine nunca se enfrentaron firmemente a este problema, imbuidos de la ideología
+del progreso limitado; acaso supusieron que el futuro podría cuidar de sí mismo. Convencidos
+de que los auténticos problemas de la política eran mínimos e iban decreciendo, tampoco
+percibieron muy claramente las ventajas que podían lograrse mediante una división
+intergeneracional del trabajo. Considerando el pasado como un lastre, no comprendieron que
+los predecesores pueden liberar de cargos a sus sucesores. Tampoco se sintieron
+significativamente impresionados por la importancia de organizar la futura vida democrática.
+Ni reconocieron la necesidad que tiene cada generación de ordenar y sistematizar la agenda
+para resolver los problemas actuales, dando por sentadas ciertas decisiones del pasado que
+concedían poder, definían procedimientos y especificaban jurisdicciones. En suma, ninguno de
+ellos logró concebir la Constitución de manera positiva, como instrumento indispensable de
+gobierno. Sólo unos teóricos menos intoxicados por la doctrina del progreso cobraron
+conciencia de la paradoja de Elster y (lo que es más importante) de que pa radójicamente la
+soberanía del presente depende de los previos compromisos del pasado. Por regla general, los
+individuos tienden a perder poder y libertad cada vez que por sí solos intentan resolver todos
+sus problemas. Al aceptar una Constitución prestablecida, un pueblo se ata sus propias manos,
+pero también se libera de cargas considerables.
+Las decisiones actuales ponen en movimiento procesos irreversibles que, a su vez,
+necesariamente encasillan a las generaciones futuras. Esto es verdad, ya sea que encarnemos
+nuestras decisiones en cartas “irrevocables” o no. Debemos adaptamos a este hecho de
+continuidad histórica, aun si viola la curiosa creencia de Paine y de Jefferson de que cada
+generación tiene un derecho inviolable de partir de la nada, ex nihilo, sin herencias del pasado.
+El propio Jefferson ayudó a reducir las opciones de generaciones futuras al convenir en privar
+de una parte de su soberanía a estados como Virginia. Esta decisión abrió algunas puertas, pero
+cerró otras. Además, su repercusión no fue desdeñable: entre otras cosas, condujo a una guerra
+civil, entablada explícitamente por la perpetuidad legal de la Unión.
+En sus observaciones sobre el precompromiso constitucional, Elster también sugiere que
+existe una desemejanza radical entre la a cción política de los creadores de la Constitución y la
+acción política de ulteriores generaciones: “Sólo la asamblea constituyente es un actor político,
+en el sentido estricto de la politique politisante; todas las generaciones ulteriores quedan limitadas
+a la politique politisée o a la aplicación cotidiana [es decir, aplicación o implementación] de las
+reglas básicas”. Desde luego, Elster no afirma que su contraste analítico sea adecuado a las
+realidades de la historia. Un creador de constituciones jamás puede ser un atador no atado, así
+como un soberano no puede ser un mandatario sin mandato. Los creadores de mitos que
+aspiran a legitimar una Constitución escrita pueden invocar la analogía del acto creador de
+Dios estableciendo una relación trascendental con actos que ocurren en el mundo creado. Pero
+sería torpe presentar viejos mitos como nuevas teorías. Para influir sobre una situación, alguien
+que ejerza el poder deberá adaptarse a las pautas preexistentes de fuerza y a la distribución
+desigual de posibilidades para el cambio. El que ejerce influencia también debe ser influido: tal
+es un axioma central de toda e teoría realista del poder. La capacidad de innovar y la necesidad
+de adaptar nunca están tan marcadamente separadas como lo sugiere la s distinción de Elster.
+Los creadores de la Constitución estadounidense, por ejemplo, estaban servil mente en deuda
+con las teorías políticas de Harrington, Locke, Trenchard y Gordon, de Hume, Montesquieu y
+Voltaire, así como de las experiencias obtenidas a través de la Comunidad Británica del siglo
+XVII Y de las constituciones preexistentes y a prelegitimadas de los estados individuales.
+Además, se enfrentaban a o realidades intratables (en especial, la esclavitud en el Sur) y sólo
+
+[[PDF p. 17]]
+Stephen Holmes                                                    El Precompromiso y la Paradoja de la Democracia
+
+ejercieron la politique politisante porque al mismo tiempo pudieron practicar el arte del
+compromiso con realidades desagradables, por ejemplo, porque estaban comprometidos en la
+politique politisée.
+Los individuos que fijan las limitaciones laterales ejercen mayor influencia que quienes toman
+decisiones particulares. Dado que una le asamblea constituyente asigna la autoridad y establece
+los procedimientos de toma de decisiones, en cierto sentido se le puede considerar ir
+“privilegiada” con respecto a las generaciones sucesivas. Pero, en términos generales, no queda
+muy claro quién ejerce más poder en esta relación. Elster expresa graves dudas acerca del
+concepto de un “ego” nacional continuo (como el que supuso Hooker), que ejerza un dominio
+sobre sí mismo por medio de un marco constitucional. Pero la idea de que los creadores de
+constituciones ejercen poder sobre sus descendientes no es menos controversial. Es difícil
+aplicar el concepto de poder en una situación en que, pese a tener tiempo de fallecidos, quienes
+ejercen el poder, no pueden beneficiarse del hecho de modificar la conducta de su posteridad.
+Los constitucionalistas, de cualquier modo, no son ángeles omnipotentes que intervienen
+desde fuera de la corriente de la historia. De manera similar, una generación ulterior,
+trabajando en un marco establecido por la ley y la costumbre, no debiera ser comparada con el
+perro de Pávlov. Si bien la Constitución ciertamente ha trazado el curso de la historia
+estadounidense, el abandono cultural y la crisis política han devuelto el favor, reformando la
+Constitución de manera imprevista. Aun cuando (y, en algunos casos, precisamente porque)
+están precomprometidos por el pasado, los descendientes poseen amplio espacio para la
+maniobra, innovación y reforma. La posibilidad de una interpretación liberal -es decir,
+imaginativa- de la Constitución, aún mayor que el artículo v, reconcilia la lealtad al pasado con
+la sensibilidad al presente. Para satisfacer intereses rivales y obtener el apoyo mayoritario, los
+participantes en la convención federal incorporaron cláusulas conflictivas y ambiguas en la
+Constitución, delegando así esenciales poderes discrecionales a sus descendientes. No tuvieron
+la menor intención de sacrificar la posteridad a su propia y limitada previsión.
+El proceso de crear una Constitución o la politique politisante continúa mucho después de
+disuelta la asamblea constituyente. De hecho, nunca cesa- Muchos de los rasgos básicos de la
+Constitución de los Estados Unidos (por ejemplo, la fuerza de la Unión, las amplias
+responsabilidades legislativas del presidente y en especial la revisión judicial) fueron
+innovaciones introducidas sin tener que invocar el procedimiento de enmienda formal. La
+Constitución guarda silencio acerca de los partidos políticos, pero el ulterior desarrollo de éstos
+ha pesado decisivamente sobre la influencia de la Constitución. Además, términos
+fundamentales como “cruel e insólito” tienden a alterar su significado de generación en
+generación. En una perspectiva comparativa, los poderes “autorales” de generaciones
+posteriores probablemente sean mayores que los de los primeros constituyentes. Podría
+argüirse que sus sucesores no son tan inermes prisioneros del momento como lo fueron los
+fundadores. Ya no son víctimas de la urgente necesidad de poner fin al caos de una nación sin
+soberano; necesidad que acaso hiciera que los padres fundadores se mostraran un tanto
+tímidos y conservadores ante el cambio. Liberados de la enorme tarea de dar inicio y de
+legitimar un nuevo régimen en periodo de dificultades, sus sucesores pueden dedicarse por
+completo a alcanzar objetivos políticos particulares.
+
+
+                 REGLAS INCAPACITADORAS Y CAPACITADORAS
+Paine y Jefferson se sintieron complacidos de que ninguna generación tuviese la capacidad de
+atar irreversiblemente a sus sucesoras: el hecho consagraba el derecho. Después de presenciar
+los “suicidios” de varios regímenes democráticos, no podemos sentir esa misma complacencia.
+
+[[PDF p. 18]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+La dificultad de atar al futuro no siempre es causa de celebración. Nuestra incapacidad de
+precomprometer a nuestros sucesores de una manera semiautocrática puede conducir a la
+destrucción de la democracia. Cierto, el colapso de la República de Weimar se debió, en última
+instancia, a la deslealtad de sus élites, no al artículo ni a defectos de su Constitución. Sin
+embargo, la catástrofe de 1933 sugiere, una vez más, que el precompromiso constitucional y la
+política democrática acaso no sean tan antagónicos como a veces lo creyeron Jefferson y Paine.
+Aquí hay una paradoja, no una contradicción. Los teóricos que reconocieron la paradoja, como
+Madison, también la abrazaron.
+Una generación anterior no puede impedir que una generación ulterior diga: “iNo queremos
+más libertad!” Pero esta incapacidad no implica que los predecesores no tengan derecho o
+razón para formar unas instituciones pensando en dificultar semejantes decisiones. Cuando
+intentan atar el futuro, los constitucionalistas no sólo están tratando de ejercer dominación y
+control. El precompromiso se justifica porque, en lugar de simplemente quitar opciones, pone
+a su disposición ciertas posibilidades que de otra manera quedarían fuera de todo alcance. Por
+ejemplo, la fórmula de Paine-Jefferson sólo es convincente si limitamos nuestra vista al corto
+plazo, a las relaciones entre dos generaciones. Pero una perspectiva más amplia modifica la
+ecuación. Por medio de una Constitución, la generación a puede ayudar a la generación c a
+protegerse de ser vendida en esclavitud por la generación b. Para salvaguardar las posibilidades
+de los sucesores más distantes, los constitucionalistas restringen las posibilidades de sus
+sucesores más próximos. Los primeros constitucionalistas se esforzaron por crear no sólo un
+gobierno popular, sino un gobierno popular que (en contraste con las repúblicas griegas)
+pudiera perdurar. Tuvieron del derecho de atamos mínimamente para impedir que nosotros
+atáramos máximamente a nuestros sucesores. Reconociendo, a su vez, los derechos de su
+posteridad, una generación actual puede limitar voluntariamente su propio poder sobre el
+futuro sometiéndose a la autoridad del pasado. En otras palabras, los precompromisos
+madisonianos son, en principio, a la vez democráticos y mayoritarios. Desde luego, para
+conceder poder a todas las mayorías futuras una Constitución debe limitar el poder de cual.
+quier mayoría dada. De hecho, las constituciones liberales consisten, en gran parte, en
+metalimitaciones: reglas que obligan a cada mayoría a exponer a la crítica y a una posible
+revisión sus decisiones; reglas que limitan la capacidad de cada generación de robar opciones
+significativas a sus sucesoras.
+Paine y Jefferson se estremecieron ante la sola idea de atar el futuro, porque no pudieron
+concebir el “atar” en forma positiva, emancipadora o favorable a la libertad. Su lado flaco se
+debió, en parte, a su fe en el proceso. Pero también resultó de su concepción excesivamente
+conservadora de cómo funcionan las constituciones. Las metáforas de frenar, bloquear, limitar
+y restringir sugieren que las constituciones son, básicamente, recursos negativos que se utilizan
+para impedir el abuso del poder. Pero las reglas también son creadoras. Organizan nuevas
+prácticas y generan nuevas posibilidades, que de otra manera no existirían.
+Puede resultar útil comparar las constituciones con las reglas de un juego o hasta con las de la
+gramática. Mientras las reglas regulativas (por ejemplo, “se prohíbe fumar”) gobiernan las
+actividades preexistentes, las reglas constitutivas (por ejemplo, “el alfil se mueve en diagonal”)
+hacen posible una práctica por vez primera. Las reglas de esta última índole no se deben
+concebir simplemente como obstáculos o cadenas. Por ejemplo, los principios gramaticales no
+sólo limitan al que habla, reprimiendo sus impulsos rebeldes, sino que permiten que los
+impulsos ordenados se filo tren. Lejos de simplemente encadenar a la gente, las reglas
+lingüísticas, permiten hacer muchas cosas que de otra manera no habría podido hacer, y que ni
+siquiera habría podido pensar en hacer. En otras palabras, no se debe contrastar la flexibilidad
+con la rigidez a la manera convencional, por la sencilla razón de que las rigideces pueden crear
+
+[[PDF p. 19]]
+Stephen Holmes                                                  El Precompromiso y la Paradoja de la Democracia
+
+flexibilidades. Como lo he estado arguyendo, una Constitución democrática no sólo maniata a
+mayorías y funcionarios, también asigna facultades (da estructura al gobierno, garantiza la
+participación popular, etc.) y regula en que se emplean estas facultades (por ejemplo, de
+acuerdo con principios como el proceso legal correspondiente y el trato equitativo). En
+general, las reglas constitucionales son capacitadoras y no incapacitadoras, y por ello resulta
+insatisfactorio identificar exclusiva el constitucionalismo con limitaciones al poder.
+O tal vez debiéramos volver a considerar nuestro concepto de limitaciones. Las limitaciones no
+necesariamente debilitan, también pueden robustecer. Por una parte, “mal merece el nombre
+de confinamiento aquello que sólo nos aparta de pantanos y precipicios”. Más aún, las
+constituciones pueden ser restrictivas de una manera que engendre posibilidades. Al atarse al
+palo mayor, Ulises pudo gozar de un hecho (el canto, sin el naufragio) que de otra manera no
+habría podido experimentar. Sin embargo, su estrategia de autoincapacitación preventiva no es
+precisamente análoga a la formación y ratificación de una Constitución. Por ejemplo, si en los
+Estados Unidos los que estructuraron la Constitución no hubiesen “atado” a sus sucesores, no
+habría habido nación. Por ello, a los estructuradores también se les llama los fundadores. Ulises
+se ató a sí mismo, pero no se encontró a sí mismo. Las constituciones no sólo limitan el poder,
+también pueden crear y organizar el poder, así como dar al poder cierta dirección. Y lo más
+importante de todo, el gobierno limitado puede servir al autogobierno, ayudando a crear ese
+“ego” (o unidad nacional) que se encarga de gobernar. El hecho de que el constitucionalismo
+pueda contribuir a la formación de naciones es poderosa prueba de que tiene una función
+positiva, no sólo una negativa.
+
+
+      FUNCIONES CAPACITADORAS DE LA SEPARACIÓN DE PODERES
+Uno de los principales pilares del constitucionalismo, la separación de poderes, suele
+describirse de rutina, en términos puramente, como una máquina para impedir usurpaciones.
+La autoridad se ha dividido para evitar excesivas concentraciones del poder. Una rama del
+gobierno puede “frenar” a otra, inhibiendo el despotismo y revelando la corrupción. Pero
+también aquí, las connotaciones negativas de la atadura constitucional oscurecen los propósitos
+positivos del diseño institucional.
+Como correctivo a la idea convencional, resultará útil concebir la separación de poderes como
+una forma de la división del trabajo, que permita una distribución y una organización más
+eficientes de las funciones gubernamentales. La especialización mejora el desempeño cada
+quien. Según Adam Smith, de hecho, “la separación del Poder Judicial del Ejecutivo parece
+haber surgido originalmente del aumento de asuntos de la sociedad, en consecuencia del
+incremento en su mejoramiento”. Al principio, los reyes establecieron agencias judiciales
+semiautónomas como respuesta a la sobrecarga gubernamental. Originalmente, al menos, no se
+estableció una judicatura independiente con el fin de limitar el poder, sino, por lo contrario,
+para aumentar la capacidad del gobierno en el desempeño de sus labores.
+Como otras providencias constitucionales, la sepa ración de poderes sigue facilitando la labor
+del gobierno: separa jurisdicciones traslapantes, define las que eran confusas cadenas de mando
+y ayuda a superar una paralizante confusión de funciones. Como versión política de la división
+del trabajo, es creadora, porque la especialización aumenta la sensibilidad ante la diversidad de
+problemas sociales. La evolución de tres distintas (aunque cooperadoras) ramas del gobierno
+debiera probablemente concebirse por analogía con el desarrollo del moderno sistema de
+gabinete. Gradualmente fueron desarrollándose nuevas instituciones y cargos para enfrentarse
+a un creciente volumen de los diversos problemas sociales. Más aún, cada rama recluta su
+personal de manera distinta, aumentando así la variedad de intereses y perspectivas sociales que
+se reflejan en la toma de decisiones del gobierno.
+
+[[PDF p. 20]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+Las primeras justificaciones de la separación de poderes subrayan su función de incrementar el
+poder. Bodin arguyó explícitamente que una judicatura independiente aumentaría la capacidad
+para gobernar del rey. Hay que castigar a los malhechores, pero si el rey aplica personalmente
+los castigos, creará resentimientos que a su vez debilitarán su autoridad. Por ello, un soberano
+sabio se reservará la distribución de recompensas, en tanto que delegará en magistrados
+independientes la labor de emitir condenaciones e imponer multas: “Al hacer lo cual, quienes
+reciban los beneficios tendrán buena causa para amar, respetar y reverenciar a su benefactor, el
+príncipe; y quienes sean condenados, no tendrán ocasión ninguna de aborrecerlo, sino que
+descargarán su cólera contra los magistrados y los jueces”. La separación de poderes, de
+acuerdo con este análisis, ejerce importantes funciones, como la de desviar resentimientos y
+evitar responsabilidades. Montesquieu adoptó y refinó este argumento: un rey que decline el
+poder de castigar delitos aumentará en realidad su poder general, porque esta disposición
+impedirá que las partes interesadas apliquen una presión extorsionante sobre la Corona.
+Con la separación de poderes se aumenta el poder, pero también se lo sostiene la democracia.
+La máxima “divide y vencerás” fue empleada tradicionalmente por los amos de la humanidad
+para mantener el yugo sobre sus súbditos. Los constitucionalistas democráticos usurparon este
+antiguo principio y lo emplearon en sentido contrario, como una estrategia por la cual los
+gobernados podían imponer su voluntad a sus potenciales gobernantes. En lugar de debilitar al
+gobierno, la separación de poderes ayuda a asegurar las condiciones de un gobierno popular.
+En particular, Locke destaca la función representativa de la separación de poderes. ¿Por qué no
+han de combinarse el Poder Legislativo y el Ejecutivo en las mismas manos? Si se hiciera, los
+legisladores la sabrían que las leyes que aprobaran nunca les serían aplicadas a ellos (porque
+ellos estarían encargándose de aplicarlas). Si el Poder Ejecutivo de se encuentra, por contraste,
+en otras manos, los legisladores harán leyes con la expectativa de que las mismas les serían
+también aplicadas a ellos. En otras palabras, la separación de poderes asegura que la
+perspectiva del ciudadano ordinario, sometido a la ley, estará representados en el proceso
+legislativo.
+Acaso valga la pena mencionar un pensamiento adicional un tanto más especulativo. A
+menudo se ha descrito la separación de poderes como un equilibrio de poderes. Tal vez bajo la
+influencia de la economía, los teóricos de la política han tendido a concebir este equilibrio ha
+como algo esencialmente inmóvil y estable. Pero tal vez describiríamos mejor un “equilibrio”
+como una situación fácil de alterar: una brizna de paja inclina la balanza. Si las distintas ramas
+del gobierno se equilibran. unas a otras, entonces será mucho más fácil influir desde el exterior
+as, sobre el gobierno en conjunto. Hamilton establece este mismo argumento acerca del
+federalismo. El equilibrio constitucionalmente impuesto puede hacer que el gobierno en
+conjunto sea (algo parecido a un barómetro) mucho más sensible a las fluctuaciones de la
+opinión pública de lo que sería cualquier régimen de una sola rama. También en este sentido,
+los frenos y equilibrios pueden contribuir directamente a la ate soberanía popular.
+
+
+              RESTRICCIONES QUE REFUERZAN LA DEMOCRACIA
+Tribal pregunta: si creemos en la soberanía del pueblo, ¿por qué aceptamos todas esas
+restricciones? La respuesta dada por los creadores de la primera Constitución estadounidense
+fue muy sencilla: éstas no son restricciones: son el pueblo. La Constitución es un instrumento
+de auto- gobierno, una técnica por la cual la ciudadanía se rige a sí misma. ¿De qué otra manera
+podría una numerosa comunidad manejar sus propios asuntos? Una colectividad no puede
+tener propósitos coherentes aparte de todos los procedimientos para la toma de decisiones. El
+pueblo no puede actuar como una masa informe.
+
+[[PDF p. 21]]
+Stephen Holmes                                                    El Precompromiso y la Paradoja de la Democracia
+
+Carl Schmitt, adversario declarado del constitucionalismo libera! desdeñó explícitamente tales
+consideraciones. Como muchos otros, suscribió el mito de una oposición fundamental entre
+las limitaciones constitucionales y el gobierno democrático: “todo el esfuerzo del
+constitucionalismo estaba dirigido a reprimir lo político”. Además, dado que el pueblo es el
+poder constituyente último, se le debe considerar como un inestructurado “Urgrund”, o aun
+como “das 'formlos Formende”', que no puede ser precomprometido por procedimientos
+constitucionales. Pero el misticismo democrático de Schmitt, para no mencionar sus
+consecuencias prácticas, basta para desacreditar todo este enfoque. No tiene ningún sentido
+hablar de gobierno popular a no ser por alguna clase de marco legal que permita al electorado
+tener una voluntad coherente. Por esta razón, los ciudadanos democráticos necesitan la
+cooperación de los padres fundadores del régimen. Digamos esto un tanto irónicamente: si no
+se ata sus propias manos, el pueblo no tendrá manos.
+Las decisiones se toman sobre la base de las predecisiones. Cuando entran en la casilla para
+votar, los votantes deciden quién será presidente, pero no cuántos presidentes habrá. Las
+elecciones con calendario fijo niegan discreción a los funcionarios públicos y a las mayorías
+populares en una cuestión muy importante. En otras palabras, la democracia nunca es
+sencillamente el gobierno del pueblo, sino siempre es el gobierno del pueblo por ciertos
+canales prestablecidos, de acuerdo conciertos procedimientos predeterminados, siguiendo
+ciertas normas electorales prefijadas y sobre la base (para elegir un ejemplo revelador) de
+ciertos distritos electorales trazados con anterioridad. Mientras colocaba la autoridad suprema
+en una legislatura elegida, Locke concedía el poder de reasignar la asamblea elegida a un
+ejecutivo no elegido. Le parecía imprudente asignar la tarea de remediar burdas
+desproporciones a la misma asamblea creadas por estas absurdas desproporciones. Esa
+negligente asignación del poder de supervisión convertiría a los legisladores en jueces de su
+propia causa.
+Los ciudadanos sólo pueden imponer su voluntad por medio de elecciones celebradas sobre la
+base de un plan preexistente de asignación, plan que podría ser injusto o caduco. Como
+resultado, la responsabilidad de volver a fijar los límites de los distritos debe quedar fuera de la
+legislatura de elección popular (por ejemplo, en el Tribunal). Para preservar es la democracia,
+los votantes deben renunciar parcialmente al poder de asignación, es decir, deben quitarlo de
+las manos de representantes elegidos y responsables. Este es un ejemplo notable de la paradoja
+de la democracia: los ciudadanos pueden aumentar su poder atándose sus propias manos. La
+democratización limitada sirve a la continuación del gobierno democrático.
+
+
+        CÓMO ASEGURAR LAS CONDICIONES DEL DEBATE PUBLICO
+El ejemplo más obvio de un límite constitucional que abre más puertas de las que cierra es la
+Primera Enmienda. La función primaria del constitucionalismo, podría argüirse, es proteger la
+libertad de discusión y no la propiedad privada. Formulando un racional y ya clásico debate
+público en favor de la Primera Enmienda, el juez Brandeis escribió que las libertades de
+expresión, reunión y prensa, incluyendo el derecho de disentir legalmente de la política
+gubernamental, son “indispensables para el descubrimiento y difusión de la verdad política”.
+Cierto, una generación perturbada podría llegar a abolir la libertad de expresión para sus
+sucesores inmediatos (esto ocurrió en Alemania en 1933). Pero el control popular se reducirá,
+en vez de aumentar, si se afloja en esta “limitación” particular.
+Entre los teóricos de la democracia, ninguno enfocó más persistentemente como John Stuart
+Mill la naturaleza (favorable a la libertad y a la reparticipación ciudadana) de las reglas e
+instituciones constitucionales. Las cargas y oportunidades de una Constitución escrita fueron
+
+[[PDF p. 22]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+ajenas a vi, la experiencia inglesa; sin embargo, MilI dedicó la mayor parte de sus Considerations
+on Representative Government a un análisis de diversos: recursos semiconstitucionales dedicados a
+organizar el gobierno popular. Tales recursos son estimulantes y a la vez deprimentes.
+Movilizan p, una información y una imaginación descentralizadas, favorecen el j pensamiento
+objetivo y crean incentivos de crítica y aprendizaje mutuos. Al defender una disposición
+institucional, MilI subrayó característicamente sus funciones creadoras: “No sería tan sólo un
+freno, sino; también una fuerza impelente”. Se esforzó por encontrar un equilibrio
+constitucional entre dos clases de mecanismos: los que garantiza: la tolerancia para un pobre
+desempeño (sin ser, desde luego, prueba de idiotas”) y los que estimulaban o inducían a un
+elevado desempeño. La “publicidad” era, de acuerdo con su plan, un recurso fundamental
+porque funcionaba, en ambos sentidos, como movilizadora y como impedimento.
+El meollo del constitucionalismo de MilI era un sistema de incentivos que favoreciera la
+participación pública inteligente. Sus propuestas de reforma menos afortunadas, como la
+votación pública y los votos complementarios concedidos a quienes tuviesen grados
+universitarios, no sólo conspiraban para impedir el abuso del poder, sino también para lograr
+una participación ciudadana inteligente: “la prosperidad general alcanza mayor altura y difusión
+según la cantidad y variedad de las energías personales dedicadas a promoverla”.
+La democracia es el gobierno por discusión pública y no sólo la imposición de la voluntad
+mayoritaria. El desacuerdo público es instrumento esencial del gobierno popular. No cualquier
+“voluntad”, sino aquella voluntad formada en debate vigoroso y abierto debería recibir
+autoridad soberana. El derecho a la oposición legalmente garantizado es, por tanto, norma
+fundamental del gobierno democrático; aporta un requisito esencial para la formación de una
+opinión pública democrática. Los ciudadanos, sin verse amenazados o privados de sus medios
+de vida, deben poder articular y defender públicamente opiniones políticas heterodoxas. El
+consentimiento no tiene ningún sentido sin garantías institucionales de impugnación para
+disentir. La soberanía popular no tiene ningún significado sin reglas que organicen y protejan el
+debate público.
+Una Constitución puede impedir que las élites políticas incluyan sus decisiones en toda futura
+crítica y revisión. Los poderosos naturalmente detestan que se les contradiga y refute en
+público. Las reglas que prohiben el castigo de disidentes y críticos molestos compensan la falta
+de motivos mejores. De manera similar, por medio de una disposición constitucional (“el
+Congreso no hará leyes [...] que coarten la libertad de expresión”), una comunidad puede
+defender su propia capacidad de toma de decisiones racionales contra su tendencia inherente a
+caer en el “pensamiento de grupo”. Es muy probable que las decisiones tomadas sin sopesar
+diversos puntos de vista sean mal consideradas. Por ello, se ha descrito a la deliberación
+desinformada y crítica como “una mutilación del proceso pensante de la comunidad, contra la
+cual va dirigida la Primera Enmienda de la Constitución”.
+Una vez tomada una decisión, la minoría que perdió la votación debe someterse en la práctica
+a la voluntad de la mayoría; pero las reglas del juego permiten que los perdedores lancen una
+agresiva campaña de sarcasmo público y enfoquen la atención pública, de manera irritante, en
+las consecuencias imprevistas de la decisión a la que se llegó. Esa disposición, que de momento
+resultó irritante, ayuda a tomar mejores decisiones. En otras palabras, los derechos no fueron
+planeados tan sólo para la protección de la minoría, sino también para la corrección y la
+instrucción de la mayoría. Ninguna voluntad popular digna de tomarse en serio tiene una
+preexistencia mística; siempre es producto de limitaciones constitucionales. Y dado que tales
+límites tienden a hacer más inteligente al gobierno, la mayoría estaba dispuesta a imponérselos
+a sí misma.
+
+[[PDF p. 23]]
+Stephen Holmes                                                 El Precompromiso y la Paradoja de la Democracia
+
+Aceptando esta línea básica de argumento, MilI y Madison rechazaron la afirmación de que la
+democracia “se basa en el derecho de intervención general en todas las cuestiones”. Los
+demócratas que anticiparon esta opinión fueron herederos inconscientes de la ideología de la
+monarquía absoluta. Si el pueblo es legibus solutus, si todas las reglas básicas están
+perpetuamente a punto de ser rescindidas, no habrá ninguna posibilidad de registrar, o siquiera
+de formar, una voluntad pública inteligente.
+La idea de “limitaciones que generan posibilidades” ayuda a explicar la aportación del
+constitucionalismo a la democracia y, asimismo, a aclarar la relación existente entre unas
+obligaciones heredadas y un consentimiento expreso. Los creadores de la Constitución
+supusieron que las generaciones futuras desearían vivir bajo un gobierno en que la mayor parte
+de las obligaciones derivaran de un consentimiento expreso. Sin embargo, para que esto fuera
+posible, tenía que estar ya en su lugar una Constitución, un documento de procedimientos que
+asegurara los requisitos para el consentimiento y disidencia racionales, el debate público, la
+resolución de conflictos sin violencia y la revisión minuciosa y acumulativa del propio marco
+constitucional. Para semejante Constitución, impuesta o heredada, no podría haber más
+garantía que un consentimiento hipotético o supuesto. Lo ideal en una democracia sería que
+todo aquel afectado por una decisión tuviera el derecho de participar en su adopción. Sin
+embargo, los que aún no nacen se encontrarán permanentemente privados del derecho de
+voto. Los creadores de la Constitución actuaron conscientemente en favor de éstos para dar. le
+significación al consentimiento ulterior (los predecesores no tenían más remedio que actuar sin
+el permiso de sus sucesores). Estas señales de paternalismo no se pueden eliminar de las
+acciones de los padres fundadores. No obstante, los “límites” constitucionales que impusieron
+solamente siguen siendo obligatorios mientras los ciudadanos sigan imponiéndoselos a sí
+mismos.
+
+
+                                 EL AUTOPATERNALISMO
+Todos los miembros de una comunidad pueden compartir un objetivo. Pero nadie estará
+dispuesto a esforzarse por alcanzarlo a menos que se le asegure que otros a su vez cumplirán
+con sus partes. De acuerdo con Hobbes, la paz es uno de esos objetivos. La conservación de
+los recursos de naturales y el combate a la pobreza son ejemplos pertinentes para las
+sociedades desarrolladas de hoy. Hume aduce el ejemplo de desecar un lía pantano: “es muy
+difícil, en realidad imposible, que mil personas estén las de acuerdo en semejante acción [...]
+mientras cada una busca un pretexto para librarse de la molestia y los gastos y quisiera
+descargar todo el peso sobre las demás”. En otras palabras, para alcanzar sus objetivos, los
+miembros de una sociedad política deben aceptar disposiciones legales que aten sus
+voluntades.
+Una Constitución democráticamente ratificada debe considerarse del un mismo modo. En
+muchos aspectos, parece un caso clásico de autopaternalismo. Las personas pueden renunciar
+voluntariamente a su capacidad de elegir (en algunas cuestiones), con objeto de procurar su
+voluntad (en otras cuestiones). La autoimposición colectiva puede ser un su instrumento del
+autogobiemo colectivo. Las reglas que limitan las opciones disponibles permitirán a personas y
+comunidades alcanzar mejor sus objetivos que si se les dejara enteramente libres. Tal es la
+función democrática de las restricciones constitucionales.
+En The Strategy of Conflict, Thomas Schelling examinó cómo una parte podía ejercer poder sobre
+otra mediante la autoincapacitación; por ejemplo, encadenándose a una vía de ferrocarril. Más
+recientemente, ha explorado los modos en que una persona puede ejercer poder sobre sí
+misma adoptando tácticas restrictivas comparables: “Colocaremos el reloj despertador en el
+otro extremo de la habitación, de modo que no podamos interrumpir el sonido sin levantamos
+
+[[PDF p. 24]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+de la cama. Ponemos cosas fuera de nuestra vista o fuera de nuestro alcance para el momento
+de la tentación. Delegamos nuestra autoridad a un amigo de confianza, quien cuidará nuestras
+calorías o nuestros cigarrillos”. Una persona puede ser lo bastante hábil y tener suficiente
+fuerza de voluntad para dominar sus egos futuros, aun si está demasiado ofuscada y si tiene
+poca voluntad para actuar, como lo preferiría sin compromisos previos. Para alcanzar los fines
+deseados, pese a su escasa resolución una persona debe restringir las opciones de que disponga.
+Por ejemplo: un elector puede apoyar una ley que haga obligatorio el cinturón de seguridad
+para obligarse a ser libre; es decir, para hacer lo que realmente desea hacer, pero que de otra
+manera no haría por motivos de pereza, distracción o presiones sociales al querer parecer libre
+y desenvuelto. De manera similar, las leyes que impiden a los empleados consentir
+voluntariamente en trabajar por menos del salario mínimo pueden aumentar la capacidad de
+una persona para obtener lo que desee restringiendo lo que libremente podría elegir.
+Resulta tentador pensar en el constitucionalismo en estos términos como un puñado de
+técnicas para la autoadministración colectiva. Por ejemplo, al consentir tácitamente la revisión
+judicial, las mayorías electorales voluntariamente ceden poder. Se atan sus propias manos por
+aquello que presumiblemente ven como su propio bien. Todo mi análisis se ha basado en la
+premisa de lo fructífero de esta perspectiva. No obstante, debemos hacer una pausa antes de
+afirmar, a la manera de Schelling, que una Constitución es básicamente una estrategia indirecta
+de mando de una comunidad.
+Las naciones no son como individuos en grande; y las constituciones se pueden interpretar mal
+(no sólo trivializarlas) si las comparamos con nuestras resoluciones de año nuevo y si las
+explicamos en términos originalmente planeados para describir la conducta de las palomas. La
+analogía Pedro sobrio-Pedro ebrio no es del todo apropiada, porque incluso futuras
+generaciones perfectamente racionales, virtuosas y de visión clara podrían beneficiarse de
+procedimientos prestablecidos para resolver conflictos. Además, los creadores de la
+Constitución no tenían metas específicas (como perder peso o dejar de ftlmar) que desearan
+alcanzar, pese a la flaqueza de la voluntad que podía esperarse que afligiría a su posteridad.
+Tampoco estaban forjando cadenas para evitar que los futuros ciudadanos cayeran de un
+precipicio, ni tejiendo guantes para impedir que se rascaran en casos de urticaria. En general. el
+concepto de Schelling de dominio sobre sí mismo es demasiado negativo para captar las
+funciones capacitadoras del precompromiso constitucional. Entre otras cosas, los creadores de
+la Constitución desearon garantizar que, cualesquiera que fuesen las decisiones a las que
+eventualmente se llegara, se sopesarían opciones y se escucharían contrargumentos. Como lo
+he dicho, la Constitución es en parte un intento por programar la objetividad y la autocrítica en
+la vida estadunidense. No sólo representa un intento de unos antepasados prudentes por
+impedir la conducta autodestructiva. La Constitución es también un conjunto de incentivos
+que alientan a los futuros ciudadanos a pensar por sí mismos.
+El autopaternalismo es una categoría muy útil para ilustrar la función democrática de las
+restricciones constitucionales. Pero creo que haya menos tres importantes desanalogías entre el
+constitucionalismo y el dominio de sí mismo, según Schelling lo concibe:
+   1. La autoincapacitación es una metáfora extraña si se aplica a la formación de naciones.
+      Las constituciones contienen diversos mecanismos tentadores: recursos para llamar la
+      atención, agudizar la conciencia de las opciones, movilizar el conocimiento, hacer
+      participar a los ciudadanos y garantizar que las opciones futuras se tomarán en
+      condiciones en que se analicen las alternativas, se sopesen los hechos y resulte posible
+      la autocorrección. Cuando uno de los individuos de Schelling se ata a sí mismo, limita
+      su capacidad preexistente de elegir (aun si, como consecuencia, su ulterior gama de
+      opciones se ensancha). Cuando una asamblea constituyente establece un procedimiento
+
+[[PDF p. 25]]
+Stephen Holmes                                                   El Precompromiso y la Paradoja de la Democracia
+
+       de decisiones en lugar de restringir una voluntad preexistente, en realidad crea un
+       marco en que una nación puede, por vez primera, tener una voluntad.
+   2. Los recursos constitucionales, como los frenos y equilibrios, no pretenden
+      simplemente compensar la deplorable pero predecible falta de temple moral; en
+      realidad, se les concibe como superiores a la virtud personal ya la fortaleza de carácter.
+      El hombre obeso que desea ser esbelto preferiría tener una fuerte voluntad. Así, a falta
+      de una fuerza interior, se ata a sí mismo. Por contraste, para los constitucionalistas
+      liberales sería positivamente indeseable edificar la estabilidad política sobre la base de la
+      virtud colectiva o de una voluntad inquebrantable. Esto descargaría la conciencia
+      individual, impondría una estandarización de carácter a los ciudadanos y privaría a la
+      sociedad de una extrapolítica variedad de egos. En esa sociedad prearmonizada, la
+      discusión sería inútil. Por ello, los constitucionalistas liberales no desean unos
+      ciudadanos inmovilizados por un abrumador propósito común. Rechazan la política
+      basada en la virtud a cambio de una especie de marco común más relajado, menos
+      comprometedor para todos, más de procedimiento y que estimule la discusión.
+   3. Sin aceptar las ideas políticas de Hayek, podemos reconocer que es plausible su
+      afirmación de que “como la mayoría de los instrumentos, las reglas [constitucionales]
+      no son parte de un plan de acción, sino más bien el equipo para ciertas contingencias
+      desconocidas”. Aunque es precisa tan sólo en parte, esta caracterización de las reglas
+      constitucionales sugiere una tercera diferencia entre el constitucionalismo y las
+      estrategias de auto incapacitación de Schelling. Estas últimas son de un solo propósito,
+      mientras que la primera es de propósitos diversos e intencionalmente diseñada para
+      favorecer metas futuras, actualmente desconocidas.
+
+
+                 LA PROHIBICION DE LA AUTOESCLAVIZACIÓN
+El principio mismo de voluntariedad exige privarse de ciertas opciones. Característicamente,
+las constituciones modernas prohiben a uno venderse a sí mismo para convertirse en
+esclavo.129 Éste no puede entrar en acuerdos obligatorios. Por ello, un acto de
+autoesclavización voluntaria sería un contrato de renunciar, entre otras cosas, al derecho de
+concertar ulteriores contratos. Según MilI, esto sería una contradicción práctica: la voluntad de
+ceder la voluntad. Si una persona se vende como esclava,
+       abdica de su libertad: renuncia a todo uso futuro de ella más allá de ese acto único. Por
+       tanto, en su propio caso, contradice el propósito mismo que es la justificación de
+       permitirle disponer de sí misma [...] El principio de libertad no puede requerir que sea
+       libre de no ser libre. No es libertad estar autoriza. do a alienar su libertad.
+Nos encontramos aquí ante otra norma fundamental del constitucionalismo: no se puede
+acceder voluntariamente a ceder voluntaria. mente el derecho de acceder. Aquí tal vez se
+encuentre una “solución” a la paradoja de la democracia constitucional. Para conservar la
+voluntariedad, se debe restringir la propia voluntariedad. La prohibición de venderse a sí
+mismo como esclavo implica lógicamente la aceptación de un compromiso previo: la apertura
+en un aspecto presupone la clausura en otro. El compromiso previo es moralmente permisible,
+siempre que refuerce la prohibición de la autoesclavización. Entre sus otras funciones, la
+obligación constitucional es un intento de impedir la posibilidad de que la nación (o cualquier
+ge. neración) se venda a sí misma (o a su posteridad) como esclava. Con este espíritu, el
+artículo IV, sección 4, de la Constitución de los Estados Unidos pretende hacer obligatoria una
+“forma republicana de gobierno” en los estados e inalterable por mayorías futuras. En general,
+una democracia que decida destruir el marco en que puede haber desacuerdo no violento y
+
+[[PDF p. 26]]
+Stephen Holmes                                                            El Precompromiso y la Paradoja de la Democracia
+
+acotamiento de conflictos estará actuando en forn1a suicida. Los creadores de la Constitución
+propusieron, y las generaciones ulteriores lo aceptaron, el precompromiso constitucional
+porque es un recurso útil para impedir esta clase de autodestrucción colectiva. )
+Resulta adicionalmente relevante aquí la aserción de Bodin, de que “el príncipe no puede atarse
+sus propias manos o fijarse como ley el prohibir a sus súbditos agraviados acudir ante él con
+sus humildes súplicas y peticiones”. Atarse a sí mismo es ilícito siempre que impida el flujo de
+información y sofoque la capacidad de aprender del príncipe soberano. Y por analogía,
+tampoco el pueblo soberano puede renunciar a su en capacidad de aprender.
+Este argumento, originalmente dirigido contra atarse a sí mismo, puede fácilmente ponerse de
+cabeza. Una vez reconocido que se puede aumentar la capacidad de aprender mediante una
+autoatadura estratégica, entonces la autoatadura se vuelve no sólo pern1isible, sino obligatoria.
+Los legisladores elegidos no deben hacer leyes que interfieran con los derechos de voto, el libre
+flujo de información, la libertad de reunión y acceso político de las minorías; es decir, aquellas
+actividades “que ordinariamente podría esperarse que produzcan un rechazo de una legislación
+indeseable”. La mayoría debe limitar sus propios poderes para garantizar que seguirá siendo
+una mayoría capaz de aprender.
+Paine y Jefferson creyeron que la democracia era un sistema orientado hacia el cambio y la
+innovación. La racionalidad misma exige que haya futuras oportunidades de reconsideración y
+de autocorrección. MilI, como Madison, aceptó este principio, pero estaba convencido de [ la
+que todo cambio benéfico requería una minuciosa estructuración de las condiciones en que se
+evaluaban y analizaban las reformas políticas. Se debe concebir un marco institucional y
+jurídico para mantener abierta la gama de opciones más vasta posible con objeto de tomar
+decisiones. Nuestra condición humana radica ante todo en nuestra capacidad de elegir, en
+nuestra aptitud no sólo de decidir, sino también de anular aquellas decisiones pasadas
+insatisfactorias y decidir de nuevo. Una Constitución bien pensada puede crear un régimen que
+sea poco adecuado a la capacidad humana de autocorrección. Sólo un precompromiso bastante
+inflexible a ciertas reglas de procedimiento (que garantice, por ejemplo, el derecho permanente
+de disentir impunemente) hace posible el aprendizaje público. La democracia constitucionales
+el sistema político más “humano” porque se enriquece con la capacidad de individuos y
+comunidades para reconocer sus propios errores. Pese a que prohibieron los precompromisos
+que obstruyeran todo nuevo aprendizaje, Locke, Kant y otros aprobaron las reglas
+constitucionales duraderas aunque no inalterables. Lo hicieron así porque reconocían que tales
+reglas podían fomentar el futuro aprendizaje. Los muertos no deben gobernar a los vivos, pero
+sí pueden facilitar el que los vivos se gobiernen a sí mismos.
+
+
+
+
+     Este documento ha sido reproducido con fines exclusivamente docentes para uso de los estudiantes del
+                                   Departamento de Derecho del ITAM

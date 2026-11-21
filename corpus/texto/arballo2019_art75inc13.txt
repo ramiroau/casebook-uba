@@ -1,0 +1,1035 @@
+# fuente: Unidad10/2_Arballo - 2019 - Comentario al 75.13.pdf
+# md5_original: 68134dcd714180ef9d60a07c26c328c5
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+ARTÍCULO 75 INC. 13
+
+
+
+
+               13. Reglar el comercio con las naciones extranjeras, y de las provincias entre sí.
+
+
+§ 1. Una cláusula multidimensional.
+
+
+        “Reglar el comercio” es una expresión que incluye una diversidad de manifestaciones que
+empoderan al Congreso de la Nación en dos dimensiones positivas: una es el de proveerlo de una
+amplia fuente de intervención regulatoria (incidiendo en un eje hipotético de “Estado vs.
+particulares y/o corporaciones”) y la otra es la que le brinda una base genérica que habilita -también
+vastamente- la regulación federal como prevalente (incidiendo en un eje hipotético de “Estado
+Federal vs. Provincias”).
+         En esta última dimensión, la “cláusula federal” también tiene una muy potente faz
+negativa: en una acepción muy frecuente no implica ya una habilitación para el Congreso, sino
+una plataforma de descalificación de potestades locales que puedan tener interferencia potencial
+en el comercio interprovincial. En ese aspecto, esta cláusula se conecta con el art. 126 CN que
+prohíbe a las provincias "expedir leyes sobre comercio o navegación interior o exterior"; así, su
+efecto se impone prevaleciendo frente al legislador local tanto en sus pretensiones de ejercer
+potestades tributarias como en sus manifestaciones regulatorias (permisos, cargas, obligaciones,
+etc.), exigidas para el desarrollo de una actividad.
+        Se habla así de la cláusula comercial “durmiente” o “negativa”: si el Congreso no ha
+ejercido sus potestades regulatorias, debe entenderse que su voluntad fue dejar libre la materia de
+toda regulación, y por ello las normas locales pueden impugnarse si afectan el comercio
+interjurisdiccional.
+       Es importante aclarar que esta “cláusula comercial durmiente” (dormant clause) es de
+origen jurisprudencial (su desarrollo y denominación corresponde a la jurisprudencia
+norteamericana, mas específicamente al voto del Juez Marshall en Gibbons v. Ogden de 1824 que
+veremos más adelante) y no se debe confundir con la cláusula durmiente (a veces llamada
+“dormida”) que sí está explicitada en el art. 126 CN y que se refiere a la posibilidad de las
+provincias de dictar Códigos de fondo mientras el Congreso no lo hubiera hecho.
+
+
+§ 2. Origen de la cláusula: el modelo americano
+
+
+        Leída bajo el prisma del federalismo, puede decirse que en el balance de la división vertical
+de poderes, esta cláusula tiene un sesgo centralista no tanto por lo que le permite hacer al Congreso
+de la Nación, sino también –y especialmente- por sus implicancias de encapsulamiento y acotación
+de los poderes provinciales y municipales.
+
+[[PDF p. 2]]
+        No se trata, por cierto, de un fenómeno inesperado, sino de parte del plan mismo del
+edificio constitucional federal. Esta cláusula, como tantas otras, tiene su fuente en la cláusula
+análoga de la Constitución de los EE.UU., lo que motivó que frecuentemente la Corte adoptara
+estándares nacidos en la jurisprudencia norteamericana, y nos obliga a hacer una rápida síntesis de
+la hermenéutica histórica de lo dispuesto en el art. 1°, secc. 8°, párr. 3° de la Constitución de
+Estados Unidos: “El Congreso tendrá poder... para regular el comercio de las naciones
+extranjeras, entre los varios estados y con las tribus indias”.
+          Como se ha recordado en varios dictámenes de la procuración nacional, esta doctrina
+                  “era la defendida por Hamilton, quien dejó escrito que "la competencia entre los
+          estados en materia de comercio sería otra fuente fecunda de contiendas, ...alimentaríanse
+          continuas animosidades que probablemente concluirían en graves perturbaciones de la
+          tranquilidad pública...", así como por Madison, quien expresó que "la necesidad de una
+          autoridad de superintendencia sobre el comercio recíproco de los Estados Federados, ha
+          sido demostrada con ejemplos de otros países y del nuestro mismo" (cf. "El Federalista",
+          nros. 7 y 42, págs. 25 y 185, respectivamente, Fondo de Cultura Económica, México,
+          1943)”.1
+
+
+        Su desarrollo jurisprudencial ha sido fecundo –y no exento de controversias- y ello se
+produce por una razón elemental: en los Estados Unidos, ante la falta de una cláusula unificadora
+“de fondo” como la que incluyó nuestra Constitución en el actual art. 75 inc. 12 (por el cual todo
+el derecho sustancial fue delegado a la Nación), resultaba especialmente necesario encontrar un
+punto de apoyo que pudiera justificar la progresiva atribución de funciones que fue adoptando el
+Estado central, en parte también como una continuidad del esfuerzo por revertir la fallida
+experiencia “confederal” previa a la Constitución de 1787. Esto era una parte del paradigma
+“federalista” de Johan Marshall, que implantaría en la jurisprudencia de los Estados Unidos los
+criterios de Hamilton, Madison y Jay.2
+        Es en esa lógica que debe leerse el seminal caso “Gibbons v. Ogden” de 18243, que marcó
+el primer gran precedente a propósito de esta cláusula. La Corte le dio un lato alcance a su
+extensión, afirmando que “el poder del Congreso sobre el comercio interestatal es pleno y
+completo por sí mismo, puede ser ejercido en su más amplia medida, y no reconoce limitaciones
+aparte de aquellas establecidas en la Constitución”.
+      Y, más importante aún, definió de un modo amplio su sentido mismo, considerando que
+no podía limitarse al tráfico tangible de compras y ventas de mercaderías, sin admitir que
+comprenda por ejemplo –como interesaba al caso- la regulación de la navegación. “Esto
+
+1
+  El fragmento forma parte de los dictámenes de la Procuración en varias causas: Harengus S.A v. Provincia de Santa
+Cruz s/ inconstitucionalidad /ley prov. 2144, Fallos 317:397 (1994); Comité Federal de Radiodifusión c. Provincia
+del Neuquén, Fallos 319:998 (1996), Hidroeléctrica El Chocón S.A. v. Provincia de Buenos Aires y otro s/ acción
+declarativa, Fallos 320:1302 (1997); Antonio Barillari S.A. c. Provincia de Buenos Aires s/acción declarativa de
+inconstitucionalidad, Fallos 335:1739 (2012).
+2
+ Por ejemplo, Madison proclamaba en "El Federalista" nº 42 que "la necesidad de una autoridad de superintendencia
+sobre el comercio recíproco de los Estados Federados, ha sido demostrada con ejemplos de otros países y del nuestro
+mismo" (cf. El Federalista, p. 185, Fondo de Cultura Económica, México, 1943).
+3
+    SUPREMA CORTE DE LOS ESTADOS UNIDOS, Gibbons v. Ogden, 22 U.S. 1 (1824).
+
+[[PDF p. 3]]
+restringiría un término general, aplicable a muchos objetos, a uno de sus significados. El comercio,
+indudablemente, es tráfico, pero es algo más, es intercambio”. Así es que desde las premisas
+adoptadas en Gibbons, todo arco de relaciones, todo asunto u objeto que pueda proyectarse de
+algún modo a mas de un Estado, está sujeta al influjo de la cláusula de comercio, y por ende
+susceptible de una regulación federal que se impone a la estadual4.
+        La cláusula estaba llamada a tener un rol clave para dar carta de ciudadanía a la creciente
+actividad regulatoria del Estado en “NLRB (National Labor Relations Board) v. Jones & Laughlin
+Steel Corp.” de 19375, en el que la Corte reconocerá que dentro de su esfera estaban comprendidas
+no solo las vías, medios, personas y cosas del comercio interestatal, sino también toda actividad
+intraestatal que guardara una «sustancial relación» (rational basis test) con el comercio
+interestatal. Como dice Rey Martínez,
+
+
+                  El Tribunal, desde 1937, ha concedido gran libertad al Congreso a la hora de decidir
+          si la actividad regulada afectaba al comercio, requiriendo tan sólo que tuviera un
+          «fundamento racional» o «razonable» que permitiera justificar la necesidad de tal
+          regulación para proteger el comercio interestatal. De acuerdo con este rational basis test
+          (aplicado, en general, para el examen de toda la legislación socio-económica), el Tribunal
+          ha sostenido la constitucionalidad de leyes federales que tenían una relación muy lejana
+          con el comercio interestatal. ¡Incluso fue la cláusula de comercio y no la XIV Enmienda la
+          invocada por el Tribunal Supremo para declarar la constitucionalidad de la legislación
+          federal antidiscriminatoria, la famosa Civil Rights Act de 1964!6.
+
+
+        La cláusula comercial se usó en 1942 en el caso de Wickard v. Filburn para avalar una
+legislación del Congreso Nacional –la Agricultural Adjustment Act de 1938 – que restringía el
+consumo de trigo.7 Allí se dio lugar a la doctrina de los “efectos agregados” sobre el comercio, lo
+que habilitaba al Congreso a regular acciones individuales y en principio locales que pudieran
+tener efectos acumulativos susceptibles de afectar el comercio interestadual. El estándar de
+
+
+4
+ Nótese que la idea central de “Gibbons” aparece alineada con otros fallos anteriores de la era Marshall como Fletcher
+vs Peck (10 U.S. 87, 1810) que declaraba la inconstitucionalidad de las leyes estaduales que venían a revisar los
+contratos, o Sturges v. Crowninshield (17 U.S. 122, 1819) declarando inconstitucional una ley del Estado de Nueva
+York que favorecía a los deudores insolventes.
+5
+ SUPREMA CORTE DE LOS ESTADOS UNIDOS, National Labor Relations Board v. Jones & Laughlin Steel Corporation,
+301 U.S. 1 (1937)
+6
+  REY MARTÍNEZ, Fernando, United States v. López y el «Nuevo Federalismo» norteamericano, en “Revista Española
+de Derecho Constitucional”, n.º 51, Septiembre-Diciembre, 1997, p. 297. Explica este autor que “en Heart of Atlanta
+Motel, Inc. v. United States (1964), el Tribunal justificó la constitucionalidad de una ley federal bajo la cláusula de
+comercio en el hecho de que la discriminación racial dificultaba, y en ocasiones impedía, encontrar alojamiento a
+algunos viajeros; sin apreciar especiales diferencias respecto de si el viaje era comercial o particular. Y ello aunque
+los moteles tuvieran un carácter puramente local, ya que si recibían viajeros, entonces podía regularse por el Congreso
+para proteger el comercio interestatal de la discriminación racial. De igual modo, en Katzenbach v. McClung (1964),
+el Tribunal sostuvo la legitimidad de la aplicación de la Ley de Derechos Civiles a cualquier restaurante que sirviera
+comida a viajeros de otros Estados o, incluso, si una porción significativa de ella provenía del comercio interestatal
+(lo que estimó, precisamente, en el caso: el 46 por 100 de los alimentos habían sido suministrados desde otro Estado)”.
+7
+    SUPREMA CORTE DE LOS ESTADOS UNIDOS, Wickard v. Filburn, 317 U.S. 11 (1942).
+
+[[PDF p. 4]]
+apreciación judicial no exigiría al Congreso la prueba acabada de esa afectación, sino simplemente
+una discreta plausibilidad: que hubiera bases racionales para creer que podrían tener tal influencia.
+        La lógica orgánica y conglobante habilitaría al Congreso a actuar bajo la cobertura de esta
+cláusula en la regulación de aspectos de influencia mediata en la actividad interestadual comercial.
+Esta concepción también tuvo su evolución, denotada por los casos en que se discutían normas de
+salario y de jornada mínima impuestas por los estados. Un primer paso “localista” de la Corte fue
+el dado en Hammer v. Dagenhart, fallado en contra de una ley del Congreso Federal por la que se
+prohibió el transporte en el comercio interestatal o exterior de cualquier artículo en cuya
+producción se hubiera empleado el trabajo de menores de 14 a 16 años, según el género de
+industria, o en jornadas superiores a 8 horas, o en más de 6 días por semana o después de las 7 de
+la noche o antes de las 6 de la mañana. La Corte celosamente se ciñó a observar que la ley estadual
+estaba regulando un eslabón exclusivamente "local" de la producción, de modo que que el
+Congreso no podría legislar sobre esa materia.8
+        Sin embargo, el criterio variaría en 1941 en U. S. v. Darby en donde la Corte validaría otra
+ley progresista, la Fair Labor Standards Act, que prohibía el embarque en el comercio interestatal
+de mercaderías que no fueran producidas con arreglo a pautas mínimas de trabajo: un salario
+mínimo federal, una jornada semanal de 44 horas, y un jornal especial para los lapsos que un
+empleado trabaje por encima de ese límite.
+                   "El motivo y propósito de la regulación presente es simplemente hacer efectivo el
+          concepto del Congreso en materia de política pública de que el comercio interestatal no
+          puede convertirse en instrumento de competencia para la distribución de artículos
+          producidos en condiciones de trabajo inferiores, competencia que es injuriosa para el
+          comercio y para los Estados de los cuales y hacia los cuales fluye el comercio. El motivo
+          y propósito de una regulación del comercio interestatal son materias dejadas al juicio
+          legislativo, sobre cuyo ejercicio la Constitución no coloca ninguna restricción y sobre el
+          cual no se otorga ninguna fiscalización a los tribunales". 9
+        Dice al respecto Bidegain que “La opinión de la Corte, sustentada implícitamente en
+Hammer v. Dagenhart y en otros fallos, de que al utilizar la cláusula comercial para legislar en
+general sobre las condiciones económicas y sociales, el Congreso actuaba en una forma solapada
+y deshonesta, contrastó con el nuevo criterio del tribunal, que no sólo aprobó el proceder del
+Congreso, sino que hizo emanar de aquella cláusula una verdadera responsabilidad de la
+legislatura de asegurar que los canales del comercio interestatal no sean usados para fomentar o
+perpetuar condiciones deprimentes para el interés general”10.
+       El último cambio de paradigma de la Corte de los EE.UU. es el de su jurisprudencia de
+United States v. Lopez de 199511 en el que declara la inconstitucionalidad de una ley federal que
+prohíba la posesión de armas de fuego dentro o en los entornos de las escuelas.
+
+
+
+8
+    SUPREMA CORTE DE LOS ESTADOS UNIDOS, Hammer v. Dagenhart, 247 U.S. 251 (1918)
+9
+    SUPREMA CORTE DE LOS ESTADOS UNIDOS, United States v. Darby Lumber Co., 312 U.S. 100 (1941)
+10
+  BIDEGAIN, Carlos María , Poderes del congreso bajo la cláusula comercial de la Constitución Norteamericana, en
+La Ley t. 57 , p. 874
+11
+     SUPREMA CORTE DE LOS ESTADOS UNIDOS, United States v. Lopez, 514 U. S. 549 (1995).
+
+[[PDF p. 5]]
+         En un fallo que marca el fin de la política de deferencia hacia el Congreso, la Corte observa
+que no hay “sustancial relación con el comercio” en los argumentos presentados por el Estado para
+justificar la ley en base a la cláusula en cuestión: se había alegado, en tal sentido, el posible impacto
+económico de los efectos desalentadores sobre los individuos para viajar a las áreas del país de
+alta criminalidad, y el hecho de que la violencia en escuelas apareje un impedimento para el
+adecuado desarrollo del proceso educacional, redundando en una “ciudadanía menos productiva”
+La Corte entendió, en suma, que la línea de implicancias justificantes que había propiciado en
+paralelo con el crecimiento de un estado más regulador estaba sobreextendida: seguir ese camino
+iría a esfumar la distinción entre lo que es verdaderamente nacional y lo que es verdaderamente
+local. Los efectos de Lopez han marcado un cambio de tono que ha venido a acotar el alcance de
+las potestades del Congreso Federal.
+        Y este giro ha sido consistente con la decisión referente al plan de salud conocido como
+Obamacare. La mayoría de la Corte declaró constitucional el “mandato individual” que obligaba
+a todo individuo a contratar un seguro, pero lo hizo tomando el atajo de considerar la multa
+derivada de su incumplimiento como un impuesto, y rechazando el argumento que postulaba
+validar el sistema como un ejercicio legítimo de la regulación del comercio interestadual.12
+        El voto del Chief Justice Roberts trazó una diferencia entre “actividad” e “inactividad”,
+diciendo que la cláusula habilita al Congreso para regular la primera, pero no para la segunda, al
+razonar que “el poder de regular el comercio presupone la existencia de actividad comercial a ser
+regulada”. El sistema, observaba, obliga a las personas a participar activamente en el comercio
+mediante la compra de un producto, sobre la base de que el hecho de no hacerlo afecta el comercio
+interestatal. E interpretar la Cláusula de Comercio para permitirle al Congreso regular a los
+individuos precisamente porque no están haciendo nada abriría un dominio nuevo y
+potencialmente vasto a la autoridad del Congreso: lo autorizaría a regular lo que la gente no hace.
+Los constituyentes “le dieron al Congeso el poder de regular el comercio, pero no el de compeler
+a que la gente lo ejerza”.
+        En este punto cabe decir que cuatro de los nueve jueces de la Corte suscribieron la opinión
+de la Jueza Ginsburg, que si bien valida también el Obamacare, entiende que la distinción entre
+“actividad” e “inactividad” es artificial y que la cláusula del comercio puede regular ambas esferas,
+ya que de hecho pueden ser descriptas como el recíproco de la otra.13
+
+
+
+12
+  SUPREMA CORTE DE LOS ESTADOS UNIDOS, National Federation of Independent Business v. Sebelius, 567 U.S. 519
+(2012),
+13
+   Razona Ginsburg que de hecho con frecuencia encontraremos normas en donde es posible reformular muchas
+“acciones” como “omisiones” (de hacer determinada cosa) y viceversa. Por ejemplo: un sujeto que elige no comprar
+un seguro de salud puede en verdad estar tomando la decisión activa de elegir otra forma de “seguro”: el auto-seguro,
+asumiendo él mismo las contingencias. Y así, la exigencia impuesta por el sistema de salud podría ser descripta como
+reguladora de una tácita acción: optar por el auto-seguro. Dan Coenen ha dicho, similarmente, que la obligación de
+llevar un casco para trabajar puede también exponerse como la prohibición de no trabajar sin casco. Cf. COENEN,
+Dan T., The Commerce Power and Congressional Mandates, George Washington Law Review. Aug2014, Vol. 82
+Issue 4, pp. 1052-1117. En este orden de ideas, Richard Posner, asumiendo que el Congreso puede regular “actividad”
+e “inactividad”, cf. POSNER, Richard A. Supreme Court Year in Review: The Commerce Clause Was Clearly Enough
+to         Uphold          the        Affordable          Care         Act,          en        SLATE,           URL:
+http://www.slate.com/articles/news_and_politics/the_breakfast_table/features/2012/_supreme_court_year_in_review
+/affordable_care_act_upheld_why_the_commerce_clause_should_have_been_enough_.html
+
+[[PDF p. 6]]
+§ 3. Su adopción en Argentina.
+
+
+         En nuestro país, en tanto, mas allá de la adopción casi “literal” de la cláusula
+norteamericana por el constituyente de 1853, también tempranamente la doctrina cerró filas
+justificando la necesidad y el sentido unificador de este precepto, comenzando con el propio Juan
+Bautista Alberdi, cuando sostenía que la crucial cuestión del comercio exterior e interprovincial
+("el grande agente de prosperidad de la República Argentina") "no debe estar, para su arreglo y
+gobierno, en manos de las autoridades de provincia, sí en las del gobierno central"14. De lo
+contrario, razonaba “bajo pretexto de reglar el comercio interior local, cada provincia ejercerla la
+facultad esencialmente nacional de establecer contribuciones aduaneras ó indirectas; porque un
+reglamento de comercio puede ser el medio de imponer un derecho de aduana, ó lo que es igual,
+de crear aduanas interiores”.
+         Joaquín V. González reputaba, por ejemplo, “monstruoso como idea económica y absurdo
+como régimen de explotación, que una línea que sale de Buenos Aires y recorre cinco provincias,
+fuese gobernada, inspeccionada, gravada y regida por cada uno de los gobiernos por cuyos
+territorios atraviesa. Lejos de ser un agente de comercio y prosperidad, lo sería de desorden, de
+ruina, de pleitos, de divergencias entre provincias, pues cada una procuraría obtener las mayores
+ventajas para su comercio por las tarifas o los servicios directos”15.
+        En línea similar, otro autor clásico como Montes de Oca razonaba que "si se dejase a todos
+los Estados particulares la facultad de dictar disposiciones para el transporte e intercambio de
+mercaderías, no sería difícil ver reproducirse en la época contemporánea el hecho de que los
+derechos de tránsito mataron la producción industrial del país"16.
+        Dicho esto, y aun cuando el sesgo centralista de la cláusula –que veremos reflejado en la
+jurisprudencia- forma parte del plan constitucional, es posible argumentar, con Barrera Buteler,
+que su influencia ha devenido mayor a medida que se plasmó un proceso de integración económica
+nacional, de forma tal que la Constitución Nacional “otorga hoy una cuota de poder al gobierno
+federal que no era imaginable en el siglo XIX, porque el comercio puramente interno o local tiene
+una significación escasa en el mundo globalizado”.17
+        En los puntos siguientes veremos un análisis desdoblado a partir de dos fuentes locales de
+intersección con el comercio interprovincial: la que surge del poder de policía provincial, y la que
+surge de los poderes tributarios provinciales.
+
+
+
+
+14
+  ALBERDI, Juan Bautista, Elementos de Derecho Público Provincial, en "Obras Completas". Tomo V, Buenos Aires,
+1886, pág. 13, párrafos 2° y 3°
+15
+  GONZÁLEZ, Joaquín V., Escritos y opiniones en Derecho, s/a,, i. I, pp. 29 y ss., citado en el dictamen de la
+Procuradora Reiriz (ap. XIV in fine) en CSJN, Empresa Gutiérrez c. Provincia de Catamarca, Fallos 316:2865
+16
+  MONTES DE OCA, Manuel Augusto, Lecciones de Derecho Constitucional, Imprenta “La Buenos Aires”, Buenos
+Aires, 1896, t. I, p. 312.
+17
+  BARRERA BUTELER, Guillermo, “Los poderes no delegados”, en SABSAY, D. (dir.) – MANILI, P. (Coord),
+Constitución de la Nación Argentina y normas complementarias. Análisis doctrinal y jurisprudencial, Hammurabi,
+Buenos Aires, 2010, t. IV, pp. 789-805, en p. 804.
+
+[[PDF p. 7]]
+§ 4. La cláusula de comercio y el poder de policía local.
+
+
+        Es canónica en nuestra jurisprudencia –e incluso aparecerá plasmado en la letra
+constitucional en el art. 75 inc. 30 CN- la aceptación de un poder de policía local, regulatorio,
+plasmado en su origen a cuestiones de seguridad y salubridad –casi, podría decirse, propios de un
+“Estado gendarme”-, y que en acepciones ulteriores reconoce ámbitos de proyección más
+ambiciosos y desarrollistas.
+        Curiosamente, veremos que la primera aparición de Gibbons en el repertorio de fallos de
+la Corte argentina se formula no con el sentido marshalliano de fortalecer el poder central, sino
+invocado a contrario para ratificar que la regulación de lo que sea materia de comercio interno de
+un Estado se puede definir dentro del nivel local. Ese es el uso que se le da en el fallo “Varios
+puesteros próximos al Mercado del Centro” de 186618, donde los actores demandaban a un
+empresario que había obtenido la exclusividad para instalar puestos en un radio determinado; allí
+el caso norteamericano aparece citado como “Ogdeu contra Jibbou” (sic).
+        Mas allá de una genérica “concurrencia”, es claro que en la puesta en práctica del poder de
+policía local se puede generar una trayectoria de colisión con la atribución regulatoria comercial
+que la Constitución defiere al Congreso. Así, en la jurisprudencia contemporánea vemos casos
+donde es frecuente la aplicación de la cláusula del art. 75 inc. 13 CN para controlar ejercicios
+regulatorios locales que colisionan ya con legislación nacional existente, o simplemente interfieren
+con el comercio.
+        En “The United River Plate Telephone Cia. Ltda. Unión Telefónica”19, un fallo de 1929,
+la Corte siguió el modelo norteamericano al afirmar que el vocablo comercio comprende, "además
+del tráfico mercantil y la circulación de efectos visibles y tangibles por todo el territorio de la
+Nación, la conducción de personas y la transmisión por telégrafo, teléfono u otro medio, de ideas,
+órdenes y convenios". La firma era concesionaria de un servicio público de comunicaciones
+sometido a jurisdicción nacional y exenta de todo gravamen provincial, y reclamaba por un
+impuesto que había establecido la provincia de Buenos Aires por inspección de agencias de
+sociedades anónimas. La Corte desestimaría el planteo ponderando que la compañía no había
+llegado a acreditar que la tasa perturbara la prohibición del servicio, pero dejó sentado el criterio
+que adopta la prelación federal, con la explícita adopción de los criterios de “Gibbons”, diciendo
+que:
+                    “el vocablo comercio usado por la Constitución Americana igual al de nuestro
+           inciso 12 del art. 67 [actual 75 inc. 13], ha sido interpretado en el sentido de comprender,
+           además del tráfico mercantil y la circulación de efectos visibles y tangibles para todo el
+           territorio de la Nación, la conducción de personas y la transmisión por telégrafo, teléfono
+           u otro medio, de ideas, órdenes y convenios. […]. El poder para regular el comercio así
+           comprendido es la facultad para prescribir las reglas a las cuales aquél se encuentra
+
+
+
+
+18
+     CSJN, Varios puesteros próximos al Mercado del Centro. Fallos 3:468 (1866)
+19
+     CSJN, The United River Plate Telephone Cia. Ltda. Unión Telefónica, Fallos: 154:104 (1929).
+
+[[PDF p. 8]]
+           sometido y su ejercicio corresponde al Congreso de la Nación de una manera tan completa
+           como podría serlo en un país de régimen unitario” 20
+           Otros vectores de ampliación aparecen explicitados en fallos ulteriores:
+       •   El criterio fue llevado a su consecuencia lógica de impedir interferencias locales en un fallo
+           de 1940 en el que la Corte contempló la posibilidad de que las restricciones sean indirectas,
+           diciendo que “las provincias no se hallan autorizadas para dictar leyes o reglamentos de
+           carácter general o municipal que comporten directa o indirectamente trabar o perturbar de
+           cualquier modo (…) la libre circulación territorial o que puedan afectar el derecho de
+           reglamentar el comercio, conferido al Congreso de la Nación con el carácter de una facultad
+           exclusiva”21.
+       •   El caso de “Laboratorio Suarry” involucra una pieza publicitaria publicada por ese
+           anunciante en la guía telefónica de Rosario de 1940. Se trataba de un aviso de la medicina
+           "Geniol", y el laboratorio había sido multado por aplicación de una ley de la provincia de
+           Santa Fe que requería una autorización previa del Consejo Médico para las publicaciones
+           de ese carácter. La Corte entendió que esa exigencia de autorización previa de una
+           autoridad local era –tal como lo planteaba la firma- obstructiva e incompatible con la
+           facultad exclusiva del Gobierno de la Nación para reglar el comercio y las comunicaciones
+           interprovinciales.22
+
+       •   La Corte no aceptó la constitucionalidad de las limitaciones locales transitorias en
+           contextos de emergencia (“Acuña Hermanos” de 196223, a propósito de la prohibición de
+           salida de ganado del territorio provincial).
+       •   Se expandió el concepto en “ETMO Remolcador Guaraní c. Provincia de Buenos Aires"
+           de 197724, cuando dijo que si una actividad era mixta (implicaba tanto tráfico provincial
+           como interprovincial pero) “indivisible”, la competencia regulatoria era exclusivamente
+           federal;
+
+
+
+
+20
+   CSJN, The United River Plate Telephone Cia. Ltda. Unión Telefónica, Fallos: 154:104 (1929) en pp 112-113. El
+subrayado es nuestro; las referencias del articulado corresponden al texto constitucional anterior a 1994.
+21
+     CSJN, González y Menéndez Soc. c. Provincia de Santiago del Estero, Fallos: 187:392.
+22
+  Es pertinente citar ese fallo in extenso para captar el panorama que la Corte vislumbra a tenor del efecto disgregador
+que tendría adoptar el talante más localista: “Basta considerar las consecuencias que para la confección de las guías
+tendría la intervención de las distintas autoridades de los Estados en la naturaleza y contenido de los avisos que el
+comercio insertara en las guías, inserción permitida por la autoridad nacional, atento más si una misma guía, por
+razones de radio de influencia del comercio o densidad de las comunicaciones, sirve localidades cercanas pero de
+distinta jurisdicción provincial. Se crearía la necesidad de multiplicar las guías con recargos de gastos que podrían
+repercutir en la marcha de las empresas, y con perjuicio del servicio público por cuanto los abonados no podrían tener
+las guías comprendiendo la generalidad de los teléfonos existentes dentro de la misma zona con unidad de
+comunicaciones, con los que tienen derecho a comunicarse dentro del servicio normal". CSJN, "S. A. Laboratorios
+Suarry", Fallos 192:350 (1942).
+23
+     CSJN, S.R.L. Acuña Hermanos y Cía v. Provincia de Santiago del Estero, Fallos 252:39 (1962)
+24
+     CSJN, ETMO Remolcador Guaraní c. Provincia de Buenos Aires, Fallos 298:392 (1977).
+
+[[PDF p. 9]]
+       •   Hizo      extensiva la “federalidad” a las “actividades auxiliares” al comercio
+           interjurisdiccional en “Dodero Viajes” de 198325. En este fallo rescatarse un razonamiento
+           clarificador del criterio, cuando la Corte dice que la cláusula del comercio “persigue evitar
+           que operaciones que de manera inescindible se desenvuelven en más de una jurisdicción,
+           puedan ser sometidas, en virtud de los poderes inherentes de los estados en las que se
+           desarrollan, a regulaciones múltiples que las obstruyan o encarezcan, tornándolas
+           desventajosas con relación a otras actividades similares”. Ante esa posibilidad, la
+           interferencia debe resolverse en favor de la legislación nacional por aplicación del principio
+           de poderes implícitos y la regla de supremacía del art. 30 de la Constitución Nacional.
+       •   En varios precedentes la Corte sostuvo el criterio de que los poderes comerciales
+           implicaban no solo los de la propia regulación, sino los implícitamente necesarios a tal fin,
+           “conforme el principio de que quien tiene el deber de procurar un determinado fin tiene el
+           derecho a disponer de los medios necesarios para su logro efectivo (…) no cabe sino
+           concluir que éste no puede ser enervado en el ejercicio de los poderes delegados, en tanto
+           se mantenga en los límites razonables de los mismos conforme a las circunstancias”.26
+
+
+       Esto se refleja en la casuística moderna donde han prosperado diversas acciones iniciadas
+contra normativa local reguladora:
+           •   contra una ley que implicaba la prohibición de sacar vinos en envases de mas de cinco
+               litros fuera de la provincia (“Antonio González S.A. v. Provincia de Mendoza” de
+               1993)27;
+           •   contra registros provinciales de diversa índole: laboratorios y distribuidores de
+               especialidades medicinales, en Baliarda de 1998;28registros de productos
+               domisanitarios en Colgate Palmolive Argentina S.A. y otros c. Provincia de Buenos
+               Aires de 2003; 29 registros de los productos de origen animal de tránsito federal o
+               interjurisdiccional, en Molinos Río de La Plata S.A. c. Provincia de Buenos Aires de
+
+25
+     CSJN, Dodero Viajes S.A. v. Municipalidad de la Ciudad de Buenos Aires, Fallos 305:327 (1983).
+26
+  CSJN, Provincia de Buenos Aires c/ Empresa Nacional de Telecomunicaciones, Fallos: 304:1186 (1982) ; Provincia
+de Buenos Aires c/ Servicios Eléctricos del Gran Buenos Aires. Fallos: 305:1847(1983); Disco S.A. c. Provincia de
+Mendoza; Fallos 312:1437 (1989); Camuzzi Gas del Sur S.A. c/ Provincia de Tierra del Fuego. Fallos 327:5012 (2004)
+27
+     CSJN, Antonio González S.A. c/ Mendoza, Provincia de s/ inconstitucionalidad, Fallos 316: 2855 (1993).
+28
+     CSJN, Baliarda S.A. y otros c/Mendoza, Provincia de s/acción declarativa, Fallos 321:1705 (1998).
+29
+   CSJN, Colgate Palmolive Argentina S.A. y otros c. Provincia de Buenos Aires s/ acción declarativa de
+inconstitucionalidad; Fallos 326:3351 (2003). Un dato novedoso de este caso es que las actoras conjuntamente
+planteaban su agravio con base en el Tratado de Asunción, el Protocolo de Ouro Preto y las resoluciones del Grupo
+Mercado Común del Mercosur 24/1996, 30/1997, 25/1996 y 27/1997. La Corte también acoge ese planteo,
+considerando que el plexo invocado implicaba para los estados la obligación de “adoptar todas las medidas necesarias
+para asegurar, en sus respectivos territorios, el cumplimiento de las normas emanadas de los órganos del Mercosur”,
+y que en esas resoluciones se reconocía a la ANMAT como autoridad nacional de contralor, seguimiento y
+registración, de donde –dice el fallo en el cons. 12- “la competencia del gobierno federal en orden a la regulación de
+los aspectos en cuestión no solo se deriva de la Constitución Nacional sino de normas supranacionales de rango
+superior (artículo 75, incisos 22 y 24 de la Constitución Nacional)”. Queda dicho, entonces, que el Congreso no es
+del todo soberano en la regulación del comercio, sino que puede tener condicionamientos supranacionales, derivados
+de tratados de derechos humanos y de tratados comerciales, que en todo caso tienen jerarquía superior a las leyes.
+
+[[PDF p. 10]]
+               2009; 30 obligación de inspección y aprobación de productos cosméticos para la higiene
+               personal y perfumes en Unilever c. Provincia de Buenos Aires de 2013 31
+           •   registros de productos domisanitarios en Colgate Palmolive Argentina S.A. y otros c.
+               Provincia de Buenos Aires de 2003. 32
+           •   contra requerimiento de habilitaciones locales (cautelar despachada en el caso “Loveli”
+               de 2001, promovido por una empresa dedicada a la comercialización de productos de
+               óptica que limitaba la venta de estos artículos restringiéndola a las casas de ópticas
+               habilitadas por el Ministerio de Salud de la Provincia de Buenos Aires)33;
+           •   contra leyes que restringían la salida de productos sin procesar fuera de la provincia
+               (registramos en este sentido casos como “Molinos Río de la Plata S.A. y otra c/
+               Provincia de Misiones”34 de 2008, contra una ley local que, entre otras disposiciones,
+               establecía que la totalidad de la yerba mate cosechada en la provincia y destinada al
+               consumo interno nacional debe ser envasada en dicha jurisdicción, y “Nucete c/
+               Provincia de La Rioja” de 2009 donde se impugnaba una ley que prohíbía el traslado
+               de las aceitunas en crudo allí producidas fuera del territorio de la provincia35).
+           •   contra la pretensión provincial de realizar inspecciones higiénico-sanitarias de los
+               productos elaborados en otras jurisdicciones e ingresados a su territorio antes de llegar
+               a las “bocas de expendio”, en “Logística La Serenísima S.A. c/ Provincia de
+               Mendoza”36 de 2012.
+
+
+30
+     CSJN, Molinos Río de La Plata S.A. c. Provincia de Buenos Aires, Fallos 332:66 (2009).
+31
+  CSJN, Unilever de Argentina y otros c. Provincia de Buenos Aires s/ acción declarativa de inconstitucionalidad,
+Fallos 336:1590 (2013).
+32
+   CSJN, Colgate Palmolive Argentina S.A. y otros c. Provincia de Buenos Aires s/ acción declarativa de
+inconstitucionalidad; Fallos 336:3351 (2013). Un dato novedoso de este caso es que las actoras conjuntamente
+planteaban su agravio con base en el Tratado de Asunción, el Protocolo de Ouro Preto y las resoluciones del Grupo
+Mercado Común del Mercosur 24/1996, 30/1997, 25/1996 y 27/1997. La Corte también acoge ese planteo,
+considerando que el plexo invocado implicaba para los estados la obligación de “adoptar todas las medidas necesarias
+para asegurar, en sus respectivos territorios, el cumplimiento de las normas emanadas de los órganos del Mercosur”,
+y que en esas resoluciones se reconocía a la ANMAT como autoridad nacional de contralor, seguimiento y
+registración, de donde –dice el fallo en el cons. 12- “la competencia del gobierno federal en orden a la regulación de
+los aspectos en cuestión no solo se deriva de la Constitución Nacional sino de normas supranacionales de rango
+superior (artículo 75, incisos 22 y 24 de la Constitución Nacional)”. Queda dicho, entonces, que el Congreso no es
+del todo soberano en la regulación del comercio, sino que puede tener condicionamientos supranacionales, derivados
+de tratados de derechos humanos y de tratados comerciales, que en todo caso tienen jerarquía superior a las leyes.
+33
+     CSJN, Loveli S.A. c/ Buenos Aires, Provincia de s/ acción declarativa; Fallos 324:723 (2001).
+34
+  CSJN, Molinos Río de la Plata S.A. y otra c/Misiones, provincia de s/acción declarativa de inconstitucionalidad,
+Fallos 331:2139 (2008).
+35
+    CSJN, José Nucete e Hijos S.C.P.A. c/La Rioja, Provincia de s/amparo; Fallos 335:1222 (2012). La Corte, con
+citas al caso de “Molinos c/ Pcia de Misiones” (al que también se remitía el dictamen de la Procuración), proveyó
+igualmente la suspensión requerida.
+36
+  CSJN, Logística La Serenísima S.A. c/ Provincia de Mendoza, Fallos 335:49 (2012). La cautelar en este caso dispuso
+que el gobierno provincial debía abstenerse de exigir el pago de la “tasa retributiva por derecho de servicio de
+inspección” y de impedir u obstaculizar el ingreso, la distribución y la comercialización de los productos introducidos
+en “tránsito federal”
+
+[[PDF p. 11]]
+           •   Declarando la inconstitucionalidad una norma local le imponía a las pesqueras la carga
+               del procesamiento previo en establecimientos sitos en una provincia, la Corte dijo en
+               “Antonio Barillari S.A. c/ Buenos Aires” de 2012 que “tales restricciones funcionan
+               como un derecho aduanero, afectando la entrada, salida y tránsito de un producto al
+               imponerle a las mercaderías una carga que actua como un obstáculo y prohibición en
+               razón de su destino” . El fallo se explaya también diciendo que en el sistema de la
+               Constituci6n Nacional, las cláusulas contenidas en los artículos 9ª al 12 “buscan
+               asegurar un espacio econ6mico único, libre de trabas fundadas en el hecho de que la
+               circulaci6n de bienes personas atraviese los limites provinciales. Se procura evitar
+               acciones de inspiración proteccionista a favor de las actividades económicas internas
+               de las provincias en contra de bienes servicios que provengan de las demás. Por dicha
+               raz6n, tales preceptos liberan y dan garantías al movimiento interprovincial de personas
+               y bienes”. 37
+
+
+§ 5. La cláusula de comercio y el poder tributario local.
+
+
+        Frecuentemente se ha utilizado la cláusula del Comercio en conjunción con las de los arts.
+9, 10 y 11 de la Constitución Nacional (prohibición de aduanas interiores y libertad de circulación
+de bienes) para invalidar impuestos locales. Se asume, con razón, que la tributación puede
+constituir una forma de interferencia en el comercio interprovincial.
+        Aún sin hacer referencia a esta cláusula, debe notarse que la primera declaración de
+inconstitucionalidad de nuestra historia se dictó justamente a propósito de un derecho de tránsito
+impuesto por un fisco local, en el caso “Domingo Mendoza c. Provincia de San Luis” de 1865.38
+Otros fallos clásicos especifican criterios luego muchas veces reiterados. En Griet Hnos. v.
+Provincia de Tucumán de 1922, dirá que “no puede afirmarse con verdad que el Congreso y una
+Legislatura provincial ejercen facultades concurrentes cuando el primero sanciona una ley de
+protección de un producto extranjero en uso de una determinada atribución constitucional
+exclusiva, y la segunda impone un gravamen a la elaboración industrial del producto similar
+interno, fundada, a su vez, en una facultad igualmente derivada de la Constitución”.39 Y en
+Bressani de 1937 la Corte encontró inconstitucional un impuesto a las uvas cosechadas en
+Mendoza, del que estaban exentos las uvas que se vinificaran dentro del territorio de la provincia.
+El fallo contiene una frase que repetiría muchas veces en su jurisprudencia “La Constitución ha
+
+37
+  CSJN, Antonio Barillari S.A. c/ Buenos Aires, Provincia de s/ acción declarativa de inconstitucionalidad. Fallos
+335:1739 (2012). Con similares argumentos, y también declarando la inconstitucionalidad de la norma local, la Corte
+resolvió en la misma fecha de “Antonio Barillari” el caso Pescargen S.A. y otra c. Provincia del Chubut s/acción
+declarativa de inconstitucionalidad. Fallos 335:1794 (2012).
+38
+  CSJN, Don Domingo Mendoza y hermano, contra la Provincia de San Luis, sobre derechos de exportación, Fallos
+3:131 (1865). La fórmula allí acuñada por la Corte, y repetida muchas veces desde entonces, es que “los actos de la
+Legislatura de una provincia, no pueden ser invalidados, sino en aquellos casos en que la Constitución concede al
+Congreso nacional en términos expresos un exclusivo poder, o en los que el ejercicio de idénticos poderes ha sido
+expresamente prohibido a las provincias, o cuando hay una directa y absoluta incompatibilidad en el ejercicio de ellos
+por estas últimas; fuera de cuyos casos, es incuestionable que las provincias retienen un autoridad concurrente con el
+Congreso”.
+39
+     CSJN, Griet Hnos. v. Provincia de Tucumán, Fallos 137:212, (1922).
+
+[[PDF p. 12]]
+querido hacer un solo país para un solo pueblo, ha dicho con razón esta Corte: no habría Nación si
+cada provincia se condujera económicamente como una potencia independiente”.40
+        El corpus jurisprudencial en la materia, sistematizado por Spisso, deja como saldo dos
+criterios:
+       -   Un criterio de prohibición: la imposibilidad de las provincias de imponer tributos a la
+           entrada o salida de su territorio de mercaderías o personas, o que discriminen en perjuicio
+           del comercio interjurisdiccional.
+       -   Y su correlato de permisión: en principio, un gravamen que no imponga diferencias según
+           el origen del producto no puede ser invalidado con fundamento en la cláusula comercial de
+           la Constitución, que no puede ser invocada para cercenar facultades no delegadas por las
+           provincias al gobierno nacional.41
+
+
+
+        En cuanto al primer criterio, implica no solo la prohibición de tributos establecidos
+directamente sobre los productos, como era el caso de “Domingo Mendoza c. Provincia de San
+Luis”, sino también la prohibición de disponer alícuotas diferenciales según el lugar de radicación
+de la empresa que comercializa el producto, lo que –según se concluyó en una línea de fallos
+recientes- “genera una suerte de barrera aduanera, o de medidas proteccionistas, que alteran el
+concepto orgánico de comercio previsto en la Constitución Nacional”.42
+        En cuanto al segundo criterio, la Corte ha advertido que “la concesión al Congreso Nacional
+del poder de sujetar a determinadas reglas el comercio provincial e interprovincial, así como la
+correlativa prohibición que impone el art. 108 [actual 126 CN] ciertamente no implica la
+abdicación del poder tributario provincial sobre aquellas actividades”. 43
+        Así encontramos resueltos los casos “SADE c. Provincia de Mendoza”44 de 1989 en el que
+la Corte validó la aplicación de los impuestos locales discutidos por la empresa actora,
+considerando que la empresa no había acreditado que el gravamen haya restringido o dificultado
+la libre producción y distribución de energía- y “Adm. Nac. de Aduanas c/ Municipalidad de
+Bahía Blanca” 45 de 2001 –enfatizando que la Aduana no ha intentado siquiera demostrar de qué
+manera la pretensión tributaria local frustraría o dificultaría el cumplimiento de los fines nacionales
+que tiene a su cargo -.
+       Finalmente, desde “Transportes Vidal” ha quedado establecido, también en relación al
+transporte, que “las normas constitucionales sólo preservan el comercio interprovincial “de los
+
+
+
+40
+     CSJN, Bressani, Carlos H. y otros v. Prov. de Mendoza, Fallos: 178:9 (1937)
+41
+     SPISSO, Rodolfo R., Derecho constitucional tributario, 5a ed., Abeledo Perrot, 2011. pp. 82-84.
+42
+     CSJN, Bayer S.A. c/ Santa Fe, Provincia de s/Accion declarativa de Certeza, Fallos: 340:1480 (2017)
+43
+     CSJN, Marwick S.A. c. Misiones, Provincia de s. repetición de impuestos, 307:360 (1985)
+44
+     CSJN, SADE SACCIFIM. c/ Provincia de Mendoza s/ APA, Fallos 312:1870 (1989).
+45
+  CSJN, Adm. Nac. de Aduanas c/ Municipalidad de Bahía Blanca s/ acción meramente declarativa, Fallos 324:933
+(2001).
+
+[[PDF p. 13]]
+gravámenes discriminatorios, de la superposición de tributos locales y de aquellos que encarezcan
+su desenvolvimiento al extremo de dificultar o impedir la libre circulación territorial”..46
+         En cuanto al comercio exterior, está claro que las provincias no pueden gravar
+con tributo alguno el ingreso o egreso de mercaderías o productos desde o hacia el exterior, pues
+ello es facultad privativa de la Nación, art. 75 inc. 1° C.N. No obstante, sí pueden cobrar impuestos
+por los ingresos que en virtud de esas actividades perciban las personas o sociedades que tributan
+en su territorio.47
+         Cabe acotar, finalmente, que una perturbación del comercio puede darse tanto en forma
+positiva, por la tributación impuesta, como en forma negativa, por vía de exenciones
+discriminatorias. Esta cuestión aparece tratada en el caso “Hidroeléctrica El Chocón S.A. c/
+Provincia de Buenos Aires” de 1999. Un decreto provincial eximía del impuesto a usuarios
+industriales y comerciales de la Provincia de Buenos Aires abastecidos por ESEBA S.A.,
+cooperativas eléctrica, entes mixtos municipales y prestadores privados que operaban al 6 de mayo
+de 1992. La empresa planteaba que así delimitada la exención, el impuesto se hacía efectivo
+únicamente a los usuarios industriales y comerciales abastecidos por empresas ajenas -como ella-
+a la jurisdicción bonaerense y que, por lo tanto, el sistema constituía una verdadera aduana interna,
+violando cláusulas constitucionales, disposiciones de, las leyes 15.336 y 24.065 y el compromiso
+asumido por la provincia demandada en el art. 1°, inc. 2° del Pacto Federal para el Empleo, la
+Producción y el Crecimiento, ratificado por la ley provincial 11.463. La Corte aceptó el planteo,
+afirmando que “la discriminación resultante … hace que las consecuencias del tributo así aplicado
+importe en los hechos una barrera aduanera que entorpece la libre circulación en detrimento de lo
+dispuesto en los arts. 9°, 10 y 11 de la Constitución Nacional”. 48
+
+
+
+§ 6. La cláusula de comercio y la regulación del comercio internacional.
+
+
+        Aunque la facultad regulatoria aparece en la misma cláusula, la Corte ha dicho alguna vez
+que “la atribución federal de regular el comercio con las naciones extranjeras ha sido considerado
+distinto del de reglar el comercio interprovincial”. La razón, según esa jurisprudencia, es que en
+
+
+46
+     CSJN, Transportes Vidal, S.A. c. Provincia de Mendoza, Fallos 306:516 (1984)
+47
+  Cf. SPISSO, Rodolfo R., Comercio internacional y competencia originaria de la Corte Suprema. El impuesto sobre
+los ingresos brutos y las exportaciones, en L.L. t. 2014-B , p. 208. Reporta el autor que la Corte ha precisado su
+doctrina sosteniendo que “la eventual incidencia económica que tenga sobre el precio de la exportación no autoriza a
+considerarlo como un impuesto a ésta última, ni implica interferir en la política exportadora planificada por el gobierno
+nacional (…) toda vez que el criterio aplicable configura un método razonable de imposición que responde, en última
+instancia, a la actividad creadora de riqueza que se produce en el ámbito físico de la provincia”.
+48
+  CSJN, Hidroeléctrica El Chocón S.A. c/ Provincia de Buenos Aires, Fallos 320:1302 (1997). Allí la Corte se remite
+a lo resuelto en El Bagual v. Provincia de Entre Ríos, Fallos 316:1962 (1993). Con diferentes condimentos, esta
+doctrina aparecerá repetida en sendas demandas contra la Provincia de Buenos Aires, en Asociación de Grandes
+Usuarios de Energía Eléctrica de la República Argentina (AGUEERA), Fallos 322:1781 (1999) y Bruno, Juan Carlos;
+Fallos 332:2250 (2009)
+
+[[PDF p. 14]]
+cuanto al comercio interior “el objetivo de la Constitución fue asegurar la igualdad y la libertad
+del intercambio comercial entre las provincias, con el fin de impedir barreras”, mientras que con
+relación al comercio exterior “el Gobierno federal actúa como una Nación soberana, no
+subordinado como principio a ningún poder reservado de los estados y, en varios aspectos, más
+amplios que el que atañe al comercio interno, bien que tan extenso como el arbitrio y la inteligencia
+del Congreso crea necesario comprenderla para realizar su propósito”.49
+       Se ha afirmado que entre sus propósitos puede estar válidamente comprendido “el derecho
+a defender la reserva de carga nacional y promover el equilibrio de la balanza de pagos”.
+        Lo dicho recientemente da pie para hacer alguna consideración sobre el plano “exterior”
+de la cláusula de la regulación del comercio, que históricamente ha generado escasa controversia,
+en la medida en que se asumía la autonomía absoluta del Estado Federal para establecer su política
+comercial. Si bien esto es correcto en abstracto, debe decirse que la situación ha cambiado a partir
+de la adhesión de nuestro país a bloques y sistemas de integración.
+        En particular cabe señalar el Acuerdo de la Organización Mundial de Comercio sobre
+Procedimientos para el Trámite de Licencias de Importación de 1994, incorporado a la legislación
+Argentina por la Ley 24.425. Significativamente esta normativa, que propende a un principio de
+libre comercio, prohíbe en principio la utilización de las licencias “no automáticas” de importación
+o de exportación por parte de los países miembros, salvo que las mismas sean utilizadas en
+circunstancias excepcionales (tales como crisis en la balanza de pagos o aplicación de un régimen
+de salvaguardias), en un contexto que, desde la creación del GATT, busca la supresión de barreras
+para-arancelarias50.
+        A pesar de esta normativa, y de la exigencia de reserva de ley en la materia, los últimos
+años (concretamente a partir de 2012) se incrementó sustancialmente la exigencia de
+“Declaraciones Juradas Anticipadas de Importación” (DJAI) y “Declaraciones Juradas de
+Servicios” (DJAS), implementadas por instrumentos de rango sublegal, con fines implícitos de
+política económica y cambiaria, que suscitaron demoras y rechazos en la cadena de importaciones.
+        El único caso resuelto por la Corte Suprema federal en este período (“El Brujo” de 201251)
+dedicó una mirada ciertamente complaciente a esta práctica, asumiendo que su objetivo (observar
+variaciones en el flujo del comercio exterior) era en abstracto legítimo y destacando –al desestimar
+la acción de inconstitucionalidad presentada- que la demandante no había llegado a acreditar de
+qué manera se vio impedido el ejercicio de su actividad comercial por el deber de control impuesto.
+
+
+
+49
+     CSJN, Marwick S.A. c. Misiones, Provincia de s. repetición de impuestos, Fallos 307:360 (1985)
+50
+  En el marco del GATT (General Agreement on Tariffs and Trade o Acuerdo General sobre Aranceles Aduaneros y
+Comercio) se establece que “Ninguna parte contratante impondrá ni mantendrá -aparte de los derchos de aduana,
+impuestos u otras cargas, prohibiciones ni restricciones a la importación de un producto del territorio de otra parte
+contratante o a la exportación o a la venta para la exportación de un producto destinado al territorio de otra parte
+contratante, ya sean aplicadas mediante contingentes, licencias de importación o de exportación, o por medio de otras
+medidas” (Art. XI del GATT, versión de 1994 aprobada por la ley 24.425, juntamente con el Acuerdo de Marrakech
+que dio origen a la Organización Mundial del Comercio y sus acuerdos multilaterales complementarios).
+51
+  CSJN, El Brujo SRL c/EN - M° Economía - AFIP - DGA - resol 485/05 c/ Dirección General de Aduanas, Fallos
+335:1650 (2012).
+
+[[PDF p. 15]]
+        Distinta fue la solución a la que arribó el órgano de solución de controversias de la
+Organización Mundial de Comercio, que ante reclamaciones formuladas contra Argentina por la
+Unión Europea, Japón y los Estados Unidos, reputó que el procedimiento DJAI es incompatible
+con el párrafo 1 del artículo XI del GATT de 1994 y dio a nuestro país un plazo prudencial para
+adecuarse al sistema52.
+         Mas allá del carácter no autoejecutivo de estos pronunciamientos de solución de
+diferencias, es posible señalar que su “jurisprudencia” también debe ser tenida en cuenta para
+visibilizar que la potestad regulatoria del Congreso no se ejerce en el vacío sino que está sujeta a
+estos condicionamientos derivados de tratados internacionales.
+
+
+§ 7. La cláusula de comercio y la federalización de los servicios públicos interjurisdiccionales.
+
+
+        Si bien las provincias tienen la potestad no delegada de regular los servicios públicos en
+su jurisdicción, esa exclusividad se pierde en la medida en que el servicio público se torne
+interjurisdiccional, en cuyo caso su regulación deviene federal por aplicación de la cláusula del
+comercio.
+        De ese modo, la federalización también se ha proclamado con respecto a servicios públicos
+interconectados, ya sea de teléfonos53, de energía54 o de radiodifusión.55
+       Por aplicación de estos criterios la Corte ha declarado inconstitucionalidad de leyes que
+imponían a las licenciatarias del servicio telefónico a instalar contadores de pulsos domiciliarios a
+requerimiento del usuario (Telefónica de Argentina S.A. s/ acción de inconstitucionalidad ley 2813
+de 199856), a emitir facturas con discriminación de las llamadas (Telefónica de Argentina S.A. c.
+Provincia de Mendoza de 200357 y Telefónica de Argentina S.A.” de 200758). También se ha
+
+52
+  ORGANIZACIÓN MUNDIAL DE COMERCIO, INFORMES DEL GRUPO ESPECIAL WT/DS438/R ; WT/DS444/R ;
+WT/DS445/R (“Argentina - medidas que afectan a la importación de mercancías”) del 22 de agosto de 2014.
+Documento disponible en https://www.wto.org/spanish/tratop_s/dispu_s/438_444_445r_s.pdf
+53
+   CSJN, Cía. Argentina de Teléfonos, S.A. c/ Prov. de Santiago del Estero. Fallos: 250:154 (1961); Compañía
+Argentina de Teléfonos, S.A. c/ Provincia de Mendoza, Fallos: 257:159 (1963); Compañía Argentina de Teléfonos
+S.A. c/ Provincia de Salta, Fallos 299:149 (1977)
+54
+  CSJN, S.E.G.B.A. c/ Municipalidad de Ensenada, Fallos 270:11 (1968), Hidroeléctrica El Chocón S.A., Fallos
+320:1302 (1997); Yacylec S.A., Fallos 329:358 (2006), EDESUR S.A. v. Provincia de Buenos Aires s/ acción
+declarativa, Fallos 322:2624 (1999).
+55
+  CSJN, Comité Federal de Radiodifusión c/ Río Negro, Provincia de s/ nulidad de la ley provincial n° 2186, Fallos
+311:122 (1988); Comité Federal de Radiodifusión v. Provincia del Neuquén s/ inconstitucionalidad, Fallos 319:998
+(1996); Comité Federal de Radiodifusión c. Provincia de Buenos Aires, Fallos 327:1292(2004); Comité Federal de
+Radiodifusión (COMFER) c/ Provincia de Misiones; Fallos 329:776 (2006); Autoridad Federal de Servicios de
+Comunicación Audiovisual c/San Luis, provincia de s/acción de amparo, Fallos 335:765 (2012)
+56
+   CSJN, Telefónica de Argentina S.A. s/ acción de inconstitucionalidad, Fallos 321:1074 (1998) , declarando la
+inconstitucionalidad de la ley 2813 de la Provincia de Río Negro.
+57
+     CSJN, Telefónica de Argentina S.A. c. Provincia de Mendoza, Fallos 326:4718 (2003)
+58
+   CSJN, Telefónica de Argentina S.A., Fallos 330:3098 (2007), declarando la inconstitucionalidad de la ley 3674 de
+la Provincia de Río Negro.
+
+[[PDF p. 16]]
+declarado la inconstitucionalidad de una ley provincial que prohibía el cobro por reconexión o
+retiro de medidores y cualquier otro tipo de multas por facturas adeudadas por servicios de gas
+(“Camuzzi Gas del Sur S.A. c. Provincia de Río Negro” de 2008).59
+        En esta lógica, y a propósito de una ley local que considerando eventuales consecuencias
+ecológicas postulaba modificar la traza de una línea de transmisión asociada a la Central
+Hidroeléctrica de Yacyretá -aprobada por las resoluciones del Ente Nacional Regulador de la
+Electricidad-, la Corte tuvo ocasión de afirmar en el caso LITSA v. Provincia de Corrientes de
+1999 que “la policía ambiental no debe escapar a las condiciones exigibles a toda facultad
+concurrente, esto es, no resultar incompatible con el fin nacional perseguido, que debe prevalecer”,
+lo que lo llevó a declarar improcedente esa exigencia provincial. 60
+         Con análoga argumentación rechazaría en 2007 la pretensión de la Provincia de Buenos
+Aires de que la concesionaria Edenor afrontara a su costo la remoción de electroductos en el curso
+de la obra de entubamiento y canalización del arroyo Morón: “el servicio público –se dijo allí- se
+halla bajo la inspección y el control del poder concedente, con exclusión de toda voluntad extraña,
+lo cual resulta comprensible o, más bien, inevitable, por cuanto dentro de la coordinación armónica
+de intereses entre concedente -o titular- y concesionario -o delegado- no cabe la intromisión de
+otra autoridad soberana”.61
+        En suma, se ha dicho que en materia de servicios públicos se ha producido “un profundo
+proceso de absorción de facultades reglamentarias por el Gobierno federal” -Perrino62- o “una
+suerte de inmunidad” federal -Muñoz (h.)63-.
+        Ello nos confronta con el riesgo de que su expansión inhiba toda regulación local
+concurrente y legítima, lo cual –entendemos- implica una inaceptable tergiversación de la división
+vertical de poderes que es propia de un sistema de gobierno auténticamente federal.
+
+
+§ 8. La cláusula de comercio y los poderes provinciales: soluciones conciliatorias.
+
+
+         En este punto haremos una recopilación de cómo la jurisprudencia ha encontrado en
+muchos casos “compatibilidad” entre los poderes provinciales y la cláusula comercial, evitando
+criterios de anulación automática. Bien advierte Ziulu que “en la Constitución tienen el mismo
+valor la cláusula comercial, que las que le adjudican a las provincias su propio poder tributario y
+el ejercicio del poder de policía” postulando que “en una interpretación constitucional orgánica y
+
+
+
+59
+     CSJN, Camuzzi Gas del Sur S.A. c. Provincia de Río Negro, Fallos 331:2178 (2008)
+60
+  CSJN, Líneas de Transmisión del Litoral S.A. / LITSA v. Provincia de Corrientes s/ acción declarativa, Fallos
+322:2862 (1999), cons. 12.
+61
+     CSJN, Provincia de Buenos Aires c/Edenor S.A. s/remoción de electroductos. Fallos 330:4564 (2007).
+62
+  PERRINO, Pablo E. “Distribución de competencias entre el Estado Federal, las Provincias y los Municipios, para la
+regulación de los servicios públicos”, en Revista de Derecho Administrativo, Lexisnexis, n° 14, año 2002, ps. 37 y ss.;
+63
+  Cf. MUÑOZ (h), Ricardo, “La cláusula de comercio y sus implicancias sobre el federalismo regulatorio”, en AA.VV,
+Estudios de Derecho Público, Asociación de Docentes, Facultad de Derecho y Ciencias Sociales, UBA, 2013, pp.
+867-907, en p. 906.
+
+[[PDF p. 17]]
+sistemática tienen tanto valor unas como otras, y ambas deben estar orientadas al fin de la unión
+nacional”.64
+         En sentido similar comenta Ricardo Muñoz que “la generalidad del precepto y su amplia
+redacción denota un instrumento que peligrosamente puede ser usado en contra de las posibilidades
+provinciales, y de ahí entonces, se encuentra la necesidad de interpretarlo en sus justos términos”.
+La consecuencia nos obliga a fijar un estándar cuidadoso para su utilización, y este autor postula
+un criterio que presume la validez de la regulación local y sólo propicia su invalidez cuando la
+restricción que ella implique para el comercio sea “sustancial” y represente “un verdadero
+obstáculo al intercambio comercial, poniendo en peligro verdaderamente la integración comercial
+y unidad de mercado interno”.
+       De lo contrario, dice Muñoz, se llegaría “al absurdo de considerar que cualquier acto puede
+tener repercusiones sobre el comercio, y por tal, deberá ser declarado inconstitucional”,
+despojando así a las provincias de la mayoría de sus competencias. 65
+        En este sentido, la jurisprudencia ha admitido la posibilidad de validar un poder
+sancionatorio local, que es el correlato necesario de la regulación-. En Gimenez Vargas de 1957
+–a propósito de una multa impuesta a la empresa por haber puesto en circulación una partida de
+vino en infracción a disposiciones locales- la Corte reconoció que mientras un artículo se produzca,
+venda y consuma en la provincia constituye un fenómeno de consumo interno, sometido a la
+jurisdicción exclusivamente local. “El Gobierno de la Nación –dijo- no puede impedir o estorbar
+a las provincias el ejercicio de aquellos poderes de gobierno que no han delegado o reservado,
+porque por esa vía podría llegar a anularlos por completo".66 Desde luego, como lo accesorio sigue
+la suerte de lo principal, la invalidez de un marco regulatorio implica la imposibilidad de aplicar
+multas por su incumplimiento.
+       No son frecuentes los casos en que se admitió la compatibilidad. Podemos citar el fallo
+CAVIC de 1970, en el que la Corte consideró que el derecho de propiedad no es afectado por la
+ley 3019 de la Provincia de San Juan, que crea la Corporación Agroeconómica Vitícola Industrial
+y Comercial, pues, “si bien regula la producción, industrialización y comercialización de la uva,
+no lo hace en grado tal que aparezcan aniquilado el derecho, ya que los productores no están
+obligados a comerciar exclusivamente con la corporación, pudiendo hacerlo con otros adquirentes
+dentro y fuera de la provincia, y no se acredita que la contribución impuesta de hasta el 5% del
+importe de la venta de la producción anual sea irrazonable por lo desproporcionado”.67
+        También en materia de transporte la Corte tuvo ocasión de reconocer que en lo que implica
+la autorización de permitir paradas intermedias locales, es decir, en lo que hace al segmento
+
+64
+   ZIULU, Adolfo Gabino, La Cláusula Comercial y su influencia en el Derecho Público Provincial. En JA t. 2003-I,
+p. 1108
+65
+  Cf. MUÑOZ (h), Ricardo, “La cláusula de comercio y sus implicancias sobre el federalismo regulatorio”, en AA.VV,
+Estudios de Derecho Público, Asociación de Docentes, Facultad de Derecho y Ciencias Sociales, UBA, 2013, pp.
+867-907, en p. 889.
+66
+     CSJN, Sociedad Com. e Ind. Gimenez Vargas v. Provincia de Mendoza, Fallos 239:343 (1957).
+67
+   CSJN, C.A.V.I.C. c. Juan Maurín y Cía. S.R.L., Fallos 277:147 (1970). Se trataba de una entidad de fomento
+privada, la Corporación Agroeconómica, Vitícola, Industrial y Comercial (CAVIC.), que por ley provincial tenía la
+facultad de emitir certificados con habilidad de título para demandar, por vía de apremio, el cobro de esas
+contribuciones.
+
+[[PDF p. 18]]
+intrajurisdiccional, las provincias mantienen una autoridad que no debe ser interpretada como una
+injerencia en las facultades que tiene el gobierno federal en materia de transporte
+interjurisdiccional (caso El Práctico S.A. de 2011). La Corte habló entonces –con tono
+comprensivo y conciliador- de “las razonables y mínimas fricciones que la realidad impone y que
+deben ser toleradas en vista de la coexistencia, dentro del ordenamiento jurídico, de dos gobiernos,
+el nacional y el provincial, dotados de poderes específicos”. 68
+        Incluso en la resolución de fondo del caso Baliarda que vimos antes, y mas allá de la
+invalidación del decreto que exigía un registro para los laboratorios, la Corte dejaba en obiter dicta
+abierta la posibilidad de que la disposición local “sea aplicada en la órbita (provincial) que le
+compete y en ella se mantenga”.69
+        En el también citado LITSA de 1999 la Corte concedió que había legitimidad en la ley
+provincial en cuanto que imponía a la transportadora la pauta de que "a efectos de atenuar el
+impacto visual y la pérdida de valor paisajístico, las torres deberán ser emplazadas aprovechando
+la vegetación natural existente e implantando con especies nativas cortinas arbóreas que disimulen
+la presencia de dichos elementos", lo que –en tanto no importara modificar el trazado de la línea-
+reputó encuadrable en la competencia específica provincial en el plano ambiental.70
+        En esta enumeración marcamos finalmente un singular matiz que se visibiliza en un caso
+fallado en 2007, el de la Empresa Distribuidora de Electricidad de La Rioja (EDELAR S.A.) que
+impugnaba la ley 6907 de esa provincia. Se alegaba allí que esta contravenía disposiciones
+nacionales, toda vez que mientras el art. 30 bis de la ley 24.240 establece , para los casos en que
+la factura carezca de la leyenda "no existen deudas pendientes", una presunción iuris tantum a
+favor del usuario, por el contrario, el art. 2° de la ley local consagra para la misma situación, una
+presunción iuris et de iure al disponer que la omisión del texto equivale a la certificación de que
+el usuario no registra deuda al día de la emisión de la factura. En el caso, la mayoría se remitió al
+criterio del procurador (Bausset) que entendió que “lo previsto en la ley 6907 no afecta lo dispuesto
+en las normas nacionales ni importa una colisión inaceptable, pues aquélla versa sobre materias
+que las provincias están autorizadas a regular en el marco del ejercicio del poder de policía”71.
+
+        En este caso, por cierto, cabe subrayar un fragmento específico que es representativo de
+una situación en que la supletoriedad se atribuye a la legislación nacional, que cederá ante la mas
+específica que se dicte por normativa local:
+
+           Es preciso poner de relieve también que el legislador nacional, al sancionar la ley 24.240,
+           dispuso que los servicios públicos domiciliarios con legislación específica y cuya actuación
+           sea controlada por los organismos que ella contempla, serán regidos por esas normas,
+           aplicándose esa ley supletoriamente (art. 25). Es decir, prevé que en ese tipo de servicios
+
+
+68
+     CSJN, El Práctico S.A. c. Provincia de Córdoba , Fallos 334:626 (2011), cons. 14.
+69
+     CSJN, Baliarda S.A. y otros c/Mendoza, Provincia de s/acción declarativa; Fallos 321:1705 (1998).
+70
+  CSJN, Líneas de Transmisión del Litoral S.A. –LITSA- v. Provincia de Corrientes s/ acción declarativa, Fallos
+322:2862 (1999), cons. 14.
+71
+     CSJN, Edelar S.A. s/inconstitucionalidad, Fallos 330:2081 (2007).
+
+[[PDF p. 19]]
+           no sólo las autoridades competentes regulen la modalidad de prestación y las relaciones
+           entre prestadores y usuarios, sino que ese régimen tendrá precedencia sobre el general. 72
+
+       La moraleja del caso es que aparece una ampliación de hecho de las facultades nacionales,
+ya que conforme a este criterio podrían también regular servicios públicos locales -al modo de la
+dormant clause de los Códigos, pero en sentido inverso, ya que el poder durmiente estará en cabeza
+del Estado federal-.
+
+
+§ 9. La cláusula de comercio y los poderes municipales
+
+
+        De igual modo, la cláusula de comercio no ha sido obstáculo para que la Corte reconociera
+poderes concurrentes a los municipios, como se advierte del análisis de un par de binomios
+jurisprudenciales del año 1998.
+         El primero de ellos consiste en un par de acciones iniciada por la empresa Telefónica de
+Argentina como concesionaria del servicio de telefonía. En una causa promovida contra la
+Municipalidad de General Pico (pero que involucraba a una familia de litigios análogos) se declaró
+inválida la pretensión de la comuna de cobrar tasas municipales por el cableado aéreo: la Corte
+hizo hincapié que se trataba de un servicio interestatal sujeto a la jurisdicción nacional y que en
+virtud de ella (por la ley nacional de telecomunicaciones 19.798) estaba exento de todo gravamen
+local.73
+        Pero otra sería la respuesta dada a la misma empresa en una hipótesis similar pero
+distinguible: en el litigio planteado contra la Municipalidad de Chascomús la Corte se expide
+validando la potestad municipal de requerir la habilitación comercial de las oficinas y de cobrar
+tasas por publicidad urbana. “Una elemental hermenéutica de los arts. 75 incs. 13 y 14, y 126 de
+la Constitución Nacional –dijo la Corte - lleva a la conclusión de que éstos no fueron concebidos
+para invalidar absolutamente todos los tributos locales que inciden sobre el comercio
+interprovincial, reconociendo a éste una inmunidad o privilegio que lo libere de la potestad de
+imposición general que corresponde a las provincias". 74
+        El segundo binomio se da en un par de casos también promovidos por una misma firma,
+en este caso la “Operadora de Estaciones de Servicio” que explotaba las áreas de servicio de la
+autopista La Plata-Buenos Aires. En un caso, la Corte acogió la demanda planteada por la empresa
+contra la Municipalidad de Escobar que había prohibido la construcción de una estación de servicio
+en el trazado, explicando en el fallo que ello implicaba una indebida interferencia en la potestad
+federal de promover una obra de beneficio común, e invocó al respecto la cláusula de la
+prosperidad del art. 75, inc. 18 de la Constitución Nacional.75
+
+
+72
+ CSJN, Edelar S.A. s/inconstitucionalidad, Fallos 330:2081 (2007). Del dictamen del Procurador, al que remite la
+mayoría de la Corte.
+73
+     CSJN, Telefónica de Argentina S.A. c. Municipalidad de General Pico, Fallos 320:162. (1997).
+74
+     CSJN, Telefónica de Argentina v. Municipalidad de Chascomús, Fallos 320:619 (1997).
+75
+     CSJN, Operadora de Estaciones de Servicios S.A. y otro c. Municipalidad de Escobar, Fallos 321:658 (1998).
+
+[[PDF p. 20]]
+        Sin embargo, en el litigio llevado por la misma empresa contra la Municipalidad de
+Avellaneda la Corte rechazó el planteo de que la comuna demandada no tuviera competencia para
+exigir la habilitación municipal de sus unidades comerciales: esos poderes locales son “plenos”,
+dijo el tribunal, en tanto “su ejercicio no vaya contra lo que constituye la razón de ser de la
+jurisdicción nacional en ellos: impedir que la comunicación entre los estados sea obstruida o
+estorbada de un modo innecesario por la legislación de estos últimos”76.
+
+
+§ 10. El futuro de la cláusula de comercio
+
+
+        En primer lugar, hemos apuntado ya su relevancia en lo que concierne a la regulación del
+comercio exterior, un tema que ha recibido históricamente poca dedicación doctrinaria y
+jurisprudencial, y que aparece ahora redefinido desde el marco de tratados internacionales de
+comercio. Las frecuentes controversias comerciales entre países y bloques de comercio, así como
+la concentración de las decisiones de política comercial en el órgano ejecutivo, permiten suponer
+que habrá muchos temas a definir en cuanto al perfil “externo” del art. 75 inc. 13 que cobrará
+importancia práctica mayúscula –y plausiblemente persistente- en el futuro cercano.
+        Es también posible imaginar un futuro de esta cláusula en el aspecto al que clásicamente
+se le ha dedicado más atención: la regulación “interna”. Tal como su pasado, el futuro de la
+cláusula de comercio es susceptible de ser entrevisto en dos dimensiones: una en la que concierne
+a la división de poderes “horizontal” –entre ramas del Poder Federal-, y la otra, la “vertical”, que
+implica el deslinde entre Nación y gobiernos locales que tanto nos ha ocupado en este comentario.
+        En relación al primer rubro, no podemos dejar de advertir la esperable continuidad del
+fenómeno de que las potestades regulatorias del “Congreso Federal” -que son las que habilita en
+puridad la cláusula- suelen ser asumidas y aplicadas por el Poder Ejecutivo con la invocación de
+leyes genéricas que brindan un amplio y difuso espacio de actuación.
+        En cuanto a la función de la cláusula como deslinde de competencias entre Nación y
+Provincias -la otra dimensión que subrayamos- cabe preguntarse si es factible y deseable que la
+hermenéutica siga discurriendo en base a este sesgo tan proclive a habilitar potestades crecientes
+para el Estado Federal y tan receloso de la regulación local.
+        Lo cierto es que el espacio para el conflicto de leyes regulatorias aparece cada vez más
+expandido, porque la dinámica de la política subnacional nos muestra legislaturas más activas a la
+hora de ejercer potestades provinciales, y ello en parte constituye un fenómeno que es correlato de
+electorados más intensos que “localizan” mayores demandas en sus representantes más cercanos.
+        También se advierte en las últimas décadas como la regulación local trasciende el molde
+de los recurrentes intentos de tributación y regulación “proteccionista” (que eran la preocupación
+esencial del constituyente, y que constituyen la mayor parte de la “materia prima” de los casos
+litigados) para dar paso a regulaciones “de nueva generación”, que buscan atender a fines de
+desarrollo humano, surtidas por concepciones progresistas y valoradas de los mercados. De hecho,
+incluso puede razonarse que una condición necesaria para definir a un mercado como eficiente es
+
+
+76
+  CSJN, Operadora de Estaciones de Servicio S. A. c. Municipalidad de Avellaneda, Fallos 321:1052 (1998), cons.
+11, (con cita de Fallos: 201:536).
+
+[[PDF p. 21]]
+que no genere externalidades negativas, tanto en las que sean más directamente cuantificables
+(pérdidas de los beneficios de escala que supone un mercado único) como las que estén afectando
+aspectos aparentemente intangibles pero de plausible impacto en la productividad o sustentabilidad
+del sistema.
+         En este contexto, una interpretación no esterilizante de la “cláusula comercial” debe evitar
+caer en reduccionismos: un análisis más profundo podría arrojar una conciliación entre esferas
+regulatorias sin sacrificios innecesarios, de modo que no quede vacia de contenido la potestad
+legislativa local en todo lo que no afecte la “unidad de mercado” que ha buscado el constituyente,
+buscando obtener virtuosos beneficios de escala.
+        De esta forma, puede observarse que así como la concepción del comercio como “algo más
+amplio que el intercambio” inclinó históricamente el fiel de la balanza a favor del Estado central,
+es posible que una concepción aún más comprensiva e integral de sus ramificaciones e
+implicancias pueda justificar un empalme, una reconciliación, con otras fuentes de incidencia
+regulatoria que corresponden a facultades locales ciertamente no delegadas.

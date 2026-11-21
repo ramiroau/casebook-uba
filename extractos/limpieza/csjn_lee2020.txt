@@ -1,0 +1,10 @@
+# csjn_lee2020 (U14): carátula repetida en las páginas impares, renglón por renglón
+# (otro archivo de limpieza ya quita «ORIGINARIO»; por eso no se usa un patrón de bloque)
+^\s*FRE 2774/2020/CS1\s*$
+^\s*ORIGINARIO\s*$
+^\s*Lee, Carlos Roberto y otro c/ Consejo de\s*$
+^\s*Atención Integral de la Emergencia Covid-19\s*$
+^\s*Provincia de Formosa s/ amparo – amparo\s*$
+^\s*colectivo \(expediente digital\)\.\s*$
+# cons. 1, PDF p. 1: «Covid-19» partido a fin de renglón; sin este patrón queda «Covid- 19»
+(?<=Emergencia Covid-)\n(?=19─ o de cualquier)

@@ -1,0 +1,1465 @@
+# fuente: Unidad17/Sola - 2010 - Manual de Derecho Constitucional (extracto).pdf
+# md5_original: 943a48b97d17a51614b4238c2ba2186b
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+El derecho de propiedad.
+La visión de los derechos de propiedad asume que el individuo promedio se comporta
+racionalmente y por lo tanto tratará de obtener al mayor beneficio de sus derechos
+de propiedad. Por lo tanto, podemos predecir en promedio y con relativo éxito, como
+los derechos de propiedad específicos afectarán la asignación y utilización de
+los recursos económicos. Para comprender esta interpretación económica de los
+derechos de propiedad, tomemos como ejemplo la diferencia entre las consecuencias del
+usufructo por oposición al dominio. Quien tiene un derecho de usufructo no puede vender
+o transferir su derecho a otra parte. Por lo tanto, como individuo racional que maximiza la
+utilidad de su usufructo intentará explotar la tierra en forma abusiva evitando las
+actividades de mantenimiento, durante la extensión de su derecho. Para prevenir esos
+excesos el titular del dominio buscará la manera que el titular del usufructo cumpla con
+ciertos límites en el ejercicio de su derecho de usufructo. Por ejemplo el contrato que crea el
+usufructo podrá exigir que el titular mantenga la integridad económica del terreno. El
+cumplimiento de este tipo de acuerdos llevará tareas de agrimensura, monitoreo y otros
+costos de agencia que no aparecen en el caso del ejercicio pleno del dominio. Como
+consecuencia de este análisis señalamos que los derechos de propiedad tienen la extensión
+que les da la existencia de un monitoreo eficaz.
+
+¿Quién es propietario de qué?
+Esta es una pregunta básica, en los hechos, en la ética que se aplica, y que se plantea con
+variaciones a través de la historia. La existencia de objetos físicos y cosas en general
+requieren que exista una regulación entre las personas con respecto a la expropiación y a la
+utilización de esas cosas. Las relaciones de comportamiento aprobadas y reconocidas son
+indispensables en un mundo de escasez. A pesar que este entendimiento está generalmente
+aceptado el debate sobre si la propiedad debe ser privada, es decir individual, o social ha
+sido un tema que ha llevado a los debates más profundos en la historia de las ideas y
+particularmente en el último siglo. Si bien recientemente la propiedad social de los medios
+de producción ha desaparecido como una teoría aplicada esto no significa que termine el
+debate entre filosofías que sostengan la propiedad privada o social de los medios de
+producción. La discusión entre el individualismo y el colectivismo tiende a continuar en
+otros temas, aparecen las cuestiones sobre el medio ambiente, la inmigración y la política
+del desarrollo y el conflicto que plantean esas visiones del derecho para los derechos de
+propiedad.
+Da la impresión que la inestabilidad de los derechos de propiedad sobre bienes
+conjuntamente con la escasez es un impedimento principal al bienestar social. Hume
+sostiene que la (i) estabilidad de la posesión es una de las tres leyes fundamentales
+de la naturaleza sobre cuya observancia estricta depende la paz y la
+seguridad de la sociedad humana. Las otras normas cruciales son la (ii)
+transferencia de la propiedad por consentimiento y (iii) el cumplimiento de las
+promesas.
+
+Como surgen y evolucionan los Derechos de Propiedad
+
+[[PDF p. 2]]
+El diseño de las instituciones o de las estructuras de gobierno son decisiones maximizadoras
+para ahorrar costos de transacción y para facilitar las nuevas actividades económicas. Las
+fuerzas el mercado erosionan las instituciones de los derechos de propiedad que no están
+suficientemente capacitadas para responder a las nuevas oportunidades económicas. Si la
+estructura de derechos existente limita o bloquea las reacciones a cambios en los precios
+relativos o en la tecnología, la existencia de ganancias potenciales inexplotadas llevará a los
+individuos a movilizarse para la adopción de derechos de propiedad que se acomoden a
+estas necesidades.432
+La creación de la propiedad, como la iniciación del dinero, no es una creación del Derecho,
+en el sentido que su estructura se haya impuesto a la sociedad por una autoridad civil. El
+origen de la propiedad, de acuerdo con esta visión, no es un fenómeno gubernamental sino
+social. La ejecución de la propiedad ha sido perfeccionada en el tiempo por un proceso en
+el cual la actividad estatal clarifica y regulariza el derecho de propiedad. Bajo la
+intervención estatal los derechos se transforman en convenciones mejoradas o perfectas.
+Existe un problema con todo esto porque no aparece claro como la sociedad puede
+asegurar que el Estado siempre se comportará como una tercera parte imparcial. La
+aplicación por un tercero significa que el desarrollo del Estado tiene una fuerza coercitiva
+capaz de monitorear los derechos de propiedad y asegurar el cumplimiento de los contratos
+efectivamente. Pero si el Estado tiene la fuerza coercitiva aquellos que manejan el Estado,
+utilizarán esa fuerza en su propio interés y a expensas del resto de la sociedad.
+Tanto el respeto por la ley como la honestidad e integridad de los jueces representan
+factores importantes que han contribuido al desarrollo del derecho ideal. Pero la cuestión
+permanece de cómo es posible crear un sistema de redes formales y de cumplimiento
+efectivo, y promover el comportamiento público que es basado en limitaciones morales
+significativas. Autores desde Hume hasta North han sugerido que las condiciones
+apropiadas para el éxito tienden a desarrollarse muy lentamente en el tiempo. 433Sin
+embargo el progreso hacia una cooperación social efectiva es posible porque en la medida
+en que las personas adquieran experiencias más individuos reconocen que tienen intereses
+comunes entre comportamiento cooperativo, y esto lleva a ganancias mutuas. En efecto
+convenciones no escritas y acuerdos han hecho aparición espontáneamente en la sociedad.
+De ahí surge la metáfora de Hume de los dos hombres que empujan los remos desde un
+bote y lo hacen por un acuerdo o convención aunque nunca se han dado promesas el uno
+al otro. De la misma manera, los lenguajes se establecen gradualmente por las convenciones
+humanas sin ninguna promesa. De la misma manera el dinero con los metales preciosos se
+transformó en una manera común de intercambio. La línea de explicación que sugiere
+Hume es también comparable a la forma de legitimación que plantea un contrato social, y
+también a una versión extendida del juego del dilema de los prisioneros. Para ver,
+consideremos una convención que asigna derechos de propiedad de facto en un recurso
+valioso. Supongamos que la convención está firmemente establecida. Entonces cada
+persona tiene una expectativa fuertemente establecida, una expectativa basada en una
+inducción de la experiencia pasada, que las otras personas seguirán con esta convención o
+con esta costumbre. Dada esta expectativa, cada persona encuentra en ella su interés para
+
+432
+    G.D. Libecap. “Distributional issues in Contracting for Property Rights.” Journal
+of Institutional and Theoretical Economics.” N° 146 p. 6.
+433
+    Furubotn and Richter. Institutions and Economic Theory. University of Michigan.
+2000. p.106.
+
+[[PDF p. 3]]
+seguir adelante con la costumbre. Dado que cada persona sigue con la costumbre, no solo
+espera que las personas con las que interactúa no le pida más que lo que la costumbre le
+permite, también espera que se comporten de esa manera. Más aun, cualquiera que se vea
+favorecido por la costumbre, o al menos en alguna ocasión, es probable que observe
+cualquier ruptura de la costumbre como una amenaza indirecta a sí mismo.
+Debe tenerse en cuenta que las costumbres pueden ser ineficientes, entre ellas, la
+monopolización de la propiedad privada por un grupo pequeño de tomadores de decisiones
+o de organismo gubernamentales o de partidos políticos organizados. Al valorar la función
+que la propiedad privada juega en la promoción de la eficiencia económica, es importante
+tener en cuenta que la propiedad privada es necesaria por una condición eficiente para la
+competencia. Similarmente se debe tener claro que no es necesario que todo sea eficiente
+en la existencia de una costumbre o que esa costumbre aumente el bienestar general de la
+sociedad. La base sin duda originalmente la institución de la propiedad, puede no ser más
+que una convención sobre quien tendrá el uso exclusivo de algunos bienes. En la actualidad
+la institución de propiedad es enormemente más complicada porque hemos construido
+alrededor de ella un sistema complejo de normas e instituciones. Su propia complejidad, de
+las relaciones contemporáneas de la propiedad es lo que hace necesario el análisis de
+derecho de propiedad y costos de transacción.
+Para Demsetz434, los cambios en el conocimiento se fundan en cambios de las funciones de
+producción, valores del mercado y preferencias de los consumidores. Las nuevas técnicas,
+las nuevas formas de hacer las mismas cosas y de hacer otras nuevas todas implican efectos
+benéficos y perjudiciales al mismo tiempo a los cuales la sociedad todavía no está
+acostumbrada. Podemos decir que los derechos de propiedad se desarrollan para
+internalizar externalidades, cuando las ganancias de la internalización son mayores que sus
+costos. Una internalización incrementada resulta de cambios en los valores económicos,
+cambios que se entroncan en los desarrollos de nuevas tecnologías y en la apertura de
+nuevos mercados, cambios para los cuales los viejos derechos de propiedad no están
+preparados. Tomemos en cuenta las preferencias de la comunidad por la propiedad
+privada. Algunas comunidades tendrán sistemas de propiedad privada no tan bien
+desarrollados, y sistemas de propiedad estatal mucho más evolucionados. Pero a partir de
+determinados gustos de la comunidad, la aparición de nuevos derechos de propiedad
+privada estará en función de los cambios de la tecnología y en los precios relativos.
+En las sociedades occidentales los ajustes en los derechos de propiedad se han desarrollado
+como resultado de cambios graduales en los actos sociales, en la legislación y en los
+precedentes jurídicos judiciales. Es improbable que en cada paso de este proceso de
+adaptación, las externalidades estén conscientemente relacionadas en sí mismas con el tema
+que se está resolviendo, pero en una sociedad que privilegie la obtención de la eficiencia, su
+viabilidad en el largo plazo dependerá de cuán bien modifique su comportamiento, para
+acomodarlo a las externalidades asociadas con importantes cambios en la tecnología o en
+los valores del mercado. Se puede hacer sobre esto un trabajo empírico, un ejemplo
+tradicional es el cambio de comportamientos en la sociedad Argentina a partir de los
+impactos tecnológicos que surgieron en el transporte de carne vacuna congelada en los
+barcos frigoríficos. A partir de ahí, los derechos de propiedad sobre las zonas rurales
+
+434
+   Harold Demsetz, “Toward a Theory of Property Rights” American Economic Review,
+Papers and Proceedings. 57 p. 347. Citado en Posner & Parisi,. Economic Foundations
+of Private Law. Elgar. 2002.
+
+[[PDF p. 4]]
+cambiaron sustancialmente y se establecieron reglas prácticas, formas contractuales
+diferentes que las que existían anteriormente.
+El principio que asocia los cambios en los derechos de propiedad con la aparición de
+nuevos y revalorización de antiguos efectos benéficos y perjudiciales sugiere en esta
+instancia que el alto valor de la propiedad agropecuaria hizo económico alentar el control
+humano sobre la propiedad rural. De esta manera se hizo económico alambrar los terrenos,
+impedir que cualquiera pudiera cortar o cruzar los alambrados, hizo económico la
+donación de terrenos para los cursos de vías férreas y para la fabricación de estaciones, etc.
+Todos estos controles requerían la capacidad de prevenir el robo de hacienda, y esto a su
+vez que tendría lugar cambios socioeconómicos respecto de la sociedad, tanto para los
+transeúntes en esas regiones, como para el valor de los animales, porque eran producto de
+la producción ganadera. La leyenda que establecen en el Martín Fierro, que se podía comer
+un animal con la sola condición de dejar el cuero para el propietario no tendría validez en
+la tecnología nueva, que establecía que el mayor valor se establecía en la actividad
+ganadera y no en el costo del cuero.435
+La propiedad es crucial para la eficiencia solamente o fundamentalmente en un mundo de
+costos de transacción positivos. Tomemos por ejemplo dos tipos de costo de transacción:
+Los costos de especificar y asignar derechos de propiedad y los costos de
+monitorear y hacer cumplir las restricciones que los derechos de propiedad
+imponen sobre los demás. Todos estos pueden ser llamados los costos de exclusión.
+Los problemas de eficiencia surgen si los costos de asignar y de monitorear derechos de
+propiedad son prohibitivamente elevados, por cualquier razón que fuere. Desde el punto de
+vista económico la sugerencia es clara de ser posible se deben evitar casos que planteen este
+problema a través de un diseño de las estructuras de organización. Se deben tener en
+cuenta que los costos de especificar los derechos de propiedad son costos hundidos y no
+afectan las decisiones con respecto al producto una vez que la transferencia de derechos ha
+tenido lugar. Monitorear y hacer cumplir los costos de monitoreo por otra parte son
+variables y pueden repetirse en cada período de tiempo.
+Los cambios en los derechos de propiedad ocurren porque individuos dentro de una
+economía consideran beneficioso reestructurar el sistema y asumen los costos de hacer esos
+cambios. Cuando un sistema de derechos es incapaz de incorporar las nuevas
+oportunidades de creación de riqueza crean una demanda de nuevos y
+revisados derechos.
+Un ejemplo estudiado es el caso de los castores en las tribus de Canadá en Demsetz,436
+donde la utilización para peletería de las pieles de castor llevó a la creación de un sistema de
+propiedad en la explotación de castores entre las tribus indígenas en Canadá. Pero el
+ejemplo más notorio es el de la ganadería en la pampa húmeda luego de la invención por
+Tellier del buque frigorífico. Esta innovación tecnológica abrió las posibilidades de exportar
+carne lo que tuvo como consecuencia que se valorizaran los campos y variaran los derechos
+de propiedad. Tierras y animales que eran considerados como de poca utilidad tuvieron
+una rápida apreciación en su valor, lo que llevó al cambio en los derechos de propiedad
+sobre ellos. Se crearon registros eficaces para determinar la propiedad sobre tierras y
+animales y se establecieron sistemas de monitoreo. Lo mismo ocurrió con la invención del
+
+435
+   Agradezco esta comparación a Adrián Guisarri.
+436
+   Harold Demsetz, Toward a theory of property Rights. American Economic Review.
+57, may 1967, p. 347.
+
+[[PDF p. 5]]
+alambre que abarató el cierre de tierras y la protección de los derechos de propiedad de los
+predios.
+El cambio de derechos de propiedad es un proceso contractual que tiene
+lugar en la arena política. Si el cambio institucional resulta en la ganancia neta para la
+sociedad, la barrera para el cambio es el problema a superar. Para ello hay que establecer
+un método que permita llevar adelante el cambio. Esto puede incluir compensar a los
+perdedores y adjudicar esas ganancias en una manera que resulte en la adopción de un
+cambio que mantenga en la mayor medida posible las ventajas productivas (de aumento de
+la utilidad) deseadas. Esto presenta el riesgo que si para asegurar el acuerdo, los que ganan
+están obligados a compensar a los que pierden por el cambio propuesto puede ocurrir que
+las ganancias netas de los ganadores sean lo suficientemente reducidas para llevarlos a
+retirarse de la actividad. Como resultado el cambio que aumenta los beneficios no se
+produce y el régimen de derechos de propiedad permanece en una situación ineficiente.
+Libecap437 señaló que la posibilidad de llegar a un acuerdo dentro del proceso político es en
+función de las siguientes alternativas,
+         1. El tamaño de la ganancia esperada, cuando mayor la ganancia aumentan
+         la posibilidad de llegar a un acuerdo.
+         2. El número de partes que negocian,
+         3. La extensión en que los intereses converjan, mayor convergencia más fácil
+         el acuerdo.
+         4. La extensión en la que la información es imperfecta, ya que debilita la
+         posibilidad establecer correctamente las ganancias y las perdidas y de esta manera
+         estructurar los pagos laterales apropiados para compensar intereses poderosos que
+         pierden, para que apoyen el cambio. Al mismo tiempo la información imperfecta
+         afecta el potencial de engaño entre las partes contratantes.
+         5. La distribución de los beneficios. En la medida que sean distribuidos en
+         forma amplia o limitada. La mayor concentración elimina la posibilidad de llegar a
+         un acuerdo porque muchos intereses se verían perjudicados.
+
+
+Costos de exclusión.
+En la teoría de los derechos de propiedad, los costos de exclusión son los costos de definir,
+monitorear y hacer cumplir los derechos de propiedad privados. Por ejemplo son los costos
+del agrimensor que mide la tierra, de la existencia de un registro oficial de la propiedad, de
+alambrar el terreno.
+
+Dos tragedias: los comunes y los anticomunes.
+Saber quién es propietario de cada cosa facilita las transacciones y baja los costos, basta
+imaginar el mundo caótico en el que cada uno de nosotros debiera probar sus títulos de
+propiedad antes de utilizarla o venderla. La institución se plantearía con los derechos
+individuales, si cada vez que quisiera ejercer un derecho debiera comprobar ante los demás
+que son el titular de él. De tal manera que la asignación de derechos en forma clara y con
+un control efectivo para su cumplimiento es una fuerte reducción de costos de transacción.
+Es por ello que una acción gubernamental importante es asegurar que los derechos estén
+claramente asignados. Pero, ¿qué ocurre cuando los derechos están mal asignados? no me
+437
+      Gary Libecap, Contracting for Property Rights, Cambridge University Press, 1989
+
+[[PDF p. 6]]
+refiero a que se los haya otorgado a la persona incorrecta si no que la manera en que han
+sido asignados los derechos es incompleta e imperfecta. Estos fenómenos ocurren cuando la
+propiedad asignada es común y no permite la exclusión de otros, de manera de cualquiera
+se puede meter, y la otra es el caso en que la posibilidad de excluir está distribuida entre
+muchos de manera que cualquiera puede oponerse al ingreso y el bien no puede obtener su
+utilización plena. La primera llamada la tragedia del común. Es el caso en que un bien es
+de propiedad común y tiene como resultado la sobre explotación. El segundo
+por una especie de espejismo es llamado la tragedia de los anti comunes.
+
+La tragedia de los comunes.
+Un ejemplo tradicional en la aplicación del concepto de los derechos de propiedad es la
+tragedia de los comunes. Es la situación en la que un bien es de propiedad común y
+tiene como resultado la sobre explotación, el ejemplo es la de utilización de terrenos
+comunes para pastoreo. Cuando la tierra de pastoreo era propiedad común de los
+pobladores y cada uno de ellos podía decidir si utilizaba es espacio común, era beneficioso a
+cada poblador agregar una vaca en la medida que el beneficio producido por esa vaca fuera
+mayor que el costo de la misma. Pero los individuos ignoran el costo social de sus cálculos,
+es decir que cada vaca agregada extra reduciría la producción de leche de todas las otras
+vacas. Debido a ello demasiadas vacas serán dadas a pastoreo en el espacio común. La
+propiedad común lleva a un resultado ineficiente, cada poblador tiene
+incentivos perversos. Cada uno está motivado a agregar más animales porque recibe el
+beneficio directo de sus propias vacas y solo asume una parte de los costos que resultan de
+la sobre explotación. Es una tragedia ya que cada hombre está encerrado en un sistema que
+lo lleva a la ruina. 438
+
+La tragedia de los Anti-comunes.
+Un problema de anticomunes ocurre cuando existen múltiples derechos para excluir. Los
+recursos son subutilizados, es decir tienen una utilización ineficiente ya que muchas
+personas que querrían utilizarlos no pueden acceder a ellos. Si en el caso de los comunes la
+imposibilidad de excluir hacía que los bienes fueran sobre utilizados, en el caso de los anti
+comunes es la existencia de numerosas personas con derecho de exclusión la que impide la
+plena utilización del bien.
+Por qué utilizamos la expresión "tragedia", es porque como en una tragedia griega los
+actores van hacia su perdición con plena conciencia de ello, pero no pueden hacer nada
+para evitarlo. Tanto la sobre utilización como la sub utilización ocurren con pleno
+conocimiento de los actores, pero los costos de evitarlo son tan elevados que constituyen
+una barrera.
+En el caso de la tragedia de los comunes, existe un bien que puede ser utilizado por la
+aplicación simultánea de insumos complementarios. Este bien se transforma en recurso
+productivo de valor si estos insumos son limitados a un nivel menor que el que sería si
+estuviera abierto para todos los usuarios potenciales. Pero si estos insumos están controlados
+por las personas o empresas que quisieran utilizarlos, se verían disipados por el uso
+excesivo. Como este recurso es indivisible en el sentido que los actores pueden introducir
+activos para su explotación, cada acción genera una vez deseconomía externa sobre la
+productividad de los ingresos de las otras unidades productivas. Si las decisiones son
+438
+      Furubotn y Richter. Institutions and Economic Theory. Michigan. 2000. p. 99.
+
+[[PDF p. 7]]
+descentralizadas, es decir no existe la posibilidad de exclusión o una utilización organizada
+del recurso, los efectos externos no serán internalizados dentro del cálculo de la decisión
+tomada.
+Por el contrario, aparece la tragedia de anti comunes cuando hay múltiples derechos de
+exclusión. Michael A. Heller descubrió esta situación analizando las instituciones en Rusia
+cuando se salía del sistema socialista a una economía de mercado.439
+La expresión "anti comunes" es una metáfora útil para comprender por qué potencial
+económico de valor se pierde en el agujero negro de la sub utilización de recursos. Como su
+existencia como la existencia de los comunes son fuente de pobreza en sociedades
+potencialmente ricas. En gran medida la incompetencia de la burocracia regulatoria
+moderna lleva a esta pérdida de recursos.
+Si recurso puede ser utilizado por actividades complementarias, este recurso produce valor
+solamente si esas actividades complementarias son limitadas a un nivel que esté por debajo
+del que existiría bajo un acceso abierto a todos los usuarios potenciales. Como en el caso de
+las vacas en el ejemplo medieval, todos los productores envían sus animales apartara aún
+cuando la parcela no pueda alimentarlos plenamente a todos, porque si no lo hacen un
+usuario alternativo ocuparía la fracción de la parcela no utilizada. De esta manera el pastor
+se ve obligado a sobre utilizar el recurso porque de otra manera otro lo utilizaría en su
+lugar, y libera a sus vacas enflaquecidas por qué no conoce una alternativa a la sobre
+explotación. No puede excluir a los otros usuarios por encima del uso eficiente del recurso.
+El valor neto del recurso usado en comunidad está relacionado con el nivel de ingresos
+complementarios aplicados. Si estos ingresos que se incorporan son controlados
+separadamente por diferentes personas o empresas el valor potencial del recurso en cuestión
+será perdido o disipado en parte o en todo por el uso excesivo. Además de la pastura
+medieval podemos citar a lagos y ríos para la pesca, territorios de caza, acuíferos y aún
+espacios públicos sobre utilizados. Por mucho tiempo se ofrecieron respuestas a esta
+tragedia. La idea partió de la necesidad de una administración efectiva del recurso que
+limitara su utilización. Una manera de asegurar la eficiencia es la asignación de derechos
+para su utilización, lo que se llama generalmente derechos de propiedad. Esto cambiará la
+estructura de incentivos, ya que los propietarios maximizarán los ingresos restringiendo la
+utilización, generalmente a través de precios que maximizarán el valor potencial.
+La pregunta es: ¿por qué la utilización común de un bien genera ineficiencia? Porque el
+recurso no puede ser dividido, en el sentido que haga posible la aplicación simultánea de
+insumos complementarios separados. Toda acción de incorporar insumos genera una
+deseconomía externa en la productividad de valor de las otras unidades que se incorporan.
+Si se utilizan decisiones descentralizadas los efectos externos no podrán ser internalizados
+dentro del cálculo de decisiones de quien utiliza el recurso. En situaciones extremas si el
+recurso está plenamente abierto para su utilización todo su valor neto se disipará.
+En el caso de los anti comunes la situación es inversa, si en los comunes no hay derecho de
+exclusión, en los anti comunes son mucho los que los tienen. Si en los comunes el pastor no
+puede limitar el ingreso de otras vacas al predio común aún cuando el número sea superior
+a la cantidad que pueda alimentarlas, en los anti comunes hay que buscar el acuerdo con
+todos los que pueden excluir. En la búsqueda de los diferentes permisos de quien pueden
+oponerse a mi plena utilización del recurso
+
+439
+    Michael A. Heller, The Tragedy of the Anticommons: Property in the Transition
+from Marx to Markets, 111 Harv. L. Rev. 621 (1998).
+
+[[PDF p. 8]]
+Cuando se asigna explícitamente la propiedad en un recurso una persona o gente tiene al
+mismo tiempo el uso y los derechos de exclusión. Puede excluir a otros del uso y al mismo
+tiempo después de directamente usar bien permitir a otros que lo utilicen bajo su permiso.
+El problema convencional sobre los comunes que emerge en la medida que más de una
+persona o gente sea asignada los derechos de uso, pero sin que se le conceda a nadie
+derechos de exclusión. La situación que podríamos llamar de anti comunes, es cuando a
+más de una persona se le conceden derechos de exclusión que pueden ser ejercido
+simultáneamente de una manera análoga a su carencia en el modelo analizado. Los dos
+lados del problema son básicamente simétricos.
+La tragedia de anti comunes medida en el valor económico no realizado, toma la forma de
+la sub utilización antes que la sobre utilización del recurso, el tamaño de la pérdida del
+costo de oportunidad dependerá, de la misma manera que con el modelo de comunes, del
+número de personas a la que se asignan derechos simultáneamente. La ineficiencia surge
+porque quienes toman decisiones separadamente en ejercicio de sus derechos asignados
+imponen deseconomías externas a otros que tienen derechos similares. En el caso de los
+comunes las personas al agregar una unidad de insumos al recurso común reducen la
+productividad de todos los otros insumos y las rentas de cada una de las personas con
+quienes comparten la propiedad común. En los anti comunes, o modelo de exclusión, las
+personas al reducir los insumos en el espacio común, por vía de precios, reducen las rentas
+posibles para los demás que también ejercen derechos potenciales de exclusión. En la
+situación límite, en la cual todas las personas en un amplio grupo tienen asignadas derechos
+de exclusión, de tal manera que quien quiera utilizar el bien de asegurar el permiso de
+todas ellos, el recurso pueden no ser utilizado en absoluto a pesar de su valor potencial.
+El concepto de anti comunes fue introducido para explicar la situación existente en Moscú
+luego de 1990, cuando muchos edificios permanecían vacíos mientras que numerosos
+quioscos ocupaban las calles. Los inmuebles no se ocupaban porque cualquier contratante
+individual debía asegurarse de obtener el permiso de diferentes personas cada una de las
+cuales podía ejercer su derecho de exclusión. Está metáfora de anti comunes también fue
+utilizada para explicar las causas por cuales un proyecto no puede ser desarrollado porqué
+requiere la autorización de diferentes organismos gubernamentales, o de diferentes
+funcionarios dentro de un mismo organismo cada uno de los cuales tiene derechos efectivos
+de exclusión frente al proyecto que de ser implementado podría crear valor. El modelo
+también puede ser usado para explicar las barreras burocráticas que se crean cuando se
+concede derechos de exclusión a distintos organismos o funcionarios sin un criterio estricto
+de costo y beneficio. La descentralización sin competencias claras puede también ser causa
+del fenómeno de anti comunes. Sin duda las ineficiencias introducidas por burocracias
+regulatorias que se superponen en sus competencias o son simplemente intrusivas o
+corruptas son conocidas, pero se debe buscar un medio analítico que permita aislar el
+elemento central dentro de estructuras institucionales diferentes.
+Quienes utilizan o ejercen estos derechos de exclusión pueden obtener ganancias
+pecuniarias de sus acciones, como una forma de extorsión previa a la concesión de la
+autorización. Pero al mismo tiempo, los derechos exclusión pueden ser otorgados a agentes
+que no quieran tener ventajas pecuniarias pero que cubren influidos por motivaciones
+diferentes por ejemplo ideológicas. En todo caso, conceder derechos de exclusión significa
+correr el riesgo que quien lo tiene puede ejercer para una ventaja pecuniaria, ideológica,
+política o simplemente de satisfacción de su vanidad.
+
+[[PDF p. 9]]
+Nos encontramos entonces ante ‘Un régimen de propiedad en el cual múltiples
+propietarios ejercen derechos efectivos de exclusión de un recurso escaso’. Pero la
+expresión régimen de propiedad debe entenderse como una asignación de derechos, la cual
+puede asimilarse a la situación de una persona que tiene el derecho constitucional a ejercer
+una actividad pero que debe requerir formas de autorización gubernamental. Es decir, que
+la tragedia de los comunes se produce también por consecuencias reglamentarias. Heller
+señala cuatro elementos:
+    1. No requiere que todos tengan la capacidad de excluir, es decir pueden turnarse o
+    actuar cuando otro ejercicio ante su opción.
+    2. Es una propiedad sub óptima, o un derecho incompleto porque requiere para su
+    ejercicio un procedimiento complejo en que la oposición no es única sino dispersa.
+    3. Muchas formas de exclusión no derivan del régimen jurídico. Puede provenir de
+    grupos de interés fuera de la de la administración pero con medios concretos de
+    imponer su voluntad.
+    4. Puede ocurrir solamente en la utilización de ciertos recursos, sin ser general.
+
+Los anticomunes son la patología persistente de las burocracias modernas. Se originaron
+como una metáfora de propiedad y señalan un problema para la regulación. Surge cuando
+grupos de interés presionan para derechos de decisión, por búsqueda de rentas
+o motivos ideológicos y terminan en una competencia regulatoria perversa. Cuando la
+autoridad regulatoria es compartida, por órganos múltiples, el grado final de
+intervención regulatoria toma la forma de dos forma de acciones positivas o negativas.
+La autoridad de los reguladores será concurrente o alternativa. Las consecuencias son
+la posibilidad de impedir, como incentivo a la corrupción y la búsqueda de
+rentas.
+
+
+
+         El Derecho de Propiedad en la Constitución.
+
+
+Como ya fuera expresado el debate sobre la protección constitucional del derecho de
+propiedad ha sido resuelto tempranamente por nuestra Corte Suprema en el caso
+Bourdieu. Allí se afirmó que todo derecho que tenga un valor reconocido como tal por la
+ley, sea que se origine en las relaciones de derecho privado, sea que nazca de actos
+administrativos (derechos subjetivos privados o públicos), a condición de que su titular
+disponga de una acción contra cualquiera que intente interrumpirlo en su goce, así sea el
+Estado mismo, integra el concepto constitucional de "propiedad". Caso Pedro
+Emilio Bourdie v. Municipalidad de la Capital. 10 de diciembre de 1925.
+Fallos 145:325.
+
+Que en cuanto al primer fundamento, debe observarse que las palabras "libertad" y "propiedad"
+comprensivas de toda la vida social y política, son términos constitucionales y deben ser tomados en su sentido
+más amplio. El término "propiedad", cuando se emplea en los artículos 14 y 17 de la Constitución o en
+otras disposiciones de ese estatuto comprende. Como lo ha dicho esta Corte, "todos los intereses apreciables
+que un hombre puede poseer fuera de sí mismo, fuera de su vida y de su libertad". Todo derecho que tenga un
+valor reconocido como tal por la ley, sea que se origine en las relaciones de derecho privado, sea que nazca de
+
+[[PDF p. 10]]
+actos administrativos (derechos subjetivos privados o públicos), a condición de que su titular disponga de una
+acción contra cualquiera que intente interrumpirlo en su goce así sea el Estado mismo, integra el concepto
+constitucional de "propiedad".
+Los derechos emergentes de una concesión de uso sobre un bien del dominio público (derecho a una sepultura),
+o de las que reconocen como causa una delegación de 1a autoridad del Estado en favor de particulares
+(empresas de ferrocarriles, tranvías, luz eléctrica, teléfonos, explotación de canales, puertos, etc.), se
+encuentran tan protegidos por las garantías consagradas en los arts. 14 y 17 de la Constitución como pudiera
+estarlo el titular de un derecho real de dominio. El art. 67, inc. 16. de la Constitución faculta al Congreso a
+emplear como medio adecuado (le obtener lo conducente a la prosperidad del país, las concesiones temporarias
+de privilegios y habría visible inconsecuencia entre esa autorización que compromete la fe pública de la
+Nación y la conclusión consistente en afirmar que los derechos nacidos de aquéllas no benefician de las
+garantías y seguridades que otra parte del mismo estatuto asegura a la propiedad. El derecho, nacido de una
+concesión de sepultura con prescindencia de saber si forma o no parte del patrimonio del titular, cuestión ésta
+librada al derecho común, se encuentra, pues, comprendido por la garantía de los arts. 14 y 15. Mango con
+Traba, sentencia de esta Corte de 26 de agosto próximo pasado; COOLEY, Principios generales, traducción
+Carrié, p. 306, y Constitutional limitations, p. 756, y nota 3; WILLOUGHBY, t., II, p. 474.
+
+Que el principio de la inviolabilidad de la propiedad, asegurada en términos amplios por el art. 17, protege
+con igual fuerza y eficacia tanto los derechos emergentes de los contratos como los constituidos por el dominio
+o sus desmembraciones. Mientras se halle garantizada en la Constitución la inviolabilidad de la propiedad o
+en tanto que el Congreso no se halle investido de facultades constitucionales expresas que lo habiliten para
+tomar la propiedad privada sin la correspondiente indemnización o para alterar los derechos derivados de los
+contratos, ha dicho esta Corte (t. 137, p. 47), la limitación existe para el departamento legislativo cualquiera
+que sea el carácter y la finalidad de la ley.
+
+Que para juzgar del alcance de esta limitación impuesta a las legislaturas, de dictar leyes alterando las
+obligaciones nacidas de los contratos, ha de tenerse presente: a) que asumen el carácter de leyes" no sólo las
+sancionadas por el Congreso, sino también las constituciones de Estado o una ordenanza municipal con tal
+que el Estado le dé la fuerza de una ley (Williams v. Bruffy, U.S., p. 176); b) que reviste calidad de
+contrato todo convenio o concierto entre dos o más partes, sea que las obligaciones emergentes del mismo se
+hallen incumplidas o hayan sido ejecutadas. Fletcher v. Peck, 6 Cranch 87; New Jersey v. Wilson, 7
+Cranch 164.
+
+Que además, la prohibición de alterar las obligaciones de los contratos es general y aplicable a las
+convenciones de todo orden, es decir, tanto a las realizadas entre particulares como a las concertadas entre
+éstos, y los Estados o por los Estados entre sí. WILLOUGHBY, t. ", § 402, p. 893. La jurisprudencia
+americana es concluyente sobre el punto, y salvo el caso de las licencias administrativas por las cuales se
+crean facultades revocables a voluntad del Estado, se ha entendido siempre, con la opinión de Marshall,
+emitida en el caso Fletcher v. Peck, 6 Cranch 87, que cuando el Estado contrata o conviene con los
+particulares, no le es permitido revocar o anular sus propias concesiones sin cumplir con los requisitos exigidos
+por el principio de la inviolabilidad de la propiedad. COOLEY, Constitutional limitations, ps. 384 y 385
+y nota.
+
+
+                              La expropiación de bienes.
+
+[[PDF p. 11]]
+Tanto el gobierno nacional como los gobiernos provinciales conservan el dominio eminente
+con la autoridad para tomar propiedad cuando sea necesaria para las actividades
+gubernamentales la Constitución establece un límite a este poder debe tener un objetivo de
+uso público lo que la Constitución la utilidad pública, debe tener una determinación formal
+es decir desde ser calificada por ley y debe tener una compensación que en nuestra
+Constitución deber ser previa ya que se refiere a los términos previamente indemnizada. Al
+mismo tiempo el artículo 17 establece otro límite más general, y aplicable a todo el
+ordenamiento jurídico, que es la prohibición absoluta de la confiscación de bienes.
+
+      1. Definir lo que es expropiación, un acto posesorio en el cual el gobierno ocupa
+         físicamente la propiedad. Al mismo tiempo está la expropiación regulatoria que
+         ocurre cuando el gobierno reglamenta de tal manera una actividad que no le deja a
+         la propiedad una utilización económica viable.
+      2. La segunda pregunta es determinar que es la propiedad, a la cual la Constitución le
+         da en el artículo 17 el carácter de inviolable y que puede ser expropiada.
+         Generalmente se ha considerado en otras fuentes del derecho para definir lo que es
+         el interés de la propiedad.
+      3. La tercera pregunta es determinar cuándo hay utilidad pública en la expropiación.
+         Si la expropiación no tiene una utilidad pública el gobierno debe devolverla.
+         Generalmente los tribunales han definido el concepto de utilidad pública de manera
+         muy genérico de manera que prácticamente cualquier expropiación cumple con ese
+         requerimiento. En el caso Hawaii Housing 465 U.S. 1097 de 1984 la Corte
+         Suprema de Estados Unidos que existe utilidad pública en la medida “que el uso este
+         racionalmente relacionado con una utilidad pública concebible” en otras palabras que cumpla
+         con la prueba de una base racional.
+      4. Finalmente la cuarta pregunta es si hay una expropiación una utilidad pública que
+         significa una indemnización previa, es decir, ¿cuál es la compensación justa que
+         debe recibir quien se ve privado de su propiedad y como deber ser medida? En este
+         sentido deber ser medida en términos de la perdida que produce a su propietario y
+         es irrelevante pensar en la ganancia que causa al estado que se apropia de ella.
+
+
+La cláusula de expropiación es la protección más importante a los derechos de propiedad
+de la Constitución. Se refiere asegurar que el gobierno no confisque la propiedad de unos
+para dárselas a otros. Y en sus primeras versiones en el caso Calder vs. Bull, 3 U.S. 386
+de 1798 la Corte Suprema norteamericana consideró que esa práctica de la confiscación
+era violatoria de los principios de derecho natural y del contrato social, en los cuales se
+fundaba la Constitución. Dijo en esa circunstancia el Juez Chase:
+       ‘No puedo suscribir a la omnipotencia de la legislatura, o que sea absoluta o sin control… Existen
+       ciertos principios vitales en nuestros gobiernos republicanos libres, que determinarán y anularán un
+       evidente y flagrante abuso del poder legislativo; si intentara una manifiesta injusticia por la ley
+       positiva, o si quisiera quitar las seguridades a la libertad personal, o a la propiedad privada, para
+       cuya protección fue establecido el gobierno. Un acto de la legislatura (porque no puedo llamarla una
+       ley) contrarios a los grandes primeros principios del contrato social, no puede considerarse un
+       ejercicio legítimo de la autoridad legislativa.’440
+
+440
+      En Calder vs. Bull 3 U.S. 386 (1798) las mayúsculas en el original.
+
+[[PDF p. 12]]
+En concepto es sencillo ya que se refiere a como se administra esta perdida. Si el gobierno
+toma la propiedad de una persona para beneficiar a la sociedad, la sociedad debe pagar por
+ella. El objetivo principal de la cláusula de expropiación es la de “limitar al gobierno de obligar
+algunas personas para que asuman el peso de los objetivos públicos que en justicia deben ser asumidos por el
+público en su totalidad” esto lo dijo en el caso Armstrong vs. Estados Unidos 364 U.S: 40
+de 1960. Si bien en términos generales este principio es claro es difícil en circunstancias
+determinar cuando el gobierno incurre en esta obligación de pagar una compensación o
+una indemnización. Toda reglamentación de derechos determina una limitación de la
+propiedad de alguien.
+
+Toda reglamentación suponen una transferencia de recursos, es decir que al
+regular se le saca algo a alguien en beneficio de otros. Muchas veces esta transferencia no es
+evidente. Pero como la Corte Suprema lo ha dicho “que el gobierno difícilmente pudiera continuar
+con sus funciones si no pudiera aceptarse que los valores de incidentales de la propiedad no pudieran ser
+disminuidos sin pago en cada cambio de la ley general” esto lo dijo en el caso Pennsylvania Coal
+vs. Mahon 260 U.S. 393 de 1922. No existe una línea límite que permita determina
+cuando las acciones gubernamentales que limitan el valor de la propiedad se transforma en
+una expropiación. Es decir, para conocer cuando en justicia se requiere que los daños
+económicos causados por una acción pública sean compensados, en general se analizan las
+circunstancias particulares de los casos con lo que resulta en un cúmulo enorme sobre
+expropiaciones que tratan de definir principios coherentes en determinar esta situación.
+
+Debemos definir entonces dos tipos de expropiación, la primera es que referíamos a la
+expropiación posesoria que ocurre cuando el gobierno ocupa físicamente una
+propiedad generalmente inmueble este punto se ve que tradicionalmente nos referimos
+cuando hablamos de expropiaciones y la utilización de la ley de expropiaciones. La segunda
+igualmente se incluye en el discurso constitucional y en el concepto de expropiación que
+hace la Constitución es la expropiación regulatoria que ocurre cuando una
+reglamentación gubernamental no deja una utilidad económicamente viable para el uso de
+la propiedad.
+
+
+    A. LA EXPROPIACIÓN POSESORIA
+    1. La confiscación gubernamental o su ocupación física.
+
+El concepto de esta ocupación física pude ser amplio ya que incluye la necesidad de
+compensación aun en los casos cuando el gobierno establece que esos agente o el público en
+general utiliza regularmente o ocupe permanentemente un espacio o una cosa que
+previamente era considerado como el de propiedad privada. En principio, la confiscación
+gubernamental de la propiedad siguiendo el dominio eminente es el concepto clásico de
+expropiación. Siguiendo esta decisión la Corte Suprema de Estado Unidos en el Caso
+Webb Fabulous Pharmacies vs. Beckwith 449 U.S. 155 consideró inconstitucional
+una ley procesal de Florida que disponía que los intereses de los depósitos judiciales
+correspondían al gobierno. La Corte Suprema dijo este era un ejemplo clásico de
+expropiación porque el gobierno tomaba la propiedad privada sin compensación.
+
+[[PDF p. 13]]
+También existe expropiación cuando el gobierno ocupa físicamente la propiedad.
+Por ejemplo en el caso Pumpelly vs. Green Bay 80 U.S. 166 de 1872 la Corte Suprema
+considero que la construcción de una represa que inundaba una propiedad debería ser
+expropiada. La Corte Suprema también considero que en caso que se invadieran los
+terrenos o que una estructura artificial fuera establecida sobre ellos de tal manera que se
+limitara su utilidad era una expropiación dentro del significado de la Constitución. Es decir,
+que significaba una ocupación física que de una propiedad inmueble de un particular y una
+limitación practica de suposición. De la misma manera, en el caso United States vs.
+Causby 328 U.S. 256 de 1946 la Corte Suprema consideró que era una expropiación
+cuando el uso regular del espacio por vuelos militares destruye el uso de la tierra utilizada
+para la crianza de aves. Ya que la acción gubernamental era completa de tal manera como
+que si el gobierno hubieron ingresado en la superficie del terreno y hubiera tomado una
+posesión exclusiva de él.
+
+
+    2. La apropiación física en la expropiación.
+
+La expropiación no tiene porque ser de algún tamaño en particular. En el caso Loreto v.
+Teleprompter Manhattan CATV Corp. (458 U.S. 419 en 1982). La Corte Suprema
+consideró que existía una expropiación cuando una ordenanza municipal requería que los
+constructores de un inmueble hicieran espacio suficiente para las facilidades de los de la
+televisión de cable. A pesar que el espacio requerido era de treinta centímetros cuadrados
+la corte aplicó la doctrina que “la norma tradicional que una ocupación física permanente es una
+expropiación”. Agregó más tarde que los precedentes sobre el tema indicaban “claramente que
+las ocupaciones físicas permanentes de terrenos para instalaciones como líneas telegráficas, rieles, y caños
+subterráneos aún si ellos ocupan espacios relativamente insustanciales y no interfieren con la utilización que el
+propietarios realiza del resto del terreno.”
+
+También se plantea la situación si constituye expropiación cuando el gobierno exige el
+acceso público de una propiedad. En el caso Kaiser Aetna vs. United States, 444 U.S.
+164 en 1979) la Corte Suprema consideró que existía una expropiación cuando el gobierno
+requería que un curso de agua privado debía ser abierto al uso público, porque el gobierno
+transformaba la propiedad privada en propiedad pública y en esencia permitiendo al
+publico que ocupara la propiedad.
+
+En su voto en el caso Lucas vs . South Carolina en 1992 el Juez Scalia dijo “en general, al
+menos con relación a las invasiones permanentes, no importa cuán minúscula sea la intrusión y sin importar
+cuán sólido sea el objetivo público detrás de ella, hemos reconocido una compensación.”
+
+
+    B. ¿Qué es la propiedad?
+
+La palabra ‘expropiación’ supone que el gobierno priva a alguien de su propiedad. Esta
+expresión puede tener una definición amplia como en el caso United States vs. General
+Motors Corp. 323 U. S. 373 (1945) en que la Corte Suprema de EEUU dijo que la
+
+[[PDF p. 14]]
+propiedad tal como era utilizada en la expropiación se refería a ‘un grupo de derechos
+inherentes al patrimonio del ciudadano’ que no estaba limitado al contenido vulgar de la
+propiedad en sentido del objeto físico con respecto al cual el ciudadano ejerce derechos
+jurídicamente reconocidos. Sino que denota ‘el grupo de derechos inherentes en la relación
+del ciudadano con la cosa, como es el derecho a poseerla, usarla y disponer de ella. La
+protección constitucional está dirigida a cualquier tipo de interés que el ciudadano pudiera
+tener.’
+
+Siguiendo este principio la misma Corte consideró que algunas formas menos evidentes de
+propiedad también tenían la protección constitucional. En Ruckelhaus vs. Monsanto
+Co, 467 U.S. 986 (1984) consideró que los secretos comerciales eran una propiedad
+protegida. Como la legislación requería que para registrar un productos químico debía
+informarse detalladamente de su composición, información que podía hacerse pública, la
+Corte consideró que los secretos comerciales estaban protegidos por el derecho de
+propiedad. ‘Los secretos comerciales tienen muchas de las características de las formas más
+tangibles de propiedad.. Esta percepción general de los secretos comerciales como forma de
+propiedad coincide con una noción de propiedad que trasciende más allá de la que se tiene
+sobre tierra y las cosas tangibles e incluye los productos de la labor y la invención
+individuales.’
+
+En Goldberg vs. Kelly 397 U.S. 254 (1970) la Corte Suprema consideró expresamente
+que las prestaciones de asistencia social constituían propiedad y que el gobierno no podía
+terminar con esos beneficios sin el debido proceso de ley.
+
+
+      C. ¿Qué es la utilidad pública?
+
+El artículo 17 de la Constitución indica que la expropiación debe ser por causa de ‘utilidad
+pública’. Si la expropiación fuera establecida para una utilidad privada, aunque fuera
+dispuesta por ley e indemnizada previamente, sería inválida y el gobierno debería devolver
+el bien a su propietario. ‘La propiedad de una persona no puede ser tomada para el beneficio de otra sin
+una justificación de utilidad pública, aún cuando se haya pagado una compensación’.441 De esta manera
+se evita la tentación gubernamental de jugar al Robin Hood y sacarle la propiedad a uno
+para entregársela a otros.
+
+Sin embargo, una definición muy amplia de la utilidad pública puede llegar a que cualquier
+expropiación cumpla con este requerimiento. Se ha considerado que la utilidad pública se
+asocia con el ejercicio del poder de policía, un límite de razonabilidad. Existe utilidad
+pública si el gobierno actúa con una creencia razonable que la expropiación beneficiará al
+público. De esta menear existe una deferencia por parte de la justicia a las decisiones
+legislativas que determinan la causa de utilidad pública: ‘La Corte ha determinado claramente que
+no sustituye su opinión a la de la legislatura con respecto a lo que constituye la utilidad pública a menos que
+su determinación sea palpablemente sin un fundamento razonable.’442
+
+
+441
+      Cf. Thompson vs. Consolidated Gas Corp., 300 U.S. 55 (1937).
+442
+      Opinión de la Juez O’Connor en nombre de la Corte en 467 U.S. 241.
+
+[[PDF p. 15]]
+Esta opinión debe ser tomada con mucho cuidado, ya que en la declaración constitucional
+la protección requiere de determinar con claridad la utilidad pública. Porque de lo
+contrario sería transformar todos los bienes en fungibles para el gobierno, ya
+que una decisión legislativa permite apropiárselos mediante compensación. Pero el
+derecho de propiedad existe porque los bienes no son fungibles, y existen
+valores que las personas asignan a algunos de sus bienes que no pueden ser
+valorados debidamente por los precios del mercado. Este es el concepto de la
+propiedad psicológica que tiene una protección constitucional.
+
+
+      D. La indemnización previa.
+
+La indemnización además de previa debe ser justa, es decir debe ser pagada en plazo
+anterior a la desposesión del bien pero además, debe otorgar al dueño un
+resarcimiento adecuado a su perdida. La indemnización debe medirse en los
+términos de la perdida que ha sufrido el propietario, ya que es irrelevante la ganancia que
+hubiera podido tener el gobierno. En las palabras de Oliver Wendell Holmes la medida ‘es
+lo que ha perdido el propietario, no lo que ha ganado el expropiante.’443
+
+
+      E. La expropiación regulatoria.
+
+Tradicionalmente el concepto de expropiación fue limitado a situaciones en las que el
+gobierno se apropiaba de un bien y lo ocupaba físicamente. Este concepto limitado fue
+expresado por Joaquín V. Gonzalez durante el debate parlamentario de la primera ley de
+expropiaciones. Pero la experiencia judicial posterior ha ampliado el criterio. En el caso
+Pennsylvania Coal vs. Mahon (260 US 393, en 1922). la Corte Suprema de EEUU dijo
+que una expropiación también podía existir si la regulación gubernamental del uso de la
+propiedad iba ‘demasiado lejos’. El Juez Oliver Wendell Holmes dijo en nombre de la
+Corte que ‘cuando la regulación llegaba a cierta magnitud, en muchos, sino en todos los casos puede
+tratarse de un caso de dominio eminente y de la necesaria compensación para justificar el acto.’ Holmes
+reconoció que el gobierno no podría funcionar si tuviera que compensar a cada persona en
+los que el valor de la propiedad decreciera debido a la acción gubernamental, pero dijo que
+‘si bien la propiedad puede ser regulada hasta cierta extensión, si la regulación va demasiado lejos debe ser
+reconocida como una expropiación’
+
+El problema a definir entonces es cuando una reglamentación de un derecho de propiedad
+llega demasiado lejos y se transforma en una expropiación. Ya Holmes había dicho que se
+trataba de de una cuestión de grado y por lo tanto no podía ser decidida por proposiciones
+generales. Ello lleva a considerar las circunstancias de cada caso. Para ello se determinaron
+tres factores:
+    1) el impacto económico de la reglamentación en el recurrente,
+    2) la extensión en que la reglamentación ha interferido con las expectativas de
+         inversión, y
+
+443
+      Cf. Boston Chamber of Commerce v. Boston 217 U.S. 189.
+
+[[PDF p. 16]]
+      3) las características de la actividad gubernamental. 444
+
+Estos criterios conceden una gran discrecionalidad y su aplicación no puede ser uniforme,
+pero debe tenerse en cuenta que estos criterios se centran en los efectos económicos de las
+regulaciones gubernamentales y en la extensión en que interfieren en las expectativas
+razonables de los propietarios. Debe hacerse una lectura de las consecuencias de la
+regulación en algunos casos ignoradas por la reglamentación. El criterio principal a tenerse
+en cuenta es que una reglamentación es expropiatoria si no deja un uso
+razonablemente viable a la propiedad.
+
+En el caso Lucas el Juez Scalia señaló ‘Existes buenas razones para sostener
+nuestra creencia frecuentemente expresada que cuando el dueño de una bien
+ha debido sacrificar todos los usos económicamente beneficiosos de su
+propiedad en el nombre de un común, es dejar su propiedad económicamente
+inútil, ha sufrido una expropiación’.
+
+En el tema de la regulación expropiatoria la Corte Suprema Argentina ha asociado el
+concepto de protección del derecho a la propiedad por actos regulatorios con
+la idea del resarcimiento por actos legítimos del Estado, es decir la
+responsabilidad del estado a través de la indemnización que puede le estado debido a su
+responsabilidad que debe afrontar los daños y perjuicios que ha causado. El caso
+Valeria Crotto Posse de Daireaux y otros c- Provincia de Buenos
+Aires, Fallos 311 : 233, del 8 de marzo de 1988.Se trataba de los daños derivados de
+las inundaciones ocurridos en la provincia de Buenos Aires en la zona de las lagunas
+encadenadas. El gobierno de la provincia realizo algunas construcciones entre ella el canal
+Ameghino y como consecuencia de estas construcciones ocurrieron inundaciones en el
+campo de los recurrentes. “la Provincia de Buenos Aires es responsable por la inundación de la
+propiedad de la actora por los desbordes del arroyo El Huascar, cuyo caudal se vio incrementado
+considerablemente a raíz de la derivación, quedaba endicada imperfectamente, tiene importante masa de agua
+por acceso por el arroyo Sauce corto en la laguna Alsina procuraron impedir las autoridades provinciales’. En
+el caso Alberto Jaime Ventura c- Banco Central del 26 de febrero de 1976 la Corte
+Suprema considero la inconstitucionalidad de una circular del Banco Central, Nº 539, ya
+que afectaba el derecho constitucional de entrar, permanecer, transitar y salir del territorio
+argentino al imponer, a quienes hubieron dispuesto ejercerlo adquiriendo un pasaje al
+exterior, el pago de diferencias cambiarias que actuarían de modo de un impuesto al
+tránsito de personas. En este caso se plantea un precedente de expropiación regulatoria ya
+que una circular del Banco Central causaba un perjuicio en el derecho de propiedad de las
+personas incluyendo el derecho de entrar y salir del país.
+
+
+Los contratos en el Derecho Constitucional.
+
+
+
+444
+      Cf. Connolly v. Pension Benefit Guaranty Corp., 475 U.S. 211 (1986).
+
+[[PDF p. 17]]
+Las personas operan entre sí a través de una red de obligaciones, algunas vinculantes y otras
+no, a la cual ingresan a través de decisiones voluntarias o impuestas. Las obligaciones
+contractuales son voluntarias, como es la obligación del vendedor del bien a entregar
+la mercadería apropiada al comprador en el tiempo y lugar convenidos, y la obligación que
+tiene el comprador de pagar el precio en el momento establecido, estas obligaciones son
+vinculantes. Hay obligaciones no vinculantes asumidas libremente, como son las
+obligaciones sociales, la promesa de visitar a un amigo, y las obligaciones morales, que
+tradicionalmente se asocian con un jugador que paga lo que debe pagar por deudas de
+juego, aunque no pueda ser reclamado judicialmente. Las obligaciones extra
+contractuales, en la tradición romana se las llama responsabilidad aquiliana, son
+producto de la responsabilidad por daños. En todos estos casos desde el punto de vista
+económico, estamos tratando con derechos de propiedad, si bien son
+derechos de propiedad relativos.
+
+      A. Principios básicos de las obligaciones contractuales.
+
+El núcleo de los principios constitutivos de la economía de mercado, además del respeto de
+la propiedad privada, está constituido por los dos principios de las obligaciones
+contractuales:
+    1. El primero es la libertad de contratar,
+    2. el segundo es la responsabilidad que pueda surgir del contrato.
+Eucken menciona además a los principios:
+    1. la política de defensa de la competencia, en los que incluye,
+    2. moneda sana,
+    3. mercados abiertos y
+    4. estabilidad de la política económica.445
+
+
+      1. Libertad de contratar.
+
+El principio de libertad de contratar es central para el uso eficaz de los recursos. Esta
+libertad permite al dueño del derecho de propiedad, que es en general un haz o conjunto de
+derechos, de transferir su derecho y entregar los bienes a los cuales ese derecho se refiere a
+quien lo valora más. Ya que los derechos de propiedad pueden ser divididos de varias
+formas, los arreglos de transferencia pueden ser bastante flexibles. Por ejemplo, un
+individuo puede transferir sus derechos completamente, como cuando vende una casa, o
+hacer una transferencia limitada, como por ejemplo cuando alquila esa casa por un límite
+de tiempo. Nótese también que la transferencia de derechos de propiedad se refiere
+también a derechos de propiedad absolutos y relativos, por ejemplo los derechos de
+propiedad a la tierra y por ejemplo las obligaciones legales que surgen del contrato de
+empleo. En suma la libertad de contrato incluye
+    (i)     la libertad de concluir el contrato o no hacerlo,
+    (ii)     la libertad de elegir las personas con las cuales se contrata,
+
+
+
+445
+      Citado por Furubotn & Richter, Institutions and Economic Theory, p. 123.
+
+[[PDF p. 18]]
+   (iii)   la libertad de determinar el contenido del contrato, es decir, que las partes no
+           tienen que elegir dentro de una enumeración cerrada de contratos vigentes, sino
+           que puede crear nuevos tipos de contratos, y finalmente
+   (iv)    elegir las formalidades del contrato.
+
+La idea general subyacente en el principio de libertad de contratar es que cada individuo es
+libre de regular las circunstancias de su vida. Ya que los contratos pueden ser aplicados
+legalmente, los individuos crean ley en un nivel menor, un micro nivel al concluir contratos
+particulares dentro del marco del sistema jurídico. La libertad de contratar y la autonomía
+de la voluntad resultante, son el equivalente jurídico del principio de la descentralización de
+la decisión económica. La libertad de contratar es la condición previa para la existencia de
+la libre competencia. Pero también debe tenerse en cuenta que la libertad de contratar
+puede ser utilizada para establecer regímenes monopólicos. Por lo tanto, la defensa de la
+competencia es el fundamento principal para la regulación de la libertad contractual.
+
+
+   2. La libertad de contratar y la autonomía de la voluntad
+
+Ya que los contratos pueden ser afectados legalmente, los individuos crean derecho en un
+nivel menor al concluir contratos particulares, dentro del marco de los contratos existentes,
+del derecho de contratos existente en el sistema jurídico. La libertad de contratar y la
+autonomía privada resultante, pueden por lo tanto ser consideradas como la contraparte
+legal del principio de descentralización de la toma de decisiones económicas. Este principio
+es aparentemente una precondición de la realización de la libre competencia, pero la
+libertad de contratar también puede servir para abolir la libre competencia con el fin de
+crear un sistema monopólico. El principio de libertad de contratar si se dejara íntegramente
+a sí mismo, puede establecer condiciones, en el cual el principio puede no mantenerse a
+largo plazo. Por esta razón, se puede decir que la libertad de contratar debe ser protegida
+por el Estado a través de la creación de un orden de libre competencia. Debe tenerse en
+cuenta sin embargo que en un mundo caracterizado por la disminución de los costos de
+información y de transporte el problema del monopolio aparece menos peligroso que lo que
+probablemente pudiera temerse en un principio. Por lo tanto el principio del libre comercio
+y otras fuerzas que conducen a los mercados abiertos pueden ser una ayuda considerable en
+mantener un sistema de libre competencia.
+
+Puede haber otras precondiciones y limites necesarios para asegurar la libertad de
+contratar, para que la libertad de contratar funcione. En particular el principio requiere la
+libre voluntad de las partes contratantes, y la protección de los intereses de terceros. De
+forma análoga en el derecho de propiedad que tienen los individuos, en el caso de contratos
+utilizan esta libertad para concluir contratos que deseen unos con otros siempre que sus
+acuerdos no entren en conflicto con sus derechos y con los derechos de terceras personas.
+
+El debate sobre la protección constitucional de los contratos y su asociación con el derecho
+de propiedad para la plena protección de la propiedad ha sido resuelto tempranamente por
+nuestra Corte Suprema en el caso Bourdieu. Allí se afirmó que todo derecho que tenga un
+valor reconocido como tal por la ley, sea que se origine en las relaciones de derecho
+privado, sea que nazca de actos administrativos (derechos subjetivos privados o públicos), a
+
+[[PDF p. 19]]
+condición de que su titular disponga de una acción contra cualquiera que intente
+interrumpirlo en su goce así sea el Estado mismo, integra el concepto constitucional de
+"propiedad".
+
+   3. La Responsabilidad contractual.
+
+La libertad de contratar no excluye la actividad del Estado. El principio de libertad de
+contratar funciona bien solamente si las obligaciones a las cuales se llegó libremente pueden
+ser hechas cumplir por el Estado en caso de incumplimiento por una de las partes. Una
+economía de mercado se caracteriza por la estricta observancia de este tipo de intervención
+estatal. La función de liquidez, es decir, la capacidad para cumplir el pago de las
+obligaciones, aparece claramente en este contexto. Se puede ver que la obligación de los
+individuos o empresas para permanecer líquidos por sus propios esfuerzos puede ser menos
+crucial si el Estado está dispuesto a intervenir en las actividades empresarias. El Estado
+puede tomar, a través de compromisos oficiales o extraoficiales a ir a la ayuda de empresas
+estatales con necesidad de liquidez. Pero el uso de aproximación de presupuestos blandos
+significa una desviación del sistema económico de los requerimientos de un sistema de
+mercado. Esto es así porque con la potencial intervención estatal, la asignación de recursos
+no está determinada exclusivamente por las fuerzas del mercado. En general, en ese caso, la
+ayuda de organismos del Estado remplaza al mercado como director de la asignación de
+recursos.
+
+Esta ‘santidad de la promesa’ concierne a todo tipo de obligaciones contractuales. Sin
+embargo, la situación financiera de los contratos de largo plazo es de interés particular
+para los economistas. Es aquí donde entran los mercados financieros en la organización de
+la economía. El control de los medios financieros por bancos o intermediarios financieros
+con intereses directos en el resultado del proceso de asignación de recursos es inevitable. A
+menos que haya una planificación centralizada, el sistema financiero se transforma en la
+parte central de la asignación de recursos. El sistema financiero es esencialmente un
+mecanismo capitalista, y para asignar recursos eficientemente en el margen confía en la
+modificación de incentivos a los dueños de capital, por ejemplo subiendo o bajando la
+productividad marginal de capital real que viene a ellos a través de la modificación del
+costo de financiación.
+
+
+El concepto de contrato.
+
+Tanto constitucionalmente como en términos económicos, la palabra contrato describe un
+concepto ambiguo. Podemos recordar las palabras de Karl Llewellyn, que era un jurista del
+realismo jurídico distinguía cuatro usos del término contrato:
+    1. Arreglos de hecho en el medio empresario, y como tales, independientemente de sus
+       consecuencias legales, o de si tienen consecuencia legal alguna.
+    2. Arreglos de hecho con consecuencias legales.
+    3. Los efectos legales de las promesas y
+
+[[PDF p. 20]]
+    4. La escritura incorporada en un acuerdo que se asume que va a tener consecuencias
+       legales.446
+El derecho contractual tiene su origen en la noción que los funcionarios deben aplicar, o al
+menos deben buscar la aplicación, de algunos de los compromisos o promesas hechas por
+los hombres.
+Podemos agregar un concepto que surge tradicionalmente de los códigos civiles y que nos
+daría un quinto concepto de contrato:
+    5. Un acto jurídico que normalmente consiste en dos declaraciones de voluntad.
+
+Ya que las teorías jurídicas de contrato no son exclusivamente temas constitucionales o
+económicos, utilizaremos una concepción constitucional sobre las observaciones teóricas del
+concepto de contrato. El concepto constitucional del contrato esta cercano a la
+concepción planteada en Llewellyn en el sentido de los efectos legales de una
+promesa. Una promesa en este contexto es comprendida como el compromiso para
+actuar más tarde. La diferencia entre los conceptos de promesa y de privación de voluntad
+de manera diferente a la estipulada en el contrato, es que el primero supone que el tiempo
+está incluido de una manera esencial. Esto incluye la confianza en las reacciones futuras de
+quien promete, y que compromete a quien dio esa promesa. Desde el punto de vista
+evolutivo, prometer y comprometerse puede considerarse como una convención, como una
+costumbre. La costumbre de prometer tiene un fin muy general bajo el cual puede traerse
+un número muy importante de fines. Al comprometerme, puedo facilitar el proyecto de los
+demás porque puedo hacer posible a los otros que cuenten con mis futuras conductas.
+
+La teoría económica trata fundamentalmente de las situaciones de intercambio en la cual la
+ganancia es recíproca para las partes que se comprometen a una transacción. En un
+intercambio simultáneo no hay necesidad de compromiso, pero cuando el comercio tiene
+lugar a través del tiempo, la situación es diferente. Las condiciones deben ser tales como
+para permitirme hacer A para usted cuando usted lo necesite en la creencia de confianza
+que usted va a hacer B cuando yo lo necesite. Su compromiso pone su futuro también en
+mis manos en el presente, de la misma manera que mi compromiso pone mi futuro en sus
+manos. Un intercambio futuro se transforma en un intercambio presente, y con el fin de
+cumplir esto todos necesitamos un sistema convencional que podamos invocar las dos
+partes.
+
+Existen costumbres como el lenguaje en el cual cada persona tiene interés en que los
+demás la cumplan, si todos los demás lo cumplen se utilizará, de lo contrario nadie se
+entendería. Estas costumbres tienden a ser formadas sin la necesidad de un mecanismo
+especial de cumplimiento. Sin embargo, el compromiso es diferente porque, a diferencia del
+lenguaje, puede ser en el interés de quien se compromete no cumplir con la
+costumbre cuando el tiempo llegue de cumplir con su promesa. Por lo tanto los
+contratos son promesas que pueden ser aplicables legalmente.
+
+La aplicación legal no trae problemas si los términos del contrato son completos y
+verificables de todas las posibles contingencias que se han asumido. Este es el tipo ideal del
+
+446
+    Karl Llewellyn, What Price Contract? An Essay in perspective. Yale Law Journal
+40:704, 1931.
+
+[[PDF p. 21]]
+contrato completo, que puede ser comprendido con los corolarios legales del modelo de los
+mercados perfectos, en los cuales las relaciones personales no tienen una función. Estas
+‘transacciones discretas’ son también los modelos de las doctrinas clásicas jurídicas del
+contrato. En la actualidad esas transacciones continúan, pero están superadas por contratos
+relacionales de largo plazo, como franquicias, negociaciones colectivas, contratos de muy
+largo término de provisión de materiales, contratos de servicios públicos, etc. Podemos
+agregar que las relaciones comerciales de largo plazo han cumplido una función a través de
+la historia económica. En el mundo real los contratos son incompletos, son incompletos más
+allá de los límites elementales que pueden ser cubiertos por los términos de incumplimiento
+asumidos por el sistema jurídico, esto es los términos en que la legislación suple lo que las
+partes no han puesto en el contrato. Las partes de un contrato no pueden conocer todas las
+contingencias posibles, y en cualquier evento sería demasiado costoso intentar escribir
+disposiciones para cubrir todas las contingencias dentro del contrato. Por lo tanto, quienes
+toman la decisión pueden considerar ventajoso ingresar en un intercambio cooperativo
+de relaciones o buscar mecanismos contractuales para resolver esta situación. Estos
+contratos relacionales son relevantes para referirse a las relaciones de agencia. Un
+contrato relacional existe en la medida que las partes son incapaces de
+reducir términos importantes del acuerdo a obligaciones bien definidas. Los
+contratos de largo plazo entran más fácilmente en éste concepto que los de corto plazo.
+
+Es posible pensar en términos de un espectro continúo de diferentes tipos de contratos
+definidos desde el punto de vista jurídico. En un extremo tendremos el contrato clásico, y
+en el otro extremo del espectro encontraríamos relaciones o arreglos más generales, como
+sería el matrimonio o las relaciones de trabajo. Los contratos en un extremo relacional
+disponen fuertes compromisos personales, son de largo plazo y anticipan la posibilidad de
+inconvenientes como parte normal de una asociación continúa entre las partes al contrato.
+Cualquier dificultad que aparezca, ya sea tratada por medios de cooperación o técnicas
+relacionales.
+
+
+La libertad de contratar.
+
+
+La libertad contractual y la razonabilidad económica.
+
+La Corte Suprema sobre el respeto de la voluntad de las partes aún en el caso de los
+contratos administrativos:
+       Los        contratos        deben       celebrarse,      interpretarse        y       ejecutarse       de
+       buena       fe     y     de     acuerdo      con     lo      que      verosímilmente       las     partes
+       entendieron      o      pudieron      entender,     obrando       con      cuidado       y     previsión,
+       principios       aplicables       al      ámbito      de       los       contratos       administrativos.
+       Por ello, es dable exigir a las partes un comportamiento coherente
+       ajeno      a      los     cambios       de      conducta      perjudiciales,      desestimando      toda
+       actuación      que     implique      un     obrar    incompatible       con     la     confianza      que
+
+[[PDF p. 22]]
+       merced      a     sus   actos    anteriores-   se    ha     suscitado    en    el    otro
+       contratante.447
+
+El respeto de la voluntad de las partes debe ser mantenido salvo la excepción de nulidad:
+       Así       como       es      inadmisible     una    interpretación     que   equivalga  a
+       prescindir de la norma en tanto no medie concreta declaración de
+       inconstitucionalidad,       de       igual    forma      es      también   desechable  la
+       exégesis judicial que prescinde de un contrato o de alguna de sus
+       partes sin previa declaración de nulidad.448
+
+
+
+Las libertades económicas son generalmente los derechos constitucionales relativos a la
+habilidad de negociar, concluir y hacer cumplir contratos, ejercer una profesión o una
+industria adquirir y transferir propiedad, no son el contenido estricto del derecho de
+dominio sino como un derecho más amplio al patrimonio. Dentro de las variación del
+concepto de las libertades económicas hay una evolución a las referencias de la Corte
+Suprema que ha tenido un origen respetuoso de las libertades económicas para a partir de
+la década del `30, con la utilización de los concepto de poder de policía amplio y de teoría
+de la emergencia, ingresar en limitaciones considerables para las libertades económicas
+frente a las libertades civiles. El concepto de libertades económicas está asimismo asociado
+al de debido proceso de ley ya que la Corte Suprema de Estados Unidos utilizó el
+principio que nadie puede ser privado de su propiedad sin debido proceso de ley449 para
+expandir las libertades económicas a partir de fines del siglo XIX. Este concepto influiría
+nuestro derecho conformando las bases del control de razonabilidad económica.
+
+El concepto de libertades económicas también tiene una base contractualista ya que el
+concepto de contrato social es una de las maneras por las cuales las personas establecen
+limitaciones a la actividad estatal frente a un poder de una mayoría circunstancial que
+pudiera querer expropiar o apoderarse de bienes de una minoría que no pudiera
+defenderse. Este concepto del pacto social y de las libertades económicas aparece desde
+muy antiguo en los fallos de la Corte Suprema de Estados Unidos. En el caso Fletcher vs.
+Peck del 10 U.S. 87 de 1810 en una opinión que afirmaba John Marshall sostuvo que
+era inconstitucional para el estado de Georgia rescindir lo que había sido una donación de
+tierras efectuada por el mismo estado. El argumento era que el poder legislativo estaba
+limitado por la palabra de la Constitución pero también por los principios
+generales de las instituciones políticas y como el titulo había sido concedido a
+propietarios inocentes la ley que rescindía esa donación era inconstitucional porque
+interfería con derechos adquiridos. En ingles derechos investidos. En este fallo
+Marshall considera que estos derechos adquiridos estaban protegidos tanto por el texto de
+la Constitución como por el derecho natural.
+
+447
+    Corte Suprema, 9 de junio de 1988 Juan María de Vido e Hijos S.C.A. c/ Dirección
+Nacional de Vialidad s/ nulidad de resolución.
+448
+    Corte Suprema 30 de marzo de 1993. Vicente Robles SAMCICIF c/ Estado Nacional
+(Servicio Nacional de Parques Nacionales) s/ nulidad de resoluciones.
+449
+    En la expresión de la Décimo Cuarta enmienda Sección 1 ‘…ni ningún estado
+privará a persona alguna de la vida, libertad, o bienes, sin el debido proceso de ley.’
+
+[[PDF p. 23]]
+En una opinión similar en Terrett vs.Taylor 13 U.S. 43 de 1815 el juez Story sostuvo que
+una interferencia con los derechos de propiedad adquiridos violaban lo principios de la
+justicia natural y la leyes fundamentales de cualquier gobierno libre. El concepto del debido
+proceso económico tuvo variaciones primero en el Caso de los Mataderos de 1873 luego
+debatido en los casos Allgeyer vs. Louisiana 165 U.S. 578 (1897) y Lochner vs. New York
+198 U.S. 45 de 1905. Contemporáneamente una opinión similar se ha sostenido en el caso
+Hileret y Rodríguez c/ Provincia de Tucumán. (Fs. 98:24). Estas doctrinas tanto la de
+Lochner como la de Hileret fueron limitadas por los casos Avico c. De la Pesa en la
+Argentina, y en Estados Unidos en el caso West Coast Hotel en el año 1937.
+
+
+Doctrina de la deferencia.
+
+Esta doctrina duró por un largo periodo en los Estados Unidos y de alguna manera señaló
+que el poder judicial mostraba una deferencia hacia las opiniones de la legislatura
+en materia de regulación económica, es decir en la limitación de los derechos individuales
+económicos, en la medida que fueran razonables. En el fallo U. S. vs. Carolene
+Products de 1938, la Corte Suprema concedió estableció una manera de leer o de
+interpretar la Constitución pero en ninguno de esos casos establecía como prioritaria una
+interpretación amplia de las libertades económicas. Esta deferencia al legislativo para la
+elección de una política económica aun cuando limite libertades individuales en la medida
+que sean razonables, encuentra dos límites importantes:
+    1. uno es la libertad de contratar y
+    2. la otra son las expropiaciones, que ya hemos analizado.
+
+
+La interpretación de la clausula contractual.
+
+Los problemas relativos a la interpretación de la cláusula contractual están
+asociados a dos principios
+    1. uno es el de un control de razonabilidad en cuanto a evitar ser privado de la
+        propiedad sin el debido proceso de ley, y
+    2. en otro es el referido a los derechos adquiridos que surgen de los contratos.
+La cláusula contractual no limita la habilidad o la capacidad de los gobiernos de regular los
+términos de contratos frustrados sino se refiere a la actividad gubernamental que interfiere
+con las condiciones de contratos que estén en cumplimiento los contratos existentes. El
+fundamento histórico de la idea del respeto de los contratos es el temor existente en que el
+deudor aprovechara o presionara para una regulación que le permitiera salir
+de su deuda sin cumplir pago a expensas del acreedor. Debe tenerse en cuenta
+que no existe en general una situación en la cual en deudor sea la parte débil y el acreedor
+la fuerte que estaría de acuerdo a los contratos. El objetivo de la cláusula contractual no es
+el de proteger a los acreedores en forma desmedida sino también proteger al crédito ya que
+se asegura a quienes entreguen bienes no dinero que serán reparados o pagados en su
+momento. Sin esta protección no habría contratos validos, no habría por lo tanto créditos
+ni transacciones firmes.
+
+[[PDF p. 24]]
+El derecho de los contratos está asociado al concepto de crisis económica a partir
+fundamentalmente del fallo Avico c. De la Pesa aunque en casos anteriores
+fundamentalmente en Ercolano c. Lanteri de Renshaw, Mango c. Traba y otros
+había existido una regulación contractual. Pero es a partir de Avico contra De la Pesa
+donde se establece las condiciones de la emergencia económica y por lo tanto de la
+regulación de los contratos.
+
+La Corte Suprema de Estados Unidos ha hecho una distinción cuando se reglamentan
+contratos entre particulares: una ley o una norma regulatoria será considerada
+inconstitucional si hay una limitación sustancial del contrato y si la ley al mismo tiempo es
+irrazonable para servir un objetivo o un fin publico significativo legítimo. Esto esta en el
+caso Energy Reserves Group vs. Kansas 459 U.S. 400 de 1983. Sin embargo hay
+un criterio más estricto cuando la regulación se refiere a contratos administrativos
+que recibirán un escrutinio mayor que cuando existe una interferencia con contratos entre
+particulares, porque debe existir una desconfianza en la actividad gubernamental
+cuando está actuando en el propio interés. Caso United States Trust Company
+vs. New Jersey 431 U.S. 26.
+
+En el caso Dartmouth College vs. Woodward 17 U.S. 518 de 1819 que trataba de
+una situación que la Corte Suprema declaró inconstitucional una ley del estado de Nueva
+Hampshire que modificada los estatutos que habían sido establecidos para la organización
+de este colegio de Dartmouth. Estos estatutos organizaban una institución privada y el
+estado intentaba cambiar esta situación para ubicar al colegio para el control del estado. La
+Corte Suprema declaró inconstitucional esta norma por ser violatoria la cláusula
+contractual aunque el juez Marshall admitía que:
+        “es más que probable que la preservación de derechos de esta descripción no estaba particularmente
+        en la visión de los constituyentes”.
+En el mismo fallo el juez Story indicaba que el estado al conceder la carta, es decir los
+estatutos, podría haberse reservado la capacidad de reformarlos, cuestión que no había
+hecho. Estos casos se asocian la posibilidad de que el gobierno modifique su propia
+promesas u obligaciones y la Corte Suprema de Marshall aplico la cláusula contractual para
+evitar que el gobierno interfiriera en sus contratos con particulares.
+
+Marshall continúo con esta opinión en el único disenso que tuvo durante muchos años
+como presidente de la Corte Suprema en el caso Ogden vs. Saunders 25 U.S. 213 de
+1827. Marshall sostuvo basado en principio de derecho natural que los gobiernos no tenían
+capacidad de dictar los términos de contratos futuros para proteger a los deudores en caso
+de que fueran insolventes. Esto no impedía, por supuesto, que el gobierno pudiera subsidiar
+los contratos de otra manera. La mayoría de la Corte Suprema en este caso consideraba
+que se podía regular las características de contratos frustrados.
+
+En el caso Stone vs Missisippi 101 U.S. 814 de 1880 la Corte Suprema de Estados
+Unidos consideró que la cláusula contractual no era absoluta ya que el gobierno podía
+interferir aun en contratos existentes si el objetivo era cumplir con una norma valida del
+poder de policía porque ninguna legislatura podía limitar el poder de sus sucesores de
+hacer normas o leyes que fueran convenientes en cuestiones de policía. Esta posición de la
+Corte Suprema varió a partir de la década del `30 en Estados Unidos en el caso Home
+
+[[PDF p. 25]]
+Building Assoc. y en la Argentina en el caso Avico que transcribió este último en su
+totalidad. Ahí surgieron los conceptos de emergencia económica y e poder policía amplio.
+
+En el caso Energy Reserves Group vs. Kansas 459 U.S. 400 de 1983 la Corte
+Suprema estableció el holding en materia de contratos.
+      “La investigación inicial es saber si la ley estatal opera en los hechos como una limitación sustancial
+      de una relación contractual... si la regulación estatal constituye una limitación sustancial, el
+      estado para justificarla tiene que tener un objetivo legítimo significativo detrás de la
+      regulación, de manera que sea el remedio de un problema social económico amplio y general.... una
+      vez que ha sido identificado un objetivo publico legítimo, la siguiente investigación es saber si es
+      razonable y si es de un carácter apropiado para un objetivo público que
+      justifique la adopción de la legislación. A menos que el estado sea en sí mismo una parte contratante,
+      como es habitual al realizarse la regulación social y económica, los tribunales conceden un
+      reconocimiento adecuado a las valoraciones legislativas sobre la necesidad y razonabilidad de una
+      medida particular.”
+
+En otras palabras cuando el gobierno interfiere en contratos entre particulares se utiliza una
+regla consistente en tres partes:
+    1. si existe una limitación sustancial a la relación contractual;
+    2. si es así, si sirve a un objetivo público y significativo y legitimo
+    3. si es razonable en relación con el objetivo buscado.
+
+Los casos referidos a contrataciones públicas tienen un estándar mucho más estricto.
+
+
+        La interferencia gubernamental en los contratos administrativos.
+
+En el caso United States Trust Company vs. New Jersey 431 U.S. 1 de 1977 la
+Corte Suprema indicó que la interferencia gubernamental en los contratos administrativos
+estaría sujeta un escrutinio más estricto.. En este caso la Corte enfatizó su desconfianza del
+gobierno o del estado cuando limita sus propios contratos el juez Blackmun dijo en la
+opinión de la Corte Suprema:
+        “la deferencia completa a la evaluación legislativa sobre la
+        razonabilidad y la necesidad no es apropiada cuando está en juego un
+        interés propio del estado. Una entidad gubernamental siempre puede
+        encontrar una utilización para más dinero, especialmente cuando no se
+        han podido aumentar los impuestos. Si el estado pudiera reducir sus
+        obligaciones financieras cada vez que desea gastar el dinero para lo que
+        estaba destinado para lo que se consideraba un objetivo público
+        importante, no puede haber una protección de la cláusula contractual.”
+
+[[PDF p. 26]]
+La emergencia perpetua.
+                   ‘En la figura que se llama oximoron, se aplica a una palabra un epíteto que parece
+                   contradecirla; así los gnósticos hablaron de luz oscura; los alquimistas, de un sol negro.
+                   Salir de mi última visita a Teodelina Villar y tomar una caña en un almacén era una
+                   especie de oximoron; su grosería y su facilidad me tentaron.’450
+Como el ‘sol oscuro’ nuestros jueces crearon la ‘emergencia perpetua’, a prueba de tiempos
+y de tasas de crecimiento económico, hay una teoría que imagina que nuestros derechos
+pueden ser cercenados debido a la necesidad de controlar una emergencia indefinible.
+El concepto de emergencia económica fue creado por los fallos que establecieron el
+concepto amplio de poder de policía y de esta manera establecieron una distinción entre las
+libertades civiles, que podrían limitarse fundamentalmente en el caso del estado de sitio y
+las libertades económicas que podrían verse restringidas cuando las circunstancias lo
+indicaran. El holding de Avico c/ de la Pesa estableció algunos límites a la actividad
+regulatoria estatal en caso de emergencia económica pero debido a una muy amplia
+interpretación del concepto de emergencia los límites rara vez se aplicaron y se implantó
+una claudicación judicial en la protección de las libertades económicas. El concepto de
+emergencia económica ha sido siempre borroso basta recordar las palabras de ahora
+rejuvenecido caso Arcenio Peralta451 “que exista una situación de emergencia que imponga al Estado
+el deber de amparar los intereses vitales de la comunidad.” Es una definición abierta que permite la
+inclusión de circunstancias muy variadas sobre todo si “abarca un hecho cuyo ámbito temporal
+difiere según circunstancias modales de épocas y sitios”. Considera además este fallo que las
+limitaciones constitucionales establecidas en defensa de los derechos económicos “suelen
+adolecer de patética ineficiencia frente a la crisis.”
+La noción de emergencia económica es una claudicación del control judicial
+para la garantía de las libertades económicas porque una vez establecida la
+existencia de una crisis se le otorga al Congreso y al Ejecutivo una libertad amplia para
+regular la vida económica. Generalmente la actividad realizada por los poderes políticos ha
+agravado la situación que pretendía remediar. La respuesta a esta grave situación es el
+restablecimiento del control judicial en defensa de las libertades económicas de la misma
+manera que se efectúa en el caso de las libertades civiles. Al mismo tiempo el
+reconocimiento del debido proceso económico o de razonabilidad económica como forma
+de control adecuado de las decisiones tomadas por los poderes políticos durante la situación
+de emergencia.
+
+La división entre libertades civiles y económicas.
+Podemos resumir la evolución desde la protección de los derechos individuales de
+naturaleza económica, Alberdi señalaba que:
+450
+   Jorge Luis Borges. El Zahir. En El Aleph Obras Completas. Emecé Editores. 1974.
+p.590.
+451
+   Digo rejuvenecido porque había sido reformado por la reforma de 1994 y la
+interpretación del caso Ezio Verrocchi, pero es citado por alguna doctrina como
+vigente.
+
+[[PDF p. 27]]
+La libertad económica es para todos los habitantes, para nacionales y extranjeros, y así debía de ser. Ceñirla
+a sólo los hijos del país, habría sido esterilizar este manantial de riqueza, supuesto que el uso de la libertad
+económica, más que el de la libertad política, exige, para ser productivo y fecundo, la aptitud e inteligencia
+que de ordinario asisten al trabajador extranjero y faltan al trabajador argentino de esta época.452
+La doctrina inicial de la Corte Suprema fue la de la protección de las libertades
+económicas, veamos el caso Hileret.453
+Esta visión será abandonada a partir de la década del ’20, aunque no en forma pacífica.
+
+La disidencia del Juez Bermejo en el caso Ercolano c/ Lanteri de
+Renshaw.
+El problema de la reglamentación que limita los derechos individuales y en particular
+económicos, el que se inicia con propuestas que parecen de poca importancia pero que
+luego al establecerse como un discurso constitucional plenamente instalado tienen
+consecuencias inesperadas y a veces extremas y probablemente nunca imaginadas por
+quienes iniciaron el proceso. En los años ‘20 en un Buenos Aires hubo alguna escasez de
+viviendas, a ocasionó vanas sin plazos que se renovaban mes a mes y que llevó a que
+hubiera un aumento en los precios. La legislación cambió el código civil y estableció
+algunos pasos mínimos para los contratos de locación las urbanas además de un
+congelamiento de precios. El caso llegó hasta la Corte Suprema donde se consideraron las
+más extrañas doctrinas. Por ejemplo la mayoría de la corte sostuvo la idea que locadores de
+viviendas urbanas habían constituido un monopolio de hecho. Si la idea del monopolio la
+de fijación de precios más elevados a través de una reducción artificial de la oferta, esta
+explicación era absurda. Habría un gigantesco oligopolio que supondría la concertación
+entre miles de locadores, que iban desde quienes tenían una pieza en el fondo de sus casas,
+hasta quienes poseían edificios enteros de renta. Además, este oligopolio sería inestable ya
+que quienes quisieran alquilar por menos precio podrían hacerlo y obtendrían una más
+rápida locación que los demás monopolistas. Lo que en realidad hay ocurrido, es que los
+precios habían aumentado en un ajuste natural del mercado, esto tendría la consecuencia
+de que más habitaciones y casas saldrían en alquiler y que con esta mayor oferta habría una
+solución a la ausencia de inmuebles para viviendas en el mercado. La corte no lo entendió
+así, para justificar esta medida que era contraria al derecho de contratar existente en la
+constitución hasta ese momento recurrió a estos argumentos inexplicables, como el
+monopolio de hecho, y de esta manera tuvo el efecto contrario hubo menos oferta de casas
+para locación hubo más personas que buscaron locaciones ya que estaban un precio más
+bajo y la crisis hubiera aumentado si no hubiera sido que la expansión económica de la
+Argentina de la época no hubieron resuelto los problemas por sí solos. La corte se
+arrepintió y en fallos posteriores y limitó las consecuencias de este caso, o sin embargo
+quedó en los libros. A pesar de una elocuente disidencia del presidente de la corte se creó
+un precedente que sería citado año tras año sus profesores y alumnos de derecho y utilizado
+para profundas regulaciones en que la economía argentina.
+El origen de este abandono judicial en la protección de los derechos económicos debe
+asociarse a la distinción que hace la jurisprudencia entre libertades civiles y económicas en
+cuanto a su protección. Si bien las libertades civiles mantuvieron una protección
+
+452
+      Alberdi, Sistema Económico y Rentístico. Editorial Luz del Día. 1954.
+453
+      El caso Hileret y Rodríguez c/ Provincia de Tucumán. (Fs. 98:24).
+
+[[PDF p. 28]]
+relativamente amplia durante el pasado siglo no es este el caso en cuanto a los derecho
+económicos por lo menos desde el caso Ercolano c/ Lanteri de Renshaw, del 28 de
+abril de 1922 Fallos 135:170. En su disidencia en el caso el Juez Bermejo planteó las
+dificultades de la regulación de los precios de mercado y al reconocimiento de la protección
+judicial de los derechos económicos.
+10°) Se dice que la escasez de habitaciones constituye la razón de Estado que autoriza la imposición de
+reducciones en los alquileres. Pero esa escasez en un momento dado puede ser sobreabundancia en otro v la
+misma razón de Estado llevaría a imponer autoritariamente el aumento del alquiler, lo que en definitiva
+significaría la desaparición de propietarios y de inquilinos reemplazados por el Estado que se habría
+convertido en empresario de un inmenso falansterio.
+20°) No se concibe, en efecto, cómo pueda decirse que todos los habitantes de la Nación tienen el derecho de
+"usar y disponer de su propiedad" -que no goza de franquicia o privilegio alguno ni daña a terceros- si se
+admite que, por vía de reglamentación o de otra manera, otro habitante, que no es el dueño, pueda fijar por sí
+y ante sí el precio de ese uso o de esa disposición.
+27) Las simples alternativas de la oferta y la demanda, comunes a todos los negocios, no constituyen un
+privilegio de hecho que los entregue a la imposición de precios por el gobierno. y la doctrina del "monopolio
+virtual" no cabe en nuestra Constitución
+
+El caso Avico c/ de la Pesa y Home building Association.
+En 1933 se falló el caso Home Building & Lone Association v. Blaisdell que tuvo una vasta
+influencia en nuestro país ya que fue luego incluido en su integridad en el fallo Avico c/ de
+la Pesa. Se trataba de una ley que limitaba los efectos de la crisis en las hipotecas de las
+viviendas postergando el plazo de vencimiento en caso de falta de pago. En el fallo se
+establecen cinco criterios para determinar la emergencia económica y sus consecuencias. La
+definición de emergencia, en el caso se circunscribe a la situación de las hipotecas sobre
+viviendas: “la perdida de hogares y tierras que proveen a quienes las poseen el refugio y la subsistencia
+necesarios son una causa potente para la aprobación de una ley de emergencia”. Es decir la emergencia
+tiene una definición estricta.
+La legislación está dirigida a un fin legítimo, es decir no era para la mera ventaja de
+individuos particulares sino para la protección de un interés básico de la sociedad.
+En virtud de la naturaleza de los contratos en cuestión (hipotecas de incuestionable validez)
+el alivio concedido y justificado por la emergencia para no ser contrario a las disposiciones
+constitucionales deber el apropiado para esa emergencia concreta y solo puede ser
+concedido en condiciones razonables.
+Las condiciones sobre las que se concede el período de gracia no deben ser irrazonables. El
+alivio concedido por la ley de emergencia debe tener en cuenta los intereses de ambas
+partes.
+La legislación debe ser limitada en el tiempo, es limitada por la exigencia que la causó.
+El caso Oscar Agustín Avico c/ Saúl de la Pesa454, constituye el precedente principal en
+materia de emergencia económica, ya que establece su definición y límites, sigue vigente
+hasta nuestros días. Curiosamente traduce íntegramente el caso Home Building Assoc.
+como fundamento. Impone los mismos requisitos: definición estricta de la emergencia,
+objetivo legítimo, que el alivio sea el adecuado a la emergencia, que sea en beneficio de
+ambas partes y particularmente, la limitación de la emergencia en el tiempo.
+
+
+454
+      Del 7 de diciembre de 1934, Fallos 172:29.
+
+[[PDF p. 29]]
+Como en todas las cuestiones en que aparece la pendiente resbaladiza parecía una solución
+razonable, y sin embargo iniciaría el camino hacia la emergencia permanente.
+En su disidencia el Dr. Roberto Repetto, previno:
+Si la propiedad privada en virtud de la reglamentación derivada del poder de
+policía pudiere ser quitada a una o más personas para darla a otra o a otras
+por razones de orden público sin indemnización, se habría creado un poder
+desconocido e inesperado dentro de la Carta Fundamental, llamado a anular el
+principio de la inviolabilidad de la propiedad tan enfáticamente proclamado
+por ella.
+Predijo lo que sería la expropiación regulatoria, es decir la expropiación de bienes sin
+indemnización, simplemente por reglamentaciones tan onerosas que obligaran al dueño a
+vender a precio vil.   455
+
+
+Fue el inicio de la diferenciación de las libertades civiles de las económicas y dejar una
+mayor permisividad del control de éstas últimas. Esta posición de distinción entre libertades
+civiles y económicas fue expresada en forma terminante por Hugo Black en el caso
+Ferguson v. Skrupa 372 US 326 (1963) donde dijo con referencia a las doctrinas
+económicas, “nos negamos a ser una super legislatura que valore la sabiduría de la legislación, y
+enfáticamente nos negados a volver al tiempo en que los tribunales utilizaban el Debido Proceso para eliminar
+leyes estaduales, regulatorias de las condiciones del comercio y la industria porque fueran poco sabias,
+imprudentes o inarmónicas con una escuela particular de pensamiento. Ya fuera que la legislatura utilice el
+texto de Adam Smith, Herbert Spencer, Lord Keynes, o algún otro no es algo que nos concierna.” De esta
+manera la Corte confundió doctrinas económicas aplicables con las libertades económicas
+establecidas en la Constitución.
+Esta doctrina fue revisada y en el caso Lynch v. Household Finance Corporation456 la
+Corte dijo“La dicotomía entre libertades personales y derechos de propiedad es
+falsa. La propiedad no tiene derechos. El agente tiene derechos. El derecho a gozar
+de su propiedad sin una privación ilegal es en verdad un derecho “personal” en no menor medida que la
+libertad de expresión o el derecho a viajar, En los hechos una interdependencia fundamental existe entre el
+derecho personal a la libertad y el derecho personal a la propiedad. Ninguno tiene sentido sin el
+otro.”
+Esta doctrina fue ignorada por nuestra Corte Suprema.
+
+Las películas sonoras. El caso Cine Callao.
+Todo se debió a la a la creación del cine sonoro. Con las películas mudas, era necesaria
+alguna forma de acompañamiento musical para limitar el silencio de la proyección. Hacia
+fines de los años en los años 20 se comenzó a investigar sobre la nueva tecnología, la de las
+películas sonoras primero fue "El cantor de jazz" como primera película con sonido, en la
+Argentina fue "Tango". Este cambio de tecnología tuvo enormes efectos y sin duda atrajo
+muchas personas a espectáculos cinematográficos, pero tuvo la consecuencia de que no era
+necesaria ni orquestas ni pianistas individuales para acompañar los espectáculos hasta ese
+momento silenciosos. Y es aquí cuando parece el absurdo regulatorio, muchos años
+después, en 1943, cuando probablemente los músicos que alguna vez habían estado
+empleados en los cines para acompañar las películas mudas, habrían encontrado alguna
+otra forma de trabajo, la reglamentación estableció que debían emplearse forzosamente
+455
+    En los Estados Unidos fue declarada inconstitucional en el Caso Lucas vs. South
+Carolina del año 2001.
+456
+    405 U.S. 538 (1972).
+
+[[PDF p. 30]]
+artistas de variedades antes del espectáculo cinematográfico. Esta reglamentación tuvo
+varias consecuencias, la primera era que obligada a contratar a personas que quienes
+ofrecían estos espectáculos cinematográficos no deseaban. Segundó obligó también a los
+espectadores de una película que había sido elegida según sus gustos debían asistir a una
+actuación musical que no querían ver y que probablemente no coincidía con las
+características del espectáculo al que si deseaban asistir. Es decir, que la ley obliga a al
+dueño del cine actuar como un monopolista, obligándolo a vender conjuntamente un
+producto querido por el adquirente y otro que no era deseado. Al mismo tiempo obligada
+al espectador a pagar por una actuación que no quería ver. Esta propuesta en insensata de
+por sí, pero hizo aún más cuando la Corte Suprema trató el caso en la sentencia llamada
+"cine Callao" en la que el tribunal no sólo consideró que esta norma profundamente
+insensata fuera constitucional, sino que estableció con ella el modelo de la regulación de los
+contratos. Más aún en esta sentencia se planteó el debate sobre la razonabilidad, el y que
+además de plantearse el tema de que era legítimo limitar en los contratos que afirmaban las
+personas, incluyendo la autorización para que la ley estableciera la obligación de contratar,
+se analizó la importancia de que el medio escogido por el legislador pueda el adecuado para
+obtener el fin deseado por el. De esta manera la corte analizó si la obligación de proveer los
+"números vivos" era también el medio adecuado para asegurarse que los músicos
+obtuvieran una fuente asegurada de trabajo, inexplicablemente consideró que esta norma
+tiene además de legítima razonable. Desde entonces, el caso" cine Callao" el presidente
+constitucional en materia de regulación de los contratos y de razonabilidad. De tal manera
+que el regulador quiso hacer que los efectos películas sonoras no existieran, y la Corte
+Suprema en 1960, cuando ya nadie se acordaba de las películas mudas, consideró ese
+motivo absurdo ratificaba la obligación de contratar además que hacerlo era razonable.
+Este caso es considerado como el que establece la aparición de la doctrina de la
+razonabilidad en el derecho argentino. La proporcionalidad entre el fin deseado por la
+norma y el medio escogido es imaginado como una forma de limitar el exceso en la
+reglamentación del los derechos constitucionales y en particular los económicos. Pero
+quiero recordar en el caso Cine Callao (Fallos 247:121) el Dictamen del Procurador
+General Sebastián Soler. Si de acuerdo a la recordada doctrina ..la conveniencia pública no es causal
+suficiente para facultar a la autoridad a imponer determinados negocios, mal se aviene con este principio el
+que tales negocios puedan, sí, imponerse en función de la conveniente de sectores limitados. Y éste contraste es
+aún más manifiesto si se advierte que el negocio se traduce en realidad en la obligación de prestar un beneficio
+cuya erogación se pone solamente a cargo de otro sector de la colectividad, determinado y reducido, en vez de
+ser extensiva, equitativa y proporcionalmente, a todos los miembros de la comunidad. ..
+Si la ley se hubiera circunscripto a establecer para una clase de trabajo las condiciones que el mismo debe
+contratarse o realizarse se habría ajustado, en principio, a la limitación constitucional. Pero ha ido más allá.
+Ha consagrado para una categoría de personas un verdadero privilegio cuya repercusión económica incide
+perjudicialmente sobre otra. ..
+Agrega: Cuando un determinado poder, con el pretexto de encontrar paliativos fáciles para un mal ocasional,
+recurre a facultades de no está investido, crea, aunque conjure aquel mal, un peligro que entraña mayor
+gravedad y que una vez desatado se hace de difícil contención: el de identificar atribuciones legítimás en orden
+de lo reglado, con excesos de poder. Poco a poco la autoridad se acostumbrará a incurrir
+en extralimitaciones excepcionales o con la invocación de necesidades
+generales de primera magnitud, se transforma, en mayor o en menor tiempo,
+en las condiciones normales del ejercicio del poder. Ocurre después algo peor.
+Los mismos gobernados se familiarizan con el ejercicio, por parte del

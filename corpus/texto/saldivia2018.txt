@@ -1,0 +1,568 @@
+# fuente: Unidad16/Saldivia Menajovsky - 2018 - El argumento de la igualdad robusta como justifica.pdf
+# md5_original: 013c6e7fdd47ab1c70f9558dccdebf47
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                      EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN
+                                                             DEL ABORTO
+
+                                                   Laura Saldivia Menajovsky*
+
+
+
+
+                1. Introducción
+
+                    Aquí propongo la utilización de una interpretación robusta del derecho a la igualdad y no
+                discriminación para justificar la promoción e implementación de políticas públicas en materia
+                proaborto y de salud sexual y reproductiva que contribuyan a desmantelar estructuras sociales,
+                políticas y económicas opresivas de las mujeres. Esto implica que el Estado respete los derechos
+                de las mujeres por medio del desarrollo de políticas públicas que no criminalicen sino que, por
+                el contrario, faciliten el aborto seguro de los embarazos no deseados o riesgosos para la mujer
+                o el feto.
+                    La estrategia de centrar la protección de los derechos sexuales y reproductivos en el discurso
+                de la igualdad y no discriminación de las mujeres podría considerarse limitada para una mejora
+                concreta de sus vidas, ello dado que dicho discurso suele entenderse de un modo liberal, uni-
+                versalista y formal que es incapaz de reconocer las diferencias y necesidades específicas de este
+                grupo, como así también las diferencias al interior del mismo grupo.
+                    No obstante, aquí propongo una perspectiva desde el derecho a la igualdad y no discriminación
+                que se aparta de aquella centrada en la igualdad de oportunidades formulada en sus inicios por
+                el constitucionalismo clásico, como así también de aquella formulada con la incorporación de
+                categorías sospechosas en los principales instrumentos internacionales de derechos humanos –y
+                luego por las leyes locales sobre antidiscriminación y sobre crímenes de odio– pero reducida a
+                una perspectiva individualista que no toma en cuenta la opresión sistemática de ciertos grupos,
+                entre ellos, el de las mujeres. Por lo tanto, en este trabajo sostendré que la perspectiva robusta
+                y transformadora del derecho a la igualdad y no discriminación sirve para reformar la estruc-
+                tura social, económica y jurídica que ancla a las mujeres a una ciudadanía de segundo orden, y
+
+
+
+                * Fue responsable de proyectos de investigación del Instituto de Políticas Públicas en Derechos Humanos del
+                MERCOSUR (IPPDH). Abogada por la Universidad de Buenos Aires y Doctora por la Universidad de Yale.
+                Profesora de la Maestría en Derecho de la Universidad de Palermo y de cursos de especialización en derecho de
+                la Universidad Tres de Febrero en temas sobre igualdad y no discriminación, ciudadanía, pluralismo jurídico,
+                globalización y constitución. También es profesora adjunta de la materia Derecho Constitucional de la Facultad
+                de Derecho de la Universidad de la Matanza.
+
+
+
+
+La reproducción en cuestión FINAL.indd 195                                                                              21/05/2018 01:25:44 p.m.
+
+[[PDF p. 2]]
+                Laura Saldivia Menajovsky
+
+
+                brindaré una opción concreta de intervención para modificar la vida de opresión para así lograr
+                el respeto de sus derechos.1
+
+
+                2. De la igualdad formal a la igualdad robusta
+
+                    La formulación del derecho a la igualdad y no discriminación recepta diversas interpretaciones
+                y desarrollos respecto del alcance de su protección. La concepción sobre la igualdad esbozada
+                en un primer momento de invención constitucional ha experimentado importantes cambios tanto
+                en el debate nacional como internacional, que determinaron una ampliación de su alcance y de
+                su potencialidad transformadora.
+                    La idea sobre el derecho a la igualdad prevaleciente en un primer estadío de desarrollo del
+                constitucionalismo clásico –producto del paradigma económico liberal imperante a fines del
+                siglo XVII y hasta principios del siglo XX–, consistió en que el Estado debía asegurar el mismo
+                punto de partida para las personas a través de leyes neutrales a las diferencias entre las personas.
+                La igualdad formal ante la ley así entendida se inspira en el ideario de la modernidad, el cual
+                presupone personas individuales, racionales, libres y autónomas que comienzan el recorrido de
+                sus vidas en un mismo punto de partida dado precisamente por la igualdad establecida por la ley,
+                motivo por el cual el lugar a donde llegan, es decir, el resultado de las decisiones que adoptan
+                durante ese recorrido –en tanto las leyes son iguales y neutrales para todos– es de su exclusiva
+                responsabilidad. Aquí no se presta atención a las condiciones en las cuales se llega a esa línea
+                de partida ni al modo en el cual nuestras circunstancias afectan nuestro rendimiento. Sólo se
+                juzga a los individuos por sus méritos e idoneidades intrínsecos/personales sin indagar en las
+                condiciones sociales que determinaron la forma en que ese mérito o idoneidad se construyó.
+                    Conforme este marco conceptual, el Estado debía facilitar ese recorrido a través de leyes que
+                favorecieran la movilidad social ascendente de la clase media –que prohibieran los privilegios
+                de nobleza o de castas–, el funcionamiento del mercado por medio del derecho de propiedad
+                y la seguridad interior y exterior, un sistema de justicia, el dictado de leyes generales y la pro-
+                visión de bienes comunes mínimos, todo ello sin obstaculizar la participación en el mercado y
+                la capacidad autónoma de contratar de las personas. Este es el Estado gendarme liberal, el cual
+                deja hacer y se limita a velar por el orden público. Por supuesto que este Estado idealiza una
+                experiencia histórica realizada de forma limitada, intermitente y deficiente que excluye de su
+                relato a las mujeres (como así también a los negros, a los campesinos y a los indígenas, entre
+                otros grupos). En este sentido, no debe soslayarse que, de forma paralela a la instauración del
+                ideal de la igualdad ante la ley, se produjo la máxima expansión del colonialismo. No obstante
+                estas graves falencias y ausencias, este ideario reinó durante más de un siglo y todavía convive
+                con otras miradas e impregna con su fuerza discursiva instituciones y dinámicas nacionales.
+
+
+                1. Por supuesto, esta aproximación teórica no obsta a que de forma concurrente se examinen otros temas
+                medulares como es el relativo a la violencia que se ejerce contra las mujeres (ya sea en los diversos sistemas
+                administrativos públicos o en el ámbito privado). O que este argumento se adicione a aquellos fundados en el
+                derecho a la salud, la dignidad e integridad corporal, la privacidad, la autonomía y la vida de la mujer.
+
+                                                                      196
+
+
+
+La reproducción en cuestión FINAL.indd 196                                                                              21/05/2018 01:25:44 p.m.
+
+[[PDF p. 3]]
+                                                          EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN DEL ABORTO
+
+
+                    La estricta separación de dos esferas, la privada y la pública, es central para la articulación
+                del pensamiento liberal sobre la igualdad (Capella, 2008). En la primera de ellas se tejen rela-
+                ciones privadas que implican únicamente a los individuos que entran en ella. Tal es el caso de las
+                relaciones familiares, de amistad, económicas, religiosas, entre otras, las que son propias de los
+                individuos en tanto “hombres”. En este ámbito el poder político, en principio, no debe entrome-
+                terse, aunque puede marcar qué es lo impropio de realizar en él (organiza las relaciones de pa-
+                rentesco –legitimidad de las relaciones matrimoniales vs. la ilegitimidad de las no matrimoniales,
+                matrimonio heterosexual, incestos– y qué materias no son lícitas de tráfico económico –drogas,
+                órganos humanos, plantas y animales–). Las desigualdades que existen en la esfera privada entre
+                las personas, debidas a diferencias de riquezas, de religión, de raza, de nacionalidad, de género,
+                no son cuestiones que atañan al Estado y quedan circunscriptas a tal esfera. El otro ámbito es el
+                público, donde ya no hay “hombres” sino ciudadanos. Los “hombres” –quienes habitan la esfera
+                privada– son diferentes, pero los ciudadanos, –quienes habitan la esfera pública– son iguales.
+                Para ello se hace abstracción de las características y diferencias reales que poseen cual hombres
+                despojándolos de sus cualidades y revistiéndolos de derechos iguales (los derechos políticos),
+                lo cual los transforma finalmente en ciudadanos.
+                    La reproducción humana es una de aquellas actividades que han sido circunscriptas al ámbito
+                privado; es decir, a aquel que se encuentra exento de la intromisión del Estado, y de esta manera,
+                se deja sin protección estatal a las mujeres.2 El Estado, siguiendo su potestad relativa a delimitar
+                qué es lo impropio de ser realizado en esta esfera, sí ha regulado en cambio la prohibición total
+                o parcial del aborto y lo ubicó de esta manera en las sombras del espacio privado.
+                    El ideario liberal desconoce que las personas no son entidades aisladas sino seres relaciona-
+                les, es decir, sociales, que están en continua interacción mutua con las cosas y las personas que
+                cohabitan su ambiente, todo ello en un marco de diferencias físicas y de capacidades, lo cual
+                genera condiciones para, y muchas veces determina, su desarrollo y desenvolvimiento personal.
+                Es por ello que el punto de partida en la vida de las personas es distinto, variado, dependiendo
+                del lugar donde nacieron, sus suertes, sus características físicas, sus habilidades, sus talentos.
+                Además, el reconocimiento del carácter social de las personas determina que pertenezcan a uno
+                o varios grupos sociales, y la historia y el presente de estos grupos son fundamentales en la
+                definición de la persona individual.3
+
+
+
+                2. Esto se observa, entre otras cuestiones, en la regulación restrictiva de licencias por maternidad, en la ausencia
+                de normativas sobre lactancia materna y licencias por paternidad, y claro, en la prohibición del aborto.
+                3. Los seres humanos no pertenecen sólo a un grupo social, sino que sus vidas están atravesadas por factores
+                de identidad e identificación diversos que por su lado pueden confluir en procesos de discriminación múltiples.
+                Esta idea de multiplicidad implica la noción de que la subjetividad está constituida por vectores tales como la
+                raza, el género, la clase y la sexualidad, que se reafirman y constituyen mutuamente. Esta idea fue desarrollada
+                por Kimberlé Crenshaw (1989) en su artículo “Demarginalizing the intersection of race and sex: black feminist
+                critique of antidiscrimination doctrine, feminist theory, and antiracist politics”, donde destaca la multidimen-
+                sionalidad de la experiencia identitaria y de opresión de los sujetos marginalizados. Este tema ha comenzado a
+                tener recepción en el sistema internacional de los derechos humanos, en particular, en la Recomendación Ge-
+                neral N° 27 sobre las mujeres de edad y la protección de sus derechos humanos del Comité para la Eliminación
+                de Todas las Formas de Discriminación contra la Mujer (CEDAW).
+
+                                                                         197
+
+
+
+La reproducción en cuestión FINAL.indd 197                                                                                   21/05/2018 01:25:44 p.m.
+
+[[PDF p. 4]]
+                Laura Saldivia Menajovsky
+
+
+                    De aquí se deduce que el derecho, en lugar de mantenerse neutral, indiferente, imparcial ante
+                las diferencias entre las personas, debe, por el contrario, contemplarlas para modificar la estruc-
+                tura social que permite, alienta y perpetúa la existencia de grupos en condiciones de especial
+                vulnerabilidad. Aquí se diluye la división entre esfera privada y pública, donde las diferencias
+                del “hombre” en el ámbito privado que no eran relevantes pasan a ser fundamentales para la
+                construcción de ciudadanía.
+                    La superficie en la que se inscribe el desarrollo del derecho a la igualdad se dio, en primer
+                lugar, a nivel nacional a través del derecho constitucional clásico liberal y, en la etapa siguiente,
+                también a nivel nacional, con el constitucionalismo social, al incluirse a la clase trabajadora en
+                sus protecciones constitucionales. Luego, fue el ámbito internacional el que receptó una amplia-
+                ción del derecho a la igualdad que incluyó el derecho a la no discriminación en los instrumentos
+                internacionales de derechos humanos como así también sus aplicaciones, incluido el soft law. Más
+                tarde, diversas reformas constitucionales latinoamericanas se hicieron eco de esta ampliación.
+                En su última etapa, el desarrollo del derecho a la igualdad se ubica tanto a nivel internacional
+                como constitucional, y se centra en la recepción de la protección de grupos específicos (raza,
+                pueblos originarios, personas con discapacidad, mujeres, niñas, niños y adolescentes).4 Aquí, el
+                desarrollo del derecho a la igualdad y no discriminación avanza de aquellas normas que esta-
+                blecen, por ejemplo, al sexo como categoría prohibida de discriminación hacia una norma que
+                indica la eliminación de todas las formas de discriminación contra la mujer.
+                    A esta altura corresponde aclarar que no obstante lo auspicioso de la expansión del derecho
+                a la igualdad al incluir la prohibición de discriminación por ciertos motivos, en muchos años,
+                esta no significó en los hechos una correlativa expansión en la protección de los derechos de
+                aquellos grupos en condiciones de especial vulnerabilidad. La interpretación que se hizo de esta
+                expansión estuvo restringida a una mirada individual, sin reconocimiento alguno de la situación
+                estructural de desigualdad basada en patrones de discriminación de ese tipo en la que se en-
+                cuentran muchos grupos. Ello en virtud de que el derecho a la igualdad y no discriminación fue
+                utilizado de manera formal e individual, sin dar cuenta de la existencia de un grupo detrás que
+                es objeto de una práctica de dominio, sino que se limitó a corroborar que la persona afectada
+                posea o pertenezca a alguna de las categorías listadas de manera explícita.5
+
+                4. Tal es el caso de la CEDAW.
+                5. Los principales instrumentos internacionales de derechos humanos establecen una prohibición general de
+                discriminación al enumerar una serie de categorías que exigen una prohibición de trato peyorativo diferenciado.
+                Las categorías enumeradas son la etnia, el color, el sexo, el idioma, la religión, la opinión política o de otra
+                índole, el origen nacional o social, la posición económica, el nacimiento o cualquier otra condición social. Aquí,
+                al trato discriminatorio se le aplica el análisis formal o tradicional de la protección antidiscriminatoria el cual
+                está centrado en el examen pormenorizado de las medidas adoptadas por el Estado en los siguientes términos:
+                cuando el Estado realice distinciones basadas en los motivos prohibidos de discriminación que impliquen la
+                restricción de un derecho o de un beneficio, dicho trato será considerado sospechoso y merecedor de un es-
+                crutinio estricto, es decir, de un escrutinio más elevado que aquel con el que se evalúan las normas o prácticas
+                diferenciadoras dirigidas a las personas que no pertenecen a alguna de tales categorías sospechosas. Para que
+                se confirme la sospecha no deben existir otras alternativas menos restrictivas para los derechos en juego que las
+                impuestas por la regulación en cuestión. Este examen riguroso exige, además, que el Estado justifique que el
+                objetivo perseguido por la norma u acto resulta sustancial para los intereses públicos y que la distinción realiza-
+                da es absolutamente indispensable para tal fin, a cuyos efectos debe esgrimir razones de peso. De esta manera,
+
+                                                                         198
+
+
+
+La reproducción en cuestión FINAL.indd 198                                                                                  21/05/2018 01:25:44 p.m.
+
+[[PDF p. 5]]
+                                                          EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN DEL ABORTO
+
+
+                    A este tipo de protección antidiscriminatoria restringida se la ha llamado anticlasificatoria
+                (Siegel, 2008). Consiste en una protección que, al igual que la igualdad formal, sigue centrada en
+                los individuos. Aquí el derecho protege a la persona contra la clasificación en virtud de cualquiera
+                de las categorías prohibidas para realizar tratos desiguales, a fin de que el proceso mediante el cual
+                se distribuye la escasez de oportunidades o se imponen cargas sobre las personas sea realizado de
+                forma equitativa –“fairly”– (Fiss, 2004). En realidad, este tipo de protección antidiscriminatoria
+                tiene un objetivo de índole transaccional, no sustantivo; es decir, busca regular el criterio que
+                puede ser utilizado en tal proceso de distribución de recursos escasos y de imposición de cargas.
+                    Conforme esta mirada, el daño que produce la discriminación es examinado a través de la
+                díada víctima-perpetrador representándose a este último como una persona que odia a otras
+                basándose ciertas características que poseen. De esta manera, la opresión se constituye como un
+                acto individual, lo cual imposibilita que sea encarada como una práctica y dinámica sistémica
+                enraizada en la sociedad y en sus instituciones públicas (Spade, 2009).6 En este contexto, se sos-
+                laya la importancia del impacto desigual que muchas normas y prácticas formalmente neutrales
+                tienen sobre los grupos oprimidos. Este soslayo, a su vez, impide justificar medidas especiales
+                de protección destinadas a revertir patrones estructurales de discriminación.
+                    Esta protección anticlasificatoria también encuentra su límite en interpretaciones que han
+                restringido su cobertura sólo a los grupos explícitamente mencionados por las normas (exclu-
+                yendo, por ejemplo, a las minorías sexuales o personas que padecen de enfermedades estigma-
+                tizantes). Por el contrario, una mirada robusta postula que la enumeración de las categorías que
+                prohíben tratos desiguales arbitrarios es general; es decir, no tiene carácter taxativo, por ello
+                puede ampliarse o restringirse conforme la realidad de discriminación de los distintos grupos
+                en las distintas regiones, como así también podrían establecerse niveles de protección según la
+                categoría involucrada, no sin antes realizar para ello un examen de tipo histórico contextual.7
+
+
+
+                la presunción de la validez de las normas emanadas de los poderes democráticos da lugar a la presunción
+                opuesta, la cual se instrumenta a través de la doctrina de la “inversión de la carga de la prueba”, la cual obliga
+                al Estado a justificar la restricción al derecho fundamental cuestionada. Este fue el caso en las decisiones de la
+                Corte Suprema en “Hooft, Pedro” (2004) y “Gottschau, Evelyn” (2006); ambas ejemplos de la aplicación del
+                derecho a la igualdad y no discriminación restringida, o dicho de otro modo, en términos de anticlasificación
+                pero no de antisubordinación. La Comisión Interamericana de Derechos Humanos expuso esta estructura de
+                análisis de la igualdad en los mismos términos: “Teniendo en cuenta que la evaluación de si una distinción es
+                ‘razonable y objetiva’ se efectúa caso por caso, tanto la Comisión, la Corte, como otros tribunales y organismos
+                internacionales, han acudido a la utilización de un examen o test que se compone de varios elementos. Estos
+                elementos incluyen por ejemplo la existencia de un fin legítimo, la idoneidad o relación lógica de medio a fin
+                entre el objetivo que se persigue y la distinción, la existencia de otras alternativas y la proporcionalidad, en-
+                tendiendo por esta última el balance de intereses en juego y el grado de sacrificio de uno respecto del grado de
+                beneficio del otro” (CIDH, 2010: parr. 86).
+                6. “Esta lectura limitada de lo que constituye una violación, de lo que se reconoce como opresión, sirve para
+                naturalizar y afirmar la neutralidad del statu quo” (Spade, 2009; traducción de la autora).
+                7. Para mayor información ver Saldivia (2011) y el caso “Atala” de la Comisión Interamericana de Derechos
+                Humanos, en el cual se estableció que la orientación sexual es una categoría sospechosa de distinción incluida
+                bajo la fórmula convencional de “otra condición social” (2008). Igual postura siguió la CorteIDH en el caso
+                “Atala Riffo y Niñas vs. Chile” (2012).
+
+                                                                        199
+
+
+
+La reproducción en cuestión FINAL.indd 199                                                                                 21/05/2018 01:25:44 p.m.
+
+[[PDF p. 6]]
+                Laura Saldivia Menajovsky
+
+
+                    El derecho a la igualdad y no discriminación robusto se construye alrededor de la idea de
+                antisubordinación, es decir, en centrar su análisis en la desventaja del grupo en términos de su
+                estratificación social. Para esta mirada, el Estado no debe involucrarse en prácticas que refuer-
+                cen el estatus social inferior de los grupos históricamente oprimidos y debe arbitrar medidas de
+                carácter afirmativo con el fin de erradicar la subordinación del grupo (Siegel, 2008).8 Es, por lo
+                tanto, una mirada sustantiva, como opuesta a la racionalidad instrumental de la anticlasificación,
+                y orientada al grupo. En este punto parece apropiado aclarar que la categoría mujer no es un
+                término neutral que tan sólo describe el origen o una característica definitoria de la identidad
+                de una persona, sino que tal acepción describe además una relación de opresión y de poder
+                desigual que delata las asimetrías en términos de subordinación que afectan a las mujeres y que
+                denota su experiencia histórica divergente, la cual se extiende en la actualidad. En este sentido,
+                la categoría mujer no expresa una característica objetiva de las mujeres sino que tiene un fuerte
+                carácter político, ya que consiste en un atributo que tiene conexión con las relaciones sociales
+                que se entretejen a su alrededor.
+                    El desarrollo de un derecho a la igualdad y no discriminación en términos robustos y no
+                meramente anticlasificatorios es todavía un desafío en la región, aunque comienzan a verse
+                tímidos avances.9 En este sentido, los órganos del sistema internacional de derechos humanos
+                han comenzado a adoptar esta tendencia de la antisubordinación promoviendo para ello –con
+                más o menos éxito en sus cometidos– una preocupación por aquellos grupos de personas que
+                –por diversas razones expresadas en obstáculos o impedimentos sociales o jurídicos– no están
+                en las mismas condiciones que la mayoría para gozar de los derechos fundamentales, ni entran
+                a las diversas relaciones jurídicas de su vida en un plano de igualdad, sino que, por el contrario,
+                se encuentran limitadas por patrones estructurales de discriminación y exclusión.10 Esto implica
+                dejar de pensar el derecho en términos individualistas y, en cambio, reconocer que la pertenencia
+
+
+
+                8. La CorteIDH ha reconocido ambas perspectivas del postulado antidiscriminatorio cuando señala: “(e)l de-
+                sarrollo del derecho a la igualdad y no discriminación permite identificar varias concepciones del mismo. Por
+                ejemplo, una concepción es la relacionada con la prohibición de diferencia de trato arbitraria –entendiendo por
+                diferencia de trato, distinción, exclusión, restricción o preferencia– y otra es la relacionada con la obligación
+                de crear condiciones de igualdad real frente a grupos que han sido históricamente excluidos y se encuentran en
+                mayor riesgo de ser discriminados. Aunque en ciertos casos las diferentes perspectivas pueden estar presentes,
+                cada una puede merecer una respuesta estatal diferente y un tratamiento distinto a la luz de la Convención
+                Americana” (2008: párrafo 80).
+                9. Desde hace no muchos años comienzan a verse iniciativas en este sentido en el Sistema Interamericano de
+                Derechos Humanos (SIDH), por ejemplo: los dictámenes de la Comisión en los casos “María Eugenia Morales
+                de Sierra vs. Guatemala” (2001), “Maria da Penha Maia Fernandes vs. Brasil” (2001), “Karen Atala e hijas vs.
+                Chile” (2008), y “Campo Algodonero: Claudia Ivette González, Esmeralda Herrera Monreal y Laura Berenice
+                Ramos Monárrez vs. México” (2007), como así también el fallo de la CIDH en “Atala Riffo y Niñas vs. Chile”
+                (2012), entre otros. Dichas iniciativas también pueden verse en el informe de la CIDH, sobre el “Acceso a la
+                Justicia para Mujeres Víctimas de Violencia en las Américas” (2007). A nivel nacional, salvo por la Corte Cons-
+                titucional de Colombia (ver en especial la sentencia T 291/09 sobre los recicladores), los altos tribunales de los
+                países de la región no han resuelto casos aplicando la igualdad robusta.
+                10. Un buen reflejo de esta tendencia se observa en la Recomendación General No. 27 del Comité CEDAW. Ver
+                también Cook y Howard (2007).
+
+                                                                        200
+
+
+
+La reproducción en cuestión FINAL.indd 200                                                                                 21/05/2018 01:25:44 p.m.
+
+[[PDF p. 7]]
+                                                          EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN DEL ABORTO
+
+
+                a ciertos grupos y las diferencias entre las personas son elementos fundamentales para definir
+                a los sujetos de derechos.
+                    Es importante resaltar que muchas veces los actos que coartan o excluyen a ciertas personas
+                del ejercicio de un derecho o del acceso a un determinado beneficio se derivan de la aplicación
+                de normas aparentemente neutrales pero que, en la práctica, generan un impacto adverso y des-
+                proporcionado sobre un grupo tradicionalmente marginado.
+                    En el caso de las mujeres, el requisito de la neutralidad normativa y de la acción estatal
+                exaltado por la modernidad solapa la construcción ideológica de las relaciones sociales basadas
+                en la mirada de los hombres, las cuales estructuran un statu quo que los favorece mientras que
+                perjudica de esta forma a las mujeres. Y el derecho está formado y asentado en tal statu quo. Por
+                ello, la igualdad robusta exige que el significado social y la legalidad de una práctica o norma en
+                apariencia neutral sean consideradas en términos de su impacto real respecto de las mujeres.11
+                    En consecuencia, es indispensable el estudio del impacto de las normas y políticas públicas
+                a los efectos de desentrañar las condiciones estructurales que definen la vida de un colectivo o
+                grupo social (sus condiciones históricas, sociales, políticas y económicas).12 De esta manera,
+                se vuelve imperativo evidenciar que ciertas normas y políticas públicas –aun cuando parezcan
+                neutrales en su diseño– pueden tener un efecto o resultado perjudicial sobre estos grupos.13 Aquí
+                el derecho a la igualdad es interpretado y usado como una herramienta jurídica de demanda
+                concreta al Estado de adopción de medidas especiales de protección (por ejemplo, acciones
+                afirmativas y ajustes razonables).
+
+
+
+                11. Ver Crenshaw (2006) y Gotanda (2006).
+                12. Tal como ha sido señalado en Observación General N° 20 del Comité de Derechos Económicos, Sociales
+                y Culturales, “La no discriminación y los derechos económicos, sociales y culturales (art. 2, parr. 2 del Pacto
+                Internacional de Derechos Económicos, Sociales y Culturales)”: “hay personas y grupos de personas que siguen
+                enfrentando desigualdades socioeconómicas, a menudo como consecuencia de arraigados patrones históricos y
+                de formas contemporáneas de discriminación” (2009: parr. 1). Agregando que “El Comité ha constatado perió-
+                dicamente que la discriminación contra algunos grupos subsiste, es omnipresente, está fuertemente arraigada en
+                el comportamiento y la organización de la sociedad y a menudo implica actos de discriminación indirecta o no
+                cuestionada. Esta discriminación sistémica puede consistir en normas legales, políticas, prácticas o actitudes cul-
+                turales predominantes en el sector público o privado que generan desventajas comparativas para algunos grupos
+                y privilegios para otros” (Comité de Derechos Económicos, Sociales y Culturales, 2009: parr. 12).
+                13. El Proyecto de Recomendación general Nº 28 del Comité CEDAW relativa al artículo 2 de la Convención
+                sobre la Eliminación de todas las Formas de Discriminación contra la Mujer discurre sobre la importancia de
+                atender a la discriminación que no se presenta de manera expresa en virtud de las diferencias de sexo o género,
+                sino que tiene lugar de forma indirecta “cuando una ley, una política, un programa o una práctica parece ser
+                neutra por cuanto se refiere tanto a los hombres como a las mujeres, pero en la práctica tiene un efecto dis-
+                criminatorio contra la mujer porque las desigualdades preexistentes no se han tenido en cuenta en la medida
+                aparentemente neutra” (Comité CEDAW, 2010). Este tipo de discriminación, continúa el Comité CEDAW, es
+                particularmente erosiva ya que exacerba “las desigualdades existentes por la falta de reconocimiento de los
+                patrones estructurales e históricos de discriminación y el desequilibrio de las relaciones de poder entre la mujer
+                y el hombre” (Comité CEDAW, 2010: parr. 16). En similar sentido la Comisión Interamericana de Derechos
+                Humanos: “Es relevante que en el estudio de medidas que un Estado alegue como neutrales, también se evalúen
+                los efectos que dicha medida pudo tener respecto de ciertos grupos, y si éstos han tenido un impacto negativo
+                desproporcionado” (2008: parr. 87).
+
+                                                                         201
+
+
+
+La reproducción en cuestión FINAL.indd 201                                                                                  21/05/2018 01:25:44 p.m.
+
+[[PDF p. 8]]
+                Laura Saldivia Menajovsky
+
+
+                3. La aplicación de la igualdad robusta al aborto
+
+                    Las mujeres pertenecen a un grupo en situación de vulnerabilidad estructural al que le corres-
+                ponde la protección más robusta de la cláusula antidiscriminatoria a los efectos de modificar la
+                estructura social que no reconoce sus derechos más básicos. Los diversos patrones sistemáticos
+                mediante los cuales se les niega su salud sexual y reproductiva son algunas de las formas con las
+                que se las minusvalora en la sociedad.14 Ello se observa en la manera en la que se construyen las
+                normas, políticas y estándares respecto del aborto, la información epidemiológica sobre los abor-
+                tos inseguros y las barreras que tienen que sortear las mujeres para acceder a un aborto seguro.15
+                    Los estereotipos generalizan ciertos atributos a una clase de personas y excluyen la valora-
+                ción de sus necesidades y circunstancias individuales.16 Además, sugieren límites a la autonomía
+                individual de forma arbitraria e injusta. La idea de la maternidad como el rol único e ideal válido
+                para las mujeres se corresponde con un estereotipo discriminador que genera desventajas en las
+                mujeres, más aún cuando tal idea es incorporada en políticas y programas del Estado. Este este-
+                reotipo discriminador también puede observarse en la ausencia de políticas y programas estatales
+                (tal es el caso de la ausencia de un sistema integral de cuidado que distribuya socialmente la carga
+                impuesta sobre las mujeres de cuidar a las personas mayores, enfermos y niños).17
+                    El estereotipo que configura la maternidad limita el rango de decisiones que las mujeres
+                adoptan sobre sus propios planes de vida. Ello en virtud de que tal estereotipo excluye aquellas
+                decisiones que pudieran colisionar con la idea central que lo conforma, en este caso, el de la
+                maternidad. De esta manera, las mujeres quedan relegadas como agentes morales inferiores a los
+                hombres por su inhabilidad de tomar decisiones autónomas sobre la vida que deciden realizar,
+                vivir. Ello conduce a su mermada participación en actividades sociales, políticas y económicas.
+                    De esto no se sigue que deba menospreciarse el rol de la mujer como embarazada y madre
+                sino, por el contrario, debe jerarquizarse el esfuerzo de la mujer involucrado en la procreación
+                y el cuidado de las niñas, niños y adolescentes. La naturalización de la maternidad genera una
+                subestimación de tales funciones. Esta circunstancia determina a su vez una distribución inequi-
+                tativa de los costos de la maternidad entre los hombres y las mujeres.
+
+
+
+                14. Otros patrones consisten en la violencia. Ver al respecto el informe de la CIDH sobre “Acceso a la Justicia
+                para Mujeres Víctimas de Violencia en las Américas” (2007).
+                15. Ver Ramos, et al. (2011).
+                16. El artículo 5 de la CEDAW requiere que los estados parte eliminen los prejuicios y prácticas que están
+                basados en la idea de inferioridad o superioridad de alguno de los sexos o en roles estereotipados de hombres
+                y mujeres.
+                17. Al respecto, Rico expone que “La noción de cuidados… implica el desplazamiento de los cuidados desde
+                el ámbito privado de las familias a la esfera pública de las políticas. En este sentido, se plantea la necesidad
+                de apelar a la responsabilidad estatal frente a los cuidados de las personas dependientes, principalmente los
+                niños y niñas, las personas adultas mayores, las personas con alguna discapacidad, y los enfermos crónicos. La
+                consideración del cuidado como un problema público conlleva a un proceso de desfamiliarización del acceso
+                y la provisión de cuidados, e ir abandonando, no tan rápido como quisiéramos, la idea de que el cuidado es un
+                problema individual y privado que se resuelve de acuerdo a los recursos que se dispongan y las negociaciones
+                de género al interior de los hogares que expone a las mujeres a una situación desventajosa” (2011).
+
+                                                                       202
+
+
+
+La reproducción en cuestión FINAL.indd 202                                                                               21/05/2018 01:25:45 p.m.
+
+[[PDF p. 9]]
+                                                    EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN DEL ABORTO
+
+
+                    Por el contrario, un estándar robusto de la igualdad toma en cuenta las diferencias de género/
+                sexo y sopesa de forma conjunta con los hombres las cargas inequitativas que la maternidad
+                impone sobre la mujer. Tal como sostienen Rebecca Cook y Susannah Howard, “la igualdad
+                de la mujer requiere tanto del reconocimiento y acomodamiento de las diferencias reales de
+                las mujeres como de la eliminación de los tratos discriminatorios basados en estereotipos de
+                género” (2007: 1044).
+                    De esto se deduce que lo que subyace a la prohibición del aborto y a las políticas restringidas
+                en materia de salud sexual y reproductiva es un sistema social, político y económico patriarcal que
+                tiene por objeto naturalizar la maternidad estableciendo de este modo como función primordial
+                de las mujeres la procreación y el cuidado de su progenie.
+                    La perspectiva robusta de la protección de la igualdad y no discriminación aquí expuesta con-
+                tribuye a desmontar y evidenciar tal sistema patriarcal a fin de que se transformen las estructuras
+                sociales que sojuzgan a la mujer. Tal como afirma Reva Siegel, “el enfoque de la igualdad sexual
+                sobre los derechos reproductivos se opone a las leyes que restringen el aborto o la anticoncep-
+                ción, en la medida en que estas presuponen o refuerzan las normas sociales consuetudinarias que
+                diferencian la expresión sexual y la paternidad/maternidad” (2010: 52). Esta perspectiva permite
+                y exige indagar en cuestiones tales como por qué una mujer aborta, quién accede al aborto, de
+                qué manera las mujeres se enfrentan a la experiencia del aborto, cuáles son las circunstancias de
+                la vida de las mujeres antes y después de un embarazo, y en qué consiste la sujeción de género
+                que de forma cotidiana viven las mujeres.
+                    La comprensión y asimilación del argumento de la igualdad robusta lleva tiempo, como así tam-
+                bién es complejo de aplicar a nivel institucional. No obstante, debe realizarse semejante esfuerzo
+                ya que este encuadramiento del aborto permite entender qué es lo que realmente subyace en las
+                negativas, prohibiciones y obstáculos de permitir y facilitar que las mujeres puedan decidir sobre
+                sus propios cuerpos y planes para así asegurar que sus derechos más fundamentales se cumplan.
+
+
+                Bibliografía:
+
+                Capella, Juan Ramón: Fruta prohibida, Madrid, Trotta, 2008.
+                Cook, Rebecca J. y Howard, Susannah: “Accomodating women’s differences under the women’s
+                   anti-discrimination convention”, en Emory Law Journal, Vol. 56, 2007.
+                Crenshaw, Kimberlé: “Demarginalizing the intersection of race and sex: blac feminist critique
+                   of antidiscrimination doctrine, feminist theory, and antiracist politics”, Chicago, University
+                   of Chicago Legal Forum, 1989.
+                — “Raza, reforma y retroceso: transformación y legitimación en el derecho contra la discrimina-
+                   ción”, en Mauricio García Villeas et al. (comps.), Crítica Jurídica, Bogotá, Uniandes, 2006.
+                Fiss, Owen: “Another Equality”, en Issues in Legal Scholarship. The origins and fate of anti-
+                    subordination theory, Berkely Electronic Press, 2004.
+
+
+
+                                                                 203
+
+
+
+La reproducción en cuestión FINAL.indd 203                                                                     21/05/2018 01:25:45 p.m.
+
+[[PDF p. 10]]
+                Laura Saldivia Menajovsky
+
+
+                Gotanda, Neil: “Una Crítica a ‘nuestra Constitución es ciega al color’”, en Mauricio García
+                   Villeas et al. (comps.), Crítica Jurídica, Bogotá, Uniandes, 2006.
+                Ramos, Silvina; Romero, Mariana y Arias Feijoó, Jimena: “El aborto inducido en la Argentina:
+                   ¿un viejo problema con un nuevo horizonte?”, en Paola Bergallo (comp.), Aborto y Justicia
+                   Reproductiva, Buenos Aires, Editores del Puerto, 2011.
+                Rico, María Nieves: “Armando una hoja de ruta. Compromisos político-institucionales para un
+                   sistema nacional de cuidados”, presentado en el Seminario Internacional Políticas de tiempo,
+                   tiempo de las políticas CEPAL, Santiago de Chile, 28 y 29 de noviembre de 2011.
+                Saldivia, Laura: “Categorías Sospechosas, su contextualización y flexibilidad”, en Roberto
+                   Gargarella (comp.), Constitución 2020, Siglo XXI, 2011.
+                Siegel, Reva: “El Discurso de la Igualdad: los valores de la Antisubordinación y la Anticlasifica-
+                    ción en las luchas constitucionales sobre el caso Brown”, Revista Jurídica de la Universidad
+                    de Palermo, Año 9, N° 1, 2008.
+                — “Los Argumentos de la Igualdad Sexual a Favor de los Derechos Reproductivos: su fundamen-
+                   to crítico y su expresión constitucional en evolución”, en Paola Bergallo (comp.), Justicia,
+                   Género y Reproducción, Buenos Aires, Libraria y Red Alas, 2010.
+                Spade, Dean: “Trans Law and Politics on a Neoliberal Landscape”, en Temple Political & Civil
+                   Rights Law Review, Vol. 18, 2009; Seattle University School of Law Research Paper N° 09-05.
+
+
+                Jurisprudencia:
+
+                Corte Suprema de Justicia de la Nación (CSJN), “Hooft, Pedro” (Fallos 327: 5118, 2004).
+                Corte Suprema de Justicia de la Nación (CSJN), “Gottschau, Evelyn” (Fallos 311:561, 2006).
+                Comisión Interamericana de Derechos Humanos (CIDH), “María Eugenia Morales de Sierra
+                  vs. Guatemala”, Caso 11.625, 2001.
+                Comisión Interamericana de Derechos Humanos (CIDH), “Maria da Penha Maia Fernandes vs.
+                  Brasil”, Caso 12.051, 2001.
+                Comisión Interamericana de Derechos Humanos (CIDH), “Campo Algodonero: Claudia Ivette
+                  González, Esmeralda Herrera Monreal y Laura Berenice Ramos Monárrez vs. México”, 2007.
+                Comisión Interamericana de Derechos Humanos (CIDH), “Karen Atala e hijas contra Chile”,
+                  Caso Nro. 12.502, 2010.
+                Comisión Interamericana de Derechos (CIDH), Informe sobre “Acceso a la Justicia para Mujeres
+                  Víctimas de Violencia en las Américas”, OEA/Ser.L/V/II. Doc. 68, 2007.
+                Comité de Derechos Económicos, Sociales y Culturales, Observación General N° 20, “La no
+                  discriminación y los derechos económicos, sociales y culturales (artículo 2, párrafo 2 del
+                  Pacto Internacional de Derechos Económicos, Sociales y Culturales)” 2009.
+
+                                                                204
+
+
+
+La reproducción en cuestión FINAL.indd 204                                                                  21/05/2018 01:25:45 p.m.
+
+[[PDF p. 11]]
+                                                  EL ARGUMENTO DE LA IGUALDAD ROBUSTA COMO JUSTIFICACIÓN DEL ABORTO
+
+
+                Comité para la Eliminación de Todas las Formas de Discriminación contra la Mujer de la
+                  CEDAW, Recomendación General N° 27 sobre las mujeres de edad y la protección de sus
+                  derechos humanos, 2010.
+                Comité para la Eliminación de Todas las Formas de Discriminación contra la Mujer de la CEDAW,
+                  Proyecto de Recomendación general Nº 28 del relativa al artículo 2 de la Convención sobre
+                  la eliminación de todas las formas de discriminación contra la mujer, 2010.
+                Corte Interamericana de Derechos (CorteIDH), “Atala Riffo y Niñas Vs. Chile. Fondo, Repara-
+                   ciones y Costas”, Serie C Nro. 239, 2012.
+                Corte Constitucional de Colombia, sentencia “T 291/09”, 2009.
+
+
+
+
+                                                               205
+
+
+
+La reproducción en cuestión FINAL.indd 205                                                                   21/05/2018 01:25:45 p.m.

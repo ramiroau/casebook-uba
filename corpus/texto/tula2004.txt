@@ -1,0 +1,2027 @@
+# fuente: Unidad9/María Inés Tula (2004). La Ley de Cupos en la Argentina reforma electoral y representación política.pdf
+# md5_original: a873cd2e73436e27d61ec1ae62dbac51
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+VI Jornadas de Sociología. Facultad de Ciencias Sociales, Universidad de Buenos
+Aires, Buenos Aires, 2004.
+
+
+
+
+La Ley de Cupos en la
+Argentina: reforma electoral y
+representación política.
+
+María Inés Tula.
+
+
+Cita: María Inés Tula (2004). La Ley de Cupos en la Argentina: reforma
+      electoral y representación política. VI Jornadas de Sociología. Facultad
+      de Ciencias Sociales, Universidad de Buenos Aires, Buenos Aires.
+
+
+
+
+Dirección estable: http://www.aacademica.org/000-045/229
+
+
+
+
+Acta Académica es un proyecto académico sin fines de lucro enmarcado en la iniciativa de acceso
+abierto. Acta Académica fue creado para facilitar a investigadores de todo el mundo el compartir su
+producción académica. Para crear un perfil gratuitamente o acceder a otros trabajos visite:
+http://www.aacademica.org.
+
+[[PDF p. 2]]
+                                                                                  1
+
+
+La Ley de Cupos en la Argentina: reforma electoral y representación política.
+
+
+
+María Inés Tula
+
+(inestula@yahoo.com)
+
+Instituto de Investigaciones “Gino Germani”
+
+Facultad de Ciencias Sociales
+
+Universidad de Buenos Aires-CONICET
+
+
+
+Introducción
+
+      Las normas que imponen cupos o cuotas por género en la confección de las
+
+boletas electorales constituyen uno de los procedimientos más usuales y
+
+conocidos para superar los problemas de la escasa participación y de la marcada
+
+subrepresentación de las mujeres en los órganos representativos de gobierno.
+
+      Estas leyes especifican niveles mínimos o máximos de representación para
+
+cada sexo en las listas partidarias y ofrecen, de este modo, un mecanismo
+
+institucional para corregir gradualmente el desequilibrio existente entre hombres y
+
+mujeres que se dedican a la política.
+
+      Entre las críticas más comunes que recibe este método se encuentran
+
+aquellas que sostienen que: a) los cupos discriminan contra los hombres, b) los
+
+partidos políticos carecen de mujeres activas en política como para ocupar todos
+
+los lugares que les corresponden de acuerdo al porcentaje del cupo, c) la
+
+utilización de cuotas genera un techo para la representación legislativa de las
+
+mujeres, y d) las cuotas promueven el acceso no competitivo de las mujeres a los
+
+cargos públicos electivos. Desde una visión opuesta, quienes defienden su
+
+[[PDF p. 3]]
+                                                                                  2
+
+
+utilización, consideran que los cupos son mecanismos de acción afirmativa
+
+destinados a formar una masa crítica de mujeres en la rama legislativa y
+
+proveerlas de experiencia política.
+
+      Como consecuencia de esta discusión, algunos países rechazaron su
+
+aplicación por considerar que contradice el principio de igualdad y no
+
+discriminación entre los sexos. No obstante, atentos a las demandas de una
+
+mayor participación de la mujer, varias de estas naciones impulsaron la cuota
+
+partidista como una medida particular y no obligatoria que exhorta a los partidos
+
+políticos a presentar candidatas en sus listas. Pero a diferencia de los cupos
+
+legales, que están garantizados por la justicia electoral compe tente, la puesta en
+
+marcha de las normas partidarias depende, en gran parte, de los líderes de los
+
+mismos partidos políticos y de cuánto éstos estén dispuestos a respetar sus cartas
+
+orgánicas y a cumplir con la medida.
+
+      La ley 24.012 aprobada en la Argentina en 1991, llamada comúnmente "ley
+
+de cupos", fue la primera norma en el mundo establecida para aumentar la
+
+representación de las mujeres en el ámbito parlamentario nacional.
+
+      Esta iniciativa fue posteriormente imitada por otros países latinoamericanos,
+
+aunque para distintos niveles de gobierno. Por ejemplo, Brasil fijó por ley una
+
+cuota del 20% para las elecciones municipales de 1996, después una del 25%
+
+para las legislativas de 1998 y, finalmente, un cupo del 30% para las municipales
+
+de 2000. En 1997, siguieron el mismo camino Costa Rica (cuota del 30%),
+
+Ecuador (20%), República Dominicana (25%), Venezuela (30%), Bolivia (30%),
+
+Panamá (30%) y Perú (25%), aunque este último, sólo para el ámbito municipal.
+
+[[PDF p. 4]]
+                                                                                  3
+
+
+       En la actualidad, la Argentina ocupa el primer lugar entre todos los países
+
+americanos en cuanto al nivel de representación de mujeres en las legislaturas
+
+nacionales (por lo que supera incluso a los desarrollados Canadá y Estados
+
+Unidos). Y entre las naciones del mundo con regímenes democráticos, el casi 30%
+
+de representantes femeninas que exhibe en la cámara de diputados sólo es
+
+superado por los países escandinavos, conocidos como los más avanzados en
+
+este tema (en ellos, sin embargo, la presencia de un número importante de
+
+diputadas no fue el producto de una norma, sino el resultado del impulso de los
+
+propios partidos que decidieron promover la participación femenina).
+
+       Este trabajo tiene por objeto analizar la aplicación de la Ley de Cupos en
+
+nuestro país. Interesa observar: 1) la recepción que tuvo esta norma electoral en
+
+diferentes ámbitos tales como las organizaciones partidarias, los medios de
+
+comunicación y la justicia, y 2) los efectos producidos en estos trece años de
+
+vigencia. Como hipótesis de trabajo se intentó bucear en los siguientes
+
+interrogantes: ¿cuáles fueron los límites y alcances de una norma electoral que no
+
+tenía antecedentes en el derecho comparado? y ¿cómo fue el proceso de su
+
+institucionalización jurídica?
+
+       Para una mejor comprensión, esta investigación se dividió en siete
+
+secciones: I) la primera, presenta una breve descripción sobre los antecedentes y
+
+las características generales de la ley argentina de cupos, II) la segunda, analiza
+
+el debate suscitado en el recinto parlamentario y la recepción que tuvo en los
+
+medios periodísticos al momento de su sanción, III) la tercera comenta los límites
+
+que encontró la puesta en marcha de esta norma en las organizaciones políticas y
+
+en la justicia electoral, IV) la cuarta, examina la jurisprudencia de la Cámara
+
+[[PDF p. 5]]
+                                                                                       4
+
+
+Nacional Electoral y la Corte Suprema de Justicia, V) la quinta, describe la
+
+incorporación de los mecanismos de acción positiva a la constitución reformada de
+
+1994, VI) en la sexta se efectúan algunos comentarios sobre sus efectos
+
+inmediatos en la representación nacional y provincial, VII) por último, se realizan
+
+algunas conclusiones tentativas.
+
+
+
+                                           I
+
+  Los antecedentes: la participación de las mujeres en la política argentina
+
+
+
+       En la Argentina, el largo proceso de lucha por la emancipación de la mujer
+
+tiene sus orígenes a principios del siglo XX, en el seno de movimientos influidos
+
+por el ideario socialista.
+
+       En 1905 Elvira Rawson de Dellepiane, una de las primeras médicas en el
+
+país, organizó el primer centro feminista. En 1910 las Universitarias Argentinas
+
+organizaron el primer congreso femenino internacional, en el que reivindicaron,
+
+entre otras cuestiones, la adopción del sufragio universal. Diez años más tarde,
+
+Julieta Lanteri, fundó el Partido Feminista Nacional, pero fracasó en su intento de
+
+inscribirse en el padrón, oficializar su candidatura en el congreso nacional y
+
+ejercer el sufragio. En las décadas de 1920 y 1930, Alicia Moreau de Justo y
+
+Carolina Muzzilli, militantes socialistas, exigieron la participación de la mujer en los
+
+comicios generales. Recién en 1934, la aprobación de una ley de sufragio
+
+femenino a nivel provincial permitió que la doctora Ema Costa resultara electa
+
+como la primera legisladora en San Juan.
+
+[[PDF p. 6]]
+                                                                                    5
+
+
+      Finalmente, el reconocimiento a las mujeres del derecho al voto y a la
+
+representación política en el congreso nacional tuvo lugar el 9 de septiembre de
+
+1947 cuando se sancionó la ley 13.010, conocida también como "Ley del Voto
+
+Femenino".
+
+      Esta norma significó la incorporación de 4.225.467 mujeres al padrón
+
+electoral, alrededor del 48% de la población, y en el proceso legislativo mucho
+
+influyó el decidido apoyo de Eva Duarte de Perón, la esposa del entonces
+
+presidente. Sin embargo, la primera vez que las argentinas ejercieron sus
+
+derechos políticos sólo ocurrió cuatro años más tarde, en los comicios nacionales
+
+del 11 de noviembre de 1951. En esa oportunidad, la concurrencia femenina a las
+
+urnas superó en cuatro puntos a la de los hombres (90% frente a 86%).
+
+      Los esfuerzos de Eva Perón por aumentar la participación femenina
+
+también se dirigieron al interior del incipiente partido peronista. Por su influencia
+
+sobre la organización, se fijó un cupo partidario a través de la creación de la “rama
+
+femenina” y, como consecuencia de ésta, la participación de las mujeres en las
+
+boletas partidarias.
+
+      El éxito electoral del peronismo en los comicios de 1951 y 1955 fue
+
+determinante en el incremento del número de legisladoras. Así, en 1951, las
+
+mujeres lograron el 15,5% de las bancas en la cámara de diputados, mientras que
+
+en 1955 las diputadas representaron al 22% del cuerpo (véase cuadro 1). Estos
+
+valores, registrados en elecciones competitivas pero con algunas restricciones,
+
+alcanzaron los niveles más altos de participación femenina para la época,
+
+ubicándose por encima de las democracias occidentales y casi a la par de países
+
+comunistas como la República Democrática Alemana y la Unión Soviética (24%).
+
+[[PDF p. 7]]
+                                                                                         6
+
+
+       Con la proscripción del peronismo (1955-1973), la participación de las
+
+mujeres en el congreso nacional declinó hasta alcanzar valores insignificantes
+
+(véase cuadro 1). En el periodo 1973-1976, cuando otra vez se establecieron
+
+elecciones genuinamente competitivas, la situación tampoco cambió demasiado.
+
+Recién a partir de 1983, la problemática femenina cobró nuevo impulso en el
+
+congreso nacional y tuvo una de sus principales exponentes en Florentina Gómez
+
+Miranda, activa dirigente de la Unión Cívica Radical que promovió la ley de
+
+divorcio en 1984 y la misma ley de cupo en 1991.
+
+
+
+La ley 24.012 y la aplicación de los cupos por género en la Argentina
+
+
+
+       Después del sufragio femenino, el cambio más importante en la
+
+representación política de las mujeres argentinas se produjo el 6 de noviembre de
+
+1991 cuando el Congreso de la Nación sancionó la ley 24.012 (ADLA, LI-D, 3872)
+
+que introdujo una importante modificación en el artículo 60 del Código Nacional
+
+Electoral referido al registro de los candidatos y pedido de oficialización de listas.
+
+       Esta norma adoptó dos modificaciones relevantes en la confección y
+
+presentación de las listas partidarias de alcance nacional. Por un lado, la
+
+obligatoriedad de presentar un mínimo del 30 por ciento de mujeres en las listas
+
+de los partidos políticos, frentes y alianzas electorales y, por el otro, la exigencia
+
+de que la ubicación de las candidatas fuera en lugares expectables, es decir, con
+
+posibilidades reales de ser electas 1.
+
+       El proyecto originario de esta ley fue presentado durante los últimos meses
+
+del gobierno de Raúl Alfonsín por una senadora mendocina de la Unión Cívica
+
+[[PDF p. 8]]
+                                                                                  7
+
+
+Radical, Margarita Malharro de Torres. Dos años después, y durante la
+
+administración del justicialista Carlos Menem, la iniciativa fue aprobada “por
+
+unanimidad” y “sin enmiendas” en el Senado.
+
+       El tranquilo trámite que tuvo en esta cámara, considerada por tradición
+
+como la más conservadora de las dos que integran el congreso argentino, hacía
+
+suponer un rápido despacho del asunto por parte de los diputados. Sin embargo,
+
+allí el debate fue extenso. Pero, finalmente, el proyecto fue aprobado con el apoyo
+
+de 142 votos, mientras que 7 representantes votaron por la negativa y 3 se
+
+abstuvieron2.
+
+       La iniciativa contó con el sostén de los partidos mayoritarios y también con
+
+el decidido respaldo del presidente Menem -quien manifestó su apoyo en público
+
+durante el transcurso de una convocatoria al Congreso Nacional del Partido
+
+Justicialista- y del ministro del Interior José Luis Manzano 3.
+
+                                           II
+
+                   El debate en el Congreso y la prensa escrita
+
+
+
+La discusión en el recinto parlamentario
+
+
+
+       Las distintas posturas adoptadas por los legisladores durante el debate
+
+parlamentario pueden resumirse en dos grandes grupos: quienes argumentaron a
+
+favor de la ley y quienes mostraron una actitud negativa sosteniendo su
+
+inconveniencia. Tanto unos como otros, apelaron a concepciones filosóficas
+
+diversas con el objeto de fundamentar su apoyo y/o rechazo a la sanción de este
+
+proyecto.
+
+[[PDF p. 9]]
+                                                                                   8
+
+
+      Así, los pocos votos por la negativa que recibió este proyecto, provinieron
+
+en su mayor parte del bloque de legisladores de la Unión del Centro Democrático
+
+(UCeDé). Estos diputados manifestaron su rechazo a la iniciativa con argumentos
+
+fundados en la tradición del pensamiento liberal clásico: sostenían que la
+
+propuesta significaba una injerencia estatal desmedida en el funcionamiento de las
+
+organizaciones partidarias y, por lo tanto, perniciosa para la competencia política.
+
+El entonces diputado Alberto Albamonte sostuvo que:
+
+      “(…) Esta norma es básicamente un proyecto de ley de intervención
+
+     porque irrumpe en forma compulsiva y directa en la vida de los partidos
+
+     políticos. Me parecería razonable que este debate se hiciera en las
+
+     convenciones de los partidos, en sus órganos, donde se reclamara a sus
+
+     dirigentes que modifiquen determinada actitud, pero traer ésto al recinto -
+
+     considerándose que tal vez la ley es el camino más corto- agravia, por lo
+
+     menos, a algunos partidos, como al que pertenezco. (...) La norma que
+
+     estamos considerando resulta compulsiva, retrograda y ofensiva para
+
+     aquellas mujeres con méritos suficientes para ganar el espacio que han
+
+     logrado las legisladoras que se encuentran en el recinto y las mujeres
+
+     que han contribuido decididamente al crecimiento de nuestro país".” 4
+
+
+
+      Como puede observarse, el argumento central en este discurso no es una
+
+cuestión de género. El rechazo de los legisladores de la UCeDé no estuvo guiado
+
+por una negación de la participación de la mujeres en el ámbito de la política, sino
+
+por la aplicación de los principios de la tradición liberal: la idea de que no deben
+
+existir regulaciones externas que interfieran en el libre juego de la competencia
+
+[[PDF p. 10]]
+                                                                                   9
+
+
+política o que invadan la esfera decisoria propia de las asociaciones ciudadanas
+
+conocidas como partidos políticos.
+
+      Este bloque argumentó asimismo que la misma UCeDé había alentado la
+
+incorporación del sexo femenino, poniendo como ejemplos a dos de sus propias
+
+mujeres dirigentes, María Julia Alsogaray y Adelina Dalesio de Viola, quienes
+
+habían logrado ocupar cargos importantes en la actividad política -tanto en el
+
+partido como en cargos públicos- sin la protección de una ley especial. Con este
+
+argumento, la UCeDé reafirmaba su adhesión a los principios filosóficos del
+
+liberalismo clásico: los individuos debían lograr sus metas en forma individual
+
+según sus propios méritos, o asociándose con otros, pero nunca mediante el
+
+amparo de una norma.
+
+      Desde una posición opuesta, las reflexiones que sustentaron el voto por la
+
+afirmativa abarcaron un espectro mucho más amplio de argumentos y actitudes,
+
+que no pueden ser identificadas con una ideología política o una serie de
+
+principios filosóficos generales como en el caso anterior.
+
+      Dentro de este grupo heterogéneo de expresiones, se presentó un
+
+argumento compartido por casi la mayoría de los legisladores que mantuvieron
+
+una posición favorable a la sanción de la ley de cupos. Este común razonamiento
+
+hacía referencia a algunas manifestaciones del "feminismo de la diferencia", vale
+
+decir, a la idea de que la participación de la mujer (y no ya la del hombre) lleva a
+
+"moralizar" el ámbito de la política, volviéndola más ética y más humana. Lo
+
+central en estos discursos es la distinción de que existe "algo particular" en la
+
+naturaleza de la mujer o que éstas presentan una "sensibilidad distinta" a la
+
+masculina y que, por lo tanto, favorece a la actividad política.
+
+[[PDF p. 11]]
+                                                                                    10
+
+
+       Con algunos matices, las exposiciones reflejaron esta idea "diferenciadora".
+
+Entre las diversas posturas se destacan: a) las que resaltan la condición
+
+"biológica" de las mujeres como la efectuada por el entonces Ministro del Interior,
+
+José Luis Manzano,
+
+  "Este vínculo (madre-hijo), esta responsabilidad por la perpetuación de la
+
+  especie, hace que las mujeres se relacionen en forma distinta con el poder.
+
+  En el hombre, el poder es ejercicio... en la mujer es preservación" 5
+
+
+
+b) otra más tradicional, de la diputada Monjardin:
+
+
+
+     "La mujer todavía no conoce o participa de los recovecos, las vueltas o
+
+     las picardías a las que muchas veces sus esposos... recurren. (...) Creo
+
+     que esa rectitud y esa lealtad de la mujer argentina es la que debemos
+
+     incorporara los hechos políticos y legislativos"6
+
+
+
+c) una visión feminista, de la diputada Quarracino:
+
+
+
+     "El predominio del mundo masculino en el poder, ... ha hecho que la
+
+     filosofía, el lenguaje, las formas y hasta los horarios en los que se ejerce
+
+     la práctica política sean esencialmente masculinos... Queremos irrumpir
+
+     en la vida política con nuestro propio lenguaje, nuestra filosofía y
+
+     nuestras formas porque eso es lo que enriquece la vida de los pueblos" 7
+
+
+
+d) la mujer débil y voluble, por el diputado Ortiz Pellegrini:
+
+[[PDF p. 12]]
+                                                                                  11
+
+
+     "Estoy seguro de que el espacio que ahora conseguimos para la mujer
+
+     será custodiado y defendido por ella misma, así como ninguna servirá de
+
+     "prestanombre" o apelará a su participación compulsiva como una
+
+     excusa para tapar otras cosas" 8
+
+
+
+e) el argumento de la discriminación. Otros diputados, dejaron de lado la
+
+consideración de la "diferencia" para centrarse en el discurso de la lucha contra la
+
+discriminación y la defensa de esta norma como una medida de "acción positiva".
+
+En estas exposiciones se rechaza la postura liberal de que en "igualdad de
+
+condiciones" tanto los hombres como mujeres deben llegar por sus propios
+
+medios sin la intervención de agentes externos que faciliten la consecución de los
+
+objetivos propuestos. En esta línea se inscribieron las siguientes manifestaciones:
+
+      a) la del diputado Raimundi:
+
+     "(...) el hecho de que una mujer o un grupo de mujeres hayan llegado por
+
+     sus esfuerzos a donde lo hicieron, no significa que se haya acabado la
+
+     discriminación." 9
+
+
+
+      b) también la diputada Riutort:
+
+
+
+     "De nada sirve... que se hable de nuestras virtudes y del rol fundamental
+
+     de la mujer en el hogar y en la formación de los hijos. De nada sirve que
+
+     en ocasiones elogien nuestra ética si o se nos permite acceder a los
+
+     niveles donde la política va a determinar el modelo de sociedad que
+
+     queremos lograr"10
+
+[[PDF p. 13]]
+                                                                                12
+
+
+
+
+      c) y el diputado Alvarez:
+
+
+
+     "La discusión sobre este proyecto coloca en la superficie de la sociedad
+
+     un debate muy importante, que se refiere al grado de conciencia,
+
+     participación, movilización y compromiso de la mujer argentina. (...)
+
+     Debemos saber los diputados que en este país hay discriminación
+
+     respecto de la mujer. (...) No podemos pretender que cada mujer sea una
+
+     Eva Perón o una Alicia Moreau de Justo." 11
+
+
+
+La recepción en los medios de comunicación escrita
+
+
+
+      En general, la prensa escrita presentó el debate con una actitud objetiva
+
+desde el punto de vista político. Dado que este proyecto de ley era impulsado
+
+desde el gobierno por el entonces presidente Carlos Menem y, a la vez, recibía un
+
+fuerte respaldo de los distintos sectores políticos, no hubo lugar a una discusión
+
+en términos de su conveniencia o inconveniencia política. Si, en cambio, el debate
+
+en los medios de comunicación escrita se centró en la cuestión de género.
+
+      A diferencia de las discusiones parlamentarias, los diarios apelaron a un
+
+lenguaje sexista y, hasta en algunos casos, "machista" identificando a la mujer
+
+con las tareas domésticas del hogar. Algunos ejemplos son prueba de ello: "V.
+
+Franganillo planteó con métodos pocos seductores" (Clarín, 8 de julio), "Cafiero
+
+entró en discusión por culpa de una pollera" (Página 12, 1 de octubre), "Polémica
+
+[[PDF p. 14]]
+                                                                                      13
+
+
+con rimmel" (Revista Somos, edición de agosto), "Manzano no mando a Adelina a
+
+lavar los platos, pero casi" (Clarín, 27 de septiembre), etc.
+
+        El único medio que no apeló a este tipo de discursos fue el matutino
+
+porteño La Nación. Fiel a su tradición liberal, desde 1991 hasta la actualidad
+
+dedicó varias editoriales críticas hacia la ley de cupos señalando, por ejemplo,
+
+que:
+
+       “...la sanción de la norma que dispone la inclusión de cupos femeninos
+
+       obligatorios en las listas que oficializan los partidos políticos constituyó
+
+       un grave error. (...) establecer un proteccionismo institucional en favor de
+
+       la población femenina implica un lamentable retroceso. Se trata, en
+
+       efecto, de una ley trasnochada, que impone mecanismos regulatorios
+
+       donde imperaba, hasta ahora, la plena libertad de elección”..."La ley
+
+       24.012 ha consagrado diferencias inaceptables, que en lugar de marchar
+
+       en favor de la corriente histórica intenta contrariarla 12.
+
+
+
+       "(...) A la luz de una realidad que demuestra que la mujer no necesita
+
+       lazarillos para transitar la política, corresponde preguntarse si la ley de
+
+       cupo no es inconstitucional, en tanto viola la verdadera igualdad al tratar
+
+       como desiguales quienes son iguales. (...) ¿no estamos consagrando
+
+       una arbitrariedad, violatoria del principio según el cual sólo se accede a
+
+       los cargos públicos por razones de idoneidad? La mujer no necesita, en
+
+       este tiempo de cupo alguno. No debe olvidarse, por otra parte, que más
+
+       de la mitad de los electores son de sexo femenino..." 13
+
+[[PDF p. 15]]
+                                                                                  14
+
+
+     "(...) Cabe preguntarse qué pasaría si, con el correr de los años, la
+
+     presencia de la mujer en la política supera a la de los hombres. En la
+
+     actualidad, la ley establece un mínimo del 33 por ciento para la
+
+     participación de las mujeres en las listas; en poco tiempo más podría
+
+     pasar al 50 por ciento. Según la ley, no habría problema alguno en que la
+
+     totalidad de las candidaturas de una nómina sea ocupada por mujeres. Si
+
+     se tiende a la igualdad, ¿no está siendo la ley discriminatoria con los
+
+     hombres, al no asegurarles también un cupo? 14
+
+
+
+     Para La Nación, las mujeres no necesitan una ley especial que les facilite el
+
+camino en la actividad política. El argumento central en estos discursos tiene que
+
+ver con la "igualdad" entre los sexos y el rechazo a una norma que contradice
+
+este principio. Destacan, también, que el único requisito que debiera primar en la
+
+ocupación de cargos públicos es la "idoneidad" de sus funcionarios y legisladores.
+
+Frente a la presión de la dirigencia femenina, esta posición se mantuvo incólume.
+
+Un ejemplo de ello es la respuesta que brindó La Nación a la diputada Juliana
+
+Marino cuando criticó en una carta de lectores la postura adoptada en sus
+
+editoriales. El matutino contestó:
+
+     "La Nación ratifica su opinión en favor de un sistema que permita elegir a
+
+     los candidatos más idóneos, independientemente de su sexo, raza o
+
+     religión".15
+
+[[PDF p. 16]]
+                                                                                 15
+
+
+                                           III
+
+             La aplicación de la ley 24.012 en los comicios de 1993
+
+
+
+       Poco después de la entrada en vigencia de la ley de cupos, el poder
+
+ejecutivo creó el Consejo Nacional de la Mujer (decreto 1426/92), cuyo objetivo fue
+
+el de promover su aplicación y asesorar a las mujeres sobre su derecho a ser
+
+candidatas en los veinticuatro distritos del país.
+
+       La primera aplicación de esta norma recién tuvo lugar en los comicios de
+
+renovación parlamentaria de octubre de 1993. En esa oportunidad, los nuevos
+
+requerimientos legales para la conformación de las listas partidarias provocaron
+
+algunos conflictos.
+
+       En efecto, la puesta en marcha de esta legislación tropezó con las
+
+dificultades propias de un sistema que, por un lado, obligaba a presentar
+
+candidatas en las listas partidarias pero, por el otro, mantenía un sistema de
+
+selección partidaria de candidatos de tipo cerrado, en donde ninguna norma
+
+garantizaba una mínima participación de las mujeres dentro de la organización
+
+política (los partidos no habían modificado sus cartas orgánicas para adaptarlas a
+
+la nueva ley).
+
+       El resultado fue que los partidos políticos presentaron sus listas con un
+
+“criterio minimalista”, es decir, con un 30% de mujeres en su composición pero
+
+ocupando éstas los últimos lugares, sin posibilidades ciertas de ser elegidas.
+
+       Al mismo tiempo, y a pesar de que esta ley modificaba el artículo 60 del
+
+Código Nacional Electoral, los jueces electorales no aceptaron su reconocimiento
+
+como de “orden público” por lo que las impugnaciones a las listas partidarias sólo
+
+[[PDF p. 17]]
+                                                                                   16
+
+
+tenían validez si eran realizadas por el “particular damnificado”, es decir, por las
+
+propias candidatas perjudicadas por la confección de la boleta electoral.
+
+      Al respecto, también los juristas mantuvieron una posición ambivalente. En
+
+efecto, su aplicación dividió a la doctrina en dos bandos. Por un lado, estaban
+
+aquellos que consideraron que la norma era inconstitucional porque iba en contra
+
+del artículo 16 de la constitución de 1853-1860 que establecía la igualdad ante la
+
+ley y, en consecuencia, la norma resultaba discriminatoria contra los hombres y,
+
+por el otro, quienes argumentaron que la ley de cupos estaba amparada por la ley
+
+23.179 que permitía la adopción de este tipo de discriminación positiva y temporal.
+
+      En este contexto, el Consejo Nacional de la Mujer tuvo una participación de
+
+apoyo “moral” más que “técnico”, puesto que no existía jurisprudencia que le
+
+adjudicara legitimación activa frente a los pedidos de impugnación. De este modo,
+
+las candidatas debían enfrentar por sí solas el trámite judicial recibiendo, en estos
+
+casos, presiones muy fuertes por parte de las agrupaciones políticas a las que
+
+pertenecían. En algunas provincias, como Santiago del Estero, Tucumán y Salta,
+
+se amenazó con la desafiliación y expulsión del partido, mientras que en otras se
+
+utilizó un procedimiento mucho más simple: se las eliminaba de las listas para que
+
+de esta manera nadie pudiera impugnarlas.
+
+      Para superar estos problemas, el poder ejecutivo dictó un decreto
+
+reglamentario (decreto 379/93) que tituló “Participación de la mujer en listas de
+
+candidatos a cargos electivos”. Esta norma complementaria dispuso: 1) que el
+
+ámbito de aplicación de la ley 24.012 abarcaría la totalidad de los cargos electivos
+
+parlamentarios nacionales, la municipalidad de la ciudad de Buenos Aires y los
+
+consejos vecinales, 2) que el 30% de los cargos a integrarse por mujeres debía
+
+[[PDF p. 18]]
+                                                                                   17
+
+
+interpretarse como una cantidad mínima y que, por lo tanto, este porcentaje no
+
+debía ser interpretado como un techo máximo a la participación de las mismas, y
+
+3) de un modo taxativo, el lugar que debían ocupar las candidatas de acuerdo a la
+
+cantidad de cargos a renovar en cada distrito.
+
+       Después de su debut electoral, algunos dirigentes partidarios continuaron
+
+manifestando su oposición. El diputado nacional y presidente de la UC eDé, Jorge
+
+Aguado, presentó en el Congreso un proyecto por el cual solicitaba que se
+
+derogue la ley 24.012 aludiendo que, desde su sanción, se advertían graves
+
+dificultades para instrumentar la exigencia de ese cupo femenino y, como
+
+consecuencia de ello, los partidos se veían obligados a buscar mujeres para
+
+ocupar los primeros lugares de la lista partidaria cuando éstas nunca habían
+
+participado en política 16.
+
+
+
+                                         IV
+
+    Jursiprudencia de la Cámara Nacional Electoral y la Corte Suprema de
+
+                                      Justicia
+
+
+
+       En 1993, la Cámara Nacional Electoral se expidió por primera vez sobre
+
+una causa relacionada con la aplicación de la ley de cupos (Fallos CNE: 1567/93 y
+
+1568/93).
+
+       El caso conocido como “Darci Beatriz Sampietro s/impugnación lista de
+
+candidatos a diputados nacionales del Partido Justicialista distrito Entre Ríos” tuvo
+
+una sentencia favorable a la candidata que peleaba por ocupar uno de los
+
+primeros lugares de la lista partidaria. Sampietro había solicitado la impugnación
+
+[[PDF p. 19]]
+                                                                                    18
+
+
+de la boleta porque sostenía el incumplimiento de la ley 24.012 y de su decreto
+
+reglamentario en cuanto estas normas establecen la obligación de presentar un
+
+mínimo del 30%de los cargos a elegir con mujeres y en proporciones con
+
+posibilidad de resultar electas. De los cinco bancas nacionales en disputa en la
+
+provincia de Entre Ríos, el partido justicialista había presentado una lista que
+
+incluía a varones entre sus primeros cuatro lugares, dejando el quinto para la
+
+mujer.
+
+         En extenso fallo, la Cámara Nacional Electoral resolvió: a) revocar la
+
+resolución de la Junta Electoral del Partido Justicialista de Entre Ríos por el que se
+
+había desestimado la impugnación de la candidata y, b) ordenar su reubicación
+
+dentro de los tres primeros lugares de la boleta electoral puesto que reconoce que
+
+por debajo de este umbral se lesiona el derecho consagrado en la norma referido
+
+a las “posibilidades fácticas de ser electo”. La Cámara Nacional Electoral destacó
+
+que la interpretación de la ley 24.012/91 y su decreto reglamentario 379/93 debía
+
+hacerse con arreglo a la realidad, descartándose así la mera posibilidad de que
+
+todo candidato sea potencialmente susceptible de ser electo. En tal sentido,
+
+concluyó que como en los últimos comicios nacionales la agrupación justicialista
+
+había obtenido la mayoría de los votos y sólo había logrado tres escaños de los
+
+cinco que elige el distrito, correspondía en este caso ubicar a una mujer dentro de
+
+los tres primeros lugares de la boleta electoral del partido.
+
+         Esta sentencia significó un importante respaldo para la vigencia de la norma
+
+dado que legitimaba su carácter de orden público y evitaba, en consecuencia, que
+
+las organizaciones políticas continuaran adoptando una actitud minimalista en el
+
+diseño de sus listas.
+
+[[PDF p. 20]]
+                                                                                   19
+
+
+     "(...) la ley 24.012 legisla sobre una materia de orden público, puesto que
+
+     en ella está interesada la organización institucional de la Nación, toda
+
+     vez que versa sobre la forma en que se ponen en funcionamiento los
+
+     poderes organizados por la Constitución. Si el sistema que rige la vida de
+
+     los partidos políticos es de orden público (art. 5, ley 23.298), con mayor
+
+     razón lo serán las disposiciones del Código Electoral Nacional con el cual
+
+     aquella ley se encuentra íntimamente vinculada, ya que ambas permiten
+
+     la nominación y elección de candidatos a los diversos cargos por parte
+
+     de los ciudadanos”
+
+
+
+      La Corte Suprema de Justicia ratificó el carácter de orden público de esta
+
+ley (Fallo 316: 2031).
+
+      Paralelamente, se presentó ante la Cámara Nacional Electoral, otro caso de
+
+impugnación de listas “Merciadri de Morini, María Teresa s/presentación Unión
+
+Cívica Radical distrito Córdoba” (Fallo 1565/93 y 1651/93) que se diferenciaba del
+
+anterior por la proveniencia de la solicitud. En esta caso particular, la objeción no
+
+había sido realizada por alguna de las candidatas damnificadas sino por una
+
+afiliada al partido radical que comparece en calidad de miembro de la organización
+
+y como ciudadana electora que deseaba votar en los comicios nacionales de 1993
+
+por una lista conforme a las normas vigentes.
+
+      La Cámara Nacional Electoral resolvió rechazar el recurso de apelación por
+
+dos votos contra uno (Munné y Orlandi a favor, Rocca en disidencia) al sostener
+
+que la peticionante no poseía legitimación para litigar y que la causa no invocaba
+
+ningún derecho subjetivo concreto que haya sido vulnerado, como ser “e l derecho
+
+[[PDF p. 21]]
+                                                                                       20
+
+
+a ser elegido”, tal como lo requiere el art. 57 de la ley sobre partidos políticos
+
+23.298.
+
+       En disidencia, el Dr. Munné reconoció la personería de la presentante
+
+fundamentado su voto en los arts 23, 26, 27 y 57 de la ley 23.298 y en el carácter
+
+de orden público de esta norma. En consecuencia, avaló a la demandante en
+
+cuanto reclamaba el cumplimiento de la ley de cupos y sostuvo, además, que era
+
+legítimo el pedido de integrar con mujeres los cinco primeros lugares de la lista
+
+partidaria conforme a la consigna “con posibilidades de ser electos”.
+
+       El recurso extraordinario presentado ante la Corte Suprema de Justicia tuvo
+
+un resultado desfavorable ya que este Tribunal consideró al caso como una
+
+cuestión abstracta con el argumento de que en las elecciones nacionales del 3 de
+
+octubre de 1993, la UCR había obtenido un caudal de votos que le había
+
+consagrado cuatro legisladores y en la causa se disputaba quién debía haber
+
+ocupado la quinta candidatura.
+
+       La peticionaria consideró que la cuestión no debía entenderse así dado que
+
+no se reconocía el “derecho en expectativa”, en el caso de que se produjera una
+
+vacante entre los elegidos. Si esto sucedía, ascendía un varón (el que quedó con
+
+el quinto lugar) y no una mujer. Disconforme con este resultado, el 15 de junio de
+
+1994 presentó una petición ante la Comisión Interamericana de Derechos
+
+Humanos (CIDH) en la que alegó la violación de los derechos al debido proceso
+
+(art. 8), a los derechos políticos (art. 23), a la igualdad ante la ley (art. 24) y a los
+
+recursos efectivos (art. 25) establecidos en la Convención Americana sobre
+
+Derechos Humanos en su perjuicio.
+
+[[PDF p. 22]]
+                                                                                       21
+
+
+      Al año siguiente, en 1995, Merciadri de Morini -mientras esperaba el
+
+dictamen de la CIDH- presentó una nueva solicitud de impugnación a la lista
+
+armada por el partido radical de la provincia de Córdoba en la que pedía la
+
+incorporación de dos mujeres entre los primeros cinco lugares dado que en esa
+
+ocasión el distrito renovaba cinco cargos para diputado nacional. El juez de
+
+primera instancia rechazó el pedido al considerar que la peticionante carecía de
+
+legitimidad para actuar. Sin embargo, la Cámara Nacional Electoral (Fallo1836/95)
+
+resolvió dar lugar al pedido efectuado por Merciadri de Morini.
+
+      El giro dado por el Tribunal en este nuevo pronunciamiento se fundamenta
+
+en la incorporación del artículo 37 de la constitución reformada en 1994. (Al
+
+respecto, ver punto VI)
+
+     “(...) Ese es el concreto y sustancial perjuicio que se le infiere: privarle de
+
+     votar por una lista del partido de su preferencia conformada con arreglo a
+
+     disposiciones legales y obligarle entonces a votar por una lista que no se
+
+     adecua a dichas disposiciones, o por otro partido o en blanco, todo ello
+
+     con obvia violación del mencionado art. 37 en cuanto garantiza el pleno
+
+     ejercicio de los derechos políticos. No puede entonces negarse al
+
+     ciudadano elector –en el caso de la señora Merciadri de Morini-
+
+     legitimación para requerir que dicho derecho sea respetado”
+
+
+
+      Como consecuencia del fallo anterior, ese mismo año, la Cámara Nacional
+
+Electoral otorgó al Consejo Nacional de la Mujer la legitimidad para iniciar
+
+acciones legales en defensa de todas las candidatas (Fallo 1919/95):
+
+[[PDF p. 23]]
+                                                                                   22
+
+
+     “(...) El Consejo Nacional de la Mujer, en particular, tendrá como objetivo
+
+     primordial la concreción del compromiso asumido por el Estado Argentino
+
+     al ratificar la adhesión a la Convención sobre la Eliminación de todas las
+
+     formas de discriminación contra la Mujer (art. 2, decreto 1426/92). En tal
+
+     medida no puede negársele a su presidente –quien representa
+
+     legalmente a dicho Consejo (cf. Art. 6 inc. A, decreto cit.)- legitimación
+
+     para iniciar las acciones legales tendientes a satisfacer tal objetivo
+
+     procurando, en particular, asegurar la debida integración con mujeres de
+
+     las listas de candidato, en aplicación de la ley 24.012, del artículo 37 de
+
+     la Constitución Nacional y de la cláusula transitoria segunda”.
+
+
+
+      Recién en 1999, la CIDH se expidió sobre la presentación efectuada por
+
+Merciadri de Morini en 1994. En el informe 102/99 declaró la admisibilidad del
+
+caso y propuso una solución amistosa que fue acordada el 8 de marzo de 2001
+
+cuando la demandante expresó que el decreto presidencial 1246/00 (derogatorio
+
+del decreto 379/93) contemplaba adecuadamente los aspectos fundamentales que
+
+dieron sustento a su denuncia inicial. (sobre su contenido, ver punto VI)
+
+
+
+                                         V
+
+   Reforma Constitucional de 1994y las nuevas reglas de reconocimiento
+
+
+
+      La reforma constitucional de 1994, avaló el “cupo femenino” al reconocer en
+
+el nuevo artículo 37 la adopción de medidas de discriminación positiva, es decir,
+
+alteraciones en el principio de igualdad con el objetivo de favorecer a ciertos
+
+[[PDF p. 24]]
+                                                                                  23
+
+
+grupos sociales –que se presumen son discriminados- y asegurar, de este modo,
+
+la "igualdad real" de los mismos.
+
+      El artículo 37 consigna:
+
+     "Esta constitución garantiza el pleno ejercicio de los derechos políticos,
+
+     con arreglo al principio de la soberanía popular y de las leyes que se
+
+     dicten en consecuencia. El sufragio es universal, igual, secreto y
+
+     obligatorio.
+
+     La igualdad real de oportunidades entre varones y mujeres para el
+
+     acceso a cargos electivos y partidarios se garantizará por acciones
+
+     positivas en la regulación de los partidos políticos y en el régimen
+
+     electoral”.
+
+
+
+     Como sostiene Bidart Campos17, se trata de una norma nueva puesto que el
+
+texto constitucional de 1853-1860 no contenía dispositivos explícitos sobre los
+
+derechos políticos, más allá de los mínimos referentes al sistema electoral en las
+
+partes destinadas a la designación de funcionarios. Esta inclusión elevó el derecho
+
+electoral activo y pasivo de las mujeres que, hasta el momento, dimanaba de la
+
+ley. En este sentido, el artículo 37 obliga a las organizaciones políticas a
+
+garantizar mediante acciones positivas, la igualdad real de oportunidades para
+
+hombres y mujeres.
+
+     Por su parte, la cláusula transitoria segunda de la constitución reformada
+
+dispuso que las medidas de acción positiva que se dictasen en el futuro no
+
+podrían ser inferiores a las existentes al tiempo de sanción de la constitución (es
+
+decir, no inferior al 30%) y durarán lo que la ley determine.
+
+[[PDF p. 25]]
+                                                                                                 24
+
+
+      De esta manera, se mantiene como mínimo todo cuanto, en pro de la
+
+igualdad de oportunidades, estaba previsto en la ley 24.012. Si esta norma, había
+
+sido interpretada por algunos sectores como inconstitucional puesto que
+
+discriminaba a los hombres, la incorporación de estos mecanismos de acción
+
+positiva   en    el     plexo     normativo        constitucional   dejaron   de     lado     estas
+
+consideraciones.
+
+      Si bien es cierto que no puede alterarse el porcentaje del cupo, es la
+
+temporalidad de la ley la que marca su caducidad ya que las "acciones positivas”
+
+deben finalizar cuando cumplieron con el objetivo buscado. En otras palabras, el
+
+cupo del 30% podría ser suprimido o reemplazado por otro, si el congreso
+
+considera que la discriminación inversa a favor de la mujer ya cumplió con su ciclo
+
+o ésta debe adquirir perfiles diferentes. Sin embargo, la ley 24.012 no marcó entre
+
+sus considerandos un límite temporal a la acción positiva y su transitoriedad
+
+deberá ser definida por el congreso con otra norma electoral 18.
+
+      La reforma constitucional de 1994 introdujo también otras normas
+
+antidiscriminatorias      que     resultan        complementarias    al   artículo   37.    Estas
+
+disposiciones,        conocidas     por      la     doctrina   jurídica   como       bloque     de
+
+constitucionalidad, emergen de los tratados internacionales invocados en el
+
+artículo 75, inciso 22 y a los que se les adjudicó "jerarquía constitucional”. Entre
+
+estas reglamentaciones se encuentran los siguientes tratados y declaraciones: el
+
+Pacto de San José de Costa Rica (art. 23, inciso 1, apartado c), el Pacto
+
+Internacional de Derechos Civiles y Políticos y su Protocolo Facultativo (art.
+
+25, inciso c y art. 26), la Declaración Americana de los Derechos del Hombre
+
+(art. 20), la Declaración Universal de Derechos Humanos (art. 21, inciso 2), y la
+
+[[PDF p. 26]]
+                                                                                 25
+
+
+Convención sobre la eliminación de todas las formas de discriminación
+
+contra la mujer (art. 7).
+
+
+
+                                         VI
+
+       El impacto de la Ley de Cupos en el orden nacional y provincial.
+
+
+
+Los números
+
+
+
+       Como arreglo electoral, la ley de cupos tampoco opera en el vacío sino que
+
+su mayor o menor impacto a nivel de representación está directamente vinculado
+
+con dos elementos constitutivos de los sistemas electorales: el tamaño o la
+
+magnitud de los distritos (es decir el número de candidatos que se eligen en la
+
+circunscripción: uno, pocos, muchos) y el tipo de lista (cerrada y bloqueada,
+
+cerrada y no bloqueada o lista abierta). Cuanto mayor es la magnitud del distrito
+
+es más probable que crezca el porcentaje de legisladoras electas. Las listas
+
+cerradas y bloqueadas aumentan la posibilidad de las mujeres de ser electas,
+
+mientras que los sistemas que establecen algún tipo de voto preferencial
+
+intrapartidario   (preferencias, "tachas",    ley de   lemas)   tienen   un impacto
+
+potencialmente negativo sobre la representación femenina.
+
+       La ley de cupos nacional se aplicó primero para la elección de la cámara de
+
+diputados, donde sus miembros son elegidos por cada provincia en distritos
+
+plurinominales de magnitud variable (desde un mínimo de 2 en las provincias
+
+menos pobladas a un máximo de 35 en la más importante, Buenos Aires),
+
+mediante una fórmula de asignación de bancas de tipo proporcional (d´Hondt) y
+
+[[PDF p. 27]]
+                                                                                    26
+
+
+listas cerradas y bloqueadas. En los comicios de octubre de 2001, la primera
+
+elección directa de los senadores después de la reforma constitucional de 1994,
+
+obligaba a los partidos políticos a aplicar esta norma para la renovación de estos
+
+cargos. El decreto regulatorio 1246/2000 firmado por el presidente Fernando De la
+
+Rúa (como consecuencia de un acuerdo de solución amistosa promovido por la
+
+petición efectuada por Merciadri de Morini ante la CIDH en 1994) ampliaba, de
+
+este modo, los alcances de la ley 24.012 al tiempo que confirmaba su aplicación
+
+para el cargo.
+
+        Esta nueva reglamentación solucionó la cuestión interpretativa sobre el
+
+significado de que los lugares ocupados por las mujeres debían efect uarse
+
+conforme a la “probabilidad de ser electas” y habilita a todas las personas
+
+inscriptas en el padrón electoral del distrito a impugnar cualquier lista considerada
+
+violatoria de la ley 24.012 (art. 11). También presentó -de manera más ordenada-
+
+la forma de integrar las listas según la cantidad de cargos disputados (art. 5 y 6) y
+
+la manera de ser reemplazadas en caso de que por cualquier motivo ajeno a su
+
+voluntad debieran abandonar las candidaturas antes de efectuarse los comicios
+
+(art. 9).
+
+        A nivel provincial, veinte de los veinticuatro distritos electorales en los que
+
+está dividida la Argentina adoptaron esta norma para cargos locales. Las
+
+excepciones son Chubut, Entre Ríos, Corrientes y Formosa. En las provincias, la
+
+legislación sobre cupo femenino siguió los lineamientos generales de la ley 24.012,
+
+pero en algunos casos, como en las provincias de Santiago del Estero y Córdoba,
+
+la misma ley elevó el porcentaje mínimo del cupo a un 50% para la integración de
+
+candidatas mujeres al recinto parlamentario. En ambos casos, la ley aprobada fue
+
+[[PDF p. 28]]
+                                                                                     27
+
+
+una iniciativa de las esposas de los gobernadores justicialistas Juárez y De la Sota,
+
+quienes cumplen una activa participación en la organización de la rama femenina
+
+partidaria y desempeñan, al mismo tiempo, funciones ejecutivas. Mientras "Nina"
+
+Aragonés de Juárez es la Vicegobernadora de Santiago del Estero, Olga Riutort de
+
+De la Sota es la Secretaria General de la Gobernación en Córdoba 19.
+
+      En los primeros años de la transición democrática, y aún después, los
+
+niveles de representación femenina en la cámara de diputados nacional fueron
+
+comparativamente bajos (véase cuadro 2). En efecto, durante el período 1983-
+
+1991 las mujeres ocuparon -en promedio- el 4% de las bancas, alcanzando su
+
+registro más alto en 1989 con el 6,7%. Con la aplicación de la ley de cupos, esta
+
+tendencia se revirtió: en la primera elección que se aplicó las mujeres ocuparon el
+
+13,6% de los escaños parlamentarios para subir al 27,2% en 1995 después y
+
+mantenerse en el 28% en 1997 (véase cuadro 2).
+
+      Poco después, los partidos también reformaron sus cartas orgánicas para
+
+adecuarlas a las modificaciones introducidas en la normativa electoral provincial.
+
+      En la mayoría de las provincias, los cambios de este tipo se produjeron
+
+entre 1995 y 1997 por lo que los efectos de la ley de cupos sobre la participación
+
+femenina en las legislaturas sólo pueden observarse desde este último año en
+
+adelante. Inclusive, en algunas provincias las variaciones recién pueden notarse a
+
+partir de la elección de 1999, porque sus constituciones establecen la renovación
+
+legislativa total cada cuatro años.
+
+      Como era esperable, la ley de cupos también tuvo un importante impacto en
+
+los veinte distritos en los que se aplicó. A grandes rasgos, este reforma funcionó
+
+[[PDF p. 29]]
+                                                                                28
+
+
+mejor en aquellas provincias en donde la magnitud de distrito era alta y donde los
+
+partidos políticos presentaban una sola lista partidaria cerrada y bloqueada.
+
+      Según lo señala un estudio empírico, en estas provincias el porcentaje
+
+promedio de mujeres legisladoras se triplicó, pasando del 7% en 1991 al 21% en
+
+1997, pero el impacto positivo fue menor en aquellas donde se combinó la ley de
+
+cupos con algún tipo de voto preferencial intrapartidario 20 o donde las reformas
+
+electorales tendieron a reducir la magnitud de distrito incorporando “sistemas
+
+mixtos” o “sistemas segmentados”. De este modo, ¿cómo cumplir con el 30% de
+
+candidatas en lugares expectables cuando las leyes electorales que promueven la
+
+apertura de las listas anulan este requisito? Por ejemplo, en las elecciones
+
+municipales de Ushuaia el pasado 26 de octubre de 2003, el sistema de
+
+preferencias provocó que sólo una de los siete concejales electos fuera mujer,
+
+mientras que si se hubiera utilizado una boleta partidaria cerrada y bloqueada
+
+habrían resultado electas un mínimo de tres concejalas.
+
+[[PDF p. 30]]
+                                                                                  29
+
+
+      Otro tanto ocurre con la ley de lemas que admite la presentación
+
+indiscriminada de boletas electorales. También en los sistemas mixtos o
+
+segmentados la efectividad del cupo decae pues al disminuir el tamaño de los
+
+distritos (generalmente una combinación de varios distritos uninominales y uno
+
+plurinominal grande) también disminuye la cantidad de mujeres candidatas. En
+
+síntesis, las reformas electorales promovidas por los gobiernos provinciales
+
+tienden a anular la eficacia de la ley ya sea porque permiten alterar el orden de la
+
+lista preestablecido por los partidos o bien porque los rediseños distritales
+
+disminuyen el número de legisladores electos por sección electoral quedando
+
+éstos pocos lugares generalmente ocupados en su mayoría por los hombres.
+
+
+
+
+El poder real de las legisladoras en el congreso nacional
+
+
+
+      Un modo de indagar sobre esta cuestión en el área parlamentaria es
+
+verificando la participación que las legisladoras tienen en “posiciones de liderazgo”
+
+como: a) autoridades de cámara (presidencia, vicepresidencia, y tres primeros
+
+vocales), b) autoridades de bloques partidarios (presidencia), y c) en las distintas
+
+comisiones del congreso (presidencia).
+
+      En Diputados, desde 1983 a la actualidad, ninguna mujer ocupó los cargos
+
+de mayor jerarquía como autoridad de cámara ni tampoco éstas pudieron
+
+desempeñarse como presidente de sus propios bloques partidarios (Cuadros, 4 y
+
+5). En cuanto a las presidencias de las comisiones, recién a partir de 1997 se
+
+observa un aumento gradual, siendo ésta participación mayor en las comisiones
+
+[[PDF p. 31]]
+                                                                                 30
+
+
+denominadas “B” 21. Las posiciones ejecutivas de las comisiones más importantes,
+
+las denominadas “A”, mantuvieron, durante todo el período en estudio, el liderazgo
+
+masculino 22.
+
+      En este aspecto, nada ha cambiado: la tendencia verificada durante los
+
+períodos 1952-1955, 1958-1961, 1963-1966, 1973-1975 y 1983-1986, confirman el
+
+hecho de que las diputadas continúan ocupando mayormente comisiones
+
+consideradas como “femeninas” o “menores”.
+
+      En el Senado, tampoco las mujeres ocuparo n los cargos más importantes: ni
+
+como autoridades de cámara, ni como jefas de bloque. El cambio más importante
+
+se produjo en el 2001, con la elección directa y total del senado. En la actualidad,
+
+las mujeres ocupan el 36,2% de las comisiones cuando el promedio general desde
+
+1983 había sido del 11,8%. A lo largo de este período, sólo cinco comisiones
+
+estuvieron a cargo de alguna mujer y por períodos relativamente cortos: Cultura
+
+(1989-1992), Recursos Hídricos (1998-2001) y De la Integración (1998-2001),
+
+excepto, Educación (1983-1998) y Obras Públicas (1983-1992) que superaron en
+
+continuidad al resto.
+
+      Las mujeres siguen siendo relegadas a la hora de presidir las comisiones
+
+más importantes del congreso. El hecho de que el porcentaje de legisladoras al
+
+frente de comisiones haya aumentado a lo largo de este período es un dato
+
+positivo, sin embargo, es preciso señalar que este incremento no se corresponde
+
+con el aumento cuantitativo de las mujeres. Por ejemplo, si en 1983 el 18,2% de
+
+las diputadas ocupaba una presidencia, en la actualidad y con la ley de cupos
+
+mediante, este porcentaje desciende al 16,6%. En el senado ocurre lo mismo, en
+
+[[PDF p. 32]]
+                                                                                    31
+
+
+1983, el 66,7% de las legisladoras estaba a cargo de una comisión, en el 2001, el
+
+65,4%.
+
+      En definitiva, a pesar de la ley de c upos, hasta ahora más bancas no
+
+significó más poder para las mujeres parlamentarias.
+
+
+
+                                         VII
+
+                              A modo de conclusión
+
+
+
+      La modificación del Código Nacional Electoral en la Argentina y la
+
+incorporación de la cuota femenina en la confección de las listas partidarias
+
+permitió el rápido incremento del número de mujeres en los órganos legislativos.
+
+      En este tiempo, la actividad del Consejo Nacional de la Mujer fue muy
+
+importante para evitar que la norma fuese letra muerta, ya que promovió e inició
+
+acciones legales para garantizar su efectivo cumplimiento.
+
+      El ejemplo de la ley 24.012 fue adoptado por una veintena de provincias y
+
+esta innovación, junto con las reformas de las respectivas cartas orgánicas
+
+partidarias de distrito, provocó también un cambio positivo en la representación
+
+femenina en los órganos deliberativos provinciales y municipales.
+
+      Sin embargo, a casi trece años de su aprobación y tras seis elecciones
+
+legislativas celebradas bajo sus disposiciones, el cumplimiento de los objetivos
+
+cuantitativos de la ley no parece haber sido acompañado por transformaciones o
+
+avances de tipo cualitativo. Las mujeres continúan siendo relegadas a la hora de
+
+distribuir espacios de poder al interior de las instituciones parlamentarias. Por otra
+
+parte, una cantidad considerable de las mujeres designadas para estos cargos
+
+[[PDF p. 33]]
+                                                                              32
+
+
+han accedido a ellos gracias a relaciones de parentesco o vínculos de confianza
+
+con hombres públicos antes que por su participación activa en política.
+
+      Estos ejemplos demuestran que ciertas medidas destinadas a promover la
+
+igualdad entre varones y mujeres no tienen un efecto automático sino que sus
+
+consecuencias sólo se pueden observar totalmente a largo plazo. Ciertas formas
+
+de discriminación están tan presentes en los valores de una sociedad y en las
+
+prácticas de los grupos e instituciones que la integran, que un simple cambio de
+
+las reglas electorales no puede borrarlas de un día para otro.
+
+[[PDF p. 34]]
+                                                                                   33
+
+
+Bibliografía General
+
+
+
+- Archenti, Nélida y Gómez, Patricia, “Participación Política de la Mujer y Políticas
+
+Públicas”, Carrera de Ciencia Política, Facultad de Ciencias Sociales, Universidad
+
+de Buenos Aires, Buenos Aires, 1993.
+
+
+
+- Bidart Campos, Germán, Tratado Elemental de Derecho Constitucional
+
+Argentino, Tomo VI: La Reforma Constitucional de 1994, EDIAR, 2da. Impresión,
+
+1997.
+
+
+
+- Botte, Susana y Dorola, Evangelina, “La representación femenina en el Congreso
+
+de la Nación. No sólo una cuestión de género”, en Estudios e Investigaciones Nro.
+
+9, Honorable Cámara de Diputados de la Nación, Secretaría Parlamentaria,
+
+Dirección de Información Parlamentaria, Buenos Aires, 1996
+
+
+
+- Del Solar, Josefina Rosa, “Mujer y Política en la Argentina”, Consejo Nacional de
+
+Investigaciones Científicas y Técnicas (CONICET), Buenos Aires, 1988
+
+
+
+- Durrieu, Marcela, Se dice de Nosotras, Buenos Aires, 1999.
+
+
+
+- Fuld, Roberto, “La mujer y la política en la Argentina”, en Estudios e
+
+Investigaciones Nro. 9, Honorable Cámara de Diputados de la Nación, Secretaría
+
+Parlamentaria, Dirección de Información Parlamentaria, Buenos Aires, 1996
+
+[[PDF p. 35]]
+                                                                                     34
+
+
+- Jiménez Polanco, Jacqueline, "Mujer y Clase Política en América Latina", paper
+
+presentado en el XXI Congreso Internacional, Latin American Studies Association
+
+(LASA), Chicago, 24 al 26 de septiembre de 1998.
+
+
+
+- Jiménez Polanco, Jacqueline, “Representación Política: un análisis comparado
+
+del caso argentino”, en Portugal, Ana María & Torres, Carmen (compiladoras), El
+
+Siglo de las Mujeres, ISIS Internacional, Ediciones de las Mujeres, Nro. 28, 1999.
+
+
+
+- Jones, Mark P., "Increasing Women's Representation Via Gender Quotas: The
+
+Argentine Ley de Cupos", en Women & Politics 16 (4), 1996.
+
+
+
+- Jones, Mark P., “Cupos de Género, leyes electorales y elección de legisladoras
+
+en las Américas”, en Revista Argentina de Ciencia Política, Nro. 1, Buenos Aires,
+
+noviembre de 1997.
+
+
+
+- Lubertino, María José (compiladora), Cuota Mínima de Participación de Mujeres:
+
+el Debate en Argentina, Fundación Friedrich Ebert, Buenos Aires, 1992.
+
+
+
+- Molinelli, N. Guillermo, “Las mujeres en el Congreso argentino”, en La Ley, Año,
+
+LIV, Nro. 154, 1990.
+
+
+
+- Molinelli, N. Guillermo, "Argentina: The (No) Ceteris Paribus Case", en Rule,
+
+Wilma y Zimmerman, Joseph (editores), Electoral Systems in Comparative
+
+[[PDF p. 36]]
+                                                                                 35
+
+
+Perspective: Their Impact on Women and Minorities, Greenwood Press, Westport,
+
+1994.
+
+
+
+- Sistema Nacional de Información Mujer, Consejo Nacional de la Mujer
+
+(http://www.snim.gov.ar).
+
+
+
+
+                                      Apéndice
+
+
+
+  Cuadro Nro. 1: Representación de las mujeres en Congreso de la Nación.
+
+                    Honorable Cámara de Diputados (1952-1973)
+
+
+
+                        1952    1955     1958    1960   1963    1965   1973
+
+        Número de         23     34       4       2      1       4      19
+
+        diputadas
+
+           %              15     22       2       1     0,5      2       8
+
+     Total bancas        155    157      187     192    192     192     243
+
+
+
+ Fuente: Botte, Susana y Dorola, Evangelina, “La representación femenina en el
+
+ Congreso de la Nación. No sólo una cuestión de género”, en Estudios e
+
+[[PDF p. 37]]
+                                                                                  36
+
+
+     Investigaciones Nro. 9, Honorable Cámara de Diputados de la Nación,
+
+     Secretaría Parlamentaria, Dirección de Información Parlamentaria, Buenos
+
+     Aires, 1996.
+
+
+
+      Cuadro Nro. 2: Representación de las mujeres en Congreso de la Nación.
+
+                       Honorable Cámara de Diputados (1983-2003)
+
+
+
+            1983- 1985- 1987- 1989- 1991- 1993- 1995- 1997- 1999- 2001-
+
+            85      87       89     91     93     95      97     99      01      03
+
+ Diputada    11        11     12     17     14      35     70      72     70      78
+
+     s
+
+     %       4,3       4,3    4,7    6,7    5,4    13,6   27,2    28,0    27,2   30,3
+
+   Total     254       254    254    254    257    257     257     257    257    257
+
+  bancas
+
+
+
+Fuente: Elaboración propia según diversas fuentes: Botte, Susana y Dorola, Evangelina,
+
+“La representación femenina en el Congreso de la Nación. No sólo una cuestión de
+
+género”, en Estudios e Investigaciones Nro. 9, Honorable Cámara de Diputados de la
+
+Nación, Secretaría Parlamentaria, Dirección de Información Parlamentaria, Buenos Aires,
+
+1996 y “La participación femenina en el Honorable Congreso Nacional”, Instituto Federal
+
+de Estudios Parlamentarios (IFEP), Honorable Senado de la Nación, Secretaria
+
+Parlamentaria, 2001.
+
+[[PDF p. 38]]
+                                                                                                  37
+
+
+Cuadro Nro. 3: Representación de las mujeres en el Congreso de la Nación.
+
+                 Honorable Cámara de Senadores (1983-2003)
+
+
+
+                     1983-     1986-      1989-       1992-     1995-       1998-      2001-
+
+                     86        89         92          95        98          01         03
+
+    Número de             3         3          4           2         4           4       26
+
+    senadoras
+
+        %                 7         7          9           4         6           6       36
+
+   Total bancas        46        46        46           46           72       72         72
+
+
+
+Fuente: Elaboración propia según diversas fuentes: “El próximo senado con
+
+perfume de mujer”, en La Nación, 2 de diciembre de 2001 y “La participación
+
+femenina en el Honorable Congreso Nacional”, Instituto Federal de Estudios
+
+Parlamentarios    (IFEP),     Honorable    Senado          de   la       Nación,     Secretaria
+
+Parlamentaria, 2001.
+
+
+
+
+            Cuadro Nro. 4: Posiciones Ejecutivas de las Mujeres
+
+                 Honorable Cámara de Diputados (1983-2003)
+
+
+
+                                                   Renovación Legislativa
+
+[[PDF p. 39]]
+                                                                                    38
+
+
+                        83-85 85-87 87-89 89-91 91-93 93-95 95-97 97-99 99-01 01-03
+
+   Autoridades de la
+
+        Cámara
+
+-Presidente
+
+-Vicepresidente            0     0      0      0     0      0      0     0      0        0
+
+-Vicepresidente 1ro.
+
+-Vicepresidente 2do.
+
+-Vicepresidente 3ro.
+
+ Autoridades Bloques
+
+      Partidarios          0     0      0      0     0      0      0     0      0        0
+
+-Presidente PJ             0     0      0      0     0      0      0     0      0        0
+
+-Presidente UCR            -      -     -       -     -     -      0     0      0        0
+
+-Presidente FREPASO
+
+      Presidencia          2     1      2      3     2      3      4     5     10        13
+
+      Comisiones         9,5% 4,3% 7,7% 11,5% 6,4% 8,3% 11,4% 12,8% 22,2 28,9%
+
+   Total Comisiones       21     23    26     26     31    36     37    39     45        45
+
+  Fuente: Elaboración propia.
+
+Nota: En las autoridades de bloques partidarios se cuentan sólo los partidos políticos que
+
+superaron el 5% de los escaños parlamentarios
+
+
+
+                            Cuadro Nro. 5: Posiciones Ejecutivas de la Mujer
+
+                        Honorable Cámara de Senadores (1983-2003)
+
+[[PDF p. 40]]
+                                                                                                            39
+
+
+                                                             Renovación Legislativa
+
+                                    83-86      86-89       89-92        92-95       95-98 98-01          01-03
+
+      Autoridades de la
+
+            Cámara
+
+    Presidente                         0          0            0           0           0         0          0
+
+    Presidente Provisional
+
+    Vicepresidente
+
+    Vicepresidente 1ro.
+
+    Vicepresidente 2do.
+
+     Autoridades Bloques
+
+           Partidarios                 0          0            0           0           0         0          0
+
+    Presidente PJ                      0          0            0           0           0         0          0
+
+    Presidente UCR
+
+          Presidencia                  2          2            3           1           2         2         17
+
+          Comisiones                6,9%        6,9%        9,4%         2,6%       4,9%      4,8%      36,2%
+
+      Total Comisiones                29         29           32          38          41        42         47
+
+Fuente: Elaboración propia.
+
+
+
+
+1
+  Según los fundamentos presentados en el proyecto de ley, el 30% no representa un porcen taje arbitrario por
+cuanto surge de estudios sobre las realidades políticas de varios países: la cuota promedio de participación
+efectiva de la mujer en Portugal es del 15%, en Francia, Italia, Noruega y Suecia, del 20%, y en Bélgica,
+Holanda y Austria, del 25%.
+2
+  Durrieu, Marcela, Se dice de Nosotras, capítulo III: “Retorno a la democracia y participación política de las
+mu jeres”, 1999.
+
+[[PDF p. 41]]
+                                                                                                                         40
+
+
+
+      3
+         Al respecto, véase Balaguer, Adriana, "Mujeres al borde de un ataque de urnas", en La Razón, 3 de
+      setiembre de 1991; "Proponen inclu ir el 30 por ciento de mujeres en las listas de candidatos", en Clarín, 22 de
+      septiemb re de 1991; “Las mujeres apuran la ley del cupo electoral", en Clarín, 26 de septiembre de 1991;
+      "Manzano quiere mujeres en las listas, a pesar de Adelina”, en Clarín, 27 de septiembre de 1991; Marcucci,
+      Carlos, "Para eso, pidan un 50%", en Clarín, 22 de octubre de 1991; Orlansky, Dora y Soto, Moira, "Políticos,
+      los peores machistas", en Clarín, 22 de octubre de 1991; “El empujón que hacía falta”, en Clarín, 8 de
+      noviembre de 1991; y Guadalupe, Graciela, “Mujeres candidatas y una lucha en sus comien zos”, en La
+      Nación, 9 de noviembre de 1991.
+      4
+        Diario de Sesiones, Honorable Cámara de Diputados, 6 de noviembre de 1991.
+      5
+        Diario de Sesiones, Honorable Cámara de Diputados, p.4176.
+      6
+        Diario de Sesiones, Honorable Cámara de Diputados, p.4120.
+      7
+        Diario de Sesiones, Honorable Cámara de Diputados, p.4124.
+      8
+        Diario de Sesiones, Honorable Cámara de Diputados, p.4157.
+      9
+        Diario de Sesiones, Honorable Cámara de Diputados, p.4149.
+      10
+         Diario de Sesiones, Honorable Cámara de Diputados, p.4167.
+      11
+         Diario de Sesiones, Honorable Cámara de Diputados, 6 de noviembre de 1991.
+      12
+         La Nación, "Mujeres en listas de candidatos", comentario editorial del 26 de enero de 1993.
+      13
+         La Nación, "No al cupo femenino", editorial del 6 de septiembre de 2000.
+      14
+         La Nación, "Otra vez el cupo femenino", editorial del 30 de mayo de 2001.
+      15
+         La Nación, respuesta de la redacción, 10 de junio de 2001.
+      16
+          Ver Díaz, Javier, "¿Una batalla entre sexos?", en La Nación, 17 de enero de 1993.
+      17
+         Bidart Campos, Germán, Tratado Elemental de Derecho Constitucional Argentino , Tomo VI: La Refo rma
+      Constitucional de 1994, EDIAR, 2da. Imp resión, 1997.
+      18
+         La nueva ley deberá ajustarse a los artículos 77 y 99, inciso 3 que reglamentan las modificaciones sobre la
+      legislación electoral y de partidos políticos. El primero de ellos sostiene que deberán ser aprobados por
+      mayoría absoluta del total de los miembros de las Cámaras, mientras que el segundo, prohibe al ejecutivo
+      dictar decretos de necesidad y urgencia en la materia.
+      19
+         Ver "Ya es ley cupo femenino en Santiago", en Ambito Financiero, 6 de septiemb re de 2000 y "Es ley la
+      ampliación del cupo femenino", en La Vo z del Interior, Córdoba, 30 de noviembre de 2000;
+      20
+         Jones, Mark, “Cupos de Género, leyes electorales y elección de legisladoras en las Américas”, en Revista
+      Argentina de Ciencia Política, Nro. 1, Buenos Aires, noviembre de 1997.
+22
+     Las comisiones han sido clasificadas según su grado de generalidad: las llamadas “A” corresponden a las comisiones que
+contemplan a todos los sujetos del ordenamiento jurídico (Asuntos Constitucionales, Ciencia y Tecnología, Cultura, Defensa
+Nacional, Derechos Humanos y Garantías, Economía, Educación, Finanzas, Juicio Político, Justicia, Legislación General,
+Legislación del Trabajo, Legislación Penal, Libertad de expresión, M ercosur, Obras Públicas, Presupuesto y Hacienda,
+Relaciones Exteriores y Culto, Previsión y Seguridad Social, Seguridad Interior). Las denominadas “B”, son aquellas que se
+refieren a algún sector social, sectores o unidades organizacionales específicas (Acción Social y Salud Pública, A gricultura y
+Ganadería, Asuntos Cooperativos y M utuales, Asuntos M unicipales, Análisis y Seguimiento del cumplimiento de las normas
+tributarias y previsionales, Comercio, Comunicación e Informática, Defensa del Consumidor, Deportes, Discapacidad,
+Drogadicción, Economías y Desarrollo Regional, Energía y Combustible, Familia, M ujer y M inoridad, Industria, Intereses
+M arítimos fluviales, pesqueros y portuarios, M inería, Transportes, Turismo y Deportes, Vivienda y Orden Urbano, Recursos
+Naturales y Conservación del Ambiente Humano, Pequeñas y M edianas Empresas, Población y Recursos Humanos, Tercera
+Edad). Por último, las consideradas “C” incluye a las comisiones de ordenamiento interno de la Cámara (Peticiones, Poderes y
+Reglamento).

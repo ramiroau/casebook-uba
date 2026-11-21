@@ -1,0 +1,21 @@
+# O'Donnell, «Democracia delegativa» (U11). Encabezados de página del
+# Journal of Democracy en Español (páginas pares e impares).
+^\s*\d{1,2}\s+Journal of Democracy en Español\s*$
+^\s*Guillermo O’Donnell\s+\d{1,2}\s*$
+# PDF p. 1: nota de la primera página (sin número propio, con asterisco)
+^\s*\* Publicado originalmente como “Delegative Democracy”, Journal of Democracy, Vol\. 5,\s*$
+^\s*No\. 1, January 1994: 55-69\. © 1994 National Endowment for Democracy and The Johns\s*$
+^\s*Hopkins University Press\.\s*$
+# llamadas de nota pegadas a la puntuación (MARCA_DE_NOTA no las toma)
+(?<=modelos de políticas\.)1(?= Sin embargo)
+(?<=definición de poliarquía\.)2(?= 3\))
+(?<=^presentado\.)3(?=\s*$)
+(?<=de acuerdo con\nciertas reglas\.) 4(?= Esto)
+(?<=intensidad de las preferencias\.)5(?= Las)
+(?<=agentes y temas a la vez\.)6(?=\s)
+(?<=interacción se puede superar;)7(?= la)
+(?<=no se produce una\nclara mayoría\.)8(?=\s)
+(?<=como organismos vivos\.)9(?= El)
+(?<=inflación extremadamente alta\.)10(?=\s)
+(?<=y la democracia delegativa\.)11(?=\s*$)
+(?<=aspectos teóricos relacionados,)12(?=\s*$)

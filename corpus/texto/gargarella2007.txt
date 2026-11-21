@@ -1,0 +1,529 @@
+# fuente: Unidad5/2_Gargarella_2007_De la alquimia interpretativa al maltrato constitucional.pdf
+# md5_original: cf3b89de5827aa03f8c96b20a54cc1b6
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+De la alquimia interpretativa al maltrato constitucional. La interpretación del derecho
+en manos de la Corte Suprema argentina
+
+Roberto Gargarella
+
+Introducción
+
+Hace poco tiempo, tuve la oportunidad de leer un interesante trabajo sobre interpretación
+jurídica escrito por el profesor Néstor Sagués.1 En el mismo, Sagués daba cuenta de la
+notable diversidad de criterios interpretativos utilizados por la Corte Suprema argentina a lo
+largo de su historia. El escrito me resultaba, en lo personal, muy atractivo, dado que proveía
+de buen apoyo empírico a una línea de investigación en la que, junto con varios colegas y
+jóvenes colaboradores, veníamos trabajando desde hace tiempo. Según lo que sosteníamos
+en dichas investigaciones, la tarea de interpretación resulta, por un lado,
+extraordinariamente compleja (justamente, debido a las diversas -y en ocasiones opuestas-
+teorías interpretativas existentes), y por otro, es generadora de graves riesgos institucionales
+(fundamentalmente, riesgos de abuso y discrecionalidad judicial).2 El trabajo de Sagués,
+entonces, ratificaba nuestros temores, a la vez que dejaba en claro de qué modo los riesgos
+que preveíamos aparecían expresados en la práctica constitucional argentina. Por lo demás,
+el escrito en cuestión relucía como un buen trabajo descriptivo –me animaría a agregar, uno
+de los pocos intentos serios de dar cuenta de las dificultades que aparecen a la hora de
+interpretar el derecho. Ahora bien, del mismo modo en que puede decirse que el artículo de
+Sagués brilla como un buen ejercicio descriptivo, el mismo resulta notable en su pretendida
+abstinencia normativa. Quiero decir, llama mucho la atención que el profesor Sagués no
+haya desarrollado una esperable “segunda parte” del mismo, sometiendo a un análisis
+crítico los hallazgos a los que hace referencia a lo largo de su texto. Por supuesto, cualquier
+autor tiene todo el derecho de concluir su trabajo cuando quiere, y del mismo modo tiene el
+derecho a examinar su objeto de estudio desde un punto de vista exclusivamente
+descriptivo, si es que así lo prefiere. De todas formas, dada la importancia que, según
+entiendo, tiene ese análisis evaluativo, a continuación presentaré algunos comentarios que,
+en mi opinión, pueden derivarse más o menos naturalmente del trabajo citado.
+
+La descripción de la práctica interpretativa de la Corte Suprema Argentina, según
+Sagués
+
+       Conforme al trabajo bajo examen, a lo largo de su historia, la Corte Suprema
+Argentina utilizó en sus decisiones una amplia gama de recursos interpretativos. Según
+Sagués, dichos recursos incluyen variaciones como las siguientes:3
+
+
+1
+  Néstor Sagués, ”Interpretación constitucional y alquimia interpretativa. (El arsenal argumentativo de los
+tribunales supremos),” Buenos Aires: Lexis Nexis (2004).
+2
+  Destaco algunos de estos problemas en mi trabajo sobre interpretación constitucional incluido en Derecho
+Constitucional, ed. por S. Albanese, A. Dalla Vía, R. Gargarella, A. Hernández y D. Sabsay (Buenos Aires,
+2004).
+3
+  A continuación, tomaré en cuenta la gran mayoría de los criterios enumerados por Sagués, pero no todos
+ellos, ni necesariamente en el mismo orden, de modo tal de facilitar la lectura de tales criterios, y organizar de
+
+[[PDF p. 2]]
+    •   Interpretación literal. Conforme a la misma, a la hora de interpretar el derecho, los
+        intérpretes deben seguir, ante todo -y mientras la misma sea clara- “la letra de la
+        ley” (i.e., CSJN, Fallos 324: 1740, 3143, 3345).
+    •   Interpretación “popular.” En otras ocasiones, la Corte sugiere “leer” las palabras de
+        la ley de un modo lo más cercano posible al entendimiento más común o “popular”
+        de las mismas (i.e., CSJN, “Afip c. Povolo,” Fallos 324:3345)
+    •   Interpretación “especializada.” En ciertas circunstancias, la Corte ha preferido
+        interpretar las normas de un modo más técnico, es decir, de acuerdo con “la técnica
+        legal empleada en el ordenamiento jurídico en el que dicha ley se inserta” (i.e.,
+        CSJN Fallos 320:2319).
+    •   Interpretación “intencional.” A veces, la Corte sugiere dejar de lado interpretaciones
+        cercanas al texto de la ley, como las anteriores, para inclinarse por otras vinculadas
+        con la intención que, según se estima, tuvieron los creadores de la norma al dictarla
+        (i.e., CSJN Fallos 323: 3139). Sin embargo, aclara Sagués, la Corte ha sugerido, en
+        ocasiones, optar por esta vía sólo de modo excepcional, mientras que en otros casos
+        ha actuado como si dicha opción fuera la más obvia (i.e., CSJN Fallos 323: 212).
+    •   Interpretación “voluntarista.” De modo similar, en ocasiones la Corte ha propuesto
+        como primera regla interpretativa la de “respetar la voluntad del legislador,”
+        evitando la tentación de reemplazarlo (CSJN Fallos 324: 1481). Para conocer la
+        voluntad expresada por el legislador, la Corte ha recomendado, ante todo, la lectura
+        de los debates parlamentarios.
+    •   Interpretación “justa.” De modo más radical, en ciertos casos la Corte sostuvo que
+        la interpretación “auténtica” de la ley era la que seguía fundamentales principios de
+        justicia (i.e., CSJN Fallos 322: 1699). De modo similar, en ocasiones ha hecho
+        referencia a la necesidad de seguir la “recta razón” de la Constitución, es decir a la
+        necesidad de guiarse por lo que determine una aplicación “racional” de la misma.
+        Ello así, aún cuando interpretar las normas de ese modo implique desviarse de lo
+        que parece ser el sentido natural de las palabras de la ley (i.e., CSJN “YPF v.
+        Corrientes,” Fallos 3315: 158).
+    •   Interpretación “orgánico-sistemática.” La Corte propuso también apartarse de lo
+        dicho expresamente por la norma cuando ello sea necesario para respetar el sentido
+        pleno u orgánico de la Constitución –es decir, el sentido que se inferiría del juego
+        armónico de los distintos artículos que componen la Constitución (i.e., CSJN
+        “Chadid” Fallos 291: 181).
+    •   Interpretación “realista.” En ocasiones, la Corte sugirió acercarse a la letra de la
+        norma haciendo prevalecer la “verdadera esencia jurídica y económica” de forma tal
+        que –según Sagués- en caso de existir diferencias entre “la denominación dada a
+        algo por el autor de la norma, y la realidad, deberá prevalecer esta última” (i.e.,
+        CSJN Fallos 318: 676).
+    •   Interpretación que asume la existencia de un “legislador perfecto.” Por otra parte, ha
+        sido habitual que la Corte se acerque a las normas presuponiendo, detrás las
+
+
+
+un modo más apropiado la presentación de los mismos. Siguiendo al autor, no haré aquí distinciones entre
+interpretaciones de distintos niveles de normas.
+
+[[PDF p. 3]]
+        mismas, la existencia de un legislador perfecto, lo que implica presumir que el
+        derecho es claro, preciso, coherente, sin lagunas (i.e., CSJN Fallos 324: 2153).
+    •   Interpretación “dinámica.” En otros casos, la Corte ha propuesto ir más allá de (una
+        mayoría de) criterios como los citados -criterios que la llevarían a “mirar hacia
+        atrás,” en busca de los orígenes de la norma- para proponer una interpretación
+        “dinámica” que “actualice” el sentido de la Constitución, adecuándola a “la realidad
+        viviente” de la época (i.e., CSJN “Chocobar,” Fallos 310: 3267).
+    •   Interpretación “teleológica.” Descartando posibilidades como las anteriores, la
+        Corte ha sugerido a veces tomar como primer criterio interpretativo el relacionado
+        con los “fines” perseguidos por la Constitución (i.e., CSJN Fallos 311: 2751).
+    •   Interpretación conforme a la autoridad “externa.” En ciertos casos, la Corte ha
+        tomado como criterio rector de sus decisiones las opiniones de la doctrina o,
+        fundamentalmente, la jurisprudencia extranjeras (i.e., CSJN Fallos “Lino de la
+        Torre” 19: 236). En una mayoría de casos, la jurisprudencia que se ha tomado en
+        cuenta es la norteamericana, aunque en materia de tratados internacionales –dice
+        Sagués- la influencia que ha predominado es la proveniente de la Corte
+        Interamericana de derechos humanos (i.e., CSJN “Ekmedjián c. Sofovich” La Ley
+        1996- E-409).
+    •   Interpretación “constructiva.” La Corte sostuvo a veces que, a la hora de interpretar
+        el derecho, era necesario optar por una lectura capaz de mantener a salvo los
+        poderes del Estado, facilitando su eficaz desempeño (i.e., CSJN “Verrocchi” Fallos
+        322:2598).4
+    •   Interpretación “continuista.” A veces, la Corte enfatizó la necesidad de que la
+        decisión del caso sea fundamentalmente compatible con el respeto de los
+        precedentes judiciales (i.e., CSJN “González c. Ansés” Fallos 323: 555). Sin
+        embargo, destaca Sagués, en otros casos sostuvo todo lo contrario, afirmando que el
+        precedente debía ser dejado de lado cada vez que el mantenimiento del mismo se
+        mostrara inconveniente (i.e., CSJN “Almaraz” Fallos 317: 312).
+    •   Interpretación “objetiva.” También ha sido común que la Corte diga que la norma
+        debe ser interpretada, ante todo, teniendo en cuenta el sentido “objetivo” de la
+        misma, lo que implica afirmar –a contrario sensu- que debe rechazarse toda
+        posibilidad de interpretar a la misma conforme a criterios “subjetivos” (CSJN
+        “Volpe” Fallos 316: 352).
+
+
+    Este permanente, despreocupado ir y venir entre criterios interpretativos que apuntan en
+direcciones muchas veces opuestas entre sí resulta, como mínimo, muy preocupante.
+Curiosamente, sin embargo, muchos leen esta diversidad de criterios a la que recurre la
+Corte como una muestra más de la amplia paleta de recursos técnicos desarrollados por
+nuestros hábiles jueces.5 Por fortuna, Sagués está lejos de optar por una actitud celebratoria
+
+4
+ Sagués denomina a este criterio, y a los que siguen, “reglas” correctivas de la interpretación.
+5
+  Cabe anotar, sin embargo, que una amplia lista de criterios interpretativos como la recién examinada, no da
+cuenta de la diversidad de criterios utilizados por la doctrina contemporánea, ni recoge muchas de las mejores
+concepciones interpretativas hoy dominantes. Al respecto, y sólo como ejemplo, ver Bix (1996); Bork (1990);
+Dworkin (1977, 1997 a, 1997 b, 1997 c, y 2000); Eskridge (1987); Lessig (1993); Scalia (1997); Sunstein
+(1999); Waldron (2001).
+
+[[PDF p. 4]]
+ante aquel muestrario. Sin embargo –y, contra lo que era, tal vez, esperable o deseable- el
+profesor Sagués opta por concluir su artículo con una evaluación muy modesta o austera de
+la actuación de la Corte. Señala entonces algunas dificultades que pueden inferirse de la
+labor interpretativa del máximo tribunal, para luego, y en cada caso, balancear lo dicho
+señalando ya sea la imposibilidad que tiene la Corte para actuar de otro modo, lo común
+que resulta en el mundo este ir y venir interpretativo, o lo explicable que es ese accionar
+oscilante que muestra el tribunal.
+
+    Así, y ante todo, nos dice que la diversidad de criterios interpretativos existente le
+permite a la Corte producir fallos “harto diferentes.” Agrega además que la existencia de
+este “arsenal impresionante” de criterios en manos de la Corte tiene como consecuencia que
+“el producto final [sea] decididamente no pronosticable” –algo que, señala, vendría a
+contradecir la idea común según la cual las decisiones de la Corte responden a “un trabajo
+casi técnico,” “regular,” “previsible,” “claramente delineado,” y “sometido a directrices
+armónicas.” Inmediatamente, sin embargo, Sagués se apresura a rechazar toda posibilidad
+de atribuir mala fe (un carácter “maquiavélico”) a los miembros de la Corte. Por el
+contrario, nos dice, el análisis histórico de lo actuado por el tribunal nos muestra que el
+mismo ha sido el producto de criterios que “fueron surgiendo paulatina, casuística y
+aluvionalmente, desde tiempo atrás.”
+
+    Por otra parte, Sagués reconoce que la existencia de esta amplia variedad de criterios
+interpretativos no es buena para la seguridad jurídica pero agrega que, de todos modos, la
+situación que nos aqueja dista de ser excepcional dentro del mundo jurídico moderno.
+Critica, por lo demás, que la Corte se auto-contradiga a veces, y que en otros casos parezca
+“manipular” los criterios interpretativos existentes. De todos modos, afirma que el modo en
+que actúa la Corte es perfectamente explicable dado que refleja, en definitiva, la presencia
+de discusiones de larga data, aún no cerradas. Más todavía, Sagués destaca que muchos de
+los parámetros utilizados por la Corte son en algunos casos valiosos en sí mismos, y en
+otros directamente necesarios. Y sugiere –recurriendo a la doctrina comparada, y en
+defensa del tribunal- que el uso consistente de determinadas pautas interpretativas merece
+ser abandonado si ello es necesario para producir decisiones más “útiles” frente a los
+problemas que la sociedad enfrenta. Su consejo final es el de un mayor sinceramiento
+jurídico por parte de la Corte. Es decir, propone que la misma admita abiertamente que se
+aparta de los criterios que sigue de modo más habitual, cada vez que las circunstancias le
+exijan que así lo haga.
+
+Primeras notas críticas sobre los modos en que la Corte interpreta el derecho
+
+A la hora de examinar críticamente los modos en los que actúa la Corte en materia
+interpretativa, convendría señalar, en primer lugar, que la diversidad de criterios
+interpretativos utlizados por ella refleja menos la capacidad analítica del tribunal –su
+capacidad para hacer finas distinciones entre teorías interpretativas diferentes- que una
+cierta irresponsabilidad cívica por parte de sus integrantes. Ello así, porque es deber de los
+mismos hacer el máximo esfuerzo para asegurar la consistencia de sus decisiones, y así
+garantizar el igual trato a los ciudadanos. Enfrentados a sus decisiones, en cambio, los
+ciudadanos preocupados por respetar el derecho no pueden saber bien a qué atenerse, no
+pueden reconocer claramente cuál es la ley vigente en el país, ni quedan capacitados para
+
+[[PDF p. 5]]
+anticipar si sus conductas van a ser objeto del elogio o del reproche público. Decir esto
+implica reconocer la existencia de un consistente maltrato institucional por parte de la
+esfera más alta de la justicia, hacia los ciudadanos. Por supuesto, para señalar lo anterior
+resulta completamente irrelevante entrar en consideraciones acerca de la buena o mala fe de
+los integrantes de la Corte. Finalmente, no importan cuáles son las motivaciones últimas de
+sus miembros a la hora de firmar las decisiones que firman, si es que las mismas tienen
+resultados como los que aquí se examinan.
+
+Distintos criterios interpretativos, distintos resultados. Los problemas que se derivan de
+una práctica interepretativa como la que desarrolla la Corte no se vinculan con el hecho, tal
+vez banal, de que los jueces escojan argumentos de tipo “x” en lugar de argumentos de tipo
+“y,” como fundamento último de sus decisiones. El problema surge porque dicha particular
+selección de argumentos es completamente determinante de la decisión final que luego va a
+firmar la Corte, frente al caso concreto. De allí que es imperativo que, al menos, los jueces
+hagan un esfuerzo por justificar ante nosotros la peculiar selección de criterios
+interpretativos que utilicen en el caso concreto.
+
+        Permítanme ilustrar lo dicho en el párrafo anterior con algunos ejemplos.
+Imaginemos, por caso, que la Corte tiene que decidir si el consumo personal de
+estupefacientes es una conducta que puede ser jurídicamente reprochada o no, y que para
+hacerlo tiene que interpretar el sentido de las palabras de la Constitución cuando, en el art.
+19, le otorga protección a las acciones que no ofendan la “moral pública.” Pues bien, en
+este caso, como en cualquier otro, y dependendiendo de cuál sea el criterio interpretativo
+que escoja privilegiar, su respuesta se va a inclinar en un sentido (considerar que la
+conducta no es anti-jurídica) o en otro completamente opuesto al anterior (considerar que sí
+lo es). Si, por ejemplo, la Corte privilegiase el criterio de la “intención” del legislador, a la
+hora de interpretar las palabras en cuestión, podría decir que (y ésta es sólo una posibilidad)
+cuando, en 1853, el convencional correntino Ferré pidió agregar la idea de “moral pública”
+en el art. 19, lo hizo a partir de la visión más conservadora posible respecto de la esfera de
+las libertades personales que debían considerarse constitucionalmente protegidas. Si en
+cambio, y frente al mismo caso, la Corte optase por una interpretación “orgánico-
+sistemática,” ella podría llegar a decir (otra vez, posiblemente) que tal lectura de la idea de
+la “moral pública” debe disolverse dentro del comprometido espíritu liberal que siempre ha
+distinguido a nuestra Constitución, tomada ella en su conjunto. Ahora bien, si el criterio
+interpretativo por el que se decidiese la Corte fuera el “dinámico,” entonces sus integrantes
+podrían llegar a decir (y ésta es, nuevamente, sólo una posibilidad) que “en la actualidad,”
+una mayoría de miembros en la sociedad argentina defiende una visión muy poco tolerante
+en lo que hace al consumo de estupefacientes. Sin embargo, si el criterio interpretativo
+dominante dentro de la Corte fuera el de recurrir a la “razón” y, consecuentemente, a las
+mejores teorías normativas disponibles, a la hora de reflexionar sobre ideas como las de
+“moral pública” o “libertad personal,” entonces su conclusión podría ser (otra vez, ésta es
+sólo una posibilidad) que, de acuerdo con posturas como las defendidas por John Rawls
+(1971) o Ronald Dworkin (1977), la defensa de la autonomía personal debe gozar de
+máxima prioridad pública y requiere bloquear cualquier impulso perfeccionista por parte
+del Estado.
+
+[[PDF p. 6]]
+        Por supuesto, lo que ocurre con ideas tan complejas como la de “moral pública” es
+lo mismo que ocurre con otras nociones y otros derechos aparentemente aparentemente
+menos polémicos. El derecho de libertad de expresión puede ser extraordinariamente
+inclusivo si lo interpretamos a la luz de las mejores teorías jurídicas disponibles, o puede
+dejar de serlo si lo leemos, por caso, teniendo en cuenta las peculiares necesidades de los
+poderes del Estado. La idea de “castigo cruel” puede ser objeto de interpretaciones muy
+conservadoras o muy progresistas según recurramos, para precisar su significado, a
+concepciones “historicistas” o “dinámicas.” La noción constitucional de “igualdad” puede
+ser entendida de modo muy restrictivo, si se la lee teniendo en cuenta las intenciones que
+tenían al respecto muchos de nuestros “padres fundadores,” mientras que puede desarrollar
+una radical potencia si la interpretamos tomando en consideración la doctrina o la
+jurisprudencia internacional más avanzada en la materia.
+
+        En definitiva, y según nos ayudan a ver ejemplos como los anteriores, la Corte
+puede llegar a una conclusión determinada o a otra exactamente contraria a la anterior,
+dependiendo de cuál sea el criterio interpretativo que elija priorizar. Es decir, la Corte
+puede hacer casi lo que quiere con el caso que tiene frente a sí, gracias a la enorme variedad
+de parámetros interpretativos a los que puede, indistintamente, apelar. De allí que sea tan
+importante prestar atención a los criterios que usa la Corte cuando se aproxima a un caso:
+en esa selección de criterios reside, en buena medida, la resolución del caso.
+
+“Combinar” distintos criterios interpretativos en cada caso? Imaginemos que, con el fin
+de evitar situaciones como las descriptas en la sección anterior, que parecen abrir un gran
+espacio al abuso del derecho, la Corte propusiera “combinar” en cada uno de sus fallos una
+diversidad de criterios interpretativos. La Corte podría alegar que, de este modo, sería capaz
+de reducir grandemente los riesgos de manipulación del derecho. Ahora, cada decisión final
+resultaría fundada en una multiplicidad de criterios que, conjugados, la forzarían a decidir
+de un determinado modo. De hecho, la Corte argentina ha optado muchas veces por este
+tipo de estrategias afirmando, por ejemplo, que: “No se trata en el caso de desconocer las
+palabras de la ley, sino de dar preeminencia a su espíritu, a sus fines, y en especial, al
+conjunto armónico del ordenamiento jurídico y los principios fundamentales del derecho,
+en el grado y jerarquía en que éstos son valorados por el todo normativo” (CSJN
+“Echeverría c. Instituto de Obra Social,” Fallos 324: 3602).
+
+        Ahora bien, y en relación con esta estrategia ocurre que (y esta conclusión ya
+debiera resultarnos obvia a esta altura) la misma sólo puede potenciar aún más nuestro nivel
+de incertezas. Y es que, en principio, el recurso –por ejemplo- a la interpretación
+“histórica” tiende a ser contradictorio con el recurso a la interpretación “dinámica;” y la
+interpretación “apegada a la letra de la ley” tiende a estar en tensión con otra de tipo
+“voluntarista.” Uno se pregunta, entonces, cómo es que hace la Corte para derivar
+resultados unívocos a partir de componentes que apuntan en direcciones más bien
+contrarias. Notablemente, sin embargo, la Corte insiste en “combinar” criterios
+interpretativos con la pretendida excusa de mostrarnos que su interpretación se encuentra
+bien fundada, desconociendo a veces (o, lo que es peor, ocultando) que en realidad, lo que
+muestra como resultado inequívoco de una sumatoria de criterios interpretativos es el
+producto de una serie de recortes y selecciones que de ningún modo ha justificado frente a
+nosotros. La decisión que presenta como consecuencia “natural” de los múltiples criterios
+
+[[PDF p. 7]]
+utilizados no es más que la opción preferida, de ningún modo obvia, que surge de combinar
+del modo en que quiere criterios que no suelen llevarse bien entre sí.
+
+Un solo criterio interpretativo para todos los casos? Imaginemos que, como forma de
+calmar nuestra desesperación al reconocer los riesgos de discrecionalidad que aparecen
+frente a la tarea interpretativa, el tribunal superior nos dijese que, de ahora en más, va a
+comprometerse con una sola (o fundamentalmente con una sola) línea de interpretación de
+entre todas las posibles. Aquietaría así nuestras quejas? No, en absoluto. Y ello así porque,
+según anticipara más arriba, ninguno de los criterios interpretativos que quiera seleccionar
+–cualquiera sea el mismo- va a permitirle llegar a conclusiones únicas. Para aclarar lo
+dicho, permítanme volver al ejemplo anterior sobre el consumo de estupefacientes. No es
+nada obvio que si la Corte utilizara siempre, por ejemplo, un criterio “historicista” para leer
+la idea de “moral pública” ella llegaría siempre a la misma decisión final. Por ejemplo, en
+el caso citado más arriba, imaginaba a la Corte seleccionando la opinión del convencional
+Ferré para llegar a una lectura restrictiva de la idea de “moral pública.” Ahora bien, si en
+ese mismo caso, e insistiendo con su interpretación “historicista,” la Corte optase por
+apoyarse no en la opinión de Ferré sino, digamos, en la de alguno de los tantos
+convencionales liberales (pongamos, Benjamín Gorostiaga), entonces ella llegaría a
+conclusiones opuestas a las anteriores. El punto es, en definitiva, el siguiente: criterios
+como el “historicista” son también, en sí mismos, compatibles con decisiones muy diversas,
+a veces contradictorias entre sí. O en otras palabras, ni siquiera optando para todos los
+casos futuros por un solo criterio interpretativo, la Corte nos daría las seguridades que
+tenemos derecho a exigir.
+
+        Obviamente, lo que ocurre con criterios como el “historicista” es lo que ocurre con
+todos los demás criterios. Pensemos, por ejemplo, que la Corte optase por decidir todos los
+casos futuros a partir de argumentos “dinámicos.” Enfrentada al caso del consumo de
+estupefacientes, ella podría llegar a conclusiones muy diferentes. Tal vez, apelando a la
+opinión de la ciudadanía en la actualidad (una forma posible de “actualizar” la
+Constitución) ella nos diría que la ciudadanía defiende una noción muy amplia de la idea de
+“moral pública,” que implica la condena al consumo personal de estupefacientes. Pero si,
+para “actualizar” el significado de la Constitución tomase en cuenta, pongamos, los
+criterios defendidos mayoritariamente por la sociedad, en los últimos 20 años (otra forma
+posible de hacer una lectura “actualizada” de la Constitución), ella podría llegar, quizás, a
+resultados opuestos a los anteriores. Y tal vez podría llegar todavía a otra conclusión si
+prestase atención no a la opinión actual de las mayorías populares, sino a la opinión actual
+de los representantes de las mayorías actuales (otra forma posible de “actualizar” la
+Constitución).
+
+        El mismo tipo de dudas y dificultades se abrirían si la Corte optara (y para citar un
+tercer y último ejemplo) por apoyar todas sus decisiones basándose en las mejores teorías
+disponibles de filosofía política y jurídica. Y es que, así como podría citar, digamos, a
+Rawls, Dworkin o Nozick en apoyo de posturas liberales (en lo relativo a la moral
+personal), ella podría citar a otras teorías y a otros autores de mucha reputación (por
+ejemplo, al profesor de Oxford John Finnis, o al filósofo y teólogo canadiense Alaisdair
+McIntyre), para fundar decisiones claramente opuestas a las anteriores, y de carácter
+distintivamente conservador.
+
+[[PDF p. 8]]
+       En definitiva, aún si la Corte nos dijera (algo que nunca nos va a decir) que “de
+ahora en más, y a fin de evitar cualquier posible discrecionalidad, vamos a optar por el
+empleo consistente de un solo criterio interpretativo,” ella no sería capaz de apaciguar
+nuestros temores frente a los riesgos de discrecionalidad, ya que –conforme viéramos-
+cualquiera de los criterios escogidos sería compatible, a su vez, con varias conclusiones
+posibles, muchas veces contradictorias entr sí.
+
+Interpretación discrecional y ausencia de controles
+
+        Un aspecto notable relacionado con la práctica descripta es que, como resulta obvio,
+los integrantes de la Corte no pueden ser sancionados de ningún modo a resultas de la
+peculiar selección de argumentos que opten por hacer. La idea de promover algo así como
+un juicio político contra jueces que utilizan hoy argumentos interpretativos “dinámicos” y
+mañana otros “historicistas,” y pasado mañana una particular “combinación” de ambos, y
+más tarde aún criterios “teleológicos,” es simplemente impensable. La mera sugerencia de
+tal posibilidad –que implicaría, válgame Dios, “juzgar a los jueces por el contenido de sus
+sentencias”- suele ser considerada una herejía. Sin embargo, conviene advertir que lo que
+está en juego es el conocimiento de las mismas normas que luego se van aplicar con el
+máximo rigor sobre cada uno de nosotros, tanto como el derecho a ser tratados como
+iguales, y el derecho que todos tenemos a no quedar sujetos a tratos arbitrarios,
+discrecionales o abusivos. Nada de esto importa, según parece, porque los jueces deben
+gozar de la máxima libertad posible a la hora de pensar y decidir sus sentencias. En
+definitiva, lo que ocurre es que se toma partido por resguardar la completa libertad
+decisoria de los jueces, aún a pesar de que ello implique la permanente incerteza de todos
+nosotros acerca del significado del derecho, y la permanente posibilidad de que los jueces
+nos traten de modo desigual y de acuerdo con su discrecional voluntad (aún, repito, cuando
+los jueces no tengan una disposición a actuar de mala fe).
+
+        Las dificultades, por supuesto, se muestran todavía más graves cuando
+comprobamos que problemas como los señalados se extienden, de modo obvio, desde la
+Corte Suprema hacia todas las instancias judiciales inferiores. En cada caso se repiten los
+mismos riesgos de un uso discrecional del derecho. El efecto es que, dependiendo del juez
+que a uno le toque en suerte o desgracia, la sentencia final –el veredicto acerca de qué es lo
+que, “realmente,” dice el derecho frente al caso concreto- podrá tener un contenido, u otro
+completamente opuesto. En todos los casos, el riesgo que en última instancia enfrentamos
+es el de que –amparados en la amplia discrecionalidad que tienen para escoger criterios
+interpretativos, y la total ausencia de controles institucionales sobre dicho proceso de
+selección- los jueces definan primero (de acuerdo a sus gustos personales, costumbres, o
+intereses) de qué modo quieren decidir el caso, y luego opten por un criterio o una serie de
+criterios interpretativos que, leídos de cierta manera, le permitan dar apoyo a la decisión
+que de antemano habían seleccionado como preferible.
+
+       La situación descripta, cabe notarlo, es bastante peor que la que a veces se describe
+bajo la noción de “gobierno de los jueces” –una situación de por sí inaceptable para
+cualquiera que tenga una mínima preocupación por preservar el sistema democrático y
+
+[[PDF p. 9]]
+honrar consecuentemente el compromiso con la regla mayoritaria.6 Quedamos sujetos, en
+definitiva, más que a un reprochable “gobierno de los jueces” a un, todavía peor, “gobierno
+discrecional de los jueces.”
+
+        Es importante, en mi opinión, que seamos insistentes con este tipo de críticas que,
+en definitiva, vienen a ayudarnos en la demanda de límites, frente a un accionar público
+potencialmente abusivo. Es en este sentido que uno puede echar en falta una mirada más
+crítica o menos contemplativa en el citado texto de Sagués. Frente a las conclusiones por él
+expuestas uno podría señalar, por ejemplo, que la explicación histórica o sociológica que
+uno pueda dar acerca de por qué la Corte tiende a decidir como decide, no justifica o excusa
+en absoluto las oscilaciones que se advierten en sus fallos, ni el uso más o menos
+irresponsable de argumentos que suele ser marca distintiva de su jurisprudencia. Del mismo
+modo, el hecho de que el problema bajo estudio se repita en otros países (cosa que es en
+parte cierto y en parte no, dado que en muchos de tales países los jueces muestran una seria
+preocupación por dar solidez y consistencia a sus decisiones, algo que no siempre se
+evidencia en nuestro país) tampoco libera de responsabilidad a nuestros jueces: como es
+obvio, que un mismo error se repita en otros contextos sólo extiende las responsabilidades
+del caso, sin reducir las de nadie. Es decir, todos los jueces que actúan discrecionalmente
+deben hacerse cargo de los modos reprochables de su actuación, sean tales jueces pocos o
+muchos, nacionales o extranjeros. Por último, si los jueces de la Corte ejercieran su labor –
+como les pide Sagués- con más sinceridad y transparencia, ello sería sin dudas muy
+saludable, sobre todo teniendo en cuenta la opacidad, el misterio, y el completamente
+injustificado halo de “cientificidad” con que suelen revestir a sus decisiones. Sin embargo,
+en todo caso, dicho sinceramiento no removería el problema de fondo: es preferible que las
+injusticias sean visibles, pero lo que interesa realmente es que ellas no existan. Un
+gobernante arbitrario es siempre indeseable, y el hecho de que sus actos gocen de mayor o
+menor visibilidad, representa un detalle importante, pero un detalle al fin, teniendo en
+cuenta la gravedad del problema en juego.
+
+Queda algo por hacer?
+
+        El objetivo principal de este texto fue el de de avanzar algunas consideraciones
+críticas sobre los modos en que la Corte interpreta el derecho. De todos modos, y llegados a
+este punto, alguien me podría decir, con razón, que así como yo echaba en falta, en el
+trabajo descriptivo de Sagués, una “segunda parte” evaluativa y más crítica, mi trabajo
+también se ve afectado por una objeción similar. La objeción sería que mi escrito resulta, en
+efecto, evaluativo y crítico, pero no –como alguien podría esperar- propositivo. Un
+comentario de este tipo resulta en principio acertado, por lo que invitaría a que alguien
+escriba la “tercera parte” de esta historia, que en todo caso, luego, uno podría suscribir o no.
+
+
+
+6
+  Ello así, debido a que los jueces –sobre todo los de la Corte Suprema- no son elegidos ni removidos
+directamente por la ciudadanía, ni –como vimos- se encuentran sujetos a controles institucionales
+significativos a partir de los criterios con los que elijan fundar sus sentencias. Cabe aclarar, aunque esto
+requeriría de una reflexión mayor, que problemas como los que aquí describo no se solucionarían con el
+recurso a procesos de elección directa de los jueces (y mucho menos si esa elección directa mantuviera
+intocada la estabilidad de los jueces en sus cargos, de por vida).
+
+[[PDF p. 10]]
+         De todos modos, como tengo algunas intuiciones respecto de los contornos que
+podría tener esta “tercera parte” propositiva, quisiera terminar mi trabajo dejando esbozadas
+algunas ideas sobre el tema. Ello así, aún a sabiendas de que el tema requiere un desarrollo
+mucho más amplio y detenido -desarrollo que en este espacio no puedo llevar a cabo. En
+primer lugar, entiendo que problemas como los que genera la interpretación constitucional
+no son, lamentablemente, de fácil solución. Más aún, es muy posible que nunca lleguemos
+a estar de acuerdo respecto de cuáles son los criterios interpretativos más apropiados. Sin
+embargo, decir esto me urge a avanzar algunas consideraciones adicionales. Ante todo, el
+hecho de que siempre vayamos a estar divididos por genuinos desacuerdos interpretativos,
+no significa que cualquier posible interpretación del derecho vale lo mismo que cualquier
+otra. Por el contrario, creo que existen criterios para distinguir entre concepciones
+interpretativas buenas, malas y muy malas. Por esta misma razón, la existencia de
+divergencias razonables de ningún modo puede amparar el “carnaval” interpretativo al que
+en ocasiones nos exponen nuestros jueces –un “carnaval” que, cabe decirlo, no produce
+necesariamente cualquier resultado, sino que suele terminar con predecibles víctimas y
+vencedores. En segundo lugar, creo que justamente debido a lo irresoluble de ciertas
+divergencias interpretativas, debemos abandonar el (siempre presente, pero siempre
+injustificado) presupuesto según el cual la última palabra interpretativa debe estar en
+manos de la Corte, es decir, en manos de personas poco vinculadas con nosotros, y sobre
+las cuales carecemos de toda forma sensata de control. La interpretación constitucional
+debe volver –como señala parte de la doctrina, como señalaron en su momento algunos de
+los constitucionalistas más notables de la historia- a la ciudadanía (Kramer 2004; Tushnet
+1999; Waldron 2001). Ello no es lo mismo que decir –como algunos podrían decir,
+trivializando lo dicho hasta aquí- que la interpretación final debe ser el resultado de
+decisiones plebiscitadas, de encuestas o “aplausos” masivos (o, peor aún, el producto de
+una Corte “elegida por el pueblo”). Sostener que la interpretación final debe volver a la
+ciudadanía quiere decir que esta última debe recuperar control sobre el derecho, y que el
+derecho debe comenzar a vincularse con igualitarios procesos de discusión pública, hoy
+completamente ausentes de nuestro horizonte democrático. Llegar a soluciones como la
+sugerida puede requerir, por parte de los jueces, un cambio de actitud y de motivaciones:
+ellos deben comenzar a entender que ocupan un lugar subordinado a la ciudadanía, y que –
+en principio- no deben reemplazar a la misma como habitualmente lo hacen (aún cuando
+con las palabras lo nieguen). Contra lo que acostumbran a hacer, los jueces deben ponerse
+al servicio del debate público, y en tal sentido aportar al debate los puntos de vista,
+argumentos, ideas, o reclamos que la deliberación colectiva no haya sabido procesar o no
+haya podido o querido escuchar. Finalmente, como no es esperable que los jueces,
+voluntaria y amablemente cambien su actitud al respecto (Graber 2000; Tushnet 1999),
+perdiendo mucho del fabuloso poder del que hoy gozan, es necesario comenzar a concebir
+diseños institucionales diferentes, que nos ayuden a la producción de resultados como los
+sugeridos. Dichos resultados, capaces de devolver la Constitución a la ciudadanía, no
+pueden ni deben depender de la buena voluntad de nadie, ni deben quedar sujetos al veto
+institucional o al bloqueo de aquellos que se benefician con la distribución de poder hoy
+vigente.
+
+
+
+Bix, B. (1996), Jurisprudence: Theory and Context, Londres: Sweet and Maxwell.
+
+[[PDF p. 11]]
+Bork, R. (1990), The Tempting of America, New York: Simon & Schuster.
+Dworkin, R. (1977), Taking Rights Seriously, Londres: Duckworth.
+Dworkin, R. (1997a), “Comment,” en A. Scalia, A Matter of Interpretation, Princeton:
+Princeton University Press.
+Dworkin, R. (1997b), “The Arduous Virtue of Fidelity: Originalism, Scalia, Tribe, and
+Nerve,” Fordham Law Review, vol. 65, pp. 1249-1268.
+Dworkin, R. (1997c), “Reflections on Fidelity,” Fordham Law Review, vol. 65, pp. 1799-
+1868.
+Dworkin, R. (2000), Sovereign Virtue, Cambridge: Harvard University Press.
+Eskridge, W. (1987), “Dynamic Statutory Interpretation,” 135 University of Pennsylvania
+Law Review 1479.
+Graber, M. (2000), “The Law Professor as Populist,” 34 University of Richmond Law
+Review 373.
+Kramer, L. (2004), “Popular Constitutionalism, Circa 2004, 92 California Le Review 959.
+Lessig, L. (1993), “Fidelity in Translation,” 71 Texas Law Review 1165.
+Michelman, F. (1986), “The Supreme Court. Foreword: Traces of Self-Government,”
+Harvard Law Review, vol. 100, n. 4.
+Rawls, J. (1971), A Theory of Justice, Cambridge: Harvard University Press.
+Sandel, M. (1996), Democracy’s Discontent. America in Search of a Public Philosophy,
+Cambridge: Harvard University Press.
+Scalia, A. (1997), A Matter of Interpretation, Princeton: Princeton University Press.
+Sunstein, C. (1999), One Case at a Time. Judicial Minimalism on the Supreme Court,
+Cambridge: Harvard University Press.
+Tushnet, M. (1999), Taking the Constitution away from the Court, Princeton: Princeton
+University Press.
+Waldron, J. (1993), “A Right-Based Critique of Constitutional Rights,” Oxford Journal of
+Legal Studies, 13.
+Waldron, J. (1993b) "Rights," en R.Goodin y P.Petit eds., A Companion to Contemporary
+Politicl Philosophy, Oxford: Basil Blackwell, Oxford.
+Waldron, J. (2001), Law and Disagreement, Oxford: Oxford University Press.
+Waldron, J. (2002), God, Locke and Equality, Cambridge: Cambridge University Press.

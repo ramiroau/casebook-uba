@@ -1,0 +1,6 @@
+# csjn_colegio2021 (U13): carátula repetida en las páginas impares del PDF de la Corte (Fallos 344:3636).
+# Anclada a la sangría profunda (≥ 30 espacios) para no tocar el cuerpo del texto.
+^\s{30,}CAF 29053/2006/CA1-CS1\s*$
+^\s{30,}Colegio de Abogados de la Ciudad de Buenos\s*$
+^\s{30,}Aires y otro c/ EN - ley 26\.080 - dto\. 816/99\s*$
+^\s{30,}y otros s/ proceso de conocimiento\.\s*$

@@ -1,0 +1,696 @@
+# fuente: Unidad4/1_Gargarella_2009_Un papel renovado para la Corte Suprema.pdf
+# modo: texto
+# origen: copia de corpus/texto/gargarella2009c.txt (texto nativo, nivel A)
+# paginas: 14
+
+[[PDF p. 1]]
+UN PAPEL RENOVADO PARA LA CORTE SUPREMA. DEMOCRACIA E
+INTERPRETACIÓN JUDICIAL DE LA CONSTITUCIÓN
+
+Roberto Gargarella
+
+
+Introducción
+El propósito de este trabajo es el de re-pensar el papel de la Corte Suprema en el nuevo
+siglo. Si se pretende volver a pensar la tarea de la Corte ello no se debe, meramente, a
+un ánimo favorable al cambio. Se trata de reflexionar sobre la misión de la Corte a la luz
+de los numerosos problemas que han surgido, desde su creación, para justificar el
+sentido y alcance mismos de dicha misión. En este escrito, sostendré que es posible
+definir la tarea de la Corte un modo que haga compatible la labor del máximo tribunal
+con el debido respeto que merece la autoridad democrática (de la ciudadanía y sus
+representantes). Ocurre que, según veremos, algunos críticos del poder judicial –y, en
+particular, del control judicial de constitucionalidad- consideran que cualquier decisión
+de la Corte limitando la validez de una ley implica, directamente, una “ofensa” a la
+democracia
+En el camino hacia una conclusión, realizaré fundamentalmente dos “escalas.” En la
+primera, examinaré el problema conocido como “la dificultad contramayoritaria” (es
+decir, la dificultad que existe para justificar, dentro de un sistema democrático, que el
+poder judicial pueda desafiar una norma dictada por el poder político). Analizaré
+críticamente, entonces, algunos de los argumentos que se han ofrecido para resolver la
+citada dificultad. En la segunda “escala,” mientras tanto, me ocuparé de examinar
+críticamente el problema de la interpretación constitucional. La razón de este segundo
+apartado es la siguiente. Según diré, los problemas de legitimidad democrática de la
+justicia se expanden o (hipotéticamente) se disuelven, en relación proporcional con el
+menor o mayor impacto que adquiera el problema interpretativo. Es decir, cuanto más
+serios sean los problemas de la interpretación constitucional, más serias se tornan las
+dificultades para justificar el control judicial, y viceversa.
+Finalmente, en la tercera y última sección de este texto, presentaré una posible vía de
+salida a los problemas antes explorados, que se basa en una reconsideración sobre la
+relación “poder judicial-teoría democrática.”
+
+1. Dos problemas
+Son dos, al menos, los problemas que afectan al poder judicial poniendo en riesgo la
+justificación de su tarea de control de constitucionalidad. Uno de ellos tiene que ver con
+las dificultades propias de la interpretación constitucional, mientras que el otro se
+vincula con la famosa cuestión de la legitimidad democrática de la justicia.
+
+i) Un modo posible de acercarnos al primero de los problemas citados sería el siguiente.
+Partamos, en primer lugar, de lo que Jeremy Waldron ha denominado “el hecho del
+desacuerdo,” un dato que se constituye en marca esencial de las sociedades
+contemporáneas, y que dice que vivimos en sociedades plurales, en las que estamos
+divididos por desacuerdos profundos relacionados con cómo pensar y resolver los
+principales dilemas morales a los que nos enfrentamos . Según Waldron, este tipo de
+desacuerdos hacen que difiramos acerca de cómo resolver cuestiones tan básicas como
+cuál arreglo económico puede considerarse justo, cómo resolver la cuestión del aborto,
+cómo evaluar la eutanasia, qué política penal adoptar, cuál es la dimensión protegida
+por la idea de privacidad. Sin embargo, agrega el autor neocelandés, a pesar de todo lo
+
+[[PDF p. 2]]
+que nos separa en materia valorativa, queremos seguir viviendo en sociedad, queremos
+seguir estando juntos, no queremos que nos eventuales desacuerdos tornen imposible
+nuestra convivencia. Estas son, según Waldron, las características principales de las
+sociedades democráticas modernas: el desacuerdo y –por el y a pesar de él- la voluntad
+de seguir conviviendo juntos.
+En principio, uno podría pensar que ese tipo de circunstancias no sólo no perjudican la
+labor de los jueces sino que, en definitiva, y simplemente, les ofrecen a ellos la materia
+prima de su trabajo. Necesitamos jueces -alguien podría decir- para poder resolver de
+modo pacífico nuestros desacuerdos y hacer posible la convivencia que nos interesa
+mantener. Sin embargo, las cosas son menos sencillas de lo que parecen porque, y éste
+es el núcleo de la argumentación de Waldron, los profundos desacuerdos que nos
+separan no culminan sino que se mantienen (o se agudizan) cuando leemos el derecho y
+tratamos de “descifrar” el contenido “real” del mismo, es decir, cuando tratamos de
+interpretarlo. Si contásemos con fórmulas más o menos precisas para la interpretación
+del derecho y, en particular, para la interpretación del significado de los derechos,
+luego, alternativas tales como el control judicial no merecerían ser acreedores de
+mayores reproches. Finalmente, en la rama judicial nos encontramos con expertos en
+derecho, entrenados en su tarea a partir de cientos de casos, con tiempo y ausencia de
+presiones electorales capaces de permitirles pensar adecuadamente cada problema.
+Sin embargo, no es fácil mantener una conclusión como la anterior. Infinidad de
+sentencias judiciales nos ratifican lo que de antemano podíamos sospechar, esto es, que
+nuestros desacuerdos no se disuelven sino que se reproducen en la esfera judicial. El
+pasaje de Dred Scott v. Sandford a Brown v. Board of Education, y de Brown al
+reciente Community Schools v. Seattle, (todos éstos, casos relacionados con el
+tratamiento jurídico de la cuestión racial) simplemente nos ayuda a ver de qué modo, en
+cuestiones de enorme importancia pública, comunidades jurídicas como la
+norteamericana siguen estando profundamente divididas. Del mismo modo, en la
+Argentina, el pasaje de Bazterrica a Montalvo (sobre la protección constitucional al
+consumo personal de estupefacientes); o de Fiorentino a Fernández (sobre la validez de
+las pruebas obtenidas sin autorización judicial), o de CHA a ALITT (sobre el valor de la
+privacidad y el derecho a obtener personería jurídica) nos hablan no sólo de la fragilidad
+de la estructura judicial, y de las presiones a que pueden estar sujetos sus miembros
+(tema que aquí no me ocupa) sino, sobre todo, de los profundos y genuinos desacuerdos
+que separan a nuestros jueces. En última instancia, cada decisión dividida de cualquier
+tribunal colegiado –pongamos, por caso, las de cualquier Corte Suprema- nos hablan de
+los profundos desacuerdos que pueden encontrarse aún en las instancias más relevantes
+de la estructura judicial, y aún entre los miembros más preparados de la comunidad
+jurídica. Es decir, aún en relación con los derechos más básicos, algunos de los
+miembros del tribunal piensan que la Constitución dice una cierta cosa, mientras que
+otra parte del mismo tribunal considera que la Constitución dice exactamente lo
+contrario (i.e., una parte considera que la Constitución ampara el consumo personal de
+estupefacientes, mientras que el resto del tribunal sostiene lo opuesto).
+
+ii) El otro problema que, desde hace dos siglos al menos, afecta la justificación de la
+tarea del control judicial, se relaciona con la legitimidad democrática de los jueces para
+llevar a cabo el tipo de tareas que habitualmente realizan. Tal como fuera presentado en
+su momento por Alexander Bickel, el problema consiste en que, a pesar de lo sostenido
+por algunos de los primeros y más lúcidos defensores de la tarea judicial (pienso,
+particularmente, y siguiendo a Bickel, en Alexander Hamilton y al juez John Marshall
+en su famoso fallo Marbury v. Madison ), cada vez que los jueces invalidan una ley
+
+[[PDF p. 3]]
+ponen en cuestión la autoridad democrática del pueblo, “aquí y ahora” . Es decir, cada
+vez que ellos declaran inconstitucional una ley, aparece la pregunta acerca de cómo
+puede justificarse que la rama política del poder, que es la que cuenta con mayor
+legitimidad democrática en términos relativos, sea “derrotada” por aquella que, en tales
+términos, aparentemente, goza de menor legitimidad.
+Conviene advertir, desde ya, los fuertes vínculos que existen entre la primera de las
+cuestiones mencionadas (referida a los problemas existentes en materia de
+interpretación constitucional), y la segunda (referida a la menor legitimidad democrática
+de la justicia). La conexión entre ambos problemas resulta bastante evidente: en la
+medida en que mayores sean las dificultades para resolver las dificultades que plantea la
+interpretación constitucional –es decir, ante todo, cuanto mayores sean nuestros
+desacuerdos sobre cómo entender el contenido y los alcances de cada artículo de la
+Constitución- mayores serán los problemas para defender la legitimidad del control
+judicial de constitucionalidad. Por el contrario, en la medida en que las dificultades de la
+interpretación constitucional sean menores –es decir, cuanto menores sean nuestras
+desavenencias en relación con el significado de la Constitución- menores serán las
+dificultades que enfrentemos para justificar el control judicial. Finalmente –diríamos
+aquí - los jueces estarán haciendo lo que cualquiera de nosotros haría, puestos en lugar
+de alguno de aquellos. Lo único que estaría en juego, entonces, sería una poco polémica
+cuestión relativa a la división social del trabajo –no un problema de legitimidad
+democrática de la función judicial, como el que hoy existe.
+A partir de lo visto hasta aquí, la defensa del control judicial de constitucionalidad
+podría basarse en alguna de las siguientes estrategias. Por un lado, alguien podría tratar
+de negar la existencia de problemas significativos relacionados con la legitimidad del
+poder judicial, mostrando que el ejercicio del control judicial de constitucionalidad de
+ningún modo afecta nuestros compromisos democráticos. Si esos problemas de
+legitimidad no existiesen, entonces nadie debería quejarse ante cualquier acto judicial
+destinado a inaplicar una ley en un caso concreto. Una estrategia diferente consistiría no
+tanto en afirmar la legitimidad democrática de la tarea judicial, sino en negar la
+existencia de problemas realmente interesantes en materia de interpretación
+constitucional. Si esta última línea de argumentación probase ser exitosa, entonces
+tampoco podría criticarse el control judicial de constitucionalidad, aún por parte de
+quienes reconocieran el menor valor de las credenciales democráticas del poder judicial.
+Teniendo en cuenta estas posibilidades, en lo que sigue, quisiera explorar brevemente
+ambas rutas argumentativas.
+
+2. Sobre la legitimidad democrática de la justicia
+Conforme a lo señalado más arriba, alguien podría defender el control judicial de
+constitucionalidad mostrando que no hay ningún problema realmente serio, capaz de
+afectar la legitimidad de la tarea que desarrollan los jueces cada vez que revisan la
+validez de una ley. Las estrategias destinadas a sostener la legitimidad democrática de la
+tarea judicial han sido innumerables, y aquí sólo tomaré en cuenta unas pocas, que
+considero especialmente influyentes.
+Lo primero que uno podría decir –siguiendo lo que dijeran en su momento Hamilton o
+Marshall- es que los jueces, cuando cumplen con su tarea controladora, no desafían sino
+que simplemente permiten que prevalezca la voluntad democrática del pueblo. Según la
+citada línea de argumentación –llamémosla “Hamilton-Marshall”- al invalidar una ley
+los jueces no socavan de ningún modo la autoridad democrática del pueblo, sino que
+reafirman dicha autoridad, porque al hacer que prevalezca la Constitución sobre una ley
+inválida, ellos permiten que prevalezca, en definitiva, la “verdadera” o más alta
+
+[[PDF p. 4]]
+expresión de la voluntad popular, que es la que está encerrada en la Constitución. Este
+argumento, como sabemos, no resulta plausible, justamente por el tipo de problemas a
+los que ya hiciéramos referencia acerca de las graves diferencias que nos separan
+respecto a cómo interpretar la Constitución. La afirmación de “Hamilton-Marshall”
+sería irreprochable si el significado de la Constitución fuera más o menos unívoco. En
+tal caso sí podríamos decir que la tarea judicial consiste, simplemente, en volver a poner
+las cosas en orden, al tornar inaplicable las leyes dirigidas a violentar nuestros máximos
+acuerdos, expresados en el texto constitucional. Lamentablemente, sin embargo, y
+debido a dificultades como las mencionadas más arriba, no queda nada claro si, por
+caso, una ley que penaliza el consumo personal de estupefacientes violenta u honra
+nuestros compromisos con el derecho a la privacidad; si una que reconoce un amplio
+derecho al aborto afirma o niega la autonomía individual; u otra que regula el uso del
+dinero en política respeta o socava nuestros compromisos fundamentales en relación
+con el derecho a la libertad de expresión.
+Dado el fracaso de la primera línea de argumentación, muchos han optado por afirmar
+que el poder judicial no se ve afectado por ningún problema de legitimidad democrática,
+sosteniendo que sus miembros también son elegidos –aunque, normalmente, de modo
+indirecto- por el pueblo, y porque además tales sujetos se relacionan directa y
+cotidianamente con la ciudadanía, en el ejercicio de sus funciones. El problema con este
+argumento es que nadie niega la (relativa) legitimidad democrática de la justicia (nadie
+dice que el poder judicial está en contradicción con, o es enemigo de, la democracia).
+Lo que se afirma es que, dado su menor grado de legitimidad democrática, el poder
+judicial debe mantenerse alejado de algunas tareas que reservamos para los órganos que
+cuentan con mayor legitimidad popular. Para decirlo de un modo más evidente, un jefe
+de policía también cuenta con cierta legitimidad democrática –en la medida en que, por
+caso, es escogido por la rama ejecutiva, que a su vez apoya su autoridad en el voto
+democrático; a lo que se agrega el hecho de que dicho jefe de la policía también se
+relaciona cotidianamente con la ciudadanía en el ejercicio de su función. Sin embargo, a
+nadie se le ocurriría decir que esa (parcial) legitimidad democrática lo autoriza para
+legislar, resolver conflictos entre poderes, o firmar tratados internacionales. Y ello,
+conviene advertirlo, no sólo porque dicho funcionario no cuente con los estudios
+pertinentes (aunque todos los jefes de policía fueran graduados en derecho, diríamos
+exactamente lo mismo).
+El problema en juego tampoco se soluciona señalando (como pueden señalarse, con
+razón), los graves problemas de legitimidad que afectan a los representantes del pueblo.
+Me refiero a problemas como los identificados desde hace tiempo por la teoría política
+con ideas tales como la de “crisis de representación,” o dificultades como las resultantes
+de la (descripta por algunos) “apatía política” de la ciudadanía. Según esta línea de
+argumentación, la afirmación referida a la mayor legitimidad democrática de las ramas
+políticas del poder resulta simplemente insostenible, cuando advertimos el grado de
+desconocimiento que la ciudadanía tiene sobre sus legisladores y su actividad cotidiana,
+o la radical ausencia de medios institucionales para entrar en diálogo con ellos –
+finalmente, cuando reconocemos la enorme distancia que existe entre “los legisladores”
+y “nosotros.” El argumento fracasa otra vez, sin embargo, porque la existencia de estos
+obvios problemas de legitimidad democrática en relación con la legislatura, si algo
+reclaman es reformas destinadas a reforzar esa legitimidad democrática, antes que
+medidas destinadas a socavar aún más a la regla mayoritaria.
+Finalmente, tampoco puede decirse que el control judicial es irreprochable dado que el
+poder judicial ha sido preparado especialmente –al menos, en una mayoría de las
+democracias constitucionales que conocemos- para la tarea de controlar la validez de las
+
+[[PDF p. 5]]
+leyes. El argumento en cuestión tiene lo que podríamos llamar una faceta “negativa,” y
+otra “positiva.” Según la primera, presentada oportunamente por Ronald Dworkin, es
+simplemente irracional y contrario a la lógica pedirle al mismo poder mayoritario que
+pone o es capaz de poner en riesgo los derechos de las minorías, que evalúe la validez
+de las normas que él mismo ha decidido dictar . En una sociedad apropiadamente
+democrática, dicha tarea de control debe quedar en manos de un órgano diferente del
+que ha dictado la ley que hoy se impugna. La faceta “positiva” de este argumento,
+mientras tanto (una presentada tanto por Alexander Bickel como por el mismo
+Dworkin), dice que el poder judicial se encuentra especialmente bien preparado para la
+tarea de vigilar la validez de las leyes, porque cuenta con el entrenamiento, la
+capacitación y el tiempo que son necesarios para llevar a cabo tareas como la del control
+de las leyes.
+El primero de estos argumentos, sin embargo, se enfrenta con al menos dos problemas.
+Por un lado, la dificultad para justificar el control legislativo de las leyes no importa una
+justificación del control judicial de las leyes –cuestión que requiere de una justificación
+independiente. Por otro lado, la dificultad para justificar el control legislativo de las
+leyes, tal como hoy existe, no torna imposible la alternativa de contar con otras formas
+de control mayoritario, menos reprochables. Técnicas como las del “reenvío legislativo”
+pensadas luego de la revolución francesa; estrategias como las relacionadas con la
+cláusula notwithstanding en Canadá; formas de control como las pensadas más
+recientemente en Gran Bretaña nos hablan todas de la posibilidad de concebir formas
+“mayoritarias” del control de la validez de las leyes, que no excluyen completamente el
+control judicial, al tiempo que buscan mantener intacta la primacía del legislativo .
+Finalmente, el argumento (“positivo”) bickeliano a favor del control judicial tampoco
+resulta enteramente persuasivo. Y es que alguien puede sostener con razón que la
+apropiada decisión sobre casos como los referidos más arriba (por ejemplo, si el derecho
+de privacidad incluye el derecho a consumir estupefacientes; si el derecho a la libertad
+de expresión permite regular el uso de dinero en política; si el derecho; si el derecho al
+aborto es compatible con la afirmación del principio de la autonomía individual) no
+depende del tiempo que tengamos para reflexionar, o de la cantidad de libros que
+hayamos leído, o de los años que hayamos estudiado leyes. Razonablemente, podríamos
+sostener que dichos casos deben resolverse a partir de procesos de deliberación
+colectiva, y no por medio de la reflexión aislada de alguna elite bien preparada. Este es,
+justamente, el punto que le interesa defender a los demócratas críticos de la revisión
+judicial, y el punto que Bickel simplemente desconoce en su argumentación.
+
+3. Sobre la existencia de teorías interpretativas (relativamente) incontrovertibles
+En la sección anterior, analizamos las dificultades existentes para disolver la “objeción
+democrática” al control judicial de constitucionalidad. En esta sección quisiera explorar
+un camino alternativo para pensar nuestro problema. La idea es que, aún si fuera cierto
+que la justicia enfrenta un problema (irresoluble) en términos de legitimidad
+democrática, ello no debería llevarnos a concluir que el control judicial de
+constitucionalidad es injustificable. Si, por ejemplo, pudiéramos demostrar que existen
+formas más o menos incontrovertibles para la interpretación constitucional, luego,
+podríamos luego sostener que la tarea del control judicial no merece mayores reparos.
+Es decir, aún si las “credenciales democráticas” de los jueces no fueran tan
+significativas como las de los legisladores, no habría razones para impugnar el control
+judicial. Ello, en la medida en que pudiéramos demostrar que en sus decisiones, los
+jueces aplican reglas de interpretación que nadie cuestiona o tiene buenas razones para
+cuestionar. El problema con el que nos encontramos en este caso, sin embargo, es un
+
+[[PDF p. 6]]
+problema de gravedad similar al examinado en la sección anterior. En efecto, otra vez, y
+como en el caso anterior, podríamos decir que, luego de más de doscientos años de
+reflexión sobre cuestiones relacionadas con la interpretación constitucional, todavía
+estamos muy lejos de haber conseguido algún tipo de acuerdo significativo en relación
+con la pregunta acerca de cómo debe interpretarse la Constitución.
+Por supuesto, lo dicho no niega algo muy importante y es que, a lo largo de todos estos
+años, por lo menos, hemos aprendido a distinguir entre buenas, malas y muy malas
+teorías interpretativas. Del mismo modo, lo dicho no niega que los argumentos
+relacionados con la interpretación constitucional se han sofisticado muchísimo en las
+últimas décadas. El problema, sin embargo, es que a pesar de este tipo de clarificaciones
+y refinamientos, todavía estamos muy lejos de llegar a zonas más o menos pacíficas –
+territorios más o menos compartidos- en torno a cómo debe interpretarse la
+Constitución. Más bien lo contrario: todo parece señalar que estamos demasiado lejos
+de alcanzar cualquier acuerdo significativo en la materia.
+Los problemas a los que me refiero son, según diré, muy graves, pero ellos adquieren
+una gravedad todavía mayor cuando lo que está en juego es, justamente, la
+interpretación constitucional. Es decir, si por la naturaleza propia del lenguaje y el
+lenguaje escrito, cualquier texto presenta problemas de interpretación (por ejemplo, a
+partir de los problemas de vaguedades y ambigüedades que son propios de los modos
+habituales en que nos expresamos), dichos problemas se potencian al extremo cuando lo
+que tenemos que interpretar es un texto constitucional. Ocurre que las constituciones, tal
+como las conocemos, se comprometen de modo explícito con valores y principios
+abstractos, destinados aparentemente a regir a lo largo del tiempo. Ese mismo tipo de
+compromisos, sin embargo –el compromiso con valores como la libertad, la justicia, la
+igualdad, la no-discriminación- radicalizan los problemas de interpretación propios de
+cualquier texto escrito, porque exigen que, necesariamente, nos involucremos en
+procesos de razonamiento y argumentación extremadamente complejos de llevar a cabo
+–cómo dar cuenta, finalmente, del contenido preciso que, frente a un caso concreto,
+debe dársele al principio de la autonomía individual, o al valor de la justicia social?
+En lo que sigue, y de un modo muy breve, haré un breve repaso en torno a diferentes
+respuestas que se han sugerido para resolver los problemas de la interpretación
+constitucional, y también me referiré a las dificultades que surgen para mantener
+cualquiera de los criterios sugeridos.
+Para comenzar por algún terreno medianamente firme, citaría una descripción
+(finalmente imprecisa pero bastante exhaustiva) realizada por el jurista Néstor Sagüés
+sobre los criterios interpretativos utilizados por una Corte Suprema particular, la
+Argentina, a lo largo de su historia . La revisión de estos criterios nos servirá,
+simplemente, como ilustración de los criterios que una Corte cualquiera puede utilizar
+en su aproximación al derecho.
+En su artículo, Sagüés identifica al menos los siguientes criterios como propios de la
+jurisprudencia del principal tribunal argentino: i) interpretación literal, orientada a
+seguir, en la medida de lo posible, “la letra de la ley” (i.e., CSJN, Fallos 324: 1740,
+3143, 3345); ii) interpretación “popular,” orientada a leer las distintas cláusulas y los
+distintos términos que aparecen en la Constitución en sintonía con el significado que la
+ciudadanía le asigna a los mismos (i.e., CSJN, “Afip c. Povolo,” Fallos 324:3345); iii)
+interpretación “especializada,” que piensa en el sentido “técnico,” antes que “popular,”
+de los términos (i.e., CSJN Fallos 320:2319); iv) interpretación “intencional,” que
+procura desentrañar la intención presente en los legisladores constituyentes (i.e., CSJN
+Fallos 323: 3139); v) interpretación “voluntarista,” que busca respetar la “voluntad” del
+legislador prestando atención especialmente a la voluntad expuesta por el mismo
+
+[[PDF p. 7]]
+durante los debates constituyentes del caso (CSJN Fallos 324: 1481); vi) interpretación
+“justa,” que pretende guiarse ante todo por fundamentales principios de justicia (i.e.,
+CSJN Fallos 322: 1699); vii) interpretación “orgánico-sistemática,” que sugiere que en
+ocasiones es necesario apartarse del sentido pleno u orgánico de la Constitución para
+hacer prevalecer el sentido que se infiere del juego armónico de los distintos artículos
+que componen la Constitución (i.e., CSJN “Chadid” Fallos 291: 181); viii)
+interpretación “realista,” que toma como criterio interpretativo último ciertos
+“imperativos” de la realidad (sic), tales como la estabilidad o seguridad económicas –
+como dice Sagués, en caso de existir diferencias entre “la denominación dada a algo por
+el autor de la norma, y la realidad, deberá prevalecer esta última” (i.e., CSJN Fallos 318:
+676); ix) intepretación que parte de la existencia de un “legislador perfecto,” lo cual
+implica presumir que el derecho es claro, preciso, coherente, sin lagunas (i.e., CSJN
+Fallos 324: 2153); x) interpretación “dinámica,” orientada a actualizar o “mantener
+vivo” el texto de la Constitución, adecuándola a “la realidad viviente” de la época (i.e.,
+CSJN “Chocobar,” Fallos 310: 3267); xi) interpretación “teleológica,” que procura
+guiarse por los “fines últimos” enunciados por la propia Constitución (i.e., CSJN Fallos
+311: 2751); xii) interpretación conforme a la autoridad “externa,” que se apoya
+primariamente en las opiniones de la doctrina o, fundamentalmente, la jurisprudencia
+extranjeras (i.e., CSJN Fallos “Lino de la Torre” 19: 236); xiii) interpretación
+“constructiva,” que afirma que, a la hora de interpretar el derecho, es necesario optar
+por la lectura que se muestre capaz de mantener a salvo los poderes del Estado,
+facilitando su eficaz desempeño (i.e., CSJN “Verrocchi” Fallos 322:2598); xiv)
+interpretación “continuista,” que privilegia la posibilidad de que la decisión del caso sea
+compatible con el respeto de los precedentes judiciales (i.e., CSJN “González c. Ansés”
+Fallos 323: 555); xv) interpretación “objetiva,” que afirma que cada norma debe ser
+interpretada, ante todo, teniendo en cuenta el sentido “objetivo” de la misma, lo que
+implica afirmar –a contrario sensu- que debe rechazarse toda posibilidad de interpretar a
+la misma conforme a criterios “subjetivos” (CSJN “Volpe” Fallos 316: 352).
+La clasificación anterior (a través de la cual reconstruyo parcialmente la ofrecida por
+Sagüés) es problemática porque, entre otras razones, separa criterios que se encuentran
+básicamente superpuestos, y no distingue entre criterios que son diferentes entre sí. Sin
+embargo, al mismo tiempo, el esfuerzo realizado por Sagüés es muy importante para
+tener un panorama de los modos en que la Corte argentina ha ido pensando la
+Constitución durante las largas décadas de su existencia.
+Los problemas que sugiere un panorama como el referido son numerosos. Ante todo, él
+nos muestra que contamos con múltiples criterios interpretativos que los jueces pueden
+utilizar de modo más o menos indistinto (sin que ello implique, obviamente, el menor
+riesgo para sus carreras) en un contexto en el que –y esto es lo que agrava todo el
+problema- muchos de tales criterios, contrastados entre sí, llevan a soluciones opuestas.
+Para tomar sólo algún caso evidente: el recurso a criterios interpretativos “históricos”
+(pongamos, la voluntad original de los constituyentes, los debates que se dieron entre
+ellos, sus intenciones), tiende a conducirnos (aunque no lo haga necesariamente) a la
+obtención de criterios directamente opuestos a los que obtendríamos si recurriéramos a
+concepciones interpretativas “actualizadas” (por caso, concepciones que pretenden
+mantener al derecho alineado con el pensamiento social predominante). Ello,
+simplemente, porque el pensamiento de los “padres fundadores” de la Constitución
+(redactada en sus bases, pongamos, hace 20, 50 o 200 años atrás) tiende a ser diferente,
+sino directamente contrario, al que la sociedad sostiene décadas después, especialmente
+en cuestiones morales (de hecho, las apelaciones a la necesidad de “actualizar” la
+Constitución surgieron, inexorablemente, a partir de las disconformidades generadas por
+
+[[PDF p. 8]]
+la alternativa de “anclar la Constitución en el pasado”) Es decir, la justicia puede llegar
+a una solución, u a otra exactamente contraria a aquella, sin recibir el menor reproche
+por ello, y con sólo optar por sopesar de un modo diferente la o las teorías
+interpretativas que, en los hechos, decida utilizar en el caso concreto.
+El hecho habitual con que nos encontramos, entonces, es el de diferentes jueces
+decidiendo –en diferentes casos, o aún en el mismo- de modo diferente, a resultas de la
+diferente conjugación de principios interpretativos por el que opten en el caso concreto.
+La situación que se genera resulta, entonces, enormemente preocupante: el derecho
+empieza a aparecer como compatible con casi cualquier solución jurídica; los niveles
+(reales) de inseguridad jurídica aumentan; y comienza a tambalear la misma idea de
+contar con un estado de derecho. Ello, sobre todo, porque el derecho pasa a depender
+cada vez más de quién decide, y menos de otros criterios más “objetivos.”
+Lo dicho, por lo demás (la existencia de criterios interpretativos que nos permiten
+alcanzar una solución o la contraria, sin que los decidores puedan ser institucionalmente
+reprochados por ello) abre una posibilidad (demasiado cercana) cual es la de que los
+decidores definan de antemano cuál es la solución jurídica que prefieren, o que mejor se
+ajusta con sus pre-juicios o convicciones ideológicas o intereses, y luego “salgan a la
+búsqueda” de la doctrina interpretativa que les permita decir lo que ya sabían de
+antemano que querían decir. Esto, a su vez, provee de un enorme incentivo a políticos
+inescrupulosos, que pueden aprovechar dicha situación (que el derecho dependa tan
+decisivamente de quién es el que lo interprete) para presionar sobre la justicia a favor de
+decisiones que les resulten favorables.
+Dicho trágico contexto se agrava todavía más cuando se presentan, como en el caso de
+la Argentina, dos situaciones contextuales muy serias. Por un lado, en casos como el
+argentino no existe una cultura del precedente que permita acotar los amplísimos
+márgenes de maniobra con que cuentan los jueces. Por otro lado, países como la
+Argentina tienen una historia de inestabilidad jurídica tal, que permite encontrar
+antecedentes para decisiones judiciales de absolutamente cualquier tipo (por ejemplo,
+decisiones garantistas y anti-garantistas; decisiones ofensivas frente a los derechos
+humanos y protectivas de los derechos humanos; decisiones hostiles y amigables frente
+al derecho internacional).
+Finalmente, nadie debería pensar que el problema en cuestión se resuelve forzando a los
+jueces o a las Cortes a definirse de modo explícito a favor de alguna o algunas teorías
+interpretativas. Estos casos existen, por supuesto, y en todo caso, tienen el importante
+efecto de disminuir los grados de incerteza ciudadana que existen, frente al derecho.
+Jueces como Antonin Scalia o Clarence Thomas -ambos miembros de la Corte Suprema
+norteamericana- o jueces como Robert Bork, se han declarado explícitamente favorables
+a interpretar a la Constitución, en todos los casos, conforme a criterios histórico-
+originalistas, y han defendido tales criterios de modo abierto y sostenido . Sin embargo,
+cualquiera de los caminos interpretativos por los que podamos optar (pongamos, el
+histórico/originalista) es compatible, a su vez, con una multiplicidad de decisiones,
+muchas veces opuestas entre sí, dependiendo del modo en que se construya la teoría
+interpretativa en cuestión. Para aclarar lo dicho, piénsese en ejemplos como los
+siguientes. Si uno fuera un juez “historicista-originalista,” luego, ¿qué lecturas de la
+historia debería privilegiar? ¿Debería rastrear la “voluntad” o las “intenciones” de los
+legisladores originarios? ¿Y qué documentos debería leer? ¿Debería tomar en cuenta el
+pensamiento socialmente predominante en la época fundacional (como lo hace Scalia),
+o por el contrario las voluntades de los responsables de la escritura de la Constitución?
+¿Debería, en todo caso, tratar de rastrear la voluntad de la o las personas que escribieron
+el artículo en cuestión? ¿O, en todo caso, la voluntad de la o las personas que idearon
+
+[[PDF p. 9]]
+dicha cláusula, de las que participaron en la Convención Constituyente (Madison;
+Gorostiaga) o aún la de quienes no participaron de ella (Jefferson; Alberdi; Mitre)? Y si
+identificara a esa o esas personas ¿qué escritos o pensamientos de ese autor debería
+tomar en cuenta (por ejemplo, los primeros o los últimos escritos de Alberdi,
+ideológicamente tan diferentes)? Y si identificara a esas personas y textos ¿con qué
+nivel de abstracción debería leerlos? (¿debería considerarse a Madison hablando de una
+idea de igualdad que no incorporaba la igualdad racial, o debería asumirse una noción
+más abstracta de la idea de igualdad, que sí incorpora la igualdad racial?). En definitiva,
+los problemas de interpretación constitucional se han instalado entre nosotros desde el
+momento en que escribimos una Constitución, y ellos tienen la pretensión bien fundada
+de quedarse para siempre entre nosotros.
+
+4. ¿Una vía de salida?
+Llegados a este punto, creo que es posible intentar una vía de escape frente a la
+encerrona en la que nos hallamos, mostrando que muchas de las dificultades arriba
+mencionadas (relacionadas con la llamada objeción democrática o contra-mayoritaria y
+con las tremendas dificultades que enfrentamos en materia de interpretación
+constitucional) pueden comenzar, lentamente, a disolverse. Para ello, según diré,
+debemos trasladarnos un escalón todavía más arriba, y plantearnos algunas cuestiones
+vinculadas con la teoría democrática. Desde allí, trataría de mostrar luego la posibilidad
+de encarar de modo más esperanzador nuestras preocupaciones constitucionales.
+La pregunta de la cual partiría sería la siguiente: cuando criticamos al control judicial de
+constitucionalidad por la debilidad de las credenciales democráticas del poder judicial,
+¿qué concepción particular de la democracia tomamos en cuenta? La pregunta, según
+entiendo, es muy importante, y fue formulada en su momento, no sorpresivamente, por
+Ronald Dworkin. Aquí, acompañaré a Dworkin en parte de su argumentación y
+respuesta, pero sólo en parte.
+Según Dworkin, la mayoría de las críticas que se formulan sobre el control judicial
+resultan, más que infundadas, mal fundadas, dado que ellas se basan en una peculiar e
+implausible concepción de la democracia, a la que él denomina concepción estadística o
+mayoritaria de la democracia , y yo denominaría concepción populista de la democracia.
+La concepción estadística parte de la idea según la cual “todas las cuestiones de
+principio (deben ser) decididas por el voto mayoritario: La democracia, en otros
+términos, consiste en la adopción de la regla mayoritaria para todos los casos.” Según
+Dworkin, si esto es lo que significa democracia, entonces, “un esquema de revisión
+judicial que le da a los jueces el poder de dejar de lado juicios de moralidad política que
+una mayoría ha aprobado resulta anti-democrático.” . Su conclusión es, entonces, que la
+crítica más habitual que se realiza contra el control judicial se funda en verdad en un
+entendimiento demasiado poco atractivo sobre el significado de la democracia. Parece
+claro, si nuestra definición de democracia reclama la primacía de la regla mayoritaria en
+todos los casos –si cada vez que se recurre a una toma de decisiones que no esté guiada
+por el principio mayoritario consideramos que hay una violación a la democracia-
+entonces la justificación del control judicial de constitucionalidad se encuentra
+irremediablemente perdida. Sin embargo, se pregunta Dworkin ¿no resulta insensata tal
+concepción de la democracia? ¿Puede ser que consideremos como un “insulto” a la
+democracia cualquier esquema de procedimientos que no responda indefectiblemente a
+la regla democrática? ¿No estaríamos poniendo en práctica, de ese modo, una
+concepción demasiado simplista de la democracia, según la cual la única regla válida
+sería la regla mayoritaria?
+
+[[PDF p. 10]]
+Aunque no es cierto que todas las críticas a la legitimidad democrática de los jueces
+para ejercer el control de constitucionalidad se basen en una concepción tan simplista de
+la democracia, sí es cierto que muchas de tales críticas están fundadas en visiones de ese
+tipo –visiones, digamos, poco sofisticadas de la democracia, que fundamentalmente
+identifican a la democracia con la regla mayoritaria.
+Quisiera dejar de lado por un tiempo a Dworkin, para señalar un punto paralelo al
+anterior –más bien, la contra-cara del punto anterior. Lo que me interesa decir, ahora, es
+que observaciones como las presentadas hasta aquí (sobre la teoría democrática desde la
+que se critica el control judicial) nos invitan a pensar en cuál es la concepción de la
+democracia desde la cual se defiende habitualmente al control de constitucionalidad –
+concepción que no suele hacerse explícita, pero que no por ello deja de estar presente en
+el razonamiento de muchos. Según creo, las defensas más habituales del control judicial
+también encuentran su apoyo último en una concepción de la democracia inatractiva.
+Llamaría a dicha concepción una concepción elitista de la democracia. Esta postura
+tiene una extensísima historia dentro de la historia de la filosofía política, y puede
+remontarse al elitismo británico, y a autores como Edmund Burke, que distinguían entre
+el “juicio” y la “mera voluntad de la ciudadanía;” entre las “preferencias” u “opiniones”
+de la ciudadanía y los “intereses” de la misma . Esta línea de pensamiento ha seguido
+permeando las discusiones políticas contemporáneas. Son muchos quienes, como
+Burke, siguen partiendo de una postura que se basa en una profunda desconfianza frente
+a las capacidades políticas de la ciudadanía (una desconfianza que contrasta con la
+profunda confianza que parecía propia de la revisada postura de los populistas). El
+mismo Madison, en los Estados Unidos, pareció sostener una postura anclada en ese
+sentimiento de desconfianza, ya en su misma (y tan famosa) reflexión sobre las
+facciones; ya sea en su explícita consideración conforme a la cual en las “asambleas
+públicas” “no había ocasión” en que el apasionamiento mayoritario no terminaba por
+arrebatarle su cetro a la razón (El Federalista n. 55).
+Este tipo de posturas se fundan, entonces, en una clara desconfianza hacia la regla
+mayoritaria como medio apropiado para la toma de decisiones imparciales, que
+contrasta con una fuerte confianza en las capacidades de las elites de gobierno –y
+particularmente, confianza en aquellas elites compuestas por funcionarios bien
+entrenados y aislados de las mayorías, como los funcionarios judiciales- para decidir de
+modo justo. En mi opinión, resulta muy obvio que son este tipo de presupuestos –que
+considero elitistas- los que apoyan, finalmente, muchas de las posiciones hoy vigentes
+destinadas a sostener al control judicial de constitucionalidad.
+Ambas concepciones de la democracia, sin embargo, resultan poco atractivas: ambas se
+muestran como posturas simplistas; ambas aparecen, finalmente, como defectuosas. En
+este sentido, podría decirse, ni la crítica ni la defensa que se hace actualmente del
+control judicial resultan, finalmente bien apoyados en la teoría democrática.
+
+5. Una mirada dialógica sobre el control judicial y la interpretación constitucional
+En esta sección, me propongo examinar una concepción de la democracia distinta de las
+revisadas en los párrafos anteriores que, sospecho, puede resultar útil tanto para
+justificar cierto ejercicio del control judicial (y explicar también algunas de las más
+interesantes decisiones recientes tomadas por tribunales superiores como los de la
+Argentina y Colombia), como para ayudarnos a pensar de un mejor modo la difícil
+cuestión de la interpretación constitucional.
+En primer lugar, quisiera exponer cuál es la concepción de la democracia en la que
+estoy pensando. La teoría democrática en cuestión tiene que ver con la llamada postura
+de la deliberación democrática. Según esta postura , el sistema democrático se justifica
+
+[[PDF p. 11]]
+sólo y en la medida en que contribuye a que tomemos decisiones imparciales, para lo
+cual -se presume aquí- resulta imprescindible apoyarse en un proceso igualitario de
+discusión colectiva. Dicho esto, voy a presentar entonces cuál es el ideal regulativo
+desde el que aquí se parte, con la pretensión de que el mismo nos sirva para evaluar
+críticamente arreglos institucionales como los actualmente existentes. El ideal
+regulativo en cuestión consiste en una situación en donde todos los potencialmente
+afectados por una cierta decisión participan de una discusión sobre los contenidos que
+va a tener la misma, y lo hacen desde una posición de relativa igualdad. Los elementos
+de este ideal son tres, y conviene distinguirlos: uno es el de la inclusión, ya que se aspira
+a que el proceso de toma de decisiones no deje a nadie de los potencialmente afectados
+fuera del mismo; el segundo es el de la deliberación, ya que se asume que la discusión
+es un medio imprescindible para que los distintos participantes se escuchen y corrijan
+mutuamente; y el tercero es el de la igualdad, ya que se entiende que, en presencia de
+fuertes desigualdades sociales todo el proceso de discusión colectiva pierde sentido (en
+dicho caso, previsiblemente, algunos no estarán en condiciones anímicas, sicológicas, o
+inclusive físicas de participar en ese debate).
+La idea de la democracia en cuestión presume, a diferencia de las visiones elitistas
+arriba expuestas, que todos estamos en condiciones de intervenir en ese proceso de toma
+de decisiones colectivo (predomina aquí un supuesto de “confianza,” que contrasta con
+la “desconfianza” hacia la regla mayoritaria presente en aquellas visiones). Por otro
+lado, esta idea de democracia presume, a diferencia de las concepciones populistas
+arriba expuestas, que la regla mayoritaria es un recurso necesario pero insuficiente para
+la adopción de decisiones imparciales. En otros términos, sin una amplia garantía de
+libertad de expresión; sin libertad de asociación (especialmente libertad de asociación
+política); y sobre todo sin un proceso de debate entre iguales, la regla mayoritaria pierde
+su sentido. Como sabemos en Latinoamérica, el dictador Augusto Pinochet o el
+gobernante autoritario Alberto Fujimori pudieron apelar a procesos mayoritarios tales
+como los referendums o los plebiscitos con plena confianza: ellos sabían muy bien que,
+sin garantías como las referidas, la apelación a la voluntad mayoritaria puede resultar
+muy conveniente para quien está en el poder, que queda así en condiciones de
+manipular más o menos a su gusto el proceso de toma de decisiones.
+Ahora bien, una vez que satisfacemos las citadas exigencias propias de un proceso de
+toma de decisiones (inclusión, debate colectivo, igualdad), luego, podemos plantearnos
+de un mejor modo la pregunta sobre la legitimidad democrática del control judicial de
+constitucionalidad. Ahora, no tiene sentido decir –como uno diría si partiese de una
+concepción populista- que toda intervención judicial es necesariamente ofensiva para el
+ideal democrático. Del mismo modo, ahora no tiene sentido decir –como uno podría
+decir si partiese de una concepción elitista- que el control judicial de ningún modo
+resulta ofensivo para nuestros ideales democráticos.
+¿Qué es lo que puede decirse, entonces, sobre el control judicial, si uno parte de una
+concepción deliberativa de la democracia? Según entiendo, ahora puede decirse que el
+control judicial puede ser compatible con el ideal de la democracia sólo si, y en la
+medida en que, se ejerza de cierto modo. ¿De qué modo? De uno que, a la vez de ser
+respetuoso del predominio de la autoridad democrática, sirva al debate colectivo, y
+contribuya a la inclusión y a la igualdad que son necesarias para otorgarle sentido a la
+deliberación colectiva. Esto requiere, por ejemplo, que el poder judicial deje de hacer lo
+que habitualmente hace, es decir, simplemente reemplazar la voluntad del legislador por
+la propia, cada vez que considera (a partir de la teoría interpretativa que escoja
+privilegiar) que la actuación del legislador es impropia. Esto requiere que el poder
+judicial reconozca cuál es el lugar y el papel que le corresponde en el proceso de toma
+
+[[PDF p. 12]]
+de decisiones, como motor y garante de la discusión colectiva. Esto requiere que el
+poder judicial se ponga al servicio de la discusión pública, y que se abra a ella, en lugar
+reemplazarla (y así, finalmente, desalentarla).
+Ser motor y garante de la discusión pública requiere de los jueces la asunción de un
+papel más modesto - acorde con sus capacidades y su legitimidad- pero al mismo
+tiempo un papel crucial dentro del proceso de toma de decisiones democrático: ellos
+deben ayudar a la ciudadanía a reconocer los diversos puntos de vista en juego en
+situaciones de conflicto; deben forzar a los legisladores a que justifiquen sus decisiones;
+deben poner sobre la mesa pública argumentos o voces ausentes del debate; deben
+impedir que quienes están en control del poder institucional prevengan a quienes están
+afuera del mismo a que participen de él y lleguen a reemplazarlos; deben impedir que
+desde los órganos decidores se tomen no fundadas en argumentos –decisiones que sean
+la pura expresión de intereses de grupos de poder . Actuando así, los jueces promueven
+un objetivo importante: el diálogo democrático. Y dicho fin, además, puede y debe
+lograrse por medios también dialógicos, es decir, ofreciendo argumentos, creando foros
+de debate, organizando comisiones para la discusión de temas públicos, etc.
+Notablemente, y actuando del modo sugerido, los jueces comienzan a disolver algunos
+de los gravísimos problemas que aparecen cuando pensamos en la interpretación
+constitucional. Ellos no estarán ni optando por la pasividad y el silencio (como si fueran
+ajenos al conflicto constitucional en juego), ni optando por el activismo y la imposición
+de sus propios criterios a las mayorías democráticas (como si fueran legisladores). Lo
+que estarán haciendo, en cambio, es ayudar a esas mayorías democráticas a pensar y a
+decidir. En sociedades plurales, marcadas por el “hecho del desacuerdo,” ellos estarán
+contribuyendo del mejor modo posible a aclarar, pulir y acercar posiciones,
+favoreciendo la convivencia deseada. De este modo, también, ellos estarán bloqueando
+la posibilidad de que el proceso de toma de decisiones se convierta en una mera fachada
+al servicio de particulares grupos de interés, r impidiendo que el Congreso se convierta
+en la pesadilla del mero acuerdo entre poderosos que supo describir, trágicamente, Carl
+Schmitt.
+
+6. Lo hecho y lo que podría hacerse
+Aunque, a primera vista, el modelo dialógico puede resultar curioso o ajeno al mundo
+jurídico (“un mero entretenimiento para filósofos”), lo cierto es que el mismo es
+asumido, explícita o implícitamente, por algunas de las Cortes más interesantes y
+reputadas de nuestra época. Pienso, por ejemplo, en las Cortes de la India, Sudáfrica,
+Hungría o (la Corte Constitucional de) Colombia. En uno de los análisis más
+interesantes de la jurisprudencia de las Cortes de Sudáfrica e India –y haciendo foco en
+casos como People’s Union for Democratic Rights, Scottt y Macklem (1992, 122)
+sostuvieron que Cortes como la de India “enfatizan un diálogo cooperativo entre la rama
+judicial y los poderes ejecutivo y legislativo, que se opone a la visión estándar de la
+separación de los poderes,” a través de una serie de mecanismos dialógicos, tales como
+la fijación de directivas al ejecutivo, o la adopción de pautas flexibles, orientadas a
+facilitar un diálogo entre las ramas políticas y judicial.
+En Colombia, la Corte Constitucional ha propuesto, de modo pionero, la creación de
+diversos mecanismos destinados a promover el diálogo entre poderes –mecanismos
+tales como las mesas de diálogo, en donde se reúnen representantes de las distintas
+ramas del gobierno, más empresas o grupos de particulares partícipes del conflicto en
+juego. En casos de enorme relevancia institucional, dicha Corte ha establecido pautas y
+plazos, antes que impuesto soluciones concretas, con el objeto de favorecer que el
+propio poder político resuelva, a su criterio, tales graves conflictos. Excelentes ejemplos
+
+[[PDF p. 13]]
+al respecto se encuentran en la sentencia ST-153 de 1998, en donde la Corte determinó
+que el gobierno gozaba de un período de cuatro años para remediar la situación de
+abusos sistemáticos cometidos por personal carcelario; o la sentencia ST-025 de 2004,
+donde, advirtiendo sobre el carácter insalvable de la política vigente en materia de
+desplazamiento forzado, la Corte, antes que imponerle a las autoridades electas la
+adopción de una política específica, emplazó a tales autoridades a resolver la situación
+del caso de otro modo, compatible con la Constitución.
+Notablemente, en casos de tonalidad muy similar a los resueltos por la Corte
+Constitucional Colombiana, la Corte Argentina ha optado también por la adopción de
+criterios y métodos dialógicos. Como ejemplos al respecto pueden mencionarse la
+decisión del caso Verbitsky s/ hábeas corpus , en donde el tribunal se expidió sobre la
+situación que aflige a miles personas detenidas en las comisarías de la provincia de
+Buenos Aires; o la decisión adoptada en Mendoza, Beatriz Silvia y otros c/ Estado
+Nacional y otros s/ daños y perjuicios , un caso vinculado con los graves daños medio-
+ambientales que se producen en la cuenca del río Matanza-Riachuelo, a partir de los
+líquidos industriales que se arrojan sobre dichas aguas.
+Tanto en Verbitsky como en Mendoza –casos que pueden clasificarse como propios de
+lo que hoy se llama “litigio de reforma estructural-” la Corte propuso esquemas de
+resolución novedosos. En Verbitsky, y ante todo, el máximo tribunal argentino ordenó a
+la Justicia provincial que hiciera cesar en el término de 60 días las detenciones en
+comisarías que afectaban a menores de edad y enfermos, así como también aquellas
+situaciones que implicasen tratos inhumanos o degradantes. Al mismo tiempo, la
+Justicia exigió al Poder Ejecutivo provincial que informase sobre la situación existente
+en las cárceles; y dispuso la creación de una mesa de diálogo plural, destinada a pensar
+soluciones de más largo alcance. En Mendoza, mientras tanto, el tribunal exigió a las
+empresas contaminantes que informaran sobre los líquidos arrojados al río; ordenó al
+Estado nacional la presentación de un plan que incluyera “un ordenamiento ambiental
+del territorio”, y previó también controles sobre las actividades contaminantes
+(actividades cuyos resultados serían evaluados por una audiencia pública a realizarse en
+tres meses).
+Dicho lo anterior, corresponde resaltar la enorme potencia que tiene la adopción de
+soluciones de tipo dialógico, como las aquí revisadas. Y es que, al abrazar esta nueva
+forma de pensar la democracia y, desde allí, este nuevo modo de concebir la función
+judicial, aparece un enorme espacio inexplorado para re-pensar la política institucional y
+la relación entre los poderes. Parte de esa inexplorada potencia del esquema dialógico
+puede advertirse mejor si uno lee consideraciones como las siguientes, presentadas
+recientemente por la Corte Constitucional de Colombia. En SC-760 de 2001 (Miembros
+Ponentes: Manuel José Cepeda-Marco Gerardo Monroy), la Corte colombiana sostuvo
+que el debate parlamentario previo a la aprobación de una ley era tan importante que
+“faltando el debate, la votación subsiguiente debe considerarse igualmente inválida,
+pues…aún cuando el debate y la aprobación son etapas identificables del proceso
+parlamentario, la votación de un texto por parte del Congreso no es más que la decisión
+que adopta una mayoría, como conclusión del debate en el cual han participado tanto
+mayorías como minorías…la votación no puede concebirse independientemente del
+debate y de la discusión parlamentaria.” Del mismo modo, en SC-1147 de 2003 (M. P.:
+Rodrigo Escobar), la Corte sostuvo que “debate y votación constituyen parte esencial
+del trámite legislativo fijado por el ordenamiento jurídico y, por tanto…son instancias
+determinantes que deben observarse y cumplirse a cabalidad para que pueda entenderse
+válido el proceso de aprobación de leyes” (citados en García Jaramillo 2007, énfasis
+añadido).
+
+[[PDF p. 14]]
+Finalmente, lo que ocurre es que, si uno parte de una concepción deliberativa de la
+democracia, luego, no puede considerar que el mero hecho de que muchas manos se
+levanten al unísono sea sinónimo de decisión democrática. Tal requisito no basta para
+darle legitimidad constitucional a una ley: en democracia es necesario conocer las
+razones que justifican las decisiones que se quieren tomar. Por ello, puede decirse que
+hay un problema cuando los diputados votan sin saber el contenido de lo que votan; que
+hay un problema serio si un representante cambia de opinión (como obviamente puede
+hacerlo) sin decirle a la ciudadanía, con una mano en el corazón, por qué lo hizo; que es
+contrario a derecho "abrir un debate" cuando ya se tiene firmado el proyecto que se
+quiere aprobar; que comenzar una deliberación diciendo que no se va a "cambiar ni una
+coma" del proyecto que se presenta constituye un modo poco auspicioso —y agregaría,
+jurídicamente inválido— de comenzar esa deliberación; que discutir implica estar
+abierto a aprender de aquel con quien discutimos; que una democracia constitucional no
+debe tolerar nunca el abuso de la fuerza, así se trate, por supuesto, de la fuerza
+abrumadora, estrepitosa, aplastante de los números.

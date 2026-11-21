@@ -1,0 +1,741 @@
+# fuente: Unidad13/Ferreyra - 2016 - Acción de Amparo.pdf
+# md5_original: 35cbf56806b80e4872d8382d76bd7182
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                       La acción de amparo
+
+        Introducción: Nuestra Constitución ha establecido un conjunto de derechos y
+libertades a favor del individuo. El objetivo es preservar a la persona frente a
+eventuales agresiones en su contra. Sin embargo, resulta claro que la sola colocación
+en un texto constitucional no es suficiente para asegurar el respeto a los derechos allí
+consagrados. Las personas aún pueden ser víctimas de actos que avasallen algún
+derecho o libertad reconocida en la Constitución. Por lo tanto, es necesario que el
+ordenamiento jurídico establezca una acción para que las personas afectadas puedan
+hacer cesar el acto que ha provocado la lesión de sus derechos. De lo contrario,
+nuestra Constitución será incapaz de tener efecto en el mundo real y se convertirá en
+una mera “hoja de papel”.
+
+        Pero no sólo es necesario que exista un medio para garantizar los derechos
+constitucionales. También es indispensable que el mismo reúna ciertos requisitos que
+lo vuelvan eficaz para cumplir con el fin para el que fue creado. Si tenemos en cuenta
+que los derechos constitucionales son los más importantes de nuestra comunidad
+política organizada, es preciso que la acción que los tutele sea breve, sencilla y de
+rápida resolución. De esta forma, se asegura que la protección judicial de los derechos
+de las personas sea real y efectiva.
+
+        En nuestro ordenamiento jurídico, la acción que protege los derechos
+constitucionales es el amparo. Luego de la reforma de 1994, se encuentra consagrado
+en el artículo 43 de la Constitución1. A pesar de que su incorporación es reciente, se
+trata de un instituto que cuenta con un largo desarrollo doctrinario y jurisprudencial. En
+el presente trabajo se dará cuenta de todo el camino recorrido desde su creación
+judicial en 1957 hasta la actualidad, en la que sigue funcionando como medio de
+protección de las personas, no sólo frente a agresiones a sus derechos individuales
+sino también frente a lesiones a derechos sociales tales como el derecho a la salud.
+
+       Antecedentes históricos: Si bien la Constitución de 1853 consagró una lista
+amplia de derechos y libertades a favor del individuo, omitió establecer una acción
+específica en favor de las personas que se vieran afectadas por actos que hayan
+violado sus derechos constitucionales. La ley 48 de 1863 vino a subsanar en parte
+esta omisión, con la regulación del hábeas corpus2.Sin embargo, esta acción
+únicamente protegía la libertad física de las personas. Los otros derechos quedaban
+
+1
+  El art. 43 de la Constitución, luego de la reforma de 1994, dice en su parte pertinente: “Toda persona
+puede interponer acción expedita y rápida de amparo, siempre que no exista otro medio judicial más
+idóneo, contra todo acto u omisión de autoridades públicas o de particulares, que en forma actual o
+inminente lesione, restrinja, altere o amenace, con arbitrariedad o ilegalidad manifiesta, derechos y
+garantías reconocidos por esta Constitución, un tratado o una ley. En el caso, el juez podrá declarar la
+inconstitucionalidad de la norma en que se funde el acto u omisión lesiva.
+Podrán interponer esta acción contra cualquier forma de discriminación y en lo relativo a los derechos
+que protegen al ambiente, a la competencia, al usuario y al consumidor, así como a los derechos de
+incidencia colectiva en general, el afectado, el defensor del pueblo y las asociaciones que propendan a
+esos fines, registradas conforme a la ley, la que determinará los requisitos y formas de su organización.”
+2
+  El art. 20 de la ley 48, derogado por la ley 23.098, establecía que “Cuando un individuo se halle
+detenido o preso por una autoridad nacional, o a disposición de una autoridad nacional, o so color de
+una orden emitida por una autoridad nacional; o cuando una autoridad provincial haya puesto preso a
+un miembro del Congreso, o cualquier otro individuo que en comisión del gobierno nacional, la Corte
+Suprema o los jueces de sección podrán a instancia del preso o de sus parientes, o amigos, investigar
+sobre el origen de la prisión, y en caso que esta haya sido ordenada por autoridad o persona que no esté
+facultada por la ley, mandará poner al preso inmediatamente en libertad”. Sobre la regulación
+constitucional y legal del habeas corpus, véase el artículo de Nicolás Tauber en este volumen.
+
+[[PDF p. 2]]
+sin ninguna acción procesal que los resguardara. Por este motivo, las personas
+empezaron a utilizar el habeas corpus como medio de protección de otros derechos
+distintos a la libertad física. La Corte Suprema rechazó aquellos intentos, con el
+argumento de que “ni en la letra ni en el espíritu, ni en la tradición constitucional de la
+institución del habeas corpus se encontraban fundamentos para aplicarlo a la libertad
+de la propiedad, del comercio, de la industria, de la enseñanza, del transporte de
+correspondencia, etc”3. Asimismo, se consideraba que “contra los abusos e
+infracciones de particulares y funcionarios respecto de esos derechos, las leyes y la
+jurisprudencia consagran remedios administrativos y judiciales que contemplan las
+respectivas situaciones sin confundirlas con las del arrestado o el impedido de
+locomoción o de reunirse con fines útiles”4. De esta manera, los individuos
+damnificados debían recurrir a los remedios ordinarios previstos por los códigos
+procesales. Sin embargo, resultaba evidente que tales recursos no eran idóneos para
+lograr la inmediata reparación del derecho afectado. Esta situación iba a ser
+reconocida por nuestro máximo tribunal en el año 1957, con el dictado del fallo Siri 5,
+que dio nacimiento a la institución del amparo dentro de nuestro sistema jurídico.
+
+         Ángel Siri era propietario del diario “Mercedes”, el cual se encontraba
+clausurado por la Policía desde comienzos de 1956 sin que existiera constancia cierta
+de cuál era la autoridad que dispuso la clausura ni los motivos por los cuales se había
+dictado la medida. Ante esta situación, el señor Siri sostuvo que veía vulnerada su
+libertad de imprenta y de trabajo, -consagrada en los arts. 14, 17 y 18 de la
+Constitución Nacional-, y solicitó al Poder Judicial que dictara una medida favorable a
+la reparación de su perjuicio. Tanto en primera como en segunda instancia su reclamo
+fue rechazado, con el conocido argumento de que no se trataba de un caso objeto de
+un recurso de habeas corpus, el cual sólo protege la libertad física o corporal de las
+personas. Sin embargo, posteriormente, la Corte Suprema se va a apartar de la
+doctrina tradicionalmente aceptada hasta entonces, que relegaba a los procedimientos
+ordinarios la protección de las garantías no comprendidas en el habeas corpus. En
+esta ocasión la Corte va a reconocer la existencia de una acción autónoma para
+proteger a los particulares frente a actos de autoridades públicas que vulneren sus
+derechos constitucionales. Para así decidir, el Tribunal aseveró famosamente “que
+basta esta comprobación inmediata (la violación del derecho) para que la garantía
+constitucional invocada sea restablecida por los jueces en su integridad, sin que pueda
+alegarse en contrario la inexistencia de una ley que la reglamente: las garantías
+individuales existen y protegen a los individuos por el solo hecho de estar consagradas
+por la Constitución e independientemente de las leyes reglamentarias…”6 En
+consecuencia, la Corte ordenó al tribunal de origen que hiciera saber a la autoridad
+policial que debía cesar la restricción impuesta al señor Siri.
+
+       Luego de haber creado el amparo con “Siri”, la Corte reconoció el alcance de la
+acción frente a actos de particulares con el dictado del fallo “Kot S.R.L”7 en 1958. La
+empresa textil “Samuel Kot S.R.L” era propietaria de un establecimiento textil en San
+Martín (Buenos Aires) que estaba ocupada por los trabajadores como consecuencia
+de un conflicto laboral. Apoyándose en el reciente caso “Siri”, la firma interpuso un
+“recurso” de amparo solicitando la liberación del inmueble, con el argumento de que la
+
+
+
+3
+  Corte Sup., Fallos 168:15, “Bertotto, José Guillermo v. Jefe de Correos y Telégrafos de la Ciudad de
+Rosario” (1933)
+4
+   Ibídem
+5
+  Corte Sup., “Siri, Angel S.” (1957), Fallos 329:459
+6
+  “Siri”, fallo cit.
+7
+  Corte Sup., “Samuel Kot SRL” (1958) Fallos 241:291
+
+[[PDF p. 3]]
+ocupación violaba las garantías a la libertad de trabajo (art. 14), a la propiedad (art.17)
+y a la libre actividad (art.19) previstas en la Constitución.
+
+         Con el antecedente de Siri, la existencia del amparo no admitía dudas. La
+discusión se presentaba al momento de determinar si el ámbito de la acción abarcaba
+los supuestos en que la agresión provenía de particulares. La legislación y
+jurisprudencia comparada, en su mayoría, sostenía que el amparo procedía
+únicamente contra actos emanados de autoridades públicas8. Se pensaba que el
+instituto tenía como fin la defensa de la libertad del individuo frente a potenciales
+abusos de autoridad por parte de los poderes públicos. De esta manera, el amparo
+nunca podría operar en las relaciones entre particulares ni su función podría ser la
+resolución de conflictos entre derechos privados.
+
+        Sin embargo, la Corte Suprema le dio la razón a Kot y revocó las sentencias de
+los tribunales inferiores. El tribunal sostuvo que distinguir entre actos de autoridades
+públicas y actos de particulares “no es esencial a los fines de la protección
+constitucional”9. Para así decidir, la Corte recurrió a diversos criterios utilizados en
+materia de interpretación constitucional. En primer lugar, el Tribunal se dedicó a
+discernir la intención del constituyente. Allí, consideró que si bien “es verosímil
+presumir que, en el ánimo de los constituyentes de 1853, las garantías
+constitucionales tuvieron como inmediata finalidad la protección de los derechos
+esenciales del individuo contra los excesos de la autoridad pública” la intención de
+aquellos no fue “fijar exclusivamente en los textos sus temores históricos y concretos,
+sino, más bien, sus aspiraciones y sus designios permanentes y, aún, eternos: la
+protección de la libertad.”10 La Corte consideró que esto es lo que se deriva del espíritu
+liberal presente en nuestra Ley Suprema.
+
+        En segundo lugar, el Tribunal adoptó un criterio dinámico para interpretar la
+Constitución, ya que consideró que “las leyes no pueden ser interpretadas sólo
+históricamente, sin consideración a las nuevas condiciones y necesidades de la
+comunidad.”11 De esta manera, la distinción entre poder público y particulares no
+resulta admisible a la luz de las circunstancias de los últimos tiempos. La Corte
+reconoció que además del individuo y el Estado, existe actualmente “una tercera
+categoría de sujetos, con o sin personalidad jurídica, que sólo raramente conocieron
+los siglos anteriores: los consorcios, los sindicatos, las asociaciones profesionales, las
+grandes empresas…”, cuyo accionar implica “una nueva amenaza para el individuo y
+sus derechos esenciales”12.
+
+         En tercer lugar, los magistrados acudieron al método de la interpretación
+finalista y afirmaron que una “interpretación amplia es la que mejor consulta los
+grandes objetivos de la Ley Suprema y las genuinas finalidades de aquellas
+garantías”. La Constitución ha establecido en su Preámbulo que uno de sus fines es
+asegurar los beneficios de la libertad, y este propósito “se debilita o se corrompe
+cuando se introducen distinciones que, directa o indirectamente, se traducen en
+obstáculos o postergaciones para la efectiva plenitud de los derechos”13.
+
+      En conclusión, la Corte consideró que, a los efectos de la concesión del
+amparo, lo que importa es el carácter ilegitimo de la restricción a los derechos de las
+personas junto con el daño que se provocaría en caso que el afectado tuviera que
+
+8
+  Ver considerando 6 y 7 del voto de disidencia en “Kot”
+9
+  Corte Sup., “Samuel Kot SRL” (1958), Fallos 241:291
+10
+   “Kot”, cit.
+11
+   “Kot”, cit.
+12
+   “Kot”, cit.
+13
+   “Kot”, cit.
+
+[[PDF p. 4]]
+recurrir a los lentos y costosos procedimientos ordinarios, y no el carácter público o
+privado del agresor.
+
+        Ley 16986: El generoso alcance que la jurisprudencia le había otorgado al
+amparo fue enormemente restringido por el gobierno militar de Juan Carlos Onganía el
+con la sanción de la ley 16.986 de Acción de Amparo14. La nueva normativa venía a
+llenar el vacío legislativo sobre el tema. Sin embargo, sus disposiciones establecían
+numerosas restricciones para la procedencia del amparo y así, se dificultaba el acceso
+de las personas a lo que en un primer momento había sido concebido como un
+remedio procesal ágil y sencillo.
+
+       En su art.1, la ley limitó el alcance del amparo únicamente a aquellos actos u
+omisiones que provengan de autoridad pública (art.1), desconociendo la doctrina de
+“Kot”. Pero las restricciones más grandes vinieron del art. 2, que detalla todos los
+supuestos en los cuales no sería admisible la acción15. Así, se vedaba la posibilidad
+del amparo cuando: existieren otros recursos judiciales o administrativos disponibles,
+el acto impugnado emanare del Poder Judicial, se comprometiera la prestación de
+algún servicio público, o actividad esencial del Estado; fuese necesario una mayor
+amplitud de debate y prueba, o la declaración de inconstitucionalidad de alguna
+norma; o venciera el plazo de caducidad para interponer el recurso.
+
+         La rigidez de la norma fue atemperada por los tribunales, quienes intentaron
+flexibilizar las limitaciones señaladas, con miras a que el instituto preserve aquel
+carácter aperturista que tuvo en sus orígenes. El primer intento fue realizado en 1967,
+cuando la Corte sostuvo en el fallo “Outón”16 que es posible declarar la
+inconstitucionalidad de una norma “cuando las disposiciones de una ley, decreto u
+ordenanza resultan claramente violatorias de alguno de los derechos humanos (…)
+porque de otro modo bastaría que la autoridad recurriera al procedimiento de preceder
+su acto u omisión arbitrarios de una norma previa -por más inconstitucional que ésta
+fuese- para frustrar la posibilidad de obtener en sede judicial una inmediata restitución
+en el ejercicio del derecho esencial conculcado”. Asimismo, a fines del mismo año se
+sancionó la ley 17.454 que incorporó en el Código Procesal Civil y Comercial de la
+Nación el art. 321 inc.1 –actual art. 321 inc.2 según ley 25.48817-, que extendía el
+alcance del amparo a los actos originados por particulares. De esta manera se iniciaba
+la reacción contra el carácter restrictivo que revestía el amparo en su reglamentación
+legislativa.
+
+
+14
+   Ley Reglamentaria 16.986 “Acción de Amparo”
+15
+   El art. 2 dice: “La acción de amparo no será admisible cuando:
+a) Existan recursos o remedios judiciales o administrativos que permitan obtener la protección del
+derecho o garantía constitucional de que se trate;
+b) El acto impugnado emanara de un órgano del Poder Judicial o haya sido adoptado por expresa
+aplicación de la Ley Nº 16970;
+c) La intervención judicial comprometiera directa o indirectamente la regularidad, continuidad y eficacia
+de la prestación de un servicio público, o el desenvolvimiento de actividades esenciales del Estado;
+d) La determinación de la eventual invalidez del acto requiriese una mayor amplitud de debate o de
+prueba o la declaración de inconstitucionalidad de leyes, decretos u ordenanzas;
+e) La demanda no hubiese sido presentada dentro de los quince días hábiles a partir de la fecha en que
+el acto fue ejecutado o debió producirse.
+16
+   Corte Supr., Fallos 267:215, “Outon, Carlos José y otros” (1967)
+17
+   Establece el actual art. 321 inc.2 “Será aplicable el procedimiento establecido en el artículo 498
+(proceso sumarísimo): 2) Cuando se reclamase contra un acto u omisión de un particular que, en forma
+actual o inminente lesione, restrinja, altere o amenace con arbitrariedad o ilegalidad manifiesta algún
+derecho o garantía explícita o implícitamente reconocidos por la Constitución Nacional, un tratado o una
+ley…”
+
+[[PDF p. 5]]
+         El amparo después de 1983: El mayor impulso por remover los obstáculos
+impuestos por la ley de Onganía sucedió después de 1983. La recuperación de la
+democracia produjo la necesidad de repensar el amparo a la luz del nuevo tiempo
+político que se vivía. En particular, surgió la idea de devolverle al instituto su carácter
+de acción judicial rápida y efectiva para la protección de los derechos individuales. En
+ese sentido, la ratificación en 1984 de la Convención Americana sobre Derechos
+Humanos (CADH) por parte del Congreso resultó de gran influencia en el desarrollo
+jurisprudencial previo a la reforma constitucional de 1994. La Convención estableció
+en su art. 25 el derecho de toda persona a un “recurso sencillo y rápido (…) ante los
+jueces o tribunales competentes, que la ampare contra actos que violen sus derechos
+fundamentales reconocidos por la ley, la Constitución o la presente Convención…”. De
+esta manera, se consagró el derecho de todo individuo al “acceso a la justicia”, como
+medio para hacer valer el libre ejercicio de sus derechos. La Corte IDH sostuvo desde
+sus inicios que los Estados parte tienen el deber de adoptar todas las medidas
+necesarias para remover los obstáculos que puedan existir para que los individuos
+puedan disfrutar de los derechos previstos en la Convención18. En el caso del art. 25,
+la obligación se traducía en la remoción de aquellos obstáculos que impidan el acceso
+a la jurisdicción.
+
+        Frente a la nueva normativa internacional, resultaba claro que la ley nacional
+quedaba en un desfasaje absoluto, ya que sus disposiciones iban en la dirección
+contraria a la tendencia garantista de la Convención. Si bien la operatividad y jerarquía
+superior de los tratados internacionales de DDHH era un asunto controversial, la
+jurisprudencia pronto se hizo eco de la nueva tendencia y comenzó a flexibilizar las
+restricciones impuestas por la ley nacional.
+
+         Respecto al requisito de agotar previamente la vía administrativa, la Corte
+afirmó en Arenzon19 que el mismo no procede “cuando no existe otro remedio eficaz al
+efecto”, Asimismo, el tribunal estableció en “Bonorino Peró20” que se debe analizar si
+el procedimiento ordinario es “auténticamente operativo para enfrentar el acto lesivo”.
+La operatividad estará dada por si el empleo de dicho procedimiento no ocasiona un
+“daño grave e irreparable” al derecho del afectado. Si así fuera, no será necesario
+agotar ninguna vía alternativa y el afectado podría recurrir directamente a la acción de
+amparo. Por otra parte, se hizo una interpretación restrictiva del art. 2 inc. C), que
+dificultaba enormemente la promoción de amparos contra el Estado, asunto que será
+tratado más adelante.
+
+        En 1990, a través del recordado fallo “Peralta21” la Corte ratificó lo decidido en
+Outón y confirmó la potestad de los jueces para decretar la inconstitucionalidad de
+normas que provoquen una lesión en los derechos de las personas, a pesar de la
+prohibición establecida en la ley 16.986. Finalmente, la CSJN zanjó la controversia
+sobre la eficacia de la CADH, al reconocer, en “Ekmekdjian c/ Sofovich” 22, la
+operatividad de los derechos consagrados en los tratados sobre derechos humanos y
+su jerarquía superior respecto a las leyes sancionadas por el Congreso.
+
+        El desarrollo de la jurisprudencia, junto con la influencia de los tratados
+internacionales, volvieron obsoleta la ley reglamentaria y por lo tanto, el ordenamiento
+jurídico exigía una nueva normativa que regulase el amparo, de manera tal que
+promueva –y no obstaculice- su utilización como instrumento fundamental para el
+
+18
+   Ver sentencias Corte IDH “Velázquez Rodríguez” y “Godínez Cruz”.
+19
+   Corte Sup., Fallos 306:400, “Arenzon Gabriel Darío v. Nación Argentina” (1984)
+20
+   Corte Sup., Fallos 307: 2174, “Bonorino Peró, Abel y otros v. Gobierno nacional” (1985)
+21
+   Corte Sup., Fallos 313: 1513, “Peralta, Luis A. y otro v. Estado nacional (Ministerio de Economía-Banco
+Central)” (1990)
+22
+   Corte Sup., Fallos 315:1492, “Ekmekdjian, Miguel A. v, Sofovich, Gerardo y otros” (1992)
+
+[[PDF p. 6]]
+acceso a la justicia de los ciudadanos. La oportunidad llego con la reforma
+constitucional de 1994, que en su art. 43 consagró el derecho de toda persona a
+interponer “acción expedita y rápida de amparo”. La nueva disposición derogó
+definitivamente ciertas restricciones presentes en la ley 16.986. Así, eliminó el
+requisito de agotar la vía administrativa, extendió el alcance de la protección hacia
+aquellos derechos reconocidos por tratados o leyes, además de los consagrados por
+la Constitución; y reconoció la potestad de los jueces para declarar de oficio la
+inconstitucionalidad de la norma que funda el acto u omisión lesiva.
+
+        La constitucionalización del amparo supuso un gran avance para la defensa de
+los derechos de los individuos. No obstante, la reforma del 94 dejó sin resolver
+algunas cuestiones que abrieron el espacio para potenciales amenazas al flamante
+espíritu garantista adoptado por el constituyente. En particular, la polémica se dio
+respecto a dos temas regulados en la ley 16.986 pero que no fueron suficientemente
+contemplados en el art. 43: los amparos que afecten las actividades estatales y el
+plazo para interponer la demanda.
+
+         Amparo y actividad estatal: La paradójica circunstancia de que la acción más
+idónea para defender al individuo frente a abusos del poder estatal deba ser
+reglamentada por el propio Estado, implica el peligro siempre presente de una
+regulación gubernamental que, bajo la excusa del interés público, dificulte el acceso de
+las personas a la acción. La ley 16.986 dio un paso más allá en esa dirección
+restrictiva: el inc. C) del art. 2 prácticamente imposibilitó la procedencia del amparo
+contra el Estado, al prohibir la intervención judicial cuando “comprometiera directa o
+indirectamente la regularidad, continuidad y eficacia de la prestación de un servicio
+público, o el desenvolvimiento de actividades esenciales del Estado”. De esta manera,
+la elección de un término como “comprometer” suponía el peligro de que una
+interpretación literal de la norma llevara a privar a los ciudadanos del uso de este tipo
+de acción, ya que resulta difícil imaginar una actividad administrativa que no sea vea
+de algún modo “comprometida” por el inicio de una acción de amparo. Por otra parte,
+determinar cuáles son los servicios públicos o actividades esenciales parecía ser una
+potestad política que solo incumbía al Poder Ejecutivo. Sin embargo, el peligro que
+representaba dicha disposición para la protección jurídica de los ciudadanos fue
+neutralizado por los Tribunales. Muy pronto, la jurisprudencia reconoció la necesidad
+de limitar lo más posible conceptos como “servicio público” y “actividades esenciales”,
+para no desnaturalizar los fines tutelares de la institución.
+
+        En “Peso”23 (1985) la Cámara Nacional de Apelaciones en lo Contencioso
+Administrativo Federal determinó las pautas que deben guiar el análisis de conceptos
+como “servicio público” y “actividades esenciales”. El tribunal reconoció la dificultad de
+caracterizar adecuadamente tales términos, en virtud de su vaguedad. Pero sostuvo
+que, en esos casos, la interpretación a realizar debe ser restrictiva, ya que “representa
+una excepción a la procedencia de esta particularísima acción tendiente a la
+protección de los derechos fundamentales de la persona humana receptados
+constitucionalmente” De esta manera, la Cámara nos dice que el Estado no puede
+declarar esencial a cualquier actividad sólo con el objetivo de que las personas no
+puedan iniciar una acción de amparo, sobre todo, teniendo en cuenta que “lo que
+consagra a un Estado democrático no es la inscripción de la libertad en su texto
+fundamental sino su vigencia, y en este terreno es la acción procesal el elemento que,
+en muchos casos, puede afirmar el derecho, el medio de hacerlo valer y la vía para
+demandar su amparo”. Asimismo, después de la reforma de 1994, que consagró el
+amparo para la defensa de los derechos de los consumidores y usuarios, se estableció
+
+
+
+23
+     C. Nac. Cont. Adm. Fed., sala 4°, “Peso, Agustín C. v. Banco Central de la República Argentina” (1985)
+
+[[PDF p. 7]]
+constitucionalmente que las personas podrán reclamar la protección de sus derechos,
+aun cuando puedan comprometer la prestación de un servicio público.
+
+        A pesar del límite impuesto por la jurisprudencia, los intentos del Estado por
+restringir el acceso a la justicia continuaron. Estas tentativas han aflorado
+particularmente durante las crisis económicas, que son momentos en los que el
+Estado suele avanzar sobre los derechos individuales, con el pretexto de hacer frente
+a la gravedad de la situación social. Así, por ejemplo, la crisis sufrida por nuestro país
+a fines de 2001 motivó el dictado del llamado “corralito” –y posteriormente el
+“corralón”-, que impedía la libre disposición de dinero en efectivo de plazos fijos,
+cuentas corrientes y cajas de ahorro. Durante 2002, muchos ciudadanos presentaron
+acciones de amparo con el objetivo de recuperar su dinero. Frente a esta situación, el
+Congreso, a instancias del presidente Duhalde, sancionó la ley 25.56124, que
+modificaba el Código Procesal Civil y Comercial a fin de disponer la intervención
+directa de la CSJN frente a recursos de apelación interpuestos contra medidas
+cautelares que “afecten, obstaculicen, comprometan o perturben el desenvolvimiento
+de actividades esenciales del Estado Nacional…”. El recurso tenía efecto suspensivo
+de la resolución impugnada y el objetivo era evitar la devolución del dinero depositado
+por los ahorristas mediante el dictado de medidas cautelares. Esta ley fue
+complementada por el decreto 214/200225, que dispuso la suspensión por 180 días de
+los procesos judiciales y medidas cautelares relativas al “corralito” y al “corralón”.
+Finalmente, este decreto fue reemplazado por el decreto 320/02, manteniendo la
+suspensión únicamente para las medidas cautelares. Ante la evidencia de lo violatorio
+para los derechos individuales que implicaba tal paquete de medidas, los tribunales en
+lo contencioso administrativo no tardaron en declarar el rechazo de las limitaciones
+impuestas por el poder político sobre las medidas cautelares. Para los magistrados del
+fuero, tal suspensión era inconstitucional, ya que "toda persona tiene derecho a poder
+recurrir a la Justicia" y así "ampararse ante los atropellos de los funcionarios"26.
+
+        A pesar de los claros estándares establecidos por el Poder Judicial, en Abril de
+2013 se inició un nuevo intento por restringir el acceso de los individuos a la protección
+judicial del amparo. En ese mes el Congreso sancionó la ley 26.85427, que regula el
+dictado de medidas cautelares que se dicten en el marco de los procesos –incluido el
+amparo- que se inician contra el Estado. La nueva normativa se inscribía dentro del
+paquete de iniciativas que el Poder Ejecutivo impulsó con el afán de “reformar la
+Justicia” en vistas a su “democratización”. El argumento oficial era que esta ley
+ayudaría a terminar con el “derecho cautelar” que beneficiaba a los grandes grupos
+económicos. Entre ellos, cobraban particular relevancia el Grupo Clarín y la Sociedad
+Rural, que en ese momento se veían favorecidos por sendas medidas cautelares en
+las causas por la Ley de Medios y la expropiación del Predio La Rural
+respectivamente. Sin embargo, en la práctica, el resultado obtenido fue colocar otra
+vez obstáculos que impidan a los ciudadanos hacer valer judicialmente sus reclamos
+frente a actos del Estado que violen sus derechos individuales.
+
+       La ley establecía grandes limitaciones para que los jueces dicten una medida
+cautelar contra el Estado y su redacción recuerda mucho a la utilizada en la ley
+16.986. Para mencionar sólo un par de disposiciones, el art. 9 prohibía que los jueces
+dicten una medida cautelar que “afecte, obstaculice, comprometa, distraiga de su
+
+24
+   Ley 25.561, “Ley de Emergencia Pública y de Reforma del Régimen Cambiario”, publicada en el BO del
+07/01/2002
+25
+   Dec. 214/2002, publicado en el BO del 04/02/2002
+26
+    Ver GARGARELLA, Roberto “Las reformas que la Constitución condena”, Dario La Nación del
+02/05/2013
+27
+   Ley 26.854, “Ley de Medidas cautelares en las que el Estado es parte o interviene”, publicada en el BO
+del 30/04/2013
+
+[[PDF p. 8]]
+destino o de cualquier forma perturbe los bienes o recursos propios del Estado…”. Por
+otro lado, el art. 13 enumeraba entre los requisitos para la suspensión de un acto
+estatal la “no afectación de un interés público”. En forma similar a lo que sucedía con
+la ley de 1966 y el proceso de amparo, el objetivo de esta normativa era impedir el
+acceso de los particulares al dictado de medidas precautorias en su favor. No era de
+sorprenderse entonces, que, ni bien promulgada la iniciativa, numerosos planteos de
+inconstitucionalidad llegaran a la Justicia con el objetivo de que los tribunales aplicaran
+los estándares que ya habían sido establecidos anteriormente.
+
+        Ratificando lo decidido en ocasiones anteriores, los tribunales han dejado en
+claro que rechazan las limitaciones impuestas por el poder político sobre las medidas
+cautelares y declararon la inconstitucionalidad de numerosos artículos de la nueva ley.
+La exigencia establecida en el art. 4. de que el objeto de la cautelar no fuera igual al
+de la pretensión principal fue rechazada ya que violaba el derecho constitucional a la
+tutela judicial efectiva. En el fallo “De Felipe”, el juzgado sostuvo que si se admitiera tal
+requisito, las personas se verían imposibilitadas de “impedir que se frustren sus
+derechos con el transcurso del tiempo” y volvería a la medida cautelar “un instrumento
+anodino” ya que “aunque finalmente recaiga sentencia favorable al accionante, al
+privárselo de la protección anticipada llevaría al absurdo de tornar ilusorios los
+derechos que se dicen conculcados”28. Asimismo, en “Javkin”29 se dejó en claro que la
+potestad de establecer el alcance y extensión de las medidas cautelares son propias
+de la función judicial y no pueden ser restringidas por un exceso reglamentario que
+produzca una “limitación irrazonable” de dicha facultad.
+
+         Por otro lado, también se rechazó el art. 3, que establecía la exigencia de un
+“informe previo” que se debía requerir al Estado antes de que el juez pudiera dictar
+una medida cautelar. Esta disposición iba en contra del carácter “inaudita parte” con
+que se disponen las medidas cautelares. Precisamente, una de las razones de la
+eficacia de estas medidas reside en que se dictan sin el conocimiento de la parte
+contra la cual se va a adoptar. El motivo es el carácter urgente que tienen estos
+remedios procesales, máxime en un proceso de amparo en el cual están en juego
+derechos constitucionales que requieren una inmediata reparación. La exigencia de
+informe venía a retrasar el proceso judicial, conspirando contra el carácter “expedito”
+consagrado en el art. 43 de la Constitución Nacional. Además, los magistrados
+hicieron notar que esta disposición colocaba al Estado en una “posición ventajosa
+sobre cualquier otro litigante particular, al tomar conocimiento anticipado de las
+pretensiones y fundamentos del accionante, antes que le sea notificada la demanda”30,
+lo cual viola el principio de igualdad del art. 16 y el derecho al acceso a la justicia del
+art. 18.
+
+         La valla más importante a superar estaba representada por el art. 9,
+mencionado más arriba, por cuanto una lectura lineal del mismo implicaba la
+prohibición de interponer medidas cautelares en contra de la Administración, ya que
+este tipo de tutela siempre va a ser pasible de afectar, obstaculizar u comprometer
+algún bien o recurso propio del Estado. La irrazonabilidad de esta medida para la
+protección de los derechos de las personas fue reconocida por los jueces en fallos
+como “Gascón”, donde se estableció que la disposición del art. 9 constituye una
+“injustificada prerrogativa que no encuentra fundamento constitucional alguno, y vuelve
+
+
+28
+   Juzg. Fed. de San Nicolás Nº 1, “De Felipe, Ricardo c/ Estado nacional s/acción
+meramente declarativa de inconstitucionalidad”, sentencia del 31/5/2013
+29
+   Juzg. Nac. de 1a Inst. en lo CA Fed. N° 6, “Javkin Pablo c/ EN –PEN -Ley 26855 s/
+proceso de conocimiento”, sentencia del 7/6/2013
+30
+   Juzg. CCyCF de La Plata Nº 4, expte. Nº 102.018/2013, “Gascón, Alfredo Julio
+María c/ Poder Ejecutivo Nacional s/acción de inconstitucionalidad”, sentencia del 5/6/2013.
+
+[[PDF p. 9]]
+a poner al Estado en ejercicio de un privilegio legal que nuestra Carta Magna no
+admite”31.
+
+       Finalmente, el concepto de interés público mencionado en el art. 13 es de una
+imprecisión tan grande que puede ser utilizado para bloquear cualquier intento de
+defensa de los derechos de los individuos. Por lo tanto, una interpretación consistente
+con las libertades y garantías de la Constitución debe ser muy cuidadosa en el manejo
+de este tipo de términos y recurrir a ellos únicamente de manera excepcional, al estilo
+de la doctrina sentada en “Peso”. Asimismo, la disposición establece que los recursos
+de apelación contra medidas cautelares que suspendan los efectos de actos estatales
+tendrán efecto suspensivo, salvo que se vea comprometido el derecho a la vida, a la
+salud, un derecho alimentario o ambiental. Por lo tanto, fuera de estos supuestos,
+bastará para que siga en vigencia la norma lesiva de derechos, que el Estado
+interponga el recurso de apelación. Estas consideraciones llevaron a que los jueces
+también dispongan la inconstitucionalidad de esta normativa
+
+       En definitiva, la ley 26.854 supuso un intento del Estado por cambiar las reglas
+de juego que gobiernan los procesos seguidos contra la Administración, de una
+manera que iba en contra de los derechos individuales, mientras que favorecían los
+deseos del gobierno de turno. Los individuos ven mejor defendidos sus intereses
+cuando los procesos judiciales que les toca iniciar son breves y sencillos. Si éstos se
+alargan, al menos pueden contar con el paliativo de una medida cautelar que los
+ampare mientras los tribunales demoran en resolver la cuestión de fondo. Por lo tanto,
+establecer exigencias y requisitos como los descriptos para la procedencia de medidas
+cautelares equivale a profundizar la negativa a un acceso a la justicia rápido y efectivo,
+tal como lo disponen la Constitución Nacional y los tratados internacionales de
+derechos humanos.
+
+        Plazo de caducidad: Los problemas que trae aparejado la tarea de
+compatibilizar la regulación legislativa con las disposiciones constitucionales aparecen
+nuevamente con la cuestión del plazo de caducidad para interponer el amparo. El inc.
+e) del art. 2 de la ley 16.986 dispone que la acción no será admisible cuando no
+hubiese sido presentada dentro de los quince días hábiles a partir de la fecha en que
+el acto fue ejecutado o debió producirse. Por otra parte, el art. 43 de la CN no
+establece ningún plazo para la interposición de la demanda. De esta manera, se
+plantea la discusión acerca de la constitucionalidad del plazo de caducidad a la luz de
+la reforma del 94. Como suele ocurrir en varias polémicas jurídicas, la división se
+produjo entre los que priorizan la seguridad jurídica frente a aquellos que privilegian la
+satisfacción plena de los derechos en juego. Los primeros sostenían la
+constitucionalidad del plazo en base a que si el afectado deja transcurrir un tiempo
+prudencial, debe presumirse que la lesión a su derecho no reviste el carácter urgente
+exigido por esta clase de remedios excepcionales32. Por lo tanto, si el reclamante no
+es diligente en presentar su reclamo, razones de seguridad jurídica demandan que el
+acto o la norma presuntamente lesiva produzcan sus efectos con normalidad, hasta
+que eventualmente una resolución en un juicio ordinario la declare inconstitucional.
+Por otra parte, los que argumentan en contra del plazo de caducidad afirman que el
+art. 43 no menciona ningún plazo para interponer el recurso, por lo que cualquier ley -
+sea anterior o posterior a la reforma del 94- que establezca un límite temporal es
+
+
+
+
+31
+  “Gascón”, fallo cit.
+32
+  Para esta postura ver SAGÜES, Néstor P., “El derecho a la vida y el plazo para interponer la acción de
+amparo”, LL 2007-B-128, citado en BASTERRA, Marcela I., El Proceso Constitucional de Amparo, Abeledo
+Perrot, Buenos Aires, p.136.
+
+[[PDF p. 10]]
+inconstitucional. En este caso, los autores ponen el acento en la necesidad de
+satisfacer el derecho afectado por encime de cuestiones formales33.
+
+        En un primer momento, la jurisprudencia se inclinó a favor de la
+constitucionalidad del plazo. En 1999 y a través del fallo plenario “Cappizano de
+Galdi”34, la Cámara Civil y Comercial Federal sostuvo que el art. 43 no contiene “una
+enumeración exhaustiva y excluyente de los requisitos formales de la acción de
+amparo, en términos que comparten, por un lado, derogar las normas respectivas de la
+ley 16.986, y, por otro lado, impedir que mediante una ley reglamentaria se incluyan
+más requisitos extrínsecos que serían, así, incompatibles con el texto constitucional”.
+Además, el tribunal consideró la necesidad de establecer “reglas claras, precisas y
+objetivas” para la admisión de la acción. De lo contrario, afirmó, se afectaría “la
+eficacia de la labor judicial, la garantía de igualdad prevista en el art. 16 de la
+Constitución Nacional, y la posibilidad de funcionamiento del sistema republicano de
+gobierno”, ya que el principio de división de poderes exige que se impida la “la
+subordinación intemporal de cualquier acto jurídico al Poder Judicial.” En conclusión, la
+postura a favor de la constitucionalidad del plazo de caducidad se sustenta en
+argumentos que, en el fondo, dejan traslucir una preocupación por la seguridad
+jurídica.
+
+        Sin embargo, y gracias al impulso de la doctrina, se fue imponiendo una visión
+de la temática que ponía más el acento en la necesidad de considerar la afectación
+sufrida por el individuo y la necesidad de concederle un remedio que pueda reparar en
+forma inmediata el perjuicio sufrido. Este cambio de perspectiva llevó a que se
+cuestionara la constitucionalidad del plazo de caducidad, ya que resulta irrazonable
+denegar protección a quien ha padecido la violación de sus derechos de mayor
+jerarquía sólo porque ha transcurrido el plazo establecido para iniciar la acción. En
+especial, se afirmaba que la CN no establece ningún plazo y por ende, toda
+consagración de esa exigencia en una normativa de jerarquía inferior resulta
+inconstitucional. La jurisprudencia receptó esta postura a nivel de la Ciudad de Buenos
+Aires en el año 2007, a través del fallo “G.D.A”35, que declaró inconstitucional el plazo
+de 45 días establecido por la ley 2145. El argumento fue que el establecimiento de un
+límite temporal para el ejercicio de la acción “constituye una formalidad procesal que
+afecta la operatividad del amparo y, de hecho, puede llegar a aniquilarla". El fallo pone
+el acento en el carácter ágil e informal del amparo y afirma que el trámite procesal que
+se le imprime no debe tener exclusivamente un puro fin ordenador, sino que debe
+servir de instrumento para la realización efectiva de los derechos fundamentales"
+
+        Una forma de neutralizar los efectos del plazo de caducidad sin declarar su
+inconstitucionalidad ha sido ofrecida por lo que se ha llamado la “doctrina de la
+ilegalidad continuada”36. Según esta visión, los efectos de un acto lesivo de un
+derecho fundamental pueden tener continuidad en el tiempo o no. Si lo tiene, debe
+considerarse que el acto sigue ejecutándose y por lo tanto, el cómputo del plazo no
+puede iniciarse. Por el contrario, si el acto ha cesado en sus efectos, ello quiere decir
+que la acción de amparo deviene innecesaria, ya que la lesión ha desaparecido. Por lo
+tanto, en este caso tampoco hace falta computar el tiempo transcurrido para la
+interposición de la demanda. En conclusión, la doctrina de la ilegalidad continuada
+transforma la discusión sobre la constitucionalidad del plazo de caducidad en una
+
+33
+   Ver GIL DOMINGUEZ, Andrés, “Inconstitucionalidad del plazo de caducidad del amparo en la Ciudad
+Autónoma de Buenos Aires”, LL 2007-C-1214, citado en BASTERRA, Marcela I., “El Proceso…” ob. cit.
+34
+   C. Nac. Civ. y Com. Fed., en pleno, “Capizzano de Galdi, Concepción v. Instituto de Obras Sociales”
+(1999)
+35
+   Trib. Sup. Just. Ciudad de Bs. As., “G.D.A. v. Ciudad de Buenos Aires” (2007)
+36
+   Para profundizar sobre esta postura, ver CASCO, Javier César “Tres posturas sobre la no vigencia del
+plazo de caducidad en la ley de amparo nacional” (LL., 2003-B, 1400)
+
+[[PDF p. 11]]
+polémica sin sentido, ya que mientras exista la lesión al derecho de la persona, el
+plazo de caducidad no puede empezar a correr.
+
+        La CSJN adoptó esta última postura en el fallo “Mosqueda”37. El caso versaba
+sobre un amparo presentado por un jubilado que reclamaba al PAMI la cobertura de
+un tratamiento kinesiológico que le había sido interrumpido. Tanto en primera como en
+segunda instancia, su reclamo había sido rechazado en base a que el amparo había
+sido presentado fuera de término. Para ello, los magistrados habían ratificado la
+doctrina de “Capizzano de Galdi”, que establecía la constitucionalidad del plazo de
+caducidad. Sin embargo, el máximo tribunal revocó las sentencias inferiores y ordenó
+que se dé curso al proceso de amparo. En apoyo de su decisión, la Corte sostuvo que
+el obstáculo del plazo no era insalvable “en la medida en que con la acción incoada se
+enjuicia una arbitrariedad o ilegalidad continuada, sin solución de continuidad,
+originada, es verdad, tiempo antes de recurrir a la justicia, pero mantenida al momento
+de accionar y también en el tiempo siguiente”38. La CSJN consideró que el hecho de
+que el señor Mosqueda continuara sin recibir su tratamiento configuraba una acción
+única que “es a la vez, inescindiblemente, actual y pasada”. Por lo tanto, mientras la
+situación de afectación persista, el plazo de caducidad no puede empezar a correr.
+Para llegar a aquella interpretación, el tribunal tuvo en cuenta el carácter “urgente” del
+proceso de amparo, que exige a los jueces “evitar que el rigor de las formas pueda
+conducir a la frustración de derechos que cuentan con tutela de orden
+constitucional”39.
+
+        La doctrina de la “ilegalidad continuada” pareciera ser la más adecuada de
+aplicar para aquellos casos en que la afectación del derecho se produce por la no
+realización de la conducta debida. Los derechos económicos, sociales y culturales
+suelen ser claros ejemplos de violaciones por omisión, cuyos efectos permanecen
+indefinidamente. El derecho a la salud es uno de los más característicos y será
+analizado a continuación
+
+        Amparo individual y derecho a la salud: A partir de su consagración
+constitucional en 1994, el amparo ha adquirido una dimensión individual y colectiva,
+según el interés jurídico afectado corresponda a una persona o a un grupo. Dentro del
+último grupo suelen agruparse los llamados derechos de incidencia colectiva previstos
+en la segunda parte del art. 4340. Esto ha llevado a la creación de distintos tipos de
+amparos colectivos de acuerdo al bien que se intenta resguardar. Así, la disposición
+menciona a los derechos ambientales, a los derechos del consumidor, etc. Sin
+embargo, el amparo individual también ha encontrado un espacio que ocupar como
+medio de defensa de los nuevos derechos de tercera generación. La consagración de
+los derechos económicos, sociales y culturales (DESC) a través de la incorporación de
+tratados internacionales41 ha puesto en cabeza del Estado el deber de cumplir con las
+obligaciones establecidas en tales instrumentos para la satisfacción de las
+necesidades materiales y culturales de los individuos. Las violaciones de los DESC
+
+37
+   Mosqueda, Sergio c. Instituto Nacional de Servicios Sociales para Jubilados y Pensionados Corte
+Suprema de Justicia de la Nación (07/11/2006).
+38
+   “Mosqueda”, fallo cit.
+39
+   “Mosqueda”, fallo cit
+40
+    Dice la segunda parte del art. 43 “Podrán interponer esta acción contra cualquier forma de
+discriminación y en lo relativo a los derechos que protegen al ambiente, a la competencia, al usuario y al
+consumidor, así como a los derechos de incidencia colectiva en general, el afectado, el defensor del
+pueblo y las asociaciones que propendan a esos fines, registradas conforme a la ley, la que determinará
+los requisitos y formas de su organización”.
+41
+   Entre los más importantes se encuentran el Pacto Internacional de Derechos Económicos, Sociales y
+Culturales, y el Protocolo adicional a la Convención Americana sobre Derechos Humanos en materia de
+Derechos Económicos, Sociales y Culturales —Protocolo de San Salvador—.
+
+[[PDF p. 12]]
+suelen producirse por omisiones de los Estados en cumplir con dicho deber y sus
+afectados no son necesariamente grupos de personas, sino que también pueden ser
+un individuo al cual se le niega un tratamiento médico o un chico que no consigue
+cupo en una escuela. Frente a ello, el amparo ha sido el medio utilizado por los
+ciudadanos para conseguir la rápida satisfacción de sus derechos sociales. En este
+contexto, el derecho a la salud ha destacado como uno de los más invocados ante el
+Poder Judicial. La procedencia de esta acción para asuntos relacionados con la salud
+fue reconocida por la CSJN en el caso “Floreancig”42, donde estableció que la
+necesidad de salvaguardar el derecho fundamental de la vida y la salud vuelve
+“imprescindible” la necesidad de ejercer esa “vía excepcional” que es el amparo, ya
+que “es el procedimiento judicial más simple y breve para tutelar real y
+verdaderamente los derechos consagrados en la Ley Fundamental”. Profundizando la
+visión anti formalista, nuestro máximo tribunal sostuvo en “María, Flavia Judith” 43que
+tampoco hace falta recurrir a la vía administrativa en cuestiones de salud aunque se
+trate de reclamos frente al Estado, ya que “la preservación de la salud y la integridad
+física (…) se contraponen al ejercicio de soluciones de esa índole”, debido al carácter
+de los “valores en juego y la normalmente presente urgencia del caso”. De esta
+manera se ha dejado en claro que la gravedad del derecho a la salud vuelve
+imprescindible el acceso a un recurso judicial rápido y efectivo que simplifique el
+trámite para que la salud de la persona sea prontamente restablecida.
+
+        En particular, el derecho a la salud ha sido considerado como aquellos cuya
+afectación se produce de manera continua. Siguiendo a “Mosqueda”, la Cámara 4° de
+Apelaciones en lo Civil y Comercial de la provincia de Córdoba44 consideró que la
+negativa a brindar cobertura para un tratamiento de infertilidad constituye una
+“situación continuada”, que impide explicitar el hecho lesivo a partir del cual puede
+empezar a computarse el plazo de caducidad
+
+        Consideraciones finales: El nacimiento del amparo por vía pretoriana                                   Comentario [U1]: Es una afirmación
+respondió a la necesidad de dotar de eficacia real a los derechos y garantías                                  poco fuerte (especialmente porque el ro
+                                                                                                               de los jueces está ampliamente discutid
+establecidos en la Constitución. Desde este punto de vista, puede decirse que el                               en otros artículos de la obra).
+Poder Judicial se dedicó a completar la tarea iniciada por el Constituyente.
+Posteriormente, las reglamentaciones legislativas tergiversaron por completo la
+finalidad del instituto. Frente a esta situación, la jurisprudencia fue certera en llevar
+adelante un tipo de interpretación que suavizara los estrictos requisitos exigidos.
+Luego, con la incorporación de los tratados internacionales de derechos humanos y la
+reforma constitucional de 1994, el amparo empezó a ser considerado como la
+manifestación más clara del derecho al acceso a la justicia del que debe gozar todo
+individuo. Desde este marco, las tendencias actuales de la jurisprudencia se centraron
+en eliminar los intentos del Poder Ejecutivo por establecer restricciones al uso de este
+remedio procesal contra actos estatales y en remover obstáculos procesales para su
+procedencia, como el plazo de caducidad. Finalmente, el amparo ha demostrado ser
+en la actualidad una herramienta eficaz para la protección individual de derechos
+sociales tales como el derecho a la salud.
+
+
+
+
+42
+   Corte Sup., “Floreancig, Andrea C. y otro por sí y en representación de su hijo menor H., L. E. v. Estado
+nacional” (2006), Fallos 329:2552
+43
+   Corte Sup., “María. Flavia Judith v. Instituto de Obra Social de la Provincia de Entre Ríos y Estado
+provincial” (2007), Fallos 330:4647
+44
+   Causa: "A., M.G. - V., R. c/Administración Provincial del Seguro de Salud (Apross) - Amparo - Recurso
+de Apelación - 2181665/36".

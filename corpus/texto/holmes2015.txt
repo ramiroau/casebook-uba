@@ -1,0 +1,1666 @@
+# fuente: Unidad18/Holmes_Sunstein_---_Cap.pdf
+# md5_original: 38a53f10bb39b07abd42d132043f4651
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+
+
+[[PDF p. 2]]
+derecho y política
+
+
+
+Dirigida por Roberto Gargarella
+y Paola Bergallo
+
+[[PDF p. 3]]
+Traducción de Stella Mastrangelo
+
+[[PDF p. 4]]
+El costo
+de los derechos
+Por qué la libertad
+depende de los impuestos
+Stephen Holmes
+Cass R. Sunstein
+
+[[PDF p. 5]]
+  Esta colección comparte con IGUALITARIA el objetivo de difundir y promover
+  estudios críticos sobre las relaciones entre la política, el derecho y los tribunales.
+  www.igualitaria.org
+
+  Holmes, Stephen
+  El costo de los derechos: Por qué la libertad depende de los
+  impuestos.- / Stephen Holmes y Cass R. Sunstein.- 1ª ed.-
+  Buenos Aires: Siglo Veintiuno Editores, 2011.
+  264 p. ; 21x14 cm. - (Derecho y Política / dirigida por
+  Roberto Gargarella y Paola Bergallo)
+
+  Traducido por: Stella Mastrangelo
+  ISBN 978-987-629-154-5
+
+  1. Derecho. 2. Ciencias Políticas. I. Sunstein, Cass R. II. Stella
+  Mastrangelo, trad. III. Título
+  CDD 320
+
+
+Título original: The Cost of Rights
+© 1999, Stephen Holmes y Cass R. Sunstein
+© 2000, W.W. Norton & Company, Inc.
+© 2011, Siglo Veintiuno Editores S. A.
+
+
+  isbn 978-987-629-154-5
+
+
+  Impreso en Grafinor // Lamadrid 1576, Villa Ballester
+  en el mes de marzo de 2011.
+
+
+  Hecho el depósito que marca la ley 11.723
+  Impreso en Argentina // Made in Argentina
+
+[[PDF p. 6]]
+A Geoffrey Stone.
+
+[[PDF p. 7]]
+
+
+[[PDF p. 8]]
+Índice
+
+
+
+
+Presentación, Roberto Gargarella
+    y Paola Bergallo                                 11
+Prólogo. El Estado como precondición
+de los derechos: beneficios y límites de una
+concepción relevante para América Latina
+    Juan F. González Bertomeu                        15
+
+Agradecimientos                                      29
+
+Introducción: El sentido común acerca
+de los derechos                                      31
+
+Primera parte: Por qué un Estado sin dinero no
+puede proteger los derechos                          53
+ 1. Todos los derechos son positivos                 55
+ 2. La necesidad de la actuación del
+    gobierno                                         71
+ 3. Sin impuestos, no hay propiedad                  81
+ 4. A los guardianes hay que pagarles                99
+
+Segunda parte: Por qué los derechos no pueden
+ser absolutos                                       107
+ 5. Cómo la escasez afecta la libertad              109
+ 6. En qué difieren los derechos de los intereses   121
+ 7. Exigir derechos significa distribuir recursos   135
+ 8. Por qué es inevitable hacer concesiones         141
+
+Tercera parte: Por qué los derechos implican
+responsabilidades                                   155
+
+[[PDF p. 9]]
+10 el costo de los derechos
+
+         9. ¿Es posible que los derechos hayan llegado
+            demasiado lejos?                              157
+        10. El altruismo de los derechos                  175
+        11. Los derechos como respuesta a la bancarrota
+            moral                                         185
+        Cuarta parte: Los derechos entendidos como
+        pactos                                            195
+        12. Cómo la libertad religiosa promueve
+            la estabilidad                                197
+        13. Tener derechos y tener intereses              211
+        14. Los derechos de bienestar y la política
+            de inclusión                                  225
+
+        Conclusión                                        241
+        Apéndice                                          253
+        Bibliografía                                      257
+
+[[PDF p. 10]]
+         Presentación
+
+
+
+
+           El libro que aquí presentamos constituye una pequeña
+joya de enorme importancia para quienes están interesados en las
+relaciones entre el derecho y la política de hoy. El resultado no
+extraña teniendo en cuenta que sus autores son dos de las princi-
+pales plumas de la academia contemporánea: Cass R. Sunstein,
+profesor en la Universidad de Harvard, asesor del presidente de
+los Estados Unidos Barack Obama y uno de los constitucionalistas
+más prolíficos e influyentes de la actualidad, y Stephen Holmes,
+profesor en la Universidad de Nueva York y uno de los más lúci-
+dos y cultivados especialistas en la historia del pensamiento polí-
+tico moderno.
+   El libro de Sunstein y Holmes sostiene un argumento en extre-
+mo relevante para los debates de la actualidad: todos nuestros
+derechos dependen de los impuestos recaudados por el gobier-
+no. Eso significa que no es posible pedir, al mismo tiempo, que la
+política reduzca los impuestos y dé garantía plena a nuestros
+derechos.
+   La libertad de expresión, la seguridad social, el debido proce-
+so, el voto son algunos de los derechos que más valoramos, y no
+son gratuitos, sino que cuestan dinero. Es decir que requieren la
+permanente inversión estatal. Sin embargo, las batallas electora-
+les de nuestro tiempo se encuentran inundadas de reclamos que
+exigen una rebaja en los impuestos y demandan, a la vez, protec-
+ciones básicas en materia de derechos.
+   Más allá de su enorme importancia política, la tesis que defien-
+den Sunstein y Holmes es significativa porque nos ayuda a salir al
+cruce de al menos dos afirmaciones habituales. Por un lado, aque-
+lla según la cual algunos derechos básicos –como a la libertad de
+
+[[PDF p. 11]]
+12 el costo de los derechos
+
+expresión o la libertad de cultos– resultan satisfechos con la mera
+inacción estatal. Para asegurar su vigencia, en efecto, bastaría con
+atarle las manos al Estado –que no persiga, ni censure, ni repri-
+ma–. Esta interesada afirmación, sin embargo, ignora el modo en
+que todas nuestras libertades dependen del activismo estatal, de
+su intervención permanente: necesitamos, en todos los casos, que
+existan tribunales abiertos y efectivos, una policía funcionando,
+mecanismos de controles vigentes, sin lo cual aquellas libertades
+resultarían constantemente amenazadas. Dicho de otro modo: la
+oposición entre mercado libre e intervencionismo estatal está
+erróneamente fundada, ya que el Estado interviene siempre. Lo
+que importa es decidir qué intervenciones son apropiadas y justi-
+ficadas, y cuáles no lo son.
+   La segunda idea que la tesis central del libro cuestiona –que, de
+modo insólito, ha sido esgrimida por los tribunales durante largas
+décadas como una verdad revelada–, y que va de la mano de la
+anterior, es aquella que afirma que sólo son costosos los derechos
+sociales (los nuevos, “de segunda generación”, relacionados con
+la vivienda, la salud, la educación). Esta pretensión sostiene que
+uno puede acercarse a los tribunales para pedir que levanten una
+acción de censura estatal o garanticen las elecciones o el debido
+proceso, pero no para que aseguren el derecho a la vivienda o a
+la salud de alguien, ya que estos últimos derechos son muy costo-
+sos, y su definición y cuidado deben estar a cargo de los poderes
+políticos, que tienen el control del presupuesto.
+   Sin embargo, esta idea ignora que los tribunales cuentan con
+muchas respuestas posibles –más allá del “sí” y el “no”– para ase-
+gurar el cumplimiento de un derecho: ellos pueden, por caso,
+obligar al Poder Legislativo a satisfacer un derecho en un plazo
+determinado sin definir el modo en que debe hacerlo, o a justifi-
+car su negativa, o pueden convocar a una audiencia pública para
+que los poderes políticos diseñen la mejor forma de responder al
+problema, etc.
+   Además, la negativa a garantizar los derechos socioeconómicos
+implica desconocer lo sostenido más arriba, esto es, que también
+los derechos “de primera generación” cuestan dinero. Pensemos
+simplemente en cuánto cuesta llevar a cabo una elección política
+
+[[PDF p. 12]]
+                                                 presentación 13
+
+(un típico derecho “de primera generación”). Nadie niega que
+tal derecho debe asegurarse en todos los casos, ni que los tribuna-
+les deben intervenir para hacer posible su plena vigencia. Sin
+embargo, esas mismas personas resisten la idea de que los dere-
+chos económicos, sociales y culturales deben ser respaldados
+siempre por los tribunales.
+   Éstas son algunas de las cuestiones que aprendemos leyendo el
+libro que hoy presentamos orgullosamente. Consideramos, por
+tanto, que su lectura es necesaria para pensar mejor la vida polí-
+tica de nuestros días.
+
+
+                                             ROBERTO GARGARELLA
+                                                  PAOLA BERGALLO
+                                 Igualitaria (Centro de Estudios
+                         sobre Democracia y Constitucionalismo)
+
+[[PDF p. 13]]
+
+
+[[PDF p. 14]]
+          Prólogo
+          El Estado como precondición
+          de los derechos: beneficios y límites
+          de una concepción relevante
+          para América Latina
+                                               Juan F. González Bertomeu*
+
+           Dime cuántos impuestos te cobran (y cómo se gastan) y te diré
+qué derechos tienes: así podría resumirse la tesis central del valioso
+libro que prologo. Para Stephen Holmes y Cass R. Sunstein, la
+pregunta ¿qué derechos garantiza una comunidad? no puede respon-
+derse (sólo) mirando la Constitución de esa comunidad sino,
+muy especialmente, estudiando cuántos recursos se destinan a
+asegurar su cumplimiento. Los derechos cuestan dinero. Todos
+ellos, ya se trate de las libertades tradicionales a la no interferen-
+cia estatal (libertades negativas), ya de los derechos sociales,
+usualmente identificados como aquellos que exigen el desplie-
+gue de una actividad más directa por parte del Estado (libertades
+positivas).
+   Para los autores, justamente, esta dicotomía es engañosa. Por-
+que su satisfacción cuesta dinero, porque ella requiere la presta-
+ción de un servicio público activo, todos los derechos son positivos.
+Los derechos sociales muestran más claramente esta dimensión,
+la necesidad de la prestación estatal. Esta prestación queda más
+oculta en el caso de las libertades negativas. Igualmente existe: ni
+la más negativa de las libertades podría ser garantizada en ausen-
+cia de un deber estatal, y tal deber sólo merece ser tomado en se-
+rio cuando se destina parte del presupuesto tanto a satisfacerlo en
+forma directa como a penar su incumplimiento.
+
+
+
+        * Abogado por la Universidad Nacional de La Plata. Máster en Derecho
+          (LL.M.) por la Universidad de Nueva York. Candidato a doctor
+          (J.S.D.) por la misma universidad. Integrante de Igualitaria, Centro
+          de Estudios sobre Democracia y Constitucionalismo.
+
+[[PDF p. 15]]
+16 el costo de los derechos
+
+   Según Holmes y Sunstein, esas libertades significan bien poco si
+se las toma meramente como inmunidades contra la intervención
+estatal, sin considerar el aparato burocrático que debe concretar-
+las en la práctica. Dicho sea de paso, todos los derechos son tam-
+bién negativos: la demanda de una persona por acceder a una vi-
+vienda se transforma, una vez satisfecha, en una por conservarla
+de interferencias indebidas; el derecho de una niña a acceder a la
+educación sólo puede garantizarse si el Estado o un tercero no
+pueden restringirlo.
+   La idea del libro es clara y sencilla, y su contribución es significa-
+tiva. El libro debilita la noción de que el Estado es por definición el
+enemigo de la libertad y los derechos, de que un Estado fuerte sea
+necesariamente uno abusivo. Sus autores muestran de manera
+convincente que los derechos carecen de virtualidad práctica en
+ausencia de un Estado que vele por su protección (es en cambio al
+defender un Estado débil que se exhibe un bajo compromiso con
+ellos). Además, desnuda la falsedad de uno de los argumentos
+principales empleados para negar el carácter exigible de los dere-
+chos sociales, según el cual lo que hace tan costosos estos derechos
+–a diferencia, por ejemplo, de los derechos civiles y políticos– es la
+necesidad de que el Estado brinde un servicio a sus beneficiarios.
+Como vimos, la vigencia de los derechos civiles y políticos tampoco
+puede entenderse sin la existencia de un servicio público.
+   El servicio o la prestación del caso aparece en “momentos” dis-
+tintos en unos y otros derechos, y es esto lo que tal vez dificulte
+advertir la similitud entre ellos. En el caso de los derechos socia-
+les, derecho y deber estatal son perfectamente correlativos; el de-
+recho a recibir educación no es nada si el Estado no la garantiza.
+Uno podría pensar que, en el caso de los derechos civiles, el goce
+del derecho no exige tal prestación activa. En principio, mi pro-
+tección contra los abusos policiales se satisfaría simplemente con
+una “mera” abstención por parte de los agentes. Pero el Estado
+sólo puede asegurar esta abstención creando y manteniendo
+agencias de supervisión del accionar policial. Aquí es donde se ve
+la necesidad de la dimensión positiva. En suma, el goce de algu-
+nos derechos podrá representar mayores costos económicos que
+el de otros, pero al incorporar al análisis esta última fase se ad-
+
+[[PDF p. 16]]
+                                                                  prólogo 17
+
+vierte que no hay una diferencia estructural entre ellos.1 La mayor
+virtud del libro es hacer visible este aspecto.
+   Vale la pena detenernos por un momento en la cuestión de la
+audiencia a la que el texto pretende interpelar, para intentar
+luego reflexionar sobre qué tiene para decirnos en función de
+nuestro contexto latinoamericano. El blanco principal de los au-
+tores, aunque no el único, es la derecha conservadora en Estados
+Unidos, en especial su vertiente libertaria. Según ésta, el Estado se
+justifica sólo para garantizar (y sólo si garantiza) la protección de
+la libertad personal y la propiedad. Una bien conocida tradición
+teórica occidental ha empleado el recurso del estado de naturaleza,
+la situación previa a la constitución de una sociedad política,
+como plataforma para la justificación del Estado (mayor o menor,
+con mayores o menores funciones).2 Usualmente, conociendo la
+interpretación que una teoría ofrece de ese estado de naturaleza
+(histórica o normativa, reconstruida o soñada) podemos saber ya
+algo sobre la justificación que seguirá del paso a la sociedad polí-
+tica. Un estado de naturaleza horrible suele dar pie a un Estado
+fuerte, y viceversa. Pues bien, la vertiente libertaria que el libro in-
+tenta atacar se funda en el imaginario de una situación pre-polí-
+tica en la que los individuos son titulares potenciales de derechos
+de propiedad, adquiridos a partir de la apropiación originaria. Si
+el salto al Estado llegara acaso a justificarse, ello sería sólo para
+neutralizar los posibles ataques a las personas, que son usual-
+mente consecuencia de los ataques a la propiedad. Fuera de esto,
+en el estado de naturaleza las personas son libres, y la interferen-
+cia estatal amenaza esa libertad. El impuesto simboliza precisa-
+mente uno de los mayores enemigos de este imaginario, pues pri-
+varía ilegítimamente a las personas de sus ingresos obtenidos
+antes o por fuera del Estado.3
+
+
+        1 Sobre este tema, véase Rodolfo Arango, El concepto de derechos sociales
+          fundamentales, Bogotá, Legis, 2005.
+        2 Para los primeros y principales exponentes de esta tradición, véanse
+          Thomas Hobbes, Leviatán; John Locke, Segundo tratado sobre el gobierno
+          civil; Jean Jaques Rousseau, El contrato social (traducciones varias).
+        3 Para una versión contemporánea de una posición semejante, véase
+          Robert Nozick, Anarquía, Estado y utopía, México DF, Fondo de
+
+[[PDF p. 17]]
+18 el costo de los derechos
+
+   Los autores de El costo de los derechos vienen a decir que ese es-
+tado de naturaleza casi idílico nunca existió, y que no es válido si-
+quiera como esquema conceptual.4 La razón es la apuntada: sólo
+puede existir un derecho si hay una estructura detrás tendiente a
+garantizar su satisfacción. Dicho de otro modo: la sugerencia de
+que bajo el estado de naturaleza existe una amenaza constante a
+los derechos se asienta en una contradicción. Sólo se puede soste-
+ner con algún sentido que se tiene un derecho si hay alguien que
+puede obligar a su cumplimiento. Por lo tanto, reconocer que en
+el estado de naturaleza tal derecho podría violarse constante-
+mente pone en duda (o incluso niega) que eso sea justamente un
+derecho. La conclusión es clara: o vivimos en un estado de natura-
+leza sin derechos, con las consecuencias que eso conlleva, u opta-
+mos por un Estado. Pero no por cualquier Estado, sino uno ya li-
+brado de la atadura que supone el foco exclusivo en la protección
+de la seguridad de las personas y la propiedad, un Estado que
+debe atender a las necesidades de las personas antes que a unos tí-
+tulos previos inexistentes. Los derechos surgen porque es la pro-
+pia comunidad la que entiende que son importantes. Sin Estado
+no hay derechos.
+   Hacia el final de este prólogo volveré sobre estas ideas, que, en
+principio, desde un punto de vista político, acepto sin inconve-
+nientes. Me interesa ahora destacar por qué y en qué sentido el li-
+bro es iluminador para América Latina. Desde luego, en la región
+no es nueva la idea de que para garantizar derechos se necesita un
+Estado fuerte, y, en un nivel más básico, que la función del Estado
+incluye la provisión de servicios sociales. Aun con matices y gran-
+des diferencias entre los países, los Estados intervinieron desde
+una etapa relativamente temprana brindando servicios como la
+salud y la educación, y ejerciendo un rol moderadamente distri-
+butivo (una intervención estatal, vale decirlo, que con frecuencia
+
+
+
+         Cultura Económica, 1988. La versión original es la de John Locke,
+         aunque con diferencias importantes respecto de la de Nozick. Véase
+         Locke, íd.
+       4 Para una crítica temprana a la noción del contrato social, véase David
+         Hume, “Of the original contract”.
+
+[[PDF p. 18]]
+                                                                  prólogo 19
+
+no fue democrática). En muchos países, el Estado permitió la in-
+clusión de los trabajadores mediante el reconocimiento de sus de-
+rechos (incluido el de formar sindicatos y participar en negocia-
+ciones colectivas), y en algunos se llevaron a cabo reformas
+agrarias, aunque con gran variación en su nivel de efectividad. De
+hecho, varios de nuestros textos formularon algún tipo de recono-
+cimiento explícito a los derechos sociales (la Constitución mexi-
+cana de 1917 es el primer –y más notorio– ejemplo).
+   Pese a que la región recibió una influencia temprana del cons-
+titucionalismo estadounidense, en el comienzo del siglo XX la
+atención se reenfocó hacia otros sitios, entre ellos, hacia el dere-
+cho europeo, con la influencia de autores como Léon Duguit y la
+idea del derecho social. En Estados Unidos, el Estado también in-
+tervino brindando algunos servicios y regulando en parte la eco-
+nomía. Sin embargo, estos servicios casi nunca fueron considera-
+dos bajo la lógica o el lenguaje de los derechos (particularmente
+de los derechos constitucionales), y cuando se los quiso consagrar
+en la Constitución el intento fracasó rotundamente.5 En buena
+medida por las razones señaladas anteriormente, la cuestión del
+rol del Estado en la provisión de servicios esenciales (como la sa-
+lud) sigue generando en ese país debates acalorados.
+   Durante mucho tiempo, la discusión en América Latina no fue
+tanto que el Estado debiera tener a su cargo tales actividades (a la
+par de otras más “tradicionales” como la protección de la seguri-
+dad) sino más bien cómo o qué tan bien podía hacerlo. Sólo más
+recientemente se puso en cuestión este rol. En las décadas de
+1980 y 1990, la retracción del Estado que siguió a la aplicación de
+las políticas neoliberales (alentadas por el Consenso de Washington)
+y el proceso de re-mundialización de la economía, entre otras cau-
+sas, produjeron una explosión de la desocupación, la pobreza, la
+desigualdad y la alienación social. Las consecuencias que describo
+hicieron visible de manera aguda los posibles daños de una con-
+
+
+
+       5 Sobre este tema da cuenta justamente el libro de Cass Sunstein The
+         Second Bill of Rights: FDR’s Unfinished Revolution and Why We Need It More
+         than Ever, Basic Books, 2004.
+
+[[PDF p. 19]]
+20 el costo de los derechos
+
+tracción estatal tan drástica, especialmente en el plano de los de-
+rechos. Esto es así incluso para los derechos “tradicionales” a la se-
+guridad personal o la propiedad. En sociedades altamente des-
+iguales, es incierto que se puedan garantizar esos derechos sin
+que la intervención del Estado esté a su vez dirigida a áreas de in-
+clusión social como el trabajo, la educación y la vivienda. El sis-
+tema de justicia criminal no puede lograrlo por sí solo, ni siquiera
+el más duro de ellos.
+   El costo de los derechos puede leerse como una exhortación a reco-
+nocer la vinculación entre derechos y gasto estatal; a analizar
+cuánto dinero dedica el Estado a proteger derechos (o cuánto es-
+tamos dispuestos a dedicar) y, en particular, a estudiar las eleccio-
+nes que determinan cuáles se protegen con mayor fuerza y cómo.
+El mensaje no es enteramente nuevo en la región. En primer lu-
+gar, aquellas cuestiones han concitado ya cierto interés acadé-
+mico.6 Por otro lado, varias organizaciones de la sociedad civil y
+agencias públicas de protección de los derechos han incorporado
+(más o menos recientemente) estas preocupaciones en su trabajo
+cotidiano, al estudiar, por ejemplo, cuánto se dedica en el presu-
+puesto a los rubros educativos, de salud o medioambientales, o
+cuánto cuesta mantener encerrada a una persona en prisión. En
+sus distintas acciones, estas organizaciones no se han quedado en
+su reivindicación simbólica y retórica (lo cual, por cierto, es im-
+portante, como diré sobre el final del prólogo) sino que se han in-
+volucrado activamente y con conocimiento en los debates técni-
+cos locales sobre partidas y prioridades de gasto.
+   Una de esas actividades ha consistido en la renovación de estra-
+tegias de litigio judicial en casos complejos, en los que se enfren-
+tan violaciones estructurales que son generalmente fruto de un
+nudo sistémico de acciones y omisiones estatales. Una nota carac-
+terística de estos procesos es la importancia que adquiere la etapa
+del diseño de una solución que remedie unas deficiencias ya com-
+
+
+
+        6 Al respecto, véase, por ejemplo, Victor Abramovich y Christian
+          Courtis, Los derechos sociales como derechos exigibles, Madrid, Trotta, 2002.
+          Véase también la obra de Rodolfo Arango citada en nota 1.
+
+[[PDF p. 20]]
+                                                              prólogo 21
+
+probadas y condenadas judicialmente.7 En esta etapa, las partes
+demandantes usualmente se involucran en un proceso de discu-
+sión con funcionarios estatales para determinar el modo –más o
+menos inmediato, más o menos abarcador o detallado– de adop-
+tar una solución. Las características peculiares de las violaciones
+obligan con frecuencia a sacrificar pedidos de soluciones íntegras
+e inmediatas, y exigen a los reclamantes conocer los pormenores
+de las políticas y las capacidades del Estado, incluyendo las cues-
+tiones presupuestarias. En la región, varios de esos reclamantes
+han demostrado estar a la altura del desafío.
+   Este desarrollo es muy positivo. Lo es precisamente porque el
+manejo de cuestiones presupuestarias e impositivas ha sido tradi-
+cionalmente asociado a posiciones “tecnócratas” de derecha. La
+preocupación por los impuestos (por cuánto, cómo y para qué se
+recauda) y sobre cómo se gastan es una parte necesaria de un pro-
+grama progresista. No podemos concebir un Estado relativamente
+intervencionista sin dotarlo de la capacidad suficiente para
+desarrollar tal intervención. ¿A qué podría deberse entonces ese
+prejuicio, si es que tengo razón en que realmente ha existido?
+Creo que se ha vinculado con tres cuestiones relacionadas, que
+algo especulativamente desarrollo a continuación. La primera es
+que, en efecto, el presupuesto se ha estudiado con frecuencia con
+el fin de hacer recortes y ajustes al gasto público antes que para
+contemplar un mayor gasto en derechos o la priorización de uno
+de ellos por sobre otros (salvo que ese derecho sea el de la segu-
+ridad de la propiedad). Un temor posible es que introducir en la
+discusión de derechos la necesidad de estudiar partidas presu-
+puestarias termine abriendo una caja de Pandora. Podría pen-
+sarse que aceptar hablar el lenguaje de costos y beneficios genera-
+ría el riesgo de que los derechos terminen desprotegidos. Es que,
+en un sentido importante, es normal que existan reticencias para
+pensar en el costo de los derechos. Generalmente concebimos a
+
+
+
+       7 Véase Paola Bergallo, “Apuntes sobre justicia y experimentalismo en
+         los remedios frente al litigio de derecho público”, Revista
+         Jurisprudencia Argentina, Buenos Aires, 2006.
+
+[[PDF p. 21]]
+22 el costo de los derechos
+
+los derechos como capaces de derrotar este tipo de argumenta-
+ción. Ellos, al menos bajo cierta noción, son frenos a la capacidad
+agregativa del Estado.8 Pero Holmes y Sunstein insisten en que la
+cuestión es la inversa: en la medida en que no miremos el tema
+del costo y el financiamiento de los derechos correremos el riesgo
+de terminar defendiendo fórmulas vacías. Y este riesgo es mucho
+mayor. Comparto en parte el diagnóstico, aunque más adelante
+diré que es necesario ser cautelosos al sostener este enfoque.
+   Una segunda razón que puede explicar la posible reticencia del
+progresismo a involucrarse en la discusión sobre recaudación y
+gasto públicos como precondición de los derechos es que la histo-
+ria de la región –y, nuevamente, con matices– denota el fracaso
+del Estado en la tarea de recaudar impuestos, especialmente a
+quienes más tienen (una triste ironía es que quienes menos tie-
+nen son quienes más contribuyen por el lado de los impuestos, y
+a quienes por el lado de los servicios se les niega luego el acceso
+a bienes esenciales). Ello puede deberse a limitaciones en la capa-
+cidad operativa del Estado, a falta de voluntad política, o a ambas
+razones. Los sistemas impositivos de la región se caracterizan por
+su regresividad, pero además por la insuficiencia de los recursos
+generados para hacer frente a las obligaciones del Estado.9 En un
+escenario semejante, hacer depender –aunque sea retórica-
+mente– el goce de los derechos de una mejora de la capacidad im-
+positiva del Estado podría significar aceptar una derrota en dos
+frentes: quedarnos con impuestos regresivos e insuficientes, y re-
+ducir la garantía simbólica que prometen los derechos.
+
+
+
+
+       8 La posición clásica sobre esta cuestión es la de Ronald Dworkin. Véase
+         Ronald Dworkin, Los derechos en serio, Barcelona, Ariel, 1984.
+       9 Véase Kenneth Solokoff and Eric Zolt, “Inequality and the Evolution
+         of Institutions and Taxation: Evidence from the Economic History of
+         the Americas”, en Sebastian Edwards, Gerardo Esquivel y Graciela
+         Márquez (comps.), The Decline of Latin American Economies: Growth,
+         Institutions, and Crises, The University of Chicago Press, 2008; véase
+         también Andrew Schrank, “Understanding Latin American political
+         economy; varieties of capitalism or fiscal sociology?”, Economy and
+         Society 38:1, 53-61.
+
+[[PDF p. 22]]
+                                                       prólogo 23
+
+   La tercera razón es una posible actitud de desconfianza hacia el
+propio Estado. No es exactamente la desconfianza indeterminada
+a la que apuntan Holmes y Sunstein –la idea de que el Estado po-
+dría ahogar nuestra libertad para planificar nuestras acciones–
+sino una generada por acciones más palpables. El Estado en la re-
+gión ha perseguido, matado y maltratado a sus ciudadanos; sus
+funcionarios violan derechos cotidianamente. En personas o gru-
+pos de raíz progresista, esto pudo haber generado una actitud jus-
+tificada de recelo y distanciamiento. Si así es como se ve al Estado,
+uno podría tener dificultades para sentarse a estudiar planillas
+presupuestarias junto con sus funcionarios, en vez de formular de-
+mandas maximalistas más despreocupadas por su capacidad ope-
+rativa y guardando cierta distancia de él. Una actitud de descon-
+fianza similar podría generar la percepción (real o no) de que las
+administraciones públicas están corroídas por la corrupción, o
+que manejan con notoria discrecionalidad los fondos estatales. Si
+esto fuera cierto, ¿para qué ponerse a estudiar en detalle la cues-
+tión presupuestaria? ¿Cómo tomarse en serio una respuesta esta-
+tal de que los fondos para satisfacer un derecho determinado no
+son suficientes?
+   Nuevamente, el libro que prologo es útil como modo de reno-
+var la preocupación por la cuestión de la capacidad y el rol del Es-
+tado. En una medida muy importante, nuestros derechos siguen
+dependiendo, día tras día, de cuánto se esté dispuesto a gastar en
+ellos y de cómo se lo quiera hacer. Los derechos se tienen que pe-
+lear en la arena política, no sólo en un plano normativo. El Es-
+tado, finalmente, no tiene recursos ilimitados, y alguien tendrá a
+su cargo la tarea de decidir qué funciones se privilegian por sobre
+otras. Asimismo, la discrecionalidad del gasto implica una discre-
+cionalidad en el goce de los derechos. Si estamos convencidos,
+por ejemplo, de la prioridad de los derechos sociales, no dar esa
+pelea puede significar en la práctica debilitar el papel distributivo
+y potencialmente emancipador del Estado. Es ésta, creo, la mayor
+contribución del libro.
+   En lo que queda de este prólogo me concentraré muy breve-
+mente en ciertos aspectos que considero problemáticos o que ge-
+neran dudas: el concepto de derecho (y de los derechos) que sub-
+
+[[PDF p. 23]]
+24 el costo de los derechos
+
+yace en el texto y los posibles riesgos que conlleva el foco excesivo
+en el tema de los costos. Comienzo por el primero. Los autores se
+concentran en los derechos legales (los derechos consagrados y ga-
+rantizados por el Estado) dejando rápidamente de lado la consi-
+deración de los derechos morales. Los derechos están vacíos sin la
+protección del Estado; ergo, los derechos morales no serían estric-
+tamente derechos, o al menos no los que realmente nos debería in-
+teresar defender (o que a los autores les interesa defender).
+Como indiqué, esto se relaciona con la estrategia que Holmes y
+Sunstein emplean para neutralizar la concepción lockeana (o no-
+zickeana) del estado de naturaleza en la que se asienta la crítica
+libertaria contra el Estado. Con todo, creo que con ella han ido
+innecesariamente lejos, pues terminan abrazando una visión emi-
+nentemente positivista de los derechos que considero cuestiona-
+ble. Para ser justo con los autores, ellos en ningún momento
+defienden una posición de escepticismo que niegue categórica-
+mente la dimensión moral de los derechos. Podrían perfecta-
+mente no hacerlo sin contradecirse con el énfasis que hacen so-
+bre la faz legal de los derechos, tal como están reconocidos y
+garantizados por una comunidad. Sin embargo, y el lector sabrá
+perdonar la falta de precisión en la afirmación, flota en el texto la
+sensación de que, en efecto, tal dimensión moral no es relevante.
+   Como los autores insisten, la idea de que los derechos cobran
+sentido a partir del reconocimiento estatal puede ser valiosa para
+–justamente– protegerlos. En el estado de naturaleza, las personas
+son sus propios árbitros, y los derechos carecen de fuerza práctica
+por carecer de los deberes correlativos. Para una parte de la tradi-
+ción del contrato social, la comunidad política surge para reme-
+diar esta situación. Esta noción es muy clara en J. J. Rousseau,
+quien insistía en la necesidad de que fueran las leyes positivas las
+que consagraran los derechos:
+
+    Sin duda existe una justicia universal derivada solamente
+    de la razón; pero esa justicia, para ser admitida entre
+    nosotros, debe ser recíproca. Considerando humana-
+    mente las cosas, a falta de sanción natural las leyes de la
+    justicia son vanas entre los hombres; ellas sólo hacen
+
+[[PDF p. 24]]
+                                                                    prólogo 25
+
+    bien al malo y mal al justo, cuando éste las observa res-
+    pecto de todo el mundo sin que nadie lo haga respecto
+    de él. Son entonces necesarias convenciones y leyes para
+    unir los derechos con los deberes y acercar la justicia a
+    su objeto. En el estado de naturaleza, donde todo es co-
+    mún, yo no debo nada a aquellos a quienes nada he pro-
+    metido, y sólo reconozco como de otros aquello que me
+    resulta inútil. Esto no es así en el estado civil, donde to-
+    dos los derechos son fijados por la ley.10
+
+Pero sostener esta noción no exige –como no le exigió a Rous-
+seau– negar que los derechos, o cierta idea de ellos, tengan una
+existencia (al menos relativamente) autónoma de la comunidad
+política. Aceptar esa existencia no tiene por qué implicar aceptar
+que la conservación de la propiedad adquirida tenga el carácter
+de derecho moral absoluto que los libertarios intentan adjudi-
+carle, o que sea el único o el principal de tales derechos. Dicho de
+otro modo, negar el carácter absoluto del derecho de propiedad
+no exige negar, sólo por dar un par de ejemplos, que las personas
+sean iguales entre sí o que merezcan no ser torturadas. Señalar el
+hecho de que la mayoría de las comunidades que conocemos en
+efecto reconoce tales derechos o protecciones no puede servir
+para dar respuesta a este argumento. Pues justamente el Estado
+“reconoce” algunos de esos derechos a partir de aceptar que su
+existencia no depende necesariamente de su propia definición.
+Asimismo, como sucede en algunos casos, las comunidades bien
+podrían no garantizarlos, y para criticar una situación semejante
+es que necesitamos estándares de justicia, unos estándares en ge-
+neral vinculados con la noción de que los derechos existen con
+relativa independencia del Estado. La ausencia de esos estándares
+puede tornar más ardua la crítica del statu quo. Nuevamente, si
+bien el texto no incluye un rechazo categórico a estas nociones,
+cuando menos parece minimizar su relevancia.
+
+
+
+      10 Jean Jaques Rousseau, El contrato social, libro II, capítulo VI (la
+         traducción es mía).
+
+[[PDF p. 25]]
+26 el costo de los derechos
+
+   Hay otro aspecto problemático. Holmes y Sunstein insisten en
+que una declaración sin cumplimiento efectivo es una fórmula va-
+cía. Esto no es necesariamente cierto. Con todas sus limitaciones,
+el reconocimiento estatal de un derecho (el mero reconocimiento
+estatal) puede tener un valor simbólico o retórico significativo, e
+incluso sentar las bases para un desarrollo progresivo futuro. Las
+declaraciones del Estado dan forma a las relaciones entre él y los
+individuos (y, en buena medida, entre los individuos entre sí).
+Ellas tienen repercusiones prácticas importantes en el evento de
+que se apliquen, pero incluso cuando se incumplen no son intras-
+cendentes, pues tienen un rol expresivo y político. Cuando deci-
+mos que los derechos dependen del Estado, podemos querer de-
+cir dos cosas. La primera, que no es nada problemática, es que
+para que los derechos legales puedan ser efectivamente gozados es
+necesaria una intervención estatal muy extensa. La segunda, mu-
+cho más cuestionable, es que los derechos simplemente son esa in-
+tervención estatal. La mayoría de las constituciones en América
+Latina reconoce el derecho a la igualdad, pese a que la región es
+la más desigual del planeta. Sin embargo, ¿estaríamos dispuestos
+a sostener que no tenemos tal derecho en vez de sostener que se lo
+incumple sistemáticamente? La primera afirmación finalmente ex-
+culpa al Estado: si la comunidad política no decide en conjunto
+garantizarlo mediante el empleo de fondos públicos, el derecho
+pierde su existencia como tal. La segunda, en cambio, muestra el
+incumplimiento por parte del Estado (o de buena parte de la co-
+munidad política) de una obligación que ya es suya. La distinción
+es importante conceptualmente, pero también en el plano polí-
+tico, porque sirve para asignar responsabilidades más claramente.
+   En el caso de los derechos no nos enfrentamos a una situación
+de tipo todo o nada. La disyuntiva “derechos completamente satis-
+fechos o ausencia de derechos” es simplemente incorrecta. Por
+ejemplo, en ciertas condiciones de objetiva escasez, un Estado po-
+dría mostrar un compromiso genuino frente a ciertos derechos
+incluso cuando destinara sólo una porción de los recursos que se-
+rían necesarios para un goce más completo. Y, sin embargo, si si-
+guiéramos la línea analítica sugerida por Holmes y Sunstein, nos
+quedaríamos sin un vocabulario para referirnos a estas situacio-
+
+[[PDF p. 26]]
+                                                        prólogo 27
+
+nes. En un caso semejante, por ejemplo, ¿responderíamos que
+como miembros de la población carcelaria contamos sólo con un
+47,3% del derecho a una detención digna? ¿Sostendríamos que
+gozamos de un derecho completo? ¿De ningún derecho?
+   Para concluir este prólogo, quisiera insistir en una cuestión ya
+mencionada. Reconocer que los derechos cuestan es una cosa; su-
+gerir que lo que debe importar a la hora de privilegiar uno de
+ellos por encima de otro es exclusivamente su costo es otra. La refle-
+xión central del libro se refiere al vínculo entre el goce efectivo de
+los derechos y la capacidad y voluntad del Estado para garanti-
+zarlo, especialmente dedicando dinero para ello. Esto no debería
+leerse como una insinuación por parte de sus autores de que el
+ámbito del Estado debe limitarse a aquellos derechos cuya satis-
+facción se demuestre menos costosa. Desde luego, la cuestión pre-
+supuestaria no puede perderse de vista. Cualquier Estado, y espe-
+cialmente los Estados de la región, tienen recursos limitados, y
+por ende una capacidad finita para prestar servicios. Lo que in-
+tento destacar es que el criterio para privilegiar el cumplimiento
+de un derecho por sobre otro (o entre distintas situaciones res-
+pecto del mismo derecho) debe estar guiado por algo más que el
+costo. Esta cuestión puede verse con claridad al analizar las dos ra-
+zones que pueden emplearse para privilegiar selectivamente las li-
+bertades tradicionales (y no los derechos sociales). En primer lu-
+gar, puede pensarse que esas libertades cuestan poco dinero, o
+que cuestan mucho menos –o son más fáciles de proteger– que
+los derechos sociales. Sin embargo, como nos muestra el libro,
+ellas tampoco son gratuitas, con lo cual el costo no puede ser ya el
+criterio único o exclusivo al defenderlas. Y, en cualquier caso, de-
+terminar cuánto cuestan unas y otros exige desarrollar una inves-
+tigación empírica cuyas respuestas no podemos conocer de ante-
+mano. Un segundo posible argumento es que se piense que esas
+libertades son importantes, costaran lo que costasen. El libro nos
+ayuda a ver que el mismo razonamiento puede aplicarse a cual-
+quier otro derecho.
+   Los latinoamericanos hemos padecido hasta hace relativamente
+poco el peso funesto de las experiencias autoritarias. Sólo con la
+distancia que impone el paso del tiempo pudimos renovar nues-
+
+[[PDF p. 27]]
+28 el costo de los derechos
+
+tra fe en el rol del Estado, aunque en varios aspectos sigamos pa-
+deciéndolo. Y sólo con el restablecimiento de la centralidad de los
+derechos es que hoy podemos detenernos a pensar en su costo,
+en vez de seguir pensando en cuánto tiempo más seremos gober-
+nados a costa de ellos. Por esta razón, la invitación que formulan
+Holmes y Sunstein es más que oportuna, y más que bienvenida.*
+
+
+
+
+       * Agradezco muy especialmente a María Paula Saffon por su lectura de
+         un borrador previo de este trabajo; por sus comentarios agudos y sus
+         aportes generosos.
+
+[[PDF p. 28]]
+         Agradecimientos
+
+
+
+
+          Es un gran placer agradecer a los muchos amigos y cole-
+gas que nos ayudaron con este libro. Tropezamos por primera vez
+con el costo de los derechos, como tema de investigación y análi-
+sis, en discusiones que se desarrollaron en el Centro sobre el
+Constitucionalismo en Europa Oriental de la Universidad de Chi-
+cago. La observación de la falta de protección de las libertades bá-
+sicas en los estados insolventes de Europa Oriental y la antigua
+Unión Soviética hizo que surgiera naturalmente un sano respeto
+por las precondiciones fiscales de una defensa efectiva de los de-
+rechos. El gran experimento de Rusia con el juicio por jurados,
+para elegir un ejemplo típico, fracasó cuando éste empezó a insu-
+mir el 25% de los ya insuficientes presupuestos de los tribunales.
+Uno de nuestros principales objetivos aquí ha sido aplicar lo que
+aprendimos en ese contexto esclarecedor para el debate sobre los
+derechos que se está desarrollando en Estados Unidos. Agradece-
+mos a Dwight Semler, coordinador del centro, y a nuestros codi-
+rectores, Jon Elster, Larry Lessig y Wiktor Osiatynski, así como a
+Andras Sajo, por muchas discusiones estimulantes. Asimismo, por
+críticas profundas y sagaces sugerencias sobre el manuscrito, a Els-
+ter, Bruce Ackerman, Samuel Beer, Martin Krygier, Martha Nuss-
+baum, Richard Posner y Bernard Yack. La ayuda de Sophie Clark,
+Keith Sharfman, Matthew Utterbeck y Christian Lucky en la inves-
+tigación fue invalorable. Vaya también nuestra gratitud a la edi-
+tora del libro, Alane Salierno Mason, por sus incisivos comenta-
+rios y su constante aliento.
+
+[[PDF p. 29]]
+
+
+[[PDF p. 30]]
+         Introducción
+         El sentido común
+         acerca de los derechos
+
+
+
+
+          El 26 de agosto de 1995 estalló un incendio en Wes-
+thampton, en el extremo oeste de los famosos Hamptons en Long
+Island, una de las zonas más hermosas de Estados Unidos. Ese in-
+cendio fue el peor que haya vivido Nueva York en el último medio
+siglo, pues ardió en forma incontrolable durante treinta y seis ho-
+ras y llegó en cierto momento a abarcar una extensión de alrede-
+dor de diez kilómetros por veinte.
+   Pero esta historia tiene final feliz. En un tiempo notablemente
+corto intervinieron fuerzas locales, estaduales y federales para
+apagar las llamas. Funcionarios y empleados de todos los niveles
+del gobierno acudieron al lugar. Más de mil quinientos bombe-
+ros voluntarios locales se sumaron a los equipos militares y civi-
+les de todo el Estado y del país. Al final, el fuego quedó contro-
+lado. Asombrosamente, no murió nadie y, cosa también notable,
+la destrucción de propiedades fue mínima. Si bien la ayuda vo-
+luntaria contribuyó, lo que en efecto hizo posible ese rescate
+fueron los recursos públicos. Los costos finales para los contri-
+buyentes estadounidenses, locales y nacionales, estimados ini-
+cialmente en 1,1 millones de dólares, podrían haber ascendido
+a 2,9 millones.
+   La oposición al gobierno ha sido un tema definitorio del popu-
+lismo estadounidense en el último tramo del siglo XX. Su lema es
+“No me pises”. Más recientemente, críticos de todo lo que hace el
+gobierno, como Charles Murray y David Boaz, han afirmado que
+un adulto “que se gana la vida honestamente y no se mete con na-
+die merece que lo dejen en paz”, y que “el verdadero problema en
+Estados Unidos es el mismo que se reconoce en todo el mundo: de-
+masiado gobierno” (Murray, 1997, p. 5, y Boaz, 1997, p. 12).
+
+[[PDF p. 31]]
+32 el costo de los derechos
+
+   Sin embargo, en Westhampton, en medio de esa urgencia re-
+pentina, los funcionarios públicos pudieron organizar y dirigir un
+costoso esfuerzo colectivo para defender propiedades privadas,
+usando con liberalidad recursos públicos aportados por los ciuda-
+danos en general para el rescate de emergencia de las propieda-
+des de un número relativamente reducido de familias pudientes.
+   Esta historia no tiene nada de excepcional. En 1996 los contri-
+buyentes estadounidenses dedicaron por lo menos 11 500 millo-
+nes de dólares a la protección de propiedades privadas a través de
+ayuda en casos de desastres y seguros contra desastres.1 Cada día,
+cada hora, se evitan o se mitigan catástrofes por medio de gastos
+públicos que a veces son grandes, incluso enormes, pero que con
+frecuencia pasan inadvertidos. Los estadounidenses simplemente
+dan por sentado que los funcionarios públicos –nacionales, esta-
+duales y locales– en forma cotidiana toman recursos públicos y los
+gastan para proteger derechos privados o aumentar su valor. A pe-
+sar de la incidencia indeseablemente elevada de la delincuencia
+en el país, por ejemplo, la mayoría de los ciudadanos se sienten
+razonablemente seguros la mayor parte del tiempo, en gran me-
+dida gracias a los esfuerzos de la policía, cuyos agentes son los pro-
+tectores públicos asalariados de una de nuestras libertades más bá-
+sicas: la seguridad personal o física.2
+   El tipo de “red de seguridad” que benefició a los propietarios
+de las casas de Westhampton goza de amplio y profundo apoyo,
+pero al mismo tiempo los estadounidenses parecen olvidar con fa-
+
+
+
+
+        1 Budget of the United States Government. Fiscal Year 1998, p. 231. En 1996,
+          el presupuesto de la Federal Emergency Management Agency
+          [Agencia Federal para el Manejo de Emergencias] ascendió a poco
+          más de 3600 millones de dólares.
+        2 Las normas sociales, que se imponen de manera informal por el
+          oprobio antes que por una sanción legal, también contribuyen a
+          inducir a los individuos particulares a respetarse unos a otros, y a
+          los funcionarios públicos a respetar los derechos de los
+          particulares. Sin embargo, esas normas no operan en forma
+          independiente; siempre están en complejas relaciones con los
+          esfuerzos gubernamentales por reformar e imponer las normas
+          penales, las leyes laborales, etc.
+
+[[PDF p. 32]]
+                                                 introducción 33
+
+cilidad que los derechos y las libertades individuales dependen
+fundamentalmente de una acción estatal vigorosa. Sin un go-
+bierno eficaz, los ciudadanos estadounidenses no podrían disfru-
+tar de su propiedad privada como lo hacen. De hecho, gozarían
+de pocos o ninguno de los derechos individuales garantizados por
+la Constitución. La libertad personal, tal como la experimentan y
+aprecian, presupone cooperación social administrada por funcio-
+narios gubernamentales. La esfera privada que con justicia valora-
+mos tanto es sostenida, o más bien creada, por la acción pública.
+Ni siquiera al más autosuficiente de los ciudadanos se le pide que
+resuelva en forma autónoma su bienestar material, sin apoyo al-
+guno de sus conciudadanos o de funcionarios públicos.
+   La historia del incendio de Westhampton es la historia de la po-
+sesión de propiedades en todo Estados Unidos y, a decir verdad,
+en el mundo entero. De hecho, es la historia de todos los dere-
+chos liberales. Cuando está de modo constitucional estructurado
+y es (relativamente hablando) democráticamente sensible, el go-
+bierno es un dispositivo indispensable para movilizar y canalizar
+en los hechos los recursos difusos de la comunidad aplicándolos a
+problemas, en operaciones puntuales, cada vez que éstos surgen
+de modo inesperado.
+   La Declaración de Independencia afirma que “para asegurar
+esos derechos se establecen gobiernos de los hombres”. A la ver-
+dad evidente de que los derechos dependen de los gobiernos es
+preciso agregar un corolario lógico, rico en implicaciones: los
+derechos cuestan dinero. Es imposible protegerlos o exigirlos sin
+fondos y apoyo públicos. Esto es tan cierto para los derechos an-
+tiguos como para los nuevos, para los de los estadounidenses an-
+tes del New Deal de Franklin Delano Roosevelt como después.
+Tanto el derecho al bienestar como a la propiedad privada tie-
+nen costos públicos. El derecho a la libertad de contratar supone
+costos, no menos que la atención médica, el derecho a la liber-
+tad de expresión o a una vivienda decente. Todos los derechos
+reciben algo del tesoro público.
+   El “costo de los derechos” es una expresión ricamente ambigua,
+porque los dos sustantivos que la integran tienen significados múl-
+tiples e inevitablemente polémicos. Para mantener el análisis lo más
+
+[[PDF p. 33]]
+34 el costo de los derechos
+
+enfocado y –en esa dimensión– lo menos polémico posible, “costos”
+significará aquí costos incluidos en el presupuesto, mientras que “dere-
+chos” se definirá como intereses importantes que pueden ser protegidos de
+manera confiable por individuos o grupos utilizando instrumentos del go-
+bierno. Ambas definiciones necesitan mayor elaboración.
+
+
+
+
+definir los derechos
+
+El término “derechos” tiene muchos referentes y matices de signifi-
+cado. En líneas generales, hay dos maneras distintas de encarar el
+asunto: una moral y otra descriptiva. La primera los asocia con prin-
+cipios o ideales morales. Los identifica no consultando las leyes y el
+derecho, sino preguntando a qué tienen derecho moralmente los
+seres humanos. No existe ninguna teoría de esos derechos morales
+aceptada por todos, pero algunos de los trabajos más interesantes
+que se han hecho al respecto incluyen una indagación ética de natu-
+raleza valorativa. La filosofía moral concibe los derechos no legales
+como reivindicaciones morales del tipo más fuerte, que se disfrutan
+tal vez en virtud de la situación o la capacidad de una persona como
+agente moral, y no como resultado de que ésta sea miembro de una
+sociedad política determinada o tenga alguna relación legal con
+ella. Esta visión intenta identificar esos intereses humanos que, se-
+gún el tribunal de la conciencia, no pueden ser descuidados ni vio-
+lados sin que para ello medie una justificación especial.
+   Un segundo enfoque de los derechos –cuyas raíces se encuen-
+tran en las obras del filósofo británico Jeremy Bentham, el juez de
+la Corte Suprema de Justicia de Estados Unidos Oliver Wendell
+Holmes, jr. y los filósofos del derecho Hans Kelsen y H. L. A.
+Hart– es menos valorativo y más descriptivo. Está orientado no
+tanto a justificar sino a explicar cómo funcionan efectivamente los
+sistemas legales. No es una visión moral;3 no toma posición sobre
+
+
+
+        3 No examinaremos aquí algunas cuestiones “duras” sobre en qué
+          medida entran o deben entrar las consideraciones morales en la
+
+[[PDF p. 34]]
+                                                        introducción 35
+
+qué intereses humanos, desde un punto de vista filosófico, son
+más importantes y meritorios. No afirma ni niega el escepticismo
+ético ni el relativismo moral. En cambio, es una indagación empí-
+rica sobre qué tipo de intereses protege de hecho una determi-
+nada sociedad políticamente organizada. Dentro de ese marco,
+un interés califica como derecho cuando un sistema legal efectivo
+lo trata como tal utilizando recursos colectivos para defenderlo.
+Como capacidad creada y mantenida por el Estado para evitar o
+compensar daños, en el sentido legal un derecho es, por defini-
+ción, “hijo de la ley”.
+   Los derechos en sentido legal tienen “dientes”. Por lo tanto,
+son cualquier cosa menos inofensivos o inocentes. Bajo las leyes
+estadounidenses, son poderes concedidos por la comunidad po-
+lítica. E igual que el poseedor de cualquier otro derecho, el indi-
+viduo que ejerce los suyos puede sentir la tentación de usarlos
+mal. Un ejemplo clásico es el derecho de un individuo a deman-
+dar judicialmente a otro. Como un derecho implica un poder
+que puede esgrimirse contra otros, para bien o para mal, es pre-
+ciso resguardarse de él y restringirlo, al mismo tiempo que se lo
+protege en forma escrupulosa. Incluso la libertad de expresión
+tiene que ser recortada cuando su mal uso (como gritar “¡Fue-
+go!” en un teatro atestado) puede poner en peligro la seguridad
+pública. Un régimen político basado en la ley se disolvería y se
+autoaniquilaría en un caos de destrucción mutua sin proteccio-
+nes bien diseñadas y cuidadosamente mantenidas contra el abuso
+de derechos básicos.
+   Los derechos morales, en cambio, si no están respaldados por
+la fuerza de la ley, carecen de dientes por definición. Los que no
+se exigen son aspiraciones que obligan a la conciencia, no pode-
+res que obligan a los funcionarios. Imponen deberes morales a
+toda la humanidad, pero no obligaciones legales a los habitantes
+del territorio limitado de un Estado nacional. Cuando carecen de
+reconocimiento legal no están contaminados por el poder, y por
+
+
+
+         interpretación de los términos legales. Véanse Dworkin, 1985, y
+         Schauer, 1992.
+
+[[PDF p. 35]]
+36 el costo de los derechos
+
+eso es posible defenderlos libremente sin preocuparse demasiado
+por abusos maliciosos, incentivos perversos y efectos colaterales
+imprevistos. Los derechos legales, por el contrario, invariable-
+mente provocan ese tipo de recelos y preocupaciones.
+   En la mayoría de los casos, las concepciones morales y positivas
+de los derechos no tienen por qué chocar. Simplemente, los obje-
+tivos de los defensores de los primeros son diferentes de los de
+quienes describen los derechos legales. El teórico moral puede
+decir, en forma razonable, que, en abstracto, no existe el “dere-
+cho a contaminar”. Pero el positivista sabe que hay jurisdicciones
+estadounidenses en las que un terrateniente puede adquirir el de-
+recho a contaminar un río de otro propietario situado corriente
+abajo. Los puntos no son contradictorios: sólo pasan uno al lado
+del otro en la noche. Los que ofrecen descripciones morales y los
+que proponen descripciones positivas están formulando y respon-
+diendo a diferentes preguntas. En consecuencia, los estudiosos de
+aquellos derechos que pueden exigirse colectivamente no se opo-
+nen a los que proponen argumentos morales en favor de tal o
+cual derecho o comprensión de un derecho. Desde luego, los re-
+formadores legales deberían esforzarse por alinear los derechos
+políticamente exigibles con lo que consideran correcto desde el
+punto de vista moral. Y los encargados de exigir los derechos lega-
+les harían bien en convencer a los ciudadanos de que esos dere-
+chos están moralmente bien fundamentados.
+   Pero el costo de los derechos es en primera instancia un tema
+descriptivo, no moral. Los derechos morales sólo tienen costos pre-
+supuestarios si su naturaleza y su alcance preciso están estipulados
+e interpretados políticamente, es decir, sólo si son reconocidos por
+la ley. Es verdad que el costo de los derechos puede tener impor-
+tancia moral, porque una teoría de los derechos que nunca des-
+cendiera de las alturas de la moral al mundo de los recursos esca-
+sos sería penosamente incompleta, incluso desde un punto de vista
+moral. Puesto que “deber implica poder”, y la falta de recursos im-
+plica no poder, probablemente los teóricos morales deberían pres-
+tar más atención a los impuestos y al gasto público de la que suelen
+concederles. Y cabe señalar, además, que es imposible explorar por
+completo las dimensiones morales de la protección de los dere-
+
+[[PDF p. 36]]
+                                                      introducción 37
+
+chos sin considerar la cuestión de la justicia distributiva. Después
+de todo, con frecuencia ocurre que los recursos provistos por la co-
+lectividad son canalizados, sin ninguna razón válida, hacia la pro-
+tección de los derechos de algunos ciudadanos y no de otros.
+   En general, los derechos se exigen a través de tribunales que
+funcionan normalmente y que disponen de los fondos adecuados.
+Entre los derechos examinados en este libro no estarán incluidos,
+por tanto, derechos como los de las mujeres violadas en zonas de
+guerra en Bosnia o Ruanda. Las autoridades políticas existentes,
+en realidad, han dado la espalda a los brutales crímenes perpetra-
+dos en esas condiciones al afirmar que tales delitos no caen den-
+tro de su jurisdicción. Y precisamente porque las autoridades en-
+cargadas de remediar abusos en todo el mundo los ignoran, esos
+“derechos” tan miserablemente descuidados no tienen costos pre-
+supuestarios directos. En ausencia de una autoridad política que
+esté dispuesta a intervenir y sea capaz de hacerlo, los derechos no
+pasan de ser una promesa hueca y, por el momento, no gravan
+ningún tesoro público.
+   Ni siquiera se examinarán aquí los derechos legales en aparien-
+cia garantizados por pactos y declaraciones internacionales de dere-
+chos humanos, a menos que los Estados nacionales firmantes –ca-
+paces de cobrar impuestos y de gastar– den un apoyo confiable a
+los tribunales internacionales, como los de Estrasburgo y La Haya,
+a los que se puede pedir una verdadera reparación cuando esos de-
+rechos han sido violados. En la práctica, los derechos pasan a ser
+algo más que meras declaraciones sólo si confieren poder a organis-
+mos cuyas decisiones sean legalmente vinculantes (como no lo ha-
+cen, por ejemplo, los derechos morales enunciados en la Declara-
+ción de Derechos Humanos de las Naciones Unidas de 1948). En
+general, los individuos desdichados que no viven bajo gobiernos ca-
+paces de cobrar impuestos y aportar soluciones efectivas4 no tienen
+
+
+
+       4 Artículo 13 de la Convención Europea sobre Derechos Humanos
+         (firmada en 1950 y en vigor desde 1953). Los derechos enunciados en
+         la Convención sólo se exigen de manera confiable cuando los Estados
+         firmantes los consideran parte de su legislación nacional.
+
+[[PDF p. 37]]
+38 el costo de los derechos
+
+derechos legales. La ausencia de Estado significa ausencia de dere-
+chos. En realidad, un derecho legal sólo existe si y cuando tiene
+costos presupuestarios.
+   Como este libro se concentra sólo en los derechos exigibles por
+comunidades políticamente organizadas, no presta atención a mu-
+chas reivindicaciones morales de gran importancia para la tradi-
+ción liberal. Esa lamentable pérdida de amplitud puede justificarse
+por el aumento de la claridad del foco. Y aunque hagamos a un
+lado los derechos que no se exigen por ley, quedan suficientes pro-
+blemas difíciles a los que dedicar nuestra atención.
+   Los filósofos también establecen una distinción entre la liber-
+tad propiamente dicha y el valor de la libertad. La libertad no
+tiene mucho valor si quienes en apariencia la poseen carecen de
+recursos para hacer efectivos sus derechos. La libertad de contra-
+tar a un abogado no significa mucho si todos los abogados cobran
+honorarios, si el Estado no ayuda y si uno no tiene dinero. El de-
+recho a la propiedad privada, parte importante de la libertad, no
+significa mucho si uno carece de recursos para proteger lo que
+posee y no hay policía disponible. Sólo las libertades que son va-
+liosas en la práctica dan legitimidad a un orden político liberal.
+Este libro, por lo tanto, no se concentra sólo en los costos presu-
+puestarios de los derechos que pueden exigirse en los tribunales
+sino también en aquellos que permiten que esos derechos sean
+ejercibles o útiles en la vida cotidiana. Los costos públicos de los
+departamentos de policía y de bomberos contribuyen de manera
+sustancial al “perímetro protector” que nos posibilita disfrutar y
+ejercer nuestros derechos constitucionales básicos y otros (Hart,
+1982, p. 171).
+
+
+
+
+definir los costos
+
+El derecho estadounidense traza una distinción importante entre
+“impuestos” (taxes) y “tasas” (fees). Los impuestos se cobran a la co-
+munidad en su conjunto, sin importar quiénes reciban los bene-
+ficios de los servicios públicos que se pagan con lo recaudado. Las
+
+[[PDF p. 38]]
+                                                        introducción 39
+
+tasas, en cambio, se cobran a beneficiarios específicos en propor-
+ción a los servicios que ellos reciben en forma personal. Los dere-
+chos individuales de los estadounidenses, incluyendo el derecho a
+la propiedad privada, en general se financian con los impuestos,
+no con las tasas.5 Esa fórmula de financiamiento fundamental es
+señal de que, bajo las leyes estadounidenses, los derechos indivi-
+duales son bienes públicos y no privados.
+   Es preciso reconocer que la calidad y la extensión de la protec-
+ción de los derechos dependen no sólo de gastos privados sino
+también del gasto público. Como los derechos imponen costos a
+entes privados tanto como al presupuesto público, necesaria-
+mente valen más para unas personas que para otras. El derecho a
+elegir su propio abogado defensor sin duda vale más para un indi-
+viduo rico que para uno pobre. La libertad de prensa es más va-
+liosa para alguien que está en condiciones de comprar docenas de
+empresas de noticias que para otro que cada noche se tapa con
+un diario para dormir. Los que tienen dinero para demandar ju-
+dicialmente a otros obtienen más valor de sus derechos que los
+que no lo tienen.
+   Pero esa dependencia de la protección de los derechos res-
+pecto de los recursos privados ha sido bien comprendida y tradi-
+cionalmente ha recibido mayor atención que la de la misma pro-
+tección respecto de los recursos públicos. Los abogados que
+trabajan para la Unión Americana por las Libertades Civiles (Ame-
+rican Civil Liberties Union, ACLU) aceptan de manera voluntaria
+una reducción de sus ingresos personales para defender lo que
+consideran como derechos fundamentales. Ése es un costo pri-
+vado. Pero, además, ACLU es una organización exenta de impues-
+
+
+
+
+       5 Una de las pocas excepciones a esta regla son los derechos de
+         patente. Desde la Ley Ómnibus de Reconciliación Presupuestaria
+         (Omnibus Budget Reconciliation Act) de 1990, la Oficina de Patentes y
+         Marcas (Patent and Trademark Office, PTO) se autofinancia totalmente
+         por medio de las cuotas de sus usuarios. Todos los años el Congreso
+         asigna fondos a la PTO, pero se supone que un complejo sistema de
+         pagos (de las cuotas percibidas) al presupuesto de la agencia y al
+         presupuesto general compensa esa asignación anticipada.
+
+[[PDF p. 39]]
+40 el costo de los derechos
+
+tos, lo que significa que sus actividades son en parte financiadas
+por los contribuyentes.6 Y ésta, como veremos, es apenas la más
+trivial de las formas en que el contribuyente común financia la
+protección de los derechos.
+   Además de los costos presupuestarios, los derechos tienen cos-
+tos sociales. Por ejemplo, los daños infligidos a individuos parti-
+culares por sospechosos liberados a pesar de su propia confesión
+pueden ser razonablemente clasificados como costos sociales de
+un sistema que toma medidas serias para proteger los derechos
+de los acusados. Por lo tanto, un estudio amplio de los costos de
+los derechos necesariamente debería prestar bastante atención a
+esos costos no monetarios. Sin embargo, los costos presupuesta-
+rios de los derechos, examinados al margen tanto de los costos
+sociales como de los privados, ofrecen un campo vasto e impor-
+tante para la exploración y el análisis. Además, concentrarse en
+ellos es también la manera más sencilla de llamar la atención so-
+bre la dependencia fundamental de las libertades individuales
+respecto de la contribución colectiva administrada por funciona-
+rios públicos.
+   A diferencia de los costos sociales, por el momento es imposible
+dejar de lado los “costos (y beneficios) netos”. Algunos derechos
+pueden resultar costosos en una primera instancia, pero aumen-
+tan la riqueza social imponible en tal medida que es razonable
+considerar que se autofinancian. Un ejemplo obvio es el derecho
+a la propiedad privada. Otro es el derecho a la educación. Incluso
+la protección a las mujeres contra la violencia doméstica puede
+verse de este modo, en tanto y en cuanto ayude a las otrora espo-
+sas maltratadas a reincorporarse a la fuerza de trabajo productiva.
+La inversión pública en la protección de esos derechos contribuye
+a extender la base imponible –de la que depende la protección
+activa de los derechos– hacia otras áreas. La imposibilidad de es-
+
+
+
+       6 Bajo 26 USC 501(c)(3), las organizaciones que proporcionan
+         servicios legales para promover los derechos civiles y humanos, en
+         determinadas condiciones, están exentas del impuesto federal a la
+         renta.
+
+[[PDF p. 40]]
+                                                         introducción 41
+
+timar el valor de un derecho simplemente midiendo su contribu-
+ción positiva al producto bruto interno (PBI) es bastante obvia.
+(El derecho de los presos a una atención médica mínima no se
+autofinancia, pero no es menos obligatorio que la libertad de con-
+tratar.) Sin embargo, no podemos ignorar los impactos presu-
+puestarios a largo plazo de lo que se gasta en derechos.
+   También cabe señalar que los derechos pueden imponer un
+gravamen al fisco más allá de sus costos directos. Aclararemos este
+punto con un ejemplo tomado del extranjero. La libertad de mo-
+vimiento fue posible en Sudáfrica gracias a la abolición de la tris-
+temente célebre Ley de Pase.7 Pero los costos públicos de la cons-
+trucción de infraestructura urbana –suministro de agua, sistemas
+de desagües, escuelas, hospitales, etc.– para los millones de sud-
+africanos que, aprovechando esa libertad de movimiento recién
+ganada, se desplazaron del campo a las ciudades son astronómi-
+cos. (Dado que la abolición de las leyes de pases sudafricanas ha
+sido uno de los actos más indiscutiblemente justos de los tiempos
+recientes, no debería ser necesario mentir sobre sus costos finan-
+cieros indirectos para defenderla.) En una escala más modesta,
+aquí en nuestro país, la libertad –garantizada en la Tercera En-
+mienda– de no tener que alojar a soldados en casas particulares
+requiere que los contribuyentes financien la construcción y el
+mantenimiento de cuarteles militares. Del mismo modo, un sis-
+tema que protege en forma escrupulosa los derechos de las perso-
+nas sospechadas de haber cometido un delito hará que resulte
+más costoso capturar a los delincuentes e impedir el delito. Y lo
+mismo ocurre en muchos otros casos.
+   Dado que esos costos indirectos o gastos compensatorios impli-
+can desembolsos directos del presupuesto, se ubican entre los
+
+
+
+
+       7 Se refiere a la Ley de Nativos nº 62, de 1952, que prohibía el
+         desplazamiento físico de los negros desde las zonas rurales a las
+         ciudades sin un permiso extendido por las autoridades. En caso de
+         que un individuo tuviera el pase de visita, su estadía en la ciudad
+         estaba limitada a tres días, a menos que en ese lapso consiguiera un
+         trabajo. [N. del E.]
+
+[[PDF p. 41]]
+42 el costo de los derechos
+
+“costos de los derechos”, tal como los hemos definido en este li-
+bro. Son especialmente importantes porque, en algunos casos,
+han conducido a la limitación de los derechos de los ciudadanos
+estadounidenses. Por ejemplo, el Congreso ha dado instrucciones
+al Secretario de Transporte de suspender las financiaciones a los
+estados que todavía no han abolido el derecho a andar en moto
+sin casco. Esa decisión se basó, en parte, en un estudio –realizado
+a pedido del Congreso– acerca de los costos médicos asociados
+con los accidentes de motocicleta, incluyendo la medida en que
+los seguros contra accidentes privados no cubren los costos efec-
+tivos. Si la preocupación por los costos públicos indirectos desem-
+peña un papel tan importante en la restricción legislativa de lo
+que algunos consideran nuestras libertades, es evidente que la te-
+oría de los derechos no puede ignorarlos.
+   Por último, éste es un libro sobre la naturaleza de los derechos
+legales, no un estudio detallado de las finanzas públicas. Indaga
+acerca de lo que podemos aprender sobre los derechos reflexio-
+nando sobre sus costos presupuestarios. En consecuencia, las
+cantidades aproximadas en dólares aquí citadas son meramente
+ilustrativas. Por cierto, no son producto de una investigación ex-
+haustiva y precisa de los costos presupuestarios de diversos dere-
+chos. Calcular con precisión el costo de proteger cualquier dere-
+cho determinado sería demasiado complicado, aunque sólo
+fuera por razones contables. En 1992 los servicios judiciales y de
+asistencia legal en Estados Unidos costaron a los contribuyentes
+alrededor de 21 000 millones de dólares.8 Sin embargo, los costos
+conjuntos y las instalaciones multiuso hacen que sea difícil espe-
+cificar qué porcentaje de esos 21 000 millones de dólares se gastó
+en la protección de derechos. Del mismo modo, la capacitación
+de la policía presumiblemente mejora el tratamiento humanita-
+rio de los sospechosos y detenidos. Pero, si bien ayuda a proteger
+
+
+
+
+       8 US Department of Justice, Bureau of Justice Statistics, Justice
+         Expenditure and Employment Extracts, 1992: Data from the Annual General
+         Finance and Employment Surveys, tabla E.
+
+[[PDF p. 42]]
+                                                  introducción 43
+
+esos derechos, el objetivo principal de la formación es aumentar
+la capacidad de los agentes para capturar delincuentes e impedir
+delitos, y de ese modo proteger los derechos de los ciudadanos
+respetuosos de la ley. ¿Cómo podríamos calcular entonces qué
+porcentaje exacto del presupuesto de la capacitación policial se
+destina a la protección de los derechos de los sospechosos y los
+detenidos?
+   Ciertamente sería deseable que hubiera más investigación em-
+pírica sobre estas líneas. Pero antes de que sea posible emprender
+con sensatez esa investigación, es necesario echar algunos cimien-
+tos conceptuales, que es uno de los propósitos fundamentales de
+este libro. Una vez que los costos de los derechos sean un tema de
+investigación aceptado, los estudiosos de las finanzas públicas ten-
+drán un amplio incentivo para dar cuenta de una manera más
+precisa y completa de las cantidades de dólares destinadas a pro-
+teger nuestras libertades básicas.
+
+
+
+
+por qué este tema ha sido ignorado
+
+Debería ser evidente que los derechos tienen un costo, pero en
+cambio la idea suena como paradoja, como falta de educación,
+quizás incluso como amenaza a la preservación de los derechos.
+Afirmar que un derecho tiene un costo es confesar que tenemos
+que renunciar a algo a fin de adquirirlo o conservarlo. Ignorar los
+costos deja convenientemente fuera del cuadro ciertas concesio-
+nes dolorosas. Los liberales, desalentados por la reciente limita-
+ción en la Corte Suprema de varios derechos –que habían sido
+concedidos por primera vez durante la presidencia del juez Earl
+Warren– por parte de las mayorías conservadoras, podrían dudar
+de orientar los reflectores hacia las cargas públicas vinculadas con
+las libertades civiles. Los conservadores, por su parte, quizá prefie-
+ran no recordar –o, según sugiere su retórica, es posible que igno-
+ren o no les importe– que los impuestos que paga la comunidad
+en su conjunto se usan para proteger los derechos de propiedad
+de individuos ricos. El deseo (muy difundido) de presentar los de-
+
+[[PDF p. 43]]
+44 el costo de los derechos
+
+rechos bajo una luz positiva y sin sombra alguna tal vez contribuya
+a explicar por qué el enfoque del tema que ignora los costos es
+aceptado por todos. En realidad, aquí podríamos incluso hablar
+de un tabú cultural –basado en preocupaciones posiblemente re-
+alistas– contra el cálculo de los costos de la exigibilidad de los de-
+rechos.
+   La muy extendida pero sin duda equivocada premisa de que
+nuestros derechos más fundamentales esencialmente no tienen
+costo alguno no puede explicarse por el hecho de que no se hayan
+podido detectar costos ocultos. Ante todo, los costos en cuestión
+no se encuentran tan escondidos. Es evidente, por ejemplo, que el
+derecho a un juicio por jurados implica costos públicos. Un estu-
+dio realizado en 1989 ofrece una cantidad concreta: el juicio por
+jurados en Estados Unidos cuesta a los contribuyentes, en prome-
+dio, alrededor de 13 000 dólares (Wayson y Funke, 1989). Es igual-
+mente obvio que el derecho a una compensación razonable por
+propiedad confiscada según el principio de necesidad pública
+tiene costos presupuestarios sustanciales. Y el derecho de apela-
+ción en casos penales supone claramente que los tribunales de
+apelación son financiados por los contribuyentes. Y eso no es todo.
+   Los contribuyentes estadounidenses tienen un serio interés fi-
+nanciero en los procesos por daños contra gobiernos locales, que
+cada año involucran cientos de millones de dólares en demandas.
+Sólo en 1987 la ciudad de Nueva York pagó 120 millones de dóla-
+res en procesos por daños y perjuicios, y en 1992 esa suma ascen-
+dió a 282 millones de dólares (Crotty, 1996). Es comprensible que
+todas las ciudades grandes del país pretendan introducir reformas
+al Derecho de daños, porque el derecho de los ciudadanos a de-
+mandar a los gobiernos municipales está sometiendo los presu-
+puestos locales a una presión cada vez más intolerable. ¿Por qué
+razón los jueces, que se concentran estrictamente en el caso que
+tienen delante, pueden decidir que el dinero de los contribuyen-
+tes se use para pagar compensaciones por daños en lugar de des-
+tinarse, por ejemplo, a textos escolares, gastos de policía o progra-
+mas de alimentación infantil?
+   Los profesionales del derecho entienden perfectamente bien
+las implicancias presupuestarias del derecho de demandar a go-
+
+[[PDF p. 44]]
+                                                        introducción 45
+
+biernos locales por daños y perjuicios. También saben que es po-
+sible ahorrar dinero de los contribuyentes mediante una reduc-
+ción abierta o subrepticia de otros tipos de derechos. Por ejem-
+plo, se puede atender el pedido de aquéllos de reducir impuestos
+sacando fondos de un programa de servicios de defensa jurídica
+para los pobres.9
+   Con la misma efectividad se podría ahorrar dinero público ha-
+ciendo más estrictos los requisitos para iniciar demandas civiles
+(limitando derechos clásicos) o para recibir cupones de comida
+(reduciendo derechos de bienestar). Cuando los jueces convocan
+reuniones previas para estimular acuerdos fuera del tribunal a fin
+de reducir las demoras y el congestionamiento, están recono-
+ciendo implícitamente que el tiempo es oro, o bien, yendo al
+grano, que el tiempo de los tribunales es dinero de los contribu-
+yentes. Según la cláusula del debido proceso, los organismos de
+gobierno deben conceder algún tipo de audiencia en relación
+con la incautación de bienes o de la libertad de una persona (in-
+cluyendo licencias de conducir y beneficios sociales), pero los tri-
+bunales rutinariamente toman en cuenta los gastos presupuesta-
+rios cuando deciden qué clase de audiencia se celebrará. En 1976,
+hablando de las salvaguardas procedimentales requeridas por una
+garantía de debido proceso, la Corte Suprema afirmó que:
+
+    El interés del gobierno, y por lo tanto de los contribu-
+    yentes, por conservar recursos fiscales y administrativos
+    escasos es un factor que debe tomarse en cuenta. A
+    cierta altura, los beneficios de una salvaguarda adicional
+    para el individuo afectado por la acción administrativa y
+
+
+
+
+       9 Véanse Spangenberg y Schwartz, 1994; Arango, 1992, p. 42 (que
+         informan que el presupuesto del defensor público fue recortado un
+         5,3%); Sherman, 1992, p. 3 (que observa que el Estado de New Jersey
+         eliminó 6 millones de dólares destinados a ofrecer defensa legal);
+         Klein y Spangenberg, 1993, pp. 1-3 (que registran que de los 74 000
+         millones de dólares gastados en justicia penal por gobiernos locales,
+         estaduales y federal en 1990, sólo 2,3% se dedicaron, en el ámbito
+         nacional, a la defensa pública).
+
+[[PDF p. 45]]
+46 el costo de los derechos
+
+    para la sociedad pueden ser menores que el costo siem-
+    pre y cuando haya una mayor seguridad de que la acción
+    es justa. Significativamente, teniendo en cuenta que los
+    recursos disponibles para cualquier programa de bienes-
+    tar social no son ilimitados, el costo de proteger a aque-
+    llos que durante el proceso administrativo preliminar
+    fueron identificados como probablemente no merece-
+    dores podría ser solventado por los bolsillos de los mere-
+    cedores.10
+
+Las declaraciones de este tipo, que han llegado a ser muy impor-
+tantes para la cuestión legal, de “¿cuánto procedimiento es necesa-
+rio?”, pueden parecer producto del sentido común, pero sus impli-
+caciones todavía no se han expresado ni elaborado por completo.
+   Al interpretar leyes y precedentes, y para decidir quién puede
+demandar a quién, los tribunales de apelaciones toman en cuenta
+el riesgo de verse abrumados por procesos costosos. En líneas ge-
+nerales, los tribunales tienen facultades discrecionales para deci-
+dir sobre sus propias cargas de trabajo porque, entre otras cosas,
+los dineros del gasto público asignados al sistema no son ilimita-
+dos. Reglas como la Undécima Enmienda (que prohíbe las de-
+mandas contra Estados en concepto de compensaciones moneta-
+rias por daños en tribunales federales) hacen pensar que los
+
+
+
+
+      10 Matthews versus Eldridge, 424 US 319 (1976). Aun cuando admitió
+         que los contribuyentes estadounidenses tienen un interés financiero
+         en sacar personas de las listas de los organismos de bienestar social
+         apenas se determine que no son elegibles para la asistencia pública, el
+         tribunal había concedido una audiencia administrativa completa antes
+         de la decisión a quienes estaban a punto de perder esos beneficios.
+         Goldberg versus Kelly, 397 US 254 (1970). Pero los tribunales nunca
+         han pasado por alto los costos. En Goss versus López, 429 US 565
+         (1975), por ejemplo, el tribunal dictaminó que las escuelas públicas
+         podían conceder una audiencia sumamente modesta a un estudiante
+         amenazado con la expulsión porque “incluso los procedimientos de
+         tipo procesal truncos pueden abrumar las instalaciones administrativas
+         en muchos lugares y, al desviar recursos, cuestan más de lo que se
+         ahorraría por eficiencia educativa”.
+
+[[PDF p. 46]]
+                                                  introducción 47
+
+funcionarios públicos estadounidenses siempre han comprendido
+los costos que tiene para el contribuyente el derecho individual
+irrestricto de demandar al gobierno. En la actualidad, el movi-
+miento nacional hacia el seguro “sin culpa” para los automóviles,
+que restringe el derecho de los individuos a demandar a otros in-
+dividuos por daños personales, refleja una preocupación cre-
+ciente por los costos exorbitantes, incluyendo los costos públicos,
+de algunos derechos privados. La creciente importancia de los
+procesos por mala praxis médica tiene un origen similar. Todos
+saben que es muy caro hacer que las instalaciones existentes sean
+fácilmente accesibles a personas discapacitadas, como lo ordena
+la Ley sobre Estadounidenses con Discapacidades (American with
+Disabilities Act) de 1990. Pero, ¿no debería ser igualmente evidente
+que son los contribuyentes (¿quién más?) los que tienen que ha-
+cerse cargo de los gastos cuando los jueces ordenan pagar una
+compensación por una propiedad confiscada o interpretan que
+una cárcel atestada es una violación a la Octava Enmienda, que
+prohíbe los castigos crueles e inhumanos?
+
+Es posible que los liberales sientan inicialmente cierto escepti-
+cismo acerca del objeto de este libro. Pero el hecho de tomar con-
+ciencia de los costos no tiene por qué reducir nuestro compromiso
+con la protección de los derechos básicos. Ante todo, preguntarse
+sobre el costo de los derechos no es lo mismo que preguntar
+cuánto valen los derechos. Si pudiéramos determinar hasta el úl-
+timo centavo cuánto cuesta en determinado año fiscal exigir, diga-
+mos, el derecho a igual acceso a la justicia para todos los habitan-
+tes del país, aún así no sabríamos cuánto deberíamos gastar en
+conjunto, como nación. Esa cuestión requiere una evaluación mo-
+ral y política, y no se puede resolver solamente con la contabilidad.
+   Sin embargo, es difícil que estas consideraciones aplaquen las
+aprensiones liberales, en vista de la actual cruzada, aparente-
+mente bipartidaria, por reducir el gasto público. Es posible que
+los liberales, temiendo que los votantes cortos de vista respondan
+con demasiado entusiasmo a los argumentos de “no podemos per-
+mitírnoslo” que proponen los conservadores, sientan una preocu-
+pación razonable por la posibilidad de que el análisis “costo-bene-
+
+[[PDF p. 47]]
+48 el costo de los derechos
+
+ficio” sea mal usado por poderosos intereses privados. Podrían te-
+mer que las inevitables revelaciones de malgasto, ineficiencia y
+costos innecesarios –que en principio son buenas– conduzcan
+eventualmente a ulteriores recortes de las asignaciones presupues-
+tarias para la protección de nuestros derechos, incluso los más
+preciosos. Ese temor no es del todo injustificado, pero si es apro-
+piado o no dependerá en buena parte de lo que implique real-
+mente el análisis costo-beneficio.
+   Los conservadores tienen preocupaciones igualmente agudas,
+pero éstas asumen una forma diferente. Muchos de ellos se afe-
+rran de manera instintiva a un enfoque de la protección de los lla-
+mados derechos negativos de propiedad y contratación que ig-
+nora los costos, porque examinar con frialdad los costos haría
+trizas la ficción libertaria de que los individuos que ejercen sus de-
+rechos, en el sentido clásico del siglo XVIII, están simplemente
+ocupándose de sus asuntos y son inmaculadamente independien-
+tes del gobierno y de la comunidad contribuyente. Los costos pú-
+blicos de los derechos, excluidos los de bienestar, muestran entre
+otras cosas que la “riqueza privada” tal como la conocemos sólo
+puede existir gracias a las instituciones gubernamentales. Los que
+atacan todos los programas de bienestar por principio deberían
+abrir los ojos ante la evidencia; es decir, que la definición, asigna-
+ción, interpretación y protección del derecho de propiedad es un
+servicio que el gobierno presta a los que tienen propiedades, pero
+es financiado por los ingresos generales obtenidos de los contri-
+buyentes.
+   Por lo tanto, inicialmente es probable que ni los liberales ni
+los conservadores den la bienvenida a una indagación en el
+costo de los derechos. Y un tercer obstáculo para ese estudio
+surge de la marcada sensibilidad, y posiblemente el interés, de la
+propia profesión legal. El poder judicial se enorgullece de estar
+aislado del proceso político, de seguir los dictados de la razón
+antes que los de la celeridad, y de dejar los asuntos fiscales en
+manos de la legislatura y el ejecutivo. Pero en la práctica los jue-
+ces difieren las cuestiones en los fiscales mucho menos de lo que
+parece, sencillamente porque los derechos que ayudan a prote-
+ger tienen costos.
+
+[[PDF p. 48]]
+                                                  introducción 49
+
+   El hecho de que los derechos sean financiados por los esfuerzos
+extractivos de las otras ramas no se condice con la imagen que la
+rama judicial tiene de sí misma. El problema es serio. ¿Es posible
+que los jueces, nominalmente independientes, estén en realidad
+atados a las cuerdas del monedero? ¿Es posible que la justicia de-
+penda de las partidas para gastos? ¿Y cómo puede un juez, con la
+escasa información de que dispone (porque la información tam-
+bién tiene costos) y con su inmunidad a las exigencias electorales,
+decidir en forma razonable y responsable sobre la asignación óp-
+tima de recursos públicos escasos? Un juez puede ordenar que
+una calle permanezca abierta a las actividades o que una cárcel
+mejore las condiciones de vida de los presos, pero ese juez no
+puede estar seguro de que los fondos que destina a esos fines no
+estarían mejor empleados en una campaña de vacunación contra
+la difteria dirigida a los niños de los barrios más pobres.
+   Ese dilema no afecta solamente a los jueces. Piénsese en los
+abogados que se especializan en pleitos civiles: puesto que ellos
+conciben los derechos como armas con las que enfrentar y atacar
+al gobierno, podrían sentirse incómodos con una indagación en
+el costo presupuestario de los derechos que ponga énfasis sobre
+una forma muy simple y concreta en que los derechos son “criatu-
+ras” del gobierno. En general, lo costoso de la protección de los
+derechos hace añicos una poderosa ilusión acerca de las relacio-
+nes entre la ley y la política. Si en la práctica los derechos depen-
+den de la tasa actual de pago de impuestos, ¿no significa eso que
+el imperio de la ley depende de los caprichos de la elección polí-
+tica? ¿Y no es humillante entender los derechos, que después de
+todo protegen la dignidad humana, como meras concesiones
+otorgadas por el poder político (incluso aunque el poder en cues-
+tión sea democráticamente responsable)? Los jueces en particu-
+lar, como custodios de valores sin precio, ¿no deberían estar por
+encima de las diarias transacciones entre quienes tienen el poder
+y quienes lo buscan?
+   Cualesquiera sean los méritos de lo que “debería ser”, no tie-
+nen mucha importancia frente a lo que “es”. Imaginar que el de-
+recho estadounidense no es –o no puede ser– tocado por las ne-
+gociaciones que son usuales en las finanzas públicas sólo puede
+
+[[PDF p. 49]]
+50 el costo de los derechos
+
+cegarnos a las realidades políticas de la protección de los dere-
+chos. Porque el costo de los derechos implica, en forma dolorosa
+pero realista, que las ramas políticas, que extraen y reasignan re-
+cursos públicos, afectan sustancialmente el valor, el alcance y la
+predictibilidad de nuestros derechos. Si el gobierno no invierte
+considerables recursos para prevenir los abusos de la policía, ha-
+brá muchos, sin importar lo que digan los libros de leyes. La can-
+tidad que la comunidad decide gastar afecta en forma decisiva la
+medida en que se protegen y se exigen los derechos de los ciuda-
+danos.11
+
+Atender al costo de los derechos plantea una cantidad de cuestio-
+nes adicionales, no sólo acerca de cuánto cuestan sino también so-
+bre quién decide cómo asignar nuestros escasos recursos públicos
+para protegerlos, y para quién. ¿Cuáles son los principios que se
+invocan habitualmente para guiar esas asignaciones? ¿Es posible
+defender esos principios?
+  Por último, comprender que los derechos tienen costos per-
+mite también entender que es inevitable que exista el gobierno
+como asimismo apreciar que éste hace muchas cosas buenas, mu-
+chas de las cuales se dan por sentadas al punto de que, para el ob-
+servador casual, parecen no tener nada que ver con el gobierno.
+Prestar atención a los costos de los derechos individuales puede
+arrojar nueva luz sobre viejas cuestiones, entre otras, las dimensio-
+nes apropiadas del Estado regulador/de bienestar y la relación
+entre el gobierno moderno y los derechos liberales clásicos. No
+habría que tomar decisiones de política pública sobre la base de
+
+
+
+
+      11 Este libro no trata la tesis que los filósofos denominan “deontológica”,
+         según la cual el razonamiento moral debería estar más preocupado
+         por los principios que por las consecuencias. Sin embargo, el costo de
+         los derechos tiene que ver con el uso incorrecto de los argumentos
+         deontológicos, que fomenta ilusiones acerca de que la extracción y
+         canalización de los recursos públicos son de naturaleza puramente
+         apolítica e independiente de lo judicial. Incluso aquellos derechos
+         que intrínsecamente son más que valores instrumentales son costosos,
+         y por lo tanto deben estar sujetos a costos y beneficios.
+
+[[PDF p. 50]]
+                                              introducción 51
+
+una hostilidad imaginaria entre la libertad y el cobrador de im-
+puestos, porque si realmente fuesen enemigos, todas nuestras li-
+bertades básicas serían candidatas a la abolición.

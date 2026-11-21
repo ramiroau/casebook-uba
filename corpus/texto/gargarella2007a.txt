@@ -1,0 +1,1182 @@
+# fuente: Unidad18/Gargarella et al_---_Democracia deliberativa y judicialización de los derechos sociales.pdf
+# md5_original: ec213e27ff4d4960f513800a6bc8a31a
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                                                           Perfiles Latinoamericanos
+                                                                           ISSN: 0188-7653
+                                                                           perfiles@flacso.edu.mx
+                                                                           Facultad Latinoamericana de Ciencias
+                                                                           Sociales
+                                                                           México
+
+
+
+                                                          Gargarella, Roberto
+                                 ¿Democracia deliberativa y judicialización de los derechos sociales?
+                                  Perfiles Latinoamericanos, núm. 28, julio-diciembre, 2006, pp. 9-32
+                                            Facultad Latinoamericana de Ciencias Sociales
+                                                       Distrito Federal, México
+
+
+
+                                      Disponible en: http://www.redalyc.org/articulo.oa?id=11502801
+
+
+
+
+Cómo citar el artículo
+Número completo
+                                                                                                   Sistema de Información Científica
+Más información del artículo                           Red de Revistas Científicas de América Latina, el Caribe, España y Portugal
+Página de la revista en redalyc.org           Proyecto académico sin fines de lucro, desarrollado bajo la iniciativa de acceso abierto
+
+[[PDF p. 2]]
+¿Democracia deliberativa y judicialización
+de los derechos sociales?
+                                                                            Roberto Gargarella*
+
+
+
+
+                                                                                                                 Perfiles Latinoamericanos 28
+                                                                                                                 Julio–Diciembre 2006
+                                                                                                                  
+
+
+
+
+Resumen
+Este trabajo explora qué implica defender un concepto deliberativo de la democracia respecto a la apli­
+cación judicial de los derechos sociales. Aquí se analizan críticamente y, en primer lugar, las dos ideas
+de democracia que suelen fundamentar las decisiones de los jueces en materia de derechos sociales: la
+visión pluralista y la “rousseauniana”. Luego de mostrar los problemas propios de ambos enfoques, esta
+reflexión se pregunta sobre los significados de partir de una noción deliberativa de la democracia al de­
+cidir sobre la puesta en práctica o no de los derechos sociales.
+
+Abstract
+This paper explores the implications of deliberative democracy for the judicial enforcement of social
+rights. In the first part of the paper, the author critically examines the two most common views of de­
+mocracy that judges use, when they deal with cases concerning social rights, namely, the pluralist and
+the “rousseauean” views of democracy. In its second part, the author explores the implications of an al­
+ternative, deliberative notion of democracy, when dealing with social rights.
+
+Palabras clave: control judicial de las leyes, democracia deliberativa, derechos sociales.
+Key words: judicial review, deliberative democracy, social rights.
+
+
+
+
+*   Doctor por la Universidad de Buenos Aires en 1991 y por la Universidad de Chicago en 1993. Investigador de
+    la Universidad Di Tella en Buenos Aires.
+
+[[PDF p. 3]]
+Sección Varia
+
+                               Introducción
+
+
+                               E      n este artículo exploraré lo que implica defender una concepción deliberativa
+                               de la democracia, en lo que atañe a la aplicación judicial de los derechos sociales. La
+                               idea de escribir este artículo surgió luego de un período de investigación que incluyó
+                               la lectura de numerosas decisiones judiciales en el área de derechos sociales. Presen­
+Perfiles Latinoamericanos 28
+
+
+
+
+                               to algunas de las principales conclusiones de dicho trabajo que han servido aquí como
+                               punto de partida:
+
+                                  i) No obstante la importancia que ha adquirido la teoría de la democracia deli­
+                                       berativa, la literatura sobre el tema parece haber tenido un impacto casi nulo
+                                       en las decisiones judiciales sobre los derechos sociales. Esto desconcierta, par­
+                                       ticularmente porque los jueces, con frecuencia, refieren argumentos vinculados
+10                                     con la democracia cuando deciden en relación a los derechos sociales.
+                                  ii) A pesar de la alta sofisticación argumentativa que han alcanzado numerosos jue­
+                                       ces en los eu y en América Latina, es difícil encontrar una elaboración judicial
+                                       interesante en sus referencias (más o menos explícitas) a la democracia, cuando
+                                       se trata de casos relacionados con los derechos sociales. El resultado provoca
+                                       extrañeza, si se considera que los magistrados han avanzado considerablemente
+                                       en su pensamiento teórico acerca de la democracia en otras áreas del derecho,
+                                       sobre todo en lo relativo a la libertad de expresión y la libertad de prensa.
+                                  iii) En muchas de las decisiones examinadas fue posible reconocer el descuido en
+                                       la transición hecha por los jueces desde las premisas democráticas a las conclu­
+                                       siones de lo que ellos debían hacer, o (más comúnmente) no hacer en cuanto
+                                       a la aplicación de los derechos sociales. Típicamente, los jueces dejan clara su
+                                       obligación de respetar la democracia y, desde allí, la importancia de respetar la
+                                       voluntad del legislador, para sostener, a partir de tales premisas, su incapacidad
+                                       de intervenir en el proceso que involucra la violación de algún derecho social
+                                       (dado que el legislador no ha tomado iniciativas al respecto).
+                                  iv) Finalmente, un último punto, tal vez el más sorprendente de todos: en sus argu­
+                                       mentos relacionados con la democracia, muchos jueces en distintos momentos
+                                       recurrieron (sobre todo) a dos nociones de democracia muy diferentes. Algunos
+                                       apelaron a lo que llamaré una noción pluralista de la democracia, mientras que
+                                       otros se referían a lo que definiremos como una noción más progresista, populista
+                                       o participatoria. Lo notable es que, sin importar cuál de los conceptos opuestos
+                                       se prefiriera, los jueces tendieron a la misma conclusión: respetar la democracia
+                                       requiere que los jueces no pongan en práctica los derechos sociales.
+
+[[PDF p. 4]]
+    Por supuesto, cuando los jueces fundamentan su decisión de no aplicar los derechos
+
+
+
+
+                                                                                              ¿Democracia deliberativa y judicialización de los
+sociales, también utilizan otras justificaciones, además de aquélla que se basa en los re­
+querimientos de la democracia. Ellos afirman, por ejemplo, que los derechos sociales
+son muy costosos (mientras que los derechos civiles o políticos no lo son). En una línea
+similar, los jueces distinguen entre derechos “negativos” y “positivos” (o sea, derechos
+que exigen que el Estado se abstenga de actuar, y derechos que requieren que el Estado
+“haga algo” para cumplir con sus obligaciones). Y parten de la hipótesis de que a ellos
+se les permite forzar al Estado a “dejar de hacer algo”, pero que no pueden obligarlo a
+actuar “positivamente”. Otras veces, los jueces justifican su decisión de no aplicar los
+
+
+
+
+                                                                                              derechos sociales?
+derechos sociales sustentados en la necesidad de respetar la separación de poderes (un
+argumento fuertemente asociado con el de la democracia, aunque no es igual a aquél).
+Ahora bien, pensando que ninguna de estas explicaciones es prometedora, en las si­
+guientes líneas concentraré mi atención en el argumento democrático visto desde sus
+diversas formas, así como en los problemas surgidos con el uso de tal opción.
+    En la primera parte de este artículo, exploraré los enfoques pluralista y participativo      11
+de la democracia, y mostraré las consecuencias en el campo de la relación decisiones
+judiciales–derechos sociales que normalmente se derivan de ellos. Más en específico,
+analizaré el hecho curioso de que dos puntos de vista sobre la democracia completa­
+mente opuestos parecen conducir a las mismas recomendaciones respecto a la apli­
+cación judicial de los derechos sociales. Después presentaré una tercera variación del
+argumento democrático que se relaciona con la teoría de la democracia deliberativa,
+y examinaré sus implicaciones respecto a la revisión judicial y, en particular, a la apli­
+cación judicial de los derechos sociales.
+
+
+De la democracia pluralista a los derechos sociales
+
+En resumen, los jueces que se adhieren a la visión pluralista parten del supuesto de
+que: i) una de sus principales obligaciones es respetar debidamente la voluntad del
+pueblo; ii) la “sede” o “locus” de la voluntad del pueblo es la Constitución; y iii) se les
+requiere la no práctica de los derechos sociales porque “el pueblo” no decidió incor­
+porarlos a la Constitución.
+    Alexander Hamilton fue uno de los primeros pensadores que apoyaron este enfo­
+que, en el cual la Constitución se considera como la “sede” principal y exclusiva de la
+voluntad popular. En el famoso documento núm. 78 de The Federalist Papers, Hamil­
+ton sostuvo que la voluntad genuina del pueblo residía en la Constitución, y no en las
+decisiones transitorias de la Legislatura. Por esa razón, él justificaba que los jueces, en
+ciertas circunstancias, “declarasen inválidos ciertos actos legislativos”. Desde su punto
+
+[[PDF p. 5]]
+Sección Varia
+
+                               de vista, esta conclusión no implicaba suponer la superioridad del poder judicial sobre
+                               el legislativo. Por el contrario, agregaba, ello sólo asumía que el poder del pueblo era
+                               superior al de ambas ramas del gobierno y, “en caso de que la voluntad de la legisla­
+                               tura —tal como está declarada en las leyes— fuera opuesta a la del pueblo —tal como
+                               está declarada en la Constitución—, los jueces debían ser gobernados por la segunda,
+                               en lugar de por la primera”. De esta manera, Hamilton iniciaba una nueva forma de
+                               pensar las relaciones entre la Constitución, la democracia, y el poder judicial. Más tar­
+Perfiles Latinoamericanos 28
+
+
+
+
+                               de, el Juez Marshall transformó esta opinión en un dictamen judicial histórico. En la
+                               bien conocida decisión Marbury contra Madison, él justificó la revisión y la supremacía
+                               judiciales, en tanto formas de proteger la verdadera voluntad del pueblo. Sostenía que,
+                               “el pueblo tiene el derecho original de establecer, para su futuro gobierno, principios
+                               tales como aquellos que, en su opinión, sean propicios para su propia felicidad”. Y aña­
+                               dió: “como la autoridad de la que proceden [estos principios] es suprema, y raramente
+                               puede actuar, dichos principios fueron diseñados para ser permanentes”. Por esta cau­
+12                             sa, y para él, los jueces no tenían más alternativa que invalidar todas las normas que
+                               desafiaran la autoridad de la Constitución, si lo que querían era proteger los principios
+                               consagrados por el pueblo como inviolables.
+                                   Por supuesto, para llegar a esa conclusión y definir cuáles normas desafiaban real­
+                               mente la autoridad de la Constitución, los jueces tenían que partir de una perspec­
+                               tiva más amplia sobre el significado de la democracia, así como de una cierta teoría
+                               de cómo interpretar la Constitución. La teoría democrática que parece subyacer en
+                               este análisis se relaciona con lo que generalmente se denomina la visión madisoniana
+                               o pluralista de la democracia (denominaciones que consideraré como sinónimas), la
+                               cual estima que el objetivo de la Constitución es prevenir opresiones de unos sobre
+                               otros, en especial porque vivimos en mundo caracterizado por la presencia de fac-
+                               ciones. Suponemos aquí que las facciones intentan extender sus poderes tanto como
+                               pueden, incluso a costa de la violación de los derechos de otras personas. Asimismo,
+                               este concepto de democracia concibe a la ciudadanía como un conjunto de personas
+                               motivadas principalmente por pasiones o por impulsos egoístas, que les impiden to­
+                               mar decisiones racionales de acuerdo con los intereses de la totalidad.1 Es por eso que,
+                               desde este punto de vista, el sistema constitucional se dirige sobre todo a reducir, en
+                               lugar de extender o promover, la influencia de grupos de interés, en particular de los
+                               que son mayoritarios, en la política.2
+
+                               1   Este principio fue enunciado por James Madison como principio de hierro de la política, al afirmar que “en las
+                                   asambleas numerosas, sin importar su carácter y composición, la pasión nunca deja de arrebatarle el cetro a la
+                                   razón” (The Federalist Papers, núm. 55).
+                               2    Ésta era la visión de Madison, tal como fuera expresada en The Federalist Papers, núm. 10.
+
+[[PDF p. 6]]
+    No sorprende que esta visión de la democracia se asocie habitualmente a un bajo
+
+
+
+
+                                                                                                                          ¿Democracia deliberativa y judicialización de los
+nivel de participación cívico–política: para aquellos que la apoyan, la apatía favorece y
+no socava la estabilidad política —estabilidad que así aparece como uno de los valores
+políticos más importantes. La contraparte pareciera ser la defensa de un procedimien­
+to “tecnocrático” de toma de decisiones, o sea, un proceso en el cual las decisiones
+son elaboradas por expertos independientes, institucionalmente ubicados “lejos del
+pueblo”.3
+    En lo que respecta a la interpretación constitucional, los jueces que aceptan es­
+ta visión pluralista tienden a compartir la misma perspectiva del tema, con la idea
+
+
+
+
+                                                                                                                          derechos sociales?
+de que la manera correcta de interpretar la Constitución les exige seguir (una u otra
+versión de) lo que actualmente llamamos una teoría originalista de interpretación,
+la cual propone interpretar la Constitución de acuerdo con su entendimiento origi­
+nal, cualquiera que sea éste. En el contexto norteamericano se considera que el texto
+de la Constitución, así como sus fuentes principales, están comprometidos con un
+marcado individualismo y son hostiles a lo que se llamó el “activismo del Estado”.4                                          13
+La Constitución parece estar a favor de un Estado mínimo, o sea de un Estado que
+deja amplio espacio para iniciativas económicas privadas. Tal Estado, se supone aquí,
+respeta adecuadamente la libertad individual y favorece el progreso económico.
+    Autoridades muy respetables como el Juez Story o Thomas Cooley apoyaron es­
+te punto de vista, defendiendo la necesidad constitucional de proteger la propiedad
+privada en contra del “absolutismo” y de los caprichos de las mayorías legislativas
+(Forbath, 1999). Por ejemplo, Cooley escribió en su famoso tratado de 1868 que
+una “decisión legislativa no constituye necesariamente la ley de la tierra”, sobre todo
+si afecta la “libertad contractual” de las personas (Cooley, 1868).
+    De manera más o menos explícita, las Cortes han defendido esta visión de la demo­
+cracia con el fin de anular las leyes dirigidas a reestructurar la economía, o a “reparar”
+algunas de las consecuencias negativas de las llamadas “fuerzas libres del mercado” (por
+ejemplo, altos niveles de pobreza o de desempleo). De la misma forma, los jueces se
+han basado en esta visión de la democracia y del Estado para justificar su abstinencia
+respecto a los derechos sociales.
+
+
+3   En este caso, y para que los requisitos de la democracia resulten satisfechos, basta con que se efectúen elecciones
+    periódicas y que en cada una la gente tenga la oportunidad de elegir entre, por lo menos, dos partidos políticos
+    (Held, cap. 5). Otros derechos necesarios para este propósito —tales como la libertad de expresión y la libertad
+    de asociación— también aparecen como requisitos de esta concepción de la democracia.
+4   Algunos autores han descrito esta visión del Estado como “procedimentalista” (Sandel), dado que el Estado es
+    reducido aquí a su mínima expresión, renunciando a sus impulsos “regulativos”, lo mismo que a su propósito
+    de imponer cualquier tipo de resultados “sustantivos”.
+
+[[PDF p. 7]]
+Sección Varia
+
+                                   En los Estados Unidos, por ejemplo, la Corte utilizó la llamada “cláusula sobre el
+                               comercio” de la Constitución para restringir los poderes del Congreso; invocó la pro­
+                               tección constitucional de “la libertad contractual” para restringir cualquier tentativa
+                               pública de regular la relación entre empleadores y empleados; y fijó límites a inicia­
+                               tivas del Congreso que buscaban delegar poderes al presidente y a agencias federales.
+                               Además, desde principios del siglo xx, ha invalidado cientos de normas regulativas
+                               fundamentándose en la Decimocuarta Enmienda de la Constitución, que estableció
+Perfiles Latinoamericanos 28
+
+
+
+
+                               que “ningún Estado puede privar a una persona de la vida, la libertad o la propiedad,
+                               sin el debido proceso de la ley”.
+                                   Sobre este punto, probablemente el caso más significativo y famoso sea el de Lochner
+                               contra New York (198 U.S. 45, 1905), en el cual la Suprema Corte se preguntó “cual
+                               de los dos poderes o derechos debía predominar —el poder del Estado para legislar, o
+                               el derecho de libertad individual y de contrato”. Con otras palabras, los magistrados
+                               se preguntaron cual opción debía predominar: ¿la colectiva o la individual?, y su res­
+14                             puesta fue claramente en favor de la segunda. La fuerte predisposición individualista
+                               y anti–colectivista que se defendió en el caso Lochner persistió en el Tribunal al menos
+                               durante 25 años. Al transcurrir ese tiempo, la Suprema Corte anuló una multitud de
+                               regulaciones económicas, casi siempre apelando a la cláusula del debido proceso legal
+                               de la Constitución. Uno de los ejemplos más notables se da con el caso Coppage contra
+                               Kansas (236 U.S. 1, 1915) —uno de los muchos en los que la Corte anuló las inicia­
+                               tivas públicas orientadas a compensar el poder desigual de negociación de los trabaja­
+                               dores. Así también, en el caso Adkins contra el Hospital Infantil (261 U.S. 525, 1923),
+                               la Corte anuló una ley que establecía un salario mínimo para mujeres, afirmando que:
+                               “no podemos aceptar la doctrina que establece que las mujeres de edad madura, sui
+                               juris, requieren o pueden estar sujetas a restricciones a su libertad de contrato que no
+                               podrían ser impuestas legalmente en el caso de hombres en circunstancias similares”.
+                               Más recientemente, bajo el liderazgo del juez Rehnquist (que se describe a sí mismo
+                               como pluralista), la Corte revivió la lectura pluralista/originalista de la Constitución
+                               (curiosamente, y sin embargo, algunos miembros de la Corte recurrieron a veces a
+                               argumentos más populistas, como veremos a continuación).
+
+
+                               De la democracia populista a los derechos sociales
+
+                               Los jueces que se adhieren a la posición populista suponen que: i) una de sus princi­
+                               pales obligaciones es respetar debidamente la voluntad democrática del pueblo; ii) la
+                               “sede” o “locus” de la voluntad del pueblo reside fuera de la Constitución, en el “aquí
+                               y ahora”; y iii) dado que el pueblo, “aquí y ahora”, no toma medidas activas para la
+
+[[PDF p. 8]]
+aplicación de los derechos sociales, los jueces deben respetar esa decisión soberana,
+
+
+
+
+                                                                                             ¿Democracia deliberativa y judicialización de los
+en vez de imponer sus opiniones contra la del pueblo.
+    La primera versión de esta postura se popularizó entre líderes políticos y persona­
+lidades públicas durante la Revolución Francesa y la Guerra de Independencia nortea­
+mericana. Especialmente para las alas más radicales de los grupos que participaron en
+ambas revoluciones, resultaba claro que el lugar del poder judicial estaba subordinado
+al de las ramas políticas. Los jueces debían resolver conflictos y servir de mediadores
+entre demandas opuestas, pero no jugar papel alguno en cuanto al contenido y signi­
+ficado de la Constitución. Ellos —se suponía entonces— carecían de autoridad para
+
+
+
+
+                                                                                             derechos sociales?
+desafiar las decisiones de las autoridades políticas. Como se refleja en la metáfora de
+la Corte (poder judicial) como “boca de la ley”. Los jueces debían limitarse a aplicar
+la voluntad del legislador democrático, en lugar de interpretarla o modificarla. En tal
+sentido, y por ejemplo, en el primer informe legislativo sobre el papel del poder judi­
+cial, elaborado después de la Revolución Francesa, los jueces no gozaban del “peligroso
+privilegio” de interpretar la ley o de incluir en ella sus puntos de vista. En los Estados      15
+Unidos, y luego de finalizada la guerra de independencia, se generalizó una extendi­
+da hostilidad hacia el poder judicial —sobre todo entre los sectores populares— tal
+como quedó manifiesto en algunas rebeliones populares de enorme importancia, por
+ejemplo la famosa “Rebelión de Shays”. Dicho poder era visto como traidor a los in­
+tereses de los más débiles —aquellos que, por otra parte, habían ofrecido hasta sus
+vidas en la lucha independentista. Esa hostilidad generalizada hacia el poder judicial
+representó la expresión más notable de una convicción más profunda: los jueces no
+debían involucrarse en asuntos “políticos”.
+    La posición populista sobre la democracia que germinara entonces, llegó a cues­
+tionar lo que describimos como la visión pluralista de la democracia, particularmente
+en su idea de participación política. De acuerdo con la concepción participativa (o
+por lo menos algunas de sus versiones más habituales), la democracia requiere de una
+comunidad autogobernada, basada en ciudadanos activos y virtuosos. En su forma
+ideal, esta sociedad autogobernada está compuesta por ciudadanos que se identifican
+con su comunidad y que han tejido fuertes lazos solidarios con sus pares.
+    Los trabajos de J.J. Rousseau, Thomas Paine y Thomas Jefferson representan an­
+tecedentes importantes de esta concepción de la democracia. Es claro que sus escritos
+difieren en muchos y distintos aspectos. Sin embargo, todavía resulta útil enfatizar
+algunas de sus coincidencias; aquí me ocuparé de dos.
+    Ante todo, estos autores pensaban que asegurar el valor de la participación polí­
+tica requería de ciertas precondiciones sociales y económicas. En general, las mismas
+debían incluir la organización de la comunidad en unidades pequeñas y el “cultivo”
+de la virtud cívica.
+
+[[PDF p. 9]]
+Sección Varia
+
+                                   Más interesante aún para nuestros propósitos, el ideal del autogobierno defendi­
+                               do por tales visiones requería de una sociedad igualitaria y compuesta por individuos
+                               situados en posiciones sociales similares. Para Rousseau, por ejemplo, la existencia de
+                               intereses contrapuestos —o, lo que es lo mismo, la fragmentación de la sociedad en fac­
+                               ciones— imposibilitaba que el pueblo identificara los comunes. En estos casos —sostenía
+                               Rousseau— cada individuo tendía a identificarse y a defender los intereses de su propio
+                               grupo, considerando erróneamente que este interés parcial representaba el de todos. En
+Perfiles Latinoamericanos 28
+
+
+
+
+                               resumen, la formación de la “voluntad general” —o, a final de cuentas, el autogobier­
+                               no— requería de la igualdad. Esa es la razón por la que una sociedad comprometida
+                               con el valor del autogobierno debería preocuparse sobre todo por la distribución de re­
+                               cursos.5 Claramente, este tipo de presupuestos difieren de manera dramática de aquéllos
+                               que caracterizan al pensamiento pluralista. Los pluralistas, como hemos visto, intentaron
+                               eliminar todas estas preocupaciones socio–económicas de la agenda política, pensando
+                               que la distribución final de los recursos debía ser el resultado de la interacción espontá­
+16                             nea entre los diversos miembros de la sociedad. Además, los populistas defienden una
+                               organización institucional que atiende más a la intervención popular en política, que
+                               al establecimiento de controles y limitaciones sobre la voluntad del pueblo. Algunos de
+                               ellos se opusieron abiertamente a la idea de una democracia representativa, sugiriendo
+                               que existía una conexión demasiado estrecha entre la delegación del poder y la tiranía.
+                                   Recientemente, muchos académicos y algunos jueces han rescatado esta concep­
+                               ción de la democracia en sus discusiones sobre el papel de los jueces en materia de
+                               derechos sociales. Tal vez sorprendentemente —dado que el discurso participativo ha
+                               sido asociado por tradición con las fuerzas progresistas— algunos autores conservado­
+                               res comenzaron a recurrir a dicha teoría para justificar una autorrestricción por parte
+                               de los jueces en lo que concierne a la aplicación de los derechos socio–económicos.
+                               Esta posición se fortaleció especialmente cuando la “Corte Warren” impuso su agen­
+                               da progresista (en términos de derechos anti–discriminatorios, libertad de expresión,
+                               debido proceso legal, derechos de prisioneros y también el principio de los derechos
+                               de bienestar). Frente a la “amenaza” de esa corte progresista y “activista”, algunos jue­
+                               ces y académicos influyentes, como los jueces Easterbrook y Bork, se preguntaron:
+                               “¿Acaso es correcto que la Corte, un comité de nueve jueces, pueda ser el único agen­
+                               te capaz de anular resultados democráticos?” (Bork, The Tempting of America: 201;
+
+
+                               5   Existen muchas y buenas ilustraciones de esta perspectiva, incluyendo los escritos agrarios de Thomas Jefferson;
+                                   las propuestas de Thomas Paine sobre “ingreso básico”; el Reglamento Provisorio de José Artigas, para la distri­
+                                   bución equitativa de los recursos en Uruguay (1815); y las iniciativas de Ponciano Arriaga (en la Convención
+                                   constitucional mexicana de 1857) a favor de promulgar una constitución dirigida principalmente a resolver el
+                                   problema de la distribución inequitativa de la tierra.
+
+[[PDF p. 10]]
+Easterbrook, 1992). Las opiniones de estas autoridades jurídicas contribuyeron a la
+
+
+
+
+                                                                                                                          ¿Democracia deliberativa y judicialización de los
+formación de los cimientos de una lectura “federalista” del constitucionalismo, según
+la cual los jueces debían ser respetuosos de las opiniones del pueblo, tal como ellas se
+expresan en los parlamentos locales.
+     De manera notable, esta idea sobre el papel de los jueces y la Constitución ha si­
+do acogida no sólo por doctrinarios conservadores, sino también por algunos de los
+académicos más progresistas de nuestra época. Michael Walzer impulsó con fuerza
+esta perspectiva en su famoso trabajo “Philosophy and Democracy”, en el cual atacó
+la idea de introducir la filosofía por medio de la ley. De tal forma, este autor criticó el
+
+
+
+
+                                                                                                                          derechos sociales?
+activismo judicial en nombre de una democracia más amplia (Walzer, 1981). El tra­
+bajo de Walzer resultó persuasivo, al menos de modo parcial, para autores influyentes
+como Frank Michelman —uno de los principales defensores de una interpretación
+constitucional que da lugar a la intervención judicial en materia de derechos socia­
+les.6 De todos modos, y tratando de ser fiel a su compromiso con una visión amplia
+(republicana) de la democracia, Michelman ha sostenido que los derechos sociales                                             17
+se pueden activar judicialmente una vez que el gobierno decide otorgar derechos de
+bienestar a ciertos individuos (pero no a otros).7
+     Es destacable que este argumento democrático se ha utilizado no sólo en relación
+a documentos —como la Constitución de los Estados Unidos— que no aluden a los
+derechos sociales en su texto, sino también en relación con constituciones socialmente
+más avanzadas, como las de América Latina. En América Latina, como sabemos, las
+constituciones suelen incluir numerosos derechos sociales en sus cláusulas. Sin embar­
+go, también en dicho contexto, el argumento democrático ha reaparecido para suge­
+rir la abstinencia judicial en materia de derechos sociales. En la mayoría de los casos,
+ello se ha justificado señalando que las referencias constitucionales sobre los derechos
+sociales aluden únicamente a las ramas del poder político que controlan el presupuesto
+nacional y tienen la legitimidad democrática para distribuir recursos a los diversos
+grupos sociales. Esto es, por ejemplo, lo que la Suprema Corte Argentina sostuvo en
+el caso de “Ramos, Marta contra la Provincia de Buenos Aires”8, en el que la Corte
+afirmó que la Constitución “no requiere del poder judicial (sino de las ramas políti­
+cas), para garantizar el bienestar general”.
+
+
+6   Michelman acepta y rechaza parcialmente la propuesta de Walzer. Ver la discusión sobre el tema en Michelman (1987).
+7   Claramente, este no es el caso de Frank Michelman. Su enfoque se relaciona con lo que los jueces deben hacer
+    en los Estados Unidos, y se basa en el supuesto de que las autoridades democráticas en ese país son hostiles hacia
+    los derechos sociales. Sin embargo, su opinión es distinta en relación con casos como el de Sudáfrica, que posee
+    una constitución diferente a la norteamericana en este aspecto. Ver, por ejemplo, a Michelman (1998).
+8   12/3/2002; JA 2002–IV–466.
+
+[[PDF p. 11]]
+Sección Varia
+
+                                    Esta conclusión no es exactamente la misma que la encontrada después de anali­
+                               zar las teorías pluralistas. Las teorías participativas exigen que los jueces respeten lo
+                               que hacen los legisladores en materia de derechos sociales, mientras que las teorías
+                               pluralistas los impulsan a invalidar cualquier decisión legal que ponga en riesgo una
+                               concepción (muy amplia) sobre los derechos de propiedad. Sin embargo, y a pesar
+                               de esta diferencia inicial, ambas posturas critican el “activismo” judicial en la mate­
+                               ria —activismo destinado a la implementación de los derechos sociales. Es decir, las
+Perfiles Latinoamericanos 28
+
+
+
+
+                               teorías conservadora y progresista de la democracia parecen ir de la mano al concluir
+                               que los jueces están obligados a asegurar los derechos civiles y políticos, pero no los
+                               sociales —algo que resulta, en principio, desconcertante.
+                                    Ahora bien, aquellos que están interesados en la aplicación judicial de los de­
+                               rechos sociales pueden lógicamente preguntarse qué tan sólidas son las respuestas
+                               provenientes de enfoques como los mencionados —que manifiestan una común
+                               hostilidad general hacia la aplicación de los derechos sociales. En este aspecto, existen
+18                             algunas dudas dignas de mencionarse. En primer lugar, los jueces que se rehúsan a
+                               aplicar los derechos sociales deberían explicarnos por qué utilizan las teorías inter­
+                               pretativas que utilizan, en lugar de otras, que podrían llevarlos a sostener resultados
+                               diferentes a los que hoy defienden en sus decisiones.
+                                    Ellos deberían explicar, por ejemplo, por qué consideran que la mejor interpreta­
+                               ción de la Constitución es aquella que requiere “descubrir” e implementar los progra­
+                               mas políticos y económicos que defendían nuestros “Padres Fundadores” —además
+                               de clarificar cómo eligieron el programa que fundamenta sus decisiones, de entre los
+                               diversos planes que circulaban entre la élite de ese período. Por lo demás, conviene
+                               aclarar que, para los que insisten en la ruta originalista, se ha hecho cada vez más di­
+                               fícil sostener la conclusión de que los derechos sociales no pueden ser aplicados ju­
+                               dicialmente. Esto es porque la mayoría de las constituciones modernas incorporan
+                               numerosos derechos sociales y/o otorgan estatus constitucional a tratados internacio­
+                               nales que explícitamente requieren que los jueces asuman una actitud diferente a la
+                               que hoy presentan frente a los derechos sociales.
+                                    Además, debemos preguntar cómo estos jueces llegan a las decisiones que llegan
+                               partiendo de la teoría democrática de la que parten. Para ilustrar esta idea, podría­
+                               mos decir que no está claro por qué el adoptar una visión participativa requiere que
+                               los jueces se abstengan de aplicar los derechos sociales. De hecho, podríamos sos­
+                               tener, razonablemente, que tal visión populista exige a todos los oficiales públicos,
+                               incluyendo a los jueces, tomar medidas para la implementación de ciertos derechos
+                               sociales, económicos o culturales básicos. La idea es que para respetar los valores que
+                               los demócratas populistas desean respetar (por ejemplo, el valor de la participación
+                               pública en política, el valor de contar con un proceso genuinamente colectivo de to­
+
+[[PDF p. 12]]
+ma de decisiones), uno necesita asegurarse de la existencia y operatividad de ciertos
+
+
+
+
+                                                                                                                           ¿Democracia deliberativa y judicialización de los
+derechos básicos.
+   En lo que sigue, de todos modos, dejaré de lado tales dudas para concentrar mi
+atención en una tercera y diferente concepción de la democracia: la deliberativa. En
+específico, exploraré cuál debería ser el accionar de los jueces si ellos tomaran como
+punto de partida la democracia deliberativa.
+
+
+De la democracia deliberativa a la revisión judicial
+
+
+
+
+                                                                                                                           derechos sociales?
+Aunque es posible distinguir entre muchas y diferentes versiones de la concepción
+deliberativa de la democracia (Elster, 1998; Bohman, 1996; Cohen, 1989; Nino,
+1991), propondré aquí una que se caracteriza por dos rasgos: primero, supondré que
+esta perspectiva de la democracia requiere de la aprobación de decisiones públicas
+luego de un amplio proceso de discusión colectiva. Segundo, supondré que el proceso                                           19
+deliberativo requiere, en principio, de la intervención de todos aquellos que se verían
+potencialmente afectados por las decisiones en juego.9
+    Por un lado, esta opción difiere en gran medida de las teorías pluralistas, sobre
+todo como consecuencia de la segunda característica señalada. En realidad, la de­
+mocracia deliberativa requiere que las decisiones públicas estén ancladas en una base
+consensual amplia, formada con la participación de todos los sectores de la sociedad.
+Según esta idea, mientras menores sean el alcance y la intensidad de la participación
+cívica, más débiles serán las razones para considerar que el resultado final del proceso
+deliberativo es imparcial (Nino, 1991). La amplia intervención colectiva es perci­
+bida aquí como una condición primaria y necesaria (aunque no suficiente) para tal
+imparcialidad.
+    Por otra parte, este modelo deliberativo coincide con la perspectiva participativa
+de la democracia en cuanto al valor que ambos le adjudican a la participación política.
+No obstante, difiere —al menos de algunas versiones importantes de tal visión— por
+su defensa del debate público. El trabajo de Rousseau podría ser útil para entender el
+significado de esta objeción. De acuerdo con el Contrato Social de Rousseau, la delibe­
+ración pública no sólo era innecesaria para el propósito de crear decisiones imparciales,
+
+
+9    Esta definición se relaciona con la propuesta de Jon Elster, para quien dicha noción “incluye la toma de decisiones
+    colectivas con la participación de todos los potencialmente afectados, o por ellos a través de sus representantes:
+    ésta es la parte democrática”. Todos acuerdan también que dicha noción incluye la toma de decisiones por me­
+    dio de argumentos presentados por y para participantes comprometidos con los valores de la racionalidad y la
+    imparcialidad: ésta es la parte deliberativa.
+
+[[PDF p. 13]]
+Sección Varia
+
+                               sino que imposibilitaba el logro de dicha imparcialidad. De hecho, para Rousseau, la
+                               deliberación pública amenazaba con dividir la sociedad en facciones. Para él, la de­
+                               liberación actuaba contra la unidad social y provocaba que los ciudadanos pensaran
+                               más en sus propios intereses y menos sobre lo que tenían en común con los demás.
+                               Con otras palabras y desde este punto de vista: la deliberación parece debilitar el ideal
+                               mismo de crear una “voluntad general” (Manin, 1987).
+                                   Respecto a la aplicación o no de los derechos sociales, la pregunta sería ¿qué ocu­
+Perfiles Latinoamericanos 28
+
+
+
+
+                               rre si tomamos esta concepción deliberativa de la democracia como nuestro punto de
+                               partida? Puesto que la respuesta a esta pregunta depende de otra anterior y más amplia
+                               sobre la conexión entre democracia deliberativa y revisión judicial, en los próximos
+                               párrafos exploraré este asunto con más detalle.
+                                   Para empezar. La relación entre democracia deliberativa y revisión judicial no pa­
+                               rece fácil. Como sostenía Dennis Thompson:
+
+20                                    La democracia deliberativa no excluye la revisión judicial como un posible
+                                      arreglo institucional, pero insiste que frecuentemente habrá desacuerdo acer­
+                                      ca de cuáles libertades deben ser inviolables, y considera que incluso cuando
+                                      existe acuerdo habrá una razonable disputa acerca de su interpretación y acerca
+                                      de cómo deben ser consideradas en relación a otras libertades. Las libertades
+                                      son sujetas a revisión como resultado de nuevas observaciones filosóficas o de
+                                      evidencia empírica y, más importante aún, de retos que surgen en las delibera­
+                                      ciones democráticas reales.
+
+                                   Ahora bien, y a pesar de lo dicho, creo que existen razones que permitirían que
+                               quienes defienden una concepción deliberativa de la democracia, favorecieran cierta
+                               forma de revisión judicial de las leyes, particularmente en lo que compete a la aplica­
+                               ción de los derechos sociales.
+                                   Si partimos del hecho de que todos somos falibles, tenemos una primera razón
+                               para promover, en principio, los mecanismos que ayuden a corregir nuestras deci­
+                               siones; éstas siempre estarán abiertas a incluir errores fácticos y lógicos, del mismo
+                               modo que son vulnerables a la falta de información y a los prejuicios. Además, como
+                               todos sabemos, el sistema político sufre de numerosos problemas que facilitan, con
+                               frecuencia, la aprobación de decisiones parciales. Existe una vasta literatura, tanto
+                               teórica como empírica, que refiere y documenta la influencia excesiva de los intere­
+                               ses más poderosos sobre el proceso político. De acuerdo con ella, el sistema político
+                               tiende a sesgarse indebidamente o a resultar demasiado sensible a la presión de ciertos
+                               grupos, lo cual afecta tanto su carácter mayoritario, como su ambición de promover
+                               la imparcialidad.
+
+[[PDF p. 14]]
+     Tales dificultades deberían conseguir que los demócratas deliberativos se opusieran
+
+
+
+
+                                                                                                                              ¿Democracia deliberativa y judicialización de los
+a decisiones que: i) terminan debilitando la deliberación presente o futura (decisiones
+restrictivas de la deliberación); ii) son producto de un sistema deliberativo disfuncional
+(decisiones que resultan de un procedimiento viciado); o iii) son el resultado circuns­
+tancial de un proceso de toma de decisiones que no consideró ciertos argumentos rele­
+vantes, o que tampoco aseguró la justificación pública de sus conclusiones (decisiones
+basadas en una deliberación imperfecta).10 Esto demuestra que es necesario organizar
+el sistema institucional para que —como alega Cass Sunstein— “favorezca una de­
+liberación no distorsionada por el poder privado” (Sunstein, 1985: 68; Habermas,
+
+
+
+
+                                                                                                                              derechos sociales?
+1996: 274–286). En resumen, un sistema deliberativo bien organizado requeriría la
+existencia de mecanismos institucionales destinados a mantener y aumentar su carác­
+ter deliberativo.
+     Luego de tomar en cuenta estas consideraciones, podríamos decir que los jueces
+se encuentran, en términos institucionales, en una excelente posición para favorecer
+la deliberación democrática. En efecto, el poder judicial es la institución que recibe                                           21
+querellas de los que son, o sienten que han sido, tratados indebidamente en el proceso
+político de toma de decisiones. A sus miembros se les exige, como algo cotidiano, que
+observen el sistema político, con atención especial en sus debilidades, fracasos y rup­
+turas. Más aún, los jueces institucionalmente están obligados a escuchar las diferentes
+partes del conflicto —y no sólo a la parte que reclama haber sido mal tratada.
+     Entonces, los jueces no sólo se encuentran bien situados para enriquecer el proceso
+deliberativo y ayudarlo a corregir algunas de sus indebidas parcialidades, poseen, ade­
+más, diversas herramientas que facilitan esa tarea. Como consecuencia de su posición
+institucional y de los medios con los que cuentan, los jueces tienen grandes probabili­
+dades de favorecer el buen funcionamiento del proceso deliberativo. Al mismo tiempo,
+tienen amplias posibilidades de actuar de manera respetuosa hacia a la autoridad popu­
+lar: ellos poseen suficientes técnicas y medios procedimentales a su alcance para actuar
+
+10   Tomando en cuenta la perspectiva de Carlos Nino sobre la democracia deliberativa, la custodia de este sistema
+     requeriría examinar “la amplitud de la participación en la discusión de aquellos afectados por la decisión final;
+     la libertad de los participantes de expresarse en la deliberación; la igualdad de condiciones bajo las cuales se efec­
+     túa la participación; la satisfacción del requisito de que las propuestas sean adecuadamente justificadas; el grado
+     en que el debate es uno de principios y no uno basado en la mera defensa de intereses; la ausencia de mayorías
+     congeladas ; la medida en que la mayoría apoya las decisiones; la distancia en el tiempo desde que se alcanzó
+     el consenso; y la reversibilidad de la decisión”. Y, agrega: “las reglas del proceso democrático intentan asegurar
+     que estas condiciones sean cumplidas en el máximo grado posible para convertir los resultados de dicho proceso
+     en guías confiables hacia el reconocimiento de principios morales: (Nino, 1996: 199). Siguiendo esta visión
+     epistémica de Nino, sostendría que los jueces en una democracia deliberativa deberían prevenir la aprobación
+     de decisiones que interfieren con la moralidad personal e individual, dada la carencia de poder epistémico de la
+     democracia al respecto. Sin embargo, no examinaré este asunto en esta etapa de mi argumento.
+
+[[PDF p. 15]]
+Sección Varia
+
+                               en consecuencia. Pueden bloquear la aplicación de una cierta norma y devolverla al
+                               Congreso, forzándolo a repensarla; pueden declarar que algún derecho fue violado, sin
+                               imponer a los legisladores una solución concreta; pueden establecer que una violación
+                               de derechos debe corregirse en un tiempo límite, sin ocupar el lugar del legislador ni
+                               decidir cuál remedio particular debería ser aprobado; pueden sugerir al legislador una
+                               serie de soluciones alternativas, dejando la decisión final en manos del último.
+Perfiles Latinoamericanos 28
+
+
+
+
+                               Revisión judicial, democracia deliberativa y derechos sociales:
+                               tres ejemplos
+
+                               En principio, las consideraciones anteriores parecen perfectamente aplicables al área de
+                               derechos sociales. La revisión judicial puede ser un instrumento crucial para enrique­
+                               cer la deliberación pública respecto a los derechos sociales. Pero también, el activismo
+22                             judicial en el área de derechos sociales puede ser en especial relevante, dada la íntima
+                               relación que existe entre derechos sociales y participación política.11 Como sostiene
+                               Carlos Nino, una adecuada situación social y económica de los individuos, al igual que
+                               un adecuado nivel de educación, constituyen precondiciones necesarias de una partici­
+                               pación libre e igualitaria en el proceso político (Nino, 1996: 201).12 Expuesto de ma­
+                               nera breve, podríamos afirmar que la ausencia de políticas públicas destinadas a poner
+                               en práctica los derechos sociales dificulta el involucramiento político de las personas
+                               con más desventajas, y por tanto mina el valor total del proceso democrático.13
+                                   Al mismo tiempo, no existe una buena razón para pensar que la intervención judicial
+                               en esta área necesariamente esté en conflicto con la democracia (deliberativa). Al con­
+                               trario, también en este ámbito los jueces pueden decidir de manera muy respetuosa
+                               hacia la autoridad superior del pueblo y de sus representantes. En su libro sobre los
+                               derechos sociales, Cecile Fabre cita algunas posibilidades al respecto. Desde su punto
+
+
+                               11   Ver al respecto, por ejemplo, a Cohen (1989). Más generalmente, ver la discusión de John Rawls sobre el valor
+                                    equitativo de las libertades políticas. Le agradezco a Pablo Gilabert sus comentarios sobre este tema.
+                               12   Este punto de vista ha sido reconocido incluso por la Suprema Corte de los Estados Unidos en algunos de sus
+                                    casos históricos. Así, por ejemplo, cuando sostuvo que “la educación es un requisito para el cumplimiento de
+                                    nuestras responsabilidades públicas más básicas, incluso en el servicio militar. Es el cimiento mismo de la buena
+                                    ciudadanía”, Brown v. Board of Education 347 U.S. 483 (1954).
+                               13   “Algunos bienes son tan fundamentales para el buen funcionamiento del sistema democrático que si no se
+                                    proveyeran, el proceso democrático se deterioraría tanto que su valor epistémico desaparecería. Si alguien está
+                                    muriendo de hambre, o se encuentra gravemente enfermo y privado de atención médica, o carece de la posibi­
+                                    lidad de expresar sus ideas en los medios de comunicación, el sistema democrático resulta tan afectado como si
+                                    tal persona no tuviera derecho al voto” (Nino, 1996: 201–2).
+
+[[PDF p. 16]]
+de vista, los tribunales podrían, por ejemplo: i) “establecer que un derecho constitucio­
+
+
+
+
+                                                                                            ¿Democracia deliberativa y judicialización de los
+nal ha sido violado, sin demandar remedios específicos”; ii) “declarar que un derecho
+constitucional ha sido violado, y pedirle al Estado que provea el remedio; a) sin espe­
+cificar cómo y sin fijar un período límite; b) sin especificar cómo, pero demandando
+que se efectúe en un cierto tiempo”; iii) “establecer que un derecho constitucional ha
+sido violado, exigirle al gobierno la provisión de remedios, y especificar qué clase de
+remedios pueden usarse, cómo y cuándo” (Fabre, 2000: 148; Gloppen, 2006).
+     Cass Sunstein desarrolla una argumentación similar contra aquellos que creen que
+el “activismo” judicial en el área de los derechos sociales necesariamente implica “dejar
+
+
+
+
+                                                                                            derechos sociales?
+de lado el criterio democrático acerca de cómo establecer prioridades entre objetivos
+diferentes” (Sunstein, 2004: 228). Para este autor, reconocer la existencia de ciertos
+“compromisos” constitucionales respecto a los derechos sociales, y —añadiría, siguien­
+do su análisis— el hecho de que los jueces tomen ciertas medidas específicas para la
+aplicación de esos derechos, puede ayudar a “promover la deliberación democrática,
+antes que mermarla, al dirigir la atención pública a intereses que de otra manera serían       23
+ignorados en la vida política diaria”. La perspectiva de Sunstein surgió después de es­
+tudiar las decisiones de la Corte sudafricana post–apartheid, mismas que le indicaron
+que la Corte podía optar por un “tercer camino” entre dos alternativas indeseables e
+injustificables, marcadas por el activismo ciego a las consideraciones democráticas y
+la pasividad ciega a sus consecuencias (Sunstein, 2004: 227). Para acompañar sus re­
+flexiones, agrego algunos detalles sobre el ejemplo sudafricano acompañándolo de
+comentarios sobre los casos, igualmente notables, de la India y Colombia.
+     Sudáfrica. El ejemplo de la jurisprudencia sudafricana ha tenido efectos revolucio­
+narios, pues ha ayudado a que la comunidad legal mundial entienda que es posible
+apoyar al mismo tiempo un rol judicial activo en el área de derechos sociales y la pri­
+macía de las autoridades políticas. Dos de las decisiones más destacadas de la Suprema
+Corte en Sudáfrica, el caso Grootboom y el de las Campañas de Acción de Tratamiento,
+son muy ilustrativas. El primero remite a una querella presentada por 900 personas
+que vivían en condiciones de pobreza extrema en cabañas miserables y reclamaban por
+sus derechos de vivienda. Ante tal situación, la Corte sudafricana le exigió al Estado
+crear un programa destinado a cumplir sus obligaciones constitucionales, incluyendo
+medidas razonables diseñadas para “proveer alivio a personas que no tienen acceso a
+la tierra, carecen de techo sobre sus cabezas y viven en condiciones intolerables”.
+     El segundo caso se refiere al sida —uno de los problemas sociales más dramáticos
+que sufre el país— y versa sobre la decisión del gobierno de prohibir la distribución
+de una droga antiviral (el nevirapine) excepto en circunstancias especiales (que in­
+cluían, por ejemplo, la creación de centros especiales de investigación). Aquí la Corte
+afirmó que el gobierno tiene la obligación de “diseñar y poner en práctica, teniendo
+
+[[PDF p. 17]]
+Sección Varia
+
+                               en cuenta los recursos a su disposición, un programa comprehensivo y coordinado
+                               para implementar progresivamente el derecho de mujeres embarazadas a tener acceso
+                               a servicios de salud para combatir la transmisión de madre a hijo del vih”.
+                                   En estos casos, las decisiones de la Corte fueron particularmente notables porque
+                               demostraron cómo, en la práctica real, era posible que los jueces contribuyeran a la
+                               discusión sobre asuntos públicos fundamentales, sin minar la democracia. La contri­
+                               bución de la Corte consistió no solo en abordar asuntos que las autoridades políticas
+Perfiles Latinoamericanos 28
+
+
+
+
+                               no atendían (o lo hacían de manera incorrecta, por ejemplo discriminando a ciertos
+                               grupos), sino también en cómo lograrlo con respeto a la autoridad superior del pueblo
+                               y sus representantes. Como se observa, no fue necesario que la Corte impusiera sus
+                               opiniones a las autoridades políticas, definiendo, por ejemplo, cuales remedios debían
+                               ser aprobados. Sin embargo, es indudable que estas decisiones llegaron a promover
+                               una discusión que, hasta ese momento, no existía o se malograba, y así obligaron a
+                               que los políticos asumieran responsabilidades que habían rehusado. La Corte realizó
+24                             con ello un valioso esfuerzo dirigido a la “inclusión” social de personas que hasta en­
+                               tonces se habían marginado de la conversación pública.
+                                   India. El ejemplo de la India es tan interesante como el sudafricano, aunque por
+                               razones diferentes. Él destaca por la franqueza y el radicalismo de las decisiones de las
+                               Cortes en términos de los derechos sociales.14 Ciertamente, desde la perspectiva de
+                               la democracia deliberativa no es obvio que todas sus decisiones (durante su período
+                               más “activo”) fueran igualmente defendibles, algunas de ellas, podríamos pensar, ex­
+                               cedían las virtudes dialógicas que los demócratas deliberativos alaban, y representan
+                               más bien la imposición de las perspectivas (en este caso progresistas) de la Corte sobre
+                               las autoridades políticas. Sin embargo, podríamos decir que, en términos generales,
+                               la actividad de la Corte puede defenderse en su aspecto deliberativo en por lo menos
+                               dos puntos. Primero, la jurisprudencia india aún representa un caso notable de anti­
+                               formalismo, que resulta especialmente sano en el área de los derechos sociales, donde
+                               todavía existen barreras brutales que impiden a los más débiles presentar sus opiniones
+                               ante el público. El mayor ejemplo, en este sentido, es la llamada “jurisdicción epis­
+                               tolar”, creada por la misma Corte, y según la cual una simple carta —en vez de una
+                               petición formal— escrita a favor de un grupo desprotegido constituye una condición
+                               suficiente para activar un procedimiento ante la Suprema Corte.
+                                   Más aún, la Corte decidió que las reglas de legitimación desarrolladas junto con
+                               la jurisdicción epistolar no eran suficientes para los propósitos que se habían fijado.
+
+
+                               14   De acuerdo al Juez Bhagwatti, “los portales de la Corte se abren a los pobres, a los ignorantes y a los analfabetos,
+                                    y sus casos han comenzado a llegar a la Corte por medio del litigio de interés público” (Bhagwati, 1985: 572).
+
+[[PDF p. 18]]
+La Corte consideró que también era muy importante crear nuevos instrumentos para
+
+
+
+
+                                                                                                                     ¿Democracia deliberativa y judicialización de los
+recabar la información requerida para decidir sobre un caso. Para el tribunal, “no era
+realista esperar que los demandantes con menos ventajas, o los activistas que trabajaban
+con ellos, proporcionaran la evidencia necesaria para que el tribunal decida” (Hunt,
+1996: 165–6). Por esa razón decidió crear “comisiones socio–legales de información”
+destinadas a asumir la función de “comisarios de la Corte”.15
+     Una segunda característica innovadora de la Corte en la India (ya evidente en el
+comentario anterior) fue la manera en que desafió, explícitamente, los supuestos tra­
+dicionales vinculados con la separación de poderes. De acuerdo con las nociones más
+
+
+
+
+                                                                                                                     derechos sociales?
+comunes al respecto, se espera que la Corte asuma una actitud reverencial ante las de­
+cisiones de las ramas políticas, excepto cuando ocurren graves violaciones de la ley.
+     Contra ese punto de vista, la Corte india tuvo un papel más “agresivo”, e inten­
+tó colaborar activamente con las ramas políticas en la creación de decisiones más
+imparciales. Por ejemplo, en el caso de Azad Rickshaw Pullers Union contra Punja16
+la Corte decidió no anular una polémica ley, sino colaborar con el Congreso en su                                       25
+nueva redacción, a fin de crear una norma más adecuadamente inclusiva. Según la
+opinión de la Corte, ella y los abogados acordaron sobre este enfoque constructi­
+vo y se esforzaron, luego de varias marchas y contramarchas, en modelar un nuevo
+proyecto legal.
+     Para Scott y Macklem, que analizaron estos casos en un detallado estudio so­
+bre la cuestión, “la experiencia de la India indica que puede ser apropiado permi­
+tir que el poder judicial lleve adelante ciertas medidas destinadas a estimular a las
+otras ramas de gobierno a emprender debates y producir respuestas concretas que
+a largo plazo resultan políticamente más legítimas y efectivas” (Scott & Macklem,
+1992: 130).
+     Colombia. Para finalizar, quisiera agregar algunos comentarios sobre el caso de la
+Corte colombiana —Tribunal que representa, probablemente, la expresión más so­
+fisticada de una Corte comprometida tanto con la aplicación de los derechos sociales
+como con la democracia deliberativa. La Corte colombiana ha tenido que decidir en
+numerosos casos relativos a los derechos sociales, y lo ha hecho respetando con mucho
+la deliberación democrática. La Corte ha aceptado numerosas quejas populares (tu­
+telas) dirigidas a la aplicación de los derechos sociales y económicos (Cepeda, 2004:
+
+
+15   Por ejemplo, en Bandhua Mukti Morcha v. Union of India (2 s.c.r. 67, 1984) la Corte creó una comisión de
+     investigación compuesta por miembros de la sociedad civil, con el propósito de asistirla en la implementación
+     de las medidas que ordenaba. En Sheela Barse v. Union of India (3 s.c.r. 443, 1986), ella organizó también un
+     comité para asegurar el cumplimiento de sus decisiones (ver Scott y Macklem, 1992).
+16   1 s.c.r. 366 (1981).
+
+[[PDF p. 19]]
+Sección Varia
+
+                               618). Lo interesante sobre la Corte colombiana es el cuidado extremo que ha puesto
+                               en sus fallos, para tornar compatible su “activismo” con el respeto a la democracia
+                               deliberativa.
+                                    La Corte demostró su valor y compromiso con la democracia deliberativa en diver­
+                               sas decisiones mediante las cuales anuló leyes aprobadas sin debate público, o que no
+                               habían sido el producto de un proceso razonable de deliberación pública. Un ejemplo
+                               extraordinario es su decisión, en el 2004, de anular el llamado estatuto anti–terrorista,
+Perfiles Latinoamericanos 28
+
+
+
+
+                               que representaba una parte importante de la agenda política del poder ejecutivo. La
+                               Corte tomó esa decisión cuando comprendió que más de una docena de legisladores
+                               que habían votado por el polémico estatuto habían cambiado de opinión de un día
+                               para otro, sin dar ninguna explicación pública sobre dicha actitud.
+                                    El compromiso de la Corte colombiana con la democracia deliberativa se torna
+                               evidente en su extensa jurisprudencia sobre derechos sociales, particularmente en la
+                               nueva y compleja doctrina desarrollada por la Corte, que se conoce como “la modu­
+26                             lación de los efectos de las decisiones”. De acuerdo con el juez Cepeda, el propósi­
+                               to general de estos juicios constitucionales moduladores surge como una “forma de
+                               armonizar la necesidad de preservar la Constitución con el alto respeto de la Corte
+                               hacia las decisiones de la legislatura. Es por medio de esas decisiones “moduladoras”
+                               que la Corte intenta mantener la validez constitucional de las leyes, en la medida en
+                               que ello sea posible” (Cepeda, 2004: 566). Las decisiones moduladoras pueden ser de
+                               diferente tipo: “interpretativas”, “expresamente integrativas” y “materialmente expan­
+                               sivas”. También pueden estar relacionadas con el momento en el que las decisiones
+                               del tribunal tienen efecto.
+                                    En algunos casos la Corte pospuso el efecto de sus decisiones, bajo el supuesto
+                               de que su aplicación inmediata podría poner en peligro otros valores constituciona­
+                               les fundamentales. Por ejemplo, en su famosa decision T–153 (1998), referente a
+                               los graves abusos cometidos por el personal público dentro de las prisiones, la Corte
+                               reconoció la validez de las quejas de los prisioneros, pero estableció que el gobierno
+                               tendría cuatro años para corregir la situación.
+                                    De igual modo, también la Corte reconoció que el Congreso, y no el poder ju­
+                               dicial, era la instancia responsable para decidir la manera en la que se pondría fin a
+                               esos fuertes abusos. La Corte sugirió una estrategia similar en otra difícil decisión, la
+                               T–025 (2004), relativa al asunto de los desplazados, o sea a las poblaciones expulsadas
+                               de su lugar de residencia debido a la violencia política. La Corte consideró que la po­
+                               lítica del gobierno para los desplazados era inconstitucional en razón de su profunda
+                               insuficiencia e ineficacia, pero, aun así, no intentó imponer una ruta alternativa a la
+                               de las autoridades públicas. En contraste, la Corte afirmó que haría un seguimiento
+                               cercano al tema para asegurarse que estas decisiones estuvieran de acuerdo con la Cos­
+
+[[PDF p. 20]]
+titución y fueran capaces, al mismo tiempo, de solucionar la situación desesperada
+
+
+
+
+                                                                                                                         ¿Democracia deliberativa y judicialización de los
+de los desplazados.17 En todos estos casos la Corte se mostró capaz de intervenir de
+manera sumamente respetuosa hacia la autoridad de los legisladores.
+    Estos ejemplos ilustran algunas de las diversas formas en las que los tribunales pue­
+den actuar para asumir una actitud fuerte y agresiva en lo concerniente a los derechos
+sociales y, al mismo tiempo, respetar su compromiso con la democracia deliberativa.
+
+
+Revisión judicial, supremacía judicial y motivación judicial
+
+
+
+
+                                                                                                                         derechos sociales?
+Las secciones previas proporcionan ciertas bases a la tesis que afirma que los demó­
+cratas deliberativos deben defender la revisión judicial, incluso (y particularmente)
+en el área de los derechos sociales. Como contraste, en las siguientes páginas quisiera
+agregar algunas notas críticas que ponen en duda la afirmación anterior, sin negar su
+fuerza e importancia.                                                                                                       27
+    Para empezar, haré una distinción entre los conceptos de revisión judicial y su-
+premacía judicial. La revisión judicial es la actividad por la cual los jueces revisan la
+validez de las normas legales y administrativas. La supremacía judicial tiene que ver
+con “la noción de que los jueces tienen que tener la última palabra cuando se trata de
+la interpretación constitucional, y que sus decisiones determinan el significado de la
+Constitución para todos” (Kramer, 2001: 6).
+    No obstante el gran apoyo que goza la supremacía judicial dentro de los círculos
+legales, es este rasgo —que generalmente aparece junto a la práctica de la revisión judi­
+cial— el que genera mayor tensión entre los defensores de esta práctica y los que apo­
+yan la democracia deliberativa o alguna otra versión mayoritaria de la democracia.
+    Aquellos que valoran la democracia, entre otras razones, por sus componentes ma­
+yoritarios (como lo hacen los demócratas deliberativos), tienen motivos para criticar
+la supremacía judicial en nombre de la idea de igualdad que subyace a la del respeto a
+la voluntad democrática.18 La supremacía judicial violaría la idea del respeto igualita­
+
+
+17   En contraste, la decisión de la Corte en el famoso caso upac (unidad de poder adquisitivo constante), que
+     involucró tres decisiones relacionadas con el financiamiento de vivienda pública se ha vuelto ineficiente a causa
+     de los inesperados cambios en la situación económica del país. La Corte sostuvo que la política del gobierno se
+     había convertido en inconstitucional, lo cual era obvio para una mayoría de juristas, pero también le impuso al
+     gobierno un plan alternativo de financiamiento, dificultando así a los legisladores diseñar su propia agenda.
+18   Citando la opinión de Joel Feinberg sobre la participación y el respeto a los individuos, dice Waldron: “Tal
+     vez (el apoyo a) el derecho a participar tiene que ver menos con un prospecto mínimo de impacto decisivo y
+     más con evitar el insulto, el deshonor o la denigración que aparecen cuando las opiniones de una persona son
+     menospreciadas en relación a las de otras, en un asunto que afecta a todos” (Waldron, 1999: 238).
+
+[[PDF p. 21]]
+Sección Varia
+
+                               rio porque permitiría a una minoría de jueces imponer sus propias opiniones al resto
+                               de la población. Esa posibilidad es todavía más preocupante cuando comprendemos,
+                               con Waldron, que los jueces también toman decisiones por medio de procedimien­
+                               tos mayoritarios como consecuencia de las disidencias dentro de la Corte, que suelen
+                               reflejar, de algún modo, los desacuerdos existentes fuera de los tribunales.
+                                   Los demócratas deliberativos tienen argumentos que fortalecen esta crítica ini­
+                               cial. Por ejemplo, los demócratas deliberativos que creen en las virtudes epistémicas
+Perfiles Latinoamericanos 28
+
+
+
+
+                               de la discusión pública (Nino, 1991) podrían decir que la supremacía judicial no es
+                               aceptable por basarse, implícitamente, en las virtudes intelectuales de unos pocos, en
+                               lugar de apoyarse en las capacidades epistémicas de todos los ciudadanos.
+                                   Los que defienden la democracia deliberativa podrían decir, además, que la supre­
+                               macía judicial es errónea porque contradice otro requisito fundamental de la teoría: las
+                               cuestiones públicas básicas deben sujetarse al debate abierto y constante. En la práctica,
+                               y contra lo que este principio propone, las decisiones judiciales tienden a convertirse
+28                             en las “finales”. Esto parece cierto a pesar de que no es teóricamente imposible que
+                               las otras ramas políticas insistan en sus propios criterios. Esto se debe a que las Cortes
+                               siempre podrán insistir en sus propias opiniones e imponerlas a los demás actores.19
+                               La imagen de un diálogo parece inadecuada cuando los jueces tienen la oportunidad
+                               de insistir con éxito en favor de sus propias decisiones, sin importar que el Congreso
+                               sostenga una solución opuesta. La idea del diálogo, finalmente, viene a exigir algo di­
+                               ferente a lo que de común se encuentra en la práctica. En efecto, la idea de “diálogo”
+                               remite a un igualitarismo que aquí parece estar ausente. En un diálogo “normal” las
+                               dos partes tienen igual oportunidad de prevalecer, mientras ambas presenten buenos
+                               argumentos. En la práctica institucional que conocemos, el diálogo aparece desbalan­
+                               ceado hacia el lado incorrecto: en la vida diaria, no es la gente sino el poder judicial
+                               —la rama menos democrática del gobierno— la más alta autoridad constitucional.
+                                   El segundo comentario crítico proviene de una reflexión acerca de las motivaciones
+                               judiciales, un asunto que ha sido altamente desatendido en la literatura académica.
+                               En realidad, los académicos parecen quedar satisfechos con su papel de intelectuales
+                               públicos o de reformadores sociales luego de definir un modelo ideal sobre cómo de­
+                               bería ser el comportamiento judicial. Muchos parecen decir: “si los jueces hicieran x,
+                               entonces nadie podría objetar sobre sus acciones, porque su tarea resultaría totalmen­
+                               te justificada”. Por supuesto, es muy importante que pensemos en ideales regulativos
+                               para organizar la práctica judicial. Sin embargo, no podemos contentarnos exclusi­
+                               vamente con enunciarlo, si nuestra preocupación es la de convertir al ideal en guía
+
+
+                               19   Al respecto, véase a Dworkin (1977).
+
+[[PDF p. 22]]
+de la práctica. Nuestra formulación resulta incompleta si no mostramos que existen
+
+
+
+
+                                                                                                                          ¿Democracia deliberativa y judicialización de los
+razones para pensar que los jueces pueden actuar de acuerdo con ese ideal.
+     Permítanme explicarlo con algunos ejemplos: algunos autores piensan que la ac­
+tividad judicial resultaría del todo justificable si los jueces concentraran sus esfuerzos
+en salvaguardar el proceso político (Ely, 1981);20 o si los jueces se convirtieran en “la
+voz de la minoría sin poder” (Fiss, 1976);21 o si actuaran de modo “minimalista,” esto
+es, aprendieran a “dejar ciertas cuestiones indecisas, evitaran las generalizaciones abs­
+tractas, razonaran por analogía y no por principios generales amplios, y decidieran con
+cuidado, paso a paso, tomando un caso a la vez” (Sunstein, 1999). Probable­mente, si
+
+
+
+
+                                                                                                                          derechos sociales?
+los jueces se comportaran de acuerdo a tales propuestas, sus decisiones resultarían menos
+objetables —si no directamente inobjetables— desde la perspectiva de la democracia
+deliberativa. Por lo demás, y en defensa de tales propuestas, debemos aceptar que, por
+lo menos en principio, el marco institucional existente no impide que se logren resul­
+tados deseables como los sugeridos: los jueces podrían ponerse a trabajar a favor de las
+minorías con menos ventajas y marginadas, o podrían comenzar a actuar de manera mi­                                          29
+nimalista. El problema, sin embargo, es que no tenemos suficientes motivos para creer
+que los jueces vayan a inclinarse, colectivamente, a actuar de la forma recomendada. En
+otras palabras, modalidades de acción judicial como las propuestas resultan concebibles
+en la práctica aunque, al mismo tiempo, es poco factible que las encontremos en algún
+futuro imaginable. Esto es así, entre otras razones, por la falta de incentivos institucio­
+nales, que lleven a los jueces a comportarse de la manera propuesta —y más allá de que
+pudiera darse que un juez individual o un tribunal decida seguir, en un caso o en una
+serie de casos, ese tipo de recomendaciones teóricas. Pero, en términos generales, ¿por
+qué esperar que los jueces renuncien a sus enormes poderes, y lo hagan de la manera y
+en las ocasiones recomendadas por algunos académicos?, ¿podríamos seriamente tener
+la esperanza de que esto ocurra? Por esta razón, los demócratas deliberativos tienen mo­
+tivos para mantenerse escépticos acerca de la revisión judicial.
+
+
+20   Según John Ely, el proceso político se encuentra viciado cuando: los que gobiernan bloquean los canales del
+     cambio político para asegurar su permanencia en el poder; y cuando, aunque nadie le niegue a ningún otro su
+     voz o voto, quienes están en el poder actúan sistemáticamente en contra de alguna minoría, por simple hostilidad
+     o prejuicio, rehusándose a reconocer los intereses comunes, y por tanto negando a la minoría la protección de
+     la que gozan otros grupos en el sistema representativo (Ely, 1981: 108).
+21   De esta manera, Fiss afirma en “Groups and the Equal Protection” que cuando el producto de un proceso político es
+     “una ley que causa daño [a minorías con menos ventajas], la objeción contra–mayoritaria a la invalidación judicial
+     —la objeción que niega a los “nueve hombres [de la Corte]” el derecho de sustituir la opinión del “pueblo”por
+     la suya propia— tiene poca fuerza. El sistema judicial podría ser visto, en tal sentido, como el amplificador de
+     la voz de la minoría sin poder, como el intento de rectificar la injusticia del proceso político como método de
+     ajuste de querellas competitivas” (Fiss, 1976: 153).
+
+[[PDF p. 23]]
+Sección Varia
+
+                                   En conclusión, sería importante distinguir entre dos asuntos: i) el hecho de
+                               que quienes defienden la democracia deliberativa tienen motivos para dudar de la
+                               revisión judicial, en general; y ii) el hecho de que ciertas decisiones judiciales espe­
+                               cíficas pueden estar más o menos alineadas con las metas de dichos defensores de
+                               la democracia deliberativa. Indudablemente, para apoyar la revisión judicial, ellos
+                               necesitarían garantías de las que ahora carecen. Esta situación continuará, por cierto,
+                               en tanto se mantenga la supremacía judicial sin modificaciones; no se implementen
+Perfiles Latinoamericanos 28
+
+
+
+
+                               reformas institucionales destinadas a motivar a los jueces a tomar decisiones más
+                               compatibles con los fines de la democracia deliberativa; y el sistema institucional
+                               no se reorganice de modo tal que favorezca el establecimiento de un diálogo genui­
+                               no y equitativo entre las diferentes ramas del poder, tanto entre ellas como con la
+                               población.
+                                   De todos modos, ninguna de las dudas mencionadas debería impedir que los que
+                               defienden la democracia deliberativa evalúen de modo distinto a decisiones judiciales
+30                             distintas, conforme con la proximidad o distancia de las mismas respecto del ideal
+                               institucional que ellos defienden. Las decisiones judiciales que se desarrollan en el área
+                               de los derechos sociales no son una excepción al respecto: algunas pueden considerar­
+                               se como favorables al ideal regulatorio de la democracia deliberativa (por ejemplo, el
+                               ayudar a integrar grupos indebidamente marginados del sistema político; o al obligar
+                               a las autoridades políticas a justificar sus decisiones de manera más apropiada), mien­
+                               tras que otras pueden verse como orientadas en la dirección opuesta (por ejemplo,
+                               el suponer que la Constitución es compatible con un sólo modelo económico). Y es
+                               relevante reconocer esta distinción, al menos, para dejar atrás un dogmatismo que a
+                               veces parece afectar a nuestra comunidad legal: el que sostiene que la “Democracia”,
+                               con mayúscula, exige sistemáticamente a los jueces no poner en práctica los derechos
+                               sociales y económicos.
+
+
+                               Bibliografía
+
+                               Bhagwati, P., 1985, “Judicial Activism and Public Interest Litigation”, en Columbia Journal
+                                  of Transnational Law, 561.
+
+                               Bohman, J., 1996, Public Deliberation: Pluralism, Complexity, and Democracy, Cambridge,
+                                  M. A., MIT Press.
+
+                               Bork, R.H., 1997, The Tempting of America, New York, Free Press.
+
+[[PDF p. 24]]
+Cepeda, M., 2004, “Judicial Activism in a Violent Context”, en Washington University Global
+
+
+
+
+                                                                                                 ¿Democracia deliberativa y judicialización de los
+   Studies Law Review, vol. 3, Special issue, pp. 529–700.
+
+Cohen, J., 1989, “The Economic Basis of a Deliberative Democracy”, en Social Philosophy
+   and Policy, vol. 6(2), pp. 25–50.
+
+Easterbrook, F.H., 1992, “Abstraction and Authority”, en University of Chicago Law Review,
+    vol. 59, pp. 349–380.
+
+
+
+
+                                                                                                 derechos sociales?
+Elster, J. (ed.), 1998, Deliberative Democracy, Cambridge, Cambridge University Press.
+
+Ely, J., 1980, Democracy and Distrust, Cambridge, M A., Harvard University Press.
+
+Fabre, C., 2000, Social Rights under the Constitution. Government and the Decent life, Oxford,
+    Oxford University Press.                                                                        31
+
+Fiss, O.,1976, “Groups and the Equal Protection Clause”, en Philosophy and Public Affairs,
+     vol. 5, pp. 107–177.
+
+Gloppen, S., 2006, “Analyzing the Role of Courts in Social Transformation”, en R. Gar­
+   garella, et al. (eds.), Courts and Social Transformation in New Democracies, forthcoming,
+   Ashgate, London.
+
+Habermas, J., 1996, Between Facts and Norms, Cambridge, The mit Press.
+
+Held, D., 1997, Models of Democracy, Stanford, Stanford University Press.
+
+Hunt, P., 1996, Reclaiming Social Rights, Sidney, Darmouth.
+
+Koh, H., 1999, Deliberative Democracy and Human Rights, Conn, Yale University Press.
+
+Kramer, L., 2001, “Foreword: We the Court”, en The Supreme Court, 2000 Term, vol. 115,
+   núm. 1.
+
+Manin, B.,1987, “On Legitimacy and Political Deliberation”, en Political Theory, vol. 15(3),
+   pp. 338–368.
+
+[[PDF p. 25]]
+Sección Varia
+
+                               Michelman, F.,1987, “Possession vs. Distribution in the Constitutional Idea of Property”, en
+                                  Iowa Law Review, vol. 72, pp. 1319–1350.
+
+                               Nino, C.,1996, The Constitution of Deliberative Democracy, New Haven, Yale University
+                                  Press.
+
+                               –––––, 1991, The Ethics of Human Rights, Oxford, Oxford University Press.
+Perfiles Latinoamericanos 28
+
+
+
+
+                               Sandel, M.,1996, Democracy’s Discontent. America in Search of a Public Philosophy, Cam­
+                                   bridge, M. A., Harvard University Press.
+
+                               Scott, C. y P. Macklem, 1992, “Constitutional Ropes of Sand or Justiciable Guarantees?
+                                   Social Rights in a New South African Constitution”, en University of Pennsylvania Law
+                                   Review 141, 1–148.
+32
+                               Sunstein, C.,2004, The Second Bill of Rights, New York, Basic Books.
+
+                               –––––, 1985, “Interest Groups in American Public Law”, en Stanford Law Review 38, 29–87.
+
+                               Thompson, D., 1999, “Democratic Theory and Global Society”, en Journal of Political Philoso-
+                                  phy, 09638016, junio, vol. 7, núm. 2.
+
+                               Waldron, J., 1999, Law and Disagreement, Oxford, Oxford University Press.
+
+                               –––––, “A Right–Based Critique of Constitutional Rights”, en Oxford Journal of Legal Stud-
+                                  ies, vol. 13, núm. 1.
+                               Walzer, M.,1981, “Philosophy and Democracy”, en Political Theory, vol. 9, pp. 379–399.
+
+                                                                                           Recibido en octubre de 2005
+                                                                                             Aceptado en abril de 2006

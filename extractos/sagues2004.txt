@@ -1,0 +1,833 @@
+# fuente: Unidad5/1_Sagüés - 2004 - Interpretación constitucional y alquimia constituc.pdf
+# md5_original: 4323eda0f551324ee5c814a522a9e41f
+# modo: texto
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                    Interpretación constitucional
+                                    y alquimia constitucional.
+                                    (El arsenal argumentativo de
+                                    los Tribunales Supremos)
+                                                                                Néstor Pedro Sagüés
+
+
+
+
+          SUMARIO: 1. Introducción. ¿Cómo interpretan la Constitución los tribunales supre-
+          mos de la magistratura constitucional? 2. Confrontación liminar: interpretación de la
+          Constitución e interpretación de las leyes. Coincidencias, variables de intensidad y
+          discrepancias. 3. Punto de partida: la Constitución admite varias interpretaciones. 4.
+          Predominio de la interpretación literal. Tesis de la “primera fuente imprescindible”. 5.
+          Preferencia por la interpretación literal “popular” o la “especializada”. 6. Válvulas de
+          escape de la interpretación literal. 7. Primacía de la voluntad del legislador (o “espíritu
+          de la ley”) sobre la interpretación literal y cualquier otra (tesis de la “mejor” interpre-
+          tación, o del “fin primordial” del intérprete). 8. El mito del legislador (en particular,
+          del constituyente) perfecto. 9. Discurso conciliatorio entre la interpretación literal y la
+          voluntarista. 10. El despegue de la intención del autor de la norma. 11. Tentativas de
+          conciliación entre una interpretación historicista y una dinámica. Simbiosis entre el
+          pasado y el presente. 12. Primacía de la interpretación teleológica. 13. Doctrina de la
+          interpretación armonizante entre la norma infraconstitucional y la Constitución. 14.
+          El recurso al intérprete externo. Avances y repliegues. 15. Reglas de corrección. 16.
+                    Evaluación. consecuencias y explicaciones. 17. Balance axiológico.
+
+
+
+                  1. INTRODUCCIÓN. ¿CÓMO INTERPRETAN
+               LA CONSTITUCIÓN LOS TRIBUNALES SUPREMOS
+                 DE LA MAGISTRATURA CONSTITUCIONAL?
+
+El presente trabajo tiene por objeto acreditar que una Corte Suprema de Justicia, o
+en su caso un Tribunal Constitucional, cuenta por lo común con un arsenal de pau-
+tas interpretativas, en particular en cuanto las llamadas reglas de preferencia,1 que re-
+
+     1 V. Sobre el tema WRÓBLEWSKY, Jerzi, Constitución y teoría general de la interpretación jurídica, trad.
+por Arantza Azurza, Madrid, 1985, Editorial Civitas, p. 51 y sigts.
+                                                       151
+
+[[PDF p. 2]]
+152 • Néstor Pedro Sagüés
+
+sultan a) contrapuestas y b) de vigencia muchas veces simultánea. Como consecuen-
+cia de esto, con relación a una norma constitucional concreta, según cuál herra-
+mienta sea empleada, el Tribunal está habilitado para arribar a productos y resulta-
+dos interpretativos distintos.
+     Se tomará como caso testigo a la Corte Suprema de Justicia argentina, órgano
+que habitualmente se denomina tribunal de garantías constitucionales y, desde 1864,
+intérprete final y supremo de la Constitución, por lo que su interpretación constitu-
+cional posee “autoridad definitiva”.2 Conviene advertir que la situación que pasará a
+describirse es a mero título ejemplificativo, que de hecho se repite en otras partes
+—aunque con distinta intensidad— y que demanda un estudio más exhaustivo.
+     Con posterioridad a fotografiar el escenario allí existente, se abordará en térmi-
+nos más generales, desprendidos ya del caso argentino, una evaluación crítica del
+asunto.
+     Resulta necesario aclarar al lector que la situación que se va a encarar no es
+producto de “una” Corte suprema argentina en especial (vale decir, la conformada
+con una integración real y concreta en un periodo histórico determinado),3 sino que
+es patrimonio de muchas de ellas, diseminadas a lo largo del tiempo, aunque en
+ciertos tramos, naturalmente, la Corte, con jueces diferentes, prefirió emplear más
+una batería de argumentos interpretativos que otros. La Corte, por cierto, no ha ac-
+tuado del mismo modo a todo lo largo de su gestión.
+     El listado de fallos de la Corte Suprema empleados en este artículo no agota la
+temática. Solamente se han seleccionado algunos pronunciamientos, en particular
+de los últimos años.
+
+        2. CONFRONTACIÓN LIMINAR: INTERPRETACIÓN
+    DE LA CONSTITUCIÓN E INTERPRETACIÓN DE LAS LEYES.
+  COINCIDENCIAS, VARIABLES DE INTENSIDAD Y DISCREPANCIAS
+     Conviene alertar que muchas de esas “reglas de preferencia” son explicadas por
+
+     2  Por ejemplo, CSJN, Fallos, 1:340, 311:2478, 323:555 (“González c. Ansés”), 316:2940,
+325:1227. En el sentido que la Corte se proclama “supremo custodio de garantías constitucionales”,
+cfr. “Pérez de Smith”, Fallos, 297:338)
+      3 En el lenguaje periodístico, por ejemplo, se habla de la “corte del proceso”, para referirse a la
+designada durante el último gobierno de facto; de la “corte de los cinco”, con relación a la que actuó
+desde fines de 1983 a fines de 1989; de la “corte de los nueve” (que tuvo a su vez diferentes integra-
+ciones) a la ampliada en aquel año, etc. Injustamente, con frecuencia se involucra a todos los magis-
+trados actuantes en esos períodos, en bloque, como partícipes de una misma orientación grupal, cuan-
+do por cierto deben formularse importantes distingos, que se reflejan en los votos individuales de
+cada uno de ellos.
+
+[[PDF p. 3]]
+                                        Interpretación constitucional y alquimia constitucional    • 153
+
+el Tribunal cuando habla de la interpretación de las leyes, y otras veces cuando de-
+talla la interpretación de la Constitución. En ciertos casos, las repite en uno y otro
+orden. Ocasionalmente se ha señalado que las pautas sobre interpretación de las le-
+yes valen también para la interpretación de la Constitución (por ejemplo, voto del
+magistrado Petracchi, en “Ortiz Almonacid”, (Corte Suprema de Justicia de la Na-
+ción, en adelante CSJN, Fallos 322:413, considerando 8° in fine).4
+      Pero otros fallos indican que interpretar a la constitución no es interpretar una
+ley ordinaria, dado que la primera sienta bases normativas generales que fijan el
+marco de posibilidades del legislador y están destinadas a gobernar la vida de las ge-
+neraciones futuras, mientras que un código, en cambio, aspira a preveer todas las
+contingencias posibles (CSJN, Fallos, 321:2767). En algunos pronunciamientos la
+Corte subraya que al interpretar la Constitución deben evitarse “distingos más me-
+nudos, surgidos de ramas del derecho ocupadas centralmente en asuntos infracons-
+titucionales, cuando pueden producir a una fragmentación de las cláusulas constitu-
+cionales que desnaturalice su contenido o imponga diferenciaciones innecesarias,
+cuando no perturbadoras, de su comprensión” (CSJN, Fallos, 314:595, “Nación
+Argentina c. Arenera El Libertador”, consid. 10). En otras decisiones la Corte ense-
+ña que una directriz interpretativa, como la necesidad de una exégesis evolutiva de
+las normas jurídicas, es más acentuada para el caso de una Constitución (CSJN,
+“KOT SRL”, Fallos, 241:291).
+
+                   3. PUNTO DE PARTIDA: LA CONSTITUCIÓN
+                       ADMITE VARIAS INTERPRETACIONES
+     Es del caso destacar que para la Corte Suprema argentina, la Constitución, con
+frecuencia, permite ser interpretada de distintos modos (CSJN, Fallos, 319:3241,
+“Chocobar”). Ello importa un significativo rechazo, para muchas situaciones, de la
+“interpretación única” de la Constitución, circunstancia que le permite de paso al
+Tribunal un buen margen de maniobra para optar por una entre varias rutas exegé-
+ticas, incluso cambiantes en el tiempo, conforme a la doctrina de la interpretación
+dinámica que de vez en cuando usa (cfr. infra,10).
+
+             4. PREDOMINIO DE LA INTERPRETACIÓN LITERAL.
+             TESIS DE LA “PRIMERA FUENTE IMPRESCINDIBLE”
+     Una directriz muy repetida de la Corte Suprema puntualiza que “cuando la letra
+
+     4  Cfr. SAGÜÉS, Néstor Pedro, La interpretación judicial de la Constitución (Buenos Aires, 1998), Edi-
+torial Depalma, p. 61 y sigts.
+
+[[PDF p. 4]]
+154 • Néstor Pedro Sagüés
+
+de la ley no exige esfuerzo de interpretación debe ser aplicada directamente”, con
+prescindencia de otras consideraciones (CSJN, Fallos, 324:1740, 3143 y 3345), tesis
+que parece repetir el adagio in claris non fit interpretatio. El Tribunal advierte que si no
+se procede así, se corre el riesgo de prescindir del texto legal sin declararlo inconsti-
+tucional (CSJN, Fallos, 323:3139). El punto de partida de esta postura es sostener
+que la primera fuente de exégesis de la ley es su letra (CSJN, Fallos, 316:1249).
+     Tal estándar se complementa con otro: la obligatoriedad (y no elusión) de la in-
+terpretación literal. En “Florencio Lara”, por ejemplo, se destaca que no es permiti-
+do para apartarse de la exégesis gramatical invocar “las palabras o conceptos verti-
+dos en el seno del Congreso con motivo de la discusión de la ley... puesto que ellas
+no son sino simples manifestaciones de opinión individual de las personas que las
+pronunciaron, y que no fueron establecidas o admitidas claramente en el texto de la
+ley que se discutía” (CSJN, Fallos, 77:327). En “Sade c. Avila” se volverá a leer que
+la letra es la “primera fuente” de interpretación, “de la que no cabe prescindir”
+(CSJN, Fallos, 314:1018; “Banco de Mendoza”, Fallos, 324:2780).
+
+          5. PREFERENCIA POR LA INTERPRETACIÓN LITERAL
+                “POPULAR” O POR LA “ESPECIALIZADA”
+     En este caso el intérprete máximo privilegia una de las variables dentro de exé-
+gesis preferentemente gramatical del derecho. Por ejemplo, cuando después de re-
+petir que cuando una norma es clara y no exige mayor esfuerzo interpretativo, no
+cabe sino su directa aplicación, agregan que es adecuado, en principio, dar a las pa-
+labras de la ley el significado que tienen en el lenguaje común, o bien el sentido
+más obvio al entendimiento también corriente. (CSJN, “Afip c. Povolo”, Fallos,
+324:3345, dictamen del Procurador General de la Nación, seguido por la Corte Su-
+prema, con mención también de CSJN, Fallos, 308:l745, 320:2145, 302:429 y
+320:2649). Deben desestimarse, por ende, las significaciones obscuras o abstractas
+de los vocablos (CSJN, Fallos, 315:2999).
+     Mas en otros fallos la misma Corte prefiere una versión no exactamente igual a
+la anterior, proponiendo una de tipo mas especializado. Por ejemplo, en “Mario
+Acosta” sostiene que ”los términos de la ley deben interpretarse de acuerdo con el
+sentido propio, de conformidad con la técnica legal empleada en el ordenamiento jurídico en el
+que dicha ley se inserta (CSJN, Fallos 320:2139, con cita de Fallos 295:376. El subraya-
+do es nuestro)
+
+     6. VÁLVULAS DE ESCAPE DE LA INTERPRETACIÓN LITERAL
+
+    Sin embargo, la tesis de la superioridad de la exégesis gramatical, a pesar de lo
+dicho, no es absoluta, y tiene -ella misma- válvulas de escape.
+
+[[PDF p. 5]]
+                                   Interpretación constitucional y alquimia constitucional   • 155
+
+    Algunas veces la excepción a la aplicación de la interpretación literal es admiti-
+da de modo muy excepcional. Así, en “Distribuidora de Gas”, se alerta que el pase
+de la interpretación literal a otro tipo de exégesis cabe “sólo” cuando la aplicación
+textual de la ley conduce a resultados “tan irrazonables que no sería justo atribuir-
+los a la intención del Congreso” (CSJN, Fallos, 323:3139, dictamen del Procurador
+General compartido por la Corte, con cita de Fallos, 321:1434). Pero en “Croci”
+(CSJN, Fallos, 323;212) ese apartamiento es visto como frecuente: “numerosos y
+cotidianos con los supuestos en que resulta necesario que el juez se aparte de las
+palabras de la ley...”, mientras que en “YPF c. Corrientes” resulta variable: “no
+siempre” es viable efectivizar la letra de la ley (CSJN, Fallos, 315:158).
+    A) motivos de justicia y equidad. El juez puede apartarse de las palabras de la ley
+“para aplicar la norma con auténtico sentido de justicia y recto juicio prudencial en
+los casos concretos” (CSJN, Fallos, 322: 1699, 323:212).
+     B) recta razón. No es recomendable atenerse estrictamente a las palabras de la
+ley, ya que el espíritu que la nutre ha de determinarse en procura de su aplicación
+racional (CSJN, YPF c. Corrientes”, Fallos, 3315:158, con cita de Fallos, 307:1018 y
+otros).
+     C) defectos, incoherencias o imprecisiones del texto.En CSJN, Fallos, 322:1699, se desta-
+ca v. gr., que cuando la expresión literal presenta imperfecciones técnicas, dudas o
+ambigüedades jurídicas, o admite razonables distinciones, el juez debe recurrir a la
+ratio legis, ya que no es el espíritu de la ley el que debe subordinarse a las palabras de
+la norma, sino éstas a aquél, máxime cuando la ratio legis se vincula con principios
+constitucionales que siempre han de prevalecer en la interpretación de las leyes.
+     En otro caso, el Tribunal explica que no cabe apartarse del sentido “inequívo-
+co” de las palabras (CSJN, Fallos, 248:111), con lo que parece resultar posible tal no
+seguimiento si los vocablos fuesen multívocos.
+     D) necesidad de practicar una interpretación orgánico-sistemática
+     Por otra parte, indica la Corte Suprema que el juez puede apartarse de las pala-
+bras de la ley, cuando su interpretación sistemática u orgánica así lo impone. Tal
+doctrina se deriva, por ejemplo, de CSJN, Fallos, 283:239 y 301:489. En otros fallos
+análogos se sostiene que no cabe atenerse rigurosamente a las palabras de la norma,
+cuando así lo requiera su interpretación razonable y sistemática (CSJN, Fallos,
+291:181, 293:528, 325:192, dictamen del Procurador Fiscal, compartido por la corte
+Suprema).
+     La interpretación sistemática u orgánico-armonizante es aquella que atiende a la
+totalidad de los preceptos de una norma (en particular, de la constitución, que po-
+see “unidad sistemática”: CSJN, “Chadid”, Fallos, 320:74), así como su enlace con
+
+[[PDF p. 6]]
+156 • Néstor Pedro Sagüés
+
+todas las del ordenamiento jurídico (en particular, con las que disciplinan la misma
+materia), y de modo que mejor se adecuen al espíritu y a las garantías de la consti-
+tución nacional (CSJN, Fallos, 314:445, 321:730, 324:4349). Es una fórmula que
+descarta la interpretación aislada de un precepto jurídico (CSJN, “Carrefour c. Se-
+nasa”, Fallos, 324:4367, del dictamen del Procurador General de la Nación compar-
+tido por la Corte Suprema, con cita también de Fallos, 320:783).
+     La interpretación orgánica o sistemática es particularmente destacada por la
+Corte Suprema respecto de la Constitución. Ninguna de sus cláusulas puede ser in-
+terpretada solitariamente, desconectándolas del todo que compone, sino que cabe
+entenderlas integrando las normas dentro de la unidad sistemática de la Constitu-
+ción, comparándolas, coordinándolas y armonizándolas. de tal forma que haya con-
+gruencia y relación entre ellas. En ese contexto, cada precepto recibe y “confiere su
+inteligencia de y para todos los demás” (CSJN, Fallos, 320:875, “Gauna”, consid. 14
+y 15). Cabe, pues, en la exégesis de la constitución, superar las antinomias, y enten-
+der a la constitución como un todo coherente (CSJN, Fallos, 315:71, “Unión de
+Fuerzas Sociales”). En materia de derechos constitucionales, corresponde por ello
+también ser interpretados armónicamente, para hallar un marco de correspondencia
+recíproca (CSJN, Fallos, 324:975).
+     E) prevalencia de la interpretación “jurídica” sobre la literal. Otras sentencias de la
+Corte Suprema privilegian una exégesis especializada, y no simplemente gramati-
+cal, de las palabras de la norma. Así, puede leerse que “por encima de lo que las
+leyes parecen expresar literalmente, es propio de la interpretación indagar lo que
+ellas dicen jurídicamente” (CSJN, “Echavarría c. Instituto de Obra Social”, Fallos,
+324:3602, consid. 4º, con mención de Fallos, 312:l6l4 y 318:979, entre otros). Aña-
+de el Tribunal que un precepto legal no debe ser aplicado ad literam, sin una for-
+mulación circunstancial previa, conducente a su “recta exégesis jurídica”, porque
+de lo contrario se corre el riesgo de arribar a una conclusión irrazonable (CSJN,
+Fallos, 308:1861)
+     Interesa averiguar qué es para la Corte Suprema una interpretación “jurídica”.
+En definitiva, explica, “No se trata en el caso de desconocer las palabras de la ley,
+sino de dar preeminencia a su espíritu, a sus fines, y en especial, al conjunto armó-
+nico del ordenamiento jurídico y los principios fundamentales del derecho, en el
+grado y jerarquía en que éstos son valorados por el todo normativo”. (CSJN,
+“Echavarría c. Instituto de Obra Social”, Fallos, 324:3602, consid. 4º, con mención
+de Fallos, 312:111 y 319:840. V. también Fallos, 324:2934). En este veredicto, según
+puede apreciarse, la “interpretación jurídica” es una compleja y difícil amalgama de
+interpretaciones voluntarista, teleológica y sistemática u orgánico-armonizante de la
+norma.
+     Con poca coherencia, la Corte pretende algunas veces dar prioridad a la abiga-
+
+[[PDF p. 7]]
+                                    Interpretación constitucional y alquimia constitucional   • 157
+
+rrada “interpretación jurídica” sobre la literal, pero afirmando al mismo tiempo que
+ello no constituye una evasión de las palabras de la norma. Así, en “Rodríguez
+Serafín” (Fallos, 320:839) intenta sostener que lo importante es averiguar qué dice
+la ley “jurídicamente”, sin que esto signifique apartarse del texto legal, pero tampoco sujetarse
+a él (sic).
+     F) realidad jurídica. Otro pasaje a la evasión de la interpretación literal es el argu-
+mento de la realidad jurídica. En “Horvath”, por ejemplo, la Corte afirma que las
+instituciones jurídicas no dependen del nomen juris que le haya dado el otorgante de
+un acto, o el mismo legislador, sino de “su verdadera esencia jurídica y económi-
+ca”, de tal modo que si hay oposición entre la denominación dada a algo por el au-
+tor de la norma, y la realidad, deberá prevalecer esta última (CSJN, Fallos, 318:676,
+consid. 11).
+     Sobre el importante conflicto entre la interpretación literal y la voluntarista, ha-
+blamos de inmediato, ya que merece un párrafo aparte.
+
+         7. PRIMACÍA DE LA VOLUNTAD DEL LEGISLADOR
+  (O “ESPÍRITU DE LA LEY”) SOBRE LA INTERPRETACIÓN LITERAL
+   Y CUALQUIER OTRA (TESIS DE LA “MEJOR” INTERPRETACIÓN,
+            O DEL “FIN PRIMORDIAL” DEL INTÉRPRETE)
+     En otras decisiones, la Corte Suprema apura la superioridad de la interpreta-
+ción voluntarista sobre la literal, al advertir que en materia de interpretación de la
+ley, la primera regla “consiste en respetar la voluntad del legislador, pues es misión de
+los jueces dar pleno efecto a las normas vigentes sin sustituir a éste, y sin juzgar so-
+bre el mero acierto o conveniencia de las disposiciones adoptadas por él en ejerci-
+cio de sus propias facultades” (Cfr. CSJN, Fallos, voto de los jueces Moliné O’Con-
+nor y López, con cita de 302:973, 304:1007, 305:538, 308:1745, etc.). En definitiva,
+propone el Tribunal, es propio de la tarea judicial indagar sobre el espíritu de las le-
+yes más que guiarse por el rigor de las palabras en que ellas están concebidas
+(CSJN, Fallos, 323:2117).
+     Coincidiendo con tal directriz, en otras sentencias de la Corte Suprema se des-
+taca que el dar pleno efecto a la voluntad del legislador es “el fin primordial del in-
+térprete” (CSJN, Fallos, 324:1481); y que no hay método de interpretación mejor,
+cualquiera que sea la índole de la norma, que el que consulta la realidad del precep-
+to y la voluntad del legislador, o sea, la finalidad de aquélla (CSJN, Fallos, 316:1533;
+308:1861). Es del caso, agrega la Corte, tener en cuenta el contexto general de la
+norma y los fines que la informan, para dar pleno efecto a la voluntad de legislador
+(CSJN, Fallos, 323:566), con lo que parece inferirse que los fines de la norma resul-
+tan coincidentes con la intención de su autor.
+
+[[PDF p. 8]]
+158 • Néstor Pedro Sagüés
+
+      Ocasionalmente, la Corte Suprema ha asimilado el “espíritu de la ley” con la
+“voluntad del legislador”, importante aclaración sin duda para entender el léxico
+del Tribunal (CSJN, “Ferrocarril del Sud”, Fallos, 111:367). La dupla “ratio legis”
+y “espíritu de la norma” es por cierto empleada a menudo (CSJN, Fallos, 315:356,
+314:1722, consid. 3°, 318:817 y 1894. En otros casos, el binomio es “intención
+del legislador” y “espíritu de la norma”: CSJN, Fallos, 318:1894, consid. consid.
+6°).
+       Ello importaría, en principio, no hacer distingos entre la “voluntas legis” y la
+“voluntas legislatoris”. Ya hemos visto que en otros veredictos conjuga asimismo la
+voluntad del legislador con el fin de la norma, con lo que se arriba de tal modo y
+en muchas sentencias, en el lenguaje de la Corte, a una triple cuasi identificación:
+voluntad de la ley, voluntad del legislador y fin de la regla jurídica.
+      Como consecuencia de ello, infiere la Corte que el estudio de la voluntad del
+legislador es indispensable para el juez: éste, al momento de juzgar, no puede dejar
+de evaluar la intención del legislador y el espíritu de la norma (CSJN, Fallos,
+323:3139). Debe —subraya— utilizar la voluntad del legislador como criterio inter-
+pretativo para indagar el verdadero sentido y alcance de la ley (CSJN, Fallos,
+323:3386). Y con ese propósito de dar “pleno efecto” a la intención del legislador,
+“han de superar los jueces las posibles imperfecciones técnicas de la instrumenta-
+ción legal”, siempre con el objeto de “rastrear” el espíritu que anima a la norma,
+antes que atenerse estrictamente a sus palabras (CSJN, Fallos, 311:2187).
+      La tesis se refuerza con la idea que no corresponde a los jueces sustituir al le-
+gislador, sino aplicar la norma tal como él la concibió, por lo que está vedado a los
+magistrados judiciales el juicio sobre la conveniencia de las normas adoptadas por
+los otros poderes del Estado (CSJN, Fallos, 315:2443; 322:752).
+       Como métodos para averiguar la voluntad del legislador la Corte recomienda
+por ejemplo la consulta a los antecedentes parlamentarios (CSJN, Fallos, 323:3386,
+incluso de debates los habidos en el recinto: Fallos, 210:541, 211:168). Tales debates
+contribuyen para detectar la “interpretación auténtica” de la norma: Fallos,
+313:1333), en particular de la constitucional (cfr. CSJN, Fallos, 319:3264, consid. 10,
+“Chocobar”, con mención a la convención reformadora de 1957 y lo debatido en el
+plenario de ella); o la exposición de motivos de la ley, “un valioso criterio interpre-
+tativo acerca de la intención de sus autores” (CSJN, Fallos, 316:1793; 318:1894,
+consid. 6°). También ha tenido en cuenta los despachos de las comisiones legislati-
+vas o constituyentes, así como la exposición de su miembro informante (CSJN, Fa-
+llos, 33:248 y 100:337)
+      En ciertos casos la Corte condiciona la aplicación del respeto pleno a la volun-
+tad del legislador, a que ella sea “indudable” (CSJN, Fallos, 324:2150).
+
+[[PDF p. 9]]
+                                Interpretación constitucional y alquimia constitucional   • 159
+
+                   8. EL MITO DEL LEGISLADOR
+         (EN PARTICULAR, DEL CONSTITUYENTE) PERFECTO
+
+    La doctrina de la primacía de la voluntad del autor de la norma sobre el texto
+de ella parte también de una tesis varias veces explicitada por la Corte Suprema: la
+perfección de aquél.
+    Tal articulación ideológica se conforma con estos estereotipos: a) la inconse-
+cuencia o falta de previsión del legislador no se presumen (CSJN, Fallos, 316:1321;
+324:2153 y 3876); b) el legislador no utiliza términos superfluos o redundantes, sino
+que todos ellos son empleados con algún propósito (CSJN, Fallos, 324:2153 y 2780.
+La Corte se refiere tanto al legislador común como al constituyente: Fallos,
+319:3243); c) no puede presumirse que el constituyente sancione cláusulas inútiles,
+pensadas para no tener efecto (CSJN, Fallos, 311:460); d) la obra del constituyente,
+o sea la Constitución, no puede tampoco ser entendida sino como un todo o es-
+tructura coherente (CSJN, Fallos, 315:71, 320:74, “Chedid”).
+
+                9. DISCURSO CONCILIATORIO ENTRE
+         LA INTERPRETACIÓN LITERAL Y LA VOLUNTARISTA
+     En otros fallos la Corte procura bajar los decibeles de confrontación entre las
+interpretaciones literal y voluntarista, argumentando por ejemplo que “no se trata
+de desconocer las palabras de la ley sino de dar preeminencia a su espíritu, a sus fi-
+nes...” (CSJN, Fallos, 312:111), con lo que, de todos modos, está admitiendo que
+una triunfa sobre la otra.
+     Con frecuencia el Tribunal anticipa que si bien la primera regla de interpreta-
+ción es dar plano efecto a la intención del legislador, “la primera fuente para deter-
+minar esa voluntad es la letra de la ley” (CSJN, Fallos, 322:2321). La conciliación
+parte aquí del supuesto de distinguir entre “primera regla”, y “primera fuente”. Para
+respetar la voluntad del legislador, añade alguna vez la Corte, cabe estar a las pala-
+bras que ha utilizado (CSJN, Fallos, 321:2010).
+     A pesar de lo dicho, hemos visto que en última instancia, por lo común, será la
+intención la victoriosa sobre el texto.
+
+                   10. EL DESPEGUE DE LA INTENCIÓN
+                        DEL AUTOR DE LA NORMA
+    Ciertos pronunciamientos del Tribunal postulan, a su turno, una interpretación
+decididamente dinámica y evolutiva, cuando no directamente mutativista, (3) de la
+Constitución, apartada, si es necesario, de la voluntad del legislador o constituyente
+histórico.
+
+[[PDF p. 10]]
+160 • Néstor Pedro Sagüés
+
+      En “Chocobar”, por ejemplo, la Corte hizo suyas las palabras de Marshall en
+“Mc Culloch vs. Maryland”, en el sentido que “es una Constitución lo que estamos
+interpretando: una constitución está concebida para proyectarse hacia el porvenir, y
+en consecuencia, para adaptarse a las distintas crisis de los asuntos humanos”
+(CSJN, Fallos, 319:3267, consid. 14). Es la propuesta de una interpretación maleable
+de la ley suprema, en función de las necesidades del presente. Con ello empalma la
+directriz de “Municipalidad de Buenos Aires”: “La obra genuina de los intérpretes,
+y en particular de los jueces, es permitir el avance de los principios constitucionales,
+que es de natural desarrollo y no contradicción”, teniendo en cuenta, entre otros
+factores, a “la dinámica de la realidad” (CSJN, Fallos, 320:2701; dictamen del Procu-
+rador General, punto V, compartido por la Corte, y cita de Fallos, 320:875).
+      Avanzando en tal postura, la Corte señaló que la realidad viviente de cada épo-
+ca perfecciona el espíritu de las instituciones de cada país, o descubre aspectos no
+contemplados antes, sin que pueda oponérsele a ello el concepto medio de una
+época en que la sociedad actuaba de distinta manera (CSJN, Fallos, 211:162, “Merkc
+Argentina”. Cfr. también 316:2624). En “Avico c. de la Pesa” (CSJN, Fallos,
+172:29), un fallo líder en el asunto, emitido en 1934, puntualizó, siguiendo a Ba-
+llot-Baupré, que eran elogiables los jueces que “habían sabido no solamente aplicar
+la ley cuando era oscura sino completarla cuando era deficiente, suplirla cuando les
+parecía muda, y adaptar el texto, liberal y humanamente, a las realidades y exigencias de la
+vida moderna, sin rezagarse a buscar obstinadamente cuál había sido, hace cien años, el pensa-
+miento de los autores del código al redactar tal o cual artículo” (el subrayado es nuestro. V.
+también “Chocobar”, Fallos, 319:3266, consid. 14). Igualmente, en “Fernández
+Orquín” destacó que “el excesivo apego al tradicionalismo jurídico ha sido catalo-
+gado como uno de los más serios obstáculos al éxito de la promoción de la expan-
+sión económica y de la justicia social” (CSJN, Fallos, 264:416.
+      Un verdadero repudio a la interpretación histórica puede hallarse en (CSJN, Fa-
+llos, 313:1513): “Si se declara que la Constitución significa (hoy) lo que significó en
+el momento de su adopción, ello importaría decir que las grandes cláusulas de la
+Constitución deben confinarse a la interpretación que sus autores le habían dado,
+en las circunstancias y con las perspectivas de su tiempo, y ello expresaría su propia
+refutación”.
+      Paralelamente, la condena de la interpretación estática de la Constitución puede
+encontrarse, v. gr., en “Poder Ejecutivo Nacional” (CSJN, Fallos, 256:588), mientras
+que en “KOT SRL” insistió en que las normas no podrían ser interpretadas exclusiva-
+mente con sentido histórico, sino en consideración de las nuevas condiciones y nece-
+sidades de la comunidad; y en particular la Constitución, que tiene la virtualidad nece-
+saria para poder gobernar las relaciones jurídicas nacidas en circunstancias sociales
+diferentes a las que existían al tiempo de su sanción (CSJN, Fallos, 241:291).
+
+[[PDF p. 11]]
+                                Interpretación constitucional y alquimia constitucional   • 161
+
+            11. TENTATIVAS DE CONCILIACIÓN ENTRE
+      UNA INTERPRETACIÓN HISTORICISTA Y UNA DINÁMICA.
+          SIMBIOSIS ENTRE EL PASADO Y EL PRESENTE
+       Es habitual que la Corte recuerde que la interpretación “auténtica” (sic) de la
+Constitución “no puede olvidar los antecedentes que hicieron de ella una creación
+viva, impregnada de realidad argentina, a fin de que dentro de su elasticidad y gene-
+ralidad que le impide envejecer con el cambio de ideas, crecimiento o redistribución
+de intereses, siga siendo el instrumento de la ordenación política y moral de la Na-
+ción” (CSJN, “Cocchia”, Fallos, 316:2624, con cita de Fallos, 178:9. V. también Fa-
+llos, 308:2268, 313:1513).
+       Detrás de ese lenguaje contemporizador, no se aclara, sin embargo, ante la
+presencia de un conflicto exegético grave, qué debe predominar: si el valor del an-
+tecedente o el valor de las necesidades y requerimientos de la realidad actual; y en
+su caso, cuál representaría mejor la exégesis “auténtica” de la Constitución.
+
+        12. PRIMACÍA DE LA INTERPRETACIÓN TELEOLÓGICA
+
+     Otra familia de fallos de la Corte Suprema sostiene el punto de vista de privile-
+giar en la interpretación de las normas a su espíritu y a sus fines (CSJN, Fallos,
+324:2885), debiendo preferirse la que favorece, y no la que dificulta tales fines per-
+seguidos por ellas (CSJN, Fallos, 311:2751 y 312:111).
+      En particular, tratándose de la Constitución, es misión del exégeta consagrar la
+interpretación que “mejor asegure los grandes objetivos para los que fue dictada”
+(CSJN, “KOT SRL”, un fallo que goza de gran prestigio y predicamento, Fallos,
+241:291). La tesis de los hermenéutica tutelar de los megaobjetivos constitucionales
+es sostenida también, por ejemplo, en “Municipalidad de la ciudad de Buenos Ai-
+res” (CSJN, Fallos, 320:2701, dictamen del Procurador General compartido por la
+Corte), y en “Chocobar” (CSJN, Fallos, 319:3241).
+     Por lo común, la Corte Suprema no se pronuncia respecto del eventual conflic-
+to que pueda haber en algún caso, entre los “fines de la norma” y la “intención del
+autor de la norma”. Antes bien, parece suponer que en estos dos conceptos hay
+una simbiosis natural.
+
+                13. DOCTRINA DE LA INTERPRETACIÓN
+                   ARMONIZANTE ENTRE LA NORMA
+             INFRACONSTITUCIONAL Y LA CONSTITUCIÓN
+   Lo que sí es una regla interpretativa uniforme en la jurisprudencia de la Corte
+Suprema, es que la exégesis de las normas inferiores a la Constitución debe confor-
+
+[[PDF p. 12]]
+162 • Néstor Pedro Sagüés
+
+marse con el espíritu y la letra de ésta, vale decir, que debe preferirse la exégesis de
+tales reglas subconstitucionales “que mejor concuerde con las garantías y los princi-
+pios de la Constitución nacional” (CSJN, Fallos, 285:60, 292:211, 296:22, entre mu-
+chos otros, doctrina del Procurador General compartida por la Corte en “Munici-
+palidad de Buenos Aires”, 320:2701, Fallos, 321:730, 319:1818, etc.).
+     Ello obliga al intérprete de la norma infraconstitucional a escoger, entre las va-
+rias interpretaciones posibles de ella, la que se adecue a la ley suprema, y a rechazar
+las que sean incompatibles con esta última.
+
+               14. EL RECURSO AL INTÉRPRETE EXTERNO.
+                        AVANCES Y REPLIEGUES
+     En fallos antiguos, algunas sentencias de la Corte Suprema argentina mostraron
+una particular inclinación a la interpretación constitucional practicada por la Corte
+Suprema de los Estados Unidos. Un caso patente fue “Lino de la Torre” (Fallos,
+19:236), donde al hablar de la doctrina y la jurisprudencia estadounidense, subraya
+que “podemos y debemos utilizar(la) en todo aquello que no hayamos querido alte-
+rar por disposiciones particulares”.
+     Más tarde, en “Ferrocarril Central Argentino contra Santa Fe”, al reiterar el
+caso norteamericano, la Corte insistió: “...cuyos precedentes y cuya jurisprudencia
+deben servirnos de modelo”, pero reiteró igualmente la excepción, en el sentido
+que “también lo es (cierto) que en todo lo que expresamente nos hemos separado
+de aquel (modelo), nuestras instituciones son originales y no tienen más preceden-
+tes y jurisprudencia que los que se establecen en nuestros tribunales” (CSJN, Fallos,
+68:227).
+     En “Merck Argentina” (Fallos, 211:162) la Corte dijo que en situaciones en las
+que el texto argentino seguía al pie de la letra al norteamericano, “o por lo menos
+con identidad de propósitos, de análogas o parecidas prescripciones”, “no sería em-
+pero prudente subestimar los valiosos elementos de interpretación y aplicación que
+allí (en los Estados Unidos) sirvieron para aquilatar el alcance de los preceptos
+constitucionales...”. Como vemos, la tesis del “modelo” es moderada aquí por la
+doctrina de la “no subestimación”.
+     Sin embargo, otra línea de fallos de la Corte Suprema argentina postuló un des-
+pegue del modelo interpretativo norteamericano. Así, en “Bressani”, advirtió que
+“el mayor valor de la Constitución no está en los textos que adoptó, sino en lo que
+ella es una creación viva, impregnada de la realidad argentina” (CSJN, Fallos, 178:9)
+      La dependencia al intérprete norteamericano disminuyó más tarde en la juris-
+prudencia de la Corte Suprema. Por el contrario, ha aparecido otra ruta interpretati-
+va: la que aconseja que los jueces argentinos, en materia de derechos humanos, to-
+
+[[PDF p. 13]]
+                                    Interpretación constitucional y alquimia constitucional   • 163
+
+men como guía la jurisprudencia de la Corte Interamericana de derechos humanos
+(CSJN, “Ekmekdjian c.Sofovich”, “La Ley”, Buenos Aires, 1992-C-543, “Giroldi”,
+“La Ley” 1995-D-461). En “Bramajo” (La Ley 1996-E-409), sentó igual pauta con
+relación a las recomendaciones de la Comisión Interamericana de Derechos Huma-
+nos, pese a que este organismo no emite fallos con autoridad de cosa juzgada.
+     Sin embargo, en otras sentencias la Corte Suprema restringió tal doctrina. En
+“Acosta”, por ejemplo (v. “Jurisprudencia Argentina”, 1999-II-364), dijo que ese
+seguimiento de los jueces argentinos a la jurisprudencia de los organismos de la juris-
+dicción supranacional emergente del Pacto de San José de Costa Rica no era inexo-
+rable, en el sentido que no había un deber jurídico vinculante, y menos que obligase
+a modificar sentencias firmes. La postura se repite en “Felicetti” (Jurisprudencia
+Argentina”, 2001-I-484 y 2001-III-1284), cuando aclara que los pronunciamientos
+de la Comisión Interamericana no obligan irremediablemente a la Corte Suprema
+Argentina, y en “Alonso”, una sentencia del 19 de septiembre de 2002.
+
+                           15. REGLAS DE CORRECCIÓN
+     La Corte Suprema posee también un catálogo abundante de lo que podríamos
+llamar “estándares correctores” de interpretación. Estos dispositivos permiten, una
+vez arribado a un determinado producto interpretativo (según el uso de las anterio-
+res reglas de contenido o de preferencia), descartarlo o modificarlo, para elaborar
+así otro distinto en virtud de la pauta rectificadora. Las reglas de corrección operan
+como verdaderos “filtros” de ciertos productos o resultados interpretativos que
+aunque fuesen teóricamente posibles y tuvieren apoyatura en alguna técnica exegéti-
+ca, son de todos modos reputados como disvaliosos.
+     Veamos algunas de ellas.
+      A) Interpretación políticamente concertada de la Constitución. Partiendo del supuesto de
+que la Constitución, a menudo, admite varias interpretaciones, la Corte enseña en
+tales casos debe respetar al Congreso en su interpretación de los poderes atribuidos
+por la Constitución. Dicho de otro modo, los tribunales deben aplicar no solamen-
+te su propio criterio hermenéutico, sino el que es admisible para otros ramos del
+Gobierno al que la constitución les ha dado competencia en la materia (CSJN, Fa-
+llos, 319:3241, “Chocobar”).
+    B) Interpretación funcional, positiva y constructiva (“práctica”) de la Constitución. Para el
+Tribunal, no puede importar un criterio interpretativo válido, anular unos preceptos
+constitucionales por aplicación de los otros (CSJN, Fallos, 311:2272). Tampoco, que
+queden frente a frente los derechos y los deberes enumerados por la ley suprema,
+para que se destruyan recíprocamente (CSJN, Fallos, 312:496). Del mismo modo,
+
+[[PDF p. 14]]
+164 • Néstor Pedro Sagüés
+
+no deben contraponerse entre sí las facultades que ella declara, por lo cual corres-
+ponde evitar, igualmente, que se autodestruyan (CSJN, Fallos, 312:1681). Concomi-
+tantemente, los poderes de la Nación y los de las provincias deben merecer una in-
+terpretación que permita su coexistencia, ayuda y desenvolvimiento armónico, sin
+interferencias o roces (CSJN, “Agua y Energía”, Fallos, 322:2598, consid. 6°; 322:
+2598, 312:1437).
+     Algunas veces se ha denominado a esta actitud interpretación “práctica” de la
+constitución. Es la que aconseja entender al texto constitucional de tal manera que
+no destruya los poderes del Estado, que trabe su ejercicio eficaz o que permita que
+uno bloquee al otro (voto de los jueces Nazareno, Moliné O´Connor y López, en
+“Verrocchi”, Fallos, 322:1746, consid. 9°, con mención de Fallos, 171:79 y 242:73).
+     C) Interpretación “continuista” de la Constitución. Esta directriz es una receta para consu-
+mo interno de la Corte: “Es regla para el funcionamiento de la Corte Suprema que sus
+decisiones se adecuen a sus precedentes y es indudable la conveniencia de asegurar la
+estabilidad de su jurisprudencia en tanto no medien razones que hagan ineludible su
+modificación, al punto de que el Tribunal ha señalado que deben existir causas sufi-
+cientemente graves para hacer inexcusable tal cambio de criterio” (CSJN, “González c.
+Ansés”, Fallos, 323:555, consid. 16, con cita de Fallos, 183:409, 209:431, y otros.).
+      Esta pauta, por cierto muy severa, intenta someter la interpretación de la
+Constitución, para el Tribunal, a sus precedentes, en una suerte de revival
+     de la doctrina anglosajona del stare decisis, o del sometimiento al caso anterior
+decidido. Aplicada literalmente, condenaría exégesis posibles de una cláusula de la
+constitución que se apartasen de una interpretación anterior fijada por la Corte al
+mismo precepto.
+     No obstante, otra familia de pronunciamientos apunta a otra cosa, en el sentido
+de facilitar la evasión del vigor del precedente. Por ejemplo, al afirmar que “la im-
+plementación de una política judicial congruente impone —como en otras ocasiones lo
+ha establecido el Tribunal— la revisión de lo anteriormente decidido sobre la base de
+admitir que la autoridad del precedente cede ante la comprobación de la inconve-
+niencia del mantenimiento de resoluciones anteriores” (La bastardilla es nuestra.
+Voto conjunto de los jueces Nazareno y Moliné O’Connor, consid. 7°, en “Alma-
+raz”: Fallos, 317:312, que como vemos, parece remitirse a otros fallos que no men-
+ciona). La doctrina se repite en los votos individuales de los mismos jueces en “Cá-
+seres” (Fallos, 320:189l, considerandos 7° y 5°, respectivamente).
+     D) Interpretación “objetiva” de la Constitución. Otra línea de conducta interpretativa
+que lanza la Corte es la condena de la interpretación “subjetiva” de las normas, con
+lo que, a contrario sensu ,ésta debería enmendarse en pro de una interpretación “obje-
+tiva” de ella. La interpretación “subjetiva” no es de por sí una interpretación absur-
+
+[[PDF p. 15]]
+                                  Interpretación constitucional y alquimia constitucional   • 165
+
+da, caprichosa o arbitraria del precepto legal o constitucional, tratándose por ende
+de una exégesis posible del texto; pero difiere de la corriente o generalmente acep-
+tada (vale decir, de lo que podría llamarse la communis opinio.
+      Como afirmación general, la Corte alerta que la interpretación debe practicarse
+“con objetividad” (“Volpe”, Fallos, 316:352, con cita de Fallos, 306:1472). Algunas
+veces esa “objetividad” es interpretada por la Corte en el sentido que importa “aca-
+tamiento ... a la letra y al espíritu de la ley”, ya que las sentencias que “sólo tradu-
+cen las posturas subjetivas de los jueces no son vividas como jurídicas” (CSJN, Fa-
+llos, 318:1428, “Zárate”, consid. 11 y su cita de Fallos, 314:1458; v. también Fallos,
+318:646,”Nación Argentina”). Pero en otros pronunciamientos el Tribunal avanza
+más, indicando que cuando la norma constitucional ofrece “un amplio marco de
+decisión”, es preciso que los jueces no se atengan a sus propios “valores persona-
+les”, sino que ponderen “los que apoyan la doctrina y jurisprudencia de su época”
+(CSJN, Fallos, 313:1232).
+     E) Interpretación razonable, justa y equitativa. Como regla, deben descartarse las in-
+terpretaciones irrazonables, por más que puedan responder a la letra de la norma
+(CSJN, Fallos, 308:1861), como así también los productos interpretativos absurdos,
+que no deben quererse como presumidos por su autor. En definitiva, se impone
+una interpretación “razonable y discreta” de tales normas, con sentido común
+(CSJN, “Relojerías Fernández”, Fallos, 320:2649, con mención de Fallos, 306:796).
+     A su turno, el rechazo de soluciones interpretativas “notoriamente injustas”,
+cuando es posible arbitrar las de mérito opuesto, o sea las justas, es frecuente en la
+jurisprudencia del Tribunal (v. gr., “Bufano”, CSJN, Fallos, 323:1406, y 1460, 1491),
+y constituye una significativa herramienta correctora de exégesis. Todo ello en bús-
+queda de una “interpretación valiosa de lo que en las normas, jurídicamente, se ha
+querido mandar” (CSJN, Bagolini”, Fallos, 314:1445, y sus citas), en aras de conse-
+guir lo “objetivamente justo” (CSJN, Fallos, 319:1840)
+     En ciertos fallos, la Corte exige que la aplicación de las normas sea realizada
+equitativamente,“ ya que hacer justicia no importa otra cosa que la recta administra-
+ción de lo justo en concreto”, conforme a los hechos y situaciones reales que se
+presentan (CSJN, “Gucciardo”, Fallos, 321:865, consid. 5°, con cita de Fallos,
+308:1978).
+     F) Interpretación aformalista. El “excesivo rigor formal de los razonamientos” en
+la exégesis de una norma es condenado con frecuencia por la Corte Suprema, sea
+porque desnaturalice el espíritu que ha inspirado su sanción (CSJN, Fallos, 322:904,
+“Ministerio de Cultura”, consid.8°, con cita de Fallos, 312:1484, 315:158, 313:1223;
+v. también Fallos, 316:1791), o porque provoque un resultado “paralizante” (sobre
+el “formalismo paralizante” ver por ejemplo CSJN, “Sade c. Ávila”, Fallos,
+314:1018, consid. 3°,y sus citas, y 3l4:1445).
+
+[[PDF p. 16]]
+166 • Néstor Pedro Sagüés
+
+      G) Interpretación previsora y prudente. Esta importante pauta rectificadora sugiere
+que, una vez que el intérprete arriba a un determinado producto interpretativo se-
+gún algún método o técnica aceptable (v. gr., exégesis literal, voluntarista, evolutiva,
+etc.), no dé por terminado su trabajo. Deberá, en efecto, en una segunda etapa, in-
+quirir sobre los resultados y consecuencias de dicha interpretación, y preguntarse si
+ellos son positivos. En el caso de haber una respuesta afirmativa, aplicará el pro-
+ducto. Pero si ella es negativa, tendrá que rechazarlo y recomenzar su función inter-
+pretadora, hasta alcanzar uno que produzca un resultado valioso.
+      Generalmente la doctrina de la interpretación previsora opera como un meca-
+nismo de opción entre varias interpretaciones posibles de la norma (se elige, entre
+ellas, a la que produzca un resultado provechoso). Pero también, en situaciones
+más drásticas, puede funcionar como mecanismo de inaplicación de reglas, incluso
+constitucionales, si todas las “interpretaciones posibles” de una cláusula conducen
+inexorablemente a un resultado negativo. El tema es obviamente polémico, y deri-
+vamos al lector a estudios más especializados sobre la cuestión.5
+      Muchos fallos de la Corte advierten, en efecto, que el intérprete no sea indife-
+rente respecto del resultado de su labor, y que actúe sin tener en cuenta el contexto
+social en que tal resultado fue previsto originariamente y habrá de ser aplicado al
+momento de la emisión de un fallo judicial (CSJN, Fallos 324:2153, “Sosa”, dicta-
+men del Procurador General, punto III, compartido por la Corte).
+      La regla más común indica que en la interpretación de las normas no debe
+prescindirse de las consecuencias que se derivan de cada criterio, pues ellas consti-
+tuyen uno de los índices más seguros para verificar su razonabilidad y su coheren-
+cia con el que sistema en que está engarzada la norma (CSJN, Fallos, 324:2107,
+“Bustos”, consid. 7°, con mención de Fallos, 307:1018 y 2200). De modo especial,
+la Corte ha dicho que ella no puede prescindir de las consecuencias sociales de sus
+decisiones, ni de la realidad que la precede. Es esta realidad, insiste el Tribunal, la
+que rige como principio de interpretación de la constitución nacional (CSJN, Fallos,
+316:2624, “Cocchia”, consid. 16, con cita de Fallos, 178:9, 211:162, 240:223, entre
+otros. V. también 313:1232, donde se puntualiza que “el debido criterio para la exé-
+gesis de la ley” es ponderar las consecuencias sociales del fallo).
+      Se emparente con esto la propuesta de interpretación “prudente” de la Consti-
+tución (en verdad, la obligación de ser previsible es una faceta más de la de ser
+“prudente”). La Corte enseña que la interpretación de toda ley debe ser pruden-
+te (CSJN, Fallos, 323:1406, 1460, 1491), pero es la Corte suprema quien debe apli-
+car la “un grado sumo de prudencia” cuando interpreta la Constitución (CSJN, Fa-
+llos, 320:495, “Provincia de Santa Cruz”), lo que la lleva a sopesar, enseña el
+
+    5   Ibidem, p. 113 y sigts.
+
+[[PDF p. 17]]
+                                 Interpretación constitucional y alquimia constitucional   • 167
+
+Tribunal, las consecuencias individuales, sociales y económicas que generan sus de-
+cisiones.
+
+                           16. EVALUACIÓN.
+                    CONSECUENCIAS Y EXPLICACIONES
+     La consecuencia de existir recetas tan disímiles en materia de interpretación en
+general y constitucional en particular, es que la Corte Suprema puede suministrar a
+una norma concreta productos interpretativos harto diferentes.
+     Según privilegie, por ejemplo, una exégesis gramaticalista, una voluntarista, o
+una finalista, ya con criterio histórico o en cambio dinámico evolutivo, cuando no
+mutativista; y conforme corrija después el resultado inicial con el filtro de la doctri-
+na de las consecuencias, de la justicia y del equitativismo, de la concertación políti-
+ca, de la razonabilidad y de la funcionalidad, de la prudencia y de la previsión, entre
+otros; teniendo en cuenta, por último, la incógnita de si seguirá o no sus propios
+precedentes en el punto concreto —caso de haberlos—, es evidente que el pro-
+ducto final puede ser decididamente no pronosticable, y que la Corte cuenta con
+un arsenal impresionante de discursos argumentativos disímiles, tanto en reglas de
+contenido como de preferencia interpretativa, que le permiten arribar, casi discre-
+cionalmente, a metas muy distintas, según cuál o cuáles de esos dispositivos em-
+plee, con qué intensidad los utilice, y cómo practique el acabado o rectificación fi-
+nal de su tarea.
+     Bueno es, primero, constatar tal estado de cosas, y abandonar la tesis quizá ma-
+yoritaria que subyace en nuestras facultades de derecho, en el sentido de que la in-
+terpretación constitucional practicada por la Corte Suprema durante más de una
+centuria es un trabajo casi técnico y regular, previsible, claramente delineado, y so-
+metido a directrices armónicas que empalman perfectamente entre sí como en un
+caso de relojería celestial.
+     Un reexamen del manojo de criterios interpretativos dispares empleado por la
+Corte Suprema obliga a preguntarse, liminarmente, si el mismo ha sido producto de
+un plan programado o ha surgido espontáneamente.
+     Aunque el lector quizá estará tentado a pensar que ese muestrario plural de re-
+cetas exegéticas parecería ser producto de un proyecto cuasi maquiavélico destinado
+a permitirle a una Corte Suprema formular, respecto de una misma norma, produc-
+tos interpretativos contrapuestos, conforme libérrimamente lo disponga el Tribunal,
+lo cierto es que no hay prueba alguna de tal premeditación. Antes bien, un reexa-
+men histórico mostraría que las pautas interpretativas mencionadas fueron surgien-
+do paulatina, casuística y aluvionalmente, desde tiempo atrás (aunque el panorama
+se complicó más en las últimas décadas), algunas veces por recepción de reglas ya
+
+[[PDF p. 18]]
+168 • Néstor Pedro Sagüés
+
+elaboradas por la jurisprudencia norteamericana,6 otras por las soluciones locales
+que se les quiso dar a determinados procesos que debieron definir jurídicamente,
+con cierta asiduidad, profundas crisis económicas y sociales; y algunas por el trans-
+porte (protagonizado por distintos jueces, y en diferentes momentos), de posiciones
+axiológicas e ideológicas contrapuestas existentes en distintas ramas del derecho.
+Un tema complementario y polémico, eso sí, es la manipulación de las técnicas in-
+terpretativas en razón del grado de independencia o de dependencia de una Corte
+Suprema respecto del establishment político, asunto éste que en Argentina ha dado
+lugar a importantes y controvertidos análisis.7
+
+                                  17. BALANCE AXIOLÓGICO
+     Corresponde preguntarse, finalmente, si es provechoso o no el cuadro descrip-
+to. De aquí en más se abandonará el caso argentino, para formular apreciaciones
+más generales.
+     Desde el ángulo de la seguridad jurídica, la respuesta tiende a ser negativa. En
+rigor de verdad, con un catálogo de criterios argumentativos como el señalado, difí-
+cilmente puede conjeturarse cuál es la respuesta medianamente posible que daría
+una Corte Suprema o un Tribunal Constitucional a un problema de interpretación
+constitucional.
+     No obstante, debe alertarse que los criterios interpretativos dispares no son tan
+infrecuentes en el mundo de la jurisdicción constitucional, y que el valor seguridad
+jurídica es muy importante, pero que también hay otros que satisfacer en el ámbito
+del derecho.
+     En doctrina, por ejemplo, se ha planteado el interrogante de si es bueno que
+una Corte Suprema dé siempre respuestas coherentes, y algunos autores, al estilo de
+Lief Carter,8 estiman que un Tribunal de ese tipo no va a ser recordado en la histo-
+
+
+
+     6    Ver por ejemplo CORWIN, Edward S., La constitución de los Estados Unidos y su significado actual,
+edición revisada por Harold W. CHASE y Carig R. DUCAT, traducción por Aníbal LEAL, Buenos Ai-
+res, 1987, Editorial Fraterna, pp. 13 a 17.
+       7 En torno a tales posturas contrapuestas, ver por ejemplo OTEIZA, Eduardo, La Corte Suprema.
+Entre la justicia sin política y la política sin justicia (La Plata, 1999), ed. Platense, passim; MILLER, Jonathan
+M., Evaluating the Argentine Supreme Court under Presidents Alfonsin and Menem (1983-1999), en “Southwes-
+tern Journal of Law and Trade in the Americas”, Southwestern University. School of Law. Los Ange-
+les, fall 2000, volume VII N° 2, p. 369 y sigts.; ROGERS, William D.y WRIGHT-CAROZZA, Paolo, La
+Corte Suprema de Justicia y la seguridad jurídica, Buenos Aires, s/f, ed. Abaco, passim.
+       8 Cfr. CARTER, Lief, Derecho Constitucional contemporáneo. La Suprema Corte y el arte de la política,
+Buenos Aires, 1992, Editorial Abeledo-Perrot, pp. 60, 71, 113, 172, 161, 178, 250, 260, etcétera.
+
+[[PDF p. 19]]
+                                 Interpretación constitucional y alquimia constitucional   • 169
+
+ria por haber dado en todo momento respuestas uniformes o coherentes, totalmen-
+te previsibles e impecablemente seguras, sino por dar respuestas útiles a los proble-
+mas que le tocó resolver. Se trata, como puede verse, de un himno al pragmatismo
+judicial, que parte del supuesto de que una Corte Suprema o un Tribunal constitu-
+cional no es una facultad o una academia de Derecho, vale decir, un templo del sa-
+ber y de la aséptica investigación pura, sino un juez designado para resolver conflic-
+tos reales que pueden demandar soluciones ad hoc, particularmente en periodos de
+crisis.
+     También debe decirse que muchos de los mecanismos interpretativos mencio-
+nados son en sí valiosos. Por ejemplo, no puede prescindirse de una interpretación
+previsora del derecho, que mida las consecuencias y efectos de una decisión, en
+particular los sociales (macroresultados). En verdad, sería temible un Tribunal
+Constitucional que no hiciere tal contemplación del problema.
+     Al mismo tiempo, proponer que las sentencias sean prudentes, razonables, jus-
+tas, positivas y útiles, que visualicen la norma no como una isla sino engarzada en
+un contexto jurídico global, nacional (y ahora, internacional también) resulta algo
+igualmente muy atractivo, y más todavía, necesario.
+     Por lo demás, es natural que una Corte Suprema o un Tribunal Constitucional
+herede disputas jurídicas doctrinarias que llevan siglos, al estilo de la inconclusa ba-
+talla entre la interpretación literal y la voluntarista, o escaramuzas más recientes
+—pero también pluriseculares— como si hay una voluntad o fines de la ley (inclu-
+so la constitucional) distintos de los del legislador y del constituyente, y si la inter-
+pretación mutativa es aceptable, y en su caso, bajo qué términos, condiciones y lí-
+mites. Es muy explicable que esos conflictos hayan ingresado en las sentencias de
+aquellos órganos, aunque de modo no igual en todos ellas, y con respuestas disími-
+les a través del tiempo y de los operadores que los integraron.
+     ¿Qué es más criticable, entonces, en el repertorio de veredictos de un tribunal
+supremo, como el que se ha brevemente descripto? En primer lugar, si tiene este
+defecto, una falta de lealtad consigo mismo. No es aceptable que se indique que “la
+primera regla” de interpretación es la directriz “x”, y que después se diga lo mismo
+de la pauta “y”, y más tarde de la “z”.
+       Tampoco es aceptable que se emplee un estándar autocontradictorio, como
+advertir que cabe respetar siempre el texto de la norma, pero que es posible apar-
+tarse de él, y que ello no importa posponerlo.
+      Otro factor de cuestionamiento al arsenal interpretativo amplio que comenta-
+mos es de fondo, y estriba en la eventual manipulación que un tribunal supremo
+pueda hacer de él, en pro de intereses sectoriales. Por vía de hipótesis, una cosa es
+que una Corte o Tribunal Constitucional utilice hoy una técnica interpretativa ajena
+a la de ayer, en pro de construir respuestas constitucionales provechosas para una
+
+[[PDF p. 20]]
+170 • Néstor Pedro Sagüés
+
+comunidad, distintas incluso a las pensadas por el constituyente (así lo propone, v.
+gr., el no interpretativismo),9 o que con el mismo objetivo aplique más intensamente un método en
+lugar de otro, o que corrija un producto interpretativo en función de la previsión de sus consecuen-
+cias o resultados (en particular, repetimos, de los sociales), y otra, que llegue a olfatearse, detrás de
+esas variaciones, la protección de apetitos y requerimientos particulares (partidistas, económicos o de
+cualquier otra índole) ajenos al bonun comune.
+     Finalmente, y en aras de la sinceridad jurídica, tampoco es aconsejable que un
+tribunal supremo no diga la verdad cuando realiza un trabajo interpretativo, y que
+edulcore el producto final con baños de reluciente dorado, pretendiendo por ejem-
+plo negar un cambio; o afirmar que se aplica honestamente una técnica de interpre-
+tación, cuando en realidad se la está abandonando. Si genuinas circunstancias, como
+variaciones en el sistema de creencias y valoraciones sociales, o cambios críticos im-
+pactantes en el escenario económico y político, demandan una respuesta exegética
+diferente de la clásica, lo correcto es así decirlo en el veredicto, y explicar a la co-
+munidad por qué se ha actuado de tal modo. El sinceramiento interpretativo es un
+buen camino para legitimar las interpretaciones de la Constitución.
+
+
+
+
+     9   SAGÜÉS, Néstor Pedro, La interpretación judicial... p. 100 y sigts.

@@ -1,0 +1,17 @@
+# Sáenz, «Artículos 14 y 28» (clave de extracto saenz2016_art14y28, cita @saenz2016b).
+# Llamadas de nota pegadas a comillas de cierre o a un punto, que MARCA_DE_NOTA no reconoce.
+(?<=\(arts\. 14 y 28\)”)2(?=\s*$)
+(?<=“comercio interjurisdiccional”)15(?=,)
+(?<=99\)\.)24(?= Aún así, se han dado)
+(?<=mencionaré el caso “Arenzón”)25(?=, en el)
+(?<=la paz social, etc\.)27(?=\s*$)
+(?<=“Municipalidad de la Capital c/Elortondo”)28(?= en el)
+(?<=alterados por las leyes que reglamenten su ejercicio”)32(?=, prescripción)
+(?<=de ello es el caso “Arenzón”)36(?=, que mencioné)
+(?<=en el caso “Gottschau”)38(?= se invalidó)
+(?<=También, en “Arriola”)39(?=, la Corte)
+(?<=En el caso “Iachemet”)40(?=, por ejemplo)
+(?<=“Regents of Univ\. of California v\. Bakke”)43(?=, es muy)
+(?<=nacionalidad: “Repetto”)44(?=,)
+(?<=“Repetto”)44(?=,)
+(?<=y “Gottschau”)46(?=, entre otros)

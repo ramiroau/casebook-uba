@@ -1,0 +1,1219 @@
+# fuente: Unidad8/1_Abregú_Courtis_1997_La aplicación del derecho internacional de los derechos humanos por los.pdf
+# modo: texto
+# paginas: 28
+# origen: corpus/texto/abregu1997.txt (capa de texto nativa)
+
+[[PDF p. 1]]
+La aplicación del Derecho Internacional de los Derechos Humanos por los
+tribunales locales: una introducción
+
+Martín Abregú*
+
+
+
+I. Introducción
+
+A partir de la posguerra hemos presenciado un vertiginoso desarrollo de una nueva rama del
+derecho que se ha dado en llamar el Derecho Internacional de los Derechos Humanos
+(DIDH). Esta materia tuvo su momento declarativo fundacional con la Declaración Universal
+de Derechos Humanos de Naciones Unidas, aprobada el 10 de diciembre de 1948, y se ha
+multiplicado en numerosos tratados, declaraciones, principios y otros instrumentos
+internacionales, que conforman hoy este nuevo corpus normativo. El paralelo y también
+acelerado desarrollo de mecanismos internacionales de protección de derechos, completa
+así este cuadro con una cada vez más abundante y abarcadora jurisprudencia y práctica
+internacional.
+
+Durante este proceso, esta rama del derecho internacional no sólo creció en la cantidad de
+instrumentos aprobados por los organismos internacionales y ratificados por los Estados,
+sino que también se ha extendido a una variada gama de aspectos más allá de sus
+orígenes1; paralelamente, el desarrollo de esta materia también trajo aparejada una mejor y
+mayor protección de los derechos reconocidos en la Declaración Universal, que muchas
+veces fueron tutelados en instrumentos posteriores de una forma más abarcativa2.
+
+No obstante, el desarrollo del DIDH no está exclusivamente vinculado a su evolución
+internacional. Por el contrario, el principio de subsidiariedad que gobierna en general las
+prácticas tuitivas internacionales, exige como requisito para la puesta en marcha de la
+maquinaria internacional la falta de una respuesta interna frente a las agresiones a los
+derechos humanos. Requisitos tales como el previo agotamiento de los recursos internos
+limitan la intervención internacional sólo a aquellos casos en los que el derecho local no haya
+protegido debidamente los derechos y principios tutelados internacionalmente.
+
+Esta subsidariedad de la protección internacional nos lleva a la necesaria
+complementariedad entre las dos aristas del DIDH: la protección internacional de los
+derechos humanos y su aplicación en el ámbito interno. Así, entendemos que deben
+explorarse paralelamente estas dos dimensiones de esta rama del derecho. En este sentido,
+mientras que en su dimensión internacional el DIDH se sostiene sobre los principios
+fundamentales del Derecho internacional público tradicional; en su dimensión local, la
+aplicación interna del DIDH exige una retroalimentación con el Derecho constitucional3. El
+continuo que se extiende entonces desde la protección internacional hasta la aplicación en el
+ámbito interno es el que demanda el diálogo entre ambas jurisdicciones que plantea
+Dulitzky4: ya no se trata de esferas independientes sino interdependientes5. En este sentido,
+
+[[PDF p. 2]]
+el impacto del DIDH en el Derecho local se extiende, entre otras, a la tutela de nuevos
+derechos, a la necesidad de adecuar la legislación y a una nueva conceptualización de
+antiguos derechos reconocidos por las sistemas constitucionales, tal como, por ejemplo,
+destaca Maier en relación con el derecho al recurso del condenado6.
+
+No debe soslayarse, desde esta óptica, que "el carácter mínimo y subsidiario que reviste el
+derecho internacional de los derechos humanos se concilia con la tendencia a la
+maximización y optimización del sistema de derechos, razón por la cual, para alcanzar este
+resultado, el derecho internacional no pretende erigirse en cada tratado como fuente única –
+aunque sí mínima– y, al contrario, deja abierto el sistema a lo que de más amplio le puede
+brindar el derecho interno de cada Estado, como asimismo el propio derecho internacional a
+través de otros tratados"7.
+
+La aplicación en el ámbito interno, sin embargo, no ha tenido hasta el presente el mismo
+éxito que su contraparte internacional. Si bien presenciamos actualmente una creciente
+preocupación por esta materia –de la que este libro no es sino otra variante–, es un
+diagnóstico compartido que el desarrollo de la protección internacional no ha significado por
+sí solo una mejora acorde en los derechos locales. En algún sentido, nos enfrentamos,
+entonces, a una paradoja histórica que nos muestra que si el desafío de la posguerra era la
+internacionalización de los derechos humanos como la única herramienta válida para un
+eventual destierro de los genocidios, el desafío de este fin de siglo es la nacionalización de
+los derechos universales, como la única forma de hacerlos efectivos en el ámbito interno. Si,
+en la ya clásica descripción de Bobbio8, la universalización de los derechos fue la tercera
+etapa que consolidó el consenso para la protección de los derechos humanos, hoy esta
+tercera etapa requiere una vuelta de tuerca, que haga efectivos en los Estados nacionales
+esos derechos universales.
+
+Esta nueva etapa resulta de fundamental relevancia puesto que "la jurisdicción internacional,
+con toda la importancia que tiene y ha sido puesta de manifiesto en sus decisiones, posee…
+una gravitación marginal en los asuntos que cotidianamente reclaman la atención de la
+Justicia"9. Mientras que el Derecho internacional determina las obligaciones de los Estados
+parte, será el Derecho local el que decidirá, en la práctica, la vigencia de un derecho. En este
+sentido, no debe ignorarse que sólo la efectiva protección en el ámbito interno puede
+asegurar la vigencia de los derechos internacionalmente reconocidos: la distancia entre los
+órganos internacionales de protección y el individuo cuyos derechos han sido indebidamente
+restringidos, la escasa cantidad de casos que llegan a la esfera internacional y los valores
+republicanos que explican el principio de economía procesal, son sólo algunos ejemplos de la
+necesidad de una mayor inmediatez en la protección de los derechos.
+
+En el caso argentino, por otra parte, la incorporación del DIDH en el ámbito local y su
+impacto no puede ignorar la historia reciente. Tal como demuestra el trabajo de Oliveira y
+Guembe10, el desarrollo del DIDH en el Derecho argentino está estrechamente vinculado
+con la dictadura militar que cometió gravísimas violaciones a los derechos humanos entre
+
+[[PDF p. 3]]
+1976 y 1983. En este sentido, la aplicación del Derecho humanitario en nuestro país debe ser
+entendida como una herramienta adicional para asegurar el declamado Nunca Más.
+
+Tradicionalmente, la cuestión sobre la aplicación del Derecho internacional en el ámbito
+interno fue objeto de un interés preponderantemente teórico. El DIDH también ha venido a
+revertir esta tradición, ya que la necesidad de una mejor protección, sumada al diálogo y la
+interacción entre ambos sistemas a los que nos referíamos más arriba, han transformado
+esta materia en un interrogante de neto contenido práctico. Hoy, tal como la mejor
+jurisprudencia nacional e internacional demuestra, la forma en la que los distintos órganos
+del Estado colaboran en el cumplimiento de los compromisos internacionalmente asumidos
+es un interrogante que debe ser contestado cotidianamente. Ya no se trata de un objeto de
+estudio sino de la individualización de las herramientas para cumplir una obligación
+omnipresente.
+
+En todo caso, y más allá de menciones tangenciales, este libro no se referirá, en general, a la
+incorporación del DIDH en el ámbito interno sino, más específicamente, a su aplicación por
+los tribunales nacionales. En este sentido, se dejarán a un lado las obligaciones genéricas de
+legislar o la necesidad de la adecuación de los actos de la Administración al orden normativo
+internacional. Optaremos, en cambio, por un tratamiento más individualizado de las
+obligaciones que pesan sobre el Poder Judicial, como órgano encargado de asegurar la
+vigencia y el goce de los derechos humanos. La priorización de este poder por sobre los
+otros, en todo caso, no tiene otra justificación que el reconocimiento de la superlativa
+relevancia de la labor tutelar de los derechos que deben realizar los jueces nacionales.
+
+
+
+
+II. Los lineamientos internacionales para la aplicación del DIDH en el ámbito interno
+
+"Tradicionalmente, el Derecho internacional clásico ha reservado a las legislaciones
+nacionales, en general, a las normas constitucionales, la decisión sobre la forma de
+integración del Derecho internacional al orden jurídico vigente en un Estado"11. En este
+sentido, es uniforme la doctrina respecto a reconocerles a los Estados parte la autonomía de
+determinar cuál será el mecanismo para la vigencia de la normativa internacional en el
+ámbito interno. En cualquier caso, el orden jurídico internacional ha consolidado criterios que
+hacen a la vigencia de sus propias normas y que acotan los márgenes de decisión de los
+Estados.
+
+Así, es el Derecho interno de cada Estado el que decide, por ejemplo, entre una doctrina
+monista o dualista en la incorporación del Derecho internacional a su orden normativo: es el
+Estado el que elegirá si el Derecho internacional ingresa automáticamente al orden normativo
+local o si, por el contrario, resulta en todos los casos necesaria una legislación interna que
+recepte la normativa internacional para su aplicación local. Esta es una opción que hace el
+
+[[PDF p. 4]]
+Derecho constitucional de cada Estado12, así como también define "el rango de los tratados
+sobre derechos humanos, la jerarquía de los derechos humanos en definitiva; y los recursos
+internos para su protección"13.
+
+No obstante, es preciso destacar que los tratados de derechos humanos no guardan
+absoluto silencio sobre la cuestión, sino que, por el contrario, han contemplado
+expresamente el tema de su aplicación en el ámbito interno. "Ello surge de la obligación
+explícita de adoptar las medidas que sean necesarias para garantizar el goce y ejercicio de
+los derechos protegidos en forma efectiva"14. Los tratados no deciden por sí solos cómo
+deben ser aplicados en el ámbito interno, pero sí regulan una serie de obligaciones para las
+partes contratantes que restringen algunas de sus posibles opciones.
+
+En el caso de los tratados sobre derechos humanos, las razones para estos lineamientos
+está dada, una vez, más, por la particular naturaleza de los tratados sobre derechos
+humanos. En este sentido, no resulta redundante citar la ya clásica caracterización de estos
+tratados realizada por la Corte Interamericana en su Opinión Consultiva nº 2: "La Corte debe
+enfatizar, sin embargo, que los tratados modernos sobre derechos humanos, en general, y,
+en particular, la Convención Americana, no son tratados multilaterales del tipo tradicional,
+concluidos en función de un intercambio recíproco de derechos, para el beneficio mutuo de
+los Estados contratantes. Su objeto y fin son la protección de los derechos fundamentales de
+los seres humanos, independientemente de su nacionalidad, tanto frente a su propio Estado
+como frente a los otros Estados contratantes. Al aprobar estos tratados sobre derechos
+humanos, los Estados se someten a un orden legal dentro del cual ellos, por el bien común,
+asumen varias obligaciones, no en relación con otros Estado, sino hacia los individuos bajo
+su jurisdicción" (el destacado es nuestro)15.
+
+Ejemplos de este tipo de obligaciones son el art. 1.116 y el art. 217 de la Convención
+Americana sobre Derechos Humanos, el art. 2.218 del Pacto Internacional de Derechos
+Civiles y Políticos, el art. 2.119 del Pacto Internacional de Derechos Económicos, Sociales y
+Culturales, el art. 220 de la Convención sobre la Eliminación de todas las Formas de
+Discriminación contra la Mujer y el art. 321 de la Convención sobre los Derechos del Niño.
+
+De esta mera enumeración de artículos, surge claramente que, a pesar de las diferencias
+existentes entre las distintas obligaciones emergentes de cada uno de estos tratados, al
+incorporar el DIDH a sus ordenamientos internos, si bien los Estados pueden decidir la forma
+en que se aplicará este derecho, los tratados ya regulan en su texto algunos de los
+mecanismos para su aplicación que deberán ser respetados. En este sentido, se ha
+sostenido reiteradamente en la doctrina y la jurisprudencia internacional que las obligaciones
+de los Estados parte son: obligación de respeto, obligación de adoptar las medidas
+necesarias, y la obligación de garantía22, de las que, como explica Kawabatta23, se derivan
+una serie de deberes en el ámbito interno de los Estados parte.
+
+Entre estos deberes, hemos destacado especialmente en este volumen el de asegurar la
+tutela judicial de los derechos internacionalmente protegidos, por entender que constituyen el
+
+[[PDF p. 5]]
+reaseguro último para la vigencia de los derechos. En palabras de Méndez al considerar los
+deberes de los Estados parte, "Al derecho internacional le es indiferente que esa obligación
+se cumpla por vía administrativa, judicial, o del Poder Legislativo, de la misma manera que la
+división de poderes sería inoponible a la comunidad como causal de incumplimiento de una
+obligación solemnemente contraída ante ella… Sin embargo, ante un incumplimiento, ya sea
+total o parcial, es a la justicia a quien corresponderá arbitrar los medios para garantizar el
+goce del derecho, tanto porque en el derecho interno el Poder Judicial es el garante final de
+los derechos de las personas, como porque es al estamento judicial al que compete la
+responsabilidad por la incorporación de las normas internacionales al derecho interno"24.
+
+Y dentro de esta obligación genérica de tutelar los derechos, es importante destacar la
+diferenciación que realiza Gordillo el concluir que "Todas las normas referidas son claras en
+distinguir la defensa en juicio en general, de la defensa de los derechos y libertades
+fundamentales de los tratados, las constituciones o las leyes de cada país en particular: para
+los segundos exige, sin limitación ni recaudo alguno, un procedimiento especial, sencillo,
+breve, efectivo, ante los tribunales competentes"25.
+
+En síntesis, podemos concluir que el DIDH no dispone cuál debe ser la forma que utilizará un
+Estado parte para cumplir con sus compromisos internacionales, y quedará en manos de
+cada uno de ellos la determinación de si es necesaria o no una legislación interna que dé
+fuerza operativa a los tratados sobre derechos humanos y la jerarquía de estos tratados en el
+ámbito interno; no obstante, en el caso del DIDH, esta autonomía del Estado queda
+parcialmente limitada respecto a la forma en que deberá organizarse para cumplir con la
+protección de los derechos convenida internacionalmente, al exigir, entre otras obligaciones,
+una adecuada protección judicial, que incluye el deber de asegurar un procedimiento
+especial, rápido e idóneo.
+
+
+
+
+III. La respuesta del Derecho constitucional argentino
+
+1) La Constitución Nacional de 1853/60
+
+Ya en la Constitución Nacional del 53/60 se había dado una respuesta clara en torno a la
+aplicación de los tratados internacionales en el ámbito interno. En este sentido, el artículo 31
+de la C.N. dispone, desde los orígenes de la conformación del Estado argentino, que "Esta
+Constitución, las leyes de la Nación que en su consecuencia se dicten por el Congreso y los
+tratados con las potencias extranjeras son la ley suprema de la Nación".
+
+A partir de esta fórmula, tanto la doctrina como la jurisprudencia entendió que el
+constituyente del siglo pasado había optado por la incorporación automática de los tratados
+en el ordenamiento jurídico argentino y que la jerarquía de la normativa internacional era
+
+[[PDF p. 6]]
+similar a las de las leyes de la Nación. De este modo, desde antaño se consolidó en nuestro
+país la doctrina de que los tratados debían recibir el mismo trato que las leyes, confiriendo
+derechos al igual que cualquier otra norma interna.
+
+La meridiana claridad de la postura dominante se contradecía, por ese entonces, con las
+dudas que generaba el hecho de que una eventual ley posterior a la ratificación de un tratado
+pudiera generar contradicciones entre ambas normas y que, en tal caso, ni la doctrina ni la
+jurisprudencia dieran una respuesta frente a la posible responsabilidad internacional. Incluso,
+en 1963, en el caso "Martín & Cía. Ltda."26, la Corte Suprema consideró que la eventual
+responsabilidad internacional del Estado no debía llevar a decisiones judiciales diferentes a
+las que llevaba la normal aplicación de la jerarquía legal de los tratados.
+
+Paralelamente, otra discusión ocupaba la atención de los tratadistas en torno a la aplicación
+de los tratados sobre derechos humanos: la exigibilidad de sus disposiciones. Aun
+considerando, tal como se sostenía unánimemente, que los tratados ingresaban
+automáticamente al ordenamiento jurídico argentino, un importante sector de la doctrina y
+una escasa jurisprudencia del máximo tribunal entendía que la exigibilidad ante nuestros
+tribunales de un derecho reconocido internacionalmente dependía de su tutela por parte de
+las normas locales y que, por consiguiente, el compromiso internacional era programático.
+Así, en el caso "E. F. E."27, la Corte entendió que el derecho de los hijos nacidos fuera del
+matrimonio a tener similar trato legal que los nacidos dentro de éste, tutelado en el art. 17.5
+de la CADH, era una pauta programática de acuerdo con lo que supuestamente determinaba
+el art. 2 de la misma Convención. Esta decisión, si bien podía ser correcta en el especial
+derecho tutelado –que ha sido incluso considerado como un ejemplo de norma programática
+por parte de la propia Corte IDH28– equivocaba los argumentos para la decisión, al
+interpretar el artículo 2 como una pauta de programaticidad.
+
+Después de una serie de vaivenes en estas cuestiones que ya son sólo historia, la Corte
+decidió en 1992 el repetidamente citado caso "Ekmekdjian c/Sofovich"29. En este caso, en el
+que se discutía la exigibilidad del derecho de rectificación o respuesta tutelado en el art. 14
+de la CADH, la Corte sentó una serie de nuevos principios reguladores de nuestra materia
+que modificaron sensiblemente el estado de la discusión y establecieron nuevas pautas para
+la aplicación del DIDH en el ámbito interno.
+
+En primer lugar, se reconoce explícitamente que una interpretación armoniosa de los
+postulados constitucionales exige otorgarle a los tratados internacionales jerarquía superior a
+las leyes federales. Con esta afirmación se concluye entonces con bizantinas discusiones en
+torno a una eventual derogación implícita de un tratado a través de una ley posterior.
+
+En segundo término, se determinó que el derecho alegado era "operativo", esto es,
+automáticamente exigible ante los tribunales nacionales, modificando así la jurisprudencia ya
+citada del caso "E. F. E." –en lo referido a lo dispuesto en el art. 2 de la CADH–. En este
+sentido, se consideró que los derechos tutelados internacionalmente, al ser suscriptos por el
+
+[[PDF p. 7]]
+Estado argentino, podían ser inmediatamente reclamados por los individuos sujetos a la
+jurisdicción local30.
+
+En tercer término, y tal vez más importante aún que las dos cuestiones anteriores, se
+argumentó que, al momento de decidir una cuestión que involucraba la aplicación de un
+tratado internacional, debía seguirse la jurisprudencia de los órganos encargados de
+interpretar el instrumento internacional. Así, para el caso en debate, la Corte se remitió para
+su resolución a la Opinión Consultiva 7/86 de la Corte Interamericana de Derechos
+Humanos31.
+
+Finalmente, en forma expresa se refirió que, en el caso de que estuviera en juego la eventual
+responsabilidad internacional del Estado por el incumplimiento de sus obligaciones
+libremente asumidas al momento de ratificar un tratado, los tribunales no podían ignorar el
+papel que deben desempeñar como garantes del accionar legítimo del Estado32.
+
+Todas estas cuestiones nos llevan a considerar el caso "Ekmekdjian c/Sofovich" como algo
+más que un leading case: es un punto de inflexión, que ha merecido innumerables
+reconocimientos tanto de la doctrina nacional como de la internacional33. En este sentido,
+corresponde reconocer que este fallo se inscribe en la dirección correcta en lo referido a la
+aplicación de los tratados sobre derechos humanos por parte de los tribunales nacionales e
+incluso avanza más allá de lo que puede verificarse en otras latitudes.
+
+Sin embargo, también es necesario destacar que la solución del caso produjo en muchos de
+sus observadores una sensación ambivalente. Los hechos del caso, como se recordará, eran
+los siguientes: el señor Ekmekdjian, un reconocido profesor de derecho constitucional, se
+había sentido agraviado, en su calidad de creyente católico, por los dichos de un irreverente
+invitado, quien en el programa del demandado Sofovich había realizado una serie de
+referencias deshonrosas sobre la figura de la Virgen María. Los hechos, entonces, no nos
+enfrentaban solamente con la cuestión ya mencionada de la operatividad del derecho de
+rectificación o respuesta: también se trataba del alcance que se le daba a ese derecho y de
+las eventuales consecuencias ulteriores que podría traerle aparejado a un conductor de
+televisión las opiniones vertidas por uno de sus invitados. El reconocimiento de que la
+afectación emocional de un creyente por sus convicciones religiosas, en este caso las
+católicas, habilitaba la exigibilidad de la réplica, dejaba la sensación amarga de que los
+buenos argumentos habían sido utilizados para fines no tan santos.
+
+
+
+2) La reforma de 1994
+
+La reforma constitucional de 1994 introdujo varios cambios en lo referido a la protección de
+los derechos humanos. No nos interesa aquí detallar todas estas modificaciones, sino que
+nos limitaremos a las disposiciones referidas a la aplicación en el ámbito interno de los
+instrumentos internacionales sobre derechos humanos. Es necesario destacar que la reforma
+
+[[PDF p. 8]]
+continuó en la línea de los principios jurisprudenciales sentados a partir del precedente
+"Ekmekdjian", pero no se limitó a darles reconocimiento constitucional sino que avanzó aún
+más allá de ellos.
+
+Con cuestionable ingeniería constitucional, el art. 75, al enumerar las atribuciones del Poder
+Legislativo, dispone en su inciso 22 que corresponde al Congreso: "Aprobar o desechar
+tratados concluidos con las demás naciones y con las organizaciones internacionales y los
+concordatos con la Santa Sede. Los tratados y concordatos tienen jerarquía superior a las
+leyes. La Declaración Americana de los Derechos y Deberes del Hombre; la Declaración
+Universal de Derechos Humanos…; en las condiciones de su vigencia, tienen jerarquía
+constitucional, no derogan artículo alguno de la primera parte de esta Constitución y deben
+entenderse complementarios de los derechos y garantías por ella reconocidos. Sólo podrán
+ser denunciados, en su caso, por el Poder Ejecutivo nacional, previa aprobación de las dos
+terceras partes de la totalidad de los miembros de cada Cámara. Los demás tratados y
+convenciones sobre derechos humanos, luego de ser aprobados por el Congreso, requerirán
+el voto de las dos terceras partes de la totalidad de los miembros de cada Cámara para
+gozar de la jerarquía constitucional".
+
+Como surge explícitamente de este artículo, a partir de la reforma ha quedado establecida
+una nueva pirámide normativa. En su cima se encuentra la Constitución, a la que se le
+agregan los instrumentos internacionales sobre derechos humanos a los que se les otorga
+jerarquía constitucional en el artículo citado y los que pudieran obtenerla por el mecanismo
+previsto en el último párrafo transcripto34 –lo que conforma el denominado "bloque de
+constitucionalidad"–; un peldaño por debajo se encuentran los demás tratados
+internacionales ratificados por la Argentina y, por debajo de ellos, las leyes. Con este nuevo
+texto, entonces, todos los tratados están por encima de las leyes, tal como lo estableció la
+Corte Suprema en el fallo "Ekmekdjian", pero algunos de ellos gozan de jerarquía
+constitucional.
+
+Con estas modificaciones, nuestra Carta Magna se suma a la tendencia internacional de
+otorgarle un espacio ad hoc a los tratados internacionales sobre derechos humanos. Sin
+embargo, se ha distanciado de otras fórmulas comparadas que remiten en general al
+Derecho internacional de los derechos humanos, optando por una enumeración taxativa de
+los instrumentos internacionales que alcanzan dicho carácter35.
+
+Es necesario destacar que, tal como se ha enunciado más arriba, la técnica legislativa
+utilizada para esta reforma no ha sido la mejor. Por el contrario, no sólo es inusual la reforma
+a la pirámide normativa a través de la determinación de las atribuciones del Congreso, sino
+que también es posible verificar una serie de oscuridades en el texto legal, que dificultan su
+interpretación. El apartado IV estará dedicado parcialmente a algunos de estos problemas de
+interpretación.
+
+[[PDF p. 9]]
+3) La remisión constitucional al Derecho de Gentes
+
+El actual artículo 118 de la CN –anteriormente artículo 102– establece que: "Todos los juicios
+criminales ordinarios, que no se deriven del derecho de acusación concedido a la Cámara de
+Diputados se terminarán por jurados, luego que se establezca en la República esta
+institución. La actuación de estos juicios se hará en la misma provincia donde se hubiere
+cometido el delito; pero cuando éste se cometa fuera de los límites de la Nación, contra el
+Derecho de Gentes, el Congreso determinará por una ley especial el lugar en que haya de
+seguirse el juicio" (el destacado es nuestro).
+
+Esta referencia al Derecho de Gentes pasó en general desapercibida para la doctrina y la
+jurisprudencia vernáculas; sin embargo, en los últimos años está dando lugar a una
+iluminante jurisprudencia que consagra al ius gentium como una fuente normativa adicional
+de nuestro ordenamiento jurídico. No corresponde detenernos aquí en la consideración de
+esta cuestión, puesto que es preferible remitirnos al artículo que, en este mismo volumen,
+escribe Leopoldo Schiffrin, sin duda uno de los pioneros –si no el pionero– de esta
+interpretación, que analizara brillantemente en su memorable voto en el caso
+"Schwammberger". En todo caso, no queríamos obviar en esta introducción el hecho de que
+la referencia constitucional al Derecho de Gentes sin duda abre una nueva puerta para la
+aplicación del DIDH en el ámbito interno, en la medida en que existiría un sustento
+constitucional para la supremacía del Derecho de Gentes por sobre la ley nacional.
+
+
+
+
+IV. Algunos nuevos y viejos interrogantes
+
+1) El caso de conflicto entre una norma constitucional y una disposición de un tratado
+sobre derechos humanos
+
+Aunque sensiblemente modificada por la nueva Constitución, la cuestión de la relación entre
+el Derecho internacional y el Derecho local sigue siendo materia de numerosas disputas. No
+nos ocuparemos con detalle en esta introducción de esta discusión debido a que preferimos
+remitirnos a los artículos de este mismo volumen que se refieren, con distintas posturas, a
+este interrogante36. En todo caso, nos limitaremos a mencionar que las posiciones oscilan
+desde la imposibilidad de una contradicción entre la parte dogmática de la Constitución y los
+tratados sobre derechos humanos –ya sea por compartir el mismo punto de partida, como ha
+sostenido reiteradamente Bidart Campos37, o por un juicio constituyente en este sentido, tal
+como lo explica en su capítulo Guillermo Moncayo38–, hasta la supremacía de uno de los
+dos sistemas, ya sea por la vigencia del art. 27 de la CN39 o por la remisión constitucional al
+Derecho de Gentes, de la que, como ya fuera explicado, se ocupa Schiffrin40.
+
+[[PDF p. 10]]
+Una cuestión estrechamente vinculada a la supremacía de una u otra fuente se refiere a la
+interpretación de la infortunada sintaxis constitucional del ya citado art. 75, inc. 22, cuando
+decide que los tratados enumerados "no derogan artículo alguno de la primera parte de esta
+Constitución y deben entenderse complementarios de los derechos y garantías por ella
+reconocidos". Esta afirmación constitucional ha dado lugar a numerosos cuestionamientos
+relacionados con la innecesariedad de su contenido y a una variada interpretación del
+término "complementarios".
+
+Acerca de este interrogante, en el propio seno de la Convención Constituyente se dieron dos
+respuestas a este eventual conflicto: el convencional Barra sostuvo que era necesario
+diferenciar entre el articulado de la Constitución referente al reconocimiento de derechos y
+garantías, esto es, la parte dogmática, para darle prioridad a estos artículos por sobre el texto
+de los tratados en caso de contradicción; en el caso del restante articulado constitucional, en
+cambio, debería primar, para este mismo convencional, el DIDH.
+
+Por su parte, el convencional Cafiero sostuvo que en todos los casos debía prevalecer la
+regulación más favorable a la persona; sin embargo, como se ha sostenido, esta posición es
+un comienzo, pero no da respuesta a casos extremadamente conflictivos, en los que no es
+sencillo determinar cuál es la posición que más favorece a la vigencia de un derecho en
+particular.
+
+Desde el punto de vista del DIDH, no puede caber duda que la aplicación del principio pro
+homine debe ser el punto de partida –no sólo por la vigencia de este principio en el Derecho
+internacional sino también por su incorporación al ordenamiento jurídico interno con la
+constitucionalización de los tratados; volveremos más abajo sobre este punto–. No obstante,
+no puede desconocerse que, en algunos casos, este principio no resolverá la cuestión. Tal
+sería el supuesto, por ejemplo, de la discusión en torno a la libertad de expresión y el
+derecho de rectificación o respuesta. Es sabido que algunas asociaciones de periodistas
+sostienen que la vigencia del derecho a la rectificación viola la libertad de expresión. Sobre
+esta cuestión en particular la Corte Suprema ya expresó su opinión en el citado caso
+"Ekmekdjian"; sin embargo, ¿podría la Corte modificar su jurisprudencia, interpretar el art. 14
+de la CADH como contrario al art. 14 de la CN y entender que el art. 27 exige la supremacía
+de la parte dogmática de la Constitución Nacional? Entendemos que no y, en este sentido,
+son clarificadores los argumentos de Moncayo en relación al juicio constituyente. Sin
+embargo, ¿es correcta la apreciación de este mismo autor de que el juicio legislativo al darle
+jerarquía constitucional no tiene el mismo valor a este respecto? ¿Por qué el legislador, por
+vía de una mayoría especial, es asimilable al constituyente para poder otorgar jerarquía
+constitucional, pero su juicio sobre la compatibilidad de ambos sistemas no es asimilable al
+del constituyente?
+
+En relación también con la jerarquía de los tratados sobre derechos humanos, pero en este
+caso de aquellos que, aun siendo parte del derecho argentino, no gozan de la jerarquía
+constitucional, la situación es, en principio, más sencilla, en tanto éstos prevalecerán con
+respecto a la normativa interna, teniendo que ceder frente a la Constitución. Si bien en los
+
+[[PDF p. 11]]
+primeros casos que revirtieron la histórica doctrina del caso "Martín" ya citado, dejaron la
+puerta abierta con respecto a las especulaciones que pudieran hacerse en relación a la
+declaración de inconstitucionalidad de un tratado y la eventual responsabilidad internacional,
+en los más recientes fallos "Fibraca"41 y "Cafés la Virginia"42, quedó claramente establecido
+que los tratados de rango no constitucional deben ser interpretados a la luz del art. 27 CN.
+
+En estos dos casos, la Corte Suprema sostuvo la primacía de los tratados en discusión sobre
+la normativa interna, argumentando lo dispuesto en el art. 27 de la Convención de Viena
+sobre Derecho de los Tratados. En este sentido, la Corte sentenció que "La necesaria
+aplicación de este artículo impone a los órganos del Estado argentino –una vez asegurados
+los principios de derecho público constitucionales– asignar primacía a los tratados ante un
+eventual conflicto con cualquier norma contraria"43. Como surge claramente de la referencia
+a la necesidad de asegurar los "principios de derecho público constitucionales", en todo caso
+que se entienda que las disposiciones de un tratado que no goce de jerarquía constitucional
+vulneran estos principios, la norma internacional podrá ser tachada de inconstitucional44.
+
+
+
+
+2) La incorporación de nuevos principios de interpretación
+
+Como hemos visto en el punto anterior, la incorporación al ordenamiento jurídico argentino
+de todo un nuevo corpus normativo, presenta una serie de desafíos diversos que hacen a su
+aplicación por los tribunales. Nos referimos no ya sólo a los casos de conflicto estudiados
+más arriba, sino también a la forma genérica por la que se le da cabida en el ordenamiento
+jurídico interno. El desafío de la compatibilización de la totalidad de las normas que hoy
+forman parte del ordenamiento jurídico argentino, entonces, obliga a agudizar los
+mecanismos de interpretación, con el fin de asegurar la vigencia armónica de toda la
+normativa.
+
+Con este objeto se han sostenido una serie de posiciones que, a diferencia de las
+enunciadas en el punto anterior, no se contraponen sino que se complementan. Algunas de
+estas posiciones sostienen principios de interpretación basados sobre el derecho
+constitucional, mientras que otras apuntan a la aplicación de los principios del DIDH. En
+cualquier caso, como bien expresa Bidart Campos, al estar los derechos humanos en el
+vértice mismo tanto del Derecho interno como del Derecho internacional, debe imponerse
+siempre una interpretación a favor de la vigencia de los derechos, que les dé supremacía por
+sobre cualquier otro valor normativo45.
+
+Pasando a analizar el impacto que tiene la incorporación del DIDH en el ámbito interno,
+corresponde entonces afirmar que la ratificación de los tratados no significa únicamente el
+reconocimiento de nuevos derechos o un mayor alcance de su protección, sino que también
+significa la incorporación de aquellos principios que, vinculados con la irrestricta vigencia de
+
+[[PDF p. 12]]
+los derechos humanos, dispone el DIDH. En este sentido, corresponde sin lugar a dudas
+destacar en primer término la adopción del ordenamiento jurídico argentino del principio pro
+homine, como un criterio fundacional de aplicación de los derechos tutelados. Este principio,
+tal como lo describe Mónica Pinto46, exige estar siempre a la interpretación que más
+favorece a la vigencia de los derechos. Si bien preferimos remitirnos al artículo mencionado
+para un estudio meticuloso de algunas de las consecuencias de la aplicación de este
+principio, corresponde al menos ahora dejar sentado que no se trata de un criterio para la
+opción entre dos normas, sino que es una guía para la protección de un derecho en cada
+caso particular. La diferencia entre uno y otro criterio significa que no habrá una norma que
+sea, en todos los casos, la más garantizadora, sino que ello dependerá de su aplicación a
+cada hecho particular. En la misma línea argumental, también merece destacarse que
+adquieren jerarquía supralegal los demás criterios de interpretación del Derecho
+internacional, tales como el de interpretar de buena fe, el pacta sunt servanda y aquéllos
+referidos a la finalidad y el objeto de los tratados.
+
+En relación a los nuevos principios constitucionales de interpretación que se incorporan a
+partir de la reforma de 1994, merece especial consideración la doctrina sostenida
+uniformemente por la Corte Suprema a partir del leading case "Giroldi". En este caso, la
+Corte interpretó: "Que la ya recordada ‘jerarquía constitucional’ de la Convención Americana
+sobre Derechos Humanos ha sido establecida por voluntad expresa del constituyente ‘en las
+condiciones de su vigencia’ (artículo 75, inc. 22, 2º párrafo), esto es, tal como la Convención
+citada efectivamente rige en el ámbito internacional y considerando particularmente su
+efectiva aplicación jurisprudencial por los tribunales internacionales competentes para su
+interpretación y aplicación. De ahí que la aludida jurisprudencia deba servir de guía para la
+interpretación de los preceptos convencionales en la medida en que el Estado Argentino
+reconoció la competencia de la Corte Interamericana para conocer en todos los casos
+relativos a la interpretación y aplicación de la Convención Americana (cf. arts. 75 de la
+Constitución Nacional, 62 y 64 Convención Americana y artículo 2 ley 23.054)"47.
+
+En este caso, la Corte constitucionalizó su jurisprudencia anterior en relación al carácter de
+guía de las decisiones internacionales que había reconocido ya en el fallo "Ekmekdjian", e
+interpretó la expresión "en las condiciones de su vigencia" otorgándole un contenido
+adicional al que le había dado la doctrina al limitarlo al reconocimiento del efecto de las
+reservas al momento de la ratificación de un tratado.
+
+Este criterio de interpretación sentado por la Corte, al remitir a las decisiones de los
+organismos internacionales, tiene un doble efecto: por un lado, ratifica la incorporación de los
+criterios de interpretación del Derecho internacional al ordenamiento jurídico argentino y, por
+el otro, ratifica, pero ahora como instrucción constitucional, el carácter de guía que debe
+dárseles a las decisiones de los organismos internacionales. En todo caso, resta por
+determinarse cuál es el alcance de esa guía y si, en todo caso, se trataría de decisiones
+vinculantes para los tribunales locales48.
+
+[[PDF p. 13]]
+3) De la interpretación progresista a la aplicación bastarda
+
+A pesar de los aciertos de nuestro Supremo Tribunal en el caso "Giroldi", no todos son
+aplausos: dos recientes decisiones nos enfrenta con la posibilidad de que los mismos
+instrumentos internacionales puedan ser utilizados para limitar los derechos de otro modo
+protegidos en el Derecho interno, en abierta contradicción al principio pro homine antes
+expuesto.
+
+Nos referimos a los casos "Bramajo"49 y "Chocobar"50, de septiembre y diciembre de 1996
+respectivamente. En el primero de estos casos se discutía el alcance de la ley 24.390, que
+regula la duración máxima de la prisión preventiva (denominada comúnmente "ley del dos
+por uno"). Al momento de determinar, entonces, si los límites objetivos que la ley dispone
+para la duración de la prisión preventiva eran aplicables o no al caso pendiente ante el
+tribunal, la Corte resolvió, alegando para ello una antigua decisión de la Comisión
+Interamericana de Derechos Humanos, que el plazo razonable al que alude el art. 7.551 del
+mencionado Pacto exige dejar librada a la discrecionalidad del juzgador la determinación de
+la legalidad o no de una detención preventiva. De este modo, la Corte Suprema,
+interpretando a la luz de supuestos principios internacionales, se opone a cualquier
+aplicación automática de límites objetivos definidos legislativamente.
+
+Dos importantes objeciones merece, desde el punto de vista del DIDH, esta decisión. En
+primer lugar, tal como ya fuera esbozado, es muy discutible que la interpretación hecha por
+nuestro máximo tribunal sea la más favorable para la vigencia de los derechos humanos, tal
+como ordena el principio pro homine52. Pero, además, el art. 29 de la CADH es muy claro al
+establecer que: "Ninguna disposición de la presente Convención puede ser interpretada en el
+sentido de: "… b) limitar el goce y ejercicio de cualquier derecho o libertad que pueda estar
+reconocido de acuerdo con las leyes de cualquiera de los Estados parte…".
+
+En este sentido, el criterio de la Convención es preciso: no puede limitarse un derecho
+reconocido por el ordenamiento jurídico interno utilizando como argumento la vigencia del
+tratado. La regla práctica para poner a prueba cualquier decisión que invoque el DIDH es
+sencilla: si no existiera la norma del DIDH que se quiere aplicar en un caso concreto, ¿el
+individuo gozaría más o menos de la vigencia del derecho? Si la respuesta nos dice que la
+utilización de la normativa internacional restringe el derecho, entonces su aplicación es
+contraria a los principios del DIDH en general, y al artículo 29 de la CADH en particular.
+Desde este punto de vista, no cabe duda que la sentencia en "Bramajo" es contraria, por la
+aplicación que hace de ella la Corte Suprema, a la CADH.
+
+Pero además de esta errónea interpretación realizada por la Corte, la sentencia en "Bramajo"
+cuenta también con una segunda y grave falencia. Nos referimos al hecho de que, al
+momento de la resolución tomada por la Corte, ya existía una nueva decisión de la Comisión
+Interamericana, exactamente en el sentido contrario a la de nuestro máximo tribunal. Se trata
+
+[[PDF p. 14]]
+del Informe de la Comisión en el caso "Giménez", resuelto por este órgano con fecha 1º de
+marzo de 1996 y publicado en el Informe Anual de la Comisión Interamericana de Derechos
+Humanos 199553. En esta decisión, además de modificar parcialmente su dictamen del caso
+citado por la Corte, la Comisión explícitamente felicita al Gobierno argentino por la sanción
+de la ley 24.390 y considera un acierto la determinación de límites objetivos determinados
+legislativamente para su aplicación automática por parte del magistrado que entiende en la
+causa54.
+
+Este segundo equívoco de la Corte nos enfrenta con una nueva complejidad del criterio
+interpretativo de tribunal expuesto a partir de "Giroldi". El interrogante, entonces, se refiere a
+qué deben hacer los tribunales nacionales para estar seguros de que aplicarán la
+jurisprudencia internacional apropiada a cada caso que deban resolver. Si bien, en el caso
+que estamos actualmente analizando, es sencillo argumentar que la Corte Suprema está en
+condiciones y debe conocer, al menos, todas las decisiones de los órganos del sistema
+interamericano referidos directamente a la Argentina, ¿puede razonablemente sostenerse el
+mismo principio en relación con un juez del interior del país, quien debería estar informado de
+una reciente decisión del Comité de Derechos Humanos en relación al alcance de un
+derecho protegido por el Pacto Internacional de Derechos Civiles y Políticos? Si bien lenta
+pero progresivamente las decisiones de organismos internacionales se van difundiendo más
+sistemáticamente, es necesario reconocer que el conocimiento que normalmente se tiene de
+la jurisprudencia internacional es fragmentado y que, por lo tanto, puede dar lugar a
+decisiones desactualizadas por parte de los tribunales nacionales. En todo caso, no deben
+confundirse estas consideraciones generales con alguna forma de indulgencia respecto a la
+responsabilidad que le cupo en este caso puntual a nuestro máximo tribunal, al desconocer
+una decisión que no le podía ser ajena.
+
+En el segundo de los casos mencionados, "Chocobar", se debatían cuestiones atinentes a la
+vigencia de derechos previsionales. En este contexto, en su considerando 11, la Corte
+entendió: "Que, por lo demás, a los fines de una correcta interpretación de la Ley Suprema,
+no debe olvidarse que la reforma constitucional de 1994 ha incorporado con jerarquía
+constitucional, como complementarios de los derechos y garantías reconocidos en la primera
+parte de nuestra Carta Magna, los derechos consagrados en ciertos tratados internacionales.
+En lo que aquí respecta, la Declaración Universal de Derechos Humanos establece que ‘toda
+persona, como miembro de la sociedad, tiene derecho a la seguridad social…, habida cuenta
+de la organización y los recursos de cada Estado’ (art. 22). En análogo sentido, la
+Convención Americana sobre Derechos Humanos dispone que ‘los Estados parte se
+comprometen a adoptar providencias… para lograr progresivamente la plena efectividad de
+los derechos que se derivan de las normas económicas, sociales y sobre educación… en la
+medida de los recursos disponibles’ (art. 26). Tales referencias –que vinculan los beneficios
+sociales a las concretas posibilidades de cada Estado– resultan idóneas para interpretar el
+alcance de la movilidad aludida en el art. 14 bis de la Constitución Nacional toda vez que
+ésta debe ser analizada como un conjunto armónico, dentro del cual cada una de las
+disposiciones ha de interpretarse de acuerdo con el contenido de las demás. De allí se
+desprende que la atención a los recursos ‘disponibles’ del sistema pueda constituir una
+
+[[PDF p. 15]]
+directriz adecuada a los fines de determinar el contenido económico de la movilidad
+jubilatoria, en el momento de juzgar sobre el reajuste de las prestaciones o de su
+satisfacción"55.
+
+Sin entrar a considerar en este apartado la compleja cuestión de la interpretación de las
+obligaciones internacionales sobre derechos económicos, sociales y culturales –para lo que
+preferimos remitir al meticuloso y provocador estudio que, en este mismo volumen, presenta
+el artículo de Abramovich y Courtis56–, es posible cuestionar la decisión del tribunal por su
+contradicción con el art. 29 de la CADH y similares. En este sentido, coincidimos con Carnota
+cuando se interroga "si resulta posible, desde el Derecho internacional de los derechos
+humanos, subordinar los derechos sociales a la existencia de las respectivas partidas
+presupuestarias. Un primer vistazo del problema parecería indicar que no sería desacertado
+que estos documentos contuviesen, si quiera mínimamente, algún ingrediente de disciplina
+fiscal. Empero, esa consideración parece ineludible para la consagración de derechos en
+clave de futuro, no de aquellos que ya estaban presentes en el derecho interno"57 (el
+destacado en el original).
+
+Desde este punto de vista, una vez más, la decisión de la Corte no pasa la prueba de la
+supuesta inexistencia de la disposición internacional: si la disposición internacional no
+hubiera existido, habría un argumento menos para la restricción del derecho y, por lo tanto, la
+aplicación de la normativa internacional en este caso es contraria a los principios del DIDH.
+
+
+
+
+4) La operatividad y la programaticidad de los derechos tutelados internacionalmente
+
+La cuestión debatida en la sentencia en "Chocobar", esto es, los derechos a la seguridad
+social, nos llevan directamente a otra materia sumamente debatida en relación con la
+aplicación interna del DIDH. Nos referimos al ya enunciado problema de la operatividad y la
+programaticidad de las disposiciones de los tratados.
+
+A partir del momento en que el DIDH forma parte del Derecho local, esto es, en el Derecho
+constitucional argentino, con la ratificación del tratado, los individuos sujetos a la jurisdicción
+nacional gozan automáticamente de los derechos internacionalmente tutelados. No obstante,
+es sabido que la tutela internacional no es igual en todos los casos y que, tal como lo ha
+reconocido la propia Corte IDH, la exigibilidad o no de un derecho habrá de determinarse de
+acuerdo con la formulación del derecho que se haga en el texto internacional58.
+
+Para el caso de los derechos civiles y políticos, en general, y, en particular, para los derechos
+reconocidos en la CADH, la disputa parece haber quedado saldada a partir de la presunción
+de operatividad –dándole al art. 2 de la CADH el carácter de obligación adicional de legislar
+cuando fuere necesario y no un carácter de norma programática– que les ha reconocido a los
+
+[[PDF p. 16]]
+derechos allí reconocidos la Corte IDH en la ya citada Opinión Consultiva 7, y que fuera por
+su parte adoptada por nuestra Corte Suprema explícitamente en el caso "Ekmekdjian".
+
+La solución, en cambio, no parece tan sencilla en el supuesto de los derechos económicos,
+sociales y culturales. Más allá de las obligaciones generales que, en esta materia específica,
+asumió la Argentina al ratificar el Pacto Internacional de Derechos Económicos, Sociales y
+Culturales, y que resultan inmediatamente exigibles, se ha sostenido que la presunción de
+operatividad no se aplica en el supuesto de estos derechos, de modo tal que su ejercicio no
+podrá ser en todos los casos exigido automáticamente.
+
+Si, como bien argumentan Abramovich y Courtis, debe entenderse, al igual que para los
+derechos civiles y políticos, que son los órganos internacionales de verificación del
+cumplimiento de las obligaciones internacionales aquellos que determinarán la interpretación
+de las obligaciones asumidas, debemos entonces concluir que también deben servir de guía
+los estándares determinados por el Comité de aplicación de dicho Pacto.
+
+En este sentido, las reglas enunciadas en la Observación General nº 3 de este Comité en
+relación a la obligación de adoptar medidas y el principio de no regresividad, analizadas en
+detalle en la citada contribución, deberían ser pautas fundacionales para la protección de
+estos derechos por parte de las autoridades locales. En cualquier caso, y como también
+destacan los mismos autores, lo que sí surge como una obligación ineludible a partir de la
+ratificación de estos instrumentos internacionales es la necesidad de ofrecer recursos
+judiciales, esto es, la de asegurar la tutela judicial de estos derechos.
+
+No obstante, ni siquiera la mera extensión a los derechos sociales de los principios
+reconocidos por nuestro máximo tribunal en otras materias parece que vaya a ser fácilmente
+aceptada por nuestros tribunales a la luz de lo decidido en "Chocobar".
+
+
+
+
+5) La ejecución en el ámbito interno de las decisiones de organismos internacionales
+
+Tal vez, una de las cuestiones en torno a la aplicación del DIDH en el ámbito interno que
+requiere de un tratamiento urgente, tanto por parte de la doctrina como la jurisprudencia, es
+el de la ejecución de las decisiones de organismos internacionales. Se trata de la necesidad
+de explorar cuáles son las posibilidades, tanto de acuerdo a la legislación vigente como en
+relación a eventuales modificaciones legislativas, de aplicar jurisdiccionalmente las
+decisiones resolutivas de los órganos encargados de la protección internacional de los
+derechos humanos.
+
+Esta materia puede ser analizada desde distintas variantes. Puede estudiarse desde los
+mecanismos previstos en el Derecho internacional o desde los mecanismos previstos por el
+
+[[PDF p. 17]]
+Derecho interno; o bien de acuerdo a las características del órgano internacional que toma la
+decisión (si se trata de un órgano político, uno cuasi-jurisdiccional o un tribunal internacional);
+o bien considerando si la decisión se refiere a un caso individual o a una situación general.
+Para paliar en alguna medida este vacío, este volumen cuenta con un artículo referido, en
+particular, a la ejecución de las decisiones de tribunales internacionales, a cargo de Oscar
+Fappiano, quien, durante su mandato como miembro de la Comisión Interamericana, redactó
+un proyecto de ley sobre la materia que acompaña su trabajo.
+
+La pregunta, en todo caso, es sencilla: ¿puede un individuo, cuya situación ha dado lugar a
+una resolución de un organismo internacional que encuentra al Estado argentino responsable
+por la violación de sus derechos humanos, presentarse ante un tribunal nacional exigiendo el
+cumplimiento de lo decidido por el órgano internacional?
+
+La respuesta puede ser distinta si consideramos las variables enunciadas más arriba. El
+primer elemento a considerar es si debemos hacer alguna diferenciación entre los tribunales
+internacionales y los demás órganos internacionales. En este sentido, entendemos que, si
+bien desde el punto de vista del Derecho internacional existen diferencias sensibles entre el
+carácter de unos y otros de estos órganos, la misma diferenciación no puede realizarse
+automáticamente en el Derecho interno.
+
+Si desde el punto de vista del Derecho constitucional argentino el Estado se ha obligado para
+con sus súbditos a respetar los derechos humanos tal como ellos han sido reconocidos en
+los distintos instrumentos del DIDH, debe concluirse entonces necesariamente que, cada vez
+que un órgano internacional cuya competencia para controlar la vigencia de un tratado ha
+sido ratificada por el Estado argentino decide que el Gobierno ha violado o está violando los
+derechos humanos de una o más personas, esa decisión es obligatoria para los tribunales
+nacionales, en la medida en que ellos deben hacer efectivas las obligaciones del Estado de
+acuerdo a las interpretaciones de los órganos autorizados para ello. El razonamiento es
+simple: si los jueces argentinos están obligados a aplicar, por ejemplo, el art. 8 de la CADH, y
+en una resolución la Corte ha entendido que se ha violado este derecho, entonces los
+tribunales argentinos deberán intervenir dando cumplimiento a la resolución del tribunal
+internacional, en la medida en que, si no lo hicieran, estarían desconociendo el art. 8 de la
+CADH y, consecuentemente, violando la Constitución Nacional.
+
+En este sentido, no existen razones de Derecho interno para diferenciar entre las decisiones
+de un órgano como el Comité de Derechos Humanos del PIDCP y la Corte IDH. Sí puede, en
+cambio, reconocerse alguna diferencia en el caso de la Comisión IDH. Por tratarse, en este
+último caso, de un órgano cuya decisión puede ser revisada por la Corte IDH, si el Estado
+argentino decidiera remitir el caso a este tribunal, entonces la decisión de la Comisión no
+podría ejecutarse hasta que la Corte se haya expresado sobre el particular. En todos los
+otros casos en que se tratase de interpretaciones realizadas por los órganos encargados de
+dicha función que no puedan ser revisadas por otra instancia internacional, la decisión
+debería poder ejecutarse a través de los tribunales locales.
+
+[[PDF p. 18]]
+La cuestión parece más simple, al menos teóricamente, en lo que se refiere a la diferencia
+entre casos individuales e informes generales. El principio sería que en cualquier caso en
+que un derecho del individuo haya sido violado por la acción u omisión del Estado y éste
+pudiera demostrar un interés legítimo en el cumplimiento de la decisión internacional,
+entonces cualquier afectado podría presentarse ante los tribunales nacionales, sin que
+debamos distinguir entonces entre casos individuales e informes generales. Este sería el
+caso, por ejemplo, del derecho que asiste a cada víctima de la dictadura a presentarse ante
+los tribunales exigiendo el cumplimiento de la recomendación del Comité de Derechos
+Humanos que, al considerar el informe por el art. 40 de la Argentina en marzo de 1995,
+recomendó la remoción de las Fuerzas Armadas de todos los agentes seriamente acusados
+de violar los derechos humanos durante la dictadura militar 1976–198359. En todo caso, para
+estos supuestos alguna dificultad residiría en la determinación casuística del carácter de
+afectado con interés legítimo.
+
+Hasta el presente, la aplicación de las decisiones de los organismos internacionales en la
+Argentina ha estado dominada por la decisión política. En este sentido, si bien corresponde
+reconocer los méritos del Estado por haber cumplido, en general, con las recomendaciones o
+decisiones internacionales, entendemos que sería más adecuado establecer mecanismos de
+jurisdiccionalización para la aplicación de estas decisiones, de modo tal que, para el futuro, la
+cuestión no quede exclusivamente en las manos del Ejecutivo. Desde este punto de vista
+resulta urgente, de acuerdo a nuestra opinión, una modificación legislativa que amplíe el
+proceso de revisión previsto en materia penal, incorporando a sus supuestos el de una
+decisión de organismo internacional al Estado argentino responsable por la violación de los
+derechos humanos de la persona condenada. Al día de hoy, de existir una decisión de esta
+naturaleza que el Poder Ejecutivo no estuviera dispuesto a cumplir, sólo quedaría el remedio
+del habeas corpus, cuyo éxito parece difícil considerando la tradicional interpretación
+restrictiva que nuestros tribunales han hecho de esta acción.
+
+
+
+
+V. La estructura de este libro
+
+Este volumen ha sido pensado y diseñado con el objeto de dar algunas respuestas a estos y
+otros interrogantes. Si bien se trata de una compilación de artículos, ellos han sido solicitados
+teniendo en cuenta una organización general de la materia, de la que esperamos poder dar
+al menos un panorama. Así, los artículos presentados deberían complementarse, ya sea
+tratando cuestiones que se relacionan o presentando distintas visiones de un mismo tema.
+Esperamos haber tenido al menos un éxito parcial en la consecución de los objetivos que
+originariamente nos planteamos.
+
+El contenido se ha distribuido en tres partes, además de esta introducción y el estudio
+comparado a cargo de Dulitzky que la acompaña. En la primera de ellas, hemos tratado de
+
+[[PDF p. 19]]
+ofrecer un panorama de las distintas cuestiones y puntos de vista existentes acerca de la
+relación entre el DIDH y el Derecho constitucional argentino. Para ello, contamos con los
+valiosos aportes de reconocidos juristas sobre la materia, que se complementan siempre y a
+veces se enfrentan. Las colaboraciones de Bidart Campos, Moncayo, Vanossi, Schiffrin y
+Travieso se inscriben es esta línea; esta primera parte se completa con el ya mencionado
+artículo de Fappiano sobre la ejecución de las sentencias internacionales.
+
+La Parte II está destinada a los principios, deberes y prácticas del DIDH que ingresan al
+ordenamiento jurídico argentino con la jerarquización constitucional de los tratados. La idea
+que justifica este apartado ya fue explicada más arriba: la ratificación de un tratado no sólo
+incorpora al Derecho local los nuevos derechos tutelados, sino que significa también la
+adopción de una serie de principios y obligaciones de medio y resultado que no pueden ser
+soslayadas.
+
+En relación con los principios, nos hemos concentrado excluyentemente en el pro homine,
+por entender que se trata de la piedra angular sobre la que reposa el DIDH. El artículo de
+Mónica Pinto, entonces, explica el alcance y las consecuencias prácticas de su aplicación a
+la regulación jurídica de los derechos humanos. En el mismo capítulo, el artículo de Liliana
+Valiña se refiere a un criterio que ha sido sistemáticamente utilizado por el sistema europeo
+de protección de los derechos humanos: el margen de apreciación de los Estados. Si bien no
+se trata técnicamente de un principio sino de una doctrina, entendimos que ella se refiere a
+los límites del control internacional y, en consecuencia, a los principios que deben seguir los
+Estados parte del sistema europeo al momento de aplicar dentro de sus jurisdicciones el
+mandato de la Convención Europea sobre Derechos Humanos. Si bien esta teoría no ha sido
+receptada por el sistema interamericano y, al igual que Valiña, deseamos que ello nunca
+ocurra, creemos que algunos de los principios establecidos por esta doctrina han sido
+recogidos por la Comisión IDH en su reciente Informe en el caso "Marzioni"60. Al aplicar la
+denominada "fórmula de la cuarta instancia"61, la Comisión está determinando qué
+decisiones de los tribunales locales no pueden ser revisadas internacionalmente.
+
+En el capítulo referido a las obligaciones, en primer término analizamos la obligación de
+tutelar judicialmente los derechos. Para ello, hemos solicitado una serie de estudios
+complementarios que se inician con el trabajo de Agustín Gordillo acerca de los mecanismos
+de tutela de los arts. 43 y 75 inc. 22 de la CN y se completa con el análisis de Daniel Sabsay
+sobre la novel institución del amparo colectivo. Finalmente, Susana Albanese realiza un
+pormenorizado análisis de qué significa el plazo razonable para la terminación de un proceso
+estipulado en los instrumentos internacionales, como un elemento indispensable para la
+realización de la tutela judicial. Por su parte, Abramovich y Courtis extienden la obligación de
+protección judicial a los derechos económicos, sociales y culturales.
+
+Alejandro Kawabatta analiza a continuación la obligación de reparar las violaciones a los
+derechos humanos. En su completo análisis sobre la materia, presenta el fundamento de la
+obligación y determina su alcance a partir de los estudios de los expertos que han trabajado
+en el tema, para concluir finalmente con una presentación de las medidas reparatorias que,
+
+[[PDF p. 20]]
+hasta el presente, el Estado argentino ha dispuesto en relación con las violaciones a los
+derechos humanos cometidas durante la última dictadura militar.
+
+Esta sección se cierra con una breve presentación de las posibilidades que abre la institución
+del amicus curiae, como práctica establecida en el DIDH y que pudiera tener ventajosos
+aportes para su aplicación por los tribunales locales. No debe ignorarse, por ejemplo, que
+esta institución puede significar una valiosa herramienta para reducir los riesgos de la falta de
+información a la que hicimos referencia más arriba respecto del estado actual de la
+jurisprudencia internacional.
+
+La tercera parte está dedicada al tratamiento de algunos derechos en particular. El objeto de
+esta sección es doble: por un lado, informar sobre los estándares internacionales sobre
+algunas materias específicas y, por el otro, que estos ejemplos sirvan de guía para una
+aplicación práctica de los principios explicados en las dos primeras partes.
+
+El tratamiento particularizado se inicia con las modificaciones que Maier describe en el
+derecho del condenado a recurrir la sentencia a partir de la ratificación de la CADH y el
+PIDCP, como un ejemplo paradigmático de las reformas legislativas que puede significar la
+incorporación del DIDH al ámbito interno. Por su parte, Bovino explica los lineamientos sobre
+encarcelamiento preventivo que están receptados en los tratados internacionales sobre
+derechos humanos. Seguidamente, Felgueras y Bertoni analizan el alcance del derecho a la
+libertad de expresión e información; el primero dedicándose a presentar el alcance de este
+derecho desde el punto de vista de la jurisprudencia internacional, y el segundo tratando de
+sentar algunos principios desde los derechos humanos sobre las eventuales
+responsabilidades ulteriores por la libre expresión. Juan Méndez inicia el tratamiento del
+denominado derecho a la verdad, uno de esos derechos implícitos que son a la vez un
+elemento fundamental para la consecución del objeto y fin del DIDH. Seguidamente, Oliveira
+y Guembe exploran los orígenes de este derecho y su reciente recepción jurisprudencial. En
+el capítulo siguiente, Saba intenta ir más allá de las concepciones tradicionales del derecho a
+la igualdad, planteando la necesidad de incluir la integración como una finalidad central de
+este derecho; por su parte, Rodríguez , en la que representa tal vez la posición más crítica
+respecto al DIDH de las expuestas en este volumen, plantea la necesidad de reformular el
+sistema de protección de los derechos de las mujeres. Beloff, por su parte, se dedica a
+analizar la Convención sobre los Derechos del Niño y la falta de adecuación interna a los
+estándares internacionales. Finalmente, el círculo se cierra con el estudio que realiza Alberto
+Zuppi de la reciente Convención contra la Corrupción, reflexión que abre la puerta sobre la
+redacción de futuras convenciones y demuestra que la protección de los derechos humanos
+requiere a veces de nuevas fórmulas para abordar viejos problemas, como es, en este caso,
+la impunidad. De cualquier forma, como el mismo Zuppi plantea, queda todavía por
+determinar si la multiplicación de los instrumentos internacionales es una estrategia útil en
+este sentido.
+
+[[PDF p. 21]]
+VI. Consideraciones finales
+
+Es indudable que el DIDH tiene actualmente un gran impacto en el ordenamiento jurídico
+argentino. La reforma constitucional de 1994 y las decisiones judiciales citadas, en uno y otro
+sentido, son una muestra de la relevancia de esta rama del Derecho para nuestros
+tribunales. El reconocimiento de este impacto, no debe llevar, en cualquier caso, a obviar las
+críticas de Beloff62 en relación a la escasa adaptación de la legislación local a los estándares
+internacionales, ni el cambio radical que reclama Rodríguez63 para que el DIDH sea una
+herramienta útil para asegurar los derechos de las mujeres. Por el contrario, sólo asumir
+estos desafíos podrá garantizarnos avanzar en la dirección correcta, de modo tal de revertir
+la situación actual de violaciones graves y sistemáticas a los derechos humanos que son
+cotidianamente soslayadas por los tribunales.
+
+Una explicación para la trascendencia del DIDH en el ámbito local puede estar vinculada a la
+tradicional –y en algún momento histórico perversa– importancia que la Argentina le ha dado
+a su imagen internacional. Esta preocupación ha llevado al Estado argentino a ser
+especialmente proclive a conformarse a los estándares internacionales –incluyendo en este
+punto el alto acatamiento a las decisiones de los órganos internacionales–.
+
+Por otro lado, un efecto no buscado de la enumeración taxativa de instrumentos
+internacionales que realiza el art. 75, inc. 22, fue que las ediciones de la Constitución
+Nacional a partir del 94 se componen del texto de dichos instrumentos, generalizando así un
+conocimiento que antes sólo tenían algunos. La remisión genérica al DIDH, por el contrario,
+si bien hubiera sido técnicamente más adecuada, hubiera sido sin duda menos pedagógica.
+En este sentido, puede decirse que causas y azares se acumulan favoreciendo el auge de la
+aplicación judicial de los tratados internacionales sobre derechos humanos.
+
+En todo caso, es obvio que nos encontramos en el caso del derecho argentino frente a la
+complementariedad alegada en el comienzo de este introducción; en esa intersección por la
+que, al decir de Bidart Campos, es en el ámbito del Derecho interno donde los derechos
+deben lograr efectividad, pero es el Derecho internacional el que traza, imperativamente, los
+parámetros dentro de los cuales el Derecho interno tiene que resolver la vigencia de los
+derechos tutelados.
+
+No obstante, la aplicación del DIDH, tal como se ha demostrado, ha dado lugar, también, a
+decisiones por lo menos discutibles, de forma tal que no puede asegurarse que la
+incorporación del DIDH por un Poder Judicial de cuyo compromiso democrático se dude
+pueda llegar a ser per se una herramienta de mejora.
+
+En todo caso, si, como se ha sostenido, a partir del momento en que los derechos migran
+hacia otra latitudes van adquiriendo algunas de las formas del lugar al que arriban64, habrá
+
+[[PDF p. 22]]
+que estar bien atento para que esta dimensión nacional del DIDH no asuma algunas de las
+formas vernáculas del autoritarismo.
+
+
+
+
+NOTAS
+
+* El autor agradece a Sharifah Bailey y Andrea Pochak por su colaboración para este
+artículo.
+
+1 Cf. Guía sobre Aplicación del Derecho Internacional en la Jurisdicción Interna, IIDH, San
+José, Costa Rica, p. 28.
+
+2 Cf. Ayala Corao, Carlos M., El derecho de los derechos humanos (La convergencia entre el
+Derecho Constitucional y el Derecho Internacional de los Derechos Humanos), "El Derecho",
+t. 160, Buenos Aires, p. 779.
+
+3 De esta unión (interpósito-derecho, podría decirse) entre el Derecho internacional y el
+Derecho constitucional, dicen algunos, debería surgir una rama autónoma: el Derecho de los
+derechos humanos que, haciendo a un lado el adjetivo "internacional", daría cuenta de su
+carácter también nacional. Por nuestra parte, si bien compartimos los argumentos y las
+razones para el reconocimiento de esta rama del derecho independiente, hemos preferido
+mantener su adscripción como Derecho internacional, incluyendo, a pesar de ello, su
+dimensión local. Por un Derecho de los derechos humanos, ver, entre otros, Ayala Corao,
+Carlos M., El derecho de los derechos humanos, cit.; Hitters, Juan Carlos, Derecho
+Internacional de los Derechos Humanos, Ed. Ediar, Buenos Aires, 1995.
+
+4 Ver, en este mismo ejemplar, Dulitzky, Ariel, La aplicación de los tratados sobre derechos
+humanos por los tribunales locales: un estudio comparado.
+
+5 Albanese, Susana, Interacción entre los sistemas internacionales de protección de los
+derechos humanos y el ámbito interno. Funciones de los órganos de control, en "El Derecho",
+17/7/95.
+
+6 Ver, en este mismo ejemplar, Maier, Julio B. J., El recurso del condenado contra la
+sentencia de condena: ¿una garantía procesal?
+
+7 En este mismo ejemplar, Bidart Campos, Germán, El artículo 75 inciso 22 de la
+Constitución Nacional.
+
+8 Bobbio, Norberto, Presente y futuro de los derechos del hombre, en El Problema de la
+Guerra y La Paz, Ed. Gedisa, Buenos Aires, Cap. III, p. 129.
+
+[[PDF p. 23]]
+9 Guía sobre Aplicación del Derecho Internacional, cit., p. 28.
+
+10 Ver, en este mismo ejemplar, Oliveira, Alicia y Guembe, María José, La verdad, derecho
+de la sociedad.
+
+11 Pinto, Mónica, Temas de derechos humanos, Ed. del Puerto, Buenos Aires, 1997, p. 63.
+En el mismo sentido, ver, entre muchísimos otros, Ayala Corao, Carlos M., El derecho de los
+derechos humanos, cit.; alston, Philip y Steiner, Henry J., International Human Rights in
+Context, Oxford University Press, Nueva York, 1996, parte D, capítulo 11; Bidart Campos,
+Germán J., Tratado Elemental de Derecho Constitucional Argentino, t. III, Ed. Ediar, Buenos
+Aires, 1995.
+
+12 Cf. Jiménez de Aréchaga, Eduardo, La Convención Interamericana de Derechos
+Humanos como Derecho Interno, en la Revista del Instituto Interamericano de Derechos
+Humanos nº 7, IIDH, San José de Costa Rica, enero/junio de 1988, p. 27.
+
+13 Ayala Corao, Carlos M., El derecho de los derechos humanos, cit., p. 789.
+
+14 Pinto, Mónica, Temas de derechos humanos, cit., p. 71.
+
+15 Corte IDH, Opinión Consultiva OC-2/82, El efecto de las reservas sobre la entrada en
+vigor de la Convención Americana sobre Derechos Humanos (art. 74 y 75), del 24 de
+setiembre de 1982, Serie A, nº 2, # 29.
+
+16 El artículo 1.1 de la CADH dispone que: "Los Estados Partes en esta Convención se
+comprometen a respetar los derechos y libertades reconocidos en ella y a garantizar su libre
+y pleno ejercicio a toda persona que esté sujeta a su jurisdicción, sin discriminación alguna
+por motivo de raza, color, sexo, idioma, religión, opiniones políticas o de cualquier otra
+índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición
+social".
+
+17 El artículo 2 de la CADH dispone que: "Si el ejercicio de los derechos y libertades
+mencionados en el Artículo 1 no estuviera ya garantizado por disposiciones legislativas o de
+otro carácter, los Estados parte se comprometen a adoptar, con arreglo a sus procedimientos
+constitucionales y a las disposiciones de esta Convención, las medidas legislativas o de otro
+carácter que fueren necesarias para hacer efectivos tales derechos y libertades".
+
+18 El artículo 2.2 del PIDCP dispone que: "Cada Estado Parte se compromete a adoptar, con
+arreglo a sus procedimientos constitucionales y a las disposiciones del presente Pacto, las
+medidas oportunas para dictar las disposiciones legislativas o de otro carácter que fueren
+necesarias para hacer efectivos los derechos reconocidos en el presente Pacto y que no
+estuviesen ya garantizados por disposiciones legislativas o de otro carácter".
+
+[[PDF p. 24]]
+19 El artículo 2.1 del PIDESC dispone que: "Cada uno de los Estados Partes en el presente
+Pacto se compromete a adoptar medidas, tanto por separado como mediante la asistencia y
+la cooperación internacionales, especialmente económicas y técnicas, hasta el máximo de
+los recursos de que disponga, para lograr progresivamente, por todos los medios apropiados,
+inclusive en particular la adopción de medidas legislativas, la plena efectividad de los
+derechos aquí reconocidos".
+
+20 El artículo 2 de la Convención sobre la Eliminación de todas las formas de Discriminación
+contra la Mujer dispone que: "Los Estados parte condenan la discriminación contra la mujer
+en todas sus formas, convienen en seguir, por todos los medios apropiados y sin dilaciones,
+una política encaminada a eliminar la discriminación contra la mujer y, con tal objeto, se
+comprometen a :
+
+a) Consagrar, si aún no lo han hecho, en sus constituciones nacionales y en cualquier otra
+legislación apropiada el principio de la igualdad del hombre y de la mujer y asegurar por ley u
+otros medios apropiados la realización práctica de ese principio;
+
+b) Adoptar medidas adecuadas, legislativas y de otro carácter, con las sanciones
+correspondientes, que prohiban toda discriminación contra la mujer;
+
+c) Establecer la protección jurídica de los derechos de la mujer sobre una base de igualdad
+con los del hombre y garantizar, por conducto de los tribunales nacionales competentes y de
+otras instituciones públicas, la protección efectiva de la mujer contra todo acto de
+discriminación;
+
+d) Abstenerse de incurrir en todo acto o práctica de discriminación contra la mujer y velar por
+que las autoridades e instituciones públicas actúen de conformidad con esta obligación;
+
+e) Tomar todas las medidas apropiadas para eliminar las discriminación contra la mujer
+practicada por cualesquiera personas, organizaciones o empresas;
+
+f) Adoptar todas las medidas adecuadas, incluso de carácter legislativo para modificar o
+derogar leyes, reglamentos, usos y prácticas que constituyan discriminación contra la mujer;
+
+g) Derogar todas las disposiciones penales nacionales que constituyan discriminación contra
+la mujer".
+
+21 El artículo 3 de la Convención Internacional sobre los Derechos del Niño dispone en su
+primer párrafo que: "En todas las medidas concernientes a los niños que tomen las
+instituciones públicas o privadas de bienestar social, los tribunales, las autoridades
+administrativas o los órganos legislativos, una consideración primordial a que se atenderá
+será el interés superior del niño".
+
+22 Entre muchos otros, Ayala Corao, Carlos M., El derecho de los derechos humanos, cit.
+
+[[PDF p. 25]]
+23 Ver, en este mismo ejemplar, Kawabatta, Alejandro, Reparación de las violaciones de
+derechos humanos en el marco de la Convención Americana sobre Derechos Humanos.
+
+24 Ver, en este mismo ejemplar, Méndez, Juan, El derecho a la verdad frente a las graves
+violaciones a los derechos humanos.
+
+25 Ver, en este mismo ejemplar, Gordillo, Agustín, Los amparos de los artículos 43 y 75,
+inciso 22, de la Constitución Nacional.
+
+26 "Martín & Cía. Ltda. c/ Nación Argentina", Fallos, 257:199, "La Ley", 113-458.
+
+27 "E. F. E.", Fallos, 310:1081, "La Ley", t. 1987-D-333, p. 142.
+
+28 Cf. Corte IDH, Opinión Consultiva OC-7/86, Exigibilidad del derecho de rectificación o
+respuesta (artículos 14.1 y 1.1 y 2, Convención Americana sobre Derechos Humanos), del 29
+de agosto de 1986, Serie A, nº 7.
+
+29 "Ekmekdjian c/Sofovich", en "La Ley", t. 1992-C.
+
+30 Ídem.
+
+31 Ídem.
+
+32 Ídem.
+
+33 Cf. Buergenthal, Thomas, La jurisprudencia internacional en el derecho interno, en La
+Corte y el sistema interamericano de derechos humanos, editado y presentado por Rafael
+Nieto Navia, Corte IDH, San José de Costa Rica, 1994.
+
+34 Con respecto a posibles diferencias entre los instrumentos internacionales a los que el
+constituyente otorgó jerarquía constitucional y otros que puedan obtenerlo por la vía de la
+aprobación extraordinaria del Congreso, ver, en este mismo ejemplar, Moncayo, Guillermo,
+Criterios para la aplicación de las normas internacionales que resguardan los derechos
+humanos en el derecho argentino.
+
+35 Sobre este tema, ver, en este ejemplar, Dulitzky, Ariel, La aplicación de los tratados sobre
+derechos humanos por los tribunales locales: un estudio comparado.
+
+36 Ver, en este mismo ejemplar, Bidart Campos, Germán, El artículo 75, inciso 22, de la
+Constitución Nacional; Moncayo, Guillermo, Criterios para la aplicación de las normas
+internacionales que resguardan los derechos humanos en el derecho argentino; Vanossi,
+Jorge, Los tratados internacionales ante la reforma de 1994; Schiffrin, Leopoldo, La primacía
+del derecho internacional sobre el derecho argentino; Abramovich, Víctor, y Courtis,
+Christian, Hacia la exigibilidad de los derechos económicos, sociales y culturales. Estándares
+
+[[PDF p. 26]]
+internacionales y criterios de aplicación ante los tribunales locales; Gordillo, Agustín, Los
+amparos de los arículos 43 y 75, inciso 22, de la Constitución Nacional.
+
+37 Ver, en este mismo ejemplar, Bidart Campos, Germán, El artículo 75, inciso 22, de la
+Constitución Nacional.
+
+38 Ver, en este mismo ejemplar, Moncayo, Guillermo, Criterios para la aplicación de las
+normas internacionales que resguardan los derechos humanos en el derecho argentino.
+
+39 El art. 27 de la CN dispone que: "El Gobierno federal está obligado a afianzar sus
+relaciones de paz y comercio con las potencias extranjeras por medio de tratados que estén
+en conformidad con los principios de derecho público establecidos en esta Constitución".
+
+40 Ver, en este mismo ejemplar, Schiffrin, Leopoldo, La primacía del derecho internacional
+sobre el derecho argentino.
+
+41 "Fibraca Constructora, S. C. A. c/Comisión Técnica Mixta de Salto Grande" (F-433.XXIII-
+R.H.) 7/7/1993, "El Derecho", t. 154, p. 164 y siguientes.
+
+42 "Cafés la Virginia, S. A. s/apelación", 13/10/1994, "El Derecho", t. 160, p. 252 y siguientes.
+
+43 Caso "Fibraca", op. cit., p. 186.
+
+44 En el sentido de declarar la inconstitucionalidad de un tratado, ver Fallos 305:2150.
+
+45 Ver, en este mismo ejemplar, Bidart Campos, Germán, El artículo 75, inciso 22, de la
+Constitución Nacional.
+
+46 Ver, en este mismo ejemplar, Pinto, Mónica, El principio pro homine. Criterios de
+hermenéutica y pautas para la regulación de los derechos humanos.
+
+47 "Giroldi, H. s/recurso de casación", CS, sentencia del 7 de abril de 1995, en
+"Jurisprudencia Argentina", t. 1995-III.
+
+48 Sobre este tema, ver Hitters, Juan Carlos, La Jurisprudencia de la Corte Interamericana
+como guía para la interpretación de la Constitución, "El Derecho", 24/10/1995, ps. 1-3. Ver
+también, en este mismo ejemplar, Abramovich, Víctor, y Courtis Christian, Hacia la
+exigibilidad de los derechos económicos, sociales y culturales. Estándares internacionales y
+criterios de aplicación ante los tribunales locales.
+
+49 CSJN, "Bramajo, Hernán", 12/9/96, "Jurisprudencia Argentina", nº 6012, del 20 de
+noviembre de 1996, p. 45 y siguientes.
+
+[[PDF p. 27]]
+50 "Chocobar, Sixto Celestino c/Caja de Previsión para el Personal del Estado y Servicios
+Públicos", sentencia del 27 de diciembre de 1996, "La Ley", Suplemento de Derecho
+Constitucional, 21 de marzo de 1997, ps. 3 y siguientes.
+
+51 Para una crítica a este fallo desde el análisis del concepto de plazo razonable, ver, en
+este mismo volumen, Albanese, Susana, El plazo razonable en los procesos internos a la luz
+de los órganos internacionales.
+
+52 Ver, en este mismo ejemplar, Pinto, Mónica, El principio pro homine. Criterios de
+hermenéutica y pautas para la regulación de los derechos humanos.
+
+53 Informe nº 12/96, Caso 11245, en OEA/Ser.L/V/II.91, Doc. 7, rev., 28 de febrero de 1996,
+ps. 33 y siguientes.
+
+54 Cf. ídem, p. 57.
+
+55 "Chocobar, Sixto Celestino c/Caja de Previsión para el Personal del Estado y Servicios
+Públicos", citado.
+
+56 Ver, en este mismo ejemplar, Abramovich, Víctor, y Courtis, Christian, Hacia la exigibilidad
+de los derechos económicos, sociales y culturales. Estándares internacionales y criterios de
+aplicación ante los tribunales locales.
+
+57 Carnota, Walter F., "Chocobar": Una muy opinable doctrina en relación con los
+documentos internacionales de derechos humanos con jerarquía constitucional, en
+"Contextos", Revista Crítica de Derecho Sociales, Ed. Del Puerto, Buenos Aires, 1997, nº 1,
+ps. 363 y siguientes.
+
+58 Opinión consultiva OC-7/86, cit., # 19 y siguientes.
+
+59 Cf. CCPR/C/79/Add.46, durante su reunión 1411 (53º sesión) realizada el 5 de abril de
+1995.
+
+60 Informe nº 39/96, Caso 11.673, en OEA/Ser.L/V/II.95, Doc. 7 rev., 14 de marzo de 1997,
+p. 79 y siguientes.
+
+61 Sobre este tema, ver Albanese, Susana, La fórmula de la cuarta instancia, en
+"Jurisprudencia Argentina", 11/6/97, nº 6041, ps. 1 y siguientes.
+
+62 Ver, en este mismo ejemplar, Beloff, Mary, La aplicación directa de la Convención
+Internacional sobre los derechos del niño en el ámbito interno.
+
+63 Ver, en este mismo ejemplar, Rodríguez, Marcela, Tomando los derechos humanos de las
+mujeres en serio.
+
+[[PDF p. 28]]
+64 Cf. Alston, Philip, y Steiner Henry J., International Human Rightsin Context, citado.

@@ -1,0 +1,1317 @@
+# fuente: Unidad13/Dassen_Guidi_2016_Consejo de la Magistratura y Jurado de Enjuiciamiento de Magistrados.pdf
+# md5_original: 4e85b324ab689b57862f6bb10969170c
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+El Consejo de la Magistratura y el Jurado de Enjuiciamiento de Magistrados
+
+I.- Introducción. Un Consejo para qué.
+El Consejo de la Magistratura y el Jurado de Enjuiciamiento de Magistrados fueron introducidos
+en los artículos 114 y 115 del texto constitucional reformado en 1994, como parte del acuerdo
+político conocido como Pacto de Olivos, y que se plasmó jurídicamente en el Núcleo de
+Coincidencias Básicas de la ley 24.309 declarativa de la necesidad de reforma de la
+Constitución.1 La creación de estos dos organismos se realizó con los siguientes tres grandes
+objetivos: (i) mejorar la idoneidad técnica y la independencia de los candidatos a jueces
+inferiores de la Nación, y brindar mayor transparencia al proceso de selección de dichos
+magistrados, a través de la organización de concursos públicos de oposición y antecedentes,
+como paso previo a la designación por parte del Poder Ejecutivo con Acuerdo del Senado; (ii)
+despolitizar el proceso de remoción de los jueces inferiores de la Nación.2 Para ello, el Consejo
+de la Magistratura reemplaza a la Cámara de Diputados como acusador por las causales de
+remoción del juicio político previstas en el artículo 53 CN, y el Jurado de Enjuiciamiento
+reemplaza al Senado de la Nación en su rol de juzgador o cámara de remoción. Adicionalmente,
+se le agregó al Consejo la facultad de ejercer las facultades disciplinarias, o sea, la capacidad de
+aplicar sanciones administrativas –advertencia, apercibimiento y multa-, a los jueces por faltas
+menores que no ameritan la remoción. Estas facultades eran ejercidas, antes de 1994, por la
+Corte Suprema de Justicia; y (iii) profesionalizar y promover una mayor apertura de la
+administración del Poder Judicial, al mismo tiempo que alivianar a la Corte Suprema de esas
+tareas para que se abocara exclusivamente a sus deberes jurisdiccionales. Para ello, se dispuso
+dejar en manos del Consejo de la Magistratura las facultades de administrar el presupuesto del
+poder judicial, con excepción del presupuesto de la propia Corte Suprema (como liquidar
+sueldos, realizar compras de insumos y contratación de servicios, administrar oficinas de
+cuerpos auxiliares de la justicia, como la oficina de notificaciones, etc.) y de ejercer las
+facultades reglamentarias, también conocidas, como de superintendencia (por ejemplo,
+reglamentos de licencias de personal, o de ingreso al Poder Judicial).
+Si bien la creación de Consejos de la Magistratura o Judicatura ya era para la época
+relativamente común en el derecho constitucional de otros países de la región y de algunas
+provincias argentinas, no puede entenderse su incorporación en 1994 sin tener un panorama de
+la situación del Poder Judicial de la primera mitad de la década de 1990. En efecto, la
+discrecionalidad y la falta de transparencia y de obligación a la rendición de cuentas que la
+Constitución otorgaba a los poderes Ejecutivo y Legislativo en la designación y remoción de
+jueces dio lugar ejercicios abusivos de tales facultades que afectaron la independencia judicial.
+Algunas de estas circunstancias fueron: (i) la ampliación del número de jueces de la Corte
+Suprema de Justicia de 5 a 9 integrantes, permitiendo al gobierno de aquel entonces contar con
+una “mayoría automática” en el Tribunal3; (ii) la designación de jueces en lo criminal y
+correccional federal presuntamente cercanos al gobierno, inclusive con alegaciones de
+corrupción con competencia para entender en delitos de corrupción contra la administración
+
+1Dicho Acuerdo fue realizado entre los ex presidentes Carlos Menem y Raúl Alfonsín, representantes del Partido
+
+Justicialista y la Unión Cívica Radical, respectivamente, los dos partidos mayoritarios de aquel entonces.
+2 En comparación con el juicio político ante el Poder Legislativo, se pretendió reducir el margen de discrecionalidad
+
+para mantener en el cargo o remover magistrados acusados, y brindar mayores garantías para el respeto del debido
+proceso permitiendo en los hechos, por ejemplo, facultades más amplias de producción de prueba, o aplicar criterios
+de valoración de dichas pruebas más técnicos que políticos.
+3En aquel entonces, el presidente Menem logró la aprobación del pliego de los seis jueces propuestos en una precoz
+
+sesión de siete minutos. Véase diario Página/12 del 20 de abril de 1990.
+
+[[PDF p. 2]]
+pública4; (iii) la designación de jueces con pocos antecedentes para ejercer el cargo5; (iv) La
+protección del poder político a jueces que debieron haber sido removidos por juicio político6.
+Muchas de estas circunstancias generaron una demanda en la sociedad de una mayor
+independencia del Poder Judicial. Según el Banco Interamericano de Desarrollo, la confianza en
+el Poder Judicial en Argentina era alrededor del 57% en 1984, pero luego, durante los noventa
+cayó al 26%, y en 1998 era el 19,21%7. A pesar de esta percepción, el número de jueces
+destituidos mediante juicio político desde la recuperación democrática de 1983 era, en 1994,
+igual a siete -si uno se remontaba a 1853, por cierto, apenas superaba la docena de jueces
+destituidos-8. La lectura de las versiones taquigráficas de la Convención Constituyente y de las
+sesiones parlamentarias en las que se sancionó la primera ley de Consejo de la Magistratura
+confirma que su introducción en el sistema constitucional pretendía responder a la necesidad de
+remediar de algún modo estas situaciones9.
+Al estudiar los modelos judiciales, Raúl Zaffaroni afirmaba en 1994 que “cualquier institución
+debe cumplir con ciertas funciones y su estructura óptima dependerá de la clara atribución previa
+de éstas, es decir, que la estructura óptima de una institución será siempre la que la capacite mejor
+para el cumplimiento de su cometido. Cuando el cometido no ha sido bien definido, menos aún lo
+estarán sus modelos estructurales”10. Como indicamos al comienzo del capítulo, los objetivos o
+“cometidos” de la creación del Consejo de la Magistratura buscaron principalmente corregir los
+abusos a los cuales fue sometido a comienzos de la década de 1990 el sistema de designación y
+remoción de jueces hasta ese entonces vigente. Sin embargo, debemos interpretar los artículos
+114 y 115 de la Constitución dejando de lado lo que su incorporación haya tenido de coyuntural,
+y preguntarnos acerca del rol que debiera tener el Poder Judicial en el sistema republicano y
+democrático argentino.
+A nuestro entender, el desafío del Poder Judicial es servir para la expansión de los derechos de
+la población vinculados con la participación política y para el control de la tendencia expansiva
+del Poder Ejecutivo Nacional11. Esta visión, al mismo tiempo que pide a los jueces que sean
+deferentes de las decisiones sustantivas de los órganos democráticos, es sumamente exigente
+
+
+
+
+4 Por ejemplo, existieron numerosas denuncias de cobros de sobresueldos por parte de algunos jueces federales de
+
+parte de la ex Secretaría de Inteligencia del Estado, que se encuentran siendo investigadas en la causa “Caro
+Figueroa, José Armando y otros sobre malversación de caudales públicos” (5.713/2011 del Juzgado Nacional en lo
+Criminal y Correccional Federal N° 2 de la Capital Federal).
+5Según el periodista Horacio Verbitsky, el representante de la oposición en la Comisión de Acuerdos del Senado le
+
+preguntó al entonces ministro de Justicia si iban a buscar a los postulantes a jueces a las cárceles. Ese mismo ministro
+renunciaría poco tiempo después a su cargo diciendo que los jueces nombrados en la Cámara de Casación eran unos
+“esperpentos”Verbitsky, Horacio, Hacer la Corte. La constitución de un poder absoluto sin justicia ni control, Planeta,
+Buenos Aires, 1993, págs. 125 y 394.
+6Verbitsky narra la ampliación del número de miembros de la Comisión de Juicio Político de la Cámara de Diputados
+
+para forzar una mayoría oficialista con la intención de mantener en el cargo a una jueza federal que investigaba a la
+cuñada del presidente de la Nación. Verbitsky, obra citada, págs.127-128.
+7 Datos citados en Zayat, Emilio Demián. “Méritos y política. La selección de jueces federales en la Argentina”, en
+
+Premio Formación Judicial 2009, Eudeba 2011, pág. 349.
+8 Véase el capítulo IV de este trabajo.
+9 Véase por ejemplo la intervención del diputado Cruchaga en el Diario de Sesiones de la Honorable Cámara de
+
+Diputados de la Nación, Sesión Ordinaria del 12 y 13 de marzo de 1997, pág. 665.
+10Zaffaroni, Eugenio Raúl, “Estructuras judiciales”, Ediar, Buenos Aires, 1994, págs. 13/14.
+11 Seguimos en esto a Gargarella, Roberto, “In Search of Democratic Justice -What Courts Should Not Do: Argentina
+
+1983-2002” en Gloppen, Siri, Gargarella, Roberto y Skaar, Ekin (eds.), Democratization and the Judiciary. The
+Accountability Function of Courts in New Democracies.Frank Cass, London, 2004, 181-197. Esta misión debe ser
+entendida de manera amplia. La protección de los derechos de las minorías o de los derechos económicos, sociales y
+culturales pueden actuar muchas veces como un refuerzo de los derechos de participación política de estas personas.
+
+[[PDF p. 3]]
+con las condiciones procedimentales en las cuales estos órganos se desenvuelven12. Este control,
+entonces, no requiere que los jueces sean seres sin ideología o a-políticos . Por el contrario,
+creemos que esta visión requiere un fuerte compromiso de los jueces con los valores
+democráticos, que debería llevarlos a sostener las decisiones democráticas , aun cuando
+discrepen con ellas. Al mismo tiempo, este mismo compromiso con el sistema democrático debe
+llevarlos a revisar especialmente las condiciones procedimentales en las que la democracia se
+desenvuelve: exigir que los procedimientos hayan incluido un debate público robusto, en el que
+las minorías y los grupos desaventajados hayan gozado de una razonable posibilidad de exponer
+sus puntos de vista13.
+Este compromiso con la democracia puede, y debe, ser considerado al evaluar la idoneidad de
+los magistrados. Sin embargo, lo que forzosamente esta versión de la misión judicial reclama, es
+una fuerte independencia de los jueces de las personas que circunstancialmente ocupan los
+cargos ejecutivos y legislativos.
+Es en esta visión del rol del Poder Judicial que interpretaremos el alcance de la creación del
+Consejo de la Magistratura y el Jurado de Enjuiciamiento.
+
+II.- Integración: representación y equilibrio.
+El segundo párrafo del art. 114 CN ha sido objeto de disputas interpretativas desde su sanción.
+Según éste, debe “procur[arse] el equilibrio entre la representación de los órganos políticos
+resultantes de la elección popular, de los jueces de todas las instancias y de los abogados de la
+matrícula federal”. En una segunda oración, establece que “será integrado, asimismo, por otras
+personas del ámbito académico y científico, en el número y la forma que indique la ley”.La
+vaguedad de la norma se hizo notar durante el propio trámite de su sanción en la Convención
+Constituyente, y en cada oportunidad en la que el Congreso ha debatido la ley reglamentaria. El
+único aspecto de la regulación que, hasta ahora, no ha sido objeto de rencillas políticas ha sido la
+cuestión de la “periodicidad” de la integración. De hecho, todas las leyes orgánicas del Consejo
+de la Magistratura que han regido hasta la fecha han establecido mandatos de cuatro años, que
+no se superponen con el mandato presidencial14.
+Como puede apreciarse fácilmente, casi no quedan aspectos de este párrafo que no puedan ser
+problematizados. ¿Cuáles son “todas las instancias” judiciales? ¿Es la Corte Suprema una
+“instancia” en este sentido, o la Cámara de Casación Penal, que está jerárquicamente por encima
+de los Tribunales Orales y de la Cámara de Apelación? ¿Debe el Poder Ejecutivo designar un
+representante en el Consejo? ¿Deben los legisladores ser consejeros, o pueden designar
+representantes que no revistan tal condición?15 ¿Pueden los jueces ejercer simultáneamente el
+cargo de juez y consejero, mientras los abogados deben suspender el ejercicio de su profesión?;
+¿Las ciencias jurídicas son el “ámbito académico y científico” relevante, o puede haber otros?
+
+
+
+12 La versión clásica del rol de los jueces como controladores del proceso democrático fue formulada por Ely, John
+
+Hart, Democracy and Distrust, Harvard UniversityPress, 1980. En Argentina, una visión de este tipo fue sostenida en
+Nino, Carlos Santiago, Fundamentos de Derecho Constitucional, Astrea Buenos Aires, 1993.
+13 Sobre este punto, pueden consultarse el capítulo sobre el proceso de formación y sanción de leyes de Ramiro
+
+Álvarez Ugarte y la columna sobre deliberación legislativa de Roberto Gargarella, ambos en este volumen.
+14 La reforma operada por la Ley 26.855, finalmente invalidada por la Corte Suprema, preveía que las elecciones a
+
+consejeros se realizarían conjuntamente con las presidenciales.
+15 Detrás de esta pregunta, deben ponderarse razones de legitimidad democrática, pues los Diputados y Senadores
+
+son representantes de pueblo, en tanto que los delegados que ellos designaría, no. Pero también hay razones
+prácticas de funcionamiento del Consejo, ya que los consejeros legisladores no son de tiempo completo, pues deben
+atender sus responsabilidades legislativas. Pensemos que al alto número de comisiones legislativas que deben
+integrar, se agregan las comisiones en el Consejo de la Magistratura.
+
+[[PDF p. 4]]
+¿Deben los académicos ser “representantes” de los académicos?16 ¿Deben formar parte del
+“equilibrio” constitucional? Y finalmente, ¿cómo podemos reconocer el tan mentado equilibrio?
+Estas y otras preguntas son estimulantes tanto para desentrañar el sentido de las normas
+constitucionales como para pensar el mejor diseño institucional. Por razones de espacio e
+importancia, trataremos sólo algunas de ellas.
+Desde el comienzo de nuestra práctica institucional con respecto al Consejo de la Magistratura
+se difundió la interpretación de la palabra equilibrio según la cuarta acepción del Diccionario de
+la Real Academia Española: “contrapeso, contrarresto, armonía entre cosas diversas”. Desde
+entonces, existió cierto consenso en que el “equilibrio” no equivalía a igualdad numérica sino a
+“no predominio”: habría equilibrio en un diseño en el cual ninguno de los estamentos pueda
+hacer prevalecer su voluntad sin la concurrencia de miembros adicionales17. Éste es el sentido
+que finalmente le otorgaría la Corte Suprema. Veamos cómo interpretaron esta noción las
+diferentes leyes reglamentarias del art. 114 CN como resultado de las disputas del poder
+político por controlar el Consejo:
+
+Leyes 24.937/24.939              (20 Ley 26.080 (13 integrantes)                 Ley 26.855 (19 integrantes)
+integrantes)
+Presidente de la CSJN                   Se excluye                               Permanece excluido
+4 jueces                                3 jueces                                 3 jueces (elegidos por el
+                                                                                 voto popular)
+4 abogados                              2 abogados                               3 abogados (elegidos por el
+                                                                                 voto popular)
+2 académicos                            1 académico                              6 académicos (elegidos por
+                                                                                 el voto popular)
+4 senadores                             3 senadores                              3 senadores
+4 diputados                             3 diputados                              3 diputados
+1 representante del PEN                 Se mantiene                              Se mantiene
+
+La Ley 24.937, reformada por la Ley 24.93918 instituyó una representación de 20 consejeros
+compuesta por cinco jueces, cuatro abogados de la matrícula federal, dos representantes del
+ámbito académico y científico, cuatro legisladores de cada cámara y un representante del Poder
+Ejecutivo Nacional. Los diputados y los senadores representaban a por lo menos tres bloques
+parlamentarios: cada Cámara enviaría a dos legisladores por el bloque más numeroso y uno por
+cada uno de los siguientes. En cambio, los abogados, los académicos y los jueces serían elegidos
+por sus pares, con la excepción del Presidente de la Corte Suprema, que presidía también el
+Consejo. Esta integración no sufrió impugnaciones con base constitucional: ninguno de los
+sectores puede formar quórum o tomar decisiones por sí mismo.
+La Ley 26.080 disminuyó de 20 a 13 el número de consejeros: ahora el Consejo estaría
+compuesto por tres jueces, dos abogados y un solo representante del ámbito académico y
+científico, además de tres legisladores por cada Cámara del Congreso y el representante del
+Poder Ejecutivo. El efecto buscado fue eliminar los consejeros representantes de las segundas
+
+16 El artículo 114 establece que el Consejo será integrado “asimismo por otras personas del ámbito académico y
+
+científico”, sin aclarar que deben ser representantes de este sector, como sí lo hace con los abogados, jueces y órganos
+políticos.
+17 Véase la intervención del diputado Pichetto, Diario de Sesiones de la Honorable Cámara de Diputados de la Nación,
+
+Sesión Ordinaria del 12 y 13 de marzo de 1997, pág. 697, y la intervención del senador Yoma en el Diario de Sesiones
+del Honorable Senado de la Nación, Sesión Ordinaria del 6 y 7 de marzo de 1996, pág. 618.
+18La Ley 24.937 preveía 19 integrantes en el Consejo, pero fue reformada por la Ley 24.939 (conocida como “ley
+
+correctiva”), agregando un académico para llegar al número de 20 consejeros. Ambas leyes entraron en vigencia el
+mismo día.
+
+[[PDF p. 5]]
+minorías parlamentarias y de las minorías del ámbito de los jueces y abogados. Sin embargo, la
+ley no alteró el régimen de selección de los consejeros de cada estamento19.
+Por último, la Ley 26.855 volvió a ampliar el número de consejeros, esta vez a 19, pero como
+veremos en el apartado siguiente fue declarada inconstitucional por la Corte Suprema. Por lo
+tanto, nos apresuramos en aclarar que a la fecha de esta publicación, el Consejo funciona con 13
+integrantes, de acuerdo con la Ley 26.08020. La ley 26.855 mantuvo a los tres legisladores por
+cada cámara y el representante del ejecutivo. Lo verdaderamente novedoso fue lo dispuesto
+para la elección de los tres abogados, tres jueces y seis académicos que ahora integrarían el
+Consejo: serían electos por el voto popular.
+La constitucionalidad de las Leyes 26.080 y 26.855 ha sido tratada por la Corte Suprema en el
+orden inverso al de su sanción. En el caso de la Ley 26.080, la principal objeción ha sido la
+distribución de bancas entre los estamentos del Consejo. En el caso de la Ley 26.855, las
+impugnaciones fueron dirigidas a la elección popular de los representantes de los jueces y los
+abogados y de las personas del ámbito académico y científico. A continuación trataremos ambas
+cuestiones.
+
+a.- Cómo se elige a los consejeros: la Ley 26.855 y la cuestión de la “representación”
+La discusión acerca de cómo lograr el “equilibrio” entre los estamentos llamados a conformar el
+Consejo de la Magistratura –que discutiremos en el próximo apartado- lleva casi tanto tiempo de
+vida como el propio texto del art. 114. Sin embargo, existe una cuestión que, a pesar de ser
+lógicamente previa, no ocupó el centro de la escena sino mucho tiempo después: ¿cómo se elige
+a los consejeros?
+La Ley 26.855 fue sancionada en 2013, dentro de un paquete de leyes impulsadas por el
+oficialismo de entonces con el nombre de “democratización de la Justicia. El cambio más radical
+que la nueva ley establecía con respecto a todas sus antecesoras era la elección popular de los
+jueces, abogados y académicos de manera conjunta con las elecciones nacionales para cargos
+ejecutivos y legislativos. Adicionalmente, los ahora seis representantes académicos ya no debían
+pertenecer únicamente a la disciplina jurídica.
+En el esquema de la ley 26.855, quienes aspiraban a integrar el Consejo de la Magistratura
+debían presentarse a elecciones partidarias conjuntamente con la elección presidencial21. Cada
+partido o alianza que presentara candidato a presidente -se prohibía la conformación de
+alianzas únicamente para presentar candidaturas al Consejo- podría presentar una única boleta
+con sus dos candidatos a representantes de los jueces, dos candidatos a representantes de los
+abogados y cuatro candidatos a representantes del sector académico. El partido o alianza que
+obtuviera mayor cantidad de votos a nivel nacional conseguiría el cargo para todos los
+candidatos, y el siguiente para la mitad de ellos (es decir, dos tercios de los cargos irían para el
+partido o alianza más votado, y el tercio restante para el siguiente).
+Además, el Poder Legislativo seguiría representado por tres diputados y tres senadores: dos por
+el bloque político de mayor número de cada Cámara, y uno por el siguiente. Por último, el Poder
+Ejecutivo conservaba un representante.
+
+19 El Senado y la Cámara de Diputados estarían representados ahora por tres legisladores cada una: dos por el bloque
+
+más numeroso y uno por el siguiente. El art. 2 inc. 2 según la Ley 26.080 habla de “dos por la mayoría y uno por la
+primera minoría”, sin embargo, el modo más razonable de entender esta redacción es asignarle el mismo sentido que
+antes de la reforma (ya que, por ejemplo, no siempre existiría una “mayoría” en sentido estricto en las Cámaras).
+20 De todos modos, a la fecha de esta publicación existe un fallo no firme que declara la inconstitucionalidad de la
+
+reforma operada por la Ley 26.080 que discutiremos en el apartado b).
+21 Excepcionalmente, se dispuso que en 2013 la elección de consejeros se realizaría conjuntamente con las elecciones
+
+legislativas de medio término.
+
+[[PDF p. 6]]
+En este esquema, entonces, y suponiendo que la mayoría electoral coincide con la mayoría en
+los bloques legislativos y en el Poder Ejecutivo -lo cual es previsible, ya que la ley preveía que la
+elección a consejeros se realizara conjuntamente con la elección presidencial-, el oficialismo
+cuenta automáticamente con más de dos tercios de los cargos del Consejo (dos diputados, dos
+senadores, el representante del PEN, dos jueces, dos abogados y cuatro académicos: 13 sobre un
+total de 19 miembros). Además, la ley 26.855 había disminuido la mayoría necesaria para tomar
+la mayor parte de las decisiones a la mayoría de los miembros totales del Consejo -cuando
+siempre había sido de dos tercios de los miembros presentes-.
+No es extraño que la Corte Suprema, al poco tiempo de dictada la ley 26.855, la declarara
+inconstitucional. Así, en el fallo “Rizzo”, la Corte fundó la invalidez constitucional de la reforma
+en cuatro razones22:
+
+i.- El equilibrio23:
+Como se vio en el apartado anterior, la práctica institucional argentina había interpretado el
+equilibrio como “no predominio” de un sector sobre otro. La Corte ratifica esta interpretación:
+“la concepción de los constituyentes… fue mantener en el Consejo un equilibrio entre sectores de
+distinto origen sin que exista predominio de uno sobre otro. Es decir, que ningún sector cuente con
+una cantidad de representantes que le permita ejercer una acción hegemónica respecto del
+conjunto o controlar por sí mismo al cuerpo”24.Así, el “equilibrio” constitucional debe procurarse
+entre los distintos estamentos que conforman el Consejo. Sin embargo, aquí la Corte no hace
+mérito de la cantidad de miembros de cada sector25 sino que extrae una implicancia adicional
+del mandato del equilibrio: no puede decirse que es equilibrada una composición en la cual “la
+totalidad de los integrantes del Consejo tendría un origen político-partidario”26, de modo directo o
+indirecto: de sus 19 integrantes, 12 serían elegidos directamente en las urnas por la ciudadanía,
+mientras los restantes 7 lo serían por el Congreso o el Poder Ejecutivo.
+El modo más sencillo de entender esta afirmación de la Corte es que en el sistema de la Ley
+26.855, en realidad, no hay representantes de los jueces, de los abogados o de los académicos.
+Entendido así, el argumento del equilibrio queda reducido al próximo argumento, el de la
+representación.
+
+ii.-La representación27:
+El art. 114 habla de “la representación” de los jueces, los abogados y de los órganos políticos
+provenientes de la elección popular. Al mencionar a los académicos, no refiere a su
+“representación”.
+El mayor desarrollo de la Corte en el fallo “Rizzo” parece destinado a mostrar que la elección
+popular de los consejeros es constitucionalmente inviable, sin importar la modalidad de esta
+elección. Para hacerlo, desarrolla dos líneas argumentales.
+La primera serie de argumentos parece destinada a preservar el espíritu corporativo de la
+representación en el seno del Consejo de la Magistratura. Así, tras afirmar que no hace más que
+
+
+22“Rizzo, Jorge Gabriel (apoderado lista 3 Gente de Derecho) s/ acción de amparo c/ Poder Ejecutivo Nacional ley 26.855,
+
+medida cautelar”, sentencia del 18 de junio de 2013, cons. 29.
+23Id. cons. 17, 25 y 30.
+24Id., cons. 25. En el mismo sentido, cons. 9° del voto de Argibay y Petracchi. El voto concurrente no acompaña a la
+
+mayoría en el razonamiento del cons. 19.
+25 Con la excepción del cons. 32, en el que considera excesiva la cantidad de seis académicos, ya que el art. 114 CN
+
+otorga a las “personas del sector académico y científico” un “papel secundario”.
+26Id., cons. 30.
+27Id. cons. 17, 20 a 24 y 31.
+
+[[PDF p. 7]]
+“entender… las palabras de la Constitución en el significado en el que son utilizadas popularmente
+y explicarlas en su sentido llano, obvio y común”28, afirma que “las personas que integran el
+Consejo lo hacen en nombre y por mandato de cada uno de los estamentos indicados, lo que supone
+inexorablemente su elección por parte de los integrantes de esos sectores. En consecuencia, el
+precepto no contempla la posibilidad de que los consejeros puedan ser elegidos por el voto popular
+ya que, si así ocurriera, dejarían de ser representantes del sector para convertirse en
+representantes del cuerpo electoral.”29De modo similar, afirma poco después que “para ejercer
+una representación electoral se requiere necesariamente un mandato, que solo puede ser otorgado
+por los integrantes del sector”30. Por último, se recurre a los debates de la Convención
+Constituyente a fin de mostrar que la elección por parte de los jueces y de los abogados de sus
+respectivos representantes era la intención inequívoca al momento de la sanción del art. 11431.
+Si bien el concepto de representación no incluye necesariamente la elección de los
+representantes por los representados32, la idea de que la representación de los jueces y de los
+abogados es una representación corporativa no sólo es la que se desprende de modo más
+inmediato del texto del art. 114, sino que parece estar lo suficientemente asentada en nuestra
+práctica constitucional33. Tanto los debates en la Convención Constituyente como los debates
+parlamentarios de la ley 24.93734 muestran que era una idea incontrovertida.
+Sin embargo, este argumento presenta una dificultad al tratarse de los académicos. Como hemos
+dicho, el art. 114 habla de la “representación” de los jueces y de los abogados, pero sólo indica
+que el Consejo “será integrado asimismo por personas del ámbito académico y científico en el
+número y forma que indique la ley”. En “Rizzo”, la Corte entiende que el adverbio “asimismo”
+utilizado indica que el régimen de los académicos debe mantener el equilibrio y el sistema de
+representación establecido para los jueces y abogados35. Sin embargo, a diferencia de lo que
+ocurre con los jueces y los abogados, no parece que el “ámbito académico y científico” sea un
+sector diferenciado del resto de la sociedad con intereses a ser especialmente representados
+dentro del órgano de gobierno del Poder Judicial. Por el contrario, su inclusión parece estar
+orientada a la apertura del Consejo hacia fuera de los sectores políticos y corporativos. Así,
+parecería que no hay nada ni en la letra del art. 114 ni en la naturaleza del sector académico que
+insinúe fuertemente que los académicos no puedan ser electos por las mayorías electorales. De
+hecho, esto fue advertido en los debates parlamentarios de la ley 24.937, ya en 1996. De hecho,
+
+28Id. cons. 17.
+29Id. cons. 18.
+30Id. cons. 31.
+31Id. cons. 23.
+32  Ni el concepto jurídico de representación ni el uso corriente del término implican necesariamente que el
+representado elija al representante. En el derecho constitucional argentino, por ejemplo, la Cámara de Diputados
+representa a los habitantes del pueblo de la Nación en conjunto, y sin embargo son electos por los habitantes de cada
+provincia. El diputado electo por el pueblo de Neuquén es representante del pueblo de toda la Nación.
+Jon Elster (Securities Against Misrule. Juries, Assemblies, Elections. Cambridge UniversityPress, Nueva York, 2013, p.
+239) sostiene que el hecho de que los representantes sean electos entre y por sus representados forma parte del
+núcleo de la idea contemporánea de representación política. Sin embargo, esta idea debe parte de su poder
+persuasivo a un instinto democrático por definición ausente en un órgano estamental como el Consejo de la
+Magistratura.
+33 Carlos Nino planteaba que una de las ocasiones en la que los jueces debían ejercer el control de constitucionalidad
+
+es precisamente la necesidad de preservar la práctica constitucional de la comunidad. Creemos que lo que da
+fortaleza a la interpretación de la Corte no es un concepto esencialista sobre la “representación” sino su consistencia
+con la práctica constitucional argentina desde 1994. Véase Nino, Carlos Santiago, Fundamentos… citado, págs. 701-
+703.
+34 Véanse las citas de la Convención Constituyente citadas en el propio fallo “Rizzo”, cons. 23.
+35Rizzo, cons. 19. En su voto concurrente, la jueza Argibay y el juez Petracchi reconocen que el de los académicos no
+
+es una “representación” como la de los jueces y abogados, pero que su participación debe estar sujeta de todos modos
+al “equilibrio” constitucional (cons. 7°).
+
+[[PDF p. 8]]
+en esa ocasión, el primer proyecto aprobado por el Senado preveía que los académicos fueran
+designados por el propio Senado. Quienes entonces defendieron la solución finalmente
+adoptada -la elección de los académicos por sus pares- no la defendieron como
+constitucionalmente obligatoria sino simplemente como conveniente, por ejemplo, para que el
+Senado no multiplicara su injerencia en el Consejo36.
+Tal vez para no reposar la totalidad del argumento en una discutible interpretación de
+“asimismo”37, la Corte ensaya una segunda línea argumental destinada a mostrar que la elección
+popular de funcionarios es un mecanismo excepcional previsto en la Constitución para ciertos
+cargos, que no puede ser ampliado por el Congreso para otros. De otro modo, sostiene la Corte,
+el Congreso crearía cargos cuando las mayorías electorales le fueran favorables y los cancelaría
+cuando le fueran adversas38. Aun más: “el Poder Judicial tiene la legitimidad democrática que le
+da la Constitución Nacional, que no se deriva de la elección directa… En consecuencia, resulta
+consistente que los consejeros, como miembros de un órgano que integra el Poder Judicial de la
+Nación, sean elegidos de forma indirecta, de la misma manera que los jueces”39.
+Este argumento resulta poco atractivo, por tres razones. En primer lugar, la elección de los
+consejeros por parte de las asociaciones de académicos o abogados no es una elección
+“indirecta”, comparable a la de los jueces, sino una elección directa por parte de cuerpos
+electorales reducidos a cierta profesión. La analogía, entonces, no se sostiene.
+En segundo lugar, si bien el Consejo de la Magistratura está incluido dentro de la Sección
+destinada al Poder Judicial, no cumple funciones jurisdiccionales sino de gobierno del Poder
+Judicial. Las buenas razones que existen para excluir a los jueces del voto popular no son
+aplicables, sin más, al órgano político que se encarga de gobernar uno de los poderes del Estado.
+Garantizar la independencia de los jueces no implica que los órganos que deciden sobre las
+cuestiones de gobierno del Poder Judicial deban estar aisladas de la ciudadanía.
+Por último, la posibilidad de que el Congreso varíe las reglas de elección de consejeros según los
+vientos electorales es una crítica que podría aplicarse a cualquier mecanismo de selección que
+no tenga rango constitucional. En este caso, lo preocupante no era que se diera al electorado
+participación en la elección de cargos públicos distintos al presidente y los legisladores
+nacionales40, sino, como se verá en el apartado iv, la posibilidad de que se estuviera creando un
+mecanismo electoral especialmente dirigido a cierto sector.
+
+iii.-Independencia de los jueces41:
+Un tercer argumento de la Corte es que la elección en los términos planteados por la ley 26.855
+violaba la independencia de los jueces que desearan presentarse como candidatos a ocupar un
+cargo en el Consejo: “el magistrado que aspira a ser miembro del Consejo en representación de los
+jueces debe desarrollar actividades político-partidarias, llevar a cabo una campaña electoral
+nacional con el financiamiento que ello implica, proponer a la ciudadanía una determinada
+plataforma política y procurar una cantidad de votos… En la práctica, la ley contraría la
+
+36 Véase Diario de Sesiones del Honorable Senado de la Nación, Sesión Ordinaria del 6 y 7 de marzo de 1996.
+37 Hay otro punto respecto de la palabra “asimismo”: por una parte, la Corte pretende utilizarla para mostrar que los
+
+académicos son asimilables a los jueces y a los académicos. Sin embargo, la mayoría de la Corte también sostiene que
+el art. 114 CN les ha otorgado a los académicos un rol secundario (cons. 32), sin que esta vez el adverbio “asimismo”
+venga en su ayuda.
+38Id. cons. 26.
+39Id. cons. 27.
+40 De hecho, la ley 27.120 ha reglamentado el Protocolo Constitutivo del Parlamento del Mercosur, por el cual se han
+
+creado los cargos de parlamentarios del Mercosur a ser elegidos directamente por el pueblo de los países miembros,
+sin que haya recibido cuestionamientos a su constitucionalidad.
+41Rizzo, cons. 33 y 34.
+
+[[PDF p. 9]]
+imparcialidad del juez frente a las partes del proceso y a la ciudadanía toda, pues le exige
+identificarse con un partido político mientras cumple con la función de administrar justicia.
+Desaparece así la idea de neutralidad judicial frente a los poderes políticos y fácticos”42.
+Como se aprecia fácilmente, este ya no es un argumento que pueda aplicarse a todos los
+integrantes del Consejo sino sólo a los que van en representación de los jueces. Por otra parte,
+tampoco es un argumento aplicable a cualquier tipo de elección en la que participan jueces, sino
+a las elecciones en las que participen como candidatos de partidos políticos (en el régimen de la
+Ley 26.855, los jueces debían presentarse a elecciones exclusivamente acompañando
+candidaturas a presidente y legisladores nacionales43).
+Con ese alcance, creemos que el argumento es correcto: lo que viene a salvar la Corte es la
+independencia de los jueces con respecto a quienes ocupan los máximos cargos ejecutivos y
+legislativos. Nuevamente: creemos que una de las máximas funciones del Poder Judicial es
+asegurar que quienes ocupan los cargos políticos no abusen de su posición para torcer las reglas
+democráticas en su favor. Así, para ser correcto, este argumento de la Corte no necesita resolver
+la cuestión de la independencia judicial con respecto a la opinión pública, que es una cuestión
+harto más compleja.
+
+iv.-Distorsión del proceso electoral44:
+Un último argumento de la Corte resulta particularmente interesante. Éste se enfoca en el
+carácter altamente restrictivo de las reglas electorales que se fijaron para la elección de los
+consejeros. Por una parte, la Ley 26.855 previó que no podrían conformarse agrupaciones
+políticas al solo efecto de presentar candidatos al Consejo, ni tampoco más de una agrupación
+podría presentar a los mismos candidatos45. Al mismo tiempo, la Ley 26.855 permitía que los
+candidatos a consejeros adhirieran su boleta al las boletas para cargos legislativos únicamente
+si la agrupación se presentaba con la misma denominación en por lo menos 18 distritos46. Con
+acierto, la Corte califica a estas restricciones como “barreras irrazonables” al derecho de
+asociarse con fines políticos. Además, afirma que “[e]l Estado no puede implementar un sistema
+electoral que coloque en mejor condición a una o unas pocas agrupaciones políticas por sobre el
+resto”.
+Nuevamente, este argumento tiene un alcance limitado. Si el Congreso hubiera aprobado un
+sistema electoral más generoso con las fuerzas minoritarias o con las agrupaciones que no
+quisieran atar su candidatura al Consejo a un candidato a Presidente, no habría tenido
+oportunidad de formularse. Sin embargo, dentro de su alcance, es un argumento poderoso:
+precisamente la intención que declamaban los promotores de la Ley 26.885 era la de
+democratizar la Justicia. Aquí, al ejercer un escrutinio estricto sobre las reglas procedimentales,
+la Corte muestra que una elección popular para cualquier cargo que no garantiza un mínimo
+nivel de ecuanimidad entre sus candidatos no puede ser convalidada constitucionalmente. En
+
+42Rizzo, cons. 33.
+43 En el apartado siguiente se desarrolla este punto.
+44Rizzo, cons. 36 a 40.
+45 Según el artículo 3 bis que la Ley 26.855 incorporó a la Ley 24.937, “No podrán constituirse agrupaciones políticas al
+
+único efecto de postular candidaturas al Consejo de la Magistratura. No podrán oficializarse candidaturas a más de un
+cargo y por más de una agrupación política.” En el contexto político de 2013, de fragmentación entre las fuerzas
+opositoras al gobierno nacional potenciada por el hecho de que no había elecciones presidenciales ese año, esta regla
+representaba una ventaja sustancial a favor del oficialismo de entonces.
+46 Art. 18 de la Ley 26.855, modificando el art. 33 de la Ley 24.937. Hay un hecho notable que demuestra lo
+
+irrazonable de la exigencia: en la última elección legislativa anterior a la sanción de la Ley 26.855, ni una agrupación
+política cumplía con este requisito. En las elecciones legislativas de 2013 finalmente no se eligieron consejeros, pero
+de haber sucedido, sólo una agrupación (el Frente para la Victoria) lo hubiera cumplido. Pueden consultarse las
+agrupaciones presentadas en las elecciones de 2009 y 2013 en el sitio web de la Cámara Nacional Electoral.
+
+[[PDF p. 10]]
+una comprensión de la función judicial preocupada por la garantía de la democracia, los jueces
+deben ser especialmente cuidadosos al momento de avalar la constitucionalidad de las reglas
+que las mayorías circunstanciales dictan para la elección de cargos -como debe serlo con leyes
+electorales, o de regulación de los partidos políticos-47.
+
+b.- Quiénes integran el Consejo: La Ley 26.080 y la cuestión del “equilibrio”
+Como se señaló, establecida la inconstitucionalidad de la Ley 26.855, recobró su vigencia en
+cuanto a la integración del Consejo la Ley 26.080. Esta integración sufrió impugnaciones
+constitucionales desde su sanción48.
+En el fallo “Monner Sans”, la mayoría de la Corte ratifica el entendimiento de “equilibrio” como
+“no predominio”. Así, descarta que la integración de la Ley 26.080 haya vulnerado el “equilibrio”
+constitucional por no haber dispuesto una representación igualitaria entre los distintos
+estamentos, aunque deja abierta la posibilidad de hacerlo con nuevos argumentos49. En su voto
+concurrente, Argibay agrega que la representación del sector político se encuentra fragmentada
+entre representantes de distintos bloques parlamentarios y que además las decisiones
+trascendentales del Consejo exigen mayorías especiales, por lo que las mayorías según la Ley
+26.080 son siempre producto de alguna coalición entre sectores distintos.
+En 2015, nueve años después de la modificación de la integración del Consejo de la Ley 26.080,
+la Sala II de la Cámara en lo Contencioso Administrativo Federal declaró su inconstitucionalidad
+con sustento en el voto de mayoría en “Rizzo” y “Monner Sans”50. La línea argumental es simple:
+de los 13 integrantes del Consejo, seis son legisladores y uno es el representante del Poder
+Ejecutivo, es decir que más de la mitad de los integrantes del Consejo son “representantes de los
+órganos políticos resultantes de la elección popular”. Así, los representantes de los poderes
+políticos podrán formar quórum propio y, para las decisiones que no requieran mayoría
+especial, tendrán mayoría propia. Si bien la concurrencia de Argibay había anticipado que este
+argumento subestima la fragmentación de la representación política en el Consejo (ya que
+asume que los integrantes de bloques políticos diferentes tienen sus intereses lo
+suficientemente alineados como para actuar juntos), el razonamiento mayoritario en “Rizzo”
+avala esta decisión.
+Creemos que existe una segunda manera en la que la Ley 26.080 viola el equilibrio exigido por
+la Constitución: en los casos en los que el partido político que detenta el Poder Ejecutivo tiene
+mayoría en ambas Cámaras del Congreso, controlará automáticamente a cinco de los trece
+miembros del Consejo, es decir, poco más de un tercio. Como las decisiones más importantes del
+Consejo se toman con una mayoría de los dos tercios, el oficialismo tendrá siempre una “minoría
+de bloqueo”, suficiente para otorgarle poder de veto sobre cualquier decisión que el resto de los
+miembros del Consejo puedan haber consensuado. Por ejemplo, bajo el sistema de la Ley
+
+47 El juez Warren sostuvo en Kramer v. Union Free SchoolDistrict No. 15 (395 US 621) que “la presunción de
+constitucionalidad [de las leyes] está basada en la asunción de que las instituciones de gobierno están estructuradas
+para representar a todos. Cuando el cuestionamiento a una ley es en efecto un cuestionamiento de esta asunción básica,
+la presunción ya no puede servir como la base de la presunción de constitucionalidad”, citado en Ely, John Hart,
+Democracy… citado, pág. 117, traducción propia. Comentando casos sobre derechos electorales, afirma este autor que
+los derechos electorales “son esenciales para el proceso democrático y no es seguro dejar sus dimensiones en nuestros
+representantes electores, que tienen obviamente intereses directos en mantener el statu quo”, Ely, id.
+48 Véase por ejemplo la intervención de la diputada Marcela Rodríguez en la sesión en la que se aprobó la Ley 26.080
+
+para un análisis de cómo la nueva integración vulneraría el “equilibrio” constitucional a la luz de la propia experiencia
+del Consejo. Reunión No. 44 - 3a. Sesión Extraordinaria celebrada el 22 de febrero de 2006.
+49“Monner Sans, Ricardo c/ Estado Nacional – Secretaría General Presidencia y otros s/ amparo”, sentencia del 6 de
+
+marzo de 2014, cons. 6°.
+50 Fallo “Colegio Público de Abogados de la Ciudad de Buenos Aires c/ E.N.- Ley 26.080 - Dto. 816/99 y otros s/ proceso
+
+de conocimiento”, sentencia del 19 de noviembre de 2015. Este fallo no se encontraba firme a diciembre de 2015.
+
+[[PDF p. 11]]
+26.080, el oficialismo podrá bloquear cualquier intento de acusación contra un juez, otorgándole
+protección de manera indefinida. Esto también es claramente violatorio del equilibrio
+constitucional.
+
+III.- Las competencias del Consejo
+III.a.- La selección de jueces
+La Constitución de 1853/1860 había impuesto un sistema puramente político de selección de
+jueces, tanto para la Corte Suprema como para los tribunales inferiores: al igual que lo aún lo
+establece la Constitución de los Estados Unidos, los jueces eran designados por el Presidente de
+la Nación con el acuerdo de la mayoría simple del Senado. En la reforma de 1994, los partidos
+mayoritarios acordaron dos reformas en el sistema de nombramiento de jueces, que figuran en
+el actual art. 99 inc. 4° de la Constitución.
+Por una parte, los jueces de la Corte Suprema continuarían siendo designados por el Presidente,
+pero ahora se exigiría una mayoría de dos tercios de los miembros presentes, “en sesión pública
+convocada al efecto”. De este modo, se garantizaría que el oficialismo necesite acordar al menos
+con parte de la oposición política el nombramiento de cada nuevo juez. En 2003, el Presidente
+de la Nación dictaría el decreto 222/2003 para dar mayor transparencia y legitimidad al
+proceso de designación de jueces de la Corte Suprema, proceso que luego se extendería con el
+decreto 588/03 para la designación de jueces inferiores de la Nación, y los integrantes del
+Ministerio Público Fiscal y la Defensoría Pública. Ambos decretos obligan al Poder Ejecutivo a
+someter a los candidatos a un escrutinio público previo al ingreso del pliego al Senado,
+obligándolos a proporcionar declaraciones juradas acerca de sus antecedentes, solicitando
+información a las agencias tributarias acerca del cumplimiento de las obligaciones fiscales del
+candidato y permitiendo a la sociedad civil intervenir en el proceso remitiendo impugnaciones o
+apoyos a los candidatos propuestos51. El Senado también modificó su reglamento interno,
+sometiendo estos nombramientos a un proceso de publicidad que incluye audiencias públicas52.
+Por otra parte, también el art. 99 inc. 4° prevé que los magistrados de tribunales inferiores son
+elegidos por el Presidente de una terna que le remite a tal efecto el Consejo de la Magistratura.
+Una vez elegido el candidato, éste debe obtener también el acuerdo del Senado (con mayoría de
+miembros presentes, ya que nada se especifica).
+Los incisos 1° y 2° del art. 114 son el espejo del art. 99 inc 4°. Según éstos, serán atribuciones del
+Consejo de la Magistratura “seleccionar mediante concursos públicos los postulantes a las
+magistraturas inferiores” y “emitir propuestas en ternas vinculantes, para el nombramiento de los
+magistrados de los tribunales inferiores”. Usualmente se afirma que el objetivo del Consejo de la
+Magistratura fue despolitizar el proceso de selección y remoción de jueces53. En efecto, la
+realización de concursos en el seno del Consejo aleja enormemente a este sistema de un sistema
+puramente político como el anterior a la reforma constitucional. Sin embargo, el propio diseño
+del sistema demuestra que no fue su objetivo crear un sistema puramente aséptico. En primer
+lugar, la propia integración del Consejo de la Magistratura prevé la participación de los órganos
+políticos en el proceso de concursos. En segundo lugar, el Presidente elige al candidato de su
+preferencia dentro de la terna vinculante. Por último, el Senado no tiene restricciones para
+pronunciarse acerca del acuerdo, más allá de tener en cuenta la idoneidad del candidato.
+
+51 Según expresó el entonces Ministro de Justicia, este decreto fue inspirado en “Una Corte para la democracia”, un
+
+documento que varias organizaciones de la sociedad civil habían elaborado en aquellos años. Véase “Kirchner reforma
+el sistema para elegir jueces de la Corte”, Diario Clarín del 20 de junio de 2003.
+52 Véanse artículos 22 bis y 22 ter del Reglamento del Honorable Senado de la Nación.
+53 Así por ejemplo, Raúl Alfonsín, uno de los promotores de la incorporación del Consejo, en Democracia y consenso,
+
+Corregidor, Buenos Aires, 1996, pág. 397.
+
+[[PDF p. 12]]
+Desde nuestro punto de vista, es imposible tratar la designación de jueces como si fuera una
+cuestión meramente administrativa. Por el contrario, las consideraciones ideológicas acerca del
+compromiso de los candidatos con la defensa de los derechos humanos y el sistema democrático
+deben jugar un rol preponderante junto con los méritos académicos y profesionales. Sin
+embargo, las consideraciones políticas deben ser realizadas a la luz pública y estar abiertas a la
+crítica de los ciudadanos. Un breve examen del sistema vigente de selección de magistrados
+mostrará que muchas veces los factores políticos inciden de modos a simple vista ocultos.
+En la actualidad el régimen de concursos se encuentra regulado por el art. 13 de la ley 24.937
+(en la redacción de la ley 26.885) y está a cargo de la Comisión de Selección y Escuela Judicial54.
+En este sistema, los concursos constan de cuatro etapas. Inicialmente, cada concursante realiza
+un examen anónimo que es evaluado por un jurado de especialistas externos al Consejo. En
+segundo lugar, los antecedentes de cada candidato son calificados por la Comisión según una
+tabulación más o menos rígida establecida por el Reglamento (puntaje por doctorado,
+maestrías, publicaciones, antecedentes docentes, etc.)55. Estos puntajes pueden ser impugnados
+sólo con base en “error material, vicios de forma o de procedimiento, o en la existencia de
+arbitrariedad manifiesta”56.
+Las etapas tercera y cuarta consistenen dos entrevistas con los candidatos mejor posicionados
+como resultado del examen y la evaluación de los antecedentes. Una entrevista con la Comisión
+de Selección, que puede modificar fundadamente el orden de mérito dispuesto por la oposición
+y los antecedentes y luego otra con el plenario del Consejo a fin de “evaluar la idoneidad, aptitud
+funcional y vocación democrática del concursante”. Estas etapas son las más discrecionales o
+subjetivas, en la que puede tratarse de una mera formalidad, o bien, puede dar lugar a cambios
+importantes en el orden de mérito de los concursantes como resultados de las dos etapas
+previas, debido a los apoyos políticos que cada candidato haya generado entre los consejeros. El
+plenario del Consejo puede, además, revisar de oficio la calificación otorgada al examen o a los
+antecedentes de cada candidato, aunque debe fundar todo apartamiento de las decisiones de la
+Comisión57. Por último, el plenario aprueba con los dos tercios de sus miembros presentes la
+lista de mérito, cuyos tres primeros nombres constituirán la terna a remitir al Poder Ejecutivo.
+Si bien el art. 13, ap. C de la ley orgánica del Consejo establece que esta decisión del plenario es
+irrecurrible, está aceptado que la arbitrariedad en las atribuciones ejercidas durante el concurso
+es remediable judicialmente58. Así, por ejemplo, se ha anulado un examen en el cual un
+candidato había sido descalificado por no incluir el encabezado de su proyecto de sentencia y
+por diferencias razonables en la interpretación del derecho vigente59. Sin embargo, la
+jurisprudencia ha sido más reticente a invalidar decisiones del Consejo fundadas en
+
+
+
+54Según la redacción de la ley 26.080, vigente en este punto, esta Comisión    está integrada por los tres diputados, los
+tres jueces, el representante del Poder Ejecutivo y el del ámbito académico y científico. El Reglamento interno de la
+Comisión fue aprobado por la resolución 7/2014 del Consejo, modificada por la resolución 95/2015.
+55 Sin embargo, como muestra Zayat (ob. cit.) un mismo postulante ha obtenido una miríada de puntajes disímiles
+
+para idénticos antecedentes en concursos cercanos en el tiempo, por lo que es dudosa la rigidez de estos criterios.
+56 Art. 38 del Reglamento de la Comisión.
+57 En “Alemany, Jorge F. v. Consejo de la Magistratura de la Nación”, sentencia de la Sala III de la Cám. Nac. en lo Cont.
+
+Adm. Fed. del 8 de agosto de 2002, se hizo lugar a una medida cautelar de un concursante que había sido desplazado
+por el plenario, contra lo recomendado por la Comisión de Selección, sin invocar razón alguna más que su
+competencia legal para hacerlo. Una decisión similar en “Mattera, Marta del R. v. Consejo de la Magistratura
+Nacional”, sentencia de la Sala IV de la Cám. Nac. en lo Cont. Adm. Fed. del 27 de marzo de 2002.
+58 Lo mismo ocurre con la destitución de jueces por parte del Jurado de Enjuiciamiento. Véase el capítulo IV de este
+
+trabajo.
+59 “Marinelli, Ernesto L. v. Estado Nacional -Consejo de la Magistratura-”, sentencia de la Sala I de la Cám. Nac. en lo
+
+Cont. Adm. Fed. del 25 de agosto de 2009.
+
+[[PDF p. 13]]
+consideraciones sobre el respeto de los candidatos a los derechos humanos y el régimen
+democrático60.
+El Procurador General, en su dictamen en la causa “Carranza Latrubesse”, admitió la
+intervención judicial también en estos casos, aunque la Corte rechazó in limine intervenir en la
+causa por aplicación del art. 280 CPCC. En disidencia, aunque arribando a diferentes resultados,
+los jueces Fayt y Zaffaroni declaran que la intervención judicial “quedará circunscripta a ejercer
+el control de legalidad de los actos emitidos en el marco de los respectivos procedimientos y a
+verificar si se han producido transgresiones” de suficiente “nitidez y gravedad”61.
+Un estudio realizado por Demián Zayat sobre los 119 concursos realizados entre 1998 y 2008
+para cubrir 157 vacantes para judicaturas federales muestra que en 116 de ellos hubo
+variaciones de posiciones luego de las impugnaciones presentadas por los candidatos62. Dado
+que las impugnaciones son resueltas por la Comisión con conocimiento de la identidad del
+concursante, es esperable que consideraciones políticas se cuelen al resolverlas, a pesar de que
+según el reglamento las impugnaciones proceden sólo en casos excepcionales. Según el mismo
+estudio, en el 70% de las ternas al menos uno de los ternados no se encontraba entre los
+primeros tres lugares en la lista de mérito original, sino que llegó allí gracias a las
+impugnaciones o de las entrevistas con la Comisión o el plenario.
+Una vez compuesta la terna, el Presidente debe elegir a uno de los ternados para lograr el
+acuerdo del Senado. La sola existencia de una terna implica que el Poder Ejecutivo no está
+obligado a elegir al primero de la lista. Sin embargo, el hecho de que su decisión sea discrecional
+no implica que sea arbitraria: como con todo acto de gobierno, el Presidente está obligado a
+someter al escrutinio público las razones que lo motivaron a elegir a uno u otro candidato de los
+tres propuestos63. Esta obligación se refuerza cuando se aparte del primer candidato en el orden
+de mérito, ya que en este caso el Presidente no podrá argumentar que ha sido deferente a la
+decisión del Consejo, o cuando elija a un candidato que ha sufrido impugnaciones fundadas por
+parte de la sociedad civil64.
+Una desafortunada práctica que aumenta la discrecionalidad del Poder Ejecutivo en la selección
+de jueces es la acumulación de ternas. En el Poder Ejecutivo suele haber un retraso en el envío
+de ternas al Senado, por lo que los concursos con ternas enviadas desde el Consejo se acumulan
+
+60 Así por ejemplo en “Lanusse, Pedro P. v. Estado Nacional -Consejo de la Magistratura-”, sentencia de la Sala III de la
+
+Cám. Nac. en lo Cont. Adm. Fed. del 16 de septiembre de 2009, la Cámara convalidó la decisión de excluir a un
+candidato de la terna por haber considerado que haber ejercido el cargo de juez civil durante una dictadura militar lo
+privaba de garantías acerca de su respeto por el sistema democrático. En “Peralta, Carlos L. v. Estado Nacional”,
+sentencia de la Sala III de la Cám. Nac. en lo Cont. Adm. Fed. del 26 de abril de 2006, la Cámara convalidó la decisión
+de desplazar a un concursante en el orden de mérito por considerar que su actitud en la entrevista personal
+demostraba su falta de idoneidad para ejercer el cargo de juez.
+61 Fallos 329:1723, cons. 15 del voto de Fayt, al que adhiere Zaffaroni. La terminología “nitidez y gravedad” de los
+
+vicios procedimentales es la misma que utiliza para habilitar la intervención de la Corte en los casos de destitución
+por parte del Jurado de Enjuiciamiento.
+62Zayat, obra citada, págs. 337-378. En dos de los tres casos restantes las impugnaciones fueron rechazadas. En el
+
+tercero, dado que había sólo tres candidatos y los tres fueron ternados, no hubo impugnaciones.
+63 Además, en virtud del decreto 588/2003, el Presidente está obligado a someter a los integrantes de la terna a un
+
+proceso de publicidad y recepción de observaciones a fin de disponer de todos “los elementos de convicción necesarios
+para disponer en la materia, en un marco de profundo respeto al buen nombre y honor de los profesionales ternados”.
+64 En la sentencia dictada en la Causa N° 20.457/04, “Gutierrez, Jorge Amado s/amparo” el 10 de agosto de 2004, el
+
+juez a cargo del Juzg. Cont. Adm. N° 6 dictó una medida cautelar y ordenó al Senado de la Nación no brindar el
+acuerdo al candidato propuesto por el Poder Ejecutivo hasta tanto éste no fundamentara su decisión. El 29 de agosto
+de 2010 la Sala V del fuero rechazó la acción, considerando que la exigencia de fundamentación resultaría una
+exigencia que Constitución no impone al Presidente al momento de elegir al candidato. Creemos que esta visión
+confunde dos órdenes: del hecho que algunas facultades sean privativas del Poder Ejecutivo no se desprende que
+pueda ejercerlas sin dar razones de su actuar. La Constitución exige que todos los actos de gobierno estén fundados
+en razones. En el mismo sentido, véase Sabsay, Daniel A. y Neimark, Sebastián “El control de la facultad presidencial
+de designación de los magistrados”, La Ley, Buenos Aires, 2005- D, 996.
+
+[[PDF p. 14]]
+en dicho Poder. Esto provoca que un mismo candidato esté ternado en más de un concurso para
+cubrir juzgados vacantes. La reglamentación vigente65 dispone que si uno de los miembros
+ternados renuncia a la terna -por ejemplo, por haber obtenido acuerdo para otro cargo-, ésta se
+completa con el cuarto miembro en el orden de mérito, y así sucesivamente. De este modo, la
+acumulación de ternas producida por el retraso injustificado dentro del Poder Ejecutivo permite
+el ascenso artificial de concursantes, con el consecuente problema de que en un juzgado en
+particular, se designe a alguien que no estaba entre los primeros tres lugares del orden de
+mérito, pero que contaba con estrechos vínculos políticos, poniendo en dudas la independencia
+judicial. Dado que la selección del candidato debe ser realizada por el Poder Ejecutivo, éste
+podría ser compelido judicialmente a efectuar la elección si no la realiza en un plazo
+razonable66. Dado que la terna es vinculante, el Presidente debe elegir a uno de los propuestos:
+no puede rechazar la terna en su totalidad ni dejarla inactiva indefinidamente.
+
+El proceso se completa con el acuerdo de la mayoría de los miembros presentes del Senado. Al
+igual que en el caso del Poder Ejecutivo, el otorgamiento del acuerdo es una facultad
+discrecional del Senado. Sin embargo, también éste debe dar sus razones, que se expresarán en
+los debates parlamentarios. La ley actual (art. 13) prevé que el rechazo del pliego enviado por
+parte del Senado hace caer la terna en su totalidad, obligando a la realización de un nuevo
+concurso. Esto es razonable, ya que lo contrario implicaría obligar al Presidente a enviar un
+candidato que no eligió en el primer lugar, colocando al Senado en la posición última de elegir al
+juez de su preferencia. En la práctica, ante la dificultad prevista para obtener el acuerdo el
+candidato renuncia o su pliego es retirado por el Poder Ejecutivo.
+
+Si lo que se buscaba con su incorporación era despolitizar el proceso de selección de jueces, el
+Consejo de la Magistratura lo ha logrado de un modo algo paradójico. Por una parte, es
+ampliamente aceptado que a pesar de ciertas irregularidades, el sistema de concursos garantiza
+un nivel mínimo de idoneidad técnica por parte de los candidatos que el sistema puramente
+político no garantizaba67. Sin embargo, mediante la pátina de legitimidad técnica que otorga a
+los ternados, el Consejo oculta el carácter fuertemente político de muchas de las decisiones que
+toma durante el proceso de selección y las discusiones políticas que pueden rodear la selección
+de tal o cual candidato ternado por parte del Presidente. En el futuro, sería conveniente que la
+reglamentación del sistema estableciera mayores medidas de transparencia y de rendición de
+cuentas sobre todo el proceso de selección de magistrados. Esto no significa que la designación
+de jueces sea una cuestión puramente tecnocrática sobre la cual la democracia no tenga nada
+que decir: las importantes elecciones valorativas que rodean este proceso no deben ocultarse
+sino que deben enfrentarse al escrutinio público.
+
+III.b.- Las facultades de administración y reglamentación. Disputas con la Corte Suprema
+El art. 114 otorgó al Consejo de la Magistratura dos facultades que hasta la reforma de 1994 se
+encontraban indiscutiblemente en cabeza de la Corte Suprema de Justicia de la Nación. Por una
+parte, según el inc. 3, corresponde al Consejo “administrar los recursos y ejecutar el presupuesto
+que la ley asigne a la administración de justicia”. En segundo lugar, según el inc. 6, también es su
+
+65 Art. 48 del Reglamento de Concursos aprobado por Res. 7/2014.
+66 Esta posibilidad se vería reforzada con la aprobación de un plazo legal en la ley regulatoria del
+
+Consejo.
+67 Aida Kemelmajer de Carlucci sostuvo que “quizás… el sistema no consiga elegir a los mejores jueces posibles pero
+
+evitará que se designe a los peores”, citado en Gelli, obra citada, Tomo II, pág. 500.
+
+[[PDF p. 15]]
+atribución “dictar los reglamentos relacionados con la organización judicial y todos aquellos que
+sean necesarios para asegurar la independencia de los jueces y la eficaz prestación de los servicios
+de justicia”. El art. 113, por su parte, mantiene en cabeza de la Corte la facultad de dictar su
+reglamento interior y nombrar a sus empleados.
+Sin embargo, desde la primera conformación del Consejo en 1998, la Corte ha resistido los
+intentos del Consejo por ejercer estas atribuciones. El Poder Legislativo, por su parte, tampoco
+ha sido terminante en cuanto a la transferencia de las competencias de reglamentación y
+administración de la Corte al Consejo.
+
+III.b.1.- Facultades presupuestarias:
+En la actualidad, el Consejo posee una Oficina de Administración y Financiera del Poder Judicial,
+que es supervisada por la Comisión de Administración y Financiera del Consejo. Sus
+competencias fueron dispuestas por el art. 18 de la Ley 24.937, que prácticamente no fue
+modificada en este punto. Así, entre sus competencias se encuentra la de elaborar el
+anteproyecto de presupuesto anual del Poder Judicial (que es elevado a la Corte Suprema) e
+incluso “ejecutar el presupuesto anual del Poder Judicial”. El Consejo tiene, además, facultades
+administrativas y de superintendencia con respecto a su propio personal (art. 7°, incs. 13 y 14,
+según Ley 26.885).
+Por su parte, la Corte goza de amplias facultades presupuestarias y administrativas.
+Principalmente, la Ley 23.853 de Autarquía Judicial le otorga la facultad de elaborar el
+anteproyecto de presupuesto de todo el Poder Judicial para remitirlo al Poder Ejecutivo y que
+éste a su vez lo remita al Congreso junto con la ley anual de presupuesto. A la vez, el art. 5° de la
+misma ley faculta al Presidente de la Corte a reestructurar partidas presupuestarias dentro de
+dicho presupuesto una vez aprobado (al igual que el art. 4° de la Ley 11.672 Complementaria
+Permanente de Presupuesto). El art. 9°, por su parte, dispone que la Corte dispone de “amplias
+facultades” para establecer aranceles y disponer de los recursos que éstos generen.
+Otras leyes son concordantes con ella. Así, el art. 117 de la Ley 24.156 de Administración
+Financiera dispone que será la Corte la que fije las modalidades del control de la Auditoría
+General de la Nación en el Poder Judicial. El decreto-ley 19.362, al igual que el art. 7° de la Ley
+de Autarquía Judicial, otorgan a la Corte amplias facultades en materia de administración de los
+recursos humanos del Poder Judicial.
+Cabe destacar que todas estas leyes fueron modificadas en algunos puntos por la ley 26.885, que
+sin embargo apenas alteró la distribución de competencias en esta materia, que permanece casi
+igual desde antes de la reforma de 1994. El proyecto original68 enviado por el Poder Ejecutivo
+preveía la asignación al Consejo de las facultades presupuestarias, aunque el Congreso terminó
+cediendo esas reformas para mantener el statu quo. Así, la permanencia de las competencias de
+administración en cabeza de la Corte no es producto de la mera inacción del Poder Legislativo,
+sino que es una decisión consciente.
+La Corte no sólo se ha amparado en estas normas de rango legal para rechazar los intentos del
+Consejo en materia presupuestaria y administrativa, sino que atribuye a la propia Constitución
+la voluntad de preservar esas competencias en cabeza de la Corte. Así, por ejemplo, la Res.
+471/2004 del Consejo de la Magistratura aprobó un acta acuerdo entre el Consejo y la entidad
+gremial correspondiente a fin de otorgar un aumento del 10% a todos los empleados del Poder
+Judicial. Cinco días después, la Corte declaró inválida dicha resolución mediante la Acordada
+26/2004, manteniendo una postura que ya había mantenido en acordadas anteriores: la
+
+68 Mensaje 5-PE-2013.
+
+[[PDF p. 16]]
+reforma de 1994 no había alterado la condición de “titular” del Poder Judicial de la Nación y que,
+al estar el Consejo incluido dentro de este poder, éste quedaba sometido a dicha “titularidad”:
+“el emplazamiento [del Consejo] dentro del ámbito de del Poder cuya titularidad corresponde a
+esta Corte es una clara demostración de la voluntad de los constituyentes de rechazar toda idea de
+un ejercicio conjunto o bicéfalo de aquélla”69. La acordada menciona los incs. 1, 3 y 5 del art. 114
+CN, pero no queda claro en absoluto qué alcance le otorga, entonces, a las facultades del Consejo.
+
+
+III.b.2.- Facultades reglamentarias:
+Algo similar ha ocurrido con las facultades reglamentarias del Consejo. Si bien el inc. 6° del art.
+114 CN le otorga al Consejo la facultad de “dictar los reglamentos relacionados con la
+organización judicial y todos aquellos que sean necesarios para asegurar la independencia de los
+jueces y la eficaz prestación de los servicios de justicia”, la Corte ha preservado celosamente la
+competencia en esta materia, rechazando los intentos del Consejo por ejercerla.
+Desde la primera conformación del Consejo, la Corte se ha declarado el titular de estas
+facultades. Así, en 1999, mediante la Acordada 16/1999, le “delegó” al Consejo las facultades de
+superintendencia sobre sus propios funcionarios y empleados. El Consejo de la Magistratura
+respondió mediante la Res. 6/2000, que si bien era casi idéntica en su parte resolutiva, optaba
+por “ratificar” las facultades originarias de superintendencia del Consejo, argumentando que de
+ningún modo el Consejo estaba sujeto a la superintendencia de la Corte Suprema. La Corte, a su
+vez, invalidó dicha resolución mediante la Acordada 4/2000, en la que sentó la postura que
+mantendría en lo sucesivo. Así, la mayoría de la Corte argumenta que dado que el Consejo fue
+incorporado por la reforma de 1994 dentro de la Sección correspondiente al Poder Judicial, está
+subordinado a las facultades de superintendencia de la Corte en virtud del art. 108 CN que
+dispone que el “Poder Judicial de la Nación será ejercido por una Corte Suprema de Justicia, y por
+los demás tribunales inferiores”. Otros conflictos análogos se suscitaron con la cuestión de la
+autorización a magistrados y funcionarios para ejercer la docencia70 o con la prohibición para
+los funcionarios del Poder Judicial de estar afiliados a partidos políticos71.
+Al igual que lo que ocurre con las facultades presupuestarias y administrativas, el Poder
+Legislativo ha optado por mantener el statu quo previo a la reforma constitucional. En la
+redacción original de la Ley 24.937, el plenario del Consejo estaba facultado para “dictar los
+reglamentos referidos a la organización judicial y los reglamentos complementarios de las leyes
+procesales, así como las disposiciones necesarias para la debida ejecución de esas leyes y toda
+normativa que asegure la independencia de los jueces y la eficaz prestación de la administración
+de justicia”.
+Sin embargo, poco tiempo después estas facultades se vieron desdibujadas. Así, la ley 25.488,
+una amplia reforma al Código Procesal Civil y Comercial, facultó a la Corte a dictar los
+reglamentos necesarios para su implementación. Unos años después, la Ley 26.080 recortó
+formalmente las facultades reglamentarias del Consejo. En la actualidad, según el art. 7° inc. 2 de
+la Ley 25.937, la facultad del Consejo es la de “dictar los reglamentos que sean necesarios para
+
+
+69 Acordada 26/2004, cons. 3°. La Corte ratifica este criterio en el cons. 30 de "Uriarte, Rodolfo Marcelo y otro cl
+
+Consejo de la Magistratura de la Nación si acción mere declarativa de inconstitucionalidad”, sentencia del 4 de
+noviembre de 2015.
+70 Véanse Acordadas CSJN 30/2001, 11/2004, 38/2004 y 44/2009 y Resolución CM 190/2000.
+71 Véase Res. CM 254/2010 y Acordada CSJN 11/2011, declarándola inválida. Una descripción más amplia de estos
+
+conflictos puede leerse en Trejo, Ramón Enrique, “El Consejo de la Magistratura y la Corte Suprema de Justicia de la
+Nación”, en “Revista Pensar en Derecho” N° 4, Eudeba, 2014, págs. 243-313.
+
+[[PDF p. 17]]
+ejercer las facultades que le atribuye la Constitución Nacional y esta ley a fin de garantizar una
+eficaz prestación del servicio de administración de justicia”.
+De modo más ambiguo, la Ley 26.685, al implementar la notificación electrónica, dispuso que la
+Corte y el Consejo “de manera conjunta, reglamentarán su utilización y dispondrán su gradual
+implementación” (art. 4°)
+Al igual que ocurre con las facultades de administración, el art. 114 CN no deja margen de dudas
+en cuanto a la competencia del Consejo para ejercer sus facultades reglamentarias. El art. 113
+CN, que otorga a la Corte la facultad de dictar su reglamento interior y nombrar a sus
+empleados, es la manida “excepción que confirma la regla”: si las facultades administrativas y
+reglamentarias de todo el Poder Judicial estuvieran en cabeza de la Corte, no habría sido
+necesario aclarar esa facultad.
+En definitiva, lo que subyace tanto para el caso de las facultades presupuestarias como para las
+facultades reglamentarias es una disputa de poder. Poder para disponer de dinero público, de
+designar empleados en oficinas auxiliares al Poder Judicial (oficina de notificaciones, cuerpo
+médico forense, etc.), y de fijar criterios para un sinnúmero de cuestiones que inclusive, pueden
+afectar intereses creados (por ejemplo, régimen de licencias, régimen de ingresos y ascensos de
+empleados, horarios de atención). Si la creación del Consejo dispuesta por una reforma
+constitucional se hizo en parte, para descargar de tareas administrativas a la Corte Suprema, y
+para que el manejo de cuestiones atinentes a la administración de la Justicia estuvieran a cargo
+de un espectro más amplio y democrático de representantes vinculados al sector (abogados,
+académicos, representantes del Poder Legislativo), no queda más que bregar por el
+cumplimiento del artículo 114 CN. Ello, sin renunciar a exigir un equilibrio en la integración del
+Consejo y una madurez para el ejercicio responsable del cargo que ocupan los Consejeros.
+
+III.c.- Las facultades disciplinarias y acusatorias
+El art. 114 inc. 4 faculta al Consejo a “ejercer facultades disciplinarias sobre magistrados”,
+mientras que el inc. 5 lo faculta a “decidir la apertura del procedimiento de remoción de
+magistrados, en su caso ordenar la suspensión, y formular la acusación correspondiente”. La
+destitución de los jueces inferiores es decidida por el Jurado de Enjuiciamiento, creado por el
+art. 115.
+Las sanciones disciplinarias a los magistrados están reguladas por los arts. 7 y 14 de la Ley
+24.937. Por una parte, el art. 7 inc. 16 de la Ley 24.937 (según redacción de la Ley 26.080)
+establece que las sanciones disciplinarias son impuestas por el plenario del Consejo por mayoría
+absoluta de sus miembros totales, y según el art. 14, éstas pueden llegar hasta una multa del
+50% de los haberes del magistrado.
+Las faltas disciplinarias se encuentran enumeradas taxativamente. Entre ellas se encuentran
+algunas bastante amplias como “actos ofensivos al decoro de la función judicial, el respeto a las
+instituciones democráticas y los derechos humanos o que comprometan la dignidad del cargo” o
+“la falta o negligencia en el cumplimiento de sus deberes”. Cabe destacar de todos modos que
+ninguna de las infracciones enumeradas en el art. 14 puede ser cometidas mediante el dictado
+de sentencias judiciales, por lo que el mismo artículo establece que “queda asegurada la
+garantía de independencia de los jueces en materia del contenido de las sentencias”. En seguida
+veremos que la cuestión es algo más compleja en el caso de la acusación y remoción de los
+magistrados.
+Para evitar la sujeción de los magistrados sine die a un expediente sancionador inconcluso, la
+Ley 26.080 incorporó un plazo máximo de 3 años para la aplicación de la sanción, a contarse
+
+[[PDF p. 18]]
+desde la presentación de la denuncia contra el magistrado (art. 7°, inc. 16). El mismo plazo rige
+para la decisión de formular la acusación ante el Jurado de Enjuiciamiento (art. 7°, inc. 15).
+Dado que las sanciones disciplinarias a magistrados tienen una naturaleza administrativa, el
+magistrado acusado goza de un derecho de apelación más amplio (de hechos y de derecho) que
+en los casos de destitución, de naturaleza política.72 Según el mismo art. 14 de la Ley 24.937, las
+sanciones son recurribles ante la Corte Suprema de Justicia de la Nación. Esto contrasta con la
+irrecurribilidad de la que el art. 115 CN reviste a la sentencia destitutoria del Jurado de
+Enjuiciamiento. Ello es así debido a que la responsabilidad disciplinaria administrativa es
+diferente a la responsabilidad política, por lo que no se aplica la doctrina la Corte, que
+estudiaremos en el próximo capítulo, según la cual su única misión en los procesos de
+destitución de magistrados se limita a revisar o garantizar que no se hayan producido graves
+irregularidades que hayan vulnerado el debido proceso.
+La acusación de magistrados ante el Jurado de Enjuiciamiento también es decidida por el
+plenario del Consejo, por una mayoría de dos tercios de sus miembros presentes73. La decisión
+de acusar ante el Jurado, al no ser una decisión jurisdiccional, no es revisable judicialmente74.
+Tampoco lo es la decisión de desestimar una denuncia contra un magistrado75.
+Según el art. 114, el Consejo tiene también la facultad de suspender a los magistrados cuyo
+proceso de remoción se encuentre abierto76. La redacción original de la Ley 24.937, mantenida
+por la Ley 26.080, disponía que la suspensión sólo podía disponerse luego de decidida la
+acusación, mientras que la redacción de la Ley 26.855 nada dice al respecto.
+
+El art. 114 nada dice acerca de la oportunidad de la suspensión del magistrado acusado. Sin
+embargo, una suspensión prolongada en el tiempo, sin decisión acerca de la formulación de la
+acusación ante el Jurado, es contraria al objetivo de la Constitución de minimizar los riesgos de
+estos procedimientos contra la independencia judicial: si en el art. 115 se fijó un plazo máximo
+de 180 días para que el Jurado se expida, con más motivo no puede sujetarse a un magistrado a
+una suspensión sine die antes incluso de ser acusado ante el Jurado.Ante la falta de previsión
+constitucional expresa, habrá que evaluar en cada caso la razonabilidad de la suspensión
+dispuesta antes de la acusación ante el Jurado, que deberá ser interpretada de modo restrictivo.
+La pauta de los 180 días del art. 115 parece un buen parámetro de razonabilidad de la duración
+de las suspensiones dictadas por el Consejo antes de la acusación77.
+
+IV.- El Jurado de Enjuiciamiento de Magistrados
+
+
+
+72 Según la doctrina del fallo de la Corte IDH “Baena Ricardo y otros Vs. Panamá”, sentencia de 2 de febrero de 2001.
+
+Sobre la aplicación de las garantías constitucionales a los procesos administrativos sancionadores, puede consultarse
+el trabajo sobre “Derecho de defensa” de José Ipohorski, en el otro volumen de esta obra. Para un análisis de la
+cuestión desde el derecho administrativo, Sesín, Osvaldo, “Responsabilidad disciplinaria de los jueces” en Santiago,
+Alfonso, La responsabilidad judicial y sus dimensiones, Abaco, Buenos Aires, 2006.
+73 Si bien la redacción de la Ley 26.855 prevé que la mayoría es la mayoría absoluta de los miembros totales, esta
+
+redacción no entró en vigencia en virtud del fallo “Rizzo”, por lo que es aplicable la mayoría prevista por la redacción
+de la Ley 26.080.
+74 Así lo había dispuesto la Corte en el fallo “Rodríguez” (Fallos 318:219) para las acusaciones formuladas ante el
+
+Senado por la Cámara de Diputados y ratificó este criterio para las acusaciones del Consejo en “Yanzón” (Fallos
+331:104), entre otros.
+75 Así lo sostuvo la Corte integrada por conjueces en “Bravo” (Fallos 327:590).
+76 Ante la ausencia de una disposición similar en el caso del juicio político en el Congreso de la Nación, la Corte
+
+(integrada por conjueces) había reconocido la facultad implícita del Senado para suspender al acusado durante el
+trámite del juicio (fallo “MolinéO’Connor”, Fallos 327:2205)
+77 El mismo razonamiento es aplicable a la suspensión ejercida por el Senado.
+
+[[PDF p. 19]]
+El art. 115 CN prevé que los jueces de los tribunales inferiores serán removidos por las mismas
+causas que los sujetos a juicio político según el art. 53 CN “por un jurado de enjuiciamiento
+integrado por legisladores, magistrados y abogados de la matrícula federal”, cuya integración y
+procedimientos serán fijados por la ley que regule el Consejo de la Magistratura, por lo que está
+sujeto también a la mayoría de los miembros totales de cada cámara.
+En la Constitución de 1853 no se preveía ningún sistema de remoción para los jueces inferiores,
+recién en la reforma de 1860 se los sujetó al régimen de juicio político junto con el presidente, el
+vicepresidente, los ministros y los jueces de la Corte Suprema. Durante exactamente cien años,
+hasta 1960, el Senado destituyó a seis jueces inferiores (además de los tres jueces de la Corte
+Suprema destituidos en 1947). Desde 1960 hasta 1983, el Senado no destituyó a ningún juez,
+aunque cabe recordar que las dictaduras militares autodenominadas Revolución Argentina y
+Proceso de Reorganización Nacional instauraron sus propios sistemas de destitución de jueces,
+mediante jurados regulados por los decretos-ley 16.937 y 21.374, respectivamente. Desde 1983
+hasta 1999, sólo otros 7 fueron destituidos por el Senado, mientras que otros 6 fueron
+absueltos78.
+El Jurado de Enjuiciamiento, según el art. 115, debe estar compuesto por “legisladores,
+magistrados y abogados de la matrícula federal”. La integración original del Jurado, según la Ley
+24.937, era de nueve miembros: tres abogados de la matrícula federal, tres jueces (un juez de la
+Corte Suprema y dos camaristas) y tres legisladores (dos senadores y un diputado). La Ley
+26.080 redujo a siete la cantidad de miembros: dos camaristas, dos senadores, dos diputados y
+un abogado de la matrícula federal. En ambas versiones, el Jurado toma la decisión de destituir
+con los dos tercios de sus miembros.
+El art. 115 CN, a diferencia del art. 114, no manda al legislador a que los estamentos que
+integran el Jurado guarden “equilibrio” entre sí. Creemos que, por más que no se exija
+expresamente, el propio mandato de la integración por varios sectores implica que ninguno de
+esos sectores pueda tomar la decisión por sí mismo79.En el fallo “Colegio Público de Abogados”
+de la Cámara en lo Contencioso Administrativo Federal, ya citado, se asegura que incluso si la
+exigencia de equilibrio fuera aplicable al Jurado, su actual integración cumpliría con ese
+requisito, ya que ningún sector por sí mismo alcanza la mayoría de dos tercios necesaria para
+destituir a un juez80.
+
+IV.a.- El carácter político del juicio. La revisión judicial de las condenas del Jurado.
+Hay consenso casi81 unánime en la doctrina en que los magistrados son destituidos en virtud de
+su responsabilidad política82. Esta postura fue adoptada desde el inicio de la vida institucional
+del Consejo y el Jurado: lo hizo tanto el Consejo al acusar83, como el Jurado al destituir84. Suele
+
+
+78 Una breve síntesis de cada uno de estos procesos en Luna, Juan José, “Historia de los procesos de remoción de los
+
+magistrados judiciales en la República Argentina”, en Santiago, Alfonso, La responsabilidad… citado, págs. 445-567.
+79Gelli cree que por más que el art. 115 no lo diga, “requiere, igualmente, un cierto y razonable equilibrio entre los
+
+sectores que deben integrar el organismo” y que en ese sentido la Ley 26.080 representó un “retroceso institucional”.
+Gelli, María Angélica, obra citada, pág. 512.
+80 Fallo “Colegio Público de Abogados de la Capital Federal” citado, Apartado XVII.
+81 En contra de la existencia de “responsabilidad política” de los magistrados, Sesín, Osvaldo, “La responsabilidad…”,
+
+citado y Kiper, Claudio M., Responsabilidad disciplinaria de los magistrados, La Ley, Buenos Aires, 2002, pág. 2.
+82Gelli, María Angélica, Constitución Argentina Comentada,La Ley, Buenos Aires, 2008, T. 2, pág. 512. Alfonso, Santiago
+
+“Régimen constitucional de la responsabilidad política de los magistrados judiciales”, en La responsabilidad judicial y
+sus dimensiones, Abaco, Buenos Aires, 2006, T. 1,pág. 33 y ss.
+83“En efecto, respecto de los magistrados, se ha reconocido tradicionalmente la existencia de cuatro clases de
+
+responsabilidad… civil, penal, administrativa y política. La distinción esencial habida entre los distintos tipos de
+responsabilidad radica en los diferentes bienes o valores jurídicos que tienden a proteger o tutelar, de modo que la
+
+[[PDF p. 20]]
+citarse a Karl Loewenstein, quien afirmaba que “existe responsabilidad política cuando un
+determinado detentador del poder tiene que dar cuenta a otro detentador del poder sobre el
+cumplimiento de la función que le ha sido asignada”85. Así, la responsabilidad política no es la que
+busca el castigo del funcionario sino sólo separarlo de un cargo para cuyo ejercicio ya no se lo
+considera apto. De hecho, la propia Constitución dispone que los jueces duran en su cargo
+“mientras dura su buena conducta”. El art. 115 dispone que el fallo del Jurado “no tendrá más
+efecto que destituir al acusado. Pero la parte condenada quedará no obstante sujeta a acusación,
+juicio y castigo conforme a las leyes ante los tribunales ordinarios”. Existe una diferencia con lo
+dispuesto para el juicio político del Congreso, que puede además dictar la pena de
+inhabilitación.
+Sin embargo, su carácter “político” no le quita su carácter de “juicio”. Afirma Gelli que “predicar
+la naturaleza política del juicio de remoción de magistrados no significa sostener el carácter
+partidario o ideológico de la destitución”86. Esto fue sostenido por el Jurado desde su primer
+fallo: “se trata de un juicio de responsabilidad política con sujeción a las reglas del debido proceso
+legal, lo que equivale a decir que en lo sustancial el juicio es político pero en lo formal se trata de
+orientado a administrar justicia”87.
+Así, este carácter político también delimita la calidad de la revisión judicial que podrá efectuar la
+Corte Suprema. El art. 115 CN establece que el fallo del Jurado de Enjuiciamiento será
+“irrecurrible”. Sin embargo, la Corte ha mantenido la línea jurisprudencial del fallo “Nicosia”, de
+1993, según la cual las destituciones por juicio político son revisables “con un criterio de
+revisión… francamente riguroso” ante “patentes violaciones a aspectos esenciales del derecho de
+defensa”88.
+En el primer fallo de la Corte Suprema en ocasión de revisar el primer fallo del Jurado de
+Enjuiciamiento de Magistrados, la Corte extendió expresamente la regla de “Nicosia” y afirmó
+que “no podrá la Corte sustituir el criterio del jurado en cuanto a lo sustancial del enjuiciamiento,
+esto es, el juicio sobre la conducta de los jueces. En cambio, sí será propio de su competencia, por
+vía del recurso extraordinario, considerar las eventuales violaciones “nítidas y graves” a las reglas
+del debido proceso y a la garantía de la defensa en juicio”89. La Corte, hasta ahora, se ha atenido a
+esta rigurosidad: nunca ha declarado la nulidad de un procedimiento de remoción por parte del
+Jurado de Enjuiciamiento.
+Durante la Convención de 1994 se discutió expresamente la cuestión de la recurribilidad del
+fallo del Jurado, con la intención precisamente de que la inclusión de la “irrecurribilidad”
+desplazara la jurisprudencia del caso “Nicosia”, inhibiendo a la Corte de revisar los fallos del
+Jurado en todos los casos. Sin embargo, la Corte invoca precisamente a uno de los
+convencionales que se manifestó en desacuerdo con el criterio de la mayoría para señalar las
+consecuencias que la irrecurribilidad tendría frente a la Convención Americana de Derechos
+
+
+
+
+responsabilidad política surge cuando está en juego el interés general de la sociedad, lesionado en la especie por la
+conducta de los funcionarios mencionados en el art. 53 de la Constitución nacional”. Resolución CM 4/2001, cons. 2°.
+84 Fallo N° 1 del JEM, “Brusa, Horacio Humberto”, cons. 5°.
+85Loewenstein, Karl, Teoría de la Constitución, Ariel, Barcelona, 1983, p. 70.
+86Gelli, María Angélica, obra citada, Tomo II, pág. 314.
+87 Fallo “Brusa” del Jurado de Enjuiciamiento de Magistrados, citando a su vez el fallo “Nicosia” de la Corte Suprema
+
+(Fallos 316:2940).
+88Cons. 10 de “Nicosia”, citado. En “Nicosia” se extiende la jurisprudencia que el fallo “Graffigna Latino” (Fallos
+
+308:961) había establecido para las remociones de magistrados provinciales a los juicios políticos realizados por el
+Congreso Nacional.
+89“Brusa”, Fallos 326:4816, cons. 9°.
+
+[[PDF p. 21]]
+Humanos90. Así, la Corte afirma que la única manera de interpretar la “irrecurribilidad” del fallo
+es mediante el mantenimiento de la jurisprudencia de “Nicosia”.
+La Corte, integrada por conjueces, mantuvo esta misma postura en relación a los juicios políticos
+realizados por el Senado, en la causa “Moliné O’Connor”91.
+Por último, cabe destacar que la necesidad de que los procedimientos de juicio político respeten
+las garantías del debido proceso ha sido reconocido por la Corte Interamericana de Derechos
+Humanos92.
+
+IV.b.- Las causales de destitución. Cuestión de la “mala conducta”.
+Según el art. 115 CN, los magistrados de los tribunales inferiores pueden ser destituidos por las
+causales enumeradas en el art. 53. Es decir: “mal desempeño”, “delitos en el ejercicio de sus
+funciones” o “crímenes comunes”. Entre estas causales, la de “mal desempeño” es la que
+presenta contornos más difusos y cuya definición ha conllevado algún trabajo jurisprudencial.
+En el fallo “Brusa”, el Jurado de Enjuiciamiento ha tratado de precisar el concepto de “mal
+desempeño” adhiriendo a la definición de Carlos Sánchez Viamonte. Así, para este autor y para
+el Jurado, el “mal desempeño” es “cualquier irregularidad de cualquier naturaleza que sea, si
+afecta gravemente el desempeño de las funciones aún en los casos de enfermedad o incapacidad
+sobreviniente, aunque no aparezca la responsabilidad, falta o culpa intencional”93.
+En dicho fallo, el Jurado resaltó lo que consideró un acierto del Poder Legislativo, al no intentar
+describir las posibles causales de mal desempeño en la Ley 24.937. Sin embargo, esto es lo que
+hizo la Ley 26.080 pocos años después. El art. 25 de la Ley 24.93794 en su actual redacción
+enumera conductas que “entre otras” pueden configurar “mal desempeño”. El carácter abierto
+de la lista, sin embargo, nos inhibe de intentar una sistematización.
+Como vemos, el “mal desempeño” es un concepto amplio, que no requiere la comisión de delitos
+y que ni siquiera implica dolo por parte del magistrado. Sin embargo, debe estar “fundado en
+cargos bien determinados, que hacen referencia, a su vez, a hechos precisos y concretos”95.
+Además, debe estar basado en un hecho, o sucesión de hechos, lo suficientemente grave.
+La taxatividad del art. 59 CN no admite que se promuevan destituciones por causales distintas a
+las allí enumeradas. Así, por ejemplo, el Jurado ha descartado que la “mala conducta” (por
+oposición a la “buena conducta” que según el art. 110 CN es condición para la permanencia en el
+cargo de los jueces) configure una causal autónoma de destitución, sino que es una
+manifestación del “mal desempeño”96. También ha descartado que el “descrédito público” pueda
+ser una causal de destitución: en todo caso, el descrédito podrá ser una consecuencia de una
+
+
+
+
+90“Brusa”, cons. 9°.
+91 Fallos 327:1914.
+92 Caso del Tribunal Constitucional Vs. Perú, sentencia de 31 de enero de 2001, parágrafos 64 a 85.
+93 Sánchez Viamonte, Carlos, Manual de Derecho Constitucional, Kapelusz, 1958, pág. 280, citado en “Brusa”, JEM, cons.
+
+31.
+94 “Se considerarán causales de remoción de los jueces de los tribunales inferiores de la Nación, de conformidad con lo
+
+dispuesto en el articulo 53 de la Constitución Nacional, el mal desempeño, la comisión de delito en el ejercicio de sus
+funciones y los crímenes comunes. Entre otras, se considerarán causales de mal desempeño las siguientes: 1. El
+desconocimiento inexcusable del derecho. 2. El incumplimiento reiterado de la Constitución Nacional, normas legales o
+reglamentarias. 3. La negligencia grave en el ejercicio del cargo. 4. La realización de actos de manifiesta arbitrariedad
+en el ejercicio de sus funciones. 5. Los graves desórdenes de conducta personales. 6. El abandono de sus funciones. 7. La
+aplicación reiterada de sanciones disciplinarias. 8. La incapacidad física o psíquica sobreviniente para ejercer el cargo.
+En este caso, no se producirá la pérdida de beneficios previsionales establecida en el artículo 29 de la Ley 24.018.”
+95 Santiago, Alfonso, obra citada, pág. 75.
+96“Brusa”, cons. 30.
+
+[[PDF p. 22]]
+conducta que constituya mal desempeño, pero nunca podría condenarse a un magistrado por
+haber caído en la consideración ajena97.
+Por último, cabe destacar que el primer párrafo del art. 19 CN98 es una barrera infranqueable
+para la destitución, o incluso la sanción, de los jueces: si la conducta no afecta a terceros, no
+tiene porqué ser considerada “mal desempeño” a los efectos de la destitución. Así, la Corte
+Suprema ha considerado inválida una sanción aplicada a un diplomático por conductas privadas
+ejercidas en su dormitorio y en locales de esparcimiento “en los que se bebe, se baila, y en los que
+se ofrecen espectáculos de variedades”: “el ámbito de privacidad protegido por el art. 19 de la
+Constitución Nacional no comprende exclusivamente las conductas que los individuos desarrollan
+en sus domicilios privados, sino que también alcanza a las que, de modo reservado, con la intención
+de no exhibirse, y sin que tengan trascendencia pública ni provoquen escándalo, aquéllos llevan a
+cabo fuera del recinto de aquél”99. Este razonamiento es plenamente aplicable a las sanciones a
+magistrados.
+
+IV.c.- Cuestión de los hechos anteriores al nombramiento
+Tradicionalmente, se sostenía que los jueces sólo podían ser destituidos por causas posteriores
+a su nombramiento, ya que lo contrario implicaría revisar la decisión del Poder Ejecutivo y el
+Senado, de quienes se presumía que habían examinado los antecedentes del candidato y lo
+consideraban idóneo para el cargo. Así, una vez nombrado, el juez conservaría su puesto
+mientras durara su buena conducta100.
+Sin embargo, cada vez con mayor énfasis, se fue delineando el criterio de que la revisión de los
+antecedentes por parte del Senado no podía presumirse iuris et de iure, sino que se debía
+verificar si en efecto los hechos en cuestión habían sido conocidos al momento de la
+designación.
+Inicialmente, esto había sido indicado como posibilidad teórica. Así, por ejemplo, en “Brusa”, la
+mayoría sostuvo que “remover a un juez de la Nación por este Jurado de Enjuiciamiento, a causa
+de hechos anteriores a su designación y conocidos antes de ella, implica atribuirle la potestad de
+revisar la designación de los magistrados federales efectuada por el Poder Ejecutivo con el acuerdo
+del Senado”101. Belluscio, Billoch Caride y Dugo, en su voto en “Lona”, también hacen la salvedad
+de que para que la designación sea irrevisable, los hechos imputados deben haber sido
+“conocidos y evaluados” por el Senado102.
+En “Otilio Romano”, el último caso resuelto por el Jurado en el que se imputaba un hecho
+anterior al nombramiento, la unanimidad del Jurado establece la regla con mayor claridad: “si
+bien este órgano posee facultades para juzgar conductas previas al acuerdo, ello no sucede cuando
+
+
+
+
+97“Brusa”, cons. 21: “son los hechos... pero no la repercusión derivada de aquéllos” los que pueden dar lugar al juicio
+
+político.
+98“Las acciones privadas de los hombres que de ningún modo ofendan al orden y a la moral pública, ni perjudiquen a un
+
+tercero, están sólo reservadas a Dios, y exentas de la autoridad de los magistrados.” Sobre la interpretación general de
+este artículo, véase el análisis de Fernando Bracaccini en el otro tomo de esta obra.
+99 “Spinosa Melo”, Fallos 329:3617.
+100 Este argumento es presentado más extensamente en “Lona, Ricardo”, JEM, cons. 1° del voto de Belluscio,
+
+BillochCaride y Dugo.
+101“Brusa”, JEM, cons. 16, el resaltado es nuestro. En el voto concurrente de Guillermo Nano, utilizando el mismo
+
+criterio, se llega a la conclusión opuesta: este miembro del Jurado no encontró en el expediente indicio alguno de que
+el Senado hubiera conocido las acusaciones que pesaban sobre el juez Brusa.
+102“Lona”, citado, cons. 1°. En el caso, si bien la reunión de la Comisión de Acuerdos en la que se decidió brindar el
+
+acuerdo a Lona había sido secreta, los miembros del Jurado infieren que los senadores habían estado al tanto de los
+hechos imputados y por consiguiente descartan la acusación.
+
+[[PDF p. 23]]
+tales hechos fueron conocidos por el Senado y, no obstante, prestó al magistrado el acuerdo para el
+cargo del cual hoy se pretende su remoción”103.
+
+IV.d.- Cuestión del “contenido de las sentencias”104
+Como se mencionó, la Ley 24.937 asegura que “queda asegurada la garantía de independencia de
+los jueces en materia del contenido de las sentencias” en materia disciplinaria, pero no replica
+dicha garantía al regular la facultad acusatoria del Consejo o la actividad del Jurado. Se trata de
+un antiguo reclamo de los jueces en defensa de su independencia de criterio para interpretar el
+derecho que puede llegar, inclusive, a discrepar fundadamente con criterios establecidos por
+jueces de una instancia superior.
+Ahora bien, una interpretación razonable nos lleva a pensar que ello no implica un blindaje para
+evitar investigar el mal desempeño en la tarea jurisdiccional como causal de destitución.: las
+sentencias no son ejercicios literarios, , sino que son actos jurisdiccionales que resuelven un
+conflicto interpretando y aplicando la ley a ciertos hechos invocados por las partes que se
+entienden por probados, en el marco de un proceso. Las sentencias no solamente interpretan,
+sino que producen efectos en el mundo.. Mediante una sentencia es posible incluso cometer
+delitos, como por ejemplo el de prevaricato105, o cometer un grave o inexcusable error de
+derecho. Aun fuera de estos casos extremos, por ejemplo, el apartamiento deliberado e
+injustificado del criterio sostenido en los antecedentes análogos de un mismo juez pueden llevar
+a estudiar con cuidado sus motivos, para detectar posibles violaciones a la imparcialidad
+judicial.
+Desde un inicio el Jurado ha sido cuidadoso con la delimitación de la independencia judicial en
+el contenido de las sentencias y el mal desempeño. Así, ha hecho suya la doctrina de la Corte
+Suprema en cuanto a que “el presupuesto necesario de la función de juzgar resultaría afectado si
+los jueces estuvieran expuestos al riesgo de ser removidos por el solo hecho de que las
+consideraciones vertidas en sus sentencias puedan ser objetables, a excepción de que ellas
+constituyan delitos o traduzcan ineptitud moral o intelectual” (Fallos: 274:415). Sin embargo, el
+primer caso que eligió para sentar esta doctrina es una clara muestra, precisamente, de cuándo
+los jueces no deberían poder ampararse en la libertad para dictar sentencia para eludir su
+responsabilidad. Se trata del fallo que absolvió a Ricardo Bustos Fierro. Este juez federal de
+Córdoba había hecho lugar a una medida cautelar solicitada por un afiliado del Partido
+Justicialista a fin de que permitiera al entonces presidente Menem presentarse como
+precandidato a las elecciones internas del partido. La situación era absolutamente extravagante:
+era claro que la Disposición Transitoria Novena de la Constitución le impedía a Menem
+presentarse a un tercer período consecutivo, y así lo había establecido un fallo de la Cámara
+Nacional Electoral. Por otra parte, no había ninguna norma que le impidiera a Menem
+presentarse como precandidato en una interna partidaria. Sin embargo, el juez Bustos Fierro
+eludió la aplicación del fallo de la Cámara mediante el artilugio de enviar la causa a la Secretaría
+Fiscal de su juzgado como si se tratara de un tema impositivo (en vez de la Secretaría
+
+
+103“Romano, OtilioIrineo Roque”, JEM, cons. 3°. En el caso, a partir de los testimonios de algunos de los senadores que
+
+integraban la Comisión de Acuerdos, se concluyó que el Senado desconocía los hechos imputados a Romano. En el
+caso “Caro, Rubén Omar” se examina la cuestión en profundidad, reconociendo expresamente que si se verificara que
+el Senado conoció los antecedentes imputados, el Jurado se encontraría inhibido de actuar. La misma doctrina se
+repitió en “Miret, Luis Francisco”.
+104 Para un análisis detallado sobre esta cuestión, puede leerse Finn, Santiago, “Responsabilidad política de los jueces
+
+por el contenido de sus sentencias”, en Santiago, Alfonso, obra citada, págs. 383-444.
+105 Según el artículo 269 del Código Penal, comete delito “el juez que dictare resoluciones contrarias a la ley expresa
+
+invocada por las partes o por el mismo o citare, para fundarlas, hechos o resoluciones falsas” .
+
+[[PDF p. 24]]
+Electoral)106 y dictó la medida cautelar, produciendo un hecho de alto impacto político en la
+sociedad107.
+Bustos Fierro fue acusado por el Consejo de la Magistratura, y fue absuelto por el Jurado por
+cinco votos contra cuatro. La mayoría dedicó varios párrafos a explicar que “en el juicio político
+se juzga institucional y administrativamente la inconducta o incapacidad de los jueces pero no la
+dirección de sus actos o el criterio que informa sus decisiones en la interpretación de la ley”108. Así,
+la mayoría señaló que la sentencia de Bustos Fierro en todo caso podía constituir un “error
+judicial”, pero que la creencia de que cualquier error en una sentencia podría ser causal de juicio
+político haría moralmente imposible la tarea de juzgar109. La intención de beneficiar al propio
+Presidente Menem para presentarse a un tercer mandato fue considerada por la mayoría como
+“meras conjeturas”110.
+El voto de la minoría consideró que Bustos Fierro no podía “ampararse en la garantía de
+independencia de la que goza la judicatura” ya que el propio juez había renunciado a la
+independencia judicial al inclinarse “espuriamente” por el objetivo del presidente. También
+evaluó que el dictado de una medida cautelar abiertamente improcedente sólo podía tener
+“motivos extrajurídicos” que eran “producir un hecho político de alto impacto que, a no dudarlo,
+estaba encaminado a proyectar influencia directa en la disputa partidaria interna entonces
+vigente”111. Así, la minoría concluye que la “independencia de los jueces no es un escudo de
+protección ni otorga un ‘bill’ de indemnidad”112.
+
+
+
+
+106Para que se entienda mejor la maniobra, muchos juzgados federales del interior son de competencia múltiple. Esto
+
+significa que entienden en temas tributarios, electorales, administrativos y penales, en donde el Estado Nacional tiene
+interés, y los hechos o efectos ocurrieron en la jurisdicción territorial del Juzgado en cuestión. Para cada una de estas
+materias, tienen distintas Secretarías donde tramitan las causas.
+107 Puede consultarse Gutiérrez, Mónica, “Un juez del otro lado del mostrador”, en Página|12 del 3 de abril de 2000,
+
+disponible en http://www.pagina12.com.ar/2000/00-04/00-04-03/pag08.htm.
+108“Bustos Fierro, Ricardo”, TEM, cons. 4°.
+109Id., cons. 15.
+110Id., cons. 41.
+111Id., voto de la minoría, cons. 3°
+112Id., voto de la minoría, cons. 4°.

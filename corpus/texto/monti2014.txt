@@ -1,0 +1,1720 @@
+# fuente: Unidad15/Monti_2014_Los límites constitucionales a la criminalización.pdf
+# md5_original: 1866ffb36aa0f8ec173b65035b4b4379
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+
+
+                   LOS LÍMITES CONSTITUCIONALES A LA CRIMINALIZACIÓN*
+
+                                              Ezequiel Horacio MONTI**
+
+
+
+
+                                                                            Fecha de recepción: 4 de julio de 2014
+                                                                          Fecha de aprobación: 31 de julio de 2014
+
+
+   Resumen
+
+   En este trabajo mi intención es realizar un análisis del artículo 19 de la Constitución
+   Nacional. Para ello, procederé del siguiente modo. Primero, consideraré su estructura
+   formal. Segundo, sostendré que su propósito es establecer qué razones son
+   constitucionalmente admisibles para justificar el castigo de una conducta. Tercero,
+   recapitularé una serie de principios que especifican razones para castigar y sostendré que
+   el artículo 19 sólo admite cuatro de ellos. Por último, explicitaré los alcances de estos
+   principios. La interpretación del 19 que defiendo se basará en la teoría liberal de la
+   sociedad y el Estado y, en particular, en los principios complementarios de neutralidad
+   estatal y autonomía.
+
+
+
+
+   * Este trabajo fue realizado en el marco del Proyecto de Investigación UBACyT “Teoría y práctica del
+   principio de autonomía del artículo 19 de la Constitución Nacional”. Me gustaría agradecer
+   especialmente a Patricio Enrique KENNY, Nahuel MAISLEY y Marcelo ALEGRE. Las discusiones que tuve
+   con ellos y sus observaciones críticas y sugerencias han sido sumamente valiosas y, con seguridad,
+   han contribuido a que este trabajo sea mejor de lo que hubiera sido de otra manera
+   ** Abogado graduado de la Universidad de Buenos Aires, estudiante avanzado de filosofía (UBA) y
+   miembro de la Sociedad Argentina de Análisis Filosófico (SADAF). Actualmente, se desempeña como
+   investigador en el marco del Proyecto UBACyT: “Principio de autonomía, libertad de conciencia y
+   libertad religiosa”, dirigido por los Dres. Marcelo ALEGRE y Roberto GARGARELLA y como Jefe de
+   Trabajos Prácticos de Teoría General del Derecho en la cátedra del Dr. ROSENKRANTZ (Facultad de
+   Derecho, UBA). Asimismo, trabaja temas vinculados a la teoría del derecho y la lógica de normas en el
+   marco del seminario de Lógica y Filosofía del Derecho, a cargo de los Dres. Eugenio BULYGIN y Hugo
+   ZULETA (Facultad de Derecho, UBA).
+
+
+
+                                                                                                                      39
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 2]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   Palabras clave
+
+   Artículo 19, Constitución Nacional – criminalización – principios limitadores – liberalismo
+   – paternalismo – prevención – retribucionismo – principios constitucionales – deberes
+   jurídicos – deberes morales – castigo.
+
+   Abstract
+
+   In this article I will try to analyse article 19 of the Argentinian Constitution, and I will
+   organise the arguments in the following way. First of all, I will take into account the formal
+   structure of the article. Secondly, I will argue that its purpose is to establish which reasons
+   are constitutionally admissible to justify punishment for a conduct. Thirdly, I will
+   summarise a set of principles which specify reasons to punish and I will assert that Article
+   19 just admits four of them. Lastly, I will set out the scope of these principles. My
+   interpretation of Article 19 is based on a liberal theory of society and state and, in
+   particular, on the complimentary principles of state neutrality and autonomy.
+
+   Keywords
+
+   Article 19, Constitution – criminalization – limiting principles – liberalism – paternalism –
+   prevention – retributivism – constitutional principles – legal duties – punishment.
+
+
+   I. Introducción
+
+            El artículo 19 es una norma fundamental de nuestro ordenamiento
+   constitucional. Entre otras cosas, aunque no exclusivamente,1 porque establece severos
+   límites al poder punitivo del estado. Según suele aceptarse, implica la recepción de
+   principios, tesis o valores propios del liberalismo en relación a los límites morales del
+
+
+
+
+   1 Por ejemplo, la Corte Suprema de Justicia de la Nación (en adelante, “CSJN”) ha considerado que el
+   artículo 19 es relevante en materia de responsabilidad extracontractual (v. en este sentido, CSJN,
+   “Aquino, Isacio c/ Cargo Servicios Industriales S.A. s/ accidentes ley 9688”, 21/09/2004, 327:3753; y
+   CSJN, “Díaz, Timoteo Filiberto c/ Vaspia S.A.”, 07/03/2006, 329:473). Si, como sugiero en este trabajo,
+   la mejor interpretación del artículo 19 implica vincularlo con (cierta versión de) los principios de
+   neutralidad estatal y autonomía, entonces, es de esperar que también tenga implicancias importantes
+   respecto a otras instituciones jurídicas y no sólo respecto al derecho penal. Analizar las restricciones
+   que el artículo 19 impone a estas otras instituciones es, sin duda, una cuestión que merece ser
+   explorada. Excede, empero, los límites de este trabajo.
+
+
+
+                                                                                                                      40
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 3]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   castigo. Se ha argumentado, en este sentido, que el artículo 19 es una expresión del
+   principio de autonomía.2
+
+             Mi intención en este trabajo es analizar los alcances de este principio en materia
+   penal. Para ello, procederé del siguiente modo. Primero, consideraré su estructura formal.
+   Segundo, sostendré que su propósito es establecer qué razones son constitucionalmente
+   admisibles para justificar el castigo de una conducta. Tercero, recapitularé una serie de
+   principios que especifican razones para castigar y sostendré que el artículo 19 sólo admite
+   cuatro de ellos. Por último, explicitaré los alcances de estos principios. La interpretación
+   del 19 que defiendo se basará en la teoría liberal de la sociedad y el Estado y, en particular,
+   en los principios complementarios de neutralidad estatal y autonomía.
+
+   II. La estructura del artículo 19
+
+            El artículo 19 consagra el derecho de los individuos a realizar “acciones privadas
+   que de ningún modo ofendan al orden y a la moral pública, ni perjudiquen a un tercero”.
+
+             Esto no debe interpretarse en el sentido de que sólo tienen derecho a realizar un
+   subconjunto de acciones privadas, a saber, las que no ofendan al orden y a la moral
+   pública, ni perjudiquen a un tercero. Por el contrario, la segunda parte es una explicitación
+   de lo que debe entenderse por “acciones privadas” en este contexto. En este sentido,
+   acciones privadas son aquéllas que de ningún modo ofendan al orden y la moral pública, ni
+   perjudiquen a un tercero.3
+
+             Este derecho de los individuos tiene tres aspectos. En este orden de ideas, el
+   artículo 19 establece que:
+
+        a) el Estado no tiene la potestad de prohibir a los ciudadanos la realización de
+           acciones privadas (esto implica que los individuos tienen un correlativo
+           derecho-inmunidad en el esquema de HOHFELD [1913]);
+        b) los individuos no pueden ser obligados a omitir acciones que no están
+           prohibidas (esto es, tienen un derecho-pretensión a no ser coaccionados para
+
+
+
+
+   2 NINO (1992) sostiene una más fuerte que ésta, a saber, que “las descripciones en términos de
+   acciones privadas, acciones que no ofenden al orden y la moral pública y acciones que no perjudican a
+   terceros son estrictamente equivalente, de modo que si una acción no daña a una persona distinta del
+   agente, ésta es una acción privada” (sin cursiva en el original) (p.168).
+   3 Ibid.
+
+
+
+                                                                                                                      41
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 4]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+             omitirlas, por cualquier medio, incluidas las sanciones penales, lo que implica
+             una correlativa obligación del estado);
+        c) si una acción no está prohibida entonces el individuo tiene el derecho-
+           libertad de realizarla (esto es así por definición; en el esquema de HOHFELD un
+           individuo tiene la libertad de realizar la acción “x” si y sólo si no hay un
+           tercero que tenga un derecho-pretensión a que se abstenga de “x”).
+
+           Por lo tanto, si una acción es privada en los términos del 19, los individuos tienen la
+   libertad de realizarla, son inmunes a su prohibición (i.e., el Estado carece de potestad para
+   prohibirla) y tienen el derecho-pretensión a no ser coaccionados para omitirla (i.e., el
+   Estado está obligado a no coaccionarlos para que se abstengan de ella).
+
+           Esta es, por así decirlo, la “estructura formal” del artículo 19. Ahora bien, la
+   existencia de una norma constitucional que tenga la estructura formal del artículo 19 no
+   garantiza, ni mucho menos, que el sistema jurídico sea liberal o que respete
+   adecuadamente la autonomía de las personas. Si, como se muchas veces se ha sostenido, el
+   artículo 19 responde a un “espíritu liberal” es, más bien, por el modo en que se define a las
+   “acciones privadas”. Sin embargo, el alcance de esta noción está sumamente controvertido.
+
+           El primer punto que quiero defender es que lo que hace el artículo 19 es regular las
+   razones que el Estado puede invocar para justificar el castigo de una conducta. En este
+   sentido, establece los principios limitadores de la libertad que son constitucionalmente
+   admisibles.4 Esas razones o principios son tres y sólo tres: el orden, la moral pública y el
+   perjuicio a terceros. Si no existen razones de orden, moral pública o perjuicio a terceros
+   para castigar una acción, entonces, se trata de una acción privada que los individuos tienen
+   el derecho constitucional de realizar.
+
+           En este contexto, una teoría del artículo 19 debe establecer dos cosas. Primero,
+   explicitar los alcances de las razones para castigar que son constitucionalmente
+   admisibles. Segundo, explicitar qué razones de las que suelen invocarse para justificar el
+   castigo de una conducta no son constitucionalmente admisibles.
+
+           En lo que sigue, procederé del siguiente modo. Primero, expondré sintéticamente
+   los principios limitadores de la libertad que son usualmente discutidos en la literatura
+   iusfilosófica y vincularé a cuatro de ellos con las tres razones a las que se refiere el artículo
+   19. Los restantes serán, por ende, razones que la constitución no admite como razones
+
+
+
+
+   4    Sobre la idea de principios limitadores de la libertad, v. FEINBERG, (1984: 7).
+
+
+
+                                                                                                                      42
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 5]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   legítimas para castigar una conducta. Tercero, explicitaré los alcances de los principios que
+   la constitución sí admite.
+
+   III. Razones para castigar: principios limitadores de la libertad
+
+           Los principios limitadores de la libertad que usualmente se discuten en la literatura
+   son los siguientes:
+
+       a)    Principio del daño: es una razón para castigar un tipo de acción el hecho de que esa
+             acción dañe a terceros (esto es, a individuos distintos del agente).5
+       b)    Paternalismo: es una razón para castigar un tipo de acción el hecho de que esa
+             acción dañe al agente.
+       c)    Perfeccionismo: es una razón para castigar una acción el hecho de que sea inmoral
+             conforme a ideales de excelencia personal correctos o socialmente aceptados.6
+       d)    Moralismo jurídico simple: es una razón para castigar un tipo de acción el hecho de
+             que sea inmoral por la razón que sea (no se conforma a un ideal de excelencia
+             personal correcto o aceptado o a principios morales intersubjetivos).
+       e)    Moralismo jurídico público: es una razón para castigar un tipo de acción el hecho
+             de que sea “públicamente” inmoral.
+       f)    Principio de la ofensa: es una razón para castigar una acción el hecho de que ofenda
+             a terceros.
+       g)    Principio de la libertad: es una razón para castigar una acción el hecho de que
+             interfiera con las acciones legítimas de terceros (aun cuando no los dañe).
+       h)    Principio del orden: es una razón para castigar una acción el hecho de esté
+             prohibida por reglas de una práctica institucional justificada.
+       i)    Principio instrumental del orden: es una razón para castigar un tipo de acción
+             prohibida por las reglas de una práctica institucional justificada, el hecho de que, si
+             no se la castigara, ello socavaría la práctica.
+
+
+
+
+   5 Más adelante realizaré aclaraciones relevantes respecto al alcance de este principio. En particular,
+   introduciré una distinción entre daño y perjuicio que nos permitirá, a su vez, distinguir entre el
+   principio del daño y el principio del perjuicio. Sostendré que la tradición liberal milleana ha siempre
+   defendido el más estricto principio del perjuicio. A esta altura, empero, esa distinción no es necesaria.
+   6 Sobre la distinción entre ideales de excelencia personal y principios morales intersubjetivos, v.
+   NINO (1989: 229) y ver p. 49.
+
+
+
+                                                                                                                      43
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 6]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+             Corresponde realizar cuatro aclaraciones generales respecto a estos principios.
+
+          Primero, son principios dirigidos al legislador. Esa es la razón por la cual los
+   formulé con relación a acciones tipo y no a acciones caso. El punto es determinar qué tipos
+   de acciones pueden ser criminalizados y no si corresponde o no castigar una acción en un
+   caso concreto.
+
+            Segundo, todas enuncian razones para castigar. Sin embargo, en ningún caso se
+   trata de razones concluyentes. En particular, si se defiende una teoría preventiva del
+   castigo, entonces las consideraciones instrumentales son relevantes. Por ejemplo, el hecho
+   de que el homicidio sea una acción que daña a terceros es una razón para castigarlo. Sin
+   embargo, si castigar el homicidio causa más males que los que evita, entonces, no está
+   justificado castigarlo, todas las cosas consideradas.
+
+         Tercero, los principios, en general,7 admiten dos interpretaciones que llamaré
+   preventiva y retributiva. Éstas pueden expresarse, respectivamente, en los siguientes
+   términos.
+
+           Interpretación preventiva: es una razón para castigar una acción el hecho de que
+   castigarla prevenga acciones con la propiedad “x” (donde “x” = propiedad relevante
+   seleccionada por el principio respectivo, i.e., daña a terceros, daña al agente, es inmoral
+   según un ideal de excelencia personal, etc.).
+
+          Interpretación retributiva: es una razón para castigar una acción el hecho de que
+   tenga la propiedad “x” (donde “x” = propiedad relevante seleccionada por el principio
+   respectivo, i.e., daña a terceros, daña al agente, es inmoral según un ideal de excelencia
+   personal, etc.).
+
+           En su interpretación preventiva los principios imponen restricciones al tipo de
+   acciones que el Estado puede legítimamente prevenir o disuadir por medio del castigo. En
+   su interpretación retributiva los principios imponen restricciones al tipo de acciones que
+   el Estado puede castigar.
+
+           La elección de qué interpretación adoptar está vinculada, por supuesto, a la teoría
+   de la justificación de la pena que se adopte. La relación, empero, no es lineal. Por ejemplo,
+   uno podría adoptar una teoría preventiva de la pena y, aun así, insistir en que, por ejemplo,
+
+
+
+   7 El principio instrumental del orden no admite estas dos formulaciones. Volveré sobre este punto
+   más adelante; ver p. 56.
+
+
+
+                                                                                                                      44
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 7]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   sólo es legítimo castigar acciones inmorales. En este caso, la razón para castigar es
+   prevenir acciones con la propiedad relevante y el principio de inmoralidad en su
+   formulación retributiva es una condición de legitimidad del castigo.
+
+           Cuarto, la conjunción de dos o más principios es también un principio (distinto de
+   la aceptación de cada uno de ellos separadamente). Así, por ejemplo, uno podría conjugar
+   el principio del daño (en adelante, “PD”) y el principio del moralismo jurídico simple (en
+   adelante, “MJS”) de modo tal que:
+
+             PD + MJS (formulación retributiva) = es una razón para castigar una
+             acción el hecho de que dañe a terceros y sea inmoral.
+
+          Aceptar este principio es relevantemente diferente de aceptar los dos principios
+   separadamente porque según el principio conjunción:
+
+       a)    el que la acción sea dañosa no es, por sí, una razón, ni siquiera pro tanto para
+             castigarla;
+       b)    el que sea inmoral no es, por sí, una razón, ni siquiera pro tanto, para castigarla;
+       c)    sólo es una razón, pro tanto, para castigarla el hecho de que sea dañosa e inmoral.
+
+           El liberalismo, en sus versiones más extremas, se ha limitado a aceptar el principio
+   del daño y, entendiendo que toda restricción de la libertad es un daño, el principio de la
+   libertad; y ha rechazado, con especial énfasis, el paternalismo y el perfeccionismo. Esta es,
+   en efecto, la tesis que defiende MILL (1859).
+
+          Una posición liberal moderada rechaza igualmente el perfeccionismo y el
+   paternalismo pero acepta, además del principio del daño, el principio de la ofensa (v., por
+   ejemplo, FEINBERG [1984]).
+
+          Hay liberales que, incluso, aceptan ciertas formas de paternalismo (v., por ejemplo,
+   NINO [1989] y HART [1963]).
+
+           Mi tesis es la siguiente. El artículo 19 sólo admite como principios limitadores de la
+   libertad el principio del daño (perjuicio a terceros), el principio de la ofensa (moral
+   pública), el principio de la libertad y el principio instrumental del orden (orden),
+   correctamente entendidos y complementados. Rechaza, en cambio, el paternalismo, el
+   perfeccionismo y el moralismo jurídico simple. Sostendré además que, en principio, no hay
+   razones para postular que la constitución esté comprometida con alguna de las
+   formulaciones (preventiva o retributiva) de esos principios. Por lo tanto, una acción es
+
+
+
+                                                                                                                      45
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 8]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   privada en el sentido constitucional sólo si no tiene la propiedad relevante y la acción que
+   se pretende disuadir castigándola tampoco posee la propiedad relevante
+
+          En lo que sigue, procuraré exponer brevemente las razones que justifican esta
+   interpretación y especificar los alcances de estos principios. Mi guía, como dije, serán los
+   principios de autonomía y neutralidad estatal que, según argumentaré, subyacen al clásico
+   principio del daño en su formulación distintivamente liberal. Mi desafío, posteriormente,
+   será mostrar que esos principios son compatibles o, incluso, que requieren, admitir como
+   válidas otras razones para castigar además del daño a terceros (principio de la libertad,
+   principio instrumental del orden y principio de la ofensa).
+
+   IV. Perjuicio a terceros: daño, violación de derechos y perjuicio
+
+           Es una tesis usual sostener que el artículo 19 recepta el principio del daño. Es
+   usual, asimismo, entender que el principio del daño es excluyente, esto es, que establece
+   que la única razón para castigar una acción es que dañe a terceros (la constitución sería,
+   entonces, milleana). Esta segunda tesis es, ciertamente, controversial (yo mismo, como he
+   señalado, la rechazo).
+
+          La primera, en cambio, parece relativamente incontrovertible: ¿quién negaría que
+   nuestra constitución admite que el hecho de que una acción sea dañosa es una razón para
+   castigarla?
+
+           No obstante, si se acepta que el daño es una razón constitucionalmente admisible
+   para castigar y que la constitución establece límites a las acciones que son susceptibles de
+   ser criminalizadas, entonces aclarar los alcances de la noción de “daño” es sumamente
+   relevante. En efecto, la adopción de una noción demasiado amplia de “daño” podría
+   frustrar el propósito limitador de la constitución: si toda conducta es, en algún sentido,
+   dañosa, entonces, toda conducta es susceptible de ser criminalizada.
+
+           La elucidación conceptual más sofisticada del concepto del daño es, a mi entender,
+   la de FEINBERG (1984). En una primera aproximación, FEINBERG define al daño como la
+   afectación negativa de un interés. La idea de interés es a, su vez, comprendida en los
+   siguientes términos: un individuo tiene un interés en “x” si puede ganar o perder de
+   acuerdo a la condición de “x”. El modelo que FEINBERG usa es el siguiente. Si una persona
+   invierte en las acciones de una compañía entonces tiene un interés en esa compañía: si a la
+   compañía le va bien, gana; si le va mal, pierde. Todos los intereses implican, en este
+   sentido, un tipo de riesgo. Uno, por así decirlo, “invierte” en diferentes cosas y ellas pueden
+   florecer o perecer.
+
+
+
+
+                                                                                                                      46
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 9]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+          Así, los intereses pueden ser “avanzados” o “retrasados” según cómo les vaya a las
+   cosas en las que se tiene un interés. En este orden de ideas, un daño es un “retraso” (set
+   back) de un interés de un individuo. FEINBERG usa deliberadamente metáforas direccionales
+   relacionadas con el avance de algo para describir la afectación negativa de un interés:
+   puede ponérselo en un punto anterior del camino, bloquearse o hacerse más lento su
+   avance, quitárselo del camino, etc. La idea es que los intereses que son afectados para
+   mejor o para peor por un evento están en un proceso de desarrollo con su propia dirección
+   y momentum antes de que el evento ocurra. En este orden de ideas, los intereses y su
+   evolución pueden ser representados en un gráfico de curva. Sobre esta base, operan dos
+   sentidos de daño: a) una noción relativa de daño, según la cual un evento daña a un
+   individuo si sus intereses están en una peor posición que lo que estaban antes de que
+   ocurra; y b) una noción umbral de daño según la cual un evento daña a un individuo si
+   causa que sus intereses caigan debajo de cierto umbral.
+
+           Ahora bien, esta primera aproximación parece, empero, insuficiente a efectos de
+   limitar la potestad punitiva del estado. En este sentido, MILL (1859: 159), reconstruyendo
+   la posición de eventuales objetores, observa que “[n]inguna persona es un ser
+   enteramente aislado; es imposible que ninguna persona haga nada serio o permanente
+   perjudicial para sí, sin que el daño alcance por lo menos a sus relaciones más próximas, y
+   frecuentemente a las más lejanas”.
+
+            La objeción es que si una acción es perjudicial para el agente entonces es
+   perjudicial para terceros. Esto implicaría que no tiene sentido distinguir entre
+   justificaciones paternalistas (y, quizás, incluso perfeccionistas) y justificaciones basadas en
+   la protección de los intereses de terceros.
+
+           Esta objeción es, en parte, infundada. En este sentido, NINO (1979: 73-4) argumenta
+   que en muchos de los casos las consecuencias perjudiciales que se invocan no son
+   imputables a las respectivas acciones de acuerdo a una interpretación más o menos
+   estricta de los criterios corrientes de adscripción de causalidad. Un supuesto
+   particularmente relevante es el siguiente: la atribución de un resultado causal a cierta
+   acción queda, en general, excluida cuando entre ella y el resultado interviniente hay otra
+   acción voluntaria, en cuyo caso, el resultado será efecto causal de la segunda acción. 8 Esto
+   es lo que, para NINO, hace relevante al consentimiento de la “víctima”. Si el daño requiere
+   una acción voluntaria de la víctima, entonces, es ésta quien causa el daño. Este es un punto
+   fundamental porque, en general, para los liberales las actividades entre adultos que
+   consienten están fuera de la potestad punitiva del estado.
+
+
+
+
+   8    Tengo ciertas reservas a este respecto. Son, empero, irrelevantes en este contexto.
+
+
+
+                                                                                                                      47
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 10]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           La advertencia de NINO en el sentido de evaluar estrictamente las relaciones
+   causales es sumamente relevante. Sin embargo, entiendo que su respuesta es insuficiente e
+   inadecuada. Es insuficiente porque en muchos casos que usualmente se considera que no
+   son alcanzados por el principio del daño no hay dudas respecto a la relación de causalidad
+   entre la acción y el perjuicio a terceros. Es inadecuada porque al vincular la relevancia del
+   consentimiento con la existencia de una relación causal desfigura el rol normativo que
+   tiene el consentimiento.
+
+           Un ejemplo servirá para aclarar este punto. Consideremos una pelea de boxeo
+   entre “A” y “B”. Supongamos que “A” lesiona severamente a “B” y que se respetaron todas
+   las reglas del boxeo que habían sido previamente consentidas por ambas partes. Es usual
+   considerar que, dado que se trata de una actividad consensual entre adultos, esta pelea no
+   puede ser penada invocando el principio del daño. NINO, empero, no tiene modo de dar
+   cuenta esto. En efecto, aquí no hay dudas sobre la relación causal entre las acciones de “A”
+   y las lesiones de “B” (de hecho, es precisamente porque fue “A” quien causó las lesiones
+   que, relevantemente, ganó la pelea). Por lo tanto, el principio del daño, aun con las
+   aclaraciones de NINO, parecería que permite penar esta actividad (insuficiencia). La razón
+   es que, al limitar la relevancia del consentimiento a la interrupción del nexo causal, no da
+   cuenta adecuadamente del rol del consentimiento en la teoría liberal y su importancia para
+   explicitar los alcances del principio del daño (inadecuación).
+
+          Debemos, por ende, explicitar porqué el consentimiento es relevante, esto es, por
+   qué los liberales suelen considerar que las actividades consensuadas, aun cuando
+   involucren acciones que causan un daño a individuos distintos del agente, no son
+   alcanzadas por el principio del daño. Esto requerirá suplementar la noción de daño con
+   consideraciones normativas. Una vez realizada esta suplementación estaremos en mejores
+   condiciones para responder a la objeción inicial.
+
+          En este orden de ideas, entiendo que la razón por la que el consentimiento es
+   relevante está vinculada con la concepción liberal de la sociedad y del estado. Ésta ha sido
+   expresada por PETRACCHI en los siguientes términos: “no es función del Estado establecer el
+   contenido de los modelos de excelencia ética de los individuos que lo componen, sino
+   asegurar las pautas de una convivencia posible y racional, al cabo pacífica que brinda una
+   igual protección a todos los miembros de una comunidad”.9 Esta idea está ligada,
+   fundamentalmente, a los principios complementarios de autonomía y neutralidad estatal.
+
+
+
+
+   9 CSJN, "Bazterrica, Gustavo Mario s/ tenencia de estupefacientes", sentencia del 29 de agosto de
+   1986, Fallos 308:1392.
+
+
+
+                                                                                                                      48
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 11]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           Un modo de plantear estos principios es, como lo hizo NINO, en términos de la
+   distinción entre ideales de excelencia personal y principios morales intersubjetivos. Los
+   ideales de excelencia personal (moral personal) prescriben o prohíben ciertas acciones y
+   planes de vida por los efectos que tienen en el carácter moral del agente según ciertos
+   modelos de virtud. Los principios morales intersubjetivos (moral social o intersubjetiva)
+   prescriben o prohíben ciertas acciones por sus efectos respecto del bienestar de otros
+   individuos distintos del agente (NINO [1989: 229]).
+
+           Dada esta distinción, la concepción liberal puede expresarse en los siguientes
+   términos. El Estado debe justificar moralmente sus acciones. No obstante, no cualquier
+   principio moral sirve para justificar la actuación estatal. Al Estado sólo le compete la
+   moralidad intersubjetiva. Los ciudadanos, por su parte, son libres de adoptar los ideales de
+   excelencia personal que crean correctos. El Estado debe ser neutral respecto a los ideales
+   de excelencia personal: su función se limita a regular las relaciones de los individuos entre
+   sí y con el Estado en función de principios morales intersubjetivos.
+
+          Esto, aún, no soluciona el problema. La objeción inicial era, precisamente, que todas
+   las acciones que son personalmente relevantes son, a su vez, intersubjetivamente
+   relevantes. Por otro lado, tampoco explica suficientemente la relevancia normativa del
+   consentimiento (¿acaso todas las acciones consentidas son, desde el punto de vista de la
+   moral intersubjetiva, moralmente correctas o permitidas?).
+
+           Ello requiere una distinción ulterior entre distintos tipos de principios morales
+   intersubjetivos. Esta distinción se puede trazar en términos de razones de tercera persona
+   (agencialmente neutrales) y razones de segunda persona (agencialmente relativas). Esta
+   distinción se puede explicar adecuadamente a partir del siguiente ejemplo.10
+
+                      “A” le pisa fuertemente el pie a “B” causándole dolor. Hay dos
+                      modos en que “B” podría intentar dar una razón a “A” para que se
+                      detenga. La primera sería mostrarle que el mundo es mejor cuanto
+                      menos sufrimiento hay y que si levanta el pie entonces habría
+                      menos sufrimiento. Esta no es una razón que sea esencialmente
+                      para él en tanto agente que está causando el daño. Es una razón
+                      que existe para cualquiera que esté en posición de aliviar el dolor
+                      de “B” y, por lo tanto, para él, que está en una situación
+                      particularmente ventajosa para hacerlo.
+
+
+
+
+   10 El ejemplo y el modo de comprender esta distinción lo tomo de DARWALL (2009).
+
+
+
+                                                                                                                      49
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 12]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           La segunda sería invocar un derecho o pretensión válida de no ser pisado. “B”
+   realizaría esta demanda como la persona cuyo pie está siendo pisado. La razón no se
+   aplicaría a “A” simplemente como alguien que está en posición de alterar un estado de
+   cosas malo sino en tanto está causando un daño gratuitamente a otra persona que tiene el
+   derecho y la autoridad para reclamar que no se lo haga. La validez de la pretensión está
+   basada en la derecho/autoridad de “B” para reclamar que “A” se abstenga de hacer lo que
+   está haciendo. No cumplir con las demandas legítimas de “B” lo hace moralmente
+   responsable frente a él e, incluso, frente a terceros. Esta segunda razón es de segunda
+   persona porque, a diferencia de la primera, no es conceptualmente independiente de las
+   relaciones de segunda persona involucradas en realizar demandas y responsabilizar. En
+   este sentido, “una razón de segunda persona es una cuya validez depende de las
+   presupuestos de autoridad y responsabilidad entre personas y, por lo tanto, de la
+   posibilidad de que las razones sean dirigidas de persona a persona en el marco de estas
+   relaciones” (DARWALL, 2009). Los derechos son, precisamente, demandas de segunda
+   persona de este tipo.
+
+           Teniendo en cuenta esta distinción entiendo que la teoría liberal del Estado puede
+   reconstruirse en los siguientes términos. El Estado sólo tiene competencia en materia de
+   moralidad intersubjetiva (principio de neutralidad). El uso de la coacción, empero, sólo es
+   legítima para la protección de los derechos11 (fundados en relaciones de autoridad de
+   segunda persona) de los individuos (principio de autonomía personal). Esto es, para
+   reducir aquellas acciones que los individuos tienen razones de segunda persona para
+   omitir. No toda acción inmoral desde el punto de vista intersubjetivo amerita, entonces, el
+   ejercicio de la coacción estatal.
+
+           Esto explica el rol fundamental del consentimiento en la teoría liberal. El punto es
+   que si “A” consiente una acción “x” de “B” entonces “x” no constituye una violación de los
+   derechos de “A”. La autoridad de “A” implica la competencia para permitir realizar a “B”
+   aquello que tiene derecho a que no haga. Esta idea suele expresarse utilizando la fórmula
+   latina volenti non fit injuria. La razón que subyace a la máxima es la siguiente: si alguien
+   consiente una acción entonces es, en algún sentido, autor o partícipe de esa acción y, por
+   supuesto, uno no puede reclamarse ni responsabilizarse a sí mismo. Por lo tanto, las
+   razones de segunda persona sólo pueden ser legítimamente esgrimidas contra acciones
+   que aquél quien invoca el derecho no ha consentido.
+
+
+
+
+   11 Es importante aclarar que nos referimos aquí a derechos morales que los individuos tienen
+   independientemente del derecho positivo. No obstante, como veremos más adelante, los derechos y
+   deberes específicamente jurídicos también justifican, en ciertas condiciones, el uso de la coacción.
+
+
+
+                                                                                                                      50
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 13]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           Por otro lado, esta comprensión del principio del daño permite complementar la
+   respuesta de NINO a la objeción inicial según la cual toda acción perjudicial para el agente
+   es, por ello, perjudicial para terceros. Mi respuesta sería, básicamente, la siguiente. En
+   primer lugar, como dice NINO (1979), en muchos de los casos que suelen citarse para
+   probar este punto, no hay una relación causal adecuada entre la acción autodañosa y el
+   daño a terceros. En segundo lugar, el hecho de que para que una acción sea perjudicial sea
+   necesario que, además de dañar a terceros, importe una violación de sus derechos,
+   restringe severamente el tipo de acciones que son perjudiciales. Ello por dos razones.
+   Primero, porque el consentimiento del tercero excluye que se estén violando sus derechos,
+   aun cuando la acción lo dañe. Segundo, establecer que una acción daña a un tercero sin su
+   consentimiento no es suficiente para establecer que viola sus derechos.
+
+           Este segundo punto puede explicarse a partir del siguiente ejemplo. El consumo de
+   drogas, supongamos, disminuye la productividad. Esto implica que el consumo de drogas,
+   al disminuir la productividad, afecta negativamente intereses de terceros. El principio del
+   daño, sin las aclaraciones que hice, implicaría que hay una razón para castigar el consumo
+   de drogas. La cuestión es distinta si exigimos que la acción dañosa, además, viole los
+   derechos de terceros. En este caso, debemos preguntarnos si los individuos, en general,
+   tienen un derecho a que el resto omita realizar acciones que disminuyan su productividad.
+   De lo contrario, consumir drogas, por el sólo hecho de disminuir la productividad, no sería
+   perjudicial en el sentido relevante, porque no implicaría violar los derechos de aquéllos
+   cuyos intereses están siendo afectados. Ahora bien, aunque es plausible sostener que el
+   consumo de drogas afecta intereses de terceros porque reduce la productividad del
+   consumidor, creo que nadie se comprometería con la tesis de que tenemos un derecho a
+   que los otros no disminuyan su productividad. Esto muestra que el hecho de que una
+   acción dañe a terceros sin su consentimiento no es condición suficiente para afirmar que
+   éstos tienen un derecho a que los otros se abstengan de ella. Esto último exige realizar
+   consideraciones adicionales. No estoy en condiciones ahora de explicitar adecuadamente
+   la estructura de nuestros razonamientos sobre derechos y, por supuesto, habrá
+   controversias acerca de qué derechos tienen los individuos. El punto aquí es, simplemente,
+   que el tipo de consideraciones involucradas en la afirmación de que una acción viola los
+   derechos de terceros exceden a la mera constatación de que causan un daño no
+   consentido.
+
+           Estamos en condiciones ahora de volver al principio del daño. En este sentido,
+   corresponde distinguir entre daño (entendido sólo como afectación de intereses) y
+   perjuicio (que involucra, además, el componente normativo de una violación de derechos).
+   El 19 requiere no sólo que la acción dañe a terceros sino, además, que los perjudique. Las
+   acciones que competen al derecho penal son, entonces, sólo las que dañan a terceros
+   violando sus derechos, esto es, las que perjudican a terceros. Esto nos permite formular el
+   siguiente principio:
+
+
+
+
+                                                                                                                      51
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 14]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+          Principio del perjuicio: es una razón para castigar un tipo de acción el hecho de que
+   dañe a un tercero de un modo que viole sus derechos.
+
+           El principio del perjuicio es, así, una conjunción del principio del daño y del
+   moralismo jurídico público, si por “público” se entiende acciones que son inmorales por
+   violar los derechos de los individuos.
+
+           Este es el modo, creo, que el principio del daño ha sido usualmente comprendido
+   en la tradición liberal. Esta formulación se compromete con el ideal social de una sociedad
+   de individuos autónomos, los límites de cuyo accionar son, exclusivamente, los derechos
+   de los demás.
+
+            Este modo de plantear la cuestión es, empero, sumamente relevante para clarificar
+   diversos problemas. La justificación del paternalismo es uno de ellos. La posición de NINO a
+   este respecto es ilustrativa. NINO, como vimos, sostiene que el Estado sólo puede justificar
+   la coacción en principios de moralidad intersubjetiva (principio de neutralidad estatal).
+   Por lo tanto, sostiene, no hay ninguna razón de principio contra el paternalismo siempre y
+   cuando lo que se intente proteger sean los intereses del individuo tal y como él lo concibe
+   de acuerdo a su propio plan de vida o concepción de lo bueno.12 El paternalismo, en otros
+   términos, satisface el requisito de neutralidad. Por lo tanto, las leyes penales son
+   justificables en función de consideraciones paternalistas. El único punto a considerar es
+   que, muchas veces, la coacción es ineficiente para prevenir conductas que dañan los
+   intereses de los individuos tal y como éstos los conciben (si no se puede motivar
+   directamente en sus intereses tal como ellos mismos los conciben ¿por qué habría de
+   motivarlos la sanción?). Hay casos, empero, en que la coacción funciona para proteger a los
+   individuos de sus propias acciones y, en esos casos, nada hay de objetable a la legislación
+   paternalista. Un caso particularmente relevante es la sanción de conductas de terceros que
+   facilitan que los individuos realicen acciones por las cuales se dañan a sí mismos (por ej.,
+   los vendedores de drogas en relación con el consumo de drogas).13 El principio de
+   neutralidad estatal no prohíbe el castigo de estas acciones si ellas son conducentes para
+   prevenir acciones autodañosas de los individuos y la distinción entre lo que es y no es
+   dañoso se realiza considerando el plan de vida del individuo de que se trata.
+
+
+
+
+   12 “Hay un tipo de paternalismo que debe ser aceptable para la concepción liberal de la sociedad,
+   pues él no se confunde con el perfeccionismo: el paternalismo dirigido a proteger los intereses reales
+   de los individuos, o sea, los intereses que sus titulares genuinamente reconocen como tales, contra
+   actos de ellos mismos que podrían afectarlos”, en NINO (1979: 66).
+   13 “La circunstancia de que haya individuos que incurren en el consumo de drogas por inmadurez,
+   compulsión, desconocimiento o debilidad de voluntad, justifica que se haga sumamente difícil el
+   acceso a las drogas castigando severamente el tráfico y el suministro”, en NINO (1979: 70).
+
+
+
+                                                                                                                      52
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 15]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           La cuestión, desde la perspectiva del principio del perjuicio, es, en cambio, otra. Los
+   agentes no pueden violar sus propios derechos. Por lo tanto, el paternalismo es, por
+   principio, una justificación inadecuada de la coacción. Ésta sólo procede para resguardar
+   los derechos de los individuos y el consentimiento excluye la posibilidad de que la acción
+   sea violatoria de derechos.
+
+           Por lo tanto, el principio del perjuicio no es incompatible sólo con el
+   perfeccionismo y el moralismo jurídico simple sino también con el paternalismo. En rigor,
+   el principio del perjuicio no es, por sí mismo, incompatible con estos últimos. En efecto, en
+   la medida en que sólo se limita a enunciar una razón para castigar no es incompatible con
+   otras. Sin embargo, una vez que se explicitan los principios que subyacen a él en su
+   formulación distintivamente liberal, a saber, el principio de neutralidad estatal y el
+   principio de autonomía, se comprende por qué se considera que aceptar el principio del
+   perjuicio implica el rechazo de los otros.
+
+           He considerado el problema de que el principio del daño permite criminalizar
+   demasiado. Mi respuesta consistió en restringir sus alcances del siguiente modo: sólo son
+   criminalizables las acciones dañosas que violan los derechos de terceros (esto es, las
+   acciones que perjudican a terceros). El problema es, ahora, otro. Dada la importancia de la
+   violación de derechos para determinar los alcances del principio del perjuicio ¿por qué la
+   exigencia del daño? ¿Acaso no es suficiente con sostener que toda violación de un derecho
+   individual es susceptible de ser castigada y olvidarnos de la engorrosa cuestión de si causa
+   o no daño a terceros? La respuesta es, a mi juicio, negativa. Las razones son las siguientes.
+   Primero, según la teoría liberal de los derechos, la violación de éstos implica, en la mayoría
+   de los casos, un daño. Esto no implica negar que sea posible que una acción viole un
+   derecho sin causar un daño. Los casos, empero, son relativamente raros.14 Esto es así,
+   especialmente, si se tiene en cuenta que los principios limitadores del castigo se refieren a
+   acciones tipo. Segundo, el error de castigar acciones que no violan los derechos de nadie es
+   más grave que el error de no castigar acciones que sí violan el derecho de alguien pero a
+   quien no causan ningún daño. Tercero, dado lo primero y lo segundo, es razonable
+   prohibir el castigo de acciones por la sola razón de que violan el derecho de alguien sin
+   dañarlo. Este argumento, empero, tiene excepciones que analizaré más adelante.
+
+          Una última aclaración. Usualmente se considera que el principio del perjuicio
+   permite castigar no sólo acciones que causan daño a terceros sino, además, acciones que
+   implican un riesgo o peligro de daño para terceros. Si el principio es interpretado
+   preventivamente, ello no implica ninguna extensión ad hoc. En efecto, castigar acciones
+   riesgosas sirve para prevenir acciones dañosas. Si el principio es interpretado
+
+
+
+   14 V. FEINBERG (1984).
+
+
+
+                                                                                                                      53
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 16]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   retributivamente, en cambio, debería explícitamente extenderse sus alcances. Ésta,
+   empero, no es una extensión problemática. En cualquier caso, esto requiere aclarar el
+   concepto de riesgo, lo que, lamentablemente, excede los límites de este trabajo.
+
+          En resumen, el artículo 19 establece que es una razón para criminalizar una
+   conducta el hecho de que perjudique a terceros. Para interpretar correctamente los
+   alcances de este principio es necesario, a mi juicio, vincularlo con el ideal social liberal y,
+   en particular, con los principios complementarios de neutralidad estatal y autonomía. A la
+   luz de estos principios debe entenderse que una acción perjudica a un tercero si: (a) lo
+   daña, esto es, si afecta negativamente sus intereses de bienestar; y (b) lo hace de un modo
+   que viola sus derechos. Además, los principios liberales referidos, que subyacen al
+   principio del perjuicio, excluyen el perfeccionismo, el moralismo jurídico simple y el
+   paternalismo.
+
+   V. Orden: libertad, intereses públicos y deberes jurídicos
+
+           La constitución, empero, admite otras dos razones para castigar una conducta, a
+   saber, el orden y la moral pública. Es necesario explicitar una interpretación de estos dos
+   conceptos tal que sea compatible con el ideal social liberal que, según sostuve, subyace al
+   principio del perjuicio.
+
+           Una primera aproximación es la siguiente. Según sostuve, la razón por la que la
+   constitución prohíbe el castigo de acciones que, sin causar daño, violan el derecho de
+   terceros estaba vinculada a que, en general, las acciones que violan un derecho causan,
+   asimismo, un daño. Hay, empero, una importante excepción a esta generalización, a saber,
+   las interferencias con las acciones legítimas de terceros. Éstas pueden ser, en muchos
+   casos, beneficiosas para el individuo y, sin embargo, violar su derecho a decidir por sí
+   mismo sobre la cuestión. El ideal social liberal claramente provee una razón para que el
+   Estado prevenga estas interferencias. En efecto, por las mismas razones que el liberalismo
+   rechaza el paternalismo estatal debería, asimismo, rechazar el paternalismo privado
+   (cuando se trata, claro está, de adultos competentes).
+
+           Un modo de acomodar esta observación al principio del perjuicio sería señalar que
+   el individuo tiene un interés en su libertad (por lo que existiría un interés afectado). Esto,
+   empero, oscurece la cuestión. Después de todo ¿por qué habría de priorizarse el interés de
+   los individuos con la libertad por sobre sus restantes intereses? En este sentido, aun
+   cuando los individuos tengan un interés en su libertad, el problema fundamental, en estos
+   casos, no es la afectación de los intereses (que, globalmente, podrían estar en mejor
+   posición) sino de sus derechos.
+
+
+
+
+                                                                                                                      54
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 17]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+          El ideal social liberal provee, entonces, una rationale clara para el castigo de
+   acciones que interfieren con las acciones y decisiones legítimas de terceros aun cuando no
+   sean dañosas (principio de la libertad).
+
+           Esto es, creo, parte de lo que debe entenderse por la expresión “orden” del artículo
+   19. Estas interferencias, aunque no perjudiciales, constituyen infracciones al orden liberal.
+   El estado, por su parte, no excede, al proteger dicho orden, su tarea de proteger los
+   derechos de los individuos.
+
+           El concepto de orden debe, empero, ampliarse para cubrir una serie de casos que,
+   según suele admitirse, el Estado tiene la potestad constitucional de castigar y que, sin
+   embargo, no se trata de acciones que violan los derechos morales de terceros. Tomemos el
+   caso de los impuestos: ¿el derecho moral de quién, en particular, resulta violado cuando
+   alguien evade impuestos? El de nadie. Pero, entonces, ¿qué justifica el castigo de los
+   evasores? La respuesta, brevemente, es que el Estado está justificado para castigar no sólo
+   acciones que violan los derechos morales de los individuos sino, asimismo, aquellas que
+   violan derechos jurídicos y/o constituyen infracciones a deberes jurídicos.
+
+           Debe procederse, empero, con cautela. El requisito de violación de derechos en el
+   principio del perjuicio se refiere a derechos morales. En efecto, si se refiriera a derechos
+   jurídicos tornaría superfluo el requisito. La razón es, básicamente, la siguiente.
+   Plausiblemente, si está prohibido por la ley penal realizar “A”, entonces los ciudadanos
+   tienen el derecho jurídico de que los demás se abstengan de “A”. Por lo tanto, el Estado
+   tendría el derecho de castigar todas aquellas acciones que, de hecho, castiga. Esto es, por
+   supuesto, absurdo.
+
+           La referencia a derechos y deberes jurídicos para justificar el castigo por
+   invocación del orden debe evitar este problema. El modo en que se evita nos permitirá
+   comprender mejor el sentido en que difieren el principio del perjuicio (derechos morales)
+   y el principio del orden (derechos y deberes jurídicos).
+
+           Hay prácticas institucionales que establecen derechos y deberes y que todos o casi
+   todos tenemos interés en mantener. Estas prácticas son justificables moralmente si existen
+   razones morales de tercera persona para implementarlas y no violan los derechos morales
+   de los individuos. Los derechos y deberes que establecen son, empero, de segunda
+   persona. En este sentido, los individuos y/o el Estado tienen autoridad (institucional) para
+   exigir que se cumplan con las reglas que estructuran la práctica. A su vez, estos derechos y
+   deberes, en muchos casos, no se basan en derechos y deberes morales preexistentes a la
+   práctica. Por el contrario, la práctica institucional crea derechos y deberes que no existían
+   previamente.
+
+
+
+
+                                                                                                                      55
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 18]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+            Tomemos, a modo de ejemplo, un caso relativamente sencillo, a saber, las reglas de
+   tránsito que establecen las direcciones por las que deben circular los autos. Estas reglas
+   resuelven un problema de coordinación. Todos tenemos un interés en que los autos
+   circulen en determinadas direcciones que podemos conocer de antemano. Esto, de hecho,
+   reduce el número de accidentes. Antes de la institución de la práctica, empero, no teníamos
+   ningún deber de circular en determinada dirección. La práctica instituyó ese deber
+   jurídico. Debe aclararse, además, que no siempre la existencia de un deber jurídico
+   justificado moralmente implica la existencia de un deber moral de realizar la acción que
+   estamos jurídicamente obligados a realizar.15
+
+          Un caso más complejo es el de los impuestos. Pero una historia similar podría
+   contarse a su respecto. Todos tenemos un interés en la existencia del Estado y ello
+   requiere la existencia de una práctica reglada que establezca los deberes de los individuos
+   en relación a su financiamiento.16
+
+          En estos supuestos de prácticas moralmente justificadas (que no necesariamente
+   se restringen a prácticas que resuelven problemas de coordinación), el Estado tiene la
+   potestad de sancionar aquellas infracciones a las reglas establecidas siempre y cuando ello
+   sea necesario para la preservación de la práctica. Esta es, creo, la segunda dimensión del
+   concepto de orden constitucional y equivale a lo que he denominado principio
+   instrumental del orden.
+
+          Este principio es diferente del resto porque, a diferencia de ellos, no admite dos
+   interpretaciones, una preventiva y otra retributiva. Esto no es porque el principio
+   instrumental del orden sea equivalente al principio del orden en su interpretación
+   preventiva, que no lo es.17 Sin embargo, la interpretación preventiva del principio
+   instrumental del orden sería absurda. Establecería, en efecto, que es una razón para
+   castigar una acción el hecho de que castigarla prevenga acciones: (a) prohibidas por una
+   práctica institucional justificada; y (b) tales que, si no fueran castigadas, la práctica sería
+   socavada. Pero esto, claramente, perdería el punto. El principio legitima el castigo de
+   acciones prohibidas cuyo castigo es necesario para la preservación de la práctica. No
+   parece adecuado extenderlo para justificar el castigo de acciones que no es necesario
+
+
+
+
+   15 Ver, en este sentido, NELSON (1980: 131 y ss.)
+   16 Esta es una descripción muy cruda de la cuestión. El punto es sólo señalar el tipo de justificación
+   que subyace a la práctica que establece el deber institucional de pagar impuestos.
+   17 El principio del orden en su formulación preventiva establecería que es una razón legítima para
+   castigar una acción el hecho de que castigarla prevenga acciones prohibidas por reglas de una práctica
+   institucional justificada.
+
+
+
+                                                                                                                      56
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 19]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   castigar para ese fin. Esto no sería una interpretación alternativa del mismo principio sino
+   una tergiversación.
+
+          La razón es que, por así decirlo, el “componente instrumental” ya está incorporado
+   en el principio aunque de un modo distinto al usual (por eso no equivale al principio del
+   orden en su formulación preventiva). Por eso, probablemente, un retribucionista
+   favorecería el principio del orden en su interpretación retributiva y rechazaría el principio
+   instrumental del orden (por estrecho) y su interpretación preventiva (por amplia).
+
+           Debería, aquí, explicitar las razones por las que vinculo el concepto constitucional
+   de orden con el principio instrumental del orden y no con el principio del orden a secas (en
+   cualquiera de sus interpretaciones). Debo admitir, empero, que esta cuestión es
+   especialmente compleja. Mi intuición, brevemente, es la siguiente. Las prácticas
+   institucionales están justificadas instrumentalmente, por un valor, propósito o fin externo
+   a ellas y al que su establecimiento sirve. Si esto es cierto, entonces, la protección de los
+   derechos institucionales y el cumplimiento de los deberes institucionales no deben ser
+   considerados (a diferencia de lo que ocurre con la protección de los derechos morales) un
+   valor en sí mismo sino sólo en la medida en que contribuya al valor, propósito o fin de la
+   práctica que los instituye. Por lo tanto, en la medida en que la práctica sirva a su propósito,
+   no hay ninguna justificación para castigar los incumplimientos de los deberes
+   institucionales. El castigo sólo estaría justificado en la medida en que fuera necesario para
+   que la práctica cumpla adecuadamente su propósito.
+
+          Este argumento, debo reconocer, no es muy robusto. Se podría objetar que, aunque
+   la razón por la que se instituye la práctica es externa, una vez instituida ésta, está
+   simplemente mal que alguien incumpla sus reglas y que, por lo tanto, merece ser castigado.
+   No habría, es cierto, ningún valor en prevenir estas acciones (la interpretación preventiva
+   debe descartarse). Esto no quita, empero, que haya una razón para castigarlas, a saber, que
+   son inmorales. Una respuesta rápida a esta objeción consistiría en rechazar la teoría
+   retribucionista de la pena que presupone. Esto, empero, sería inadecuado en este contexto.
+   La razón es que, como sostendré en el apartado VII, entiendo que la constitución es neutral
+   entre retribucionismo y prevencionismo.
+
+          Una alternativa sería la siguiente. El liberalismo restringe el uso legítimo de la
+   coacción a las acciones que violan los derechos morales de los individuos (para castigarlas
+   o para prevenirlas, según la teoría de la pena que se adopte). Una forma de comprender la
+   extensión del uso legítimo de la fuerza a derechos y deberes institucionales es señalar que
+   los individuos tienen un derecho moral a que el Estado instaure y garantice el
+   funcionamiento de ciertas prácticas institucionales. La razón por la que el castigo del
+   incumplimiento de los deberes institucionales estaría justificado sería, precisamente, la
+   preservación de estas prácticas que el Estado tiene la obligación moral de preservar. Sin
+   embargo, el incumplimiento de deberes institucionales, por sí mismo, no habilitaría el uso
+
+
+                                                                                                                      57
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 20]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   de la coacción porque no está adecuadamente vinculado a derechos morales que los
+   individuos tengan independientemente de las prácticas institucionales.
+
+           Reconozco, empero, que esto es sólo el bosquejo de un argumento y que, quizás, no
+   sea suficiente. Me contento con lo siguiente. Primero, haber distinguido dos principios
+   distintos: el principio instrumental del orden y el principio del orden. Segundo, haber
+   mostrado que ambos son principios atractivos para interpretar el concepto constitucional
+   de orden (complementando al principio de libertad). Tercero, haber indicado una posible
+   línea de argumentación para preferir el principio instrumental del orden que sea neutral
+   respecto a la discusión entre retribucionismo y prevencionismo.
+
+           En resumen, creo que el concepto de orden del artículo 19 tiene dos dimensiones
+   vinculadas a la idea, general e imprecisa, de un sistema de ordenada libertad. En este
+   sentido, un sistema de ordenada libertad requiere que (a) los individuos no interfieran con
+   las acciones legítimas de terceros sin su consentimiento (ni siquiera en su propio bien)
+   (principio de la libertad) y (b) los individuos sean coaccionados a cumplir con las reglas
+   instituidas por prácticas justificadas por principios de moralidad intersubjetiva (principio
+   del orden) si la coacción es necesaria para la existencia y continuidad de la práctica
+   (principio instrumental del orden).
+
+   VI. Moral pública: ofensa a terceros y neutralidad estatal
+
+           La constitución admite, finalmente, una tercera razón para castigar, a saber, la
+   ofensa a la moral pública. Mi propósito, una vez más, es proveer una interpretación de
+   “moral pública” que sea compatible con el ideal social liberal que subyace al principio del
+   perjuicio y, en particular, con el principio de neutralidad estatal.
+
+           En este orden de ideas, para comprender esta noción, debe vinculársela con lo que
+   en la literatura se conoce como el principio de la ofensa. Éste, como mencioné, establece
+   que es una razón para castigar una acción el hecho de que ofenda a terceros.
+
+           Para entender el tipo de acciones al que usualmente se hace referencia con la
+   expresión “conductas ofensivas” la obra de FEINBERG (1985) es, nuevamente, un excelente
+   punto de partida. Éste sostiene que las conductas ofensivas son aquellas que causan
+   estados mentales o experiencias psicológicas desagradables tales como repulsión, asco,
+   vergüenza, molestia, miedo, humillación, etc. Estas acciones, por sí, no están comprendidas
+   por el principio del daño porque experimentar los referidos estados mentales no siempre
+   implica, por sí, un daño (aunque en algunos casos de extrema gravedad ese podría ser el
+   caso).
+
+
+
+
+                                                                                                                      58
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 21]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           Por razones análogas al caso del daño, el concepto de ofensa debe ser
+   complementado con un elemento normativo importante para la teoría liberal, a saber, que
+   una las ofensas relevantes a efectos de justificar el castigo son sólo aquéllas que infringen
+   los derechos morales de los individuos. Este solo complemento es, empero, insuficiente. En
+   efecto, el principio de la ofensa, a menos que sea suplementado por una serie de
+   consideraciones relativas a las condiciones en que un individuo tiene derecho a no ser
+   ofendido por terceros, podría volverse una pesadilla liberal.
+
+           Esta amenaza puede expresarse en los siguientes términos. Los individuos tienen
+   preferencias no sólo acerca de sus propias vidas sino, además, acerca del modo en que
+   otros deben comportarse (preferencias externas). Estas preferencias están, muchas veces,
+   fundadas en concepciones de lo bueno (ideales de excelencia personal) o consideraciones
+   morales de tercera persona, y constituyen, por ello, convicciones personales muy
+   profundas e importantes. Las acciones de los demás que no se adecuan a estas
+   preferencias, especialmente a aquéllas que tienen componentes éticos o morales de algún
+   tipo, pueden resultarles profundamente ofensivas. Por lo tanto, si se acepta el principio de
+   la ofensa, se acepta, asimismo, que las acciones de los individuos son susceptibles de ser
+   criminalizadas si no se conforman a las preferencias externas de los demás (o, por lo
+   menos, a las más intensas).
+
+           El estado, por supuesto, no estaría obligado a criminalizar todas las conductas
+   ofensivas. Ello implicaría criminalizar muchas conductas y el costo sería tan alto que el
+   beneficio en términos de reducción de ofensas no lo justificaría. La cuestión sería, empero,
+   sólo una de costo/beneficio. Las conductas que resultan ofensivas para la mayoría y que
+   sólo una minoría tiene preferencia por realizar serían justificadamente castigadas. Esto es
+   un resultado que ningún liberal aceptaría. Estrictamente el Estado no infringe el principio
+   de neutralidad: la prohibición penal, en efecto, no se funda en la verdad o corrección de
+   ideales de excelencia personal o concepciones de lo bueno sino, simplemente, en el hecho
+   de que la conducta ofende a terceros. Se trata, empero, de una especie de fraude al
+   principio de neutralidad. Aunque el Estado no imponga ideales de excelencia personal
+   porque se comprometa con su verdad o corrección y sólo lo haga porque sucede que son
+   mayoritarios no por ello la imposición es menos real. En este sentido, lo cierto es que las
+   concepciones de lo bueno de la mayoría son protegidas contra ofensas y las de la minoría,
+   castigadas por ser ofensivas. Esto es cualquier cosa menos neutral y deja, ciertamente,
+   poco espacio a la autonomía personal. El principio de la ofensa y el liberalismo parecerían,
+   pues, irreconciliables.
+
+          Una primera respuesta a este problema es realizar una importante aclaración
+   respecto a las relaciones causales involucradas en los casos de ofensa. En este sentido,
+   debe recordarse que el principio de ofensa justifica castigar conductas que ofenden a
+   terceros, esto es, que causan los estados mentales o experiencias psicológicas
+   desagradables a las que nos referimos. Esto requiere que la acción ofensiva sea
+   causalmente relevante. Sin embargo, no todas las conductas que, de ser presenciadas por
+
+                                                                                                                      59
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 22]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   terceros, serían ofensivas, lo son actualmente. Supongamos que “A” cree que la
+   homosexualidad es profundamente inmoral y encuentra sumamente repulsivos a los actos
+   de homosexualidad. No todo acto de homosexualidad ofenderá, por ello, a “A”. Los actos
+   que no presencia, en efecto, no le causarían repulsión. Podría replicarse que a “A” no lo
+   ofenden sólo la percepción de actos de homosexualidad sino también la sola idea de que
+   ellos ocurran. Aun así, empero, la ocurrencia actual de los actos de homosexualidad sería
+   irrelevante desde un punto de vista causal; lo que causaría la repulsión sería la idea de que
+   ocurren y no su ocurrencia efectiva. Por último, podría replicarse que si los actos de
+   homosexualidad estuvieran castigados entonces “A” no creería que ocurren y, por lo tanto,
+   no se ofendería. La creencia de “A” sería, en ese caso, evidentemente irrazonable pero,
+   además, los actos de homosexualidad seguirían siendo causalmente irrelevantes; en su
+   caso, sería la omisión de castigar la que causa la repulsión. Esto, por supuesto, no es una
+   razón para castigar según el principio de la ofensa.
+
+           Esta circunstancia (especialmente si se la conjuga con la máxima volenti) explica
+   por qué la distinción entre acciones realizadas en privado y acciones realizadas en público
+   ha sido considerada relevante por algunos liberales.18 Esto es, a mi entender, correcto, con
+   la siguientes aclaraciones. Primero, las acciones privadas (en el sentido de exentas de la
+   potestad punitiva del estado) no son únicamente acciones realizadas en privado. Segundo,
+   no todas las acciones realizadas en privado son acciones privadas, esto es, hay acciones
+   realizadas en privado que el Estado tiene la potestad de criminalizar. Estas dos
+   circunstancias se explican porque la distinción entre acciones realizadas en privado y
+   acciones realizadas en público sólo es relevante para el principio de la ofensa pero no para
+   el principio del perjuicio.
+
+           Esta aclaración respecto al alcance del principio es sumamente importante. Es,
+   empero, insuficiente para responder al problema inicial. El hecho de que la imposición
+   estatal de ideales de excelencia personal se limite a las acciones realizadas en público es,
+   ciertamente, bienvenido, pero no elimina el problema de la falta de neutralidad. Un
+   ejemplo simple permite mostrar que el problema persiste y que es sumamente grave.
+   Reconsideremos al homofóbico “A”. Los actos homosexuales realizados en privado, hemos
+   establecido, no lo ofenden y, por lo tanto, no pueden ser criminalizados por el principio de
+   la ofensa. Los realizados en público, en cambio, sí pueden ofenderlo. Si “A” observa a una
+   pareja homosexual besándose en público y, siente, por ello, repulsión, entonces, el acto de
+   la pareja ofende a “A”. El principio de la ofensa permitiría castigar las exhibiciones públicas
+   de homosexualidad si resultaran ofensivas para un número suficiente de personas. El
+   problema, entonces, persiste. El principio de la ofensa sigue implicando la protección de
+   las concepciones de lo bueno mayoritarias contra las conductas (públicas) que las ofenden
+
+
+
+
+   18 Ver, por ejemplo, HART (1963).
+
+
+
+                                                                                                                      60
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 23]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   y el castigo de las (exhibiciones públicas de las) minoritarias por ofensivas. Esto, después
+   de todo, no debería sorprendernos. Si lo que nos ofende depende parcialmente de nuestras
+   concepciones de lo bueno, ¿cómo podría ser neutral el principio de la ofensa?
+
+           La conciencia de este problema y la creencia de que es irresoluble han llevado a
+   muchos liberales a rechazar el principio de la ofensa. El desafío es, entonces, proveer una
+   interpretación del principio de la ofensa que sea compatible con el principio de
+   neutralidad estatal. El paso decisivo en esta dirección es distinguir entre moral
+   mayoritaria y moral pública. Las ofensas que son relevantes para el principio de la ofensa
+   son las que ofenden a la moral pública. Ésta no es equivalente a las concepciones de lo
+   bueno de la mayoría. Implica, por el contrario, restricciones a las ofensas que el Estado
+   tiene la potestad de castigar que son independientes del número de individuos a quienes
+   podría ofender la acción. El problema es construir un concepto de moral pública que sea, al
+   mismo tiempo, neutral y operativo para proteger a los individuos de las conductas que los
+   ofenden.
+
+            Reconsideremos el caso del homofóbico: ¿qué es lo que haría que fuese
+   especialmente ilegítimo castigar la ofensa en este caso? El castigo implica al estado, directa
+   o indirectamente, en el juicio de que la concepción de lo bueno de la minoría castigada es
+   incorrecta o, en algún sentido, no igualmente digna de respeto que la protegida. Las
+   ofensas a la moral pública deben ser tales que no impliquen comprometer al Estado en
+   este tipo de juicios. Más aún, un Estado liberal debería preocuparse especialmente por
+   proteger, precisamente, a quienes tienen concepciones de lo bueno minoritarias. La
+   consecuencia es que muchas ofensas reales y profundas no serán castigadas o prevenidas.
+   Esto no implica sostener que la concepción de lo bueno de la mayoría ofendida sea, por
+   ello, irrazonable o errónea (aunque, por supuesto, la del homofóbico lo es). El punto es,
+   simplemente, que proteger a los individuos de esas ofensas implicaría infringir el requisito
+   de neutralidad estatal y que sería, por ende, ilegítimo. El problema es: ¿hay alguna ofensa
+   cuyo castigo no implique un juicio sobre la concepción de lo bueno de quienes son
+   castigados? O, en otras palabras, es ¿hay alguna ofensa que sea pública?
+
+          Entiendo que sí. El modelo del exhibicionismo es, creo, interesante para analizar
+   este punto. Consideremos a la masturbación en público. Esto, sin duda, será ofensivo para
+   muchos individuos. El hecho de que sean muchos, empero, no es una garantía suficiente. El
+   caso de la homofobia probó el punto. Sin embargo, existen diferencias relevantes entre el
+   caso de la masturbación y el de la homosexualidad. La razón por la que la acción es
+   ofensiva para los terceros es distinta en uno y otro caso. Los individuos que consideran
+   ofensivos a los besos homosexuales en público se sienten ofendidos porque consideran
+   que la homosexualidad es, ella misma, repulsiva, pecaminosa o inmoral. Por el contrario,
+   los besos heterosexuales, aun los realizados en público, no los ofenden. Los homosexuales,
+   o la mayoría de ellos, no se ofenden por los besos homosexuales en público. El problema es
+   con la homosexualidad y no con su publicidad. El caso de la masturbación es distinto. Es
+   cierto que muchos individuos que consideran ofensiva a la masturbación pública se
+
+                                                                                                                      61
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 24]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   sienten ofendidos porque consideran que la masturbación es, ella misma, repulsiva,
+   pecaminosa o inmoral. No obstante, muchos otros, incluidos quienes consideran que no
+   hay nada malo en masturbarse y que lo hacen regularmente, se sentirán también
+   ofendidos por la masturbación pública. Éstos no se sienten ofendidos porque juzguen que
+   la masturbación es repulsiva, pecaminosa o inmoral sino porque creen que es repulsivo
+   realizarlo en público. El problema es la publicidad y no la masturbación.
+
+          Esta diferencia es, a mi entender, determinante. La ofensa de la masturbación es
+   una ofensa pública en un sentido en que la ofensa de la homosexualidad no lo es. La
+   protección de los individuos contra la ofensa de la masturbación pública no implica
+   comprometer al Estado con un juicio acerca de la bondad o maldad de la masturbación
+   porque los ofendidos por ella no son sólo quienes sostienen que la masturbación es
+   pecaminosa sino también, relevantemente, quienes sostienen que no lo es.
+
+          La prohibición, empero, no es independiente de las concepciones de lo bueno de los
+   individuos. Si la mayoría pensara que no hay nada malo en la masturbación pública
+   entonces no sería ofensiva para ellos y no estaría justificada su prohibición. Tampoco es
+   absolutamente neutral: no es neutral, en efecto, entre quienes creen que la publicidad de la
+   masturbación es ofensiva y quienes creen no tiene nada de malo.
+
+          La neutralidad se pierde, sin embargo, sólo respecto al límite entre lo que es
+   ofensivo realizar en público y lo que no y no entre lo que es inmoral y lo que no. Esta
+   diferencia es relevante no porque lo segundo dependa de una concepción de lo bueno y lo
+   primero no, sino porque el Estado puede ser razonablemente neutral respecto a lo
+   segundo pero no respecto a lo primero.
+
+         La restricción de que la ofensa sea a la moral pública (por oposición a la moral
+   mayoritaria), según lo que llevo dicho hasta ahora, se puede capturar adecuadamente
+   mediante el siguiente test:
+
+          Test de universalización:19 una acción realizada en público es una ofensa a la moral
+   pública si ofendería a la mayoría de los individuos de la sociedad y a la mayoría de quienes
+   no consideran que realizarla en privado es inmoral.
+
+
+
+
+   19 Éste está basado en el standard of universality defendido por FEINBERG (1980: 88).
+   Posteriormente, FEINBERG rechazó este enfoque; v. FEINBERG (1985) Yo creo que sigue siendo
+   adecuado aunque no puedo considerar aquí los argumentos de FEINBERG.
+
+
+
+                                                                                                                      62
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 25]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+           Hasta aquí me he centrado en el siguiente supuesto. Un individuo realiza una
+   acción que ofende a terceros que la juzgan indecente o inmoral y éstos pretenden ser
+   protegidos frente a la acción ofensiva (esto es, no verse expuestos a ella contra su
+   voluntad). Ahora me gustaría analizar otro supuesto. Un individuo juzga valiosa una acción
+   (o cualquier otra cosa), otro la juzga disvaliosa (y, quizás, ofensiva) e insulta, se burla, etc.,
+   de las valoraciones del primero, ofendiéndolo; el segundo pretende protección frente a la
+   acción ofensiva del primero. En el primer caso, el que juzga disvaliosa y ofensiva la acción
+   del otro pretende no ser expuesto a ella. En el segundo caso, el que juzga disvaliosa la
+   acción (o cualquier otra cosa) que un segundo individuo valora, la insulta, se burla, etc., y
+   es quien considera valiosa a la acción quien busca no ser ofendido.
+
+          Este segundo tipo de casos muestra el atractivo del principio de la ofensa para
+   muchos liberales. Provee un modo de proteger a los individuos que tienen concepciones de
+   lo bueno minoritarias del hostigamiento (no necesariamente dañoso) de las mayorías y, de
+   ese modo, preservar su estatus como ciudadanos y agentes morales igualmente dignos de
+   consideración y respeto. Un liberal, preocupado porque los individuos puedan realizar sus
+   planes de vida de modo digno sin importar cuán aceptada o popular sea su concepción de
+   lo bueno, tiene en estos casos una poderosa razón para defender el principio de la ofensa.
+   La neutralidad frente a las concepciones de lo bueno requiere, más que permitir cualquier
+   hostigamiento o ridiculización realizados en nombre de cualquiera de ellas, la protección
+   de todas frente al hostigamiento de las demás. La atención debería, por supuesto,
+   centrarse en las minoritarias por dos razones. Primero, porque es allí en los casos en que
+   el hostigamiento, aún sin ser dañoso, es particularmente ofensivo. Segundo, porque el
+   insulto y la burla a las concepciones de lo bueno mayoritarias tienen un componente
+   epistémicamente valioso del que carecen las realizadas a las minoritarias.
+
+           Nuevamente este tipo de protección puede realizarse en nombre de la moral
+   pública porque no implica realizar ningún juicio sobre la verdad o corrección de la
+   concepción de lo bueno insultada y ridiculizada ni sobre la concepción de lo bueno en
+   nombre de la cual se insulta y ridiculiza. Por lo tanto, el Estado tiene la potestad de castigar
+   estas ofensas invocando el principio de la ofensa.
+
+          Sin embargo, estos casos no siempre superan el test de universalización. Puede
+   darse el caso de que la acción no sea ofensiva para “la sociedad en general” sino,
+   solamente, para el grupo o individuos insultados, ridiculizados, etc. Considérese el
+   siguiente caso. El homofóbico insulta y ridiculiza a Carla por su lesbianismo ofendiéndola
+   (le causa ira, vergüenza, etc.). Quizás la sociedad sea en general homofóbica y considere
+   que la acción del homofóbico no es ofensiva o, por lo menos, que Carla no debería
+   ofenderse y, por ende, que no merece ser protegida. Del mismo modo, si Juan le dice a
+   Pedro “judío de mierda”, eso probablemente sea considerado ofensivo por Pedro y por la
+   comunidad no-judía pero, quizás, no por el resto. El carácter ofensivo de estas conductas
+   puede, empero, ser más universal de lo que parece. Los homofóbicos considerarían
+   ofensivo que los insulten y ridiculicen por su heterosexualidad y los no-judíos
+
+                                                                                                                      63
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 26]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   considerarían ofensivo que los insulten a ellos y su religión del mismo modo. Esto sugiere
+   complementar el test de universalización con uno similar diseñado para este segundo tipo
+   de casos:
+
+          Test de universalización hipotética:20 una acción de insulto, ridiculización, etc. es
+   una ofensa pública si los individuos de la sociedad, en general, serían ofendidos por ella si
+   estuviese dirigida a sus propias valoraciones del mismo tipo (sexuales, religiosas, etc.).
+
+           Existe, todavía, un tercer supuesto relevante de acciones ofensivas. En estos casos,
+   la ofensa es causa no de la publicidad de acciones que (aún sin ser juzgadas inmorales) se
+   considera que deberían estar reservadas al ámbito privado, ni del hostigamiento de un
+   individuo en función de su concepción de lo bueno, sino de la publicidad de acciones o
+   aspectos de su vida que, a su juicio, deberían quedar reservados a su ámbito privado. En
+   este sentido, si bien, en algunos casos, tenemos derecho a no ser expuestos a conductas
+   públicas de terceros que nos ofenden, en general no tenemos derecho a exponer aspectos
+   de la vida de los otros que ellos no quieren que sean expuestos si ello los ofenderá (salvo
+   que existan razones intersubjetivas para justificar que no tiene derecho a esa reserva).
+   Este caso es, creo, análogo a la relación entre el principio del perjuicio y el principio de la
+   libertad. Es legítimo que se nos proteja de los daños de terceros que violan nuestros
+   derechos (principio del perjuicio) y, correlativamente, tenemos derecho a que no se
+   interfiera con nuestras acciones legítimas aun cuando ello nos beneficiaría (principio de la
+   libertad). Análogamente, es legítimo que se nos proteja de las ofensas públicas que violan
+   nuestros derechos (primeros dos aspectos del principio de la ofensa) y, correlativamente,
+   tenemos derecho a que no se interfiera con nuestras acciones legítimas realizadas en
+   privado (tercer aspecto del principio de la ofensa). Este tercer caso de ofensa pública,
+   correlativo a los otros dos, puede expresarse en los siguientes términos.
+
+          Test de privacidad: una acción es una ofensa a la moral pública si expone al público
+   aspectos de la vida privada de un individuo que él prefería y tenía derecho de reservar a su
+   ámbito privado.21
+
+          Estamos en condiciones ahora de volver sobre el principio de la ofensa. El
+   propósito fue formular un principio de la ofensa compatible con el principio de
+   neutralidad estatal. En este sentido, realizamos varias aclaraciones y complementaciones
+   del principio de la ofensa a secas. Primero, sólo son relevantes las ofensas que violan el
+   derecho del ofendido. Segundo, las acciones realizadas en privado, esto es, no presenciada
+
+
+
+   20 Este test está basado en una sugerencia de FEINBERG (1985: 29).
+   21 Recordemos que si no tiene derecho entonces la acción no lo ofende porque ello, tal como lo
+   hemos explicado, requiere que la conducta ofensiva viole los derechos del ofendido.
+
+
+
+                                                                                                                      64
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 27]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   por los terceros a quienes putativamente ofende, no les causa ofensa a éstos. Tercero, las
+   ofensas relevantes deben ser públicas en el sentido de que su castigo no debe
+   comprometer al Estado con juicios sobre la corrección o incorrección de las concepciones
+   de lo bueno ni de los ofensores ni de los ofendidos. He identificado tres tipos de supuestos
+   de conducta ofensiva a la moral pública y diseñé un test para identificar si un tipo de
+   conducta es una instancia de esos supuestos. Ello nos permite formular el siguiente
+   principio:
+
+          Principio de ofensa a la moral pública: es una razón para castigar un tipo de acción
+   el hecho de que cause una ofensa a un tercero de un modo que viole sus derechos y ofenda
+   a la moral pública. Una acción realizada en privado, esto es, no presenciada por los
+   terceros a quienes putativamente ofende, no les causa ofensa a éstos. Una ofensa ofende a
+   la moral pública sólo si satisface al menos uno de los siguientes test: (a) test de
+   universalización; (b) test de universalización hipotética; y (c) test de privacidad. Ninguna
+   otra acción ofende a la moral pública.
+
+   VII. Interpretación preventiva vs. interpretación retributiva
+
+           Tal como observé en el apartado II, los principios limitadores de la libertad
+   admiten dos interpretaciones: (a) una preventiva, según la cual se refieren a las acciones
+   que el Estado puede buscar prevenir o disuadir mediante el castigo y sólo indirectamente a
+   las acciones que tiene la potestad de castigar (en adelante, “IP”); y (b) una retribucionista,
+   según la cual se refieren directamente a las acciones que el Estado tiene la potestad de
+   castigar (en adelante, “IR”).
+
+          La interpretación que se privilegie depende, como dije, de la teoría del castigo que
+   se adopte. Las teorías prevencionistas conciben a la institución penal, básicamente, como
+   un instrumento para disminuir la ocurrencia de cierto tipo de acciones. Por lo tanto, desde
+   este punto de vista, la interpretación preventiva de los principios limitadores es la más
+   natural.
+
+           Las teorías retribucionistas, por el contrario, conciben a la institución penal como
+   un instrumento para administrar castigos públicos a personas que se lo merecen,
+   expresando, de ese modo, el reproche de la comunidad. Por lo tanto, desde este punto de
+   vista, es más natural interpretar a los principios limitadores de la libertad como
+   estableciendo cuáles son el tipo de acciones que son adecuadamente merecedoras del
+   reproche oficial de la comunidad.
+
+           Las teorías preventivas, sin embargo, suelen ser complementadas por
+   “restricciones laterales” (side constraints) que imponen límites no instrumentales a la
+   empresa de prevenir cierto tipo de acciones mediante el castigo. Por lo tanto, desde este
+   punto de vista, los principios limitadores podrían interpretarse alternativa o
+
+                                                                                                                      65
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 28]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   simultáneamente como referidos al tipo de acción que es legítimo que el Estado disuada
+   y/o como condiciones que la acción criminalizada debe satisfacer para que la
+   criminalización sea legítima.
+
+           En principio, IP extiende más la potestad punitiva del Estado que IR. Este es el caso
+   si se supone que: (a) castigar una acción disuade la realización de esa acción; y que (b)
+   castigar una acción tipo puede disuadir o prevenir acciones tipo distintas (por ej., castigar
+   el consumo de drogas reduce o previene la venta de drogas). Por (a), todas las acciones
+   susceptibles de ser castigadas por los principios IR son susceptibles de ser castigadas por
+   los principios IP. Por (b), acciones que no serían susceptibles de ser castigadas por IR son
+   susceptibles de ser castigadas por IP.
+
+            Esto, empero, no es necesariamente así. Primero, podría ser que castigar una
+   acción no disuada la realización de esa acción (esto es, que no se satisfaga el supuesto [a]).
+   En ese caso, IR justificaría el castigo e IP no. Segundo, podría argüirse que los casos de
+   castigo indirecto justificados son relativamente raros. Por lo tanto, los casos en que IP
+   justificaría el castigo e IR no, serían escasos.
+
+           Ahora bien, no encuentro argumentos para sostener que la constitución se
+   comprometa con una teoría del castigo en particular (preventiva, con o sin restricciones
+   laterales, o retribucionista). Los principios liberales que guiaron mi interpretación del
+   alcance de los principios no nos obligan, creo, a optar por una u otra interpretación. Si esto
+   es efectivamente así, entonces, el congreso tiene potestad para adoptar la teoría del castigo
+   que considere justificada. Consecuentemente, los principios limitadores de la libertad
+   constitucional deberían, por así decir, duplicarse, retributivamente y preventivamente.
+   Para ejemplificar, consideremos el principio del perjuicio. Una acción sería criminalizable
+   si (a) causa perjuicio a terceros aunque criminalizarla no la disuada (IR) o (b) su
+   criminalización sirve para disuadir o prevenir una acción que perjudique a terceros,
+   aunque ella, en sí misma, no perjudique a terceros (IP).
+
+   VIII. Conclusión
+
+            El artículo 19 es una de las normas fundamentales de nuestro ordenamiento
+   constitucional. Hay relativo consenso, además, de que implica la recepción de principios o
+   tesis liberales en lo que respecta a los límites del poder punitivo del estado. Mi objetivo en
+   este trabajo fue proveer una interpretación de sus alcances inspirada en dos principios
+   liberales complementarios, a saber, el principio de autonomía y el principio de neutralidad
+   estatal.
+
+           En este sentido, argumenté, en primer lugar, que el artículo 19 establece cuáles son
+   las razones constitucionalmente admisibles para castigar una conducta. Sostuve, siguiendo
+   el texto, que las razones que admite son tres y sólo tres: “perjuicio a terceros”, “ofensa al
+
+                                                                                                                      66
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 29]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+   orden” y “ofensa a la moral pública”. Mi estrategia interpretativa fue, primero, vincular el
+   “perjuicio a terceros” con el principio del daño de la tradición liberal y mostrar que, para
+   entender correctamente los alcances de éste, debía relacionárselo con los principios de
+   neutralidad estatal y autonomía. Sólo entonces analicé las otras dos razones para castigar
+   que establece la constitución procurando interpretarlas de conformidad con los principios
+   que subyacían a la primera.
+
+           El resultado de mi análisis puede resumirse en los siguientes términos. Según el
+   artículo 19 de la constitución los principios que regulan la potestad del Estado para
+   criminalizar una acción tipo son los siguientes:
+
+       a)    Principio del perjuicio: es una razón para castigar un tipo de acción el hecho de que
+             dañe a un tercero de un modo que viole sus derechos morales.
+       b)    Principio de la libertad: es una razón para castigar una acción el hecho de que
+             interfiera con las acciones legítimas de terceros sin su consentimiento.
+       c)    Principio instrumental del orden: es una razón para castigar una acción el hecho de
+             que esté prohibida por las reglas de una práctica institucional justificada y que su
+             castigo sea necesario para la existencia y continuidad de la práctica.
+       d)    Principio de ofensa a la moral pública: es una razón para castigar un tipo de acción
+             el hecho de que cause una ofensa a un tercero de un modo que viole sus derechos y
+             ofenda a la moral pública.
+                 i.      Una acción realizada en privado, esto es, no presenciada por los terceros a
+                         quienes putativamente ofende, no les causa ofensa a éstos.
+                ii.      Una acción ofende a la moral pública sólo si satisface al menos uno de los
+                         siguientes test:
+                         1. Test de universalización: una acción realizada en público es una ofensa a
+                            la moral pública si ofendería a la mayoría de los individuos de la
+                            sociedad y a la mayoría de quienes no consideran que realizarla en
+                            privado es inmoral.
+                         2. Test de universalización hipotética: una acción de insulto, ridiculización,
+                            etc. es una ofensa pública si los individuos de la sociedad, en general,
+                            serían ofendidos por ella si estuviese dirigida a sus propias valoraciones
+                            del mismo tipo (sexuales, religiosas, etc.)
+                         3. Test de privacidad: una acción es una ofensa a la moral pública si expone
+                            al público aspectos de la vida privada de un individuo que él prefería y
+                            tenía derecho de reservar a su ámbito privado
+               iii.      Ninguna otra ofensa es una ofensa a la moral pública.
+
+
+
+                                                                                                                      67
+
+
+                      DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.
+
+[[PDF p. 30]]
+Esta revista forma parte del acervo de la Biblioteca Jurídica Virtual del Instituto de Investigaciones Jurídicas de la UNAM
+www.juridicas.unam.mx                                                                           http://biblio.juridicas.unam.mx
+
+
+                                                                                                           EN LETRA
+                                                                                              Año I, número 2 (2014)
+
+
+       e)    Aclaración: los principios (a), (b) y (d) deben ser interpretados retributiva y
+             preventivamente.
+       f)    Principio de clausura: ninguna otra razón es una razón constitucionalmente
+             admisible para castigar una conducta.
+
+
+   Bibliografía
+
+   DARWALL, S. (2009) “Authority and Second-Personal Reasons for Acting”, en DARWALL, S.
+   (2013) Morality, Authority & Law. Oxford, Oxford University Press.
+   FEINBERG, J. (1980) “Harmless Immoralities and Offensive Nuisances”, en FEINBERG, J. (1980)
+   Rights, Justice and the Bound of Liberty. Princeton (NJ), Princeton University Press.
+    — (1984) Harm to Others. New York, Oxford University Press, 1987.
+    — (1985) Offense to Others. Oxford, Oxford University Press, 1987.
+   HART, H. L. A. (1963) Law, Liberty and Morality. Oxford, Oxford University Press, 1989.
+   HOHFELD, W. N. (1913) Conceptos jurídicos fundamentales. Buenos Aires, Centro Editor de
+   América Latina, 1968.
+   MILL, J. S. (1859) Sobre la libertad. Madrid, Alianza Editorial, 2007.
+   NELSON, W. (1980) On Justifying Democracy. London, Routledge, 2010.
+   NINO, C. S. (1979) “¿Es la tenencia de drogas con fines de consumo personal una de las
+   ‘acciones privadas de los hombres’?”, en NINO, C. S. (2013), Una teoría de la justicia para la
+   democracia. Buenos Aires, Siglo XXI, 2013.
+   — (1989) Ética y derechos humanos. Buenos Aires, Astrea, 2007.
+   — (1992) Fundamentos de derecho constitucional. Análisis filosófico, jurídico y politológico
+   de la práctica constitucional. Buenos Aires, Astrea.
+
+
+
+
+                                                                                                                      68
+
+
+                   DR © 2014. Centro de Estudios Interdisciplinarios en Ciencias Jurídicas y Sociales.

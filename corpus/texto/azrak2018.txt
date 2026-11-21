@@ -1,0 +1,1296 @@
+# fuente: Unidad7/Azrak_2018_Comentario normativo al “Título Segundo de la Constitución Nacional.pdf
+# md5_original: ccfe4426a35141b6f1f69c2e75bf5779
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+            Comentario normativo al “Título Segundo de la Constitución
+    Nacional: el Gobierno de las provincias”.
+                                                                         Damián Azrak1
+            Introducción.
+            Al finalizar la lectura de la Constitución Nacional, nos encontramos con el
+    Título Segundo, “Gobiernos de Provincia”. A lo largo, del mismo, se establecen
+    las competencias, facultades, obligaciones y los límites de los diversos niveles
+    estaduales (Nacional, Provincial y Municipal).
+            Si bien en esta obra colectiva se encontrará un análisis pormenorizado de
+    cada uno de los elementos que componen este capítulo constitucional, este
+    trabajo, de manera iniciática, se centrará en comentar el significado del sistema
+    federal, su valor normativo y de su compleja relación sea con otros principios
+    constitucionales fundamentales como la igualdad, autonomía personal o sea con
+    la responsabilidad internacional del Estado. Finalmente se delinearán algunas
+    propuestas para tender un puente entre el sistema federal, la autonomía
+    provincial y el respeto de los derechos.
+
+             1. Consideraciones previas
+             Antes de adentrarse en la sustancia de este trabajo, resulta interesante
+    responder unos posibles interrogantes iniciales: ¿por qué un comentario
+    preliminar al “Gobierno de Provincia”? ¿Por qué concentrarse, desde una
+    perspectiva constitucional normativa, en el federalismo argentino? ¿Es, acaso, un
+    problema constitucional y/o sólo de gestión de gobierno/real politik?
+             Comienzo por la última de las preguntas. Una correcta respuesta,
+    entiendo, debe enfatizar en la conjunción copulativa “y”: la situación del
+    federalismo argentino, tiene entre sus causas principales, la realidad y el diseño
+    institucional/mundo de las ideas.
+              Por otro lado, en cuanto a las primeras preguntas reseñadas, este trabajo
+    se concentrará en lo que creo una falencia histórica en la comunidad jurídica
+    argentina: el sistema federal argentino no ha sido analizado extensamente en
+    términos normativos desde una perspectiva jurídica constitucional. Sí, se
+    encuentran, por lo contrario, no sólo numerosos trabajos de otras ramas de las
+    ciencias sociales, como la economía y las ciencias políticas sino también grandes
+    debates en los ámbitos políticos, especialmente sobre la cuestión fiscal.
+             Por su parte, la mayor cantidad de material jurídico existente se ha
+    concentrado en dos ámbitos distintos pero relacionados entre sí, por un lado en
+    desentrañar la jurisprudencia de los tribunales a los efectos de delinear, lo más
+    claramente posible, el reparto de competencias entre los distintos niveles de
+    gobierno2; también y por otro lado, en lo jurídico fiscal3. Sin embargo, su
+    importancia es vital tanto para la organización nacional como para el acceso a los
+    derechos de las personas que habitan las distintas provincias de un mismo país.
+    A partir del sistema federal- o como consecuencia de él-, se extraen las
+
+1
+  En todos los casos donde se referencie una cita cuya obra se encuentre en inglés, la
+traducción es propia.
+2
+  Al respecto, véase, entre otros, Arballo, Gustavo. “Localizando el derecho a la salud.” en
+Ronconi, Liliana, Clérico, Laura y Aldao, Martín (coord.), Tratado de Derecho a la Salud,
+Tomo II, Abeledo Perrot/Thomson Reutersm, Buenos Aires, 2013, p. 1622-1652 y Azrak.
+Damián, “El Federalismo en la Constitución Nacional” en Gargarella Roberto y Guidi,
+Sebastián (coord), Comentarios de la constitución de la nación argentina. jurisprudencia y
+doctrina: una mirada igualitaria,, Ed. La Ley, Buenos Aires, 2016.
+3
+  Véase, Orlando, Federico, “Federalismo Fiscal” en Gargarella Roberto y Guidi, Sebastián
+(coord), Comentarios de la constitución de la nación argentina. jurisprudencia y doctrina: una
+mirada igualitaria,,: Ed. La Ley, Buenos Aires, 2016.
+
+
+                                              1
+
+[[PDF p. 2]]
+    facultades provinciales y nacionales, sus límites y extensiones; la carta de
+    derechos de la ciudadanía y las contradicciones del sistema.
+                 Por último se podrían ensayar, al menos, otros tres motivos para
+    concentrarse en el estudio del sistema federal. Uno de índole político/histórico,
+    otro de relevancia ciudadana y el último, de índole constitucional.
+            En cuanto al primero de los motivos, no existe indicio alguno, no se
+    registra que se haya postulado en alguna de las convenciones constituyentes, ni
+    tampoco en campaña política alguna, la idea de abandonar el sistema federal de
+    gobierno. Por lo contrario, en cuanta oportunidad existe se destaca es el estado
+    crítico y el debilitamiento del mismo. Estos reclamos, casi siempre, vienen de la
+    mano, de la cuestión fiscal.
+            En cuanto al argumento de relevancia ciudadana: la manera en que se
+    comportan las provincias, su presencia o ausencia en la vida de la ciudadanía, la
+    forma en que definen el alcance de sus competencias, sus acciones y políticas
+    públicas modifican y determinan los planes de vida de las personas que habitan
+    esos territorios. Impactan, directamente en el estándar de ciudadanía que se
+    goza. Así, antes de mudarse a otra ciudad, en este marco institucional, toda
+    persona autointeresada debería preguntarse y analizar cómo funcionan las
+    políticas públicas, cómo está la educación, qué políticas de salud se
+    implementan, si se implementan políticas de vivienda, cómo se regulan los
+    derechos de la infancia, entre otras cuestiones fundamentales que modificaron su
+    vida cotidiana.4
+            El motivo constitucional. Luego de la reforma constitucional de 1994, con
+    el maximalismo de derechos incorporados a la Carta Magna, el federalismo
+    argentino, sufrió una importante consecuencia- tal vez ni pensada por las y los
+    convencionales-: el marco de acción provincial y la autonomía se vio
+    sustancialmente modificada.
+            En lo que sigue, el trabajo se aventurará en un repaso por las promesas
+    normativas del federalismo.
+
+            2. El sistema federal como ideal regulativo. Su justificación
+               normativa y sus promesas.
+            A los fines de hacer un estudio preliminar sobre el federalismo, y,
+    consecuentemente, sobre los “Gobierno de Provincias”, resulta necesario no sólo
+    hacer un repaso por los argumentos que se brindaron históricamente en los
+    textos clásicos, a favor del diseño federal sino, también, reseñar el sistema, a la
+    mejor luz posible, identificando las promesas normativas que se encuentran en la
+    médula misma del sistema institucional- en las sombras del articulado
+    constitucional, se podría decir- y que lo vuelven atractivo y le otorgan, una
+    consecuente, legitimidad.
+           En este contexto, tratar de definir “federalismo”, es una empresa
+    complicada, en tanto, al igual que todo el lenguaje natural, el concepto en análisis
+
+4
+  Estos cuestionamientos no son propiedad exclusiva de Argentina, sucede lo mismo en
+Estados Unidos, el modelo federal que se utilizó de ejemplo en el desarrollo institucional local.
+Antón, comienza su libro sobre la temática, afirmando que todos los norteamericanos nacen,
+se educan, se casan o se divorcian, se emplean, se alojan y son atendidos de acuerdo con
+políticas diseñadas por las instituciones federales. Quien haya emigrado de una ciudad a otra,
+sabe que se puede encontrar con un paradigma muy distinto del lugar de origen. También, es
+cierto, que muchas de las políticas locales, como las leyes antidiscriminatorias, reflejan un
+aparente sentido de igualdad y uniformidad. Ambas, la uniformidad y la diversidad son el
+producto de un sistema político que distribuye las responsabilidades gubernamentales entre
+los diversos niveles. Al respecto, Antón, Thomas J. Las Políticas Públicas y el Federalismo
+Norteamericano. Cómo funciona el sistema. Editorial Heliasta., Buenos Aires, 1994
+
+
+                                               2
+
+[[PDF p. 3]]
+    no está a salvo de la ambigüedad, la vaguedad y carga emotiva.5 Por esto, la
+    búsqueda de la mejor definición posible involucra, necesariamente, un ejercicio
+    interpretativo que será llevado a cabo, brevemente, en este trabajo.
+             Por ello, considerando la diversidad de los modelos de sistemas federales
+    que se pueden encontrar, sólo a los efectos de un común entendimiento inicial, se
+    intentará definirlo por su denominador común: la división de competencias entre
+    las unidades estatales de un mismo país.
+             En este sentido, Robert Dahl brinda una definición, citada en la mayoría
+    de los textos académicos vinculados a la temática. El federalismo, para este
+    autor, es “un sistema en el cual algunos asuntos son de competencia exclusiva
+    de algunas unidades locales – cantones, estados, provincias – y están
+    constitucionalmente más allá del área de competencia del gobierno nacional; y en
+    donde algunos otros asuntos quedan constitucionalmente fuera del área de
+    competencia de las unidades pequeñas”.6
+             Para sostener y apoyar la adopción del federalismo, se han ido
+    brindando diversos argumentos de distinta índole: aquellos que enfatizan en la
+    lucha contra un Estado absoluto y centralista, aquellos que hacen hincapié en
+    la soberanía del individuo, aquellas teorías que bogan por la igualdad, libertad,
+    eficacia y multiculturalidad y otras- la mayoría- que sólo hacen énfasis en
+    argumentos utilitaristas.
+             Vale decir que en los textos clásicos vinculados a la temática no se
+    encuentran, en general, argumentos normativos para adoptar un sistema
+    federal. En cambio, como bien marca Riker 7, las principales producciones
+    políticas o académicas hacen principal hincapié en argumentos de índole
+    consecuencialista, especialmente vinculados a una eficaz defensa militar. Así
+    se sostenía, principalmente, que el federalismo prometía, al mismo tiempo, dos
+    objetivos: una potente defensa exterior y un necesario orden interior.
+             Por otro lado, también, se entendía que la unión federal traía consigo
+    ventajas comerciales, tales como la inexistencia de aduanas internas que
+    faciliten el comercio interior.8
+             Posteriormente, los argumentos políticos y/o utilitarios, fueron abriendo el
+    camino a otros de índole deontólogico/ normativo, que en la actualidad es
+    menester analizar en aras de construir no sólo el significado del federalismo sino
+    también para comprender por qué se ha sostenido legítimamente a través del
+    tiempo.9
+             A continuación se sostendrá que este diseño institucional, desde la teoría,
+    podría tener un fuerte potencial en el respeto de los derechos y autogobierno
+    colectivo.
+
+    2.1 El federalismo como catalizador de la participación política. La
+      legitimidad democrática.
+            Partiendo de la definición brindada con anterioridad, aunque sea en el
+    mundo de las ideas, el sistema en análisis debería traer consigo la
+
+
+5
+          Nino, Carlos S. Introducción al Análisis del Derecho. Barcelona: Editorial Ariel. 2001.
+6
+   Dahl, Robert A. “Federalism and the Democratic Process” en Dahl, Robert A , Democracy,
+Identity and Equality, University Press,. Oslo, 1986. p. 114-126
+7
+  . Riker, Williams, Federalism. Origin, Operation, Significance, Little, Brown and Company,
+Boston, 1964.
+8
+    Mill, John Stuart, El Gobierno Representativo, Imprenta y librería del Mercurio de S.
+Tornero e Hijos, Valparaíso, 1855, p. 316
+9
+  Caminal, Miquel. El Federalismo pluralista. Del federalismo nacional al federalismo
+plurinacional. Editorial Paidos, Barcelona, 2002, p. 111.
+
+
+                                               3
+
+[[PDF p. 4]]
+     descentralización10 de prácticas en las cuales las actividades políticas y
+     económicas se distribuyan espacialmente en todo territorio de una nación
+     determinada.11
+               En marco conceptual, el federalismo debería funcionar como un
+     facilitador de la participación pública en los asuntos públicos: a más cercanía entre
+     representantes y representados, mayores voces podrían ser escuchadas y
+     existiría, al mismo tiempo, un nivel más alto de rendición de cuentas. A su vez, el
+     autogobierno colectivo, encontraría un campo más fértil que en un gobierno
+     unitario donde desde la distancia y bajo una única cosmovisión se establezcan las
+     regulaciones locales.
+               Al respecto, Edward Gibson afirma que: “entre los defensores de la
+     escuela democrática, el Federalismo está visto íntimamente conectado a la
+     práctica democrática, ya sea que entiende que los gobiernos locales son más
+     receptivos a los intereses de la ciudadanía que los gobiernos nacionales, o sea
+     que ve a dichos gobiernos como baluartes democráticos frente a la invasión del
+     estado central”.12
+               En el ámbito local, Gelli 13 entiende que cuando el sistema federal es
+     genuino, trae consigo varias ventajas comparativas. Entre ellas, indica que se
+     fortalece el ejercicio democrático, porque al mismo tiempo que se requiere la
+     realización de elecciones nacionales, provinciales y municipales, se crea una red
+     de controles en resguardo de los derechos fundamentales de las personas. Así, el
+     gobierno local acerca a los gobernantes y a los gobernados y éstos tienen vías
+     más directas de participación en la resolución de los conflictos de las ciudades o
+     partidos y pueden pedir cuentas con mayor facilidad, ante los desvíos de las
+     autoridades.
+
+
+   2.2 El federalismo como protección de las minorías. La legitimidad como
+       justicia.
+            El modo de organizarse institucionalmente puede ser promotor o
+limitador de los derechos. De esta forma, el federalismo podría ser considerado una
+herramienta útil frente al temor del uso de poder desenfrenado y violatorio de los
+derechos de las minorías, dado que el poder no se encontraría concentrado en
+manos de una sola fuerza centralista.14 También, se podría convertir en un
+mecanismo fundamental del sistema de frenos y contrapesos en una democracia
+constitucional.
+
+
+
+10
+   Así, siguiendo a Falleti, entenderé “descentralización” como el conjunto de políticas
+públicas, reformas electorales o reformas constitucionales que transfieren responsabilidades,
+recursos y autoridad política del nivel más alto de organización nacional hasta los más “bajos”
+niveles gubernamentales. Falleti, T.G, Decentralization and Subnational Politics in Latin
+America, Cambridge University Press, New York, 2010
+11
+   Gibson, Edward L., “Federalism and Democracy: Theorical Connections and Cautionary
+Insights, en Gibson (ed), Federalism and Democracy in Latin America, The Johns Hopkins
+University Press, Maryland, 2004.
+12
+   Gibson, “Federalism and Democracy… obra citada
+13
+   Gelli, María Angélica, “El Federalismo en emergencia y su necesaria reconstrucción” en
+Antonio María Hernández.[et al.], Aspectos Jurídicos e Institucionales del Federalismo
+Argentino, Academia Nacional de Derecho y Ciencias Sociales de Córdoba, Córdoba, 2011.
+14
+   Entre otros, véase Neumann, F.L., “Federalism and Freedom: A critique”, en Karmis, D., &
+Norman, W., Theories of Federalism: A Reader, Palgrave Macmillan, KY, 2005 y Gonzalez
+Bertomeu, Juan F. “Notas sobre Federalismo” en Gargarella, Roberto (coord), Teoría y Crítica
+del Derecho Constitucional, Abeledo Perrot, Buenos Aires, 2010, T. 1, pp. 440-484,
+
+
+                                              4
+
+[[PDF p. 5]]
+           Al respecto, Stepan15 enuncia que considerando que la libertad es un
+valor fundamental y que en una democracia, ello implica, que las mayorías no deben
+imponer políticas públicas que violen derechos de las minorías, el constitucionalismo
+y el estado de derecho son importantes instituciones para lograr esos ideales. En
+esta misma línea, el federalismo para muchos pensadores liberales es presentado -
+aunque sea en teoría- como una pieza clave para limitar la “tiranía de la mayoría”.
+
+
+     2.3 El federalismo como vitalizador de la multiculturalidad en el territorio. La
+         legitimidad como justicia cultural.
+
+  La relación/utilidad del diseño institucional y el multiculturalismo 16 no se encuentra
+como un valor determinante ni considerado en los procesos federales históricos, en
+casi ninguna parte del mundo.17
+
+   Sin embargo, se podría sostener que el federalismo y, en consecuencia, las
+localidades, podrían ser un salvoconducto para las tradiciones locales que tienen el
+peligro de quedar atrapadas en el conjunto mayoritario, sin representación en las
+legislaciones generales, ni tampoco consideradas en el debate público. Esto lleva a
+concluir que sin pluralismo, el federalismo deriva en una estructura federal por fuera
+y uniforme por dentro.18
+
+   De esta forma al descentralizar la toma decisiones, el diseño y ejecución de las
+políticas públicas, los intereses, las ópticas y valores culturales particulares de
+grupos minoritarios a nivel local se deberían ver menos amenazadas por los valores
+culturales mayoritarios y centrales19. Al mismo tiempo, al poder participar y tener una
+esperanza real de incidir en el debate público, desde los diversos paradigmas y
+tradiciones culturales, las instituciones locales y las decisiones alcanzadas estarán
+dotadas de mayor legitimidad.
+
+        De esta forma, el federalismo brindaría posibilidades para la existencia de un
+multiculturalismo a nivel nacional. En este mismo orden, Gagnon postula que “el
+éxito de los sistemas federales no debe ser medido en función de la eliminación de
+los conflictos sociales, sino al contrario de su capacidad para regular y manejar
+estos conflictos. Es completamente erróneo esperar del federalismo la resolución de
+los conflictos sociales. Puede rebajar tensiones y ser sensible a la diversidad, Pero
+
+
+15
+   Stepan, Alfred, Toward a New Comparative Analysis of Democracy and Federalism: Demos
+Constraining and Demos Enabling Federations”, Conference on Federalism”, Democracy and
+Public Policy. Centro de Investigaciones y Docencia Económicas, México: 1999.
+16
+   Por multiculturalismo, siguiendo a Coleman, entiendo como la aspiración a una pluralidad
+de culturas donde todos los miembros de la sociedad buscan vivir juntos en armonía y
+entendimiento mutuo mediante la cooperación, pero manteniendo las distintas culturas de
+manera separada. El multiculturalismo en su forma más pura sostiene que todas las culturas
+tienen el mismo valor y merecen el mismo respeto, no habiendo una cultura mejor que otra.
+Coleman, D.L., “Individualizing Justice Through Multiculturalism: The Liberals’ Dilemma”.
+Columbia Law Review, n°96, Columbia,1996, p. 1093-1167.
+17
+     Kymlicka, W. Federalismo, Nacionalismo y Multiculturalismo. Revista Internacional de
+Filosofia Politica, 7, 1996, p. 20-54 y Karmis, D., & Norman, W., Theories of Federalism, obra
+citada
+18
+   Caminal, Miquel, El Federalismo pluralista… obra citada.
+19
+    Pildes, Richard “Ethnic Identity and the Design of Democratic Institutions: A Dynamic
+Perspective” en Choudhry, Sujit (ed.), Constitutionalism in Divided Societies, Cambridge
+University Press, England, 2008.
+
+
+                                              5
+
+[[PDF p. 6]]
+los conflictos deben ser vistos como un componente inherente de las sociedades
+federales”.20
+           Entonces, mientras que la cultura nacionalista defiende el nosotros, la
+   cultura federal es imposible sin el otro. En el federalismo es tan importante la
+   unidad como la diversidad. Y la unidad significa que los factores que unen, o que
+   participan de una cultura común, o incluso que produce identificación y lealtad
+   hacia la federación, entendida como comunidad política, son tan importantes
+   como aquellos factores que no sólo permiten la diferencia sino que también
+   tienen la voluntad de reconocer cada identidad en sí misma con idéntico valor.
+
+            En definitiva, estas son algunas- seguro, no todas- de las promesas y
+     fundamentos del diseño institucional federal. Este horizonte o concepción del
+     mismo, debería servir como ideal regulativo para evaluar la práctica constitucional
+     argentina. Así, en cada una de las secciones que siguen en esta obra, podremos
+     evaluar cuán lejos o cerca se encuentra nuestro federalismo de ser un garante de
+     derechos o una herramienta de perpetuación de desigualdades y/o concentración
+     de poder.
+
+              3. El federalismo en la práctica constitucional argentina y algunos
+                  conflictos vinculados.
+              Stepan21, hace una interesante clasificación de los estados federales: los
+     denominados “Hold Together” y “Come Together”. Los del primer tipo, surgen de
+     una lógica histórica y política distinta a la argentina - algunas de las más
+     importantes podrían ser India, Bélgica, España, por ejemplo. Estos países eran
+     sistemas políticos con rasgos fuertemente unitarios que llegaron a la decisión
+     institucional de que la mejor manera de mantenerse unidos sería transformar sus
+     sistemas políticos en federaciones.
+              Argentina- al igual que Estados Unidos- es un ejemplo del modelo federal
+     “Come Together”. Este tipo de arreglo federal, tienen como característica principal
+     que son las unidades previamente soberanas que hacen un pacto, cediendo su
+     soberanía a una nueva unidad estatal y reservándose ciertas facultades para sí.
+     Modelo que en Argentina se ve plasmado constitucionalmente, desde su origen,
+     en la distribución de competencias entre los distintos niveles, donde se presume
+     que la Nación solamente ejerce las funciones delegadas taxativamente, el resto
+     las provincias, se las reservan para así.
+              Así, con el establecimiento del federalismo, resultó posible que Argentina
+     obtuviera su primera Constitución. Al momento de la fundación nacional existía un
+     temor fundado al centralismo de Buenos Aires, el “Goliath regional”22. Las
+     provincias no estaban dispuestas a entregar todo el poder al Estado Nacional,
+     reservándose la mayor cantidad de autonomía sobre el reconocimiento de los
+     derechos sociales y políticas públicas, pero sí todo aquello que se requiriera para
+     llevar adelante la empresa nacional. El federalismo, se convirtió en una “carta de
+     triunfo”, en terminología dworkiniana, frente al poder central, que permitió que el
+     país obtuviera su primera Constitución.
+
+20
+  Gagnon, Alain G.. «The Political Uses of Federalism.» En Comparative Federalism and
+Federation: Competing Traditions and Future Directions., de Michael Burgess Burgess y Alain
+G Gagnon, University of Toronto Press. 1993 p. 18.
+
+
+21
+  Stepan, Alfred, Toward a New Comparative, obra citada.
+22
+  Gibson, Edward L; Falleti. Tulia G. «Unity by the Stick.» En Gibson, Edward L. Federalism
+and Democracy in Latin America,. The Johns Hopkins University Press. Baltimore: 2004. p.
+226-255.
+
+
+                                             6
+
+[[PDF p. 7]]
+              En este contexto, el primer artículo de la Constitución Nacional histórica -
+     inmutable hasta la actualidad- expresa que se adopta como gobierno la forma
+     representativa republicana federal. También, a lo largo de su articulado, se
+     evidencian las competencias federales, provinciales y, posteriormente, las
+     concurrentes. Si bien en esta obra se analizará cada una de las regulaciones
+     propias del sistema resulta necesario, previamente, contestar qué
+     significa/significó poseer un sistema federal en un contexto nacional. Para ello, es
+     menester hacer un ejercicio interpretativo del texto legal.
+              En primer lugar, entiendo que este ejercicio no debería ser encarado de
+     manera individual, aislada, en que cada intérprete ensaya su preferencia y la viste
+     con palabras jurídicas, sino producto de un ejercicio colectivo destinado a generar
+     un común entendimiento sobre la temática constitucional que se esté analizado.
+     Así, la interpretación debe realizase buscando la coherencia, tomando en cuenta
+     lo que otras persona han venido diciendo, analizado y desarrollado. En palabras
+     de Carlos Nino23 existe un deber de considerarse a uno mismo como el
+     arquitecto/a de la catedral que se viene construyendo por años, de mano en
+     mano o en términos de Dworkin24, como alguien que se encarna en la pluma del
+     escritor/a de una novela en cadena que tiene un capítulo antes y un capítulo
+     después, que alguien distinto escribió y escribirá. Para ello, la interpretación de
+     las cláusulas debería basarse en una exploración y debate sobre la mejor
+     justificación en términos de principios para las instituciones constitucionales, pero
+     también tomando en cuenta las decisiones institucionales precedentes de la
+     Corte Suprema, el Congreso y tratando de consolidar el aprendizaje que nuestra
+     historia constitucional pueda permitirnos.25
+              En segundo lugar, la Corte Suprema de Justicia de la Nación
+     reiteradamente ha manifestado que una correcta tarea interpretativa debe
+     realizarse respetando la “unidad sistemática” de la Ley Fundamental.26
+              Bajo este paradigma, bucear por la historia política institucional de
+     Argentina, de las facciones, de los intereses, es útil a los efectos de comprender
+     más cabalmente la actualidad. Para el repaso de la historia argentina, se seguirá
+     el recorrido realizado por Julio Saguir en su libro “¿Unión o secesión? Los
+     procesos constituyentes en Estados Unidos (1776-1787) y Argentina (1810-
+     1862)”.27
+              Al igual que en Estados Unidos, las facciones revolucionarias se dividieron
+     en sus preferencias políticas: los “centralizadores” que apoyaban la organización
+     de un país gobierno como una única entidad política con un, consecuente,
+     gobierno central fuerte. Las comunidades locales, serían, al igual que en el
+     sistema colonial hasta ese momento vigente, una mera extensión administrativa
+     del Estado Central. 28 Más allá de su solapada intención de mantener los
+     privilegios políticos y económicos que disfrutaban hasta ese entonces, sostenían
+     este espíritu centralista pero unificador bajo el argumento utilitarista de la
+     eficiencia. Buenos Aires, y sus líderes políticos, argüían que la defensa militar
+23
+    Al respecto, véase Nino, Carlos S, Fundamentos de Derecho Constitucional. Análisis filosófico,
+jurídico y politológico de la práctica constitucional, 3ra Edición. Astrea .Buenos Aires, 2005.
+24
+   Dworkin, Ronald. Law´s empire.: Belknap Harvard, Cambridge.1986.
+25
+    Maurino, Gustavo. “Pobreza y Discriminación: La protección constitucional de los más
+humildes” en Alegre, Marcelo, y Gargarella, Roberto (coord), El Derecho a la Igualdad.
+Aportes para un constitucionalismo igualitario, Lexis Nexis, Buenos Aires, 2007.
+26
+   Para un repaso de las pautas interpretativas de la CSJN y de la jurisprudencia relacionada
+con ella, véase Sagües, Nestor. Interpretación constitucional y alquimia interpretativa (el
+arsenal argumentativo de los tribunales supremos”, Lexis Nexis, Buenos Aires, 2004.
+27
+    Saguir, Julio.¿Unión o secesión? Los procesos constituyentes en Estados Unidos (1776-
+1787) y Argentina (1810-1862). Prometeo Libros, Buenos Aires, 2007.
+28
+   ídem, p.93
+
+
+                                                7
+
+[[PDF p. 8]]
+     frente a la corona en la guerra de la independencia, la necesidad de implementar
+     medidas económicas y de conducir políticamente el país, sólo podrían ser
+     realizadas mediante un sistema unitario29, con la fuerza que solo la Capital
+     pudiera aportar.
+              Los descentralizadores, por el contrario, apoyaban una forma de
+     organización política institucional menos concentrada sostenida sobre dos pilares
+     fundamentales, más allá de otras divergencias: la autonomía provincial y la
+     representación nacional. Saguir, con cita a Artigas, recuerda que las provincias
+     no habían hecho la revolución para restablecer una nueva tiranía, la de Buenos
+     Aires. Así, sostenían que en este nuevo marco político, se compartirían las
+     decisiones relacionadas con el proceso político y la organización del país, y tener
+     un protagonismo autónomo en la realidad, bienestar e intereses locales.30
+               Por su parte, Alberdi, en el capítulo XVII de “Bases”, analiza los fines de
+     la Constitución argentina, recuerda que el acuerdo de los gobiernos provinciales
+     de la Confederación, celebrado en San Nicolás el 31 de Mayo de 1852,
+     ratificando el pacto litoral de 1831, consagra el principio federativo de gobierno.
+              Sostenía, el pensador argentino, que el gran principio de la adopción del
+     federalismo se halla en que los Estados individuales, reteniendo la parte de
+     soberanía que necesitan para sus negocios interiores, ceden una autoridad
+     suprema y nacional la parte de los negocios generales; en otros términos, para
+     todos aquellos puntos en que deben obrar como nación.31 Al mismo tiempo, el
+     pensador argentino proponía, teniendo en cuenta los conflictos territoriales entre
+     las provincias y las condiciones existentes, la instauración de un Poder Ejecutivo
+     poderoso “pero de origen democrático y representativo, de carácter constitucional
+     y responsable”.
+              Como recuerda Gelli32, el contralor no sólo estaba pensado para el Poder
+     Ejecutivo: la primera constitución, previa a 1860, reservaba al Congreso Nacional
+     el control político de las constituciones provinciales por parte del Congreso
+     Nacional. El artículo 5 de la Constitución de 1853 disponía que “cada provincia
+     confederada dictará para sí una Constitución bajo el sistema representativo
+     republicano, de acuerdo con los principios, declaraciones y garantías de la
+     Constitución Nacional; y que asegure su administración de justicia, su régimen
+     municipal y la educación primaria gratuita. Las constituciones provinciales serán
+     revisadas por el Congreso antes de su promulgación. Bajo de estas condiciones,
+     el Gobierno federal garante a cada provincia el goce y ejercicio de sus
+     instituciones”.
+              Este vigoroso y exhaustivo control centralista desapareció en 1860,
+     cuando, finalmente con la presencia de la Provincia Buenos Aires, se adoptó la
+     Constitución Nacional que hoy en día se reconoce como histórica.
+              Pérez Hualde33 señala que a lo largo de la historia argentina se sucedieron
+     sistemas democráticos –de distintos grados- y gobiernos “de facto” –como
+     consecuencia de golpes militares- y ambos no hicieron más que fortalecer a los
+     más grandes enemigos del federalismo: el “centralismo”, y su compañero
+     inseparable, el “presidencialismo”.
+              En el desarrollo de la práctica constitucional argentina, no se puede dejar
+     de mencionar el hito que dio lugar a la configuración normativa actual del sistema
+
+29
+   ídem, p. 94
+30
+   ídem p. 93
+31
+    Alberdi, Juan Bautista, Bases y puntos de partida para la organización política de la
+República Argentina, Terramar Ediciones, La Plata, 2009.
+32
+   Gelli, María Angélica, “El Federalismo en emergencia….” p. 18
+33
+   Pérez Hualde, Alejandro, “El federalismo argentino después de la reforma constitucional de
+1994.» Revista Nueva Epoca,, Ediciones UNL, 2014, p. 191-220.
+
+
+                                              8
+
+[[PDF p. 9]]
+     federal: La Ley de declaración de la necesidad de reforma constitucional, N°
+     24.309, que entre sus objetivos establecía el fortalecimiento del régimen federal.
+             En el artículo 3.A y B de esta ley se habilita para su debate y resolución en
+     la Convención Constituyente, a) Distribución de competencias entre la Nación y
+     las provincias respecto de la prestación de servicios y en materia de gastos y
+     recursos. Régimen de coparticipación. b) Creación de regiones para el desarrollo
+     económico social. c) Jurisdicción provincial en los establecimientos de utilidades
+     nacionales; d) Posibilidad de realizar por las provincias gestiones internacionales
+     en tanto no afecten las facultades que al respecto corresponden al Gobierno
+     Federal, no sean incompatibles con la política exterior que éste conduce y no
+     importen la celebración de tratados de aquel carácter. e) autonomía municipal.
+
+            3.1 El federalismo y La igualdad, la autonomía personal y la
+     responsabilidad internacional del Estado.
+
+                En este contexto, desde el desarrollo realizado hasta este momento, se
+     podría concluir que este diseño institucional es el mejor dentro de las opciones
+     disponibles para propender hacia un ideal constitucional democrático e igualitario.
+              Sin embargo, existe tanto literatura como datos empíricos que intentan, al
+     menos, poner en duda lo antes afirmado. Así, la conexión entre federalismo y el
+     avance de los derechos debería ser revisada. Riker, desde una lectura histórica,
+     concluyó que “si uno aprueba el objetivo y valores de una minoría privilegiada,
+     uno debería aprobar el federalismo. Por lo tanto, si en los Estados Unidos uno
+     aprueba a los sureños blancos racistas, entonces uno debería aprobar el
+     federalismo americano. Si, por otro lado, uno desaprueba el valor de la minoría
+     privilegiada, uno debería desaprobar el federalismo. Por lo tanto, si en los
+     Estados Unidos uno desaprueba el racismo, uno debería desaprobar el
+     federalismo”.34
+              Por su lado, Tarr -teórico que analiza la relación entre los derechos de las
+     minorías y el sistema federal- empieza uno de sus textos más conocidos, con una
+     contundente afirmación: “En los Estados Unidos, la conexión entre las
+     constituciones subnacionales y el avance de los derechos de las minorías ha sido
+     vista como problemático, como mínimo”. 35 En Argentina, podría decirse que
+     sucede, como mínimo, algo similar.
+              En este sentido, históricamente, los progresistas de Estados Unidos-
+     defensores de los derechos de las minorías- vieron al federalismo con
+     escepticismo en virtud que en aras de los derechos de los Estados se
+     defendieron las leyes más despreciables como la esclavitud y la segregación
+     racial. 36
+              Balkin37, agrega que es común encontrarse con una defensa del
+     federalismo, en tanto éste preserva las costumbres, tradiciones y formas de vida
+     locales y contra la homogenización nacional pero también es cierto que la
+     discriminación contra los afroamericanos, mujeres y homosexuales, han sido
+     defendidas en estos términos.
+34
+   Riker, Williams, Federalism. Origin…obra citada, p. 155
+35
+   Tarr, G. Alan. “American State Constitutions and Minority Rights” En Tarr, Alan, Williams,
+Robert F.y Marko Josef, Federalism, Subnational Constitutions and Minority Rights, de G.,
+89-103. Praeger. Westport, 2004. p. 89
+36
+   Gerken, Heather K. “A New Progressive Federalism Distrust of states’ rights exists for good
+historical reasons, but today, minorities and dissenters can rule at the local level.”, en
+Democracy. A journal of Ideas, Spring, 2012 p.1
+37
+   Balkin, Jack M.. Living Originalism. The Belknap Press of Harvard University Press.
+Cambridge, Massachuisetts: 2011 p. 171
+
+
+                                              9
+
+[[PDF p. 10]]
+              A nivel nacional, Smulovitz38, en un trabajo en donde analiza y compara el
+     ámbito de protección de todos las leyes de violencia doméstica sancionados en
+     Argentina tanto a nivel federal y nivel provincial, sostiene que cuanto más fuerte
+     es un sistema federal de gobierno y con ello las competencias provinciales, más
+     fuerte serán las variaciones en términos de reconocimiento y goce de los
+     derechos fundamentales a lo largo de un mismo país. Esta variación, no implica
+     que a nivel local las garantías constitucionales sean de inferior calidad que la
+     federal, sino simplemente que existe una variación en el reconocimiento de
+     derechos o una fragmentación de derechos a nivel nacional. A modo de ejemplo,
+     se pueden mencionar, entre otros, la aplicación de leyes de infancia, educación,
+     vivienda, género y procesales penales.
+             La politóloga argentina, a su vez, en otro trabajo 39 afirma que las
+     diferencias de las promesas legales y en los gastos que hacen las provincias para
+     garantizar su implementación, son, también consecuencia de la interacción entre
+     la estructura institucional del federalismo argentino y la dinámica política
+     provincial que ese sistema político habilita. Así, la autora en su trabajo contesta la
+     pregunta de cómo y por qué la estructura institucional produce estas diferencias
+     en la forma en que se distribuyen derechos y recursos entre las provincias: el
+     mismo diseño institucional federal genera estos resultados porque habilita a los
+     poderes locales legislar, juzgar e implementar políticas propias, tal como se ha
+     analizado en el recorrido por la práctica constitucional argentina. Con esta
+     amplitud de competencias, es altamente probable que los resultados de sus
+     decisiones varíen entre distritos.
+             Esta fragmentación, no sólo contradice derechos y principios basales de
+     una democracia constitucional sino también vacía las promesas normativas sobre
+     las que el sistema federal se sostiene y que fueron analizadas en este trabajo.
+             Este desigual estándar de derechos fue alertado por los organismos
+     internacionales. A modo de ejemplo, el Comité de Derechos Humanos, ha
+     observado con preocupación que “Debido al sistema federal de gobierno, muchos
+     de los derechos enunciados en el Pacto no se protegen de manera uniforme en
+     todo el territorio nacional” y recomendado que Argentina “debe tomar medidas
+     para garantizar la plena aplicación del Pacto en todo su territorio sin limitación ni
+     excepción alguna, de conformidad con el artículo 50 del Pacto, con el objeto de
+     velar por que toda persona pueda gozar plenamente de sus derechos en
+     cualquier parte del territorio nacional”.40
+               En lo que sigue se ahondará en estas afirmaciones, previo un necesario
+     repaso por los compromisos asumidos en lo que este trabajo considera son tres
+     pilares/principios fundamentales del sistema y, consecuentes, límites a la
+     democracia provincial: igualdad, autonomía personal y derechos sociales41.
+38
+   Smulovitz, Catalina,. “The Unequal Distribution of Legal Rights: Who Gets What and Where
+in the Argentinean Provinces?”, Latin American Politics and Society 57, 2015, disponible en
+http://www.udesa.edu.ar/files/UAHUMANIDADES/EVENTOS/PAPERSMULOVITZ0
+50511.PDF
+39
+   Smulovitz, Catalina. “¿Quién paga por los derechos en las provincias argentinas? El caso
+de las leyes de violencia familiar”, Desarrollo Económico. Revista de Ciencias Sociales,
+2015, p. 155-185.
+
+
+40
+   Comité de Derechos Humanos. “Examen de los informes presentados por los estados
+partes con arreglo al artículo 40 del Pacto. Observaciones finales del Comité de Derechos
+Humanos. Argentina”, New York, 2010. p. 2.
+41
+   Para el repaso propuesto, se seguirá, en gran medida, lo desarrollado en Azrak, Damián, y
+Valentini, Mariano, “El Derecho Constitucional a la Vivienda Digna y Adecuada, Una
+Propuesta Interpretativa” en Elias, Sebastían, Rivera, Julio y Legarre, Santiago, Tratado de
+
+
+                                             10
+
+[[PDF p. 11]]
+   También, se reparará en el conflicto existente entre federalismo y la
+   responsabilidad internacional del Estado.
+
+i. Igualdad y federalismo42
+           El derrotero del derecho a la igualdad estuvo marcado, como todos los
+   principios jurídicos, por las ideologías imperantes en la época. Desde el primer
+   momento, el texto constitucional argentino incorporó una mera concepción formal
+   que enfatizaba en desconocer las distinciones del antiguo derecho realista, el
+   cual categorizaba a las personas como libres y esclavos, nobles y plebeyos,
+   comunes y privilegiados, extranjeros y nacionales, varones y mujeres, etc.43
+            El principio de igualdad y no discriminación, exige por parte del Estado
+   tanto conductas positivas como negativas: dictar leyes, implementar políticas
+   públicas y abstenerse de implementar otras que traigan aparejadas la continuidad
+   de la desigualdad en la que se encuentran los grupos históricamente
+   desaventajados.44
+           En esta línea, la mayoría de los instrumentos internacionales de derechos
+   humanos a los que la reforma constitucional de 1994 les otorgó jerarquía
+   constitucional, en sus primeros artículos sistemáticamente enuncian la obligación
+   asumida por los estados de garantizar a todas las personas el ejercicio o goce de
+   los derechos por ellos reconocidos en condiciones de igualdad y no
+   discriminación.45
+           Asimismo, el artículo 75 inciso 23 de la Carta Magna incorpora
+   expresamente las conocidas “acciones positivas”. 46 Estas medidas implican
+   acciones estatales que tienen como foco ciertos grupos tradicionalmente
+   desaventajados, tiene el objeto de revertir esta desigualdad histórica.
+           Detrás de esta teoría se encuentra el fundamento de que una persona no
+   debe ser responsable por las desigualdades moralmente arbitrarias o en palabras
+   de Rawls47, “lotería natural”: aquellas cuestiones sobre las que el individuo no
+   tuvo posibilidad de elegir. Por ejemplo, en lo que aquí importa, el lugar de
+   nacimiento y en muchos casos de residencia.
+            Este marco comprometido con la igualdad robusta de las personas y, en
+   especial de los grupos más perjudicados de la sociedad, obliga a repensar el
+   federalismo en general, y la autonomía provincial, en particular. Ello en tanto, se
+   comprende que bajo este paradigma, no se podría justificar una fuerte
+   desigualdad en acceso a derechos como consecuencia del lugar de nacimiento
+   bajo el argumento federalista.
+           Como afirma Smulovitz48, si bien estas diferencias podrían ser
+   consecuencia necesaria e intrínseca de la estructura federal, desde el punto de
+   vista de quien ejerce los derechos, la desigualdad en la aspiración a las
+
+los Derechos Constitucionales, Tomo 2, Editorial Abeledo Perrot, Buenos Aires, 2014.
+42
+   Para un desarrollo más extenso y específico sobre la cláusulas constitucionales vinculadas
+al derecho a la igualdad, véase XXXX, XXXXX
+43
+   Alberdi, Juan Bautista, Bases y puntos…obra citada.
+44
+    Fiss, Owen, “Grupos y la cláusula de igual protección” Gargarella, Roberto (comp),
+Derecho y grupos desaventajados, Gedisa Editorial, Barcelona: 1999. p. 137
+45
+   Así lo hace en su art. 2 la Declaración Americana de los Derechos y Deberes del Hombre,
+la Declaración Universal de Derechos Humanos en el Art. 2.1, el Pacto Internacional de
+Derechos Civiles y Políticos en su Art. 2.1, el Pacto Internacional de Derechos Económicos
+Sociales y Culturales en el Art. 2.2, la Convención Americana sobre Derechos Humanos en
+su 1er. Artículo y la Convención sobre los Derechos del Los Niños en su artículo 2.
+46
+   Al respecto, véase XXXX
+47
+   Rawls, John. Teoria de la Justicia. Traducido por María Dolores González. Buenos Aires:
+Fondo de la Cultura Económica. Ed. Fondo de la Cultura Económica. Buenos Aires, 2004.
+48
+   Smulovitz, Catalina. “¿Quién paga por los derechos…” op. cit.
+
+
+                                             11
+
+[[PDF p. 12]]
+     protecciones legales revela, además de una institucionalización de distintos
+     estándares legales entre ciudadanos de un mismo Estado Nacional, que dicha
+     desigualdad legal no es sólo atribuible al origen social sino también producto de
+     una dimensión adicional: la localización territorial.
+             Si bien toda la población, como se dijo antes, sufre la consecuencia de las
+     diversas y desiguales regulaciones, alarma aún más, los efectos que tiene sobre
+     los grupos históricamente perjudicados. Por ejemplo, se pueden mencionar las
+     distintas normas provinciales en materia de derechos sexuales y reproductivos,
+     impacta de manera desigual sobre las mujeres que habita cada provincia; las
+     normas vinculadas a los derechos de la infancia, otorgan una extensión o
+     reducción de recursos y derechos a las niñas y niños, dependiendo del lugar de
+     nacimiento; la complejidad del sistema educativo provincial y sus normas
+     regulatorias, determina el alcance de la oferta educativa y el contenido brindado
+     en cada provincia.
+
+          ii.      La autonomía personal y el federalismo.49
+              Si bien la regulación del principio/derecho a la autonomía personal se
+     encuentra regulado en el artículo 19 de la Constitución Nacional, en el juego de
+     ese artículo con el resto de la normativa y práctica constitucional, se puede
+     encontrar la mejor interpretación del mismo.
+              Al respecto, Carlos S. Nino, uno de los autores que más ha trabajado en la
+     temática, expresó que “siendo valiosa la libre elección individual de planes de
+     vida y la adopción de ideales de excelencia humana, el Estado (y los demás
+     individuos) no debe interferir en esa elección o adopción”.50 Y la Corte Suprema
+     de Justicia de la Nación ha consagrado dicha interpretación en los fallos Portillo 51
+     y Bahamondez52.
+              El autor argentino agrega que el Estado debe limitar su actuar a diseñar
+     instituciones que faciliten la persecución individual de esos planes de vida y la
+     satisfacción de los ideales de virtud que cada uno sustente, impidiendo la
+     interferencia mutua en el curso de tal persecución53. A su vez, el principio de
+     autonomía personal es funcional para delimitar el contenido de los derechos
+     individuales fundamentales, en tanto del mismo se desprende cuáles son los
+     bienes que esos derechos protegen. Estos bienes son los elementos necesarios
+     para la elección y materialización de ideales personales y los planes de vida
+     basados en ellos.54
+
+            De esta visión “emancipatoría”55 del principio en análisis se desprende que
+     el Estado no sólo debe abstenerse de interferir en las esferas privadas de las
+     personas, sino que además tiene el deber de brindar aquellos bienes sobre los
+     que versan los derechos cuya función es atrincherar esos bienes contra medidas
+     que persigan el beneficio de otros o del conjunto social o de entidades
+     supraindividuales.56
+
+49
+   Para un análisis más amplio de la autonomía personal, véase el comentario al artículo 19
+de la CN realizado por .
+50
+          Nino, Carlos S, Ética y Derechos Humanos.: Editorial Ariel. Barcelona, 1989, p. 204.
+51
+   CSJN, Portillo, Alfredo s/infracción art. 44 Ley 17.531. Buenos Aires, 1989.
+52
+   CSJN, Bahamondez, Marcelo s/medida cautelar. 1993.
+53
+   Nino, Carlos S, Ética y Derechos, op. cit, p. 204.
+54
+   Nino, Carlos S, Fundamentos de Derecho Constitucional. Análisis filosófico, jurídico y politológico
+de la práctica constitucional, 3ra Edición. Astrea.Buenos Aires, 2005. p. 167
+55
+   Maurino, Gustavo, “Pobreza, Constitución y Democracia: aportes desde la autonomía personal” en
+Gargarella Roberto, Teoría y Crítica del Derecho Constitucional”, Abeledo Perrot, Buenos Aires, 2008
+56
+   Nino, Carlos S, Ética y Derechos…op.cit. p. 223
+
+
+                                                 12
+
+[[PDF p. 13]]
+             En este orden de ideas, y considerando la importancia radical de la
+     autonomía personal en el sistema constitucional nacional, es necesario identificar
+     los prerrequisitos que deben existir para que la mentada autonomía no se vuelva
+     una mera declaración de buenos principios. Pues resulta claro que no tiene
+     sentido elegir planes de vida que no se pueden materializar.
+              En este contexto interpretativo, si un Estado local, mediante sus propias
+     regulaciones y/o políticas públicas, garantiza y efectiviza niveles altos de
+     derechos, supongamos al derecho a la vivienda digna, a la educación, a la
+     alimentación, al acceso a la justicia, estaría generando que su ciudadanía goce
+     de una amplia autonomía personal y una ciudadanía plena. En cambio, una
+     provincia, que por ideología o carencia de recursos económicos, lleva acciones,
+     en sentido contrario al anterior, sus habitantes serían menos autónomos y
+     emancipados o en palabras de las teorías republicanas, menos libres y sujetos a
+     una posible dominación por parte de sus pares con más poder.
+
+          iii.  El federalismo y los derechos humanos en la esfera
+     internacional. (La inclusión de este apartado está pendiente de devolución de
+     Sebas Guidi)
+
+             Al mismo tiempo, la tensión no sólo se ve entre el arreglo federal y los
+     derechos y su consecuente fragmentación, sino también se puede dar –como de
+     hecho, sucede- una puja entre este sistema y el cumplimiento de los
+     compromisos asumidos a nivel internacional mediante los tratados de derechos
+     humanos.
+             En el mismo orden y en palabras del especialista en derecho internacional
+     y derechos humanos, Ariel Dulitzky “la estructura federal de diversos Estados de
+     nuestro continente repercute interna e internacionalmente a la hora de cumplir los
+     deberes estatales establecidos en las normas internacionales de derechos
+     humanos”. 57
+             El sistema internacional de protección de derechos, como es de
+     esperarse, no impone un modelo de organización política y de gobierno a los
+     países. Ellos pueden adoptar la forma que consideren adecuada, según su libre
+     determinación. Sin embargo, como remarcó la Corte Interamericana en el caso
+     “Garrido y Baigorria”, tal como lo viene haciendo en su jurisprudencia centenaria y
+     aún vigente, un Estado no está en condiciones de alegar su estructura federal
+     para incumplir una obligación internacional.58
+             Al respecto, el artículo 28 de la Convención Americana de Derechos
+     Humanos (en adelante, la Convención) es claro cuando afirma que en los casos
+     en donde el país firmante tenga una estructura federal como Argentina, “el
+     gobierno nacional de dicho Estado parte cumplirá todas las disposiciones de la
+     presente Convención relacionadas con las materias sobre las que ejerce
+     jurisdicción legislativa y judicial”. Pero a su vez expresa que “con respecto a las
+     disposiciones relativas a las materias que corresponden a la jurisdicción de las
+     entidades componentes de la federación, el gobierno nacional debe tomar de
+     inmediato las medidas pertinentes, conforme a su constitución y sus leyes, a fin
+
+
+57
+   Dulitzky, Ariel, “En La aplicación de los tratados sobre derechos humanos en el ámbito local. La
+experiencia de una década” en Abramovich, Victor Bovino, Alberto, y Courtis, Christian, Ed. Del
+Puerto, Buenos Aires, 2007. P.5
+58
+    Dulitzky, Ariel, “Al Gran Pueblo Argentino Salud: Derechos, Federalismo y Tratados
+Internacionales” en en Ronconi, Liliana, Clérico, Laura y Aldao, Martín (coord.), Tratado de
+Derecho…, op. cit. p.1655
+
+
+
+                                                13
+
+[[PDF p. 14]]
+     de que las autoridades competentes de dichas entidades puedan adoptar las
+     disposiciones del caso para el cumplimiento de esta Convención”.
+             Repasando, de manera inicial, pareciera que la Convención sólo
+     responsabiliza al Estado firmante por las obligaciones asumidas que recaigan
+     sobre su competencia legislativa y judicial. Es decir, sobre las competencias
+     exclusivas del Estado Nacional. En el caso de Argentina, aquellas que han sido
+     delegadas por las Provincias. Esta licencia se agota dado que estipula que en los
+     casos en donde las provincias tengan jurisdicción privativa (por ejemplo, la
+     importante competencia en materia de derechos que tienen las provincias
+     argentinas), el Estado Nacional tiene la obligación- sí, obligación- de arbitrar
+     inmediatamente- sí, inmediatamente- acciones para revertir la violación del pacto
+     internacional y evitar la responsabilidad internacional del Estado.
+             Para comprender el fundamental rol del Estado Nacional en el marco del
+     cumplimiento de las obligaciones internacionales asumidas, “es indispensable
+     leer conjunta e integralmente todo el texto convencional y no de manera aislada
+     su cláusula federal. En particular deben considerarse los artículos 1 y 2
+     convencionales”.59 (Dulitzky, “Federalismo y Derechos Humanos: el Caso de la
+     Convención Americana sobre Derechos Humanos y la República Argentina, 2006)
+             Sintetizando, el primer el artículo mencionado en el párrafo anterior,
+     establece que los Estados que forman parte de la Convención se comprometen a
+     respetar los derechos y libertades reconocidos en ella y a garantizar su libre y
+     pleno ejercicio a toda persona que esté sujeta a su jurisdicción, sin discriminación
+     alguna. El segundo artículo prescribe que si en el ejercicio de los derechos y
+     libertades mencionados en el primer artículo no estuviere ya garantizado por
+     disposiciones legislativas o de otro carácter, los Estados partes se comprometen
+     a adoptar, con arreglo a sus procedimientos constitucionales y a las disposiciones
+     de la Convención, las medidas legislativas o de otro carácter que fueren
+     necesarias para hacer efectivos tales derechos y libertades.
+             Asimismo, Dultizky, (2006) recuerda que la Comisión Interamericana de
+     Derechos Humanos ha tenido oportunidad de referirse a los problemas que
+     genera la estructura federal en el cumplimiento de las obligaciones asumidas por
+     los países. En este orden, el tribunal interamericano sostuvo que “no puede dejar
+     de expresar su preocupación por la falta de cumplimiento, por parte del Estado...,
+     de muchas obligaciones contenidas en instrumentos internacionales de derechos
+     humanos en razón de que los Estados miembros o entidades estatales que
+     forman parte de la República Federativa ejercen jurisdicción y tienen competencia
+     respecto a delitos cometidos en sus respectivos territorios. El denominado
+     “principio federativo”, de acuerdo con el cual los Estados individuales gozan de
+     autonomía, ha sido usado frecuentemente como explicación para impedir la
+     investigación y determinación de los responsables de violaciones --muchas veces
+     graves-- de derechos humanos y ha contribuido a acentuar la impunidad de los
+     autores de tales violaciones”. 60( CIDH, 1997).
+
+            Por su parte, la Corte Suprema de Justicia de la Nación ha analizado esta
+     cuestión y ha expresado que “la ´cláusula federal´ prevista en la Convención
+     Americana sobre Derechos Humanos impone al gobierno nacional el
+     cumplimiento de todas las obligaciones relacionadas con las materias sobre las
+
+59
+   Dulitzky, Ariel, “Federalismo y Derechos Humanos: el Caso de la Convención Americana sobre
+Derechos Humanos y la República Argentina” en Instituto de Investigaciones Jurídicas, Universidad
+Nacional Autónoma de México, Anuario Mexicano de Derecho Internacional, Volumen VI: 2006, p.
+199-251.
+60
+   CIDH. Informe Sobre la Situación General De Los Derechos Humanos En Brasil. Maria Da Penha
+Maia Fernandes c/ Brasil. Informe N° 54/01, Caso 12.051. Washington DC. 1997.
+
+
+                                               14
+
+[[PDF p. 15]]
+     que ejerce jurisdicción legislativa y judicial, y el deber de tomar "de inmediato" las
+     medidas pertinentes, conforme a su constitución y sus leyes, para que las
+     autoridades componentes del Estado federal puedan cumplir con las
+     disposiciones de ese tratado (art. 28 incs. 1° y 2°).61
+
+            Entonces, si la hipótesis es correcta- la existencia de una fuerte e
+     inconstitucional fragmentación de derechos-, se enfrentaría ante una situación
+     que debe ser analizada y resuelta por el derecho. Ello en virtud que coexistirían
+     muy diversos estándares de ciudadanía, entendida como el acceso a los
+     derechos fundamentales, en un mismo país basado simplemente en una hecho
+     moralmente arbitrario como es el lugar de nacimiento. Al mismo tiempo, Argentina
+     podría encontrarse ante un incumplimiento de las obligaciones nacionales e
+     internacionales asumidas como comunidad.
+
+
+4. Conclusión y propuestas.
+          Este trabajo comenzó con un desarrollo del sistema federal, con una
+inspección de los argumentos que dieron origen y aquellos que luego tuvieron lugar a
+medida que la realidad y las teorías avanzaban. Se intentó demostrar el amplio
+potencial que posee el sistema federal en una democracia constitucional,
+especialmente en relación con los derechos de las minorías y sus prácticas
+culturales; con el autogobierno colectivo. Así, se vio cómo Argentina ha adoptado el
+federalismo, partiendo de esas presunciones hasta la actualidad, donde el diseño en
+análisis se encuentra permanentemente en crisis, sea porque los Estados
+provinciales bajo el escudo federal, llevan a cabo políticas públicas y dictan leyes
+alejadas de los mandatos constitucionales o sea porque los resultados del sistema
+mismo, en abstracto, genera una fragmentación a nivel nacional que obliga a
+repensar el federalismo.
+            Se dijo también, que la autonomía provincial tuvo un particular
+    achicamiento desde la inclusión de los tratados de derechos humanos con
+    jerarquía constitucional. Reducción que existe desde el mismo momento de la
+    creación del sistema, al momento de exigirle a los estados provinciales que se
+    ajusten a los mandatos institucionales existentes en la constitución. Para esto,
+    solo basta repetir de memoria los artículos 5 y 123 de la Constitución Nacional o
+    mirar con detenimiento lo que dictó la CSJN en el caso “UCR c/Santiago del
+    Estero”, del 2013.62
+             Así en lo que se refiere al federalismo y la experimentación institucional,
+    se podría agregar que uno los aspectos de la autonomía de las unidades es que
+    las mismas tienen sus propias constituciones, que pueden reformar libremente
+    dentro de ciertos límites impuestos por las constituciones federales. En este
+    sentido, si bien teóricamente se brinda la posibilidad de experimentar con
+    diversas formas gubernativas, en la práctica se descubre un isomorfismo entre las
+    formas gubernamentales centrales y las de las unidades componentes en cada
+    país, como de las de éstas entre sí. 63
+              En este momento es necesario sincerar algo que, tal vez, podría resultar
+    fácil pensar desde una mirada prejuiciosa y elitista del Goliat argentino. No todas
+    las normas con mayor garantía de derechos y que marcaron posteriormente la
+
+61
+   CSJN “Campodónico de Beviacqua, Ana c/ Ministerio de Salud y Acción social s/recurso de
+hecho”, (cita Fallos: 323:3229)
+62
+   CSJN,. Unión Cívica Radical de la Provincia de Santiago del Estero el Santiago del Estero,
+Provincia de s/ acción declarativa de certeza. Buenos Aires, resuelto el 5/11/2013
+63
+   Bazan, Victor, “El Federalismo Argentino: Situación Actual, Cuestiones Conflictivas Y
+Perspectivas”, Estudios Constitucionales, Año 11, 2013, pp. 37 - 88.
+
+
+                                                 15
+
+[[PDF p. 16]]
+     realidad legal del país, tuvieron su nacimiento en el Gobierno Federal. Por lo
+     contrario, en importantes casos, la conquista de esos estándares se dio
+     pioneramente a nivel local para luego expandir sus resultados e influencia hacia
+     el Estado Nacional. A modo de ejemplo, en materia de infancia, la ley nacional se
+     apropió algunas de las propuestas que ya existían en Mendoza, Tierra del Fuego
+     y Neuquén (Lucero, 2013: 23); en el ámbito de los derechos sexuales y
+     reproductivos, Río Negro y Tierra del Fuego (Faur & Gherardi, Natalia, 2005:
+     194).64
+             Con suma claridad, Dulitzky resalta que “resulta fundamental no
+     romantizar al Gobierno Federal como garante absoluto de los derechos ni
+     demonizar a los gobiernos locales como violadores de lates derechos o
+     viceversa” (2013: 1688).
+               Como se podrá advertir de la lectura de los trabajos de esta obra
+     colectiva, la Corte Suprema Nacional, fue diluyendo las barreras divisorias de
+     competencias para comprenderlas de manera sistémica, como un conjunto de
+     acciones estatales que tienen como objetivo consolidar un amplio espectro de
+     derechos. Sin embargo, aunque la responsabilidad es la contracara de la facultad
+     de acción, es dable advertir que el Máximo Tribunal no impone el mismo efecto
+     expansivo en ese ámbito. Así, comprende que el Estado Nacional tiene una
+     responsabilidad tan solo subsidiaria, pues la principal le recae a las unidades
+     locales. En los fallos “Sánchez”65 y “Orlando”66 en una resolución casi calcada, el
+     Máximo Tribunal, en sendos séptimos considerandos, concluye que resulta
+     evidente que las obligaciones emergentes del marco normativo imponen a las
+     autoridades locales el deber de articular un mecanismo eficaz para llevar a cabo
+     la entrega del recurso médico necesario sin que ello implique desconocer el
+     deber de coordinación con el Estado Nacional —mediante el Ministerio de Salud
+     —, el que debe acudir en forma subsidiaria, de manera de no frustrar los
+     derechos de la reclamante.
+              Po lo contrario, lo que aquí se propone es que la apertura de la estructura
+     tradicional de división de competencias, trae consigo un efecto boomerang. Si se
+     comprende que las competencias son concurrentes y que las fronteras de lo
+     local/nacional se han ido diluyendo con la ampliación de derechos, una persona
+     que habita cualquier localidad de Argentina, ante una situación de vulneración de
+     derechos, ahora se encuentra legitimada para reclamar y entablar demandas
+     contra ambas jurisdicciones, las locales y nacionales. En síntesis, ante una
+     facultad compartida, la responsabilidad estatal corre la misma fortuna: es
+     concurrente y solidaria.
+             Este marco de acción ampliada y las consecuencias en materia de
+     responsabilidad, obligan, entonces, como se dijo antes, a repensar y replantear el
+     sistema federal como uno coordinado, cooperativo y dialógico. Los dos primeros
+     adjetivos fueron analizados anteriormente, por lo que correspondería
+     concentrarse, especialmente, en el último de ellos. Esta importancia toma mayor
+     envergadura si se recuerda el valor que posee el diálogo, no sólo a los fines
+     prácticos sino también respecto a la legitimidad de la toma de decisiones y la
+     responsabilidad, posterior. De esta forma, a su vez, se estaría recatando los
+64
+   Esta situación no es una característica distintiva de Argentina, en Estados Unidos, a saber,
+ante la ausencia de una ratificación por parte del Estado Federal a la Convención contra todo
+tipo de Discriminación Contra la Mujer (CEDAW), el Estado de California incorporó los
+principios de la Convención a su normativa local. Al respecto, véase Powell, Catherine,
+“Dialogic Federalism: Constitutional Possibilities for Incorporation of Human Rights Law in the
+United States” 150 U. Pa. L. Rev., 2001, p. 245-295
+65
+   CSJN, Sánchez, Norma Rosa c/ Estado Nacional y otro s/ acción de amparo. Buenos Aires, 2005
+66
+   CSJN, Orlando, Susana Beatriz c/ Buenos Aires, Provincia de Y Otros S/ Amparo. Buenos Aires.
+2012
+
+
+                                              16
+
+[[PDF p. 17]]
+     valores normativos que prometía el régimen en análisis y que fueron analizados
+     al comienzo de este trabajo.
+             Dulitzky67, entiende que el federalismo dialógico al mismo tiempo que
+     reconoce las tensiones presentes o potenciales que se dan en el marco de la
+     distribución de competencias y responsabilidades, busca facilitar el diálogo
+     vertical y horizontal entre los actores responsables. Si bien el autor argentino,
+     escribe sus ideas en miras del cumplimiento de los tratados de derechos
+     humanos, las reflexiones podrían aplicarse, también, a los compromisos
+     asumidos internamente en materia de derechos. Entonces, afirma, que desde el
+     punto de vista vertical, a los fines de facilitar la implementación de los tratados de
+     derechos humanos y entender la complejidad de la distribución de competencias,
+     se requiere habilitar mecanismos institucionales para llevar a cabo un continuo
+     diálogo entre las entidades federales y locales y entre éstas últimas y los
+     mecanismos internacionales de supervisión y monitoreo, sin mediación del
+     gobierno federal, ya que sobre ellas, también, recae la responsabilidad de hacer
+     realidad los derechos consagrados en los instrumentos internacionales
+             Respecto al diálogo horizontal, se deben generar espacios institucionales
+     para que las provincias y sus municipios, compartan información y experiencias
+     sobre los mecanismos más efectivos para el reconocimiento y tutela de los
+     derechos humanos a nivel local.68
+             Se podría agregar, la necesidad de generar un diálogo inter-ciudadanía, a
+     través de mecanismos novedosos. Mediante el mismo, podrán no sólo tomar
+     conciencia de sus derechos69, sino también, observar qué sucede en otras
+     provincias, las políticas públicas, institucionales que se llevan a cabo y exigir a las
+     autoridades lo consideren pertinente, en el marco de su historia, cultura y
+     realidad.
+             Este federalismo recargado, reformado y moderno, podrá conseguir lo que
+     las interpretaciones estáticas no han logrado: respetar las particularidades
+     provinciales, potenciar la participación de las personas afectadas y elevar los
+     estándares de respeto de los derechos de las personas que habitan un mismo
+     país. Así, el sistema en su integridad y las decisiones a las que se arriben estarán
+     dotadas de mayor legitimidad, tanto democrática como cultural.
+
+
+
+                                 BIBLIOGRAFÍA UTILIZADA:
+
+
+        Agulla, Juan Carlos, Federalismo y Centralismo, Ediciones Líbera, Argentina,
+         1967.
+        Alberdi, Juan Bautista, Bases y puntos de partida para la organización
+         política de la República Argentina, Terramar Ediciones, La Plata, 2009.
+        Antón, Thomas J. Las Políticas Públicas y el Federalismo Norteamericano.
+         Cómo funciona el sistema. Editorial Heliasta., Buenos Aires, 1994
+        Arballo, Gustavo. “Localizando el derecho a la salud.” en Ronconi, Liliana,
+         Clérico, Laura y Aldao, Martín (coord.), Tratado de Derecho a la Salud, Tomo
+         II, Abeledo Perrot/Thomson Reutersm, Buenos Aires, 2013, p. 1622-1652
+
+67
+   Dulitzky, Ariel, “Al Gran Pueblo Argentino Salud: Derecho…”, obra citada. p. 1691.
+68
+   Ídem.
+69
+   Para un desarrollo de la “conciencia de derechos”, véase Epp. Charles R. La revolución de los
+Derechos. Abogados, activistas y cortes supremas en perspectiva comparada.. Siglo Veintiuno
+Editores, Buenos Aires, 2013
+
+
+                                                  17
+
+[[PDF p. 18]]
+   Azrak, Damián, y Valentini, Mariano, “El Derecho Constitucional a la Vivienda
+    Digna y Adecuada, Una Propuesta Interpretativa” en Elias, Sebastían, Rivera,
+    Julio y Legarre, Santiago, Tratado de los Derechos Constitucionales, Tomo 2,
+    Editorial Abeledo Perrot, Buenos Aires, 2014.
+   Azrak. Damián, “El Federalismo en la Constitución Nacional” en Gargarella
+    Roberto y Guidi, Sebastián (coord), Comentarios de la constitución de la
+    nación argentina. jurisprudencia y doctrina: una mirada igualitaria,, Ed. La
+    Ley, Buenos Aires, 2016.
+
+   Balkin, Jack M.. Living Originalism. The Belknap Press of Harvard University
+    Press. Cambridge, Massachuisetts: 2011 p. 171
+
+   Bazan, Victor, “El Federalismo Argentino: Situación Actual, Cuestiones
+    Conflictivas Y Perspectivas”, Estudios Constitucionales, Año 11, 2013, pp. 37
+    - 88.
+   Caminal, Miquel, El Federalismo pluralista. Del federalismo nacional al
+    federalismo plurinacional, Editorial Paidos, Barcelona, 2002.
+   Cayuso, Susana G., Constitución de la Nación Argentina: claves para el
+    estudio inicial de la norma fundamental, La Ley, Buenos Aires, 2007.
+
+   CIDH. Informe Sobre la Situación General De Los Derechos Humanos En
+    Brasil. Maria Da Penha Maia Fernandes c/ Brasil. Informe N° 54/01, Caso
+    12.051. Washington DC. 1997.
+   Coleman, D.L., “Individualizing Justice Through Multiculturalism: The Liberals’
+    Dilemma”. Columbia Law Review, n°96, Columbia,1996, p. 1093-1167.
+
+   Comité de Derechos Humanos. “Examen de los informes presentados por los
+    estados partes con arreglo al artículo 40 del Pacto. Observaciones finales del
+    Comité de Derechos Humanos. Argentina”, New York, 2010. p. 2.
+
+   CSJN “Campodónico de Beviacqua, Ana c/ Ministerio de Salud y Acción
+    social s/recurso de hecho”, (cita Fallos: 323:3229)
+
+   CSJN, Bahamondez, Marcelo s/medida cautelar. 1993.
+
+   CSJN, Orlando, Susana Beatriz c/ Buenos Aires, Provincia de Y Otros S/
+    Amparo. Buenos Aires. 2012
+
+   CSJN, Portillo, Alfredo s/infracción art. 44 Ley 17.531. Buenos Aires, 1989.
+
+   CSJN, Sánchez, Norma Rosa c/ Estado Nacional y otro s/ acción de amparo.
+    Buenos Aires, 2005
+
+   CSJN,. Unión Cívica Radical de la Provincia de Santiago del Estero el
+    Santiago del Estero, Provincia de s/ acción declarativa de certeza. Buenos
+    Aires, resuelto el 5/11/2013
+   Dahl, Robert A., “Federalism and the Democratic Process” en Dahl, Robert
+    A., Democracy, Identity and Equality, Norwegian University Press, Oslo,
+    1986.
+
+
+
+
+                                      18
+
+[[PDF p. 19]]
+    Dulitzky, Ariel, “En La aplicación de los tratados sobre derechos humanos en
+    el ámbito local. La experiencia de una década” en Abramovich, Victor Bovino,
+    Alberto, y Courtis, Christian, Ed. Del Puerto, Buenos Aires, 2007. P.5
+   Dulitzky, Ariel, “Federalismo y Derechos Humanos: el Caso de la Convención
+    Americana sobre Derechos Humanos y la República Argentina." Anuario
+    Mexicano de Derecho Internacional, Volumen VI, Instituto de Investigaciones
+    Jurídicas, Universidad Nacional Autónoma de México, 2006.
+
+    Dulitzky, Ariel, “Federalismo y Derechos Humanos: el Caso de la Convención
+    Americana sobre Derechos Humanos y la República Argentina” en Instituto de
+    Investigaciones Jurídicas, Universidad Nacional Autónoma de México,
+    Anuario Mexicano de Derecho Internacional, Volumen VI: 2006, p. 199-251.
+
+   Dworkin, Ronald. Law´s empire.: Belknap Harvard, Cambridge.1986.
+   Ekmekdjian, Miguel Ángel, Manual de la Constitución Argentina, Lexis Nexis,
+    Buenos Aires, 2008.
+
+   Epp. Charles R. La revolución de los Derechos. Abogados, activistas y cortes
+    supremas en perspectiva comparada.. Siglo Veintiuno Editores, Buenos Aires,
+    2013
+   Falleti, T.G., Decentralization and Subnational Politics in Latin America,
+    Cambridge University Press, New York, 2010.
+
+   Fiss, Owen, “Grupos y la cláusula de igual protección” Gargarella, Roberto
+    (comp), Derecho y grupos desaventajados, Gedisa Editorial, Barcelona: 1999.
+    p. 137
+   Gagnon, Alain G, "The Political Uses of Federalism." en Burgess Burgess
+    Michael y Gagnon, Alain G., Comparative Federalism and Federation:
+    Competing Traditions and Future Directions.University of Toronto Press.,
+    Toronto, 1993.
+   Galletti, Alfredo, Historia Constitucional Argentina, Editora Platense, La Plata,
+    1972, T. 1.
+   Gargarella, Roberto, Los fundamentos legales de la desigualdad: El
+    constitucionalismo en América (1776-1870, Siglo XII de España Editores,
+    Madrid, 2005.
+   Gelli, Maria Angelica, “El Federalismo en emergencia y su necesaria
+    reconstrucción.” en Hernández A.M., Aspectos Jurídicos e Institucionales del
+    Federalismo Argentino. Academia Nacional de Derecho y Ciencias Sociales
+    de Córdoba, Córdoba, 2011.
+   Gelli, Maria Angelica, Constitución de la Nación Argentina Comentada y
+    Concordada, La Ley, Buenos Aires, 2011.
+   Gerken, Heather K. “A New Progressive Federalism Distrust of states’ rights
+    exists for good historical reasons, but today, minorities and dissenters can rule
+    at the local level.”, en Democracy. A journal of Ideas, Spring, 2012 p.1
+   Gibson, “Federalism and Democracy: Theorical Connections and Cautionary
+    Insights, en Gibson (ed), Federalism and Democracy in Latin America, The
+    Johns Hopkins University Press, Maryland, 2004.
+   Gibson, Edward L., y Falleti, Tulia G., "Unity by the Stick" en Gibson, Edward
+    L., Federalism and Democracy in Latin America, The Johns Hopkins
+    University Press, Baltimore, 2004.
+
+
+
+
+                                       19
+
+[[PDF p. 20]]
+   González Bertomeu, Juan F. “Notas sobre Federalismo” en Gargarella,
+    Roberto (coord), Teoría y Crítica del Derecho Constitucional, Abeledo Perrot,
+    Buenos Aires, 2010, T. 1, pp. 440-484,
+   Holmes, Stephen, “El precompromiso y la paradoja de la democracia.” En
+    Elster J. y Slagstad R. (Eds.).Constitucionalismo y democracia. Colegio
+    Nacional de Ciencias Políticas y Administración Pública y Fondo de Cultura
+    Económica, México, 1999.
+
+   Karmis, D., & Norman, W., Theories of Federalism, A Reader, Palgrave
+    Macmillan, KY, 2005
+
+   Kymlicka, W. Federalismo, Nacionalismo y Multiculturalismo. Revista
+    Internacional de Filosofia Politica, 7, 1996, p. 20-54
+   Madison, James, Hamilton, y Jay, The Federalist Papers, soHo Books, KY,
+    2013.
+
+   Maurino, Gustavo, “Pobreza, Constitución y Democracia: aportes desde la
+    autonomía personal” en Gargarella Roberto, Teoría y Crítica del Derecho
+    Constitucional”, Abeledo Perrot, Buenos Aires, 2008
+
+   Maurino, Gustavo. “Pobreza y Discriminación: La protección constitucional de
+    los más humildes” en Alegre, Marcelo, y Gargarella, Roberto (coord), El
+    Derecho a la Igualdad. Aportes para un constitucionalismo igualitario, Lexis
+    Nexis, Buenos Aires, 2007.
+   Mill, John Stuart, El Gobierno Representativo, Imprenta y librería del Mercurio
+    de S. Tornero e Hijos, Valparaíso, 1855.
+   Montesquieu, Charles-Louis de Secondat (Barón de), Del Espíritu de las
+    Leyes, Alianza Editorial, 2003.
+   Neumann, F.L., “Federalism and Freedom: A critique”, en Karmis, D., &
+    Norman, W., Theories of Federalism: A Reader, Palgrave Macmillan, KY,
+    2005.
+
+   Nino, Carlos S, Ética y Derechos Humanos.: Editorial Ariel. Barcelona, 1989,
+    p. 204.
+
+    Nino, Carlos S, Fundamentos de Derecho Constitucional. Análisis filosófico,
+    jurídico y politológico de la práctica constitucional, 3ra Edición.
+    Astrea .Buenos Aires, 2005.
+
+   Nino, Carlos S, Fundamentos de Derecho Constitucional. Análisis filosófico,
+    jurídico y politológico de la práctica constitucional, 3ra Edición. Astrea.Buenos
+    Aires, 2005. p. 167
+
+   Nino, Carlos S. Introducción al Análisis del Derecho. Barcelona: Editorial Ariel.
+    2001.
+   Orlando, Federico, “Federalismo Fiscal” en Gargarella Roberto y Guidi,
+    Sebastián (coord), Comentarios de la constitución de la nación argentina.
+    jurisprudencia y doctrina: una mirada igualitaria,,: Ed. La Ley, Buenos Aires,
+    2016.
+
+
+
+
+                                       20
+
+[[PDF p. 21]]
+   Pérez Hualde, Alejandro, “El federalismo argentino después de la reforma
+    constitucional de 1994.» Revista Nueva Epoca, Ediciones UNL, 2014, p. 191-
+    220.
+   Pildes, Richard “Ethnic Identity and the Design of Democratic Institutions: A
+    Dynamic Perspective” en Choudhry, Sujit (ed.), Constitutionalism in Divided
+    Societies, Cambridge University Press, England, 2008.
+
+   Powell, Catherine, “Dialogic Federalism: Constitutional Possibilities for
+    Incorporation of Human Rights Law in the United States” 150 U. Pa. L. Rev.,
+    2001, p. 245-295
+
+   Rawls, John. Teoria de la Justicia. Traducido por María Dolores González.
+    Buenos Aires: Fondo de la Cultura Económica. Ed. Fondo de la Cultura
+    Económica. Buenos Aires, 2004.
+   Riker, Williams, Federalism. Origin, Operation, Significance, Little, Brown and
+    Company, Boston, 1964
+
+   Sagües, Nestor. Interpretación constitucional y alquimia interpretativa (el
+    arsenal argumentativo de los tribunales supremos”, Lexis Nexis, Buenos
+    Aires, 2004.
+
+   Saguir, Julio.¿Unión o secesión? Los procesos constituyentes en Estados
+    Unidos (1776-1787) y Argentina (1810-1862). Prometeo Libros, Buenos Aires,
+    2007.
+
+   Smulovitz, Catalina,. “The Unequal Distribution of Legal Rights: Who Gets
+    What and Where in the Argentinean Provinces?”, Latin American Politics and
+    Society            57,            2015,            disponible           en
+    http://www.udesa.edu.ar/files/UAHUMANIDADES/EVENTOS/PAPERSMULO
+    VITZ0 50511.PDF
+
+   Smulovitz, Catalina. “¿Quién paga por los derechos en las provincias
+    argentinas? El caso de las leyes de violencia familiar”, Desarrollo Económico.
+    Revista de Ciencias Sociales, 2015, p. 155-185.
+   Stepan, Alfred, "Toward a New Comparative Analysis of Democracy and
+    Federalism: Demos Constraining and Demos Enabling Federations", en
+    Conference on Federalism, Democracy and Public Policy. Centro de
+    Investigaciones y Docencia Económicas, México, 1999.
+
+   Tarr, G. Alan. “American State Constitutions and Minority Rights” En Tarr,
+    Alan, Williams, Robert F.y         Marko Josef, Federalism, Subnational
+    Constitutions and Minority Rights, de G., 89-103. Praeger. Westport, 2004. p.
+    89
+
+
+
+
+                                      21

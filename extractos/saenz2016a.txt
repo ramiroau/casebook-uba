@@ -1,0 +1,530 @@
+# fuente: 1_Sáenz - Artículo 30. Reforma de la Constitución.pdf
+# modo: texto
+# paginas: 10
+
+[[PDF p. 1]]
+ARTÍCULO 30 – REFORMA DE LA CONSTITUCION
+El artículo 30 prevé el procedimiento para la reforma de la Constitución, que consta de
+dos etapas: una donde el Congreso declara la necesidad de la reforma (total o parcial),
+para lo cual se exige una mayoría especial de dos tercios de los votos en ambas
+cámaras, y la otra en la que una asamblea o convención especial trata y aprueba (o
+desecha) las modificaciones. La dificultad del mecanismo –de doble instancia y con
+mayorías especiales- se vincula con el carácter supremo y permite hablar de una
+constitución de tipo rígido. Lo primero significa que es la norma de mayor jerarquía, de
+la que derivan y a la que se encuentran sujetas las leyes y todo el resto del orden
+jurídico. Al establecer las disposiciones básicas de organización del estado, los límites
+al poder y los derechos y garantías esenciales de las personas, todo ello con vocación
+de perdurabilidad, se procura que la reforma constitucional no sea un trámite accesible
+para las mayorías circunstanciales de un gobierno a través de los modos ordinarios de
+la legislación común, sino que ello sólo sea posible gracias a un consenso muy
+mayoritario y por medio de mecanismos reforzados. A su vez, al preverse que la
+reforma sea realizada por una convención (asamblea o congreso) especial, convocada
+con ese único fin, se buscar lograr que ella sea el producto de un examen meditado, y
+en el mejor de los casos, debatido y deliberado1.
+
+En casi todos los países, se procura poner distancia entre los procesos de creación
+constitucional y el ejercicio directo de la democracia.
+
+La reforma de 1994 plasmó esto en el propio texto constitucional: si bien la reforma
+incorporó declaraciones fuertemente reivindicativas de la democracia –totalmente
+ausente en el texto de 1853-, como son las de los artículos 36, 38, 75 incisos 22 y 24,
+y previó los mecanismos de ejercicio directo del poder ciudadano (iniciativa popular en
+el artículo 39, y consulta popular en el artículo 40), excluyó a la reforma constitucional
+como asunto a dejar librado a la decisión popular. El artículo 39 dispone en este
+sentido que “No serán objeto de iniciativa popular los proyectos referidos a reforma
+constitucional...” (entre otros)2.
+
+Los procedimientos complejos como el previsto en la Constitución argentina y en la
+norteamericana para su reforma conducen a definirlas –en una de las clásicas
+clasificaciones que se realizan de las constituciones- como constituciones “rígidas” por
+los obstáculos legales que es necesario sortear para llevar a cabo una enmienda (ley
+previa, mayorías especiales, aprobación en una convención especial, limitaciones
+previas a dicha convención). Como consecuencia de todo ello, ese tipo de
+constituciones tienden a mantenerse inalteradamente en el tiempo, y por ello se habla
+de su “rigidez” ante los cambios políticos y sociales. En contraposición, existen las
+constituciones (o los procedimientos de reforma) “flexibles”. Varias constituciones
+provinciales han incorporado cierta flexibilidad a sus mecanismos de reforma,
+posibilitando que sean realizadas por sus legislaturas a través de leyes ordinarias
+(vgr.: el Art. 212 de la Constitución de la Provincia del Chaco, que prevé la enmienda o
+reforma por el voto de los dos tercios de la totalidad de los miembros de la Cámara de
+Diputados y posterior aprobación por consulta popular, o por la aprobación unánime de
+la totalidad de los miembros de la legislatura).
+
+La crítica fundamental que se sostiene respecto de la rigidez y la dificultad de los
+mecanismos de reforma constitucional es que favorecen el sostenimiento del statu quo
+
+1
+  En el lenguaje tradicional del derecho constitucional se denomina “poder constituyente originario” a aquel que
+sanciona una constitución fundacional, que le da nacimiento a un Estado (como el Congreso Constituyente reunido en
+Santa Fe en 1853 en el caso argentino), y “poder constituyente derivado” al previsto por aquélla para sus futuras
+reformas.
+2
+  La ley 25.432, que reglamenta los procedimientos de consulta popular vinculante y no vinculante, excluye la
+posibilidad de hacerlo en el caso de la reforma de la Constitución, al exceptuar los proyectos de ley que requieren
+mayoría calificada para su aprobación (arts. 1 y 6).
+
+[[PDF p. 2]]
+e impiden remover dispositivos vetustos e institutos anacrónicos o muy cuestionados
+de la Constitución (piénsese por ejemplo en el requisito de “pertenecer a la comunión
+católica apostólica romana” para ser Presidente, suprimido en 1994, la elección
+indirecta de los senadores por medio de las legislaturas o los escasos siete meses de
+sesiones ordinarias del Congreso, aspectos corregidos también en la última reforma).
+Por su parte, también se retrasa el reconocimiento de derechos (vgr. los derechos
+sociales del art. 14 bis, los de tercera generación de los arts. 41 y 42 o los de las
+comunidades indígenas –art. 75.17-, todos ellos incorporados de manera demorada en
+la Constitución). Otros derechos “modernos” aún no gozan de su lugar constitucional
+(vgr.: el derecho de acceso a la información pública).
+
+La disposición del artículo 30 reúne en un sólo texto los artículos 37, 38 y 39 del
+proyecto de Alberdi3, que adoptó el procedimiento de la Constitución norteamericana
+de 1787 en cuanto a la iniciativa del Congreso (primera etapa) y a la intervención de
+una convención reformadora, pero sin imponer -como en aquella constitución- el
+requisito de ratificación por las tres cuartas partes de las legislaturas locales4.
+
+El texto constitucional omite precisar varias cuestiones relevantes. Algunas
+permanecen en la discusión teórico-académica y otras han suscitado controversias
+concretas que fue necesario resolver acudiendo a alguna pauta interpretativa. Esas
+cuestiones son: 1) ¿pueden reformarse todas las disposiciones de la Constitución, o
+algunas de ellas son irreformables?, 2) ¿se requiere la forma de ley para declarar la
+necesidad de la reforma?; 3) ¿cómo debe computarse la mayoría de dos terceras
+partes?; 4) ¿puede el Congreso limitar la materia a reformar por la convención
+reformadora?; 5) ¿cómo debe convocarse e integrarse esa convención?; y 6) ¿pueden
+controlar los jueces la legalidad de la actuación del Congreso y de la Convención, y en
+su caso declarar la nulidad de lo reformado?
+
+1. ¿Existen disposiciones que no se pueden reformar?
+
+De acuerdo con algunos autores, existirían determinados contenidos que no podrían
+suprimirse del texto constitucional. Por ejemplo, Bidart Campos se refería a ellos como
+“contenidos pétreos” de la Constitución, como el sistema democrático, el régimen
+federal y la forma republicana de gobierno5. La formulación, si bien nunca llegó a ser
+desarrollada al punto de conformar una verdadera teoría, resulta sumamente discutible
+si no se plantean de manera fundada cuáles son los contenidos que se consideran
+inmodificables (acaso por su base sociológica, como la autonomía de las provincias y
+los municipios, o sobre la base de sostener la sujeción de la Constitución al
+ordenamiento internacional de los derechos humanos)6. De otro modo, este tipo de
+3
+  “Artículo 37 - La Constitución es susceptible de reformarse en todas sus partes; pero ninguna reforma se admitirá en
+el espacio de 10 años. Artículo 38 - La necesidad de la reforma es declarada por el congreso permanente, pero solo se
+efectúa por un congreso o convención convocada al efecto. Artículo 39 - Es ineficaz la proposición de reforma que no
+es apoyada por dos terceras partes del congreso o por dos terceras partes de las legislaturas provinciales”. Como se
+advierte, en el texto aprobado en 1853 se suprimió del proyecto de Alberdi la iniciativa de reforma que se asignaba a
+las dos terceras partes de las legislaturas provinciales.
+4
+   El Artículo V de la Constitución de los Estados Unidos establece: “El Congreso propondrá enmiendas a esta
+Constitución, siempre que dos terceras partes de ambas Cámaras lo estimen necesario; o, a petición de las Asambleas
+Legislativas de dos terceras partes de los estados, convocará una convención para proponer enmiendas, las cuales, en
+uno u otro caso, serán válidas para todos los fines y propósitos, como parte de esta Constitución, cuando las ratifiquen
+las Asambleas Legislativas de las tres cuartas partes de los estados, o las convenciones celebradas en las tres cuartas
+partes de los mismos, de acuerdo con el modo de ratificación propuesto por el Congreso”. En la historia de las 27
+enmiendas norteamericanas, sin embargo, el Congreso nunca convocó a una convención, sino que de manera directa
+propuso la enmienda a las legislaturas (en 26 ocasiones) o a convenciones estaduales (en la enmienda nº 21); con lo
+cual la práctica ha reducido el procedimiento de reforma a dos pasos: la propuesta del Congreso (proposal) y la
+aceptación de tres cuartas partes de los estados (ratification) (Tribe, Laurence, American Constitutional Law,
+Foundation Press, 3ª. ed., 2000 p. 95).
+5
+ Bidart Campos, Germán J., Manual de Derecho Constitucional Argentino, Ediar, 1974, nros. 46 a 49.
+6
+  El reconocimiento internacional de los derechos humanos fundamentales es presentado por algunos autores como
+posible límite al contenido de una reforma constitucional. Ello sería así pues de acuerdo con su concepción
+predominante, ellos son inherentes a la persona y su vigencia no depende de un acto de adjudicación estatal como es
+
+[[PDF p. 3]]
+propuestas sólo sirven para que cada cual coloque allí lo que prefiere, pretendiendo su
+resguardo de cualquier posibilidad de enmienda constitucional futura7 (vgr.: Bidart
+Campos incluía entre los pretendidos contenidos pétreos la confesionalidad del
+Estado).
+
+2. ¿Hace falta una ley del Congreso para que este declare la necesidad de
+reformar la Constitución o puede hacerlo por otra vía?
+
+El artículo 30 no precisa qué forma debe revestir el acto declarativo del Congreso, lo
+cual permite interpretar que puede elegirla discrecionalmente. A este respecto cabe
+señalar que las formas previstas para que el Congreso emita una manifestación de
+voluntad son tres: 1) por medio de una ley (arts. 77 a 84 CN); 2) por vía de resolución
+de una Asamblea Legislativa (prevista para el tratamiento de la renuncia del
+Presidente o su designación en caso de acefalía –arts. 88 CN y 1º de la ley de acefalía
+20.972-); 3) por resoluciones unilaterales de ambas cámaras (como las que tienen
+lugar cuando cada Cámara ejerce potestades exclusivas –la de Diputados, de acusar
+en el juicio político, art. 53 CN, las del Senado de juzgar en aquel procedimiento, art.
+59 CN; autorizar al Presidente para que declare el estado de sitio por ataque exterior,
+art. 61 CN y prestar el acuerdo para la designación de jueces, embajadores y oficiales
+superiores de las fuerzas armadas, art. 99 incs. 4º, 7º y 13º; y las de ambas cámaras
+de aprobar o desechar los títulos de sus miembros, art. 64 CN; aprobar su reglamento,
+art. 66 CN; resolver un desafuero, art. 70 CN; interpelar a un Ministro del Poder
+Ejecutivo, art. 71 CN; promover la remoción del Jefe de Gabinete de Ministros, art. 101
+CN; o ratificar los decretos de necesidad y urgencia y los decretos delegados (art. 99
+inc. 3º CN y ley 26.122).
+
+La mayoría de la doctrina clásica sostiene que la forma más adecuada es una
+declaración en asamblea legislativa, o por resolución conjunta de ambas cámaras, por
+así corresponderse con la naturaleza del acto -de carácter político y declarativo-, y no
+estrictamente legislativo (esto es, regular conductas y situaciones jurídicas hacia el
+futuro, con carácter general y vocación de permanencia). Como consecuencia
+práctica, aquella forma declarativa –al diferir de una ley en sentido estricto- evita toda
+posibilidad de iniciativa o de veto del Poder Ejecutivo –aplicables sólo a las leyes- en
+lo referido a reforma constitucional8. En contrario, se sostiene que la necesidad de
+reforma de la Constitución nunca puede ser una declaración, pues esta constituye
+siempre una manifestación o enunciado sin contenido coercitivo, mientras que el acto
+por el que el Congreso promueve la reforma constitucional conlleva obligaciones
+jurídicas cuya exigibilidad sólo puede concebirse si están impuestas en una ley. En
+esta inteligencia, el pronunciamiento sobre la necesidad de reformar no se agota en sí
+
+una Constitución. Para decirlo en términos jurídicos corrientes: una norma tiene efectos meramente “declarativos”
+sobre un derecho humano, y no “constitutivo”, por lo que una vez reconocido un derecho en la Constitución, ello tiene
+carácter irreversible y no podría ser abolido en una reformaEsta idea se encuentra expresada en el primer párrafo de la
+Declaración de Viena y el Programa de Acción: “Los derechos humanos y las libertades fundamentales son patrimonio
+innato de todos los seres humanos; su promoción y protección es responsabilidad primordial de los gobiernos”
+(Conferencia Mundial de las Naciones Unidas sobre Derechos Humanos (157/93). Para Nino los derechos humanos
+derivan de los principios de inviolabilidad, autonomía y dignidad de la persona (Nino, Carlos .S., Ética y derechos
+humanos. Un ensayo de fundamentación, 2ª edición ampliada y revisada, Editorial ASTREAAstrea, Buenos Aires,
+1989, págs. 1/2.
+7
+  A ello se suma la creciente aplicación del principio de progresividad, tanto en tribunales internacionales como por
+parte de la Corte (también llamado prohibición de regresividad o de retroceso), según el cual los estados no puede
+disminuir el grado de satisfacción que han otorgado a ciertos derechos económicos y sociales. Ver: Nikken, Pedro, ”La
+protección de los derechos humanos: haciendo efectiva la progresividad de los derechos económicos, sociales y
+culturales”, Revista IIDH Nº 52 (2010), Instituto Interamericano de Derechos Humanos, San José, Costa Rica, p. 55; y
+CS, “Q. C., S. Y. e/ Gobierno de la Ciudad de Buenos Aires s/amparo", 18/4/2012, y “Asociación de Trabajadores del
+Estado s/ acción de inconstitucionalidad", 18/6/2013.
+8
+ En esta línea, la Corte de los Estados Unidos rechazó en un caso un planteo de inconstitucionalidad de la Enmienda
+11, realizado sobre la base de carecer de promulgación del Presidente. La Corte expresó que el Artículo V no
+contempla ninguna función del Presidente en el proceso de reforma (“Hollingsworth v. Virginia” -3 US (3 Dall.) 378 -
+1798-).
+
+[[PDF p. 4]]
+mismo, sino que genera efectos jurídicos obligacionales como la convocatoria y
+organización de elecciones bajo las modalidades que se establezcan (si la integración
+de la convención es por vía electoral), la reunión de la convención y la actuación de
+esta dentro de los límites temporales y temáticos que el Congreso disponga.
+Asimismo, hay quienes sostienen que se trata de una declaración contenida en una
+ley, y por la cual el Congreso habilita el poder especial de otro órgano (en este caso, el
+de una convención constituyente), tanto como en los casos de la declaración del
+estado de sitio (arts. 23 y 75.29) y la declaración de emergencia pública (art. 76) en
+que se confieren atribuciones especiales al Poder Ejecutivo.
+
+Cabe destacar que todos los procesos de reforma de la Constitución que ha habido
+desde 1853 (a excepción, claro está, de la reforma de 1957 llevada a cabo por un
+gobierno de facto9) fueron impulsados por medio de leyes formales (nº 230 en 1860,
+171 en 1866, 3507 en 1898, 13.233 en 1949 y 24.309 en 1994).
+
+El punto cobró relevancia al cuestionarse la legitimidad de la ley 24.309 que declaró, a
+fines de 1993, la necesidad de la reforma concretada un año después10. Dicha ley fue
+sancionada con un vicio en relación al procedimiento de sanción de las leyes regulado
+en la Constitución (arts. 77 a 84): aprobado el proyecto por la Cámara de Diputados
+(que encomendaba a la Convención, entre muchos temas, el examen sobre el
+acortamiento del mandato de los senadores a cuatro años11), pasó al Senado, donde
+si bien fue aprobado, se eliminó la determinación de aquel período y dejando librada a
+la convención la decisión sobre una “reducción del mandato” de los senadores (sin
+proponer un plazo). La modificación, si bien menor en el contexto de las amplias
+reformas impulsadas por la ley 24.309, determinaba el retorno del proyecto a la
+cámara de origen para su reexamen, cosa que no ocurrió: luego de la media sanción
+del Senado, los presidentes de ambas cámaras emitieron la resolución conjunta dando
+por aprobada la ley, que pasó al Ejecutivo para su promulgación.
+
+Dos diputados nacionales impugnaron la ley en la Justicia, llegando el caso a
+instancia de la Corte Suprema (“Polino, Héctor”, 1994)12. Si bien la mayoría del tribunal
+rechazó la acción de los impugnantes por su falta de legitimación, tres de sus jueces
+consideraron adicionalmente que, al no exigir el artículo 30 CN específicamente una
+ley para que el Congreso habilite la reforma, no resultaban exigibles los requisitos
+constitucionales para su formación y sanción. Agregaron que el hecho de que se
+hubiera elegido el método de formación de las leyes, no implicaba asimilar un acto
+declarativo del Congreso a los de “índole legislativa”, y por ende no resultaba
+imperativo el retorno del proyecto, modificado en una cámara, a su cámara originaria.
+En suma, para esta posición basta para otorgar legitimidad a la declaración del
+Congreso que esta exteriorice de modo genérico la voluntad común de ambas
+cámaras sobre la necesidad de reformar un punto de la Constitución, en este caso era
+
+
+9
+   En esa reforma se pretendió revestir el procedimiento de una aparente legalidad: la necesidad de la reforma fue
+declarada por medio del Decreto-Ley 3838/57 y la convención reformadora fue integrada como resultado de elecciones,
+con la proscripción del peronismo.
+10
+    “Polino, Héctor y otro c/ Poder Ejecutivo (Exp. Feria 5/94) s/amparo” (7/4/94). Los demandantes, invocando su
+condición de ciudadanos y de diputados de la Nación por el Partido Socialista Democrático-Unidad Socialista, habían
+solicitado la declaración de nulidad del proceso constituyente iniciado con la sanción de la ley 24.309, que declaró la
+necesidad de la reforma, con fundamento en su defecto de sanción. La Corte consideró que no existía un “caso”,
+configurado por una afectación concreta y directa de los actores.
+11
+    El artículo 2° de la ley 24.309 establecía el "Núcleo de Coincidencias Básicas": un conjunto de reformas pre-
+acordado por los dos partidos políticos mayoritarios, que se sujetaba a la aprobación o el rechazo entero por parte de la
+Convención. Tal modalidad fue llamada “cláusula cerrojo” y restringió fuertemente la labor de la convención, pues todas
+las reformas incluidas en el “núcleo” (“paquete”) fueron predeterminadas por el Congreso.
+12
+    “Polino, Héctor y otro c/ Poder Ejecutivo (Exp. Feria 5/94) s/amparo” (7/4/94). Los demandantes, invocando su
+condición de ciudadanos y de diputados de la Nación por el Partido Socialista Democrático-Unidad Socialista, habían
+solicitado la declaración de nulidad del proceso constituyente iniciado con la sanción de la ley 24.309, que declaró la
+necesidad de la reforma, con fundamento en su defecto de sanción. La Corte consideró que no existía un “caso”,
+configurado por una afectación concreta y directa de los actores.
+
+[[PDF p. 5]]
+la duración del mandato de los senadores, aunque no coincidan en los detalles de lo
+que debe ser reformado13.
+
+La cuestión puede mirarse desde varios enfoques, que no arrojan una solución
+inequívoca. Desde un punto de vista, podría afirmarse que la reforma de la
+Constitución es el acto de mayor relevancia institucional y política, y por lo tanto
+conviene revestir su procedimiento de las mayores instancias de deliberación posibles.
+Ello haría exigible la sanción de una ley con los requisitos para su formación y sanción
+fijados en los artículos 77 a 84, único mecanismo que asegura la “doble lectura” y el
+“diálogo” deliberativo en las comisiones parlamentarias y entre las cámaras.
+
+Sin embargo, podría replicarse ello sosteniéndose que el procedimiento para la
+sanción de una ley no garantiza la voluntad totalmente coincidente de las dos
+cámaras. La “no coincidencia” puede darse en varios supuestos, según el artículo 81,
+como cuando la cámara de origen insiste en la redacción original de un proyecto
+modificado por la cámara revisora, si cuenta para esa insistencia con igual o mejor
+mayoría absoluta o de dos tercios que aquella con la que se votaron las
+modificaciones en la cámara revisora. En ese caso prevalece la cámara de origen y
+por ende es factible que una disposición se convierta en ley aún con la oposición de
+una de las cámaras. Otro tanto ocurriría en el caso contrario: la cámara revisora puede
+introducir adiciones o correcciones que habrán de mantenerse si son votadas con los
+dos tercios y la cámara de origen no contara con esa mayoría para imponer la versión
+original del proyecto. Vale decir que el procedimiento de sanción de una ley admite –
+como hipótesis- que la voluntad de una cámara prevalezca totalmente sobre la de la
+otra y no exista en rigor una voluntad mínimamente coincidente de las cámaras del
+Congreso (sí la habrá siempre respecto de la aprobación general de una ley
+sancionada, pero no siempre en relación a lo particular).
+
+3. ¿Debe computarse la mayoría de dos tercios sobre la totalidad de los
+miembros o sobre los miembros presentes?
+
+Sin dudas, esta es la cuestión que ha suscitado mayores controversias, pues la
+elección de una u otra opción es decisiva para las posibilidades de una reforma. Para
+ilustrarlo con claridad, en la Cámara de Diputados, los dos tercios de la totalidad de los
+miembros equivale a 172 votos, y a 48 en el Senado, mientras que sobre los miembros
+presentes esas cantidades podrían ser de entre 86 y 172 diputados, y de entre 27 y 48
+senadores, según sea la cantidad de legisladores presentes en cada cámara (dando
+por sentado que sesionan con el quórum de la mayoría absoluta de todos los
+miembros establecido en el art. 64). Vale decir que, suponiendo un presentismo
+promedio en cada cámara, si se siguiese el criterio de los “miembros presentes”
+bastaría el voto de 140 diputados y 38 senadores para llevar adelante una reforma de
+la Constitución Nacional (poco más del 50 % de las bancas totales en cada cámara).
+Ello significa que, de aceptarse esa regla, un partido político que obtuviera aquel
+porcentaje de los votos en dos elecciones parlamentarias sucesivas obtendría los
+números suficientes para avanzar en la reforma constitucional sin necesidad de
+consensuar con las demás fuerzas políticas.
+
+Las reformas de 1860, 1866 y 1949 fueron precedidas por leyes sancionadas con las
+dos terceras partes de los miembros presentes en las cámaras, lo cual fue objeto de
+particular cuestionamiento en la reforma de 1949 respecto de la validez de la ley
+
+
+
+
+13
+     Ver: votos de los jueces Nazareno, Moliné O’Connor y Boggiano en el caso “Polino” (1994).
+
+[[PDF p. 6]]
+13.23314. A su vez, las reformas de 1898 y 1994 fueron impulsadas por leyes
+sancionadas sobre la totalidad de los miembros15.
+
+En favor de computar los dos tercios sobre los miembros presentes, se sostiene que:
+1) la Constitución establece expresamente los casos en que el cómputo de las
+mayorías debe realizarse sobre la totalidad de los miembros (en los arts. 75 incs. 2º,
+3º, 22º y 24º; 85; 99 inciso 3º; 100 y 114), precisión que no figura en este caso; 2) la
+práctica seguida en los procesos de reforma en los Estados Unidos y su convalidación
+por la Corte norteamericana en los “National Prohibition Cases” (1920)16.
+
+Frente al primer argumento se podría replicar, con idéntica lógica, que el texto
+constitucional también precisa los casos en que es suficiente determinada mayoría
+sobre los miembros presentes, como en los arts. 53 y 59 en relación a la acusación y
+juzgamiento en el juicio político, en el artículo 81 sobre el procedimiento legislativo en
+general y en el art. 99 inciso 4º respecto del acuerdo del Senado para la designación
+de jueces, por lo que el silencio respecto de la mayoría exigida en el art. 30 llevaría a
+concluir que se ha optado por el cómputo sobre la totalidad.
+
+Por su parte, y en la misma línea de buscar la armonía y la coherencia entre las
+disposiciones de la Constitución, el artículo 75 inciso 22º parecería arrojar una pauta
+inequívoca sobre la mayoría requerida en el art. 30. Aquella disposición exige las dos
+terceras partes sobre la totalidad de miembros de las cámaras para otorgar el rango
+constitucional a los tratados internacionales sobre derechos humanos, que es acaso la
+situación más afín o análoga a la reforma constitucional17. Por cierto muchos autores
+creen ver en este mecanismo una vía de reforma constitucional diferente a la del
+artículo 30, ya que se habilita al Congreso para que con su sola voluntad –sin
+intervención de una convención constituyente- determine una ampliación de la
+Constitución, si bien no estrictamente de su texto, de la normativa que tiene su valor
+normativo y supremacía. De ello se deduce que la mayoría que se requiere para
+“constitucionalizar” los mencionados tratados internacionales sea –con mayor razón
+aún- la misma que estipula el artículo 30 para enmendar formalmente la Constitución.
+
+Por último, cabe tener en cuenta también que la Constitución impone las mayorías
+especiales sobre la totalidad de miembros de cada cámara para muchas de las leyes
+reglamentarias de la Constitución, como por ejemplo: arts. 39 y 40, para las leyes
+reglamentarias de la iniciativa y de la consulta popular; arts. 75 incs. 3º y 4º para el
+régimen de coparticipación federal de impuestos; art. 77 en relación a las leyes sobre
+régimen electoral y partidos políticos; art. 99 inc. 3º respecto de la reglamentación del
+trámite de intervención parlamentaria de control de los decretos de necesidad y
+
+14
+   Su constitucionalidad fue defendida en el seno de la convención constituyente por el principal autor intelectual de la
+Constitución de 1949, Arturo Enrique Sampay. Sostuvo allí, de acuerdo con una interpretación literal del art. 30, que al
+no exigirse un quórum extraordinario, debía entenderse que los dos tercios se computaban sobre los presentes.
+15
+   Cuando el Partido Justicialista tomó la decisión política de avanzar con la reforma constitucional, sus legisladores
+respaldaron un proyecto de ley que reglamentaba el artículo 30 de la Constitución y establecía que la mayoría de dos
+tercios para declarar la necesidad de la reforma se refería a los miembros presente en ambas cámaras, criterio que le
+permitía avanzar en la iniciativa sin necesidad de acordar con la Unión Cívica Radical, principal partido de oposición en
+ambas cámaras (el autor de aquel recordado proyecto fue el diputado Francisco de Durañona y Vedia, de la Unión de
+Centro Democrático). En esas condiciones el radicalismo accedió a apoyar la reforma en el Congreso, imponiendo
+algunos de sus contenidos, por lo que finalmente la ley contó con los dos tercios de la totalidad de los miembros en
+ambas cámaras.
+16
+   253 U.S. 350 (1920). La Enmienda 18 fue aprobada por el Congreso en 1917, quedando luego derogada por la
+enmienda 21 de 1933. Establecía la prohibición de la fabricación, venta o transporte de bebidas alcohólicas
+(intoxicating liquors) dentro de los Estados Unidos, así como su importación o exportación. En cumplimiento de la
+enmienda el Congreso sancionó una ley que precisaba las prohibiciones, denominada “ley seca”, “Volstead Act” o
+sencillamente “National Prohibition Law”. La Corte resolvió conjuntamente siete casos en los que se había cuestionado
+la Enmienda 18 y la ley, a los que se llamó “National Prohibition Cases”, y en los que entre otras cosas se pronunció
+brevemente sobre la mayoría necesaria para reformar la Constitución.
+17
+   La reforma de 1994 ha otorgado “jerarquía constitucional” a los tratados internacionales enumerados en el artículo 75
+inciso 22º, facultando a su vez al Congreso para asignar dicha jerarquía a otros tratados sobre derechos humanos no
+previstos allí, con el voto de las dos terceras partes de la totalidad de ambas cámaras.
+
+[[PDF p. 7]]
+urgencia; art. 100 para la moción de censura y remoción del Jefe de Gabinete; arts. 85
+y 114 para las leyes de organización de la Auditoría General de la Nación y del
+Consejo de la Magistratura y el Jurado de Enjuiciamiento de Jueces. De ello se
+deduce que en el caso de las decisiones institucionales y normas orgánicas más
+importantes –la Constitución lo es- la regla es la de exigir mayorías especiales sobre el
+total de miembros en el Congreso.
+
+En relación a los antecedentes norteamericanos cabe comentar dos cosas: en primer
+lugar, la práctica de “los miembros presentes” no es trasladable sin más a nuestro
+sistema, porque en los Estados Unidos la participación del Congreso se complementa
+luego con la ratificación de los estados, que debe darse en gran número para que la
+reforma entre en vigencia. Y por otro lado, el pronunciamiento de la Corte en los
+National Prohibition Cases constituye una afirmación pocos menos que dogmática,
+pues carece de fundamento en alguna interpretación del Artículo V. De hecho, el fallo
+no ofrece ninguna explicación al respecto.
+
+Con independencia de lo anterior y de cómo deba computarse la mayoría que fija el
+art. 30 de acuerdo con los criterios de interpretación normativa, cabe preguntarse
+acerca de las ventajas y desventajas de optar por una u otra solución. De acuerdo con
+una primera idea muy elemental, la mayoría agravada (dos tercios sobre la totalidad
+de los miembros) daría como resultado una reforma ampliamente apoyada por el arco
+político, y por ende más perdurable y resistente a los cambios de coyuntura y a los
+impulsos reformistas de mayorías circunstanciales en el gobierno. Desde otra mirada,
+la exigencia de tal mayoría otorga un poder de veto a minorías políticas o grupos
+minoritarios protegidos por la Constitución. Por el contrario, se sostiene como
+desventaja de la mayoría agravada una excesiva rigidez de la Constitución, poco
+permeable a los cambios sociales y al propio perfeccionamiento de la Constitución:
+mejoras en el diseño del poder y avances en el reconocimiento de derechos.
+
+4. ¿Cómo debe integrarse la Convención reformadora?
+
+Otro aspecto no previsto en la cláusula sobre la reforma constitucional es el vinculado
+a la integración de la Convención: la forma de convocatoria, el número de miembros y
+los criterios de representación. ¿Cómo debería combinarse la representación “federal”
+de los estados con la “democrática” de la población? ¿Cuál debiera ser el sistema
+electoral aplicable?
+
+La ley 13.233 que habilitó la reforma de 1949 convocó a elecciones para los
+integrantes de la convención, en número y forma iguales a la elección de diputados
+nacionales.
+
+En 1994, la Convención estuvo integrada por un número de convencionales
+equivalente a los diputados y senadores que se elegían en cada distrito electoral del
+país, es decir, 305 miembros en total, y con elección directa y representación
+proporcional conforme con el sistema D'Hont.
+
+5. ¿Corresponde que el Congreso se limite a declarar la necesidad de la reforma,
+fijando los puntos que deben ser tratados por la Convención, o puede
+determinar los contenidos a reformar reservando una función de mero refrendo
+para la Convención?
+
+La ley 13.233 que habilitó la reforma de 1949 declaró “necesaria la revisión y reforma
+de la Constitución nacional, a los efectos de suprimir, modificar, agregar y corregir sus
+disposiciones, para la mejor defensa de los derechos del pueblo y del bienestar de la
+Nación”, dejando enteramente librada a la Convención la iniciativa y decisión sobre las
+reformas.
+
+[[PDF p. 8]]
+Por el contrario, en 1994, la ley 24.309 que declaró la necesidad de reformar la
+“segunda parte” de la Constitución, determinó buena parte de la labor de la
+convención. Aquella reforma tuvo como antecedente fundamental el acuerdo político
+entre el justicialismo y el radicalismo, liderados por el entonces Presidente Carlos
+Menem y el ex presidente Raúl Alfonsín. Los primeros estaban dispuestos a llevar
+adelante la reforma, con la finalidad principal de remover la cláusula que impedía la
+reelección presidencial que inhabilitaba al presidente Menem a presentarse a
+elecciones en 1995. Para ello, pretendían aprobar la necesidad de la reforma con la
+mayoría de los dos tercios de los miembros presentes en ambas cámaras o forzarla
+por medio de una consulta popular18. En esas condiciones el radicalismo accedió a
+apoyar la reforma en el Congreso, siempre que fueran negociadas y convenidas las
+enmiendas19. El resultado del acuerdo fue instrumentado en el llamado “Núcleo de
+Coincidencias Básicas”, un documento con trece reformas firmado por los dos líderes
+partidarios en la residencia de Olivos el 13 de diciembre de 1993, y que contenía con
+precisión cuáles serían las modificaciones a aprobar en la convención. El núcleo fue
+incorporado al texto de la ley 24.309 –sancionada en la última semana de diciembre
+de aquel año- cuyo artículo 5º impuso una cuestionable limitación a la convención
+constituyente al establecer que los contenidos del núcleo debían ser “votados
+conjuntamente, entendiéndose que la votación afirmativa importará la incorporación
+constitucional de la totalidad de los mismos, en tanto que la negativa importará el
+rechazo en su conjunto de dicha normas y la subsistencia de los textos
+constitucionales vigentes". La disposición fue posteriormente defendida por los 213
+convencionales justicialistas y radicales, y rechazada por los 92 restantes, e
+incorporada al reglamento de la Convención. Asimismo, la ley habilitó diversos temas
+para su libre debate y aprobación por la convención (art. 3º de la ley 24.309).
+
+La modalidad dispuesta para el núcleo –llamada “cláusula cerrojo”- puso una vez más
+en discusión los poderes del Congreso para limitar o determinar la actividad de la
+convención constituyente.
+
+Por un lado se sostiene que el Congreso carece de facultades para condicionar la
+tarea de la Convención, que es soberana en la deliberación y decisión de las
+modificaciones que han sido declaradas necesarias por el Congreso. De otro modo, el
+Congreso sustituiría a la convención, convirtiéndose en el verdadero órgano
+reformador.
+
+La Corte abordó someramente el problema en tres precedentes: “Rios” (1993),
+“Romero Feris” (1994) y “Fayt” (1999). En el primero, un ciudadano cuestionó una
+reforma constitucional provincial, en la cual, bajo la habilitación de modificar el
+“régimen municipal” la convención había creado los cargos de viceintendente y de
+convencionales constituyentes municipales, lo cual el actor consideraba excesivo en
+relación a las facultades otorgadas a la convención. La Corte estimó, brevemente, que
+si bien las enmiendas incorporadas no se desprendían expresamente de la ley
+habilitante, sí surgían implícitamente de ella, por la amplitud con la que habían sido
+sometidas a la convención las cuestiones atinentes al régimen municipal. Ello –
+sostuvo la Corte-, sin que importe afirmar que los poderes de la convención
+constituyente sean ilimitados, porque el ámbito de aquellos se halla circunscripto por
+los términos de la norma que la convoca y le atribuye competencia. Agrega el fallo que
+“las facultades atribuidas a las convenciones constituyentes están condicionadas al
+examen y crítica de los puntos sometidos a su resolución” (CS, "Rios”, 1993).
+
+
+
+18
+   El Decreto 2181/93 convocó a una consulta popular voluntaria para el 21 de noviembre de aquel año, a fin de que la
+ciudadanía se pronuncie sobre la necesidad de reformar la Constitución, con el evidente propósito de inclinar –ante un
+eventual resultado positivo- a los legisladores indecisos.
+19
+   García Lema. Alberto, La reforma por dentro, Planeta, Buenos Aires, 1994.
+
+[[PDF p. 9]]
+En el caso “Romero Feris” (1994), la Corte rechazó la acción del actor –en su calidad
+de convencional constituyente en 1994- que perseguía la declaración de
+inconstitucionalidad del art. 5º de la ley 24.309 en cuanto imponía el voto conjunto del
+“Núcleo de Coincidencias Básicas”, alterando su labor de convencional, al imponerle
+votar una pluralidad de reformas en conjunto sin permitir la posibilidad de apoyar unas
+y desechar otras. La mayoría de la Corte declaró abstracto el caso en razón de haber
+aprobado la propia convención aquel mecanismo de votación del “núcleo” en su
+reglamento interno. En su disidencia, el juez Fayt sí se refirió al problema, sosteniendo
+que el artículo 30 circunscribe la actividad preconstituyente del Congreso a declarar la
+necesidad de la reforma, mas no lo autoriza a asumir funciones constituyentes, ni a
+someter a referéndum de la Convención bloques de reformas, pues aquella es “una
+asamblea deliberante, integrada por representantes del cuerpo electoral de la
+República -el pueblo, en sentido político-, quien los elige y les confiere autoridad de
+convencionales constituyentes para discutir y aprobar o rechazar con su voto, las
+reformas propuestas por el Congreso”.
+
+Por último, en el caso “Fayt” se declaró la nulidad del artículo 99 inciso 4º, párrafo 3º
+incorporado en el reforma de 1994 (que fija la necesidad de un nuevo nombramiento
+en el caso de los jueces federales al cumplir la edad de 75 años). Para así decidirlo, la
+Corte consideró que la convención había desbordado el cometido delimitado por el
+Congreso en el art. 2 de la ley 24.309 ("Núcleo de Coincidencias Básicas"), que
+contemplaba como materia de revisión únicamente lo relativo a la "designación de los
+jueces federales", y no a la limitación de su mandato o restricción a su inamovilidad
+vitalicia consagrada en el art. 110, cuya modificación no fue prevista.

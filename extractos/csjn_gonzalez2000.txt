@@ -1,0 +1,1711 @@
+# fuente: Unidad16/3_CSJN - 2000 - González de Delgado.pdf (idéntico a Unidad15/CSJN - 2000 - González de Delgado.pdf, mismo md5)
+# modo: texto
+# origen: copia de corpus/texto/csjn_gonzalez2000.txt (texto nativo, nivel A)
+# corregido: se quitaron 24 renglones en blanco espurios que la capa de texto intercala dentro de párrafos (PDF pp. 8-9, 11-13, 19-20: votos de Petracchi), que partían frases y palabras cortadas con guion. Ningún cambio de texto
+# paginacion: se cita por voto y considerando; el PDF no trae el dictamen del Procurador General (ver csjn_gonzalez2000_dictamen.txt)
+# limpieza: carátula y continuaciones de notas en extractos/limpieza/csjn_gonzalez2000.txt
+
+[[PDF p. 1]]
+                              G. 653. XXXIII.
+                              RECURSO DE HECHO
+                              González de Delgado, Cristina y otros c/
+                              Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+            Buenos Aires, 19 de septiembre de 2000.
+     Vistos los autos: “Recurso de hecho deducido por los
+actores en la causa González de Delgado, Cristina y otros c/
+Universidad Nacional de Córdoba”, para decidir sobre su pro-
+cedencia.
+     Considerando:
+            Que la Cámara Federal de Apelaciones de Córdoba
+-por mayoría de votos-, al revocar la decisión de la instan-
+cia anterior, rechazó la acción de amparo deducida por padres
+de alumnos del Colegio Nacional de Monserrat, y declaró la
+validez de la ordenanza 2/97 del Consejo Superior de la Uni-
+versidad Nacional de Córdoba, en cuanto había ordenado que
+las inscripciones en ese establecimiento educativo se efec-
+tuaran sin distinción de sexo. Contra ese pronunciamiento los
+actores dedujeron recurso extraordinario, cuya denegación dio
+origen a la presente queja.
+            Que el remedio federal interpuesto ha sido adecua-
+damente tratado por el señor Procurador General de la Nación,
+en el dictamen que antecede, a cuyos fundamentos y conclusio-
+nes corresponde remitirse por razones de brevedad.
+     Por ello, se hace lugar a la queja, se declara formal-
+mente admisible el recurso extraordinario y se confirma la
+sentencia apelada. Con costas. Notifíquese y devuélvase con
+el principal. JULIO S. NAZARENO - EDUARDO MOLINE O’CONNOR -
+CARLOS S. FAYT (según su voto)- AUGUSTO CESAR BELLUSCIO -
+ENRIQUE SANTIAGO PETRACCHI (según su voto)- ANTONIO BOGGIANO
+(según su voto)- GUILLERMO A. F. LOPEZ - GUSTAVO A. BOSSERT
+(según su voto)- ADOLFO ROBERTO VAZQUEZ (según su voto).
+ES COPIA
+                                                   VO-//-
+
+
+
+
+                               -1-
+
+[[PDF p. 2]]
+-2-
+
+[[PDF p. 3]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+-//-TO DEL SEÑOR MINISTRO DOCTOR DON CARLOS S. FAYT
+     Considerando:
+          Que el infrascripto coincide con el voto del juez
+Bossert, con excepción del considerando 7°, el que expresa en
+los siguientes términos.
+          7°) Que la invocación por parte de los recurrentes
+sobre la existencia de una inveterada costumbre, que vedaba
+el ingreso de mujeres como estudiantes, a cuyo amparo se ha-
+brían adquirido derechos que no podrían ser violados por una
+reglamentación posterior no resiste el menor análisis.
+          Nadie tiene un derecho adquirido al mantenimiento
+de leyes, reglamentaciones ni -consecuentemente- costumbres
+(confr. Fallos: 321:1888; 322:270, entre muchos otros).
+          Además, las ofertas educativas estatales suponen,
+no sólo el reconocimiento del derecho de aprender a través de
+la prestación del servicio educativo, sino también un benefi-
+cio social, y es en función de tal beneficio que el Estado
+puede legítimamente limitarlas o restringirlas, a través de
+la modificación de los planes de estudio, circunstancia que
+no altera el derecho de educarse de los habitantes, ya que,
+como sucede en el sub examine, respetan la autonomía perso-
+nal, la promoción del proceso democrático y la igualdad de
+oportunidades sin discriminaciones, de conformidad con el
+inc. 19 del art. 75 de la Constitución Nacional y los demás
+derechos que la Ley Federal de Educación reconoce expresamen-
+te (confr. Fallos: 322:270).
+          En esas condiciones, el cumplimiento de las obliga-
+ciones estatales respecto de la enseñanza no pueden descono-
+cer la evolución que en más de tres siglos se ha operado, no
+ya con relación a la mujer -quien hoy innegablemente tiene
+"derecho a tener derechos"- sino a la organización social en
+
+
+                               -3-
+
+[[PDF p. 4]]
+si misma considerada.
+          Así, la Primera Guerra Mundial no solamente arrasó
+vidas y produjo heridas, sino que su turbulencia modificó el
+orden social y económico, provocando, entre otras cosas, la
+incorporación de la mujer al proceso laboral. La conciencia
+revolucionaria enfrentó la conciencia de la burguesía domi-
+nante exigiendo justicia social y, en consecuencia, protec-
+ción al trabajo de los menores y de las mujeres, así como a
+la invalidez y el desempleo. Entrando ya en la Segunda Guerra
+Mundial, puede mencionarse entre sus consecuencias la parti-
+cipación de la mujer, primero en servicios auxiliares en sa-
+nidad, transportes públicos y organismos militares, y luego,
+en los momentos cruciales, como los de la batalla de Stalin-
+grado, combatiendo como artilleras.
+          Por su parte, en Francia, la rebelión estudiantil
+iniciada el 3 de mayo de 1968 adoptó actitudes cercanas a las
+revolucionarias, contando con el apoyo de los trabajadores,
+los empleados públicos y parte de los habitantes de pueblos y
+ciudades de toda la Nación. La rebelión de los jóvenes pre-
+tendía terminar con los tabúes de la sociedad burguesa, se
+tratara de la familia, el sexo, el trabajo, y pretendía lo-
+grar, además, la emancipación de la mujer y la plena partici-
+pación de todos en cada cuestión relacionada con la vida hu-
+mana.
+          A la evolución consecuente de la situación jurídica
+de la mujer no fue ajeno nuestro país, tanto respecto de su
+capacidad civil como de sus derechos políticos, cuestión que
+-por conocida- no necesita ser recordada.
+          Ahora bien, no puede pensarse que usos de tiempos
+anteriores a estos profundos cambios sociales y políticos
+
+
+                             -4-
+
+[[PDF p. 5]]
+                              G. 653. XXXIII.
+                              RECURSO DE HECHO
+                              González de Delgado, Cristina y otros c/
+                              Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+puedan sin más generar una suerte de estatuto inmodificable
+en la educación media de nuestros jóvenes, privando a las
+mujeres de acceder a niveles calificados de ésta e impidiendo
+a los varones -sólo a otros distintos de los hijos de los
+actores como más adelante se indicará- la posibilidad de com-
+partir ese tramo de la vida con las "excluidas".
+            La educación que brindan los colegios universita-
+rios ha sido entendida como "el secreto, el método de la ver-
+dadera disciplina que asegure los beneficios combinados del
+colegio y de la universidad", "la llave de oro para develar
+el ansiado tesoro educativo que busca la República y que, sin
+definirlo, la conciencia nacional anhela para la selección de
+sus elementos directivos", en cuyo ámbito "se desarrolla el
+lazo fraternal y solidario...que es el de la convicción de un
+destino común en la gran asociación política que es la pa-
+tria" (conf. Joaquín V. González, "Universidades y Colegios",
+conferencia del ministro de Justicia e Instrucción Pública en
+el aula "Estrada" del Colegio Nacional Central de Buenos Ai-
+res antes de su demolición, el 5 de julio de 1905, págs. 249
+y sgtes.). De allí la importancia de admitir a esta altura de
+los tiempos que esta calidad de educación no cuente con limi-
+tación alguna en razón del sexo; por el contrario, y como se
+señaló ya en la oportunidad recién indicada (conf. op. y loc.
+cit.), la selección de quienes habrán de recibir esa mejor
+formación destinada a conformar el grupo directivo, "no es
+deliberada respecto a las personas, ni puede serlo en manos
+del Estado: éste funda el sistema, le imprime movimientos, y
+el mecanismo por si sólo devuelve al artífice el producto
+depurado". Esta conclusión es hoy, a la luz de la historia
+reciente,   predicable   respecto    de   criterios   sexistas    pues
+"además de que las ideas antiguas respecto al sentido general
+
+
+                               -5-
+
+[[PDF p. 6]]
+de la educación y de la moral en particular, han cambiado,
+las condiciones de la vida son también diferentes, y como el
+aire, penetran y transforman hasta los más recónditos retiros
+donde la vida contemplativa tiende todavía a perpetuarse"
+(op. y loc. cit.).
+     Por ello, de conformidad con lo dictaminado por el señor
+Procurador General de la Nación, se hace lugar a la queja, se
+declara admisible el recurso extraordinario y se confirma la
+sentencia apelada en cuanto fue materia de recurso. Con cos-
+tas. Agréguese la queja al principal. Notifíquese y devuélva-
+se. CARLOS S. FAYT.
+ES COPIA
+
+
+                                                  VO-//-
+
+
+
+
+                             -6-
+
+[[PDF p. 7]]
+                             G. 653. XXXIII.
+                             RECURSO DE HECHO
+                             González de Delgado, Cristina y otros c/
+                             Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+-//-TO DEL SEÑOR MINISTRO DOCTOR DON ENRIQUE SANTIAGO
+PETRACCHI
+     Considerando:
+            1°) Que comparto la opinión del señor Procurador
+General expuesta en el dictamen que antecede.
+      Sin embargo, creo necesario expedirme sobre los aspec-
+tos constitucionales que en el caso se suscitan y que no apa-
+recen examinados en dicho dictamen.
+            Al respecto, cabe señalar que en los considerandos
+de la ordenanza 2/97 de la Universidad Nacional de Córdoba
+(en cuyo art. 1° se dispone que las inscripciones en el Cole-
+gio Nacional de Monserrat se efectuarán sin distinción de
+sexo) se aduce que la medida adoptada tiende a evitar que se
+menoscaben los principios de igualdad y de no discriminación
+a las mujeres garantizados por diversas normas constituciona-
+les, los que resultan lesionados cuando se obstaculiza el
+acceso de aquéllas a la misma experiencia educativa que se
+ofrece a los varones, pues se impide así favorecer el enri-
+quecimiento de la personalidad de los educandos de ambos se-
+xos mediante la coeducación y la convivencia.
+      Dadas estas circunstancias, importaría dictar una sen-
+tencia incompleta, y empequeñecer el asunto, si el caso se
+resolviera con el solo fundamento de que el Consejo Superior
+de la Universidad Nacional de Córdoba ha actuado con compe-
+tencia para dictar la ordenanza 2/97 y que, por tanto, no
+corresponde expedirse sobre el mérito, oportunidad o conve-
+niencia de ella. Esta última afirmación es, sin duda, sufi-
+ciente para el control de legalidad de dicha ordenanza; pero,
+no responde a la cuestión básica que se plantea en estas ac-
+tuaciones. En efecto, ¿basta con justificar la decisión de la
+Universidad Nacional de Córdoba en los términos expuestos o,
+
+
+                               -7-
+
+[[PDF p. 8]]
+además, resulta indispensable determinar si dicha decisión
+(hacer mixta la enseñanza en el colegio Monserrat) fue la
+única compatible con los principios constitucionales antes
+mencionados?.
+            En los párrafos que siguen intentaré contestar esta
+pregunta.
+            2°) Que la Reforma Constitucional de 1994 dio je-
+rarquía constitucional a diversos tratados y convenciones
+(art. 75, inc. 22 de la Constitución Nacional) que, junto con
+la Constitución Nacional, configuran el bloque de la consti-
+tucionalidad argentina. A partir de entonces son muchas las
+normas de ese rango que nos rigen y en las que se reconoce el
+derecho a la igualdad ante la ley, se prohíbe la discrimina-
+ción y se garantiza el acceso a la educación.
+            La igualdad ante la ley surge del art. 16 de la
+Constitución Nacional; de la Declaración Americana de los
+Derechos y Deberes del Hombre (art. II); de la Declaración
+Universal de Derechos Humanos (art. 7); de la Convención Ame-
+ricana sobre Derechos Humanos (art. 24); del Pacto Interna-
+cional de Derechos Civiles y Políticos (art. 26); de la Con-
+vención Internacional sobre la Eliminación de todas las For-
+mas de Discriminación contra la Mujer (art. 15, "...a la mu-
+jer la igualdad con el hombre ante la ley").
+            La prohibición de la discriminación está consagrada
+expresamente en la Declaración Americana de los Derechos y
+Deberes del Hombre (art. II: "...sin distinción de raza, se-
+xo, idioma, credo..."); en la Declaración Universal de Dere-
+chos Humanos (art. 7, que veda "toda discriminación", sin
+aditamentos); en la Convención Americana sobre Derechos Huma-
+nos (art. 24 "...sin discriminación, a igual protección de la
+
+
+                               -8-
+
+[[PDF p. 9]]
+                              G. 653. XXXIII.
+                              RECURSO DE HECHO
+                              González de Delgado, Cristina y otros c/
+                              Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+ley"); en el Pacto Internacional de Derechos Civiles y Polí-
+ticos (art. 26: "...contra cualquier discriminación por moti-
+vos de raza, color, sexo, idioma, religión..."); y en la Con-
+vención Internacional sobre la Eliminación de todas las For-
+mas de Discriminación contra la Mujer (en su art. 1° se defi-
+ne el sentido de la expresión "discriminación contra la mu-
+jer").
+             El derecho a la educación está contemplado en el
+art. 14 de la Constitución Nacional; en el art. XII de la
+Declaración Americana sobre los Derechos y Deberes del Hombre
+(con expresa mención a la "igualdad de oportunidades en todos
+los casos"); en el art. 26 de la Declaración Universal de
+Derechos Humanos; en el art. 13 del Pacto Internacional de
+Derechos Económicos, Sociales y Culturales (en el apartado
+2.b. se expresa que la enseñanza secundaria "debe ser genera-
+lizada y hacerse accesible a todos"); en el art. 10 de la
+Convención Internacional sobre la Eliminación de todas las
+Formas de Discriminación contra la Mujer ("...eliminar la
+discriminación contra la mujer, a fin de asegurarle la igual-
+dad de derechos con el hombre en la esfera de la educa-
+ción...").
+             3°) Que es tarea de historiadores y sociólogos elu-
+cidar por qué un texto como el art. 16 de la Constitución
+Nacional ("Todos sus habitantes son iguales ante la ley...")
+pudo coexistir durante largo tiempo con otras normas de infe-
+rior jerarquía que hoy parecen claramente discriminatorias
+contra la mujer. Así, por ejemplo, el delito penal de adulte-
+rio era distinto según lo cometiera la esposa o el marido; se
+consideró que la mujer casada tenía incapacidad de hecho re-
+lativa; la esposa no podía ejercer el comercio si no contaba
+con autorización del marido o estaba separada de bienes; en
+
+
+                                -9-
+
+[[PDF p. 10]]
+el área del derecho público no se les reconocía a las mujeres
+el derecho a votar, etc.
+                 Las normas infraconstitucionales fueron cambiando y
+adecuándose progresivamente a los requerimientos igualita-
+rios. El proceso adelantó con lentitud, porque eran fuertes
+las resistencias que presentaba una estructura social en la
+que florecía y medraba una impronta decididamente patriarcal.
+Inclusive la importante herencia que el proceso revoluciona-
+rio francés de fines del siglo XVIII dejó para jóvenes nacio-
+nes como la nuestra tuvo, en esta materia, sus condiciona-
+mientos. Se ha escrito (quizá con algo de voluntaria exagera-
+ción) que la revolución de 1789 fue hecha por los hombres y
+para los hombres (vid. Simler, Philippe, "L'évolution du
+droit des régimes matrimoniaux en France de 1804 á 1809, ou
+la conquête de l'egalité", pág. 555, en "Le Droit de la fami-
+lle en Europe", Strasbourg, Presses Universitaires, 1992).
+                 Ocurre que la garantía de la igualdad no es una
+fórmula rígida e inmutable; tampoco es definible. Si preten-
+diéramos definirla sólo podríamos ofrecer un retrato borroso
+de las convenciones sociales y las creencias vigentes en una
+época determinada.
+                 Antes bien, como decía el juez Frankfurter es me-
+nester ajustar el significado de dicha garantía a los cambios
+de los tiempos, a las transformaciones de los puntos de vista
+y de las circunstancias exteriores1. Uno de los efectos de la
+variación en los sentimientos de los hombres acerca de lo que
+es correcto y justo es, precisamente, su relevancia en el
+juzgamiento de cuándo una discriminación niega la igual pro-
+
+
+             1
+                “One learns from time”, observaba el juez Holmes, “an amiable latitude with regard to
+    beliefs and tastes”.
+
+                                                    -10-
+
+[[PDF p. 11]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+tección ante la ley.
+           4°) Que, de todos modos, hogaño le basta a esta
+Corte resaltar la decidida voluntad de los constituyentes de
+1994 de incorporar, con rango constitucional, una serie de
+convenciones y tratados en los que explícitamente se condena
+la discriminación en todas sus formas. Entre esos cuerpos
+normativos existe uno (la Convención sobre la Eliminación de
+todas las Formas de Discriminación contra la Mujer, aprobada
+por ley 23.179) dedicado expresamente a la cuestión que me
+ocupa: la discriminación en razón del sexo.
+           En su art. 1° se caracteriza a la discriminación
+contra la mujer como "toda distinción, exclusión o restric-
+ción basada en el sexo que tenga por objeto o por resultado
+menoscabar o anular el reconocimiento, goce o ejercicio por
+la mujer, independientemente de su estado civil, sobre la
+base de la igualdad del hombre y la mujer, de los derechos
+humanos y las libertades fundamentales en las esferas políti-
+ca, económica, social, cultural y civil o en cualquier otra
+esfera".
+           En el art. 2° se detallan varias obligaciones de
+los estados partes, entre las cuales están las de:
+     "b) Adoptar medidas adecuadas, legislativas y de otro
+carácter, con las sanciones correspondientes, que prohíban
+toda discriminación contra la mujer;
+     c) Establecer la protección jurídica de los derechos de
+la mujer sobre una base de igualdad con los del hombre y ga-
+rantizar, por conducto de los tribunales nacionales o compe-
+tentes y de otras instituciones públicas, la protección efec-
+tiva de la mujer contra todo acto de discriminación;
+     d) Abstenerse de incurrir en todo acto o práctica de
+
+
+
+                             -11-
+
+[[PDF p. 12]]
+discriminación contra la mujer y velar porque las autoridades
+e instituciones públicas actúen de conformidad con esta obli-
+gación"; (las negritas no están en el original).
+          El art. 10 está dedicado a la igualdad de derechos
+de la mujer con el hombre en la esfera de la educación y en
+particular, para asegurar:
+     "a)...acceso a los estudios y obtención de diplomas en
+las instituciones de enseñanza de todas las categorías...;
+     b) Acceso a los mismos programas de estudios y los mis-
+mos exámenes, personal docente del mismo nivel profesional y
+locales y equipos escolares de la misma calidad;
+     c) La eliminación de todo concepto estereotipado de los
+papeles masculino y femenino en todos los niveles y en todas
+las formas de enseñanza, mediante el estímulo de la educación
+mixta y de otros tipos de educación que contribuyan a lograr
+este objetivo y, en particular, mediante la modificación de
+los libros y programas escolares y la adaptación de los méto-
+dos de enseñanza"; (las negritas no están en el original).
+          5°) Que en esta materia cabe decir (como en otras)
+que cuanto más detallado es el texto tanto menos resulta ne-
+cesario recurrir a teorías abstractas, morales y políticas
+(vid. Barendt, Eric, "Freedom of Speech" Clarendon Press-
+Oxford, 1996, pág. 36).
+          Si bien es cierto que debe tenerse presente lo re-
+suelto en otras jurisdicciones (nacionales o internacionales)
+sobre artículos análogos al del sub lite, la contundencia de
+las disposiciones transcriptas -de jerarquía constitucional-
+es más que suficiente para encontrar en ellas la solución del
+caso.
+
+
+
+                             -12-
+
+[[PDF p. 13]]
+                                                  G. 653. XXXIII.
+                                                  RECURSO DE HECHO
+                                                  González de Delgado, Cristina y otros c/
+                                                  Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+                 En efecto, comprobado que el Colegio Nacional de
+Monserrat -cuyos antecedentes y méritos, como los de otros
+secundarios similares, también universitarios2, están fuera de
+toda duda- ofrecía educación sólo a los alumnos varones (si
+la exclusión de las mujeres era de facto o de jure no reviste
+mayor importancia, porque el "wild fact" -como diría William
+James- era que las mujeres no podían inscribirse) se imponen,
+a la luz de la citada convención, varias conclusiones:
+     A) La existencia de un único Colegio Nacional (el Monse-
+rrat) dependiente de la U.N.C., que escolarizaba exclusiva-
+mente a alumnos varones, sin que exista otro bachillerato de
+calidad similar3, dedicado a alumnas mujeres; por lo cual, si
+la obligación fuera enrasar, su cumplimiento sólo sería con-
+vincente si se hiciera por arriba.
+     B) Tal situación resulta violatoria del art. 10, incs. a
+y b de la citada convención y de las demás normas antidiscri-
+minatorias.
+     C) La Universidad Nacional de Córdoba, "institución pú-
+blica" en el sentido del art. 2°, incs. c y d de la conven-
+ción, era competente para remediar la discriminación que di-
+cha situación configuraba (conf. los artículos citados).
+     D) El planteo de la alternativa: a) creación de un cole-
+gio similar femenino, b) educación mixta en el ya existente,
+únicamente es concebible desde un punto de vista estrictamen-
+te lógico, pues sólo el último término de dicha alternativa
+resulta compatible con la obligación impuesta en el inc. c
+del art. 10 de la varias veces citada convención. Así lo
+
+
+
+             2
+               Resulta destacable que el Colegio Nacional de Buenos Aires (probablemente con una
+    antigüedad más madura) tenga alumnos de los dos sexos desde el año1958.
+             3
+               Existe en Córdoba otro colegio secundario dependiente de la UNC (el Belgrano) del
+    cual egresan peritos mercantiles que, al igual que el Carlos Pellegrini de la ciudad de Buenos
+    Aires, imparte educación mixta.
+
+                                                    -13-
+
+[[PDF p. 14]]
+pienso ya que en la norma se establece claramente que los
+estados partes deben procurar "la eliminación de todo concep-
+to estereotipado de los papeles masculino y femenino en todos
+los niveles y en todas las formas de enseñanza, mediante el
+estímulo de la educación mixta". De tal suerte, el aludido
+mandato no aparecería cumplido con la creación de un colegio
+similar (o aun de superior calidad en la enseñanza), también
+diferenciado por género y dedicado a alumnas mujeres.
+      E) La Universidad Nacional de Córdoba, al dictar la or-
+denanza 2/97 y disponer que las inscripciones en el Colegio
+Nacional de Monserrat se efectuarían sin distinción de sexo,
+veló por la observancia de la convención y la tutela de las
+finalidades que ella persigue (conf. art. 2°, incs. b, c, y
+d).
+           6°) Que en cuanto a los agravios fundados en la
+tradición y en la costumbre cabe señalar, respecto de la pri-
+mera, que el histórico origen seminario no puede erigirse en
+fundamento válido para constreñir al Monserrat (o a cualquier
+establecimiento de enseñanza de idéntica fuente) al exclusivo
+cultivo de seminíferos.
+           En cuanto a la segunda, como acertadamente discurre
+el juez Sanchez Freytes, su invocación no resulta admisible
+frente a expresas normas de linaje constitucional que la con-
+trarían.
+           7°) Que tengo la tranquila sospecha de que existen
+quienes añoran el pasado y rechazan la radical igualación de
+la mujer y el hombre en cuanto al goce de los derechos huma-
+nos y las libertades fundamentales que en la convención se
+imponen (conf. art. 1°). Otros, de parecida orientación,
+cuestionarán que en ella se obligue a estimular la educación
+
+
+                              -14-
+
+[[PDF p. 15]]
+                                                   G. 653. XXXIII.
+                                                   RECURSO DE HECHO
+                                                   González de Delgado, Cristina y otros c/
+                                                   Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+conjunta de los alumnos de ambos sexos (conf. art. 10, inc.
+c) y preferirán, más bien, una educación diferenciada por
+géneros; lo que, sin mayor esfuerzo, hace recordar la desgra-
+ciada historia de "separados pero iguales"4 que descansa, como
+decía Warren, en el concepto de la inferioridad inherente a
+la clase que se discrimina (vid. Schwartz, Bernard "Super
+Chief, Earl Warren and His Supreme Court, A Judicial Bio-
+graphy", University Press, New York 1983, pág. 86) que, en el
+caso, me hace recordar al de la mujer como "varón deficiente"
+acuñado por Aristóteles. Ambos grupos de personas (en gene-
+ral, aunque no exclusivamente, del sexo masculino) sin duda
+encontrarán apoyo para sus posiciones en importantes autores
+que se han sucedido desde Grecia hasta la actualidad.
+                  Pues bien, más allá de los argumentos que puedan
+desarrollarse contra nostálgicos, separatistas y partidarios
+de la erudición superflua, basta con recordarles a todos las
+palabras alguna vez usadas por la Suprema Corte de los EE.
+UU.: "Esta es precisamente la clase de opciones...[que la ley
+constitucional] hizo por nosotros" (425 U.S. 748, 770, año
+1976). No hay que hacer ninguna elección, porque ésta ya ha
+sido hecha por los constituyentes. Y creo que hay que decirlo
+así, sin interinidades ni componendas, con firmeza, aunque
+sin apasionarse, no sólo porque la pasión quita entendimiento
+(como decía Unamuno), sino porque ella, común entre los ar-
+gentinos, no es precisamente una pasión por la razón.
+                  8°) Que ya han pasado muchos años desde el pregón
+del evangelio de la igualdad lanzado por Francia, los sufi-
+cientes como para advertir que las desigualdades discrimina-
+
+
+
+              4
+                 Es conveniente recordar, al respecto, los argumentos de la Corte Suprema de los
+    EEUU in re “Brown” ( vid. especialmente pág. 495 de 347 US) que, aunque fueron utilizados
+    para referirse a la educación conjunta de negros y blancos, resultan enteramente aplicables al sub
+    lite.
+
+                                                     -15-
+
+[[PDF p. 16]]
+torias entre los seres humanos no son sólo jurídicas y econó-
+micas; también son sexuales.
+          Y como -al igual que el juez Jerome Frank- descon-
+fío de la visión con un solo ojo -mi propia visión es bifo-
+cal- estimo conveniente referirme al derecho comparado, el
+que ofrece muestras del disfavor que en general merece la
+discriminación en razón del sexo, lo que resulta significati-
+vo si se tiene en cuenta que muchas veces se trata de normas
+cuyas prescripciones no son tan detalladas y categóricas como
+las ya examinadas. Por otra parte, aun cuando alguna "distin-
+ción" o "discriminación" sea en teoría aceptable y consiga
+indulgencia, los estándares que se aplican -a los fines de la
+eventual justificación- son muy exigentes.
+          Así, por ejemplo, en la Convención Europea de los
+Derechos del Hombre se prohíbe la discriminación frente a
+trece circunstancias que se enuncian, entre las que se halla
+el sexo (art. 14). Si la exclusión en el goce de un derecho
+está fundada en una de aquéllas, habrá una "presunción" o una
+"sospecha" de ilegitimidad que tendrá por efecto el desplaza-
+miento de la carga de la prueba (vid. Pettiti, Louis E. y
+otros, "La Convention Européenne des Droits de L'Homme", Pa-
+ris 1995, pág. 477).
+          El Tribunal Europeo de Derechos Humanos en el caso
+"Abdulaziz, Cabales y Balkandali" (28 de mayo de 1985) señaló
+que "la progresión hacia la igualdad de los sexos constituye
+hoy un objetivo importante de los Estados miembros del Conse-
+jo de Europa. Ello supone que solo razones muy poderosas po-
+drán conducir a estimar compatible con la Convención una dis-
+tinción fundada en el sexo" (considerando 78).
+          9°) Que en el derecho norteamericano se juzgan es-
+
+
+                               -16-
+
+[[PDF p. 17]]
+                              G. 653. XXXIII.
+                              RECURSO DE HECHO
+                              González de Delgado, Cristina y otros c/
+                              Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+tos temas sobre la base de la "Equal Protection Clause" de la
+décimo cuarta enmienda de la Constitución ("...nor deny to
+any person within its jurisdiction the equal protection of
+the laws"). En 1972 se sancionó por el Congreso la "Equal
+Rights Amendment" que, de haber sido ratificada por las le-
+gislaturas    estaduales,   hubiera    consagrado,   como   enmienda
+XXVII, el siguiente texto "[e]quality of rights under the law
+shall not be denied or abridged by the United States or by
+any State on account of sex". Sin embargo, el tiempo transcu-
+rrió sin que se hubiera conseguido ratificación por un número
+suficiente de estados y la enmienda se frustró.
+             La parquedad del texto constitucional no impidió a
+la Suprema Corte desarrollar una doctrina en la materia de
+discriminación por sexo. En "United States v. Virginia" (fa-
+llo del 26 de junio de 1996, publicado en 518 U.S. 515) se
+trató una demanda promovida por el gobierno federal contra el
+Estado de Virginia y el Virginia Military Institute. Esta
+prestigiosa escuela -de famosos métodos y logros- era el úni-
+co instituto de enseñanza superior de Virginia que impartía
+educación para un solo sexo: el masculino. Esa política de
+admisión y la consiguiente imposibilidad de las mujeres para
+acceder a la educación calificada que dicha escuela brindaba,
+motivó que se adujera la violación de la enmienda XIV. El
+planteo tuvo éxito ante la Suprema Corte, ésta consideró que
+la lesión se había producido.
+             El tribunal sostuvo que quienes intenten defender
+una acción gubernamental que impone categorías, clasificacio-
+nes o exclusiones basadas en el sexo, deben demostrar una
+"justificación (de dicha acción) sumamente persuasiva". Los
+actos gubernamentales (federales o estaduales) no son compa-
+tibles con la "Equal Protection Clause" cuando una ley o una
+
+
+                                -17-
+
+[[PDF p. 18]]
+política oficial niega a la mujer, simplemente porque es mu-
+jer, un rango de plena ciudadanía, es decir la oportunidad
+-igual a la del hombre- para participar y contribuir al desa-
+rrollo social de acuerdo a sus talentos y a sus capacidades.
+Quien defienda una clasificación o exclusión basada en el
+género sexual deberá probar que aquélla sirve a un importante
+objetivo gubernamental y que los medios discriminatorios em-
+pleados están relacionados sustancialmente con el logro de
+aquellos objetivos. La justificación ha de ser "genuina" y no
+ha de basarse en indebidas generalizaciones sobre los dife-
+rentes talentos, capacidades o preferencias de hombres y mu-
+jeres. Las diferencias inherentes a hombres y mujeres siguen
+siendo causa de beneplácito -afirma la Corte-, pero no para
+denigrar a los miembros de alguno de estos sexos, o para es-
+tablecer restricciones artificiales a las oportunidades de
+una persona.
+                  El exigente estándar de revisión que se aplica a
+las clasificaciones basadas en el sexo no convierte a aqué-
+llas en una categoría totalmente proscripta; pero, sí signi-
+fica que las categorías fundadas en el sexo no deben usarse
+para crear o perpetuar la inferioridad legal, social y econó-
+mica de la mujer. En todo caso, las clasificaciones fundadas
+en el sexo pueden ser utilizadas para compensar a las mujeres
+por las inhabilidades que ellas han sufrido a través de la
+historia5.
+
+
+              5
+                 Este último párrafo sobre categorías fundadas en el sexo me parece de una
+    importancia principal.
+               En efecto, más allá de la praxis y de la doxa, no sé bien en que consiste la femineidad y
+    ya, a mis años, dudo de que llegue a saberlo, o siquiera acercarme a su formulación; pero, me
+    resulta evidente que no podría definirla para, después, esperar de las mujeres conductas que se
+    adecuen a dicha definición.
+               Si así lo hiciera estaría adoptando un criterio fundamentalista que, partiendo de la
+    preconstitución del concepto de lo femenino, establece un dogma necesariamente discriminatorio
+    (utilizable como instrumento de dominación) que, fundamentalmente, consiste en imponer a la
+
+                                                      -18-
+
+[[PDF p. 19]]
+                                              G. 653. XXXIII.
+                                              RECURSO DE HECHO
+                                              González de Delgado, Cristina y otros c/
+                                              Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+               En el fallo norteamericano se propone un estándar
+de escrutinio que, si no llega a ser tan estricto como el
+empleado para las clasificaciones basadas en la raza o la
+nacionalidad, es sumamente exigente (es revelador que el úni-
+co juez que hizo disidencia lo encuentre indistinguible del
+"escrutinio estricto" aplicado para estas dos últimas clasi-
+ficaciones: 518 U.S. 515, 596).
+               Aunque como hipótesis se aplicaran al caso "Monse-
+rrat" los criterios norteamericanos expuestos (nacidos en un
+marco normativo tan escueto como el de nuestro art. 16 de la
+Constitución Nacional) la solución sería la misma que la ob-
+tenida a la luz de la convención aprobada por la ley 23.179.
+En efecto, los actores no han mostrado (y mucho menos, demos-
+trado) cuál sería el imperioso interés público que aconseja-
+ría excluir a las jóvenes de los beneficios de la educación
+que brinda el Monserrat, antes bien, dicho imperioso interés
+público consistiría en evitar dicha exclusión, con rapidez
+indeliberada, porque ella se apoya en un prejuicio que, como
+tal, no merece justificación alguna.
+               10) Que, por su parte, el Tribunal Constitucional
+alemán al resolver sobre la prohibición del trabajo nocturno
+para mujeres, expresó: "El principio ‘hombres y mujeres gozan
+de los mismos derechos' no sólo pretende suprimir las normas
+jurídicas que establecen ventajas y desventajas con sustento
+en las características sexuales, sino imponer para el futuro
+la igualdad jurídica entre los sexos [...] Ella apunta a la
+equiparación de las condiciones de vida. Así, las mujeres
+deben tener las mismas oportunidades que los hombres [...] La
+distribución tradicional de roles que lleva a una mayor carga
+
+
+    mujer una femineidad que no es la suya.
+
+
+
+                                               -19-
+
+[[PDF p. 20]]
+u otras desventajas para las mujeres, no deben ser reafirma-
+das por medidas estatales [...] Las desventajas fácticas que
+afectan típicamente a las mujeres deben ser compensadas por
+el mandato de igualdad de derechos del art. 3, párrafo 2, GG
+por medio de regulaciones que las beneficien [...] En el pre-
+sente caso no se trata de la equiparación de las condiciones,
+sino de la eliminación del tratamiento jurídico desigual"
+(BverfGE 85, 191. Las negritas no están en el original).
+          11) Que aun antes de la Reforma Constitucional de
+1994 esta Corte no ha sido indiferente a las exigencias igua-
+litarias entonces limitadas al art. 16 de la Constitución de
+1853. En Fallos: 287:42 (caso "Carballo y otros"), las acto-
+ras (cuarenta y dos empleadas de la Prefectura Nacional Marí-
+tima) atacaban como inconstitucional al decreto 7673/55, me-
+diante el cual se las privó del estado policial que poseían,
+y se las incorporó al régimen del personal civil de las Fuer-
+zas Armadas. El Tribunal resolvió que "...la discriminación
+que efectuó el decreto 7673/55, al negar al personal femenino
+la opción que sí acordó al masculino para mantener el estado
+policial, carece de base que la sustente; pues, si algo evi-
+dencian las constancias reseñadas, es que no existía razón
+valedera alguna que autorizara a suponer que el personal fe-
+menino, sólo por ser tal, se encontraba impedido para desem-
+peñar sus funciones conservando aquel estado policial. Ello
+impone [...] el acogimiento del reparo constitucional que se
+formula en el ‘sub judice' contra el decreto 7673/55, con
+invocación del art. 16 de la Ley Suprema".
+          12) Que lo expuesto evidencia que la Universidad
+Nacional de Córdoba, al disponer que las inscripciones en el
+
+
+                             -20-
+
+[[PDF p. 21]]
+                                               G. 653. XXXIII.
+                                               RECURSO DE HECHO
+                                               González de Delgado, Cristina y otros c/
+                                               Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+Colegio Nacional de Monserrat se efectuarán sin distinción de
+sexo, no sólo ha actuado como órgano competente dentro de la
+esfera de sus atribuciones, sino que, más aún, ha removido un
+valladar discriminatorio -que hoy resulta moral y jurídica-
+mente abominable- que impedía la plena participación de las
+jóvenes cordobesas en la vida educacional y cultural de su
+provincia. La U.N.C. ha exteriorizado, también, su voluntad
+de cumplir con las convenciones internacionales que obligan
+al país a integrar a la mujer en todos los aspectos de la
+vida social y a eliminar los obstáculos discriminatorios que
+se interpongan en ese camino.
+             13) Que no puedo cerrar estas consideraciones sin
+referirme a los denodados esfuerzos de los actores apelantes
+para demostrar que su demanda no es discriminatoria: "cir-
+cunstancia esta" -dicen- "que a esta altura de los siglos
+todos los firmantes repugnamos" (fs. 60 del escrito de recur-
+so extraordinario).
+             Dichos esfuerzos me parecen vanos. Sus autores de-
+claman su falta de intención discriminatoria; pero quedan
+petrificados en esa intención6 pues, al mismo tiempo, con su
+postura obstaculizan la igualdad de los sexos en todo lo que
+tiene de creativo y de justo, y no sólo omiten tener en cuen-
+ta que el “ser” del hombre quizá se determine por el “ser” de
+la mujer, y viceversa (por lo que sería peligrosa la exclu-
+sión de cualquiera de los dos), sino también (aunque ni aun
+así se justificaría la exclusión) que la Argentina no tiene
+una plétora tal de talentos masculinos a su disposición como
+para que le convenga dejar sin educación, o a medio educar, a
+su población femenina. Los argumentos utilizados en su deman-
+da, tanto los relativos a la incompetencia de la Universidad
+
+         6
+             Sartre diría: como “el Pensador” de Rodin, que nunca tendrá un pensamiento.
+
+                                                 -21-
+
+[[PDF p. 22]]
+de Córdoba, cuanto los del conflicto de valores constitucio-
+nales entre el derecho de los padres a elegir la educación de
+los hijos y el de igualdad (ellos optan por privilegiar al
+primero), encubren el verdadero motivo, verdaderamente dis-
+criminatorio7, que podría expresarse así:
+                 No dicen nada en contra de las mujeres; pero, no
+quieren que se integren en una educación conjunta con sus
+hijos varones.
+         La pretensión de los actores importa, pues, un agravio
+hacia las mujeres excluidas y, por lo mismo, no merece la
+tutela jurisdiccional por ser incompatible con la necesidad
+de cimentar una sociedad democrática e inteligente (ver mi
+voto in re "Arenzon", Fallos: 306:400, considerando 18).
+                 También se quejan de que los jueces han dictado una
+sentencia que, "en apariencia es producto de un juicio obje-
+tivo pero...que es totalmente dogmática y carente de asidero
+fáctico, lógico y legal" (fs. 66 vta.), que "el tribunal se
+arroga papel de juez legislador" (fs. 59), etc. Lo que, apar-
+te de configurar una injustificada crítica al sazonado fallo
+de segunda instancia (instalada, además, mal à propos), im-
+porta sostener, en síntesis, que han creado derecho. Pues
+bien, cabe recordar que el problema no es ya admitir que los
+jueces crean derecho8, sino determinar cuándo, cómo y cuánto9;
+
+
+             7
+                Adviértase la sugestiva cita de fs. 67 del recurso extraordinario:“La periodista
+    Slavenka Draculic, de origen yugoeslavo y franca defensora de los derechos de la mujer, afirma
+    que hay un movimiento concertado para ‘Poner a las mujeres otra vez en su lugar, o sea en el
+    hogar, con los hijos, reconociéndosele su función de madre’”.
+                         ¿Será, al cabo, el silencio el verdadero ornato de la mujer, como decía
+    Sófocles en Ayax?
+
+             8
+                “A medida que los años han pasado y que he reflexionado más y más sobre la
+    naturaleza de la función judicial ... He aprendido a ver que esa función en su más alta expresión
+    no es descubrimiento sino creación ...” Cardozo, Benjamín “La naturaleza de la función judicial”
+    ed. ARAYU, pág. 136.
+             9
+              Vid. Frankfurter, Felix en Schwartz, Bernard, op. cit. pág.45
+
+                                                     -22-
+
+[[PDF p. 23]]
+                                      G. 653. XXXIII.
+                                      RECURSO DE HECHO
+                                      González de Delgado, Cristina y otros c/
+                                      Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+al responder esta pregunta se sabrá si su proceder ha sido
+correcto o merece reproche constitucional.
+              Puedo entender a los demandantes10, después de todo
+se sabe, desde mucho antes que Churchill, que la democracia y
+la igualdad son un fastidio (aunque la efectiva realización
+de la segunda mejore la calidad de la primera); pero lo que
+no puedo es justificarlos.
+        Por ello, y lo concordemente dictaminado por el señor
+Procurador General, se hace lugar a la queja, se declara for-
+malmente procedente el recurso extraordinario y se confirma
+la sentencia apelada en cuanto fue materia de recurso. Con
+costas a los actores. Agréguese la queja al principal. Noti-
+fíquese y oportunamente devuélvase. ENRIQUE SANTIAGO PETRAC-
+CHI.
+ES COPIA
+
+
+                                                                    VO-//-
+
+
+
+
+             10
+                Dice Ronald Dworkin en A Matter of Principle, Harvard
+       University Press, 1985, pág. 165: "Interpretation of the equal
+       protection clause of the United States Constitution provides
+       especially vivid examples. There can be no useful interpretation
+       of what that clause means wich is independent of some theory
+       about what political equality is and how far equality is required
+       by justice, and the history of the last half-century of
+       constitutional law is largely an exploration of exactly these
+       issues of political morality. Conservative lawyers argued
+       steadily (though not consistently) in favor of an author's
+       intentions style of interpreting this clause, and they accused
+       others, who used a different style with more egalitarian results,
+       of inventing rather than interpreting law. But this was bluster
+       meant to hide the role their own political convictions played in
+       their choice of interpretive style, and the great legal debates
+       over the equal protection clause would have been more
+       illuminating if it had been more widely recognized that reliance
+       on political theory is not a corruption of interpretation but
+       part of what interpretation means".
+
+                                       -23-
+
+[[PDF p. 24]]
+-//-TO DEL SEÑOR MINISTRO DOCTOR DON ANTONIO BOGGIANO
+     Considerando:
+            1°) Que el infrascripto comparte los fundamentos y
+conclusiones del dictamen que antecede, cuyos términos se dan
+por reproducidos brevitatis causae.
+            2°) Que, en consecuencia, corresponde declarar la
+validez del acto administrativo impugnado, cuya motivación
+invoca la necesidad de salvaguardar los principios de igual-
+dad y no discriminación a las mujeres, garantizados por la
+Constitución y diversos tratados internacionales con jerar-
+quía constitucional.
+            3°) Que tales principios se hallan inescindiblemen-
+te ligados al derecho a la educación y, a fin de aventar in-
+terpretaciones excesivas acerca de las particularidades del
+caso y de la presente sentencia respecto de la enseñanza mix-
+ta, son necesarias las precisiones de los considerandos si-
+guientes.
+            4°) Que la Convención sobre la Eliminación de todas
+las Formas de Discriminación contra la Mujer, aprobada por
+ley 23.179, de rango constitucional, según lo dispuesto por
+el art. 75, inc. 22 de la Carta Magna, no impone a los esta-
+dos partes la obligación absoluta de establecer la enseñanza
+mixta ni dispone que la educación diferenciada constituya una
+discriminación en razón del sexo.
+            5°) Que, en efecto, el art. 10 de dicho tratado
+dispone la adopción de "todas las medidas apropiadas para
+eliminar la discriminación contra la mujer, a fin de asegu-
+rarle la igualdad de derechos con el hombre en la esfera de
+la educación y en particular para asegurar, en condiciones de
+igualdad entre hombres y mujeres: a) Las mismas condiciones
+
+
+                               -24-
+
+[[PDF p. 25]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+de orientación en materia de carreras y capacitación profe-
+sional, acceso a los estudios y obtención de diplomas en las
+instituciones de enseñanza de todas las categorías tanto en
+zonas rurales, como urbanas; esta igualdad deberá asegurarse
+en la enseñanza preescolar, general, técnica y profesional,
+incluida la educación técnica superior, así como todos los
+tipos de capacitación profesional. b) Acceso a los mismos
+programas de estudios y los mismos exámenes, personal docente
+del mismo nivel profesional y locales y equipos escolares de
+la misma calidad".
+          6°) Que la sola lectura del texto transcripto, no
+deja lugar a dudas, de que lo garantizado a las mujeres es el
+acceso pleno a la misma enseñanza que a los varones. Mas para
+ello no impone que tal enseñanza deba imperiosamente impar-
+tirse en el mismo establecimiento y por los mismos docentes.
+Exige la misma calidad profesional de los educadores, de los
+lugares y de los elementos de estudio. En otras palabras,
+impone la obligación de asegurar una formación de idéntica
+excelencia.
+          7°) Que, por su parte, el inc. c del citado art. 10
+dispone que debe asegurarse "La eliminación de todo concepto
+estereotipado de los papeles masculino y femenino en todos
+los niveles y en todas las formas de enseñanza, mediante el
+estímulo de la educación mixta y de otros tipos de educación
+que contribuyan a lograr este objetivo y, en particular, me-
+diante la modificación de los libros y los programas escola-
+res y la adaptación de los métodos de enseñanza".
+          8°) Que del texto transcripto se desprende inequí-
+vocamente que el citado precepto tampoco impone la educación
+mixta. Al menos, por dos razones. En primer lugar, porque la
+norma utiliza el término "estímulo", que en su tercera acep-
+
+
+                             -25-
+
+[[PDF p. 26]]
+ción, significa "incitamiento para obrar o funcionar"(Real
+Academia Española, Diccionario de la Lengua Española, vigési-
+ma primera edición, Madrid, 1992). En segundo lugar, porque
+seguidamente el artículo contempla de modo expreso "otros
+tipos" de educación que resulten aptos para alcanzar la fina-
+lidad perseguida por el tratado. De lo expuesto se sigue que
+la enseñanza mixta es un instrumento, que no reviste el ca-
+rácter de único y excluyente para tutelar a la mujer contra
+la discriminación en el campo educativo. La norma prevé al-
+ternativas que llevan ínsitas la coexistencia de distintos
+sistemas que el Estado debe ofrecer.
+           9°) Que, en esencia, la convención establece una
+diversidad de sistemas propia del pluralismo democrático y
+excluye cualquier uniformidad dogmática y totalitaria. Lo
+esencial es garantizar la igualdad, bien que mediante los
+distintos instrumentos de los que puede valerse una política
+educativa abierta y pluralista. Por ello, la educación dife-
+renciada por géneros no responde a una mera añoranza del pa-
+sado sino a una clara alternativa contemporánea de un tratado
+internacional de rango constitucional.
+          10) Que la Convención Internacional sobre la Elimi-
+nación de todas las Formas de Discriminación contra la Mujer
+indudablemente debe armonizarse con el art. 26.3 de la Decla-
+ración Universal de Derechos Humanos según el cual "Los pa-
+dres tendrán derecho preferente a escoger el tipo de educa-
+ción que habrá de darse a sus hijos". En consecuencia, una
+educación exclusivamente diferenciada o exclusivamente mixta
+lesionaría tanto aquel derecho de los padres como los de
+cualquier educando. El pluralismo en esta materia es pues el
+medio de dar cabal y adecuado cumplimiento a la Constitución
+
+
+                             -26-
+
+[[PDF p. 27]]
+                             G. 653. XXXIII.
+                             RECURSO DE HECHO
+                             González de Delgado, Cristina y otros c/
+                             Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+Nacional y los tratados internacionales con jerarquía consti-
+tucional.
+            11) Que, por consiguiente, es diáfano que la solu-
+ción de la causa no puede jurídicamente significar que la
+enseñanza mixta se encuentra exclusivamente impuesta por dis-
+posiciones constitucionales u otras normas internacionales de
+ese rango. A las autoridades competentes corresponde elegir
+los medios apropiados para garantizar el principio de plura-
+lidad antes considerado.
+     Por ello, concordemente con lo dictaminado por el señor
+Procurador General, se hace lugar a la queja, se declara for-
+malmente procedente el recurso extraordinario y, con el al-
+cance señalado, se confirma la sentencia apelada en cuanto
+fue materia de recurso. Con costas. Agréguese la queja al
+principal. Notifíquese y oportunamente devuélvase. ANTONIO
+BOGGIANO.
+ES COPIA
+
+
+
+
+                                                        VO-//-
+
+
+
+
+                              -27-
+
+[[PDF p. 28]]
+-//-TO DEL SEÑOR MINISTRO DOCTOR DON GUSTAVO A. BOSSERT
+     Considerando:
+           1°) Que un grupo de padres de alumnos del Colegio
+Nacional de Monserrat promovió acción de amparo contra la
+Universidad Nacional de Córdoba a fin de evitar la aprobación
+de un proyecto de ordenanza destinado a transformarlo en un
+establecimiento mixto.
+           El juez de primera instancia hizo lugar parcialmen-
+te al amparo y declaró la invalidez de la ordenanza 2/97 san-
+cionada en definitiva el 6 de mayo de 1997 por el Consejo
+Superior de la citada universidad, sin perjuicio de dejar
+sentado que la reglamentación existente no impedía la incor-
+poración de estudiantes de sexo femenino en el mencionado
+colegio.
+           Apelado el pronunciamiento por ambas partes, la
+Cámara Federal de Apelaciones de Córdoba lo revocó y desesti-
+mó la acción de amparo.
+           A tal efecto, los vocales que formaron la mayoría
+del tribunal sostuvieron en sus votos concurrentes que la
+mencionada resolución 2/97 se enmarcaba dentro de las facul-
+tades acordadas por los Estatutos de la Universidad Nacional
+de Córdoba (arts. 15, inc. 1° y 26) y se encontraba debida-
+mente motivada. Afirmaron, en este sentido, que el control
+judicial debía ceñirse al examen de la legalidad del acto
+cuestionado. Expresaron finalmente que las facultades recono-
+cidas por la Ley Federal de Educación a los padres de los
+estudiantes, invocadas por los recurrentes, no podían afectar
+el ejercicio de las responsabilidades directivas y docentes o
+ir en desmedro de las funciones estatales en materia educati-
+va contempladas por la misma ley.
+
+
+                              -28-
+
+[[PDF p. 29]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+          2°) Que contra esta sentencia los actores interpu-
+sieron el recurso extraordinario cuya denegación origina la
+presente queja.
+          Los apelantes manifiestan que el fallo vulnera el
+principio de congruencia al no haber analizado todos los pun-
+tos que habían sido materia del recurso como la invocación de
+que la ordenanza carecía de motivación; contiene una serie de
+citas eruditas que califican como dogmáticas por no compade-
+cerse con las constancias de autos; soslaya la existencia de
+una costumbre que implicó la adquisición de derechos que no
+pueden ser cercenados por una reglamentación posterior; pasa
+por alto las ordenanzas y decretos que establecen el régimen
+político del Colegio Nacional de Monserrat, y colisiona con-
+tra el texto expreso de la Ley Federal de Educación, el art.
+14 de la Constitución Nacional, el art. 26, inc. 3° de la
+Declaración Universal de Derechos Humanos y el art. 18, inc.
+4° del Pacto Internacional de Derechos Civiles y Políticos.
+          3°) Que los agravios de los recurrentes suscitan
+cuestión federal suficiente para la admisibilidad del recurso
+extraordinario por cuanto se halla en tela de juicio la in-
+terpretación de normas de carácter federal y la decisión re-
+caída en la causa ha sido adversa a las pretensiones de los
+recurrentes. Los agravios deducidos con apoyo en la doctrina
+de esta Corte sobre arbitrariedad habrán de ser tratados en
+forma conjunta pues ambos aspectos guardan entre sí estrecha
+conexidad (Fallos: 308:1076; 314:1460).
+          4°) Que el Colegio Nacional de Monserrat se encuen-
+tra incorporado a la Universidad Nacional de Córdoba mediante
+el decreto del 22 de febrero de 1907, que dispone que aquél
+pasará a depender como parte integrante de ésta, con todo su
+personal docente y administrativo, edificios, gabinetes y
+
+
+                             -29-
+
+[[PDF p. 30]]
+demás útiles de enseñanza, correspondiéndole también su supe-
+rintendencia en igual forma que la vigente para los demás
+institutos que constituyen la universidad (art. 1°).
+          El art. 2° del decreto ordena que en adelante, las
+relaciones entre los colegios anexados -entre los que se en-
+contraba el Monserrat- y el Poder Ejecutivo, se establecerán
+por intermedio de las universidades respectivas, las cuales
+proyectarán y someterán al Poder Ejecutivo una ordenanza com-
+plementaria de sus estatutos, que fije la forma de dependen-
+cia y el sistema de gobierno permanente de la universidad en
+el colegio.
+          El art. 3° establece que el personal directivo y
+docente de cada colegio anexado será nombrado en terna pro-
+puesta por la universidad.
+          El art. 6°, por su parte, prevé que el plan de es-
+tudios y reglamentos vigentes en los colegios nacionales de
+la república se continuarán aplicando en los colegios anexa-
+dos, para los cuales regirán también las modificaciones o
+reformas que el gobierno de la nación introduzca en el porve-
+nir en aquellos planes y reglamentos; las universidades po-
+drán, sin embargo, introducir las modificaciones que crean
+pertinentes, siempre que no importe desequilibrio o diferen-
+ciación substancial con el régimen de los demás colegios de
+la república.
+          El art. 7°, modificado por el decreto del 30 de
+octubre de 1907, regla que el rector del colegio anexado será
+simple asesor en las deliberaciones de la universidad respec-
+tiva, que se refieran a los asuntos del propio colegio o a
+asuntos sobre enseñanza secundaria en general.
+          La normativa reseñada pone de relieve que la depen-
+
+
+                             -30-
+
+[[PDF p. 31]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+dencia del colegio con relación a la universidad, contraria-
+mente a lo pretendido por los apelantes, no se circunscribe a
+una cuestión burocrática o presupuestaria ni le impide inter-
+venir en aspectos del régimen interno del establecimiento. La
+existencia de un "sistema de gobierno permanente de la uni-
+versidad en el colegio", la facultad de nombrar al personal y
+de modificar los planes de estudio y reglamentos indican cla-
+ramente las amplias prerrogativas de las autoridades univer-
+sitarias. Las ordenanzas generales del 9 de septiembre y 16
+de octubre de 1908, citadas por los recurrentes, hacen refe-
+rencia al procedimiento a seguir para poner en conocimiento
+de la universidad los asuntos relacionados con el Colegio de
+Monserrat sin cercenar las facultades que le corresponden a
+aquélla con respecto a éste, pues su objeto sólo "responde a
+la necesidad de facilitar el trámite de dichos asuntos" (fs.
+124).
+          De hecho la documentación acompañada indica que ha
+sido la universidad quien ha dictado el reglamento del cole-
+gio, quien lo ha modificado y quien ha sancionado la regla-
+mentación de concursos para la provisión de cátedras del co-
+legio.
+          5°) Que el art. 5 de los Estatutos de la Universi-
+dad Nacional de Córdoba establece que los departamentos, co-
+legios e institutos que no tengan el rango de facultad por la
+ordenanza de creación, dependerán de los órganos de gobierno
+a que los sometan las ordenanzas respectivas, lo que en defi-
+nitiva remite a las disposiciones mencionadas en el preceden-
+te considerando.
+          A su vez el art. 15 de los citados estatutos dispo-
+ne que corresponde al Consejo Superior de la Universidad
+ejercer la jurisdicción superior universitaria (inc. 1°),
+
+
+                             -31-
+
+[[PDF p. 32]]
+dictar ordenanzas y reglamentaciones acordes con los fines de
+la universidad (inc. 8°) e interpretar este estatuto cuando
+surgieren dudas sobre su aplicación y ejercer todas las demás
+atribuciones que no estuvieren explícitamente reservadas por
+la ley o por este estatuto, a la asamblea, al rector o a las
+facultades. Con lo cual se pone en evidencia la competencia
+del consejo para dictar ordenanzas como la que en autos se
+discute.
+           6°) Que el invocado derecho de los padres, contem-
+plado en la ley 24.195, a ser reconocidos como agente natural
+y primario de la educación (art. 44, inc. a), a participar en
+las actividades de los establecimientos en forma individual o
+a través de los órganos colegiados representativos de la co-
+munidad educativa (inc. b) y a elegir para sus hijos la ins-
+titución educativa cuyo ideario responda a sus convicciones
+filosóficas, éticas o religiosas (inc. c), resulta claro que
+no puede importar el desconocimiento de las funciones propias
+de las autoridades de la institución de que se trate.
+           La misma ley en su art. 42 al mencionar que la co-
+munidad educativa -integrada entre otros por directivos y
+padres- participará en la organización y gestión de la unidad
+escolar y en todo aquello que haga al apoyo y mejoramiento de
+la calidad de la educación, aclara expresamente que esa par-
+ticipación no deberá afectar el ejercicio de las responsabi-
+lidades directivas y docentes.
+           Por ello, los padres de los alumnos del Colegio de
+Monserrat, que han tenido oportunidad de participar en la
+discusión atinente a la incorporación de mujeres como alum-
+nas, no pueden impedir que las autoridades, competentes de
+acuerdo a lo precedentemente señalado, adopten una decisión
+
+
+                             -32-
+
+[[PDF p. 33]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+al respecto que se encuentra lejos de resultar ilegal o arbi-
+traria.
+           No obsta a esta conclusión el derecho de los padres
+a escoger el tipo de educación que habrá de darse a sus hi-
+jos, ni a que éstos reciban la educación religiosa y moral
+que esté de acuerdo con sus propias convicciones, de confor-
+midad con lo previsto en los pactos internacionales citados
+por los apelantes (arts. 26, inc. 3° de la Declaración Uni-
+versal de Derechos Humanos y 18, inc. 4° del Pacto Interna-
+cional de Derechos Civiles y Políticos), pues resulta obvio
+que ese derecho no puede conducir a que un grupo de padres de
+alumnos suplante sin más al cuerpo directivo de la unidad
+escolar.
+           La Convención sobre los Derechos del Niño expresa-
+mente establece que el derecho a la educación no se interpre-
+tará como una restricción a la libertad de los particulares y
+de las entidades para establecer y dirigir instituciones de
+enseñanza (art. 29), lo que resulta enteramente aplicable
+cuando, como en el caso, la dirección del establecimiento se
+encuentra en cabeza del Estado.
+           7°) Que la invocación por parte de los recurrentes
+sobre la existencia de una inveterada costumbre, que vedaba
+el ingreso de mujeres como estudiantes, a cuyo amparo se ha-
+brían adquirido derechos que no podrían ser violados por una
+reglamentación posterior no resiste el menor análisis.
+           Nadie tiene un derecho adquirido al mantenimiento
+de leyes, reglamentaciones ni -consecuentemente- costumbres
+(confr. Fallos: 321:1888; 322:270, entre muchos otros).
+           Además, las ofertas educativas estatales suponen,
+no sólo el reconocimiento del derecho de aprender a través de
+la prestación del servicio educativo, sino también un benefi-
+
+
+                              -33-
+
+[[PDF p. 34]]
+cio social, y es en función de tal beneficio que el Estado
+puede legítimamente limitarlas o restringirlas, a través de
+la modificación de los planes de estudio, circunstancia que
+no altera el derecho de educarse de los habitantes, ya que,
+como sucede en el sub examine, respetan la autonomía perso-
+nal, la promoción del proceso democrático y la igualdad de
+oportunidades sin discriminaciones, de conformidad con el
+inc. 19 del art. 75 de la Constitución Nacional y los demás
+derechos que la Ley Federal de Educación reconoce expresamen-
+te (confr. Fallos: 322:270).
+            8°) Que por lo demás los recurrentes, quienes ac-
+túan como padres de alumnos regulares del colegio, han omiti-
+do manifestar en qué consiste el perjuicio concreto que les
+provoca el ingreso de mujeres, máxime si se tiene en cuenta
+que   la   ordenanza   que   cuestionan   expresamente   aclara   que
+"quienes hoy tienen sus hijos cursando estudios en el Colegio
+no serán afectados en modo alguno por la reforma, pues el
+ingreso de mujeres se producirá a partir del primer año, y no
+en los cursos donde actualmente hay varones".
+            9°) Que no es materia de discusión que el Monserrat
+es el único colegio con orientación humanista de la Universi-
+dad Nacional de Córdoba. De allí que la pretensión de los
+apelantes de que el Estado mantenga "la variedad en la oferta
+educativa" importaría consagrar una diversidad que únicamente
+beneficiaría a los estudiantes de un solo sexo (518 U.S. 515,
+"United States v. Virginia et al.", del 26 de junio de 1996).
+            En lo que atañe a la diversidad deseada, resulta
+atinada la observación que destaca la ordenanza en estudio en
+cuanto a que el colegio debe ser mixto porque la realidad,
+afortunadamente, también lo es.
+
+
+                                 -34-
+
+[[PDF p. 35]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+          10) Que no puede dejar de señalarse que la decisión
+de establecer que las inscripciones en el Colegio Nacional de
+Monserrat se efectuarán sin distinción de sexo ha sido moti-
+vada en trascendentes principios de rango constitucional.
+          Desde el derecho a enseñar y aprender reconocido en
+el art. 14 de la Constitución Nacional, la igualdad de todos
+los habitantes ante la ley consagrada en el art. 16 y la más
+específica igualdad de oportunidades y posibilidades en mate-
+ria educativa sin discriminación alguna mencionada en el art.
+75 inc. 19, hasta los principios reconocidos en los tratados
+internacionales con jerarquía constitucional (art. 75, inc.
+22) sostienen la ordenanza cuestionada.
+          En este sentido, la igualdad ante la ley se encuen-
+tra contemplada en el art. II de la Declaración Americana de
+los Derechos y Deberes del Hombre, en el art. 7 de la Decla-
+ración Universal de Derechos Humanos, en el art. 24 de la
+Convención Americana sobre Derechos Humanos, en el art. 26
+del Pacto Internacional de Derechos Civiles y Políticos y,
+específicamente referida a la igualdad de la mujer con el
+hombre, en el art. 15 de la Convención Internacional sobre la
+Eliminación de todas las Formas de Discriminación contra la
+Mujer.
+          La prohibición de todo tipo de discriminación in-
+cluida la formulada por motivo de sexo, se halla establecida
+en el art. II de la Declaración Americana de los Derechos y
+Deberes del Hombre, en el art. 7 de la Declaración Universal
+de Derechos Humanos, en el art. 24 de la Convención Americana
+sobre Derechos Humanos, en el art. 26 del Pacto Internacional
+de Derechos Civiles y Políticos, en el art. 1 de la Conven-
+ción Internacional sobre la Eliminación de todas las Formas
+de Discriminación contra la Mujer y en el art. 2 de la Con-
+
+
+                             -35-
+
+[[PDF p. 36]]
+vención sobre los Derechos del Niño.
+          El derecho a la igualdad de oportunidades en mate-
+ria educativa, por su parte, ha sido reconocido en el art.
+XII de la Declaración Americana sobre los Derechos y Deberes
+del Hombre, en el art. 26 de la Declaración Universal de los
+Derechos Humanos, en el art. 13 del Pacto Internacional de
+los Derechos Económicos, Sociales y Culturales, expresamente
+en cuanto a la igualdad de derechos de la mujer con el hombre
+en la esfera de la educación, en el art. 10 de la Convención
+Internacional sobre la Eliminación de todas las Formas de
+Discriminación contra la Mujer y específicamente con respecto
+a los menores de dieciocho años en el art. 28 de la Conven-
+ción sobre los Derechos del Niño.
+          11) Que es cierto que la educación mixta ha sido
+consagrada en la ordenanza discutida con la explícita finali-
+dad de permitir a las jóvenes acceder a la misma experiencia
+educativa que los varones, como así también que -desde una
+perspectiva teórica- ese tipo de educación no constituye el
+único instrumento dirigido a asegurarle a las mujeres la
+igualdad de derechos con el hombre en la esfera de la educa-
+ción.
+          Sin embargo, no debe soslayarse que la educación
+mixta ha sido prevista en la Convención sobre la Eliminación
+de todas las Formas de Discriminación contra la Mujer no tan-
+to para procurar el igual acceso al mismo nivel educativo
+-finalidad obviamente no excluida-, sino para la eliminación
+de todo concepto estereotipado de los papeles masculino y
+femenino en todos los niveles y en todas las formas de ense-
+ñanza. Vale decir que la educación mixta no agota su finali-
+dad con hacer posible el ingreso de mujeres en la unidad es-
+
+
+                             -36-
+
+[[PDF p. 37]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+colar ya que también constituye un instrumento -dentro de una
+pluralidad de medios- destinado a promover o afianzar un cam-
+bio cultural encaminado a evitar todo tipo de discriminación
+contra la mujer.
+     Por ello, de conformidad con lo dictaminado por el señor
+Procurador General de la Nación, se hace lugar a la queja, se
+declara admisible el recurso extraordinario y se confirma la
+sentencia apelada en cuanto fue materia de recurso. Con cos-
+tas. Agréguese la queja al principal. Notifíquese y devuélva-
+se. GUSTAVO A. BOSSERT.
+ES COPIA
+
+
+                                                       VO-//-
+
+
+
+
+                             -37-
+
+[[PDF p. 38]]
+-//-TO DEL SEÑOR MINISTRO DOCTOR DON ADOLFO ROBERTO VAZQUEZ
+     Considerando:
+            1°) Que el infrascripto comparte los fundamentos y
+conclusiones del dictamen que antecede, cuyos términos se dan
+por reproducidos en razón de brevedad.
+            La afirmación precedente, empero, no quita la nece-
+sidad de pronunciarse acerca de las cuestiones constituciona-
+les involucradas en el caso y que no fueron examinadas en el
+dictamen.
+            2°) Que, de modo preliminar, se debe poner de re-
+salto, que la ordenanza 2/97 del Honorable Consejo Superior
+de la Universidad Nacional de Córdoba, cuya validez ha sido
+puesta en entredicho por los demandantes, consideró que la
+educación que se desarrolla en el Colegio Monserrat, al diri-
+girse exclusivamente a varones, impide a las personas de sexo
+femenino acceder a la misma experiencia educativa y, con
+ello, produce un menoscabo a los principios de igualdad y de
+no discriminación respecto de las mujeres, garantizados en
+diversas cláusulas de la Constitución Nacional y en la Con-
+vención sobre la Eliminación de todas las Formas de Discrimi-
+nación contra la Mujer.
+             Ponderó -con cita de las palabras del rector del
+Colegio Nacional de Buenos Aires en respuesta a la comisión
+de enseñanza de la U.N.C.- que la "coeducación completa la
+personalidad, facilita las relaciones entre las gentes de
+distinto sexo, induce al respeto recíproco y es, a todas lu-
+ces, formativa, útil y dinámica", y que "la vida, afortunada-
+mente, es mixta". Enfatizó el enriquecimiento de la persona-
+lidad de los educandos de ambos sexos mediante la coeducación
+y la convivencia, y destacó que la única tradición que debe
+
+
+                               -38-
+
+[[PDF p. 39]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+mantenerse es la de la excelencia, pues la tradición no puede
+preservar situaciones que pudieron resultar normales en otras
+épocas, “pero que hoy comportan verdaderos anacronismos, y
+mucho menos si ello conlleva la privación de un derecho" (ver
+copia de fs. 43/49).
+          3°) Que así planteada la cuestión cabe señalar que
+no son pocas las normas con jerarquía constitucional que con-
+sagran la protección de los derechos invocados expresamente
+en la ordenanza, cuyo origen (aunque no necesariamente su
+rango) es en algunos casos anterior a la reforma constitucio-
+nal de 1994 y en otros es posterior a ella.
+          En tal sentido, la igualdad ante la ley y su corre-
+lato, respecto a la prohibición de discriminación, están ex-
+presamente garantizadas respectivamente en la Constitución
+Nacional (art. 16); en la Declaración Americana de los Dere-
+chos y Deberes del Hombre (art. II ); en la Declaración Uni-
+versal de Derechos Humanos (art. 7); en la Convención Ameri-
+cana sobre Derechos Humanos (art. 24); en el Pacto Interna-
+cional de Derechos Civiles y Políticos (art. 26); en la Con-
+vención sobre la Eliminación de todas las Formas de Discrimi-
+nación contra la Mujer (arts. 1 y 15); y en la Convención
+sobre los Derechos del Niño (art. 2).
+          Mientras que en materia de educación, el derecho a
+la igualdad de oportunidades surge especialmente de la Cons-
+titución Nacional (art. 75, inc. 19); de la Declaración Ame-
+ricana sobre los Derechos y Deberes del Hombre (art. XII); de
+la Declaración Universal de Derechos Humanos (art. 26); del
+Pacto Internacional de Derechos Económicos, Sociales y Cultu-
+rales (art. 13); de la Convención sobre la Eliminación de
+todas las Formas de Discriminación contra la Mujer (art. 10);
+y de la Convención sobre los Derechos del Niño (art. 28).
+
+
+                             -39-
+
+[[PDF p. 40]]
+           4°) Que, en el mismo orden de ideas la jurispruden-
+cia de esta Corte ha protegido toda forma de discriminación
+contra la mujer. En oportunidad de pronunciarse (vgr. Fallos:
+287:42) en una causa en la que se discutía la legitimidad del
+decreto 7673/55 que privaba a las mujeres del estado policial
+de que gozaban como miembros de la entonces Prefectura Nacio-
+nal Marítima, y acordaba al personal masculino la opción de
+conservarlo, sostuvo que no existía ninguna razón valedera
+fundada en el sexo, para privarlas de aquel estado policial.
+            5°) Que sin duda es la Convención sobre la Elimi-
+nación de todas las Formas de Discriminación contra la Mujer,
+el conjunto de normas que con mayor profundidad y precisión
+se ha ocupado de la cuestión en examen.
+           Entre sus rasgos más sobresalientes, merecen ser
+destacados, en cuanto al caso interesa, los siguientes:
+           a) ratifica decididamente la igualdad del hombre y
+la mujer, en el goce de los derechos humanos y libertades
+fundamentales -en los ámbitos político, económico, social,
+cultural y civil-, de conformidad con la Carta de las Nacio-
+nes   Unidas,   resoluciones,   declaraciones   y   recomendaciones
+aprobadas por la O.N.U. y diversos pactos internacionales de
+derechos humanos, y propicia asegurar el pleno desarrollo y
+adelanto de la mujer con esa finalidad (ver considerandos y
+arts. 1, 3 y 15).
+           b) a partir de esos lineamientos, formula una ex-
+plícita condena a la discriminación contra la mujer, en todas
+sus formas, entendida como cualquier distinción, exclusión o
+restricción basada en el sexo que tenga por objeto o por re-
+sultado menoscabar o anular el reconocimiento, goce o ejerci-
+cio por la mujer de aquellos derechos y libertades (arts. 1 y
+
+
+                                -40-
+
+[[PDF p. 41]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+2).
+          c) con ese objeto, los estados partes se comprome-
+tieron (art. 2), en líneas generales, a: consagrar, si aún no
+lo han hecho, en sus constituciones nacionales y en cualquier
+otra legislación apropiada el principio de la igualdad del
+hombre y de la mujer y asegurar por ley u otros medios apro-
+piados la realización práctica de esos principios (inc. a);
+adoptar medidas adecuadas, legislativas y de otro carácter,
+con las sanciones correspondientes, que prohíban toda discri-
+minación contra la mujer (inc. b); establecer la protección
+jurídica de los derechos de la mujer sobre una base de igual-
+dad con los del hombre y garantizar, por conducto de los tri-
+bunales nacionales o competentes y de otras instituciones
+públicas, la protección efectiva de la mujer contra todo acto
+de discriminación (inc. c); abstenerse de incurrir en todo
+acto o práctica de discriminación contra la mujer y velar
+porque las autoridades e instituciones públicas actúen de
+conformidad con esta obligación (inc. d); tomar todas las
+medidas apropiadas para eliminar la discriminación contra la
+mujer practicada por cualesquiera personas, organizaciones o
+empresas (inc. e); adoptar todas las medidas adecuadas, in-
+cluso de carácter legislativo, para modificar o derogar le-
+yes, reglamentos, usos o prácticas que constituyan discrimi-
+nación contra la mujer (inc. f); derogar todas las disposi-
+ciones penales nacionales que constituyan discriminación con-
+tra la mujer (inc. g).
+          Asimismo, los estados partes deben tomar las medi-
+das apropiadas para modificar los patrones socioculturales de
+conducta de hombres y mujeres, con miras a alcanzar la elimi-
+nación de los prejuicios y las prácticas consuetudinarias y
+de cualquier otra índole que estén basados en la idea de la
+
+
+                             -41-
+
+[[PDF p. 42]]
+inferioridad o superioridad de cualquiera de los sexos o en
+funciones estereotipadas de hombres y mujeres (art. 5, inc.
+a).
+          d) en punto, concretamente, a la igualdad en mate-
+ria de educación, los estados convinieron (art. 10) en adop-
+tar “todas las medidas apropiadas para eliminar la discrimi-
+nación contra la mujer", para asegurar, entre otros aspectos:
+          d1) las mismas condiciones de orientación en mate-
+ria de carreras y capacitación profesional, acceso a los es-
+tudios y obtención de diplomas en las instituciones de ense-
+ñanza de todas las categorías, tanto en zonas rurales como
+urbanas; esta igualdad deberá asegurarse en la enseñanza
+preescolar, general, técnica y profesional, incluida la edu-
+cación técnica superior, así como todos los tipos de capaci-
+tación profesional (inc. a);
+          d2) acceso a los mismos programas de estudios y los
+mismos exámenes, personal docente del mismo nivel profesional
+y locales y equipos escolares de la misma calidad (inc. b);
+          d3) la eliminación de todo concepto estereotipado
+de los papeles masculino y femenino en todos los niveles y en
+todas las formas de enseñanza, mediante el estímulo de la
+educación mixta y de otros tipos de educación que contribuyan
+a lograr este objetivo y, en particular, mediante la modifi-
+cación de los libros y programas escolares y la adaptación de
+los métodos de enseñanza (inc. c) (el subrayado nos pertene-
+ce);
+          d4) las mismas oportunidades para la obtención de
+becas y otras subvenciones para cursar estudios (inc. d);
+          d5) las mismas oportunidades de acceso a los pro-
+gramas de educación complementaria, incluidos los programas
+
+
+                               -42-
+
+[[PDF p. 43]]
+                            G. 653. XXXIII.
+                            RECURSO DE HECHO
+                            González de Delgado, Cristina y otros c/
+                            Universidad Nacional de Córdoba.
+
+
+
+
+  Corte Suprema de Justicia de la Nación
+de alfabetización funcional y de adultos, con miras en parti-
+cular a reducir lo antes posible la diferencia de conocimien-
+tos existentes entre el hombre y la mujer (inc. e).
+          6°) Que, ahora bien, es claro pues, que la "educa-
+ción mixta" -cuyo "estímulo" está asignado a los estados par-
+tes, según lo dispone, expresamente, el ya citado art. 10,
+inc. c- contribuye a la "eliminación de todo concepto este-
+reotipado de los papeles masculino y femenino en todos los
+niveles y en todas las formas de enseñanza"; y por lo tanto
+debe ser considerada, en sí misma, como un mandato.
+          Frente a ello puede inferirse, en el presente caso
+y estado de situación, que aquellas pautas sociales y cultu-
+rales que pudieron sustentar en otras épocas el acceso exclu-
+sivo de alumnos varones al Colegio Monserrat, hoy han perdido
+su vigencia. Siendo que además, no se advierte la existencia
+de "razón valedera alguna" -como ha exigido la ya citada ju-
+risprudencia de la Corte-, que justifique actualmente, que el
+colegio demandado imparta educación sólo a varones.
+          Ya que el solo dato de su sexo, como quedó demos-
+trado, no es razón suficiente.
+          En consecuencia, la disposición contenida en el
+art. 1° de la ordenanza 2/97 no es sino reflejo de la única
+solución posible con sustento en normas de jerarquía consti-
+tucional, y en las actuales pautas culturales del pueblo de
+nuestra Nación.
+     Por ello, y lo concordemente dictaminado por el señor
+Procurador General, se hace lugar a la queja, se declara for-
+malmente admisible el recurso extraordinario y se confirma la
+sentencia apelada en cuanto fue materia del recurso. Con cos-
+tas. Agréguese la queja al expediente principal. Notifíquese
+y, oportunamente, devuélvase. ADOLFO ROBERTO VAZQUEZ.
+
+
+                             -43-
+
+[[PDF p. 44]]
+ES COPIA
+
+
+
+
+           -44-

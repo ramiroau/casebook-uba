@@ -1,0 +1,22 @@
+# Sagüés, «Interpretación constitucional y alquimia constitucional» (U05).
+# Encabezados y folios de página
+^\s*151\s*$
+^\s*1[5-7]\d • Néstor Pedro Sagüés\s*$
+^\s*Interpretación constitucional y alquimia constitucional\s+• 1[5-7]\d\s*$
+# Notas al pie (empiezan con el número sangrado, no en renglón propio)
+^\s+1 V\. Sobre el tema WRÓBLEWSKY[\s\S]*?Editorial Civitas, p\. 51 y sigts\.\s*$
+^\s+2  Por ejemplo, CSJN, Fallos, 1:340[\s\S]*?cada uno de ellos\.\s*$
+^\s+4  Cfr\. SAGÜÉS, Néstor Pedro, La interpretación judicial de la Constitución[\s\S]*?p\. 61 y sigts\.\s*$
+^\s+5   Ibidem, p\. 113 y sigts\.\s*$
+^\s+6    Ver por ejemplo CORWIN[\s\S]*?pp\. 60, 71, 113, 172, 161, 178, 250, 260, etcétera\.\s*$
+^\s+9   SAGÜÉS, Néstor Pedro, La interpretación judicial\.\.\. p\. 100 y sigts\.\s*$
+# Llamadas de nota
+(?<=reglas de preferencia,)1(?= que re)
+(?<=“autoridad definitiva”\.)2(?= Conviene)
+(?<=periodo histórico determinado\),)3(?= sino)
+(?<=8° in fine\)\.)4(?=\s*$)
+(?<=estudios más especializados sobre la cuestión\.)5(?=\s*$)
+(?<=por la jurisprudencia norteamericana,)6(?= otras)
+(?<=importantes y controvertidos análisis\.)7(?=\s*$)
+(?<=Lief Carter,)8(?= estiman)
+(?<=el no interpretativismo\),)9(?= o que)

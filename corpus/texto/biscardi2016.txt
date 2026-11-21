@@ -1,0 +1,765 @@
+# fuente: Unidad8/Biscardi_Jerarquía constitucional y tratados internacionales.pdf
+# md5_original: 098f5f233ea7d0d3e32563adab910cbd
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Borrador – no citar ni circular.
+
+                      Jerarquía constitucional y tratados internacionales
+
+
+                                        Samanta Biscardi1
+
+          I. Sobre la jerarquía de los tratados internacionales de derechos humanos
+
+
+          El art. 31 de la CN establece que ―esta Constitución, las leyes de la Nación que
+en su consecuencia se dicten por el Congreso y los tratados que en consecuencia se
+dicten con las potencias extranjeras son la ley suprema de la Nación‖, del que deriva el
+principio de supremacía constitucional2. Sin embargo, el punto de la jerarquía entre
+tratados internacionales y leyes no era claro; por lo que fue uno de los temas a los que
+se abocaron los convencionales constituyentes de 1994, a los fines de despejar las
+dudas que dejaba en torno a la cuestión la jurisprudencia de la Corte Suprema de
+Justicia de la Nación. Veamos.
+
+          I. a) Jerarquía de los tratados internacionales antes de la reforma constitucional
+de 1994.
+
+
+          Como adelantamos, los fallos de la CSJN no permitían extraer una pauta clara
+de interpretación respecto de la jerarquía ostentada en nuestro sistema normativo por
+los tratados internacionales. En uno de los primeros precedentes, el Máximo Tribunal
+hizo hincapié en la supremacía de los tratados internacionales respecto de las leyes3.
+Luego, sostuvo la igualdad jerárquica entre ambas fuentes, pues entendió que no
+surgía del texto de la Constitución un orden de prelación entre ellas, sino una igualdad
+jerárquica; por lo que era aplicable –al tratarse de normas de igual jerarquía -- el
+principio de ―lex posterior deroga ley anterior‖4. Afirmó para ello que "ni el art. 31 ni el
+100 de la CN atribuyen prelación o superioridad a los tratados respecto de las leyes
+válidamente dictadas por el Congreso de la Nación. Ambos -leyes y tratados- son
+igualmente calificados como Ley Suprema de la Nación, y no existe fundamento
+normativo para acordar prioridad de rango a ninguno"5.
+
+
+
+
+1
+    Abogada, UBA (2001), LLM, University of Michigan (2009), Doctoranda en Derecho, UP.
+2
+     Ver en este mismo volumen, Elfman, Jonás ―Supremacía constitucional. control de
+constitucionalidad y control de convencionalidad‖
+3
+    ―Merck Química Argentina c/ Gobierno de la Nación‖, Fallos: 115:210
+4
+    ―SA Martín y Cia. c. Nación Argentina‖; Fallos 257:99
+5
+    íd. ant, consid. 6.
+
+
+
+                                                                                          1
+
+[[PDF p. 2]]
+Borrador – no citar ni circular.
+
+          Esta indecisión parecía haberse terminado con la decisión en el caso
+Ekmekdjián c. Sofovich, donde la CSJN afirmó que --a partir de la entrada en vigencia
+de la Convención de Viena6-- estos instrumentos internacionales habían adquirido
+jerarquía superior a las leyes. Su razonamiento se asentó en el art. 27 de la referida
+convención, que torna imposible --por parte de los estados signatarios-- invocar
+disposiciones de derecho interno como justificación para incumplir disposiciones de un
+tratado internacional.
+
+
+          La supuesta claridad que debía brindarnos el referido precedente, sin embargo,
+era sólo aparente; pues el argumento utilizado por la CSJN confunde el problema de la
+jerarquía de las normas con la existencia de una unidad en el ordenamiento jurídico.
+Ello es así porque, en realidad, la Convención de Viena sólo puede establecer –al sólo
+efecto de la responsabilidad internacional del Estado-- que el derecho interno del país
+suscriptor no podrá nunca justificar un incumplimiento en el orden internacional. Sin
+embargo, de ninguna manera se sigue de esta imposibilidad de evitar –en el orden
+internacional--     la eventual responsabilidad en que se ocurra la existencia de una
+relación jerárquica en el orden interno.
+
+
+          La postura fijada en Ekmekdjián –esto es, que la necesaria aplicación del art.
+27 de la Convención de Viena impone necesariamente a los órganos del Estado
+Argentino dar prioridad absoluta a un tratado internacional ante un eventual conflicto
+con una norma interna contraria— fue confirmada en fallos posteriores7. Ello ocurrió
+aún en casos en los que esta primacía de los tratados internacionales se encontraba
+subordinada a la aseguración de los principios de derecho público constitucionales8.
+Esta interpretación del art. 27 de la Convención de Viena parecía tener como
+consecuencia necesaria la asignación de prevalencia de todo el derecho internacional
+sobre el derecho interno, incluyendo la CN; dado que –en los términos del art. 27 de la
+Convención de Viena – una manda constitucional tampoco podría ser invocada a los
+
+
+
+
+6
+    Aprobada por ley 19865, ratificada el 5/12/72, vigencia 27/01/80
+7
+    CSJN, "Fibraca Constructora S.C.A. v. Comisión Mixta de Salto Grande", sentencia del
+7/7/1993; CSJN, "Hagelin, Ragnar c. PEN. s. juicio de conocimiento", sentencia del 22/12/1993.
+8
+    CSJN, "Fibraca Constructora S.C.A. v. Comisión Mixta de Salto Grande", sentencia del
+7/7/93.
+
+
+
+                                                                                            2
+
+[[PDF p. 3]]
+Borrador – no citar ni circular.
+
+fines de justificar el incumplimiento con un tratado internacional. Pese a ello, la CSJN
+se encargó de aclarar que los tratados no eran jerárquicamente superiores a la CN9.
+
+          I. b) Jerarquía de los tratados internacionales con posterioridad a la reforma
+constitucional de 1994.
+
+
+          Ahora bien, como adelantamos, una de las tareas del constituyente de 1994 fue
+la de zanjar la cuestión referida a la jerarquía de los instrumentos internacionales. Así,
+se estableció de forma expresa en el ―nuevo‖ art. 75 inc. 22 que los tratados ―tienen
+jerarquía superior a las leyes‖. Además, el artículo enumera una serie de convenciones
+de derechos humanos a las que se les confirió ―jerarquía constitucional‖, pudiendo
+adquirir igual estatus otros tratados de derechos humanos mediante la intervención del
+Congreso, con una mayoría especial. Asimismo, el texto reformado calificó la mentada
+―jerarquía constitucional‖, afirmando que las enumeradas convenciones la recibían ―en
+las condiciones de su vigencia‖, que dichos instrumentos ―no derogan artículo alguno
+de la primera parte de la Constitución‖, y que deben entenderse ―complementarios de
+los derechos y garantías en ella reconocidos‖. Cabe formular algunas aclaraciones al
+respecto.
+
+          1) “no derogan artículo alguno”
+
+
+          La posición que actualmente sostiene la CSJN es que la afirmación del
+constituyente de que los tratados en cuestión ―no derogan‖ artículo alguno de la primer
+parte de la CN‖ ha sido descriptiva. En tal sentido, sostuvo que la aseveración importa
+que el constituyente ha examinado el contenido de los tratados constitucionales al
+momento de su incorporación, y ha verificado su adecuación a los preceptos
+constitucionales10. Es por ello que " la armonía o concordancia entre los tratados y la
+Constitución es un juicio constituyente. En efecto, así lo han juzgado al hacer la
+referencia a los tratados que fueron dotados de jerarquía constitucional y, por
+consiguiente, no pueden ni han podido derogar la Constitución pues esto sería un
+
+9
+     CSJN, ――Café La Virginia S.A. c/ Administración Nacional de Aduanas s/ repetición‖, del
+13/10/1994, Fallos 317:1282.
+10
+     CSJN. 26/12/96, "Monges, Analía M. v. Universidad de Buenos Aires" JA 1998-I-350: "no
+derogan artículo alguno de la primera parte de esta Constitución y deben entenderse
+complementarios de los derechos y garantías por ella reconocidos" significa que los
+constituyentes “han efectuado un juicio de comprobación, en virtud del cual han cotejado los
+tratados y los artículos constitucionales y han verificado que no se produce derogación alguna,
+juicio que no pueden los poderes constituidos desconocer o contradecir";
+
+
+
+                                                                                             3
+
+[[PDF p. 4]]
+Borrador – no citar ni circular.
+
+contrasentido insusceptible de ser atribuido al constituyente, cuya imprevisión no cabe
+presumir"11. La necesaria conclusión del Tribunal ha sido que “las cláusulas
+constitucionales y las de los tratados tienen la misma jerarquía, son complementarias
+y, por lo tanto, no pueden desplazarse o destruirse recíprocamente". Esta doctrina es
+reiterada en casos posteriores12.
+
+
+          De acuerdo con esta doctrina, pareciera ser que cuando el Congreso de la
+Nación otorga jerarquía constitucional a un tratado internacional –conforme lo
+establecido en el art. 75 inc. 22-- se encuentra en realidad ejerciendo funciones
+constituyentes, pues realizaría el mentado juicio de comprobación de compatibilidad
+entre cada instrumento internacional y las cláusulas constitucionales. Repárese al
+respecto que la CSJN ha expresado que esta comprobación –por ser facultad
+constituyente -- no puede ser revisada por el Tribunal13. Así, afirmó que “la armonía y
+concordancia entre los tratados y la Constitución es un juicio del constituyente que los
+poderes constituidos no pueden discutir‖14.
+
+          En contra de esta postura se manifestaron los ministros Fayt y Belluscio,
+quienes entienden que la expresión constitucional de que la incorporación de
+convenciones internacionales no derogan cláusula alguna de la CN como un mandato
+normativo. Es por esa razón que sostuvieron que la CSJN debe controlar en cada caso
+en que esté llamada a resolver la adecuación de los tratados internacionales a los
+preceptos constitucionales15, postulando que los referidos instrumentos de derechos
+humanos configuran normas constitucionales de segundo rango, por lo que la
+comprobación de su adecuación a la CN no puede omitirse.
+
+
+
+
+11
+     Íd. Ant., considerando 21
+12
+     CSJN, Fallos 319:3241, del 27 de diciembre de 1996. Reiterado en fallos posteriores como
+CSJN. "S, L.E. contra Diario "El Sol", 28/08/07, Fallos 330:3685.
+13
+     CSJN, ―Arancibia Clavel, Enrique Lautaro s/homicidio calificado y asociación ilícita y otros –
+causa 259‖, Fallos 328:341, 24/08/2004, concurrencia del ministro Boggiano.
+14
+     CSJN, ―Chocobar, Sixto C. c/Caja Nacional de Previsión para el Personal del Estado y
+Servicios Públicos‖, Fallos 319:3241.
+15
+     CSJN, ―Petric, Domajoc Antonio c/Diario Página 12‖, Fallos 321:885 y ―Arancibia Clavel‖, cit.
+
+
+
+                                                                                                 4
+
+[[PDF p. 5]]
+Borrador – no citar ni circular.
+
+           2) ―en las condiciones de su vigencia‖
+
+
+           Se ha dicho, entendemos que con razón, que esta afirmación contenida en la
+CN es ambigua16; y así, ha dado lugar a diversas interpretaciones.
+
+
+           Parte de la doctrina ha sostenido que la condición expresada en la cláusula se
+refiere al modo en que han sido aprobados y ratificados los tratados internacionales;
+esto es, con las respectivas reservas y declaraciones interpretativas17. Una reserva
+constituye una declaración unilateral realizada por el Estado al momento de firmar,
+ratificar, aceptar, aprobar o adherirse a un instrumento internacional, con el objeto de
+excluir o modificar los efectos jurídicos de ciertas disposiciones del tratado en su
+aplicación a ese Estado18. Las declaraciones interpretativas han sido asimiladas a las
+reservas en los casos en que el país pretenda dar un alcance específico a la obligación
+asumida19.
+
+
+           La CSJN, por su lado, también se ha ocupado de interpretar el significado de la
+remisión a ―las condiciones de su vigencia‖. En ―Giroldi‖20, la Corte Federal señaló que
+la jerarquía otorgada en la reforma constitucional de 1994 a la Convención Americana
+de Derechos Humanos en las condiciones de su vigencia importaba que la misma rige
+en nuestro país del mismo modo que lo hace en el ámbito internacional, ―considerando
+particularmente su efectiva aplicación jurisprudencial por los tribunales internacionales
+competentes para su interpretación y aplicación‖21. En virtud de ello, dictaminó que “la
+aludida jurisprudencia debe servir de guía para la interpretación de los preceptos
+convencionales en la medida en que el Estado Argentino reconoció la competencia de
+la Corte Interamericana para conocer en todos los casos relativos a la interpretación y
+
+
+
+16
+     Gelli, María Angélica ―Constitución de la Nación Argentina, comentada y concordada‖, 3ª. Ed.
+Ampliada y actualizada, Ed. La Ley, Bs. As., 2008, ps. 707.
+17
+     Gelli, op. cit, p. 709.
+18
+     art. 2.1. Convención de Viena sobre derecho de los tratados.
+19
+     Ver Bazán, Victor, ―La Convención Americana sobre derechos humanos y el efecto de las
+reservas sobre su entrada en vigencia‖ en ―Derecho Humanos. Corte Interamericana.
+Opiniones Consultivas. Textos completos y comentarios‖, Bidart Campos, Germán – Pizzolo,
+Calógero (h) (coords), Ed. Jurídicas Cuyo, Mendoza, Argentina, 2000, Tomo I, págs. 112 y ss.
+20
+     CSJN, ―Giroldi, Horacio David y otros s/recurso de casación – causa 32/93‖, del 07/04/1995,
+Fallos 318:514. Esta posición fue mantenida por la CSJN en los fallos "Bramajo, Hernán Javier
+s/inc. de excarcelación ", del 12/03/1996 y ―Felicetti, Roberto y otros‖, del 21/12/2000.
+21
+     id. ant.
+
+
+
+                                                                                               5
+
+[[PDF p. 6]]
+Borrador – no citar ni circular.
+
+aplicación de la Convención Americana” porque actuar de otro modo “podría implicar
+responsabilidad de la Nación frente a la comunidad internacional”22.
+
+           El Máximo Tribunal abordó una vez más la cuestión en ―Arancibia Clavel‖23,
+afirmando que la interpretación correcta de la CN implicaba que los tratados ―deben ser
+aplicados en la Argentina tal como funcionan en el ordenamiento internacional
+incluyendo, en su caso, la jurisprudencia internacional relativa a esos tratados y las
+normas de derecho internacional consuetudinario reconocidas como complementarias
+por la práctica internacional pertinente‖24. Como puede apreciarse, conforme las
+decisiones reseñadas, la jurisprudencia de la Corte Interamericana da Derechos
+Humanos (Corte IDH) pasó de ser una ―guía‖ para los tribunales internos a ser
+obligatoria, en línea con lo dicho en Ekmekdjián acerca imposibilidad de aducir
+normativa de origen interno para no cumplir con los tratados internacionales25. En el
+caso puntual de este fallo, tomó como obligatorio el precedente ―Barrios Altos‖26, un
+caso fallado por la Corte IDH en el cual se condena a otro país del sistema
+interamericano. La doctrina que emana de este caso (―Arancibia Clavel‖ y la
+obligatoriedad del precedente ―Barrios Altos‖) es luego utilizada para la anulación de
+las leyes de obediencia debida y punto final en ―Simón‖27.
+
+
+           Ahora bien, los casos reseñados presentan la particularidad de referirse a la
+posibilidad y condiciones de persecución penal de presuntos autores crímenes de lesa
+humanidad, casos en los cuales la realidad política de los países había impedido que
+estas personas respondieran frente a los tribunales con normativa de dudosa
+legitimidad28. Pero posteriormente, en el fallo ―Espósito‖ la CSJN analizó el caso de la
+muerte de Walter Bulacio, víctima de represión policial. En el marco del proceso
+iniciado ante la Corte Interamericana de Derechos Humanos, el Estado Argentino
+
+22
+     Id. ant.
+23
+     CSJN, ―Arancibia Clavel, Enrique Lautaro s/homicidio calificado y asociación ilícita y otros –
+causa 259‖, Fallos 328:341.
+24
+     id. ant.
+25
+     Convención de Viena sobre Derecho de los Tratados
+26
+     Corte Interamericana de Derechos Humanos, caso ―Barrios Altos vs. Peru‖, sentencia del
+14/03/2001.
+27
+     CSJN, ―Simón, Julio Héctor y otros s/privación ilegítima de la libertad – causa 17768‖, Fallos
+328:2056. La multiplicidad de votos del fallo hacen difícil extraer una única opinión, pero todos
+los votos de la mayoría descansaron en mayor o menor medida en esta jurisprudencia.
+28
+     En el caso peruano, una ley de amnistía, en el caso argentino, leyes dictadas bajo cierta
+presión en una democracia no consolidada.
+
+
+
+                                                                                                 6
+
+[[PDF p. 7]]
+Borrador – no citar ni circular.
+
+reconoció su responsabilidad internacional y, dado que en el proceso penal local se
+había declarado extinguida la acción penal por prescripción29. El caso llegó a la CSJN
+luego de la condena a la Argentina en sede internacional30; aceptando el tribunal el
+recurso aun frente a la inexistencia de cuestión federal31, es decir, apartándose de las
+reglas generales de su competencia32; manifestando que debía hacerlo pues de lo
+contrario ―contravendría lo decidido por la Corte Interamericana”33. Afirmó que es
+deber de la Corte ―subordinar el contenido de sus decisiones a las de dicho tribunal
+internacional‖34, pues ―el ámbito de decisión de los tribunales argentinos ha quedado
+considerablemente limitado‖35; tanto así que, a pesar de protestar que ―esta Corte no
+comparte el criterio restrictivo del derecho de defensa que se desprende de la
+resolución del tribunal internacional mencionado‖, remarcando asimismo que ―hacer
+caer sobre el propio imputado los efectos de la infracción a ese deber […] produce una
+restricción del derecho de defensa difícil de legitimar a la luz del derecho a la
+inviolabilidad de dicho derecho conforme el art. 18 CN‖, sobre todo cuando ―el acusado
+no ha tenido posibilidad alguna de discutirlos‖ la CSJN no tiene otra opción más que
+seguir la decisión de un tribunal internacional juzgando la responsabilidad del Estado.
+Así, asumió que ―se plantea la paradoja de que sólo es posible cumplir con los deberes
+impuestos al Estado Argentino por la Jurisdicción internacional en materia de derechos
+humanos restringiendo fuertemente los derechos de defensa y a un pronunciamiento
+en un plazo razonable, garantizados al imputado por la Convención Interamericana
+debe fallar en sentido inverso a su propio criterio‖36.
+
+
+
+
+29
+     CSJN, ―Espósito, Miguel Angel s/incidente de prescripción de la acción penal promovido por
+su defensa‖, Fallos: 327:5668
+30
+     Corte Interamericana de Derechos Humanos, ―Bulacio, Walter v. Argentina‖, sentencia del
+18/09/2003.
+31
+     Ley 48.
+32
+     CSJN, ―Espósito, Miguel Angel s/incidente de prescripción de la acción penal promovido por
+su defensa‖, Fallos: 327:5668.
+33
+     Id. ant.
+34
+     Id. ant.; había sido adelantado en el voto en disidencia del juez Maqueda en ―Resolución
+1404/2003‖, dictada a partir de la Procuración del Tesoro ante la CSJN a los fines de que dicho
+Tribunal instrumentara el cumplimiento de la sentencia de la Corte IDH en el caso ―Cantos‖,
+que había condenado a la República Argentina por una condena de la CSJN al pago de
+honorarios (ver CSJN, ―Resolución 1404/03‖ del 21/08/2003, LL, 2003-F, 16).
+35
+     Id. ant.
+36
+     Id. ant
+
+
+
+                                                                                             7
+
+[[PDF p. 8]]
+Borrador – no citar ni circular.
+
+          La CSJN dio un paso más en el caso ―Derecho‖37. René Derecho había sido
+sobreseído parcial y definitivamente por la extinción de la acción penal por prescripción
+en una causa originada por la supuesta tortura inflingida en una comisaría en 1988 a
+Juan Francisco Bueno Alves, quien recurrió la decisión argumentando que se trataba
+de un crimen de lesa humanidad. La CSJN, haciendo suyo el dictamen del procurador,
+no estuvo de acuerdo con esa calificación y confirmó la extinción de la acción.38
+Paralelamente, Bueno Alves llevó su caso al sistema interamericano, proceso en el
+cual la Corte IDH dictó sentencia haciendo considerando respecto de los hechos
+denunciados que si bien ―no significaba que debían ser calificados „per se‟ como delito
+de lesa humanidad, sí se trataba de una violación grave de derechos humanos.‖39 En
+consecuencia, dispuso que ―el Estado debe realizar inmediatamente las debidas
+investigaciones para determinar las correspondientes responsabilidades por los hechos
+de este caso y aplicar las consecuencias que la ley prevea. El Estado debe asegurar
+que la víctima tenga pleno acceso y capacidad de actuar en todas las etapas e
+instancias de dichas investigaciones y procesos, de acuerdo con la ley interna y las
+normas de la Convención Americana.‖ Munido del decisorio, Bueno Alves ocurrió en
+queja a la CSJN, que desechó el fallo anterior e interpretó que la orden de investigar de
+la Corte IDH implicaba aplicar el precedente ―Bulacio‖, dado que ―cuando la Corte IDH
+ha dado otro alcance a la reparación estadual ha sido categórica‖. Ello, una vez más,
+para asegurarse de no incurrir en responsabilidad internacional40.
+
+          El último caso en el que la CSJN se abocó al análisis del alcance de la
+influencia de dictámenes de organismos internacionales en las decisiones locales fue
+la causa ―Carranza Latrubesse‖41. Allí, el Máximo Tribunal resolvió respecto de la
+obligatoriedad de los informes realizados por la Comisión Interamericana de Derechos
+Humanos (CIDH) en el marco del artículo 51.2. de la Convención Americana. El actor
+había sido removido de su cargo de juez de primera instancia de la Provincia del
+Chubut mediante un decreto dictado por el PEN de facto de dicha provincia el 17 de
+
+37
+     CSJN, ―Derecho, René Jesús s/incidente de prescripción de la acción penal -causa Nº
+24.079‖, Fallos 334:1504.
+38
+     Íd. Ant.
+39
+     Corte Interamericana de Derechos Humanos, ―Bueno Alves v. Argentina‖, sentencia de 11 de
+mayo de 2007.
+40
+     ―Derecho, René Jesús s/incidente de prescripción de la acción penal -causa Nº 24.079‖,
+Fallos 334:1504.
+41
+     CSJN, ―Carranza Latrubesse, Gustavo c/ Estado Nacional - Ministerio de Relaciones
+Exteriores – Provincia de Chubut‖, del 06/08/2013.
+
+
+
+                                                                                           8
+
+[[PDF p. 9]]
+Borrador – no citar ni circular.
+
+junio de 1976. Restablecida la democracia, promovió en junio de 1984 una acción
+reclamando la nulidad de esa medida y la reparación de los daños (mas no la
+reposición en el cargo). El tribunal entendió que la causa configuraba una cuestión
+política no justiciable; y el RREE no fue admitido. Con posterioridad, el actor presentó
+una petición ante la Comisión Interamericana de Derechos Humanos contra el Estado
+Argentino, sosteniendo que se había violado su derecho a las garantías judiciales del
+art. 8 de la Convención. La Comisión recomendó al Estado la indemnización a
+Carranza Latrubesse. Una vez más, la CSJN aceptó el caso y sostuvo que si un
+Estado suscribe y ratifica un tratado internacional, especialmente si trata de derechos
+humanos, debe realizar sus mejores esfuerzos para aplicar las recomendaciones de un
+órgano de protección como la Comisión que es, además, uno de los órganos
+principales de la Organización de los Estados Americanos. También valoró que la
+única defensa contra el requerimiento del Carranza Latrubesse había consistido en
+ignorar las recomendaciones en juego y escudarse en que éstas carecen de carácter
+vinculante,     sin   realizar    conducta    alguna    teniente   al   cumplimiento   de   las
+recomendaciones del organismo internacional. En consecuencia, sostuvo que
+corresponde reconocer el carácter obligatorio para el Estado de las recomendaciones
+del art. 51.2 de la Convención Americana formuladas en el caso, pues es evidente que
+dicho resultado es el que impone el "sentido" que debe atribuirse a los términos del
+citado precepto tanto en el "contexto" especifico cuanto en el general en el que están
+insertos, atendiendo al "objeto y fin" del régimen de peticiones y de la Convención
+Americana en su integralidad.
+
+          Lo dicho en este último caso, parece contradecir lo aseverado en un precedente
+anterior, cuando el Tribunal sostuvo que “si bien por el principio de buena fe que rige la
+actuación      del    Estado     argentino   en   el   cumplimiento     de   sus   compromisos
+internacionales, aquél debe realizar los mejores esfuerzos para dar respuesta favorable
+a las recomendaciones efectuadas por la comisión, ello no equivale a consagrar como
+deber para los jueces el de dar cumplimiento a su contenido, al no tratarse aquéllas de
+decisiones vinculantes para el Poder Judicial. Es que la jurisprudencia internacional,
+por más novedosa y pertinente que se repute, no podría constituir un motivo de
+revisión de las resoluciones judiciales -equiparable al recurso de revisión-, pues ello
+afectaría la estabilidad de las decisiones jurisdiccionales, la que, en la medida en que
+constituye un presupuesto ineludible de la seguridad jurídica, es exigencia del orden
+público y posee jerarquía constitucional‖.42
+
+
+42
+     CSJN, ―Acosta, Claudia Beatriz s/ hábeas corpus‖, Fallos 321:3555.
+
+
+                                                                                             9
+
+[[PDF p. 10]]
+Borrador – no citar ni circular.
+
+         II. ¿Complementarias?
+
+         II. a. Lo que sostiene al respecto la Corte Interamericana
+
+
+         En el "Caso Almonacid Arellano y otros vs. Chile", la Corte IDH sostuvo que
+―cuando un Estado ha ratificado un tratado internacional como la Convención
+Americana, sus jueces, como parte del aparato del Estado, también están sometidos a
+ella; surgiendo la obligación de velar porque los efectos de las disposiciones de la
+Convención no se vean mermados por la aplicación de leyes contrarias a su objeto y
+fin, y que desde un inicio carecen de efectos jurídicos. En otras palabras, para la
+CorteIDH, el Poder Judicial debe ejercer una especie de 'control de convencionalidad'
+entre las normas jurídicas internas que aplican en los casos concretos y la CADH;
+tarea para la cual debe tener en cuenta el tratado y la interpretación que del mismo ha
+hecho la Corte IDH, en su calidad de intérprete última de la Convención 43.
+
+
+         Luego, en el "Caso Trabajadores Cesados del Congreso vs. Perú", expresó
+que: "... los órganos del Poder Judicial deben ejercer no sólo un control de
+constitucionalidad, sino también 'de convencionalidad' ex officio entre las normas
+internas y la Convención Americana, evidentemente en el marco de sus respectivas
+competencias y de las regulaciones procesales correspondientes"44. Finalmente, "Caso
+Gelman vs. Uruguay", fue más allá asegurando que "... particularmente en casos de
+graves violaciones a las normas del Derecho Internacional de los Derechos, la
+protección de los derechos humanos constituye un límite infranqueable a la regla de
+mayorías, es decir, a la esfera de lo 'susceptible de ser decidido' por parte de las
+mayorías eninstancias democráticas, en las cuales también debe primar un 'control de
+convencionalidad' (...), que es función y tarea de cualquier autoridad pública y no sólo
+del Poder Judicial"45.
+
+
+         Ciertamente, no podemos disentir con la obligatoriedad de la CADH para la
+Argentina. Pero, si se sigue la lógica del tribunal, la Constitución Nacional no estaría
+exceptuada del control de convencionalidad, y el Pacto de San José de Costa Rica se
+
+
+43
+     Corte Interamericana de Derechos Humanos, ―Almonacid Arellano y otros vs. Chile‖,
+sentencia del 26/09/2006, párr 124.
+44
+     Corte Interamericana de Derechos Humanos, "Trabajadores Cesados del Congreso vs.
+Perú‖, sentencia del 30/11/2007, párrafo 128
+45
+     Corte Interamericana de Derechos Humanos, ―Gelman vs. Uruguay‖, sentencia del
+24/02/2011, párrafo 239.
+
+
+
+                                                                                     10
+
+[[PDF p. 11]]
+Borrador – no citar ni circular.
+
+encontraría por encima de todo el ordenamiento jurídico del Estado, sin omitir a la
+propia Constitución. Esta condición de supraconstitucionalidad de la CADH se observa
+en el caso de "La última tentación de Cristo", donde la Corte IDH reclamó a Chile
+modificar una cláusula de la Constitución local opuesta al Pacto, como efectivamente
+se hizo después.
+
+
+         En esa línea, la CADH se erigiría en la real norma suprema de la Nación, por
+encima de la propia Constitución Nacional; y la Corte IDH, como órgano supremo e
+intérprete final de dicho instrumento internacional, por encima de los órganos del
+Estado Nacional.
+
+         III. b. Críticas
+
+
+         Hay quienes interpretan la actuación de la CSJN afirmando que cuando el
+tribunal interamericano resuelve un caso concreto donde la Argentina ha sido parte, el
+Máximo Tribunal acepta la decisión como vinculante en razón de la aceptación por
+parte del Estado Argentino de la jurisdicción del tribunal internacional. En esa línea, se
+dice que, si bien el tribunal regional no ejerce un poder de decisión directo e inmediato
+sobre el ordenamiento jurídico propio del Estado condenado, sí lo lleva a cabo de
+forma mediata, toda vez que posee facultades convencionales para ordenar que el
+Estado, por intermedio de cualquiera de sus poderes u órganos estatales, asegure el
+cumplimiento de la sentencia de la Corte IDH, ya sea suprimiendo, modificando o
+corrigiendo normas jurídicas, sentencias judiciales o comportamientos y prácticas
+institucionales internos, en la medida en que constituyan la causa que ha provocado la
+violación a las disposiciones de la CADH46. Sin embargo, Simón, no se ajusta a esa
+regla, pues se basa en un fallo de la Corte IDH en el que se condena a otro país.
+
+         No podemos sino acordar con la CSJN cuando asumió que ―la Argentina ha
+reducido grandemente el ámbito de su respectiva jurisdicción interna por vía de
+acuerdo con muchos tratados y declaraciones sobre derechos humanos y participando
+en la formación de un delineado cuerpo de derecho consuetudinario internacional
+sobre derechos humanos.‖ Sin embargo, observamos esta tendencia con extrema
+preocupación, pues entendemos que este sometimiento a la jurisprudencia de la Corte
+IDH --aún bienintencionado-- es cuanto menos problemático. De ello nos ocuparemos
+en el acápite siguiente.
+
+
+46
+     Abalos, María Gabriela, ―Supremacía constitucional y control de convencionalidad a veinte
+años de la reforma de 1994‖, Sup. Const. 2014 (julio),17; LL 2014-D, 833.
+
+
+
+                                                                                           11
+
+[[PDF p. 12]]
+Borrador – no citar ni circular.
+
+
+
+
+       III. Apuntes críticos: la promesa Ekmekdjián
+
+
+       La tendencia jurisprudencial exhibida por el Máximo Tribunal no deja lugar a
+dudas: el ordenamiento constitucional argentino ha quedado sometido a la instancia
+internacional. Ello nos enfrente a problemas de dos tipos.
+
+       (i)      Jurídicos
+
+
+       El art. 27 de la CN determina que, a la hora de suscribir tratados
+internacionales, éstos deberán estar ―en conformidad con los principios de derecho
+público establecidos en esta constitución‖. Por su lado, el art. 30 establece el único
+modo para la reforma constitucional: declarada su necesidad por el Congreso, debe
+efectuarse por una Convención convocada a tal efecto.
+
+
+       De la simple lectura de estos preceptos se colige que la incremental deferencia
+y sumisión a la CADH y a sus organismos –Comisión IDH y Corte IDH— no es
+constitucionalmente aceptable. A lo largo de los años, se ha pasado de presumir el
+juicio de compatibilidad de la normativa interna con la CADH –conforme jurisprudencia
+de la CSJN— a la obligación del Estado Argentino, en ejercicio de ―control de
+convencionalidad‖ de adecuar las normas internas –incluida la CN— a la interpretación
+que de la CADH haya hecho la Corte Interamericana. Así, en efecto, la adecuación de
+la que habla el art. 27 es ahora inversa.
+
+
+       Por otro lado, se ha abierto una vía de reforma constitucional distinta a la del
+art. 30: cada decisión de la Corte IDH tiene potencial reformador, y cada vez que se
+otorga jerarquía constitucional a un tratado se abre la puerta a interpretaciones
+autoritativas de organismos internacionales que, a su vez, pueden modificar el texto
+constitucional, que ha pasado a segundo plano frente a una internacionalización de la
+Constitución.
+
+       (ii) democráticos
+
+
+       La concepción de democracia a la que adherimos es exigente, pues le asigna
+especial valor a las decisiones a las que la comunidad política arriba luego de la
+discusión pública por parte de los afectados. Consecuencia inevitable de ello es el total
+rechazo al abandono de soberanía interpretativa por parte de la CSJN.
+
+
+
+
+                                                                                      12
+
+[[PDF p. 13]]
+Borrador – no citar ni circular.
+
+          Para una teoría de este tenor – por ejemplo, la teoría de la democracia
+deliberativa47- la existencia misma del control de constitucionalidad de las decisiones
+mayoritarias ya es problemática. Esta tensión, a la que se le ha dado el nombre de
+―dificultad contramayoritaria‖,48 expresa la objeción que puede hacerse desde una
+teoría democrática como la señalada, a la potestad de los jueces – quienes no son
+elegidos por el pueblo – de invalidar una ley surgida del debate democrático. Pero si
+existe un conflicto para nuestra idea de democracia como autogobierno con la
+posibilidad de que la CSJN ejerza ese rol49, imaginemos cuánto se agudiza el
+problema si dejamos esta facultad en manos de un órgano que no es parte de nuestras
+instituciones democráticas. Los miembros de nuestra CSJN no han sido electos
+democráticamente, es cierto, y por buenas razones50, pero existen mecanismos que
+hacen a su rendición de cuentas. Por lo pronto, tienen legitimidad democrática derivada
+por ser su nombramiento conforme a la CN y con acuerdo del Senado, y su
+designación tiene componentes que permiten cierto escrutinio y control por parte de la
+ciudadanía51. También está establecido un mecanismo de control democrático sobre
+su desempeño en la CN mediante un procedimiento para su remoción52. Sumado a
+estos mecanismos de rendición de cuentas formales, existen otros de carácter
+informal, como por ejemplo el hecho de que la CSJN precise conservar cierta
+legitimidad para la observancia de sus fallos por otros poderes dada la inexistencia de
+mecanismos de coerción penal o económica53 a su disposición; o el hecho de que,
+como todo tribunal, se encuentra restringido y limitado54 al fallar por su pertenencia a
+47
+     Nino, Carlos Santiago, ―La constitución de la democracia deliberativa‖, Gedisa, Madrid, 1997.
+Para una exploración de otras teorías de la democracia ver Racimo, Fernando M., ―Democracia
+deliberativa, teoría y crítica‖, Ed. Ad-hoc, 2006.
+48
+     Término acuñado en Bickel, Alexander, ―The least dangerous branch‖, Bobbs-Merril
+Educational Publishing, 1978, citado en Gargarella, Roberto, ―La justicia frente al gobierno‖, Ed.
+Ariel, 1996.
+49
+     Para una exploración de la objeción contramayoritaria ver Gargarella, Roberto, ―La justicia
+frente al gobierno‖, Ed. Ariel, 1996
+50
+     Por ejemplo, si nuestra justificación para el ejercicio de ese rol es la protección de minorías
+frente a decisiones mayoritarias. Al respecto, ver Gargarella op cit.
+51
+     Como el mecanismo instituido por el decreto nacional 222/03.
+52
+     CN, art. 110 y ss, cuya amenaza es real, dado que ha sido utilizado recientemente para la
+remoción de ministros de la CSJN con escasa legitimidad.
+53
+     Para un ejemplo de la incapacidad coercitiva de la CSJN ver ―Sosa Eduardo Emilio C/
+Provincia de Santa Cruz (Rec Hecho), Fallos 332:2425.
+54
+     ver Kennedy, Duncan, ―Libertad y restricción en la decisión judicial‖, Siglo del Hombre Ed.,
+Bogotá, 1999.
+
+
+
+                                                                                                 13
+
+[[PDF p. 14]]
+Borrador – no citar ni circular.
+
+cierta sociedad, o por la necesidad de mantener cierto capital simbólico55. Sin olvidar,
+claro, que las normas que aplican – a pesar de su inevitable interpretación – surgen de
+mecanismos de expresión de voluntad popular.
+
+          Ninguno de estos mecanismos de accountability, sin embargo, es aplicable a la
+jurisprudencia internacional. Aún cuando algunos tratan de señalar que estos
+organismos, en especial la Corte IDH, tienen mecanismos de construcción de su
+jurisprudencia que con credenciales democráticas56, ellas son cuanto menos
+débiles57. Entonces, si reconocemos tensiones entre el control de constitucionalidad
+ejercido por la CSJN y nuestra soberanía normativa, más preocupante aún ha de ser la
+imposición de la interpretación dada a nuestros derechos por la Corte IDH, un cuerpo
+sin crédito democrático y cuya función explícita y específica es aplicar la Convención y
+en esa operación no tener aprecio por las normas e instituciones democráticas de los
+países. No existe forma de compatibilizar la renuncia de la CSJN a su rol y el
+reconocimiento de otra autoridad como definitiva con la noción de autogobierno
+colectivo. Estas objeciones encuentran más fuerza aún frente a los organismos de
+seguimiento de las convenciones, dada su integración por ―expertos independientes‖
+que supervisan en todos los estados partes la aplicación del tratado de que se trate.
+
+
+          Como corolario final del trabajo, me permito una crítica desde la lógica, pues
+considero que el argumento de la responsabilidad internacional confunde dos órdenes.
+El cumplimiento o no de ciertas obligaciones internacionales, en muchos casos por no
+
+55
+     Ver Kennedy, op. Cct.
+56
+     Abramovich señala que ―Así, actores sociales y políticos locales relevantes suelen participar
+de los procesos de creación de normas en la esfera internacional, tanto de la aprobación y
+ratificación de tratados como en las decisiones de los órganos internacionales que definen su
+contenido por vía de interpretación y su aplicación en casos o situaciones particulares. Al
+mismo tiempo, esas normas internacionales se incorporan al ámbito nacional por la acción de
+los Congresos, los gobiernos y los sistemas de justicia, y también con la activa participación de
+organizaciones sociales que promueven, demandan y coordinan esa aplicación nacional con
+las diversas instancias del Estado‖. Más allá de que la participación señalada parece ser (i)
+poco visible y, ergo, con credenciales democráticas dudosas y (ii) dependiente de las agendas
+de grupos de interés en cuanto al desarrollo y (iii) que el Congreso y los gobiernos suelen
+utilizar los dictados de organismos internacionales como argumentos de autoridad; aquí no se
+discute la aplicación de los tratados internacionales ni tan siquiera de la jurisprudencia
+internacional, sino el tratamiento que se hace de dicha jurisprudencia como autoridad
+inapelable. Ver Abramovich, op. cit.
+57
+     Fernandez Valle, art. cit.
+
+
+
+                                                                                               14
+
+[[PDF p. 15]]
+Borrador – no citar ni circular.
+
+reconocerles legitimidad o por entender que se exceden de su ámbito funcional, es una
+cuestión predominantemente política58, de la que no depende de modo alguno la
+aplicación en el ámbito interno de los tratados de derechos humanos incorporados por
+el art. 75 inc. 22. Para que quede claro: la vigencia de los derechos allí reconocidos se
+debe a una decisión soberana del pueblo argentino mediante su incorporación a la
+Constitución Nacional y son ley suprema de la Nación más allá de las decisiones de la
+Corte     IDH59.    Entonces,    la    posibilidad   de   cumplimiento   de   las   sentencias
+internacionales, que debe evaluar el PEN por sus atribuciones constitucionales (RREE)
+no implica que no se encuentre vigente el tratado en el orden interno.
+
+
+
+
+58
+     Es interesante pensar en casos en los cuales el cumplimiento de obligaciones de hacer
+basadas en la responsabilidad internacional no tenga contenido de ―derechos humanos‖ y nos
+genere una menor simpatía, como podrían ser obligaciones emanadas de tratados de paz o de
+inversión.
+59
+     Reforma constitucional de 1994.
+
+
+
+                                                                                           15

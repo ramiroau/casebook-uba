@@ -1,0 +1,244 @@
+# fuente: Unidad5/5_Scalia_1988_Originalism The lesser evil.pdf
+# md5_original: f38f1e978ffc7b7f6ab8a21acb60b0f2
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+   EL ORIGINALISMO: EL MENOR DE LOS MALES
+                              Titulo original en ingles: Originalism: The Lesser Evil
+
+                                             por Antonin Scalia
+                       Magistrado Asociado, Corte Suprema de los Estados Unidos
+                     Conferencia William Howard Taft sobre Derecho Constitucional
+                          Universidad de Cincinnati, 16 de septiembre de 1988
+
+
+
+   Me refiero a la opinión del Presidente de la Corte para el tribunal en Myers v. United States, que
+declaró inconstitucionales los intentos del Congreso de restringir el poder presidencial de remover a
+funcionarios del ejecutivo.
+
+   Lo que atrae mi atención en la opinión de Myers no es su sustancia, sino su método. Es un
+ejemplo paradigmático de lo que, en el discurso académico actual, se conoce como el enfoque
+originalista de la interpretación constitucional. El objetivo de la extensa opinión del Presidente de la
+Corte era establecer el significado de la Constitución en 1789 respecto del poder presidencial de
+remoción. Para ello, examinó diversas evidencias: no sólo el texto de la Constitución y su estructura
+general, sino también la comprensión contemporánea del poder de remoción presidencial
+(especialmente la del Primer Congreso y de los principales participantes en la Convención
+Constitucional), el trasfondo conceptual de dicha figura en la constitución inglesa, y la naturaleza
+del poder de remoción del ejecutivo bajo las distintas constituciones estaduales vigentes al momento
+de adoptarse la Constitución.
+
+   Puede sorprender al lego, aunque seguramente no a los abogados presentes, saber que el
+originalismo no es, y quizás nunca fue, el único método de exégesis constitucional. Sería difícil
+contar las opiniones que de hecho han sido dictadas no sobre la base de lo que la Constitución
+significó originalmente, sino sobre la base de lo que los jueces consideraron en ese momento que
+sería deseable que significara. Eso es, supongo, el tipo de conducta a la que se refería el Presidente
+de la Corte Hughes cuando dijo que la Constitución es lo que los jueces dicen que es. Pero en el
+pasado, las opiniones no originalistas casi siempre tuvieron la decencia de mentir, o al menos de
+disimular, sobre lo que estaban haciendo: o bien ignorando pruebas sólidas de la intención original
+que resultaban convenientes para la Corte, o bien no discutiendo la intención original en absoluto,
+hablando en términos de amplias generalidades constitucionales sin pretensión alguna de sustento
+histórico.
+
+   El defecto teórico principal del no originalismo, desde mi punto de vista, es su incompatibilidad
+con el principio mismo que legitima el control judicial de constitucionalidad. Nada en el texto de la
+Constitución otorga a los tribunales el poder de indagar, en lugar de asumir pasivamente, la
+constitucionalidad de las leyes federales. Ese poder es, sin embargo, razonablemente implícito
+porque, como dijo Marshall en Marbury v. Madison: es enfáticamente la provincia y el deber del
+
+[[PDF p. 2]]
+departamento judicial decir cuál es la ley; si dos leyes entran en conflicto, los tribunales deben
+decidir sobre la aplicación de cada una; y la Constitución debe ser considerada, en los tribunales,
+como ley suprema.
+
+   Central para ese análisis, me parece, es la percepción de que la Constitución, aunque tiene un
+efecto superior al de otras leyes, es en su naturaleza el tipo de texto que es el ámbito propio de los
+tribunales: una norma con un significado fijo determinable a través de los medios habituales
+familiares para quienes tienen formación jurídica. Si la Constitución no fuera ese tipo de texto, sino
+una novedosa invitación a aplicar los valores sociales actuales, ¿qué razón habría para creer que la
+invitación estaba dirigida a los tribunales y no al legislativo? Todo lo contrario: el legislativo
+parecería un expositor mucho más apropiado de los valores sociales, y su determinación de que una
+ley es compatible con la Constitución debería, como en Inglaterra, prevalecer.
+
+   Si el derecho ha de tener alguna pretensión de coherencia y previsibilidad, debe existir un
+acuerdo general no sólo en que los jueces rechazan un enfoque exégetico (el originalismo), sino
+también en que adoptan otro. Y resulta difícil discernir algún consenso emergente entre los no
+originalistas sobre cuál podría ser ese otro enfoque. ¿Han de derivarse los 'valores' que reemplazan
+al significado original de la filosofía de Platón, de Locke, de Mill, de Rawls, o quizás de la última
+encuesta Gallup? Esto no quiere decir que los originalistas estén completamente de acuerdo sobre la
+naturaleza de su metodología; como mencionaré en breve, existen diferencias significativas. Pero
+como su nombre lo sugiere, el originalismo representa en líneas generales un enfoque coherente, o
+al menos un punto de partida acordado.
+
+   Por último, quiero mencionar lo que no es un defecto del no originalismo, sino uno de sus
+supuestos beneficios que me parece ilusorio. Hace un momento cité a uno de los no originalistas
+más destacados, el Profesor Tribe, en el sentido de que la Constitución 'nos invita a nosotros y a
+nuestros jueces a expandir las libertades que son exclusivamente nuestra herencia'. Creo que es justo
+decir que ese es un tema recurrente entre los no originalistas en general. Pero ¿por qué, cabe
+preguntar razonablemente, una vez descartado el sentido original de la Constitución para ser
+reemplazado por los 'valores de la sociedad actual', sólo se nos invita a 'expandir' libertades, y no a
+contraerlas también?
+
+   El término pasado decidimos un caso, Coy v. Iowa, en el que, durante el juicio a un hombre
+acusado de abusos deshonestos contra dos niñas, se permitió a las niñas testificar separadas del
+acusado por una pantalla que les impedía verlo. Resolvimos que, al menos sin una determinación
+específica de que esas testigos en particular necesitaban tal protección, este procedimiento violaba la
+disposición de la Sexta Enmienda que garantiza a un acusado el derecho 'a carearse con los testigos
+que deponen en su contra'.
+
+   Supongamos, sin embargo (hipótesis que bien puede ser verdadera), que la sociedad
+norteamericana moderna es mucho más consciente y adversa a los efectos del trauma que la
+sociedad de 1791, y que además se preocupa mucho más por la fragilidad emocional de los niños y
+
+[[PDF p. 3]]
+la sensibilidad de las jóvenes respecto de los abusos sexuales. Si eso es así, y si los no originalistas
+tienen razón, ¿no habría sido posible para la Corte sostener que, aunque en 1791 la cláusula de
+confrontación claramente no hubiera permitido una excepción general para tales testimonios, sí lo
+permite hoy? Semejante decisión, claro está, difícilmente podría caracterizarse como una 'expansión'
+de libertades.
+
+   Pasemos ahora al originalismo, que tampoco está exento de defectos. Su mayor defecto, a mi
+juicio, es la dificultad de aplicarlo correctamente. Lo que sí es cierto es que con frecuencia resulta
+sumamente difícil sondear la comprensión original de un texto antiguo. Realizada correctamente, la
+tarea exige la consideración de una enorme masa de material: en el caso de la Constitución y sus
+Enmiendas, por mencionar sólo un elemento, las actas de los debates de ratificación en todos los
+estados. Más allá de eso, requiere una evaluación de la fiabilidad de ese material (muchos de los
+informes de los debates de ratificación, por ejemplo, se consideran bastante poco confiables). Y más
+aún, exige sumergirse en la atmósfera política e intelectual de la época, dejando de lado
+conocimientos que nosotros tenemos pero que esa época no tenía, y adoptando creencias, actitudes,
+filosofías, prejuicios y lealtades que no son los de nuestro tiempo. Es, en pocas palabras, una tarea
+que a veces resulta más adecuada para el historiador que para el abogado.
+
+   La investigación realizada años después por el Profesor William Winslow Crosskey habría sido
+de utilidad para Taft. Refiriéndose a las prerrogativas reales descritas en los Comentarios sobre las
+Leyes de Inglaterra de William Blackstone, publicados en Filadelfia a principios de la década de
+1770, Crosskey señaló que muchas de las potestades enumeradas habían sido consideradas
+prerrogativas reales bajo el derecho inglés al momento de adoptarse nuestra Constitución. Por
+ejemplo, Blackstone escribió que el rey tenía 'el poder exclusivo de levantar y regular flotas y
+ejércitos', mientras que, por supuesto, estos poderes bajo nuestra Constitución residen en el
+Congreso en virtud del artículo I, sección 8, cláusulas 12 a 14. La Constitución también confía
+expresamente al Presidente ciertas prerrogativas reales tradicionales sujetas a limitaciones
+desconocidas en la constitución inglesa. Así, por ejemplo, el veto absoluto del rey sobre la
+legislación se convirtió en un veto calificado susceptible de ser superado por el voto de dos tercios
+del Congreso, y la facultad del rey de celebrar tratados se transformó en un poder presidencial de
+negociar tratados que requiere la ratificación por dos tercios del Senado.
+
+   De todo esto resulta evidente que la comprensión inglesa tradicional del poder ejecutivo o, más
+precisamente, de las prerrogativas reales, era bastante conocida por la generación fundadora, dado
+que aparecen repetidamente en el texto de la Constitución en formulaciones muy similares a las de
+Blackstone. Puede además argumentarse que cuando esas prerrogativas debían ser reasignadas total
+o parcialmente a otras ramas del gobierno, o debían ser limitadas de alguna otra manera, la
+Constitución así lo hizo en general de manera expresa. Podría inferirse razonablemente, por lo tanto,
+que lo que no fue reasignado expresamente permanecería con el ejecutivo, al menos sin
+incompatibilidad manifiesta con los principios republicanos.
+
+[[PDF p. 4]]
+   En la actualidad, por supuesto, la Corte Suprema no se toma tanto tiempo para decidir los casos
+como era costumbre en la época de Taft. Salvo en aquellos casos muy excepcionales en que se
+programa una nueva audiencia, el caso se decide en el mismo período en que se argüye por primera
+vez, lo que permite, en el mejor de los casos, el período comprendido entre principios de octubre y
+fines de junio, y en el peor, el período entre fines de abril y fines de junio. ¿Tiene alguna duda de
+que este sistema no presenta el entorno ideal para una investigación histórica enteramente precisa?
+Tampoco, y hablo por mí mismo al menos, emplea el personal ideal.
+
+   Puedo ser mucho más breve al describir lo que me parece la segunda objeción más seria al
+originalismo: en su forma más pura, al menos, es una medicina demasiado fuerte para tragar. Así,
+casi todo originalista lo adultera con la doctrina del stare decisis, de modo que Marbury v. Madison
+se mantendría incluso si el Profesor Raoul Berger demostrara incontrovertiblemente que se
+equivocó en el significado de la Constitución.
+
+   ¿Qué ocurriría si algún estado promulgara una nueva ley que prevéa el azote público, o el
+marcado de la mano derecha, como castigo por ciertos delitos penales? Incluso si pudiera
+demostrarse de manera inequívoca que estas medidas no eran crueles ni inusuales en 1791, y aunque
+ninguna decisión previa de la Corte Suprema las haya desaprobado específicamente, dudo que algún
+juez federal, incluso entre los muchos que se consideran originalistas, las sostuviera frente a una
+impugnación fundada en la Octava Enmienda. Bien puede ser, como el Profesor Henry Monaghan
+argumenta persuasivamente, que esto no pueda reconciliarse legítimamente con la filosofía
+originalista: que represente la visión irreal de la Constitución como un documento destinado a crear
+una sociedad perfecta para todos los tiempos, cuando en realidad fue un compromiso político que ni
+siquiera pretendía crear una sociedad perfecta para su propia época (como lo demuestra su
+tolerancia de la esclavitud, que la mayoría de la generación fundadora reconocía como un mal). Aun
+así, estoy convencido de que el azote público y el marcado de manos no serían sostenidos por
+nuestros tribunales, y cualquier defensa del originalismo como teoría práctica de exégesis debe de
+algún modo hacer las paces con esa realidad.
+
+   Una manera de hacerlo, por supuesto, sería sostener que la cláusula de castigos crueles e
+inusuales fue concebida originalmente con un contenido evolutivo: 'cruel e inusual para la época en
+cuestión', no 'cruel e inusual en 1791'. Pero para ser fiel a la filosofía originalista, no sólo debe
+afirmarse esto, sino demostrarse sobre la base de alguna evidencia textual o histórica. Quizás las
+meras palabras 'cruel e inusual' sugieran una intención evolutiva más que otras disposiciones de la
+Constitución, pero eso está lejos de ser claro; y no conozco evidencia histórica de ese significado. Y
+si el originalista de corazón débil está dispuesto simplemente a postular tal intención para la cláusula
+de 'castigos crueles e inusuales', ¿por qué no también para la cláusula del debido proceso, etc.?
+
+   Habiendo descrito lo que considero las principales dificultades del enfoque originalista y del no
+originalista, creo que le debo al oyente decir cuál de los dos males prefiero. Es el originalismo. Me
+tomo en serio la necesidad de legitimidad teórica, y aunque se asuma (como muchos no originalistas
+ni siquiera se molestan en hacer) que la Constitución fue concebida originalmente para exponer
+
+[[PDF p. 5]]
+valores evolutivos en lugar de permanentes, como comenté antes no veo base alguna para creer que
+la supervisión de esa evolución habría sido encomendada a los tribunales. En un nivel teórico aún
+más general, el originalismo me parece más compatible con la naturaleza y el propósito de una
+Constitución en un sistema democrático.
+
+   Una sociedad democrática no necesita, en líneas generales, garantías constitucionales para
+asegurar que sus leyes reflejen los 'valores actuales': las elecciones se encargan de eso bastante bien.
+El propósito de las garantías constitucionales de los derechos individuales que están en el centro de
+esta controversia es precisamente evitar que la ley refleje ciertos cambios en los valores originales
+que la sociedad que adoptó la Constitución considera fundamentalmente indeseables. O, más
+precisamente, exigir que la sociedad dedique al tema la larga y ardua consideración requerida para
+una enmienda constitucional antes de que esos valores particulares puedan ser descartados.
+
+   También creo que el defecto práctico central del no originalismo es fundamental e irreparable: la
+imposibilidad de alcanzar cualquier consenso sobre qué, precisamente, ha de reemplazar al
+significado original, una vez que éste es abandonado. Los defectos prácticos del originalismo, en
+cambio, si bien son genuinos, me parecen menos graves. Si bien puede ser irreal confiar
+sustancialmente en que los jueces y abogados encontrarán la respuesta histórica correcta a
+cuestiones tan refinadas de intención original como el contenido preciso de ciertas prerrogativas,
+para la gran mayoría de las preguntas la respuesta es clara. La pena de muerte, por ejemplo, no era
+un castigo cruel e inusual porque está referida en la propia Constitución; y el derecho de
+confrontación, por su lenguaje llano, significaba al menos estar cara a cara con la persona que
+testifica en contra de uno en el juicio. Para el no originalista, incluso estas son preguntas abiertas.
+
+   El principal peligro en la interpretación judicial de la Constitución, o, en todo caso, en la
+interpretación judicial de cualquier ley, es que los jueces confundan sus propias predilecciones con
+el derecho. Evitar este error es la parte más difícil de ser un juez consciente; quizás ningún juez
+consciente lo logra del todo. El no originalismo, que bajo una u otra formulación invoca los 'valores
+fundamentales' como piedra de toque de la constitucionalidad, opera precisamente sobre esta
+debilidad. Es muy difícil para una persona discernir una diferencia entre aquellos valores políticos
+que ella personalmente considera más importantes y aquellos valores políticos que son
+'fundamentales para nuestra sociedad'. Así, mediante la adopción de tal criterio, la personalización
+judicial del derecho se ve enormemente facilitada.
+
+   El originalismo no agrava la debilidad principal del sistema, pues establece un criterio histórico
+que es conceptualmente bastante distinto de las preferencias del propio juez. Y el defecto principal
+de ese enfoque, que la investigación histórica es siempre difícil y a veces inconcluyente, conducirá,
+a diferencia del no originalismo, a un resultado más moderado en lugar de uno más extremo. La
+tendencia inevitable de los jueces a pensar que el derecho es lo que quisieran que fuera causará, no
+tengo duda, que la mayoría de los errores en la historiografía judicial se cometan en la dirección de
+proyectar sobre la época de 1789 valores actuales y modernos, de modo que, tal como se aplica,
+incluso cuando se aplica de la mejor fe, el originalismo terminará siendo (como lo muestra el
+
+[[PDF p. 6]]
+registro histórico) algo así como un compromiso. Quizás no sea una mala característica para una
+teoría constitucional.
+
+   La gran mayoría de mis disidencias respecto del pensamiento no originalista (y espero que al
+menos algunas de esas disidencias sean mayorías) podrán, estoy seguro, formularse en los siguientes
+términos: que, incluso si la disposición en cuestión tiene un contenido evolutivo, no existe
+indicación suficiente de que haya ocurrido alguna evolución en las actitudes sociales. Esa es, para
+concluir esta charla en gran medida teórica con una nota de realidad, la disputa real que aparece en
+los casos: no entre no originalistas por un lado y puros originalistas por el otro, en torno a la validez
+de considerar en absoluto los valores actuales; sino entre, por un lado, los no originalistas y los
+originalistas puros que aceptan a efectos del argumento el contenido evolutivo, y por el otro, otros
+adherentes de los mismos enfoques, respecto de la naturaleza y el grado de evidencia necesarios
+para demostrar que ha ocurrido una evolución constitucional.
+
+
+
+      Nota: Esta conferencia fue pronunciada el 16 de septiembre de 1988 en la Universidad de Cincinnati
+      como la Conferencia William Howard Taft sobre Derecho Constitucional. El autor es Magistrado
+      Asociado de la Corte Suprema de los Estados Unidos. Traduccion al espanol realizada con fines
+      academicos.

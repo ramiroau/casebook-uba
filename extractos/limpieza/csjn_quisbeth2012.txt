@@ -1,0 +1,4 @@
+# csjn_quisbeth2012 (U18). Carátula repetida en las páginas impares del PDF.
+^\s*Q\. 64\. XLVI\.\s*$
+^\s{20,}Q\. C\., S\. Y\. c/ Gobierno de la Ciudad de Buenos\s*$
+^\s{20,}Aires s/ amparo\.\s*$

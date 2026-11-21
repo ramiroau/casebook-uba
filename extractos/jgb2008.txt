@@ -1,0 +1,1084 @@
+# fuente: Unidad7/1_González Bertomeu_2008_Notas sobre federalismo2.pdf
+# modo: texto
+# generado: 2026-11-20 (PyMuPDF, sólo cuerpo de 11,3 pt)
+# criterio: re-extracción del PDF digital con PyMuPDF. Se conservan sólo los renglones del cuerpo (11,3 pt);
+#   se descartan notas al pie (9,4 pt), llamadas de nota (superíndices), números de página, el cuadro de PDF p. 35
+#   y su leyenda. Punto y aparte reconstruido por el espacio vertical entre renglones. El texto de corpus/texto/jgb2008.txt
+#   (pdftotext -layout) intercala las notas en el cuerpo.
+
+[[PDF p. 1]]
+NF
+Juan F. González Bertomeu
+
+1. Interrogantes
+
+De acuerdo con la conocida declaración incluida en el primer artículo de la
+Constitución Nacional, nuestro país adoptó un régimen de estado federal. ¿Cuál es
+el significado de esta cláusula? ¿Qué implica que un país sea federal? ¿Qué rasgos
+mínimos debe tener para que podamos identificarlo como tal? ¿Por qué existen
+países federales? ¿Por qué Argentina es o debería ser uno de ellos? ¿Es Argentina
+insuficientemente federal o –en cambio– es demasiado federal? Sea lo que fuere que
+Argentina es a este nivel, ¿funciona bien o es necesario efectuar algunos ajustes?
+
+El propósito de este artículo es intentar esbozar algunas respuestas provisorias a
+estos interrogantes. Dada su complejidad, muchos temas relacionados con el
+federalismo quedarán de lado, y los que incluyo no recibirán la atención que
+merecen. El trabajo se articula del siguiente modo. En la próxima sección (2)
+intento despejar algunas dudas respecto del concepto de federalismo. En la sección
+3 me ocupo de la justificación normativa de los arreglos federales, poniéndolos a
+prueba respecto de tres posibles estándares: el control ciudadano del sistema
+
+[[PDF p. 2]]
+político, la defensa de derechos e intereses de grupos minoritarios, y la capacidad
+de este sistema de procesar preferencias mayoritarias. Según afirmo allí, los dos
+primeros estándares, aunque no el último, apoyan en ciertos supuestos una
+estructura de tipo federal. En la sección 4 estudio brevemente el origen del
+federalismo argentino, con algunas notas sobre el norteamericano.
+
+Luego analizo el desempeño de nuestro federalismo (5). Sostengo en primer lugar
+que varias cláusulas constitucionales relacionadas con el tema no se respetan, pero
+que uno de los resultados de este incumplimiento desafía ciertas intuiciones
+corrientes. El respeto de las cláusulas que se refieren a la conformación del poder
+legislativo nacional daría menos y no más poder a algunas provincias. Afirmo sin
+embargo que el mayor peso político que en la práctica ellas hoy tienen no produce
+beneficios visibles, y en cambio sí consecuencias negativas en términos
+institucionales. Digo por ello que es necesario acatar el mandato constitucional,
+solucionando las distorsiones en materia de representación, y atacando el
+problema de las asimetrías entre las provincias de un modo directo, con un
+régimen transparente de coparticipación impositiva.
+
+Posteriormente estudio brevemente otros posibles argumentos a favor y en contra
+de nuestro federalismo: la (des)igualdad en la aplicación del derecho, la
+experimentación jurídica y la aplicación de los tratados. El trabajo termina con una
+breve conclusión (6) acerca de los modos de resguardar un arreglo de naturaleza
+tan inestable como el federalismo.
+
+2. Federalismo
+
+El federalismo es una de las tantas maneras en que se puede organizar
+territorialmente el poder dentro de un estado. Así, frecuentemente se sostiene que
+un estado es ‘federal’ cuando en un mismo territorio coexisten como mínimo dos
+tipos de estructuras de gobierno, una central y una local. Esta dispersión de poder
+
+[[PDF p. 3]]
+implica que, al menos en un área o tema determinado, cada una de estas unidades
+–el estado central y las jurisdicciones locales– retiene la autoridad para adoptar
+decisiones independientemente de la otra. Además, esta autonomía está
+frecuentemente consagrada en la constitución, de modo que ninguna de las partes
+pueda modificarla unilateralmente.
+
+Pero el término ‘federalismo’ dista de ser unívoco. A veces se lo emplea como un
+concepto de tipo normativo, para defender en general el diseño de arreglos de
+poder menos centralizados, y se reserva el término ‘federación’ para la descripción
+del tipo de estructura que solemos denominar ‘federal’. Sin embargo, en ocasiones
+tanto ‘federalismo’ como ‘federación’ son empleados de un modo descriptivo,
+entendiéndose al primer término como el género de los sistemas de organización
+política descentralizados, y al segundo como una de sus especies (junto a otras:
+‘confederación’, ‘estados asociados’, etc.) Finalmente, una última alternativa es
+volver a concebir el ‘federalismo’ como un ideal normativo, y reservar los
+conceptos
+‘sistemas
+políticos
+federales’
+y
+‘federación’
+para
+emplearlos
+respectivamente como el género y la especie descriptivos.
+
+Pero incluso circunscribiendo el análisis al empleo del término ‘federación’, existen
+tantas modalidades diferentes como países hay autodenominados federales, y ello
+viene determinado por la distinta expansión de los poderes de cada una de estas
+estructuras, central o local. En algunos, más ‘centralizados’, el equilibrio del
+reparto de competencias está inclinado hacia el lado del estado central, mientras
+que en otros, más ‘periféricos’, lo está hacia las sub‐unidades locales. Diversas
+variables pueden emplearse para medir este equilibrio: el tipo de distribución de
+competencias legislativas y administrativas entre la unidad y las sub‐unidades, los
+
+[[PDF p. 4]]
+límites fijados por la constitución a cada una de ellas, la capacidad de recaudación
+de y/o la asignación de recursos financieros a las sub‐unidades, y el nivel de
+participación de las sub‐unidades en la toma de decisiones a nivel central. Este
+último punto merece destacarse aquí. Pese a que la nota que caracteriza a los
+estados federales es la división entre el gobierno central y las sub‐unidades, estas
+últimas concurren de algún modo a formar la voluntad del primero.
+
+Desde luego, las fronteras de este amplio abanico de posibilidades que el
+federalismo deja abierto son borrosas. Determinar cuándo un país deja de ser
+federal, sea porque sus sub‐unidades ya son soberanas, o porque carecen casi
+completamente de autonomía, depende de una elección poco menos que arbitraria.
+El federalismo es un punto de equilibrio relativamente estable entre otros modos
+de organizar el poder, y es el producto de dinámicas e inercias históricas, políticas
+y culturales en la vida de un país. Dicho de otro modo, lo que frecuentemente
+denominamos ‘federalismo’, un tipo de arreglo inspirado en la experiencia
+norteamericana, es un posible punto intermedio en un continuo sobre distribución
+territorial del poder dentro de un país. Pero una federación puede optar por otro
+punto en ese continuo.
+
+Dado que hay varios esquemas alternativos al federalismo, y que por ende los
+posibles defectos y virtudes de este sistema son relativos, al analizar el (o algún
+tipo particular de) ‘federalismo’ es necesario aclarar con cuál de ellos se lo está
+comparando. Un ejemplo bastará para aclarar este punto. Uno de los argumentos
+usuales para justificar el federalismo es que éste, al dividir el poder entre distintas
+instancias territoriales, provee frenos o puntos de veto contra posibles abusos
+provenientes de un estado central ilimitado. Pero sería ridículo ensayar este
+argumento, por ejemplo, y al menos como justificación no sólo normativa sino
+
+[[PDF p. 5]]
+también histórica, respecto de un país como los Estados Unidos, en donde este
+arreglo fue adoptado a partir de otro, previo, de tipo confederal. Como es natural,
+difícilmente algo puede limitar más el poder central que una confederación. El
+argumento por ende sólo tendría valor si el caso fuera distinto: que el federalismo
+viniera precedido por una estructura centralista, y no confederal. Dado entonces
+que este tipo de arreglo es un punto de equilibrio entre dos extremos, a la hora de
+comparar entre alternativas es necesario saber cuál es el sentido o dirección de esa
+dinámica histórica.
+
+3. Justificación
+
+Pese a que ambas dimensiones están relacionadas, el análisis normativo del
+federalismo, que busca justificar o rechazar su existencia, debe distinguirse del
+análisis histórico, que intenta explicar causalmente el surgimiento de este tipo de
+estructuras. Más allá de las causas que dan cuenta del surgimiento de un arreglo
+institucional como el federal, que más adelante analizaremos, una pregunta
+relevante es si existen buenos fundamentos teóricos para sustentarlo.
+
+Según creo, la respuesta a esta pregunta es afirmativa pero no categórica. El
+federalismo no sale siempre triunfante en el cotejo con formas alternativas de
+distribuir el poder territorial de un estado. A un nivel ya no normativo sino de
+aplicación práctica, la discusión se torna incluso más compleja al analizar el caso
+argentino, como veremos más adelante. Propongo aquí tres tipos de estándares
+que pueden ser (al menos alternativamente) aceptados por más de una teoría de la
+democracia: la capacidad de un sistema institucional para promover la
+deliberación y el control democrático, para proteger a grupos minoritarios, y para
+procesar preferencias mayoritarias. Dado que dependen de un contexto específico
+y de su aplicación práctica, postergo el análisis de otros posibles estándares –
+incluyendo la eficiencia del gobierno– para el momento de mencionar el caso
+argentino.
+
+[[PDF p. 6]]
+Deliberación y control democrático. Según una manera de justificar la
+democracia, el sistema político debe ser diseñado con el fin de minimizar la
+posibilidad de que un individuo o grupo se sitúe por encima de otros,
+dominándolos, y de apostar a la deliberación y el autogobierno colectivos. Esto
+es, que sean los propios ciudadanos quienes se involucren en un proceso de
+discusión tan libre, reflexivo y profundo como sea posible para tomar,
+conjuntamente, decisiones políticas en todas aquellas áreas que puedan
+afectarlos.
+
+Ahora bien, en punto a la justificación del federalismo debemos avanzar con cierta
+cautela. Ello pues esta manera de concebir a la democracia no brinda respuestas
+categóricas a nuestros interrogantes. Históricamente, el pensamiento republicano
+solió privilegiar la existencia de naciones con una extensión territorial y
+poblacional acotadas. Cuanta mayor distancia existiera entre representantes y
+representados, así como entre los propios ciudadanos, menor sería la posibilidad
+de una comunicación real entre todos ellos, especialmente en tiempos en los que la
+tecnología no ofrecía medios para achicar esa brecha. Por consiguiente, menor
+sería la posibilidad de que los ciudadanos controlaran posibles ‘traiciones’ a la
+voluntad popular, y que se involucraran más directamente en la gestión y la
+discusión públicas.
+
+En una república lo suficientemente pequeña, como veremos más adelante, la
+dispersión de poder típica del federalismo podía ser contraproducente. En cambio,
+en la medida en que la república creciera en territorio y población, tal vez sí fuera
+
+[[PDF p. 7]]
+necesario subdividirla, de manera de volver a estrechar los vínculos de
+representación, de minimizar el riesgo de que un distante gobierno central pudiera
+violar los derechos de los ciudadanos, y de fomentar la participación pública. Así, el
+federalismo en estos casos multiplicaría los escenarios para la práctica política, y
+promovería la educación y virtud ciudadana. Su complejo entramado institucional
+pondría a disposición de los individuos un ámbito adicional, más cercano y local,
+tanto como esfera autónoma de participación cuanto como modo de
+experimentación y preparación para (saltar a) las discusiones a nivel nacional.
+
+Protección de grupos y minorías. A diferencia de un estado centralista, los
+arreglos federales podrían estar en mejores condiciones de minimizar la
+posibilidad de dominación de un grupo sobre otros. Pero esto podría ser así sólo
+si el peligro de abusos proviniera del propio estado central.
+
+Por un lado, el federalismo agrega nuevos niveles para filtrar o directamente
+impedir la influencia a nivel local de ciertas decisiones adoptadas desde el centro.
+Pero al mismo tiempo convierte a las sub‐unidades locales en jugadores
+especialmente importantes en el proceso de toma de decisiones a nivel nacional,
+pues en ciertos casos cuentan con un potencial poder de veto. Aunque con
+
+[[PDF p. 8]]
+matices, este principio podría ser compartido por teorías más y menos robustas de
+la democracia.
+
+En naciones socialmente divididas, especialmente por diferencias identitarias
+(religiosas, étnicas o lingüísticas), el federalismo parece una receta aconsejable
+para, como sostiene Alfred Stepan, ‘mantener unida’ a una nación. El federalismo
+sería al mismo tiempo un freno más o menos directo a las pasiones mayoritarias y
+un modo de reforzar la autonomía, seguridad y reconocimiento de esos grupos
+minoritarios a nivel nacional, aumentando con ello la legitimidad del estado. A
+diferencia de lo que, según veremos, para algunos autores explica el origen del
+federalismo, es esta dinámica de tipo centrífugo la que parece observarse hoy en el
+mundo en aquellos países que se deciden por algún tipo de arreglo federal.
+
+Para Richard Pildes, estos esquemas podrían ser deseables porque pondrían en
+funcionamiento una suerte de gag rule o ley mordaza. Así, ciertos grupos
+fuertemente divididos a nivel nacional podrían acordar no discutir cuestiones
+particularmente sensibles, llevándolas así al ámbito local, de manera de confinarlas
+y segmentarlas. De esta manera, se evitarían posibles confrontaciones y parálisis a
+nivel nacional, y se permitiría seguir adelante con la discusión de temas menos
+conflictivos. Estas inquietudes no son nuevas. Fueron una preocupación
+subyacente en los debates constitucionales norteamericanos y otros contextos
+históricos, y estuvieron presentes en el pensamiento de quien frecuentemente es
+considerado el ‘padre’ del federalismo, el alemán Johannes Althusius.
+
+[[PDF p. 9]]
+Aunque es imposible reseñar aquí sus aportes al pensamiento político y a la propia
+noción de federalismo, Althusius planteaba la necesidad de dispersar el poder en
+múltiples niveles asociativos. Defendía la existencia de varias asociaciones
+comunitarias imbricadas en un orden ascendente. A manera de una pirámide, las
+asociaciones más pequeñas y locales debían formar parte de las situadas por
+encima de ellas (menos locales y particulares), saltando de organizaciones sociales
+básicas como la familia a los gremios, la ciudad, la provincia y finalmente la nación
+(la unión ‘universal’). De acuerdo con esta “teoría de representación política
+ascendente”, ciertos grupos minoritarios que a nivel nacional serían ignorados
+podrían incorporarse a la vida política.
+
+Esta idea parece atractiva, especialmente para los casos de grupos minoritarios no
+dispersos geográficamente (lo que el juez de la Corte norteamericana Harlan Stone
+denominara, en la célebre nota al pie 4 del caso Carolene Products, de 1938,
+‘discrete and insular minorities’, algo así como ‘minorías identificables y
+cohesionadas’). Es decir, resulta interesante cuando como consecuencia del
+trazado de límites entre las sub‐unidades los miembros del grupo quedan del
+mismo lado, sea que la división se haga o no teniendo conscientemente en cuenta
+ese fin.
+
+[[PDF p. 10]]
+Pero si los miembros del grupo minoritario no estuvieran ‘cohesionados’ en la
+misma sub‐unidad local, no es claro que el federalismo otorgaría muchas garantías.
+Suponga el lector que una minoría determinada representa el 20% por ciento de la
+población de la sociedad. Si el grupo estuviera geográficamente circunscripto a una
+sub‐unidad, su peso y su voz necesariamente aumentarían a nivel local (y
+posiblemente a nivel nacional también). Dependiendo de cómo se tracen los
+límites entre las sub‐unidades, podría incluso ocurrir que una enorme proporción
+de la población de una sub‐unidad pertenezca a ese grupo. Ahora bien, si esta
+cohesión no existiera, y si los integrantes del grupo estuvieran geográficamente
+diseminados a lo largo del país o al menos en más de una sub‐unidad, el peso
+interno del grupo a nivel local podría llegar a ser menor, igual o a lo sumo sólo
+ligeramente superior al que tienen a nivel nacional. Y si a nivel nacional sufrían
+algún tipo de persecución o discriminación, lo mismo podría suceder a nivel local.
+Lo único que este arreglo lograría es abrir el rango de posibilidades.
+
+Al comienzo de este apartado señalé que las ventajas que el federalismo promete
+en términos de la protección de grupos podrían ser reales sólo si el peligro
+proviniera del propio estado central. Como veremos, James Madison sostenía en
+los debates de la constitución norteamericana el argumento inverso: el mayor
+peligro no podía venir del estado central, que en ese momento prácticamente no
+existía, sino de los estados locales. Por eso era aconsejable una mayor
+centralización del poder, de modo de proteger a las minorías (entonces
+aventajadas) de la ‘demagogia populista’ local. Este punto, históricamente
+contingente en ese caso, podría sin embargo generalizarse.
+
+Mayorías. Sostuve antes que la receta a favor del federalismo parecía simple. En
+términos de participación democrática y de respeto a las minorías, la balanza
+
+[[PDF p. 11]]
+parecía inclinarse hacia el lado del esquema federal, cuando se lo comparaba con
+un estado centralizado. Especialmente cuando la extensión territorial del estado es
+grande, y cuando existen grupos minoritarios concentrados en una región.
+
+Pero dije también que la cuestión no era tan simple. Tal vez porque la propia
+definición de democracia no lo es. Más arriba puse énfasis en dos posibles
+dimensiones de este tipo de gobierno: la participación y la deliberación pública,
+por un lado, y el control ciudadano, por el otro. Mencioné sólo al pasar otra
+dimensión clave: el respeto a la regla de mayoría. En este aspecto el federalismo es
+más problemático. Según diré, en la medida en que multiplica y divide las
+instancias de toma de decisiones, este tipo de arreglo podría impedir la
+implementación de políticas preferidas por una mayoría.
+
+Un estado centralista está en mejores condiciones de procesar preferencias
+mayoritarias a nivel nacional que un estado federal. Esto se debe principalmente a
+dos razones. En primer lugar, un estado centralista no tiene límites en su agenda
+democrática. Es decir, el conjunto del pueblo en una república centralista puede
+adoptar decisiones en temas que, en un país federal, le están vedados, por haber
+sido asignados a cada una de las sub‐unidades que lo componen. Este punto, que es
+el correlato del que analizamos antes sobre la protección de las minorías, podría
+no ser tan problemático, y esto dependerá entre otras cosas de nuestra concepción
+acerca del significado de ‘pueblo’. Si consideramos que nuestra identificación
+comunitaria es más fuerte respecto de la sub‐unidad que de la unidad, esto será
+más una ganancia que una pérdida. Por otro lado, podríamos considerar, como
+sostuve antes, que el ‘autogobierno’ democrático se ve mejor satisfecho con un
+ámbito de toma de decisiones más restringido y local.
+
+Segundo, y como nos resultará familiar, el federalismo típicamente incorpora
+ajustes para asegurar cierta voz a cada una de estas sub‐unidades en las
+instituciones centrales. Esto generalmente involucra la creación de una segunda
+cámara legislativa, lo que de por sí puede impedir o al menos dificultar la
+
+[[PDF p. 12]]
+aprobación de una propuesta preferida por la mayoría de la población. Pero
+además, esta cámara legislativa, tal lo que sucede en los Estados Unidos y en la
+Argentina con el Senado, suele ser fuertemente contramayoritaria al estar
+integrada por igual cantidad de miembros por sub‐unidad, sin importar su
+población. Naturalmente, esto agrava el problema señalado.
+
+Este punto no tendría tanto peso si la distribución de poderes entre la cámara baja,
+que obedece al principio de igualdad política ‘una persona un voto’ (en Argentina,
+la Cámara de Diputados), y la cámara alta, que refleja la estructura federal del
+estado (el Senado de la Nación), no fuera simétrica. En algunos estados no
+federales es también típico encontrar una segunda cámara como el senado. Pero es
+común que el parlamento esté compuesto por cámaras asimétricas, y que la
+cámara que representa más directamente al pueblo pueda sobreponerse a posibles
+vetos del Senado. Esto es lo que ocurre en Francia, por ejemplo. De hecho,
+
+[[PDF p. 13]]
+también en algunos países federales. Como veremos más adelante al referirnos al
+caso argentino, este fenómeno incluso se potencia cuando existen ciertas
+distorsiones en la propia cámara que representa directamente al pueblo.
+
+En términos de procesamiento de preferencias mayoritarias, por consiguiente,
+un estado centralista aventaja a un estado federal. Francia es un buen ejemplo de
+la opción por un esquema centralista, pues a la vez que puede garantizar el
+predominio de las mayorías, también permite una adecuada participación y control
+ciudadano. El centralismo francés, desde luego, tiene relación con la idea allí
+vigente (en parte inspirada en autores pre‐modernos como Jean Bodin, y luego
+recuperada por los jacobinos) acerca de la indivisibilidad de la soberanía.
+
+4. Orígenes
+
+Dada la diversidad de estados federales en el mundo y a lo largo del tiempo, es
+riesgoso ofrecer una explicación simplificadora que pueda dar cuenta de su origen
+en todos los casos. William Riker intentó hacerlo. En 1964, Riker afirmaba que
+
+[[PDF p. 14]]
+todos los tipos de ‘federalismo’ conocidos, incluyendo el caso argentino, surgieron
+como resultado de una negociación mutuamente ventajosa (una “negociación
+federal”) entre estados o entidades políticas preexistentes. Estas negociaciones
+compartirían ciertas peculiaridades. En primer lugar, el estado que ofrece el
+acuerdo tiene el deseo de expandirse territorialmente, generalmente como modo
+de posicionarse mejor para una defensa militar o diplomática, o para prepararse
+para un ataque. Paralelamente, el que lo acepta prefiere renunciar a parte de su
+libertad para afrontar de mejor modo los peligros de un ataque externo, militar o
+diplomático. Como resultado, las partes acuerdan constituir un nuevo estado,
+cuyo territorio es equivalente a la suma de los estados previos, aumentando su
+capacidad militar y facilitando la recaudación de impuestos.
+
+Como era de esperar, Riker fue criticado por ofrecer una explicación monocausal
+que pasaba por alto la existencia de complejas dinámicas históricas y culturales,
+distintas o alternativas a la que él mencionaba. Alfred Stepan, por ejemplo, sostiene
+que no todos los países federales respetan la lógica subyacente en el análisis de
+Riker, según la cual distintas entidades pre‐existentes ‘se juntan’ [‘come together’]
+para formar un estado más amplio. Antes bien, el federalismo surge a veces a partir
+de experiencias centralistas, como modo de garantizar la supervivencia del sistema
+político. Citando ejemplos como el de la India en 1950, Stepan argumenta que, con
+frecuencia, los líderes políticos de un estado advierten que la única manera de
+mantener a sus países unidos es devolver poder localmente, convirtiéndose en
+federaciones. Estos ‘federalismos’, entonces, no surgen como resultado de
+negociaciones entre unidades previamente autónomas o soberanas, sino más bien
+desde el propio estado central. En vez de ‘juntarse’, de un modo que podríamos
+
+[[PDF p. 15]]
+llamar ‘centrípeto’, a veces el país se ‘mantiene unido’ [‘holds together’] mediante
+un federalismo ‘centrífugo’.
+
+Estados Unidos
+
+Uno de los puntos centrales sobre los que giró la discusión constitucional en el
+período formativo de la república norteamericana (el último cuarto del siglo 18)
+fue precisamente el relativo a la asignación de competencias y poderes entre el
+estado central y los estados locales en el nuevo esquema federal.
+
+Dado que durante el período colonial los 13 estados iniciales habían contado con
+gran autonomía, naturalmente aspiraron a conservarla luego de la independencia
+del país, en 1776. Esto se vio reflejado en su primera constitución, conocida como
+los Artículos de la Confederación. El texto era completamente claro en el sentido
+de que los estados locales retenían su libertad y soberanía, y que el gobierno
+central –que por lo demás carecía de un verdadero poder ejecutivo– sólo contaba
+con aquellas pocas atribuciones expresamente delegadas por los estados.
+
+Esta constitución recibió críticas desde su promulgación y tuvo una vida muy corta.
+Ellas se centraron principalmente en la excesiva debilidad –la práctica
+inexistencia– del gobierno central, que no tenía siquiera facultades para crear y
+cobrar impuestos. Cuando la convención constituyente finalmente se reunió en
+Filadelfia (1787) a puertas cerradas para modificarla, pues sólo para esto los
+
+[[PDF p. 16]]
+estados habían extendido mandato a los convencionales, el resultado inesperado
+fue una constitución completamente nueva.
+
+Si bien la convención constituyente no pulverizó completamente el poder que
+tenían los estados, lo limitó creando un fuerte gobierno central. Esta era la receta
+adecuada, al decir de James Madison y Alexander Hamilton, dos de los más
+fervientes defensores de esta nueva dinámica, para minimizar la posibilidad de que
+un grupo tiranizara al resto. Siguiendo el pensamiento de David Hume pero
+también de Montesquieu, los dos políticos norteamericanos consideraban que el
+riesgo de tiranía disminuía en la medida en que posibles grupos de individuos con
+intereses comunes pudieran controlarse y neutralizarse entre sí. La existencia de
+sub‐unidades (estados locales) dentro de una gran unión general era uno de los
+modos de asegurar esta ventaja. Otros ajustes del nuevo estado también
+sumarían a este complejo y peculiar mecanismo de frenos recíprocos, que es el
+singular aporte de ambos autores, aunque especialmente de Madison, a la entonces
+incipiente teoría de la división de poderes.
+
+Claro que, en opinión de Madison y Hamilton, en la puja por la distribución de
+competencias entre el gobierno central y los estados locales éstos debían ceder
+espacio frente al primero. Así, los estados locales serían una suerte de satélites
+girando alrededor del sol, el gobierno central. Esto es lo que, apenas concluido el
+trabajo de la convención, generó ardientes discusiones, ya públicas, durante el
+proceso de ratificación del texto por parte de los estados. En el marco de esas
+discusiones, muchos expresaban temor frente a los posibles abusos y excesos que,
+según avizoraban, el nuevo gobierno central podía cometer respecto de los estados
+y sus ciudadanos.
+
+El lenguaje madisoniano sobre dominación de unos sobre otros podría tener dos
+lecturas. La primera nos remite a lo más rescatable de la tradición republicana
+
+[[PDF p. 17]]
+antes mencionada. Sin embargo, a la inversa de lo que un defensor de esta
+tradición hubiese supuesto, la defensa de este arreglo se relacionaba con una
+preocupación típicamente ‘pluralista’: para Madison, el peligro provenía de la
+existencia de una pequeña república sin filtros a la voluntad popular.
+Precisamente, todo el argumento madisoniano sobre las virtudes de una gran
+república en la que unas hipotéticas pasiones colectivas encendidas pudieran
+refrenarse mutuamente está ensayado como modo de justificar el otorgamiento de
+mayores poderes al estado central por sobre los estados locales.
+
+En contra de los federalistas, quienes abogaban por la aprobación del texto
+constitucional, los antifederalistas, defendiendo ideas sobre el autogobierno
+colectivo similares a las apuntadas anteriormente, y aunque con matices,
+consideraban que la democracia local, la libertad y los derechos de los ciudadanos
+se veían amenazados por el nuevo gobierno central. El tipo de política que la nueva
+constitución promovería era la antítesis del modelo postulado por este grupo.
+Las primeras enmiendas a la constitución, que reconocieron explícitamente una
+nómina de derechos que el gobierno central debía respetar, y especialmente la
+Décima Enmienda, fueron justamente una imposición de los estados locales, a
+manera de salvaguarda parcial contra esos posibles excesos.
+
+El contexto norteamericano era muy específico. Las disputas sobre el alcance del
+poder del gobierno central eran en parte, es cierto, discusiones respecto de
+distintas concepciones políticas sobre la racionalidad colectiva y la construcción
+del bien común. Pero también, y tal vez principalmente, la discusión estaba
+
+[[PDF p. 18]]
+atravesada por un conflicto de clase. La receta federalista podría haber cambiado
+si las clases económicamente dominantes hubiesen sido también políticamente
+dominantes a nivel local.
+
+Pero más allá de estas discusiones más o menos coyunturales, lo cierto es que
+tanto la receta ‘federalista’ como la ‘anti‐federalista’ parecen extrapolables a otros
+contextos, incluso actuales, al menos dejando fijos otros rasgos institucionales.
+Para el pluralismo de tipo madisoniano es particularmente deseable contar con
+una gran república, en la que diversos grupos con intereses encontrados puedan
+controlarse y neutralizarse recíprocamente. El enemigo es una pequeña república
+en la que el pueblo pueda tomar decisiones sin grandes filtros a la voluntad
+popular. Para el pensamiento republicano, en cambio, este último arreglo es
+preferible, al menos cuando con ello no se tiranice a ningún individuo o grupo. El
+salto hacia un esquema federal de coexistencia de jurisdicciones se justifica sólo si
+la república se agranda. La receta parece ser exactamente la inversa de la
+propuesta por aquella visión pluralista. La cuestión parece simple: una
+confederación de (pequeñas) repúblicas puede ser preferible a un estado federal, y
+a la vez éste ser preferible a un (gran) estado central. Pero vimos que no lo es
+tanto.
+
+Argentina
+
+El objeto de este artículo no es brindar una reseña exhaustiva del proceso histórico
+que condujo a la formación del federalismo constitucional argentino, ni del modo
+en que éste se desarrolló en la práctica hasta el día de hoy, por lo cual sólo
+menciono ciertos rasgos generales. Entre el ‘juntarse’ y el ‘mantenerse juntos’ de la
+
+[[PDF p. 19]]
+tipología de Stepan, nuestro país parece responder más a la primera categoría,
+aunque no sólo por razones de seguridad exterior sino por el temprano
+reconocimiento de cierto sentido de comunidad nacional.
+
+A pesar de que las provincias (en tanto personas de derecho público) surgieron
+con más fuerza recién en la segunda década del siglo 19, algunas de ellas existían
+ya desde antes en forma embrionaria. En algunos casos, como consecuencia de la
+propia introducción del cabildo en ciudades del interior, y en otros como
+desprendimiento natural de anteriores jurisdicciones político‐administrativas.
+
+El sistema colonial, especialmente bajo el régimen de intendencias, no garantizaba
+una verdadera descentralización política. Sin embargo, los intendentes
+(designados por el rey) tenían ciertas atribuciones, especialmente en materia de
+justicia, guerra, economía y policía, y dirigían los cabildos locales. Teniendo en
+cuenta las enormes extensiones de territorio que las intendencias abarcaban, y la
+lentitud de las comunicaciones, es natural que hayan gozado de cierto nivel de
+autonomía y que dieran lugar al surgimiento de cierta conciencia y espíritu locales.
+
+El período de fragmentación del régimen colonial comenzó, por un lado, a reforzar
+el espíritu nacional, pero por otro contribuyó a acentuar las tensiones entre el
+‘centro’ (Buenos Aires), gradualmente más fuerte, y la ‘periferia’ del interior. Este
+conflicto puede ya verse con el surgimiento del primer gobierno local. Allí
+comienzan a consolidarse ciertas posiciones que, aunque con grandes matices,
+
+[[PDF p. 20]]
+avances y retrocesos, marcarían el destino del país durante al menos los siguientes
+cincuenta años: el reformismo liberal y moderno, aunque con ciertos rasgos
+antidemocráticos, contra la defensa de las tradiciones y el orden conservador de
+base popular.
+
+La larga disputa entre unitarios y federales, agravada con la caída del débil poder
+central en 1820, no debe entenderse sólo como una lucha –política o militar– entre
+dos facciones sobre el peso de Buenos Aires y las provincias del interior en la
+organización constitucional del país. Desde luego este punto era muy importante,
+pero lo era porque, de modo similar al debate norteamericano, que estaba
+atravesado por una cuestión de clase, en nuestro país se enfrentaban dos visiones
+contrapuestas sobre el papel del estado y la sociedad. El diseño de un estado
+federal o centralista, por consiguiente, tenía para los sectores en pugna un valor
+más instrumental que intrínseco, pues permitiría a la facción triunfante avanzar
+con sus modelos político‐filosóficos, así como plantar vallas institucionales para la
+defensa de los embates de sus rivales.
+
+Durante años, la clase dirigente experimentó con varios intentos centralistas (en
+especial, las constituciones de 1819 y 1826) que tuvieron muy poca suerte en la
+práctica. Notoriamente opuesta a esta tendencia se destaca la obra de José
+Gervasio Artigas, uno de los más importantes defensores del federalismo en la
+región y un notable pensador republicano.
+
+[[PDF p. 21]]
+Según se dijo, las provincias adquirieron nuevo vigor con el quiebre del (débil)
+poder central alrededor de 1820, cuando varias de ellas se constituyeron por
+primera vez como personas de derecho público. Una nota destacable de este
+período es la presencia o al menos la mención constante, incluso bajo la ‘anarquía’,
+de cierto espíritu de unidad federal. Éste queda cristalizado en varios documentos
+firmados entre las provincias, en los que se evoca la aspiración a una futura unión
+nacional. Con todas sus ambigüedades, esto se observa, por ejemplo, en el
+Tratado del Pilar, de Benegas, del Cuadrilátero, y especialmente en el Pacto
+Federal de 1831.
+
+[[PDF p. 22]]
+Al grito de ‘Viva la Confederación Argentina’, las provincias se unen en San Nicolás,
+el 31 de mayo de 1852 y luego de la caída de Rosas, para adherir conjuntamente al
+Pacto Federal de 1831 y convocar al dictado de una constitución federal. Poco
+después, la provincia de Buenos Aires se separa del Acuerdo y no participa ya de la
+discusión de la Constitución en la ciudad de Santa Fe, el año siguiente. Buenos
+Aires denunciaba el exceso de atribuciones del Director Provisorio (J. J. de Urquiza,
+a cargo del Ejecutivo con sede en Paraná), pero se sentía especialmente afectada
+por la pérdida de influencia que implicaba la decisión de hacer concurrir a la
+Convención un número igual de representantes por provincia.
+
+El germen del modelo finalmente implementado en 1853 puede rastrearse en el
+pensamiento de Juan Bautista Alberdi, cuya influencia en ese proceso es conocida.
+En sus Bases, el autor tucumano indagaba sobre cuál debía ser el tipo de
+‘federalismo’ apropiado para el país, y sostenía que la respuesta debía surgir de
+‘sus antecedentes históricos y las condiciones normales de su modo de ser físico y
+social.’ Pese a reconocer las virtudes de un gobierno centralista, de una ‘unidad
+pura’, Alberdi señalaba la impracticabilidad de modelar un gobierno tal en un país
+con extensiones territoriales tan vastas y despobladas como el nuestro. La
+‘república posible’, según Alberdi, debía preferirse a la ‘república verdadera.’
+
+Pero a la vez advertía sobre los peligros de adoptar un ‘federalismo’ tan vigoroso
+como el existente en los Estados Unidos antes de la sanción de la Constitución de
+1787 (según dijimos, un estado más bien de tipo confederal), sosteniendo la
+necesidad de buscar, como en ese país, un punto medio entre una alianza débil
+
+[[PDF p. 23]]
+entre entidades soberanas y un gobierno completamente centralista. Alberdi
+afirmaba, por consiguiente, que debía imitarse (“asimilar discretamente”) el
+modelo norteamericano. Sin embargo, a la hora de enumerar las atribuciones que
+debía asignarse al estado central, profundizaba incluso más que sus pares
+norteamericanos la tendencia a fortalecer el gobierno nacional en detrimento de
+los locales. Alberdi dio muestras de esa tendencia en el proyecto de constitución
+que acompañó a las Bases: condicionaba la vigencia de los textos constitucionales
+provinciales a la aprobación del Congreso Nacional (artículos 7 y 103); asignaba al
+Congreso Nacional la potestad exclusiva de sancionar leyes “en materia civil,
+comercial y penal” (67.5), al tiempo que privaba a los jueces locales de la
+posibilidad de juzgar las disputas producidas a raíz de su aplicación (97),
+quedando sólo a cargo de interpretar y aplicar leyes provinciales; y establecía la
+posibilidad de intervenir federalmente a una provincia sin expresar qué autoridad
+debía autorizarla (art. 5). El proyecto asignaba al gobierno central la potestad
+general de crear impuestos (69.3).
+
+La Constitución aprobada en 1853, que como se sabe tomó ese proyecto como una
+de sus fuentes principales, incorporó en su texto casi todas estas disposiciones. Y
+
+[[PDF p. 24]]
+sumó otras acentuando esta tendencia centralista. Recién con la reforma de 1860
+se suavizaron algunas de ellas. Se lo hizo a raíz de la presión ejercida por la
+provincia de Buenos Aires para garantizar su adhesión. Con la definitiva
+incorporación de esta provincia, entonces, se devolvió más poder a nivel local.
+Alberdi, como es natural, no festejó. Pero en la práctica, desde fines del siglo 19
+se intensificó la influencia del ‘centro’ sobre la ‘periferia’, en parte debido a la
+gradual concentración de la recaudación impositiva, una dinámica que con matices
+llega a nuestros días, y que más adelante analizaré.
+
+5. Argentina federal
+
+Como dijimos, el origen del federalismo argentino se explica como un proceso
+gradual mediante el cual las provincias, varias de ellas pre‐existentes al estado
+nacional, se ‘juntaron’ para garantizar su seguridad, pero también para satisfacer
+un sentido subyacente de comunidad. Pero, ¿qué justifica hoy nuestro federalismo?
+Las razones de seguridad ya no parecen tener tanto sustento, aunque sí cierta
+idiosincrasia local (basada en cuestiones culturales e históricas) que provee
+
+[[PDF p. 25]]
+identificación a muchos ciudadanos con sus provincias y tal vez, aunque en menor
+medida, con sus instituciones.
+
+Luego de 150 años de vigencia (tristemente interrumpida) de nuestra constitución,
+y considerando el modo en que el federalismo opera en la práctica, ¿hay alguna
+razón adicional que podría justificar este arreglo? ¿Es necesario formular ajustes?
+A un nivel todavía más básico, ¿cómo medir el éxito o fracaso de nuestro sistema
+federal? En lo que resta del trabajo intentaré esbozar apenas algunas respuestas,
+dejando el camino abierto para una indagación más profunda en el futuro.
+
+Quiero sin embargo evitar dos tentaciones. La primera, sacar una conclusión
+categórica a partir de analizar el nivel de respeto de las cláusulas constitucionales
+que tienen relación con el federalismo (régimen de intervenciones,
+coparticipación de impuestos, facultades implícitas del Congreso Nacional,
+interpretación de la ‘cláusula comercial’, etc.) Como varias de ellas, según
+intuitivamente sabemos, han sido con frecuencia violadas o interpretadas del
+modo más favorable a los intereses del gobierno nacional, un posible diagnóstico
+sería poco alentador: el federalismo argentino es débil, y las provincias están en
+una situación frágil frente al poder central. Esta conclusión, aunque en parte cierta,
+no puede derivarse tan linealmente.
+
+Pero hay una segunda tentación que quiero resistir. Se relaciona con un análisis
+más integral, tanto de las reglas formales (constitucionales e infraconstitucionales)
+como de la práctica y la cultura políticas, a la vez influidas por aquéllas. Este
+
+[[PDF p. 26]]
+examen más general podría sugerir una conclusión sobre la salud del federalismo
+argentino casi opuesta a la anterior. Así, como algunas provincias tienen en la
+práctica más poder político del que tendrían en un esquema más centralizado, pero
+también del que tendrían si la constitución fuera cabalmente respetada, el
+federalismo argentino no sería tan defectuoso.
+
+Sugiero ser más cauteloso en este tema. A continuación diré que este mayor poder
+que algunas provincias tienen en la práctica no implica que el sistema democrático
+en su conjunto se vea beneficiado. Y tampoco implica que esa distribución del
+poder se traduzca en mejoras –en otras dimensiones– para cuyo logro la
+democracia podría ser funcional.
+
+Dinámicas institucionales / Impacto económico
+
+En efecto, algunas provincias argentinas tendrían mucho menos peso político bajo
+un esquema alternativo más centralizado. Vimos antes las consecuencias en
+términos de representación política de la introducción de nuestro Congreso
+simétrico, y del Senado como una institución no directamente representativa:
+con el 30% de la población del país, las provincias pequeñas se alzan con el 80% de
+las bancas. Esta situación es todavía más marcada que en los Estados Unidos; de
+hecho, nuestro Senado es el más sobre‐representado del mundo.
+
+Pero también a diferencia de los Estados Unidos, los desajustes en la
+representación se trasladan a la Cámara de Diputados, en donde el 14% de las
+bancas se distribuye violando el principio de ‘una persona un voto’ (en aquel país
+este porcentaje es del 1.4%, el diez por ciento del argentino). En un índice
+comparado que calcula el nivel de desproporcionalidad de las cámaras bajas en el
+mundo, Argentina está en el 12° lugar, aunque 1° entre los países federales. De
+
+[[PDF p. 27]]
+acuerdo con los resultados de otro estudio, las provincias más pequeñas
+contribuyen con el 30% de los votos, y obtienen el 52% de las bancas en la Cámara
+de Diputados.
+
+Si bien el desajuste de representación del Senado viene ordenado por la propia
+Constitución, el que se observa en Diputados la viola doblemente. El texto exige que
+la distribución de asientos se haga proporcionalmente en base a la población de
+cada distrito electoral (esto es, cada provincia). Esto no se cumple, y el desfase no
+es accidental, sino que, como frecuentemente sucede con los cambios de las reglas
+de la competición electoral, se introdujo y reforzó mediante diversas medidas
+adoptadas con el fin de acumular rédito político. En 1949, la Constitución dictada
+por el gobierno de Perón estableció un piso mínimo de dos diputados por
+provincia con independencia de su población. El gobierno militar de 1972 fijó el
+mínimo en 3, y luego en 1983, el dictador Reynaldo Bignone lo elevó a 5. El
+objetivo, en todos los casos, fue aumentar artificialmente el peso político de ciertas
+provincias del interior, tradicionalmente más conservadoras.
+
+A esto se suma una segunda violación constitucional: tampoco se ha adecuado la
+representación al resultado de los últimos dos censos. Así, tomando nuevamente
+los casos extremos (vimos antes el promedio de desajuste para todo el país), un
+candidato en la provincia de Buenos Aires requiere más de 12 veces la cantidad de
+votos que necesita un candidato de Tierra del Fuego para ser elegido diputado.
+
+¿Cómo juzgar este desajuste? La violación constitucional –en el caso de
+Diputados– es de por sí censurable. Pero una manera adicional de hacerlo es
+
+[[PDF p. 28]]
+analizar qué efecto y dinámicas produce tanto en las propias provincias como en el
+sistema institucional nacional.
+
+Varias de las provincias más chicas tendrían menos poder sin este desfase en
+Diputados, y todavía mucho menos si no existiera el Senado. Su baja densidad
+poblacional las convertiría en muchos casos en actores políticos insignificantes en
+la discusión nacional. La estructura constitucional y para‐constitucional actual
+podría celebrarse, entonces, si fuera un modo de darle más poder, y por
+consiguiente más recursos, especialmente a las provincias más postergadas o a las
+que registren un mayor nivel de pobreza, desigualdad, desempleo, o todos estos
+factores considerados conjuntamente.
+
+Como diré, estas condiciones se satisfacen sólo parcialmente. El peso electoral que
+tienen ciertas provincias del interior les otorga prácticamente un poder de veto en
+las elecciones nacionales. Un partido o coalición no puede gobernar eficazmente en
+la Argentina sin contar con un fuerte apoyo de estas provincias. Típicamente, una
+vez en el poder, la coalición gobernante recompensa o compra este apoyo
+mediante transferencias de recursos económicos hacia esas áreas. Como sostienen
+Gibson y Calvo, la sobrerepresentación de los distritos más pequeños crea
+‘bolsones potenciales de electores de bajo costo’ que pueden ser esenciales a la
+hora de la discusión de políticas públicas. Son de bajo costo porque, precisamente
+en virtud de la desproporcionalidad, la inversión económica requerida por cada
+unidad de apoyo político es mucho menor que la necesaria en los distritos más
+grandes. El efecto práctico de esta dinámica es una transferencia de recursos hacia
+esas provincias –ahora veremos en qué términos– mayor a la que les
+correspondería de acuerdo con su nivel poblacional. De hecho, la creación de
+provincias nuevas en territorios federales relativamente despoblados podría tener
+que ver con la posibilidad de comprar apoyo político ‘barato’.
+
+[[PDF p. 29]]
+Esta situación produce varias consecuencias. Como sabemos, el sistema
+institucional argentino es deficiente, en parte debido a los rasgos propios de
+nuestro presidencialismo. Frente a los fuertes poderes que detenta el
+Presidente, el Congreso es débil. La dinámica que describí antes agrava
+notablemente esta situación. Con frecuencia, las transferencias a las provincias
+suelen ser la moneda de cambio de las negociaciones entre los gobernadores y el
+Presidente para obtener apoyo en el Congreso. Las representaciones provinciales
+en el Poder Legislativo nacional suelen funcionar entonces como meras
+delegaciones del gobernador en esta negociación. El apoyo legislativo se otorga a
+cambio de apoyo económico.
+
+En defensa de este tipo de mecanismos podrían articularse al menos dos tipos de
+argumentos. En primer lugar, estas negociaciones no son infrecuentes en otros
+sistemas federales. En los Estados Unidos, por ejemplo, los legisladores en el
+Congreso Federal suelen ubicarse en una posición privilegiada para maximizar las
+chances de obtener ciertas transferencias o la aprobación de medidas beneficiosas
+para sus distritos. Típicamente lo hacen mediante su participación en las allí
+poderosas comisiones legislativas, lo que genera puntos de veto para bloquear
+iniciativas, y por consiguiente para intercambiar apoyo político. Por otro lado, y
+como antes veíamos, esas transferencias en Argentina podrían ser defendibles si
+lograran mejorar la situación de aquellos que peor están.
+
+Pero a diferencia de los Estados Unidos, nuestro país tiene una tradición
+institucional débil. En parte ella se debe, claro, a la propia dinámica que describo,
+pero también a las frecuentes interrupciones al orden constitucional y a los
+excesos del presidencialismo. Paradójicamente, en Argentina el Presidente ha
+sorteado la intervención del legislativo gobernando mediante decreto, aun en
+casos en que su propio partido estaba en condiciones de garantizar una mayoría
+
+[[PDF p. 30]]
+legislativa. Con frecuencia, los legisladores ni siquiera negocian entre sí productos
+legislativos (“hoy apoyo x, que no es mi primera preferencia pero tampoco mi
+última, para que mañana apoyen y, mi primera preferencia”) sino que dan su
+aprobación automática a medidas solicitadas por el oficialismo, a cambio de dinero
+para su distrito.
+
+En contra entonces de la idea de que la sobre‐representación podría forzar a la
+mayoría a prestar especial consideración a ciertos puntos de vista, el tipo de
+negociación que comento socava el potencial deliberativo del poder legislativo
+argentino. Lo que critico, en suma, no es la existencia de un posible veto en
+manos de las provincias. Según vimos al inicio, esta es precisamente una de las
+promesas del federalismo, y en ciertos casos podría justificarse. El problema, más
+bien, es que el modo en que esa amenaza se hace valer en la práctica produce un
+daño en el sistema institucional.
+
+Cabe destacar que la situación que describo se reproduce e incluso agrava a nivel
+local. En muchas provincias argentinas se observan importantes deficiencias en
+materia de organización social y política. Esto es causa pero a la vez consecuencia
+de la fragilidad de los sistemas institucionales locales, en donde también se
+registra una fuerte preeminencia del ejecutivo sobre el legislativo. A esta situación
+de falta de rendición de cuentas (accountability) horizontal se le suma un notable
+déficit de control político vertical, pues los electorados locales dependen
+
+[[PDF p. 31]]
+fuertemente de los propios estados provinciales, sea en forma directa (mediante el
+empleo público, o por tener negocios u otro tipo de relación contractual con el
+estado) como indirecta (a través de distintos modos de asistencia social).
+
+Esta dependencia se traduce, en muchos casos, en un ejercicio muy débil de
+participación política, y en prácticas de tipo clientelar. Habitualmente, el votante
+local se ve condicionado a apoyar los sistemas políticos en el poder (con
+frecuencia, mayorías ‘congeladas’), pues de ello puede depender nada menos que
+su subsistencia. Los propios medios periodísticos independientes, cuando existen,
+se ven en ciertos casos ante la amenaza de ver reducidos o eliminados sus ingresos
+provenientes de la publicidad de los actos de gobierno. Las discusiones en torno
+a políticas públicas a nivel provincial son, por consiguiente, usualmente pobres.
+La participación política sin dominación externa, tanto como el intercambio crítico
+de argumentos facilitado por una robusta libertad de expresión, están con
+frecuencia ausentes en estos escenarios. Pese a algunas excepciones, el sistema de
+partidos, que debería promover las condiciones para que existan miradas críticas y
+un mayor control sobre el gobierno y el diseño de políticas públicas, es hoy poco
+representativo, y las organizaciones de la sociedad civil, que podrían ayudar a
+cumplir este papel, no existen o son débiles.
+
+El Presidente construye apoyo político con transferencias a las provincias que al
+menos en parte son discrecionales, y con ello sufre el Congreso en términos de
+relevancia institucional y potencial deliberativo. La dinámica se reproduce
+localmente. La preponderancia del ejecutivo en el reparto de poderes a nivel
+provincial es fuerte, en parte por la posición del gobernador en la negociación de
+
+[[PDF p. 32]]
+recursos para la provincia. Ello suele suceder en contextos en los que buena
+parte de la sociedad civil está asfixiada, y es manejada clientelarmente por su
+propia dependencia del estado. El presidencialismo es rehén del federalismo, y el
+federalismo es rehén del presidencialismo.
+
+Por ello, si bien es cierto que algunas provincias reciben más dinero del que
+recibirían de acuerdo con su peso político, la dinámica que produce este fenómeno
+es poco transparente e impacta en el corazón de los sistemas institucionales, tanto
+a nivel nacional como local. De hecho, los problemas políticos y económicos de
+nuestro federalismo están tan vinculados que tal vez sea innecesario analizar en un
+apartado el tema del ‘federalismo fiscal’. Sin embargo lo intento.
+
+Federalismo fiscal
+
+Según ciertas teorías económicas, al dividir en distintos niveles de gobierno la
+atribución conjunta de recaudar y gastar recursos públicos, el federalismo podría
+ser ventajoso. La descentralización podría permitir una mejor satisfacción de las
+necesidades y preferencias locales. Los gobiernos podrían contar con ventajas
+informativas para su identificación, y estar así en mejores condiciones para
+proveer una oferta más variada a los individuos que viven en ese distrito. Estos
+beneficios, sin embargo, deben balancearse con las ventajas que en ciertos casos
+tiene la centralización. Por ejemplo, en términos de economías de escala para la
+
+[[PDF p. 33]]
+provisión de ciertos servicios, o para vencer problemas de acción colectiva entre
+las provincias o sus vecinos.
+
+Si bien la Constitución Nacional es clara al consagrar en buena medida esta
+descentralización en cabeza de las provincias, ella virtualmente no existe en la
+práctica. A inicios del siglo 20, las provincias comenzaron a ceder gradualmente a
+la nación la facultad de crear y recaudar impuestos, tanto como resultado de una
+imposición nacional (influida por la expansión del rol del estado) como por la
+propia debilidad económica de ciertos distritos. En 1935 se creó el ‘Régimen de
+Coparticipación de Impuestos’, que con muchas modificaciones y algunas
+interrupciones mantiene su vigencia hasta la actualidad. Como se sabe, mediante
+este sistema el estado nacional recauda y luego reparte dinero a las provincias.
+Una de sus posibles justificaciones es nivelar las hondas asimetrías socio‐económicas existentes a lo largo del país.
+
+Desde 1994, este régimen forma parte de la Constitución. Pero en violación al
+texto constitucional, el Congreso no sancionó todavía la ley que tiene que
+
+[[PDF p. 34]]
+reglamentarlo. En su reemplazo existen normas parciales, con asignaciones poco
+transparentes. Paralelamente al sistema legal (aunque poco claro) de la
+coparticipación, y para compensar la insuficiencia de recursos, existe un sistema
+para­legal de reparto de fondos a las provincias, frecuentemente manejado con
+un alto nivel de discrecionalidad por parte del Ejecutivo nacional.
+
+La falta de autonomía de recursos impositivos de las provincias contrasta con la
+importancia y cantidad de servicios públicos que tienen a su cargo, desde la
+educación y los servicios de salud hasta la seguridad y la administración de justicia.
+Ello especialmente a partir del período de descentralización y transferencia de
+funciones iniciado a comienzos de los años noventa. Así, y aunque con
+diferencias entre las provincias, una gran parte del gasto local es afrontada con
+dinero proveniente del gobierno central.
+
+La existencia de un sistema de coparticipación como el consagrado en la
+Constitución no es de por sí criticable. Más allá de que podría crear ciertos
+problemas, un régimen semejante podría permitir, como dije, reducir las
+grandes asimetrías que existen en el país. La situación político‐institucional actual
+de sobre‐representación de algunas provincias no es una solución a este problema.
+Como sostuve, buena parte de las transferencias son derivadas discrecionalmente,
+
+[[PDF p. 35]]
+por motivos políticos. Pero además, no es obvio que las provincias más pequeñas
+(las más beneficiadas con el desajuste en la representación) sean justamente las
+más postergadas. De hecho, sería una casualidad que esto fuera así, porque tal
+desajuste reconoce causas distintas de la necesidad de reducir las asimetrías.
+Aunque con limitaciones metodológicas, el siguiente gráfico muestra este punto.
+Ninguna de las cinco provincias más pobres o desiguales figura entre las cinco más
+sobre‐representadas.
+
+Por otro lado, la provincia de Buenos Aires, la más castigada tanto por la sub‐representación como por el régimen de coparticipación, tiene un alto porcentaje de
+
+[[PDF p. 36]]
+personas bajo la línea de pobreza, lo que en números absolutos (debido a su gran
+densidad poblacional) representa una buena parte de todos los pobres del país.
+
+En suma, la solución a las asimetrías entre las provincias no pasa por mantener ni
+el desfase de representación política a nivel de diputados, ni el sistema actual de
+transferencias (parcialmente) discrecionales. Ellas deberían ser enfrentadas
+directamente, mediante una ley de coparticipación que, basándose en la realidad y
+las necesidades de cada provincia, imponga criterios de reparto universales,
+objetivos, transparentes e incondicionales.
+
+Otros estándares
+
+En lo que resta del artículo menciono muy brevemente tres temas más puntuales
+que los estudiados anteriormente: la potencial desigualdad en el derecho generada
+por el federalismo, la posibilidad de experimentación jurídica, y la aplicación de
+tratados.
+
+a. Desigualdad en el derecho. Según comenté antes, el federalismo podía ser una
+herramienta adecuada, aunque la práctica argentina no lo demuestre, para
+solucionar posibles asimetrías en términos de distribución del ingreso o pobreza
+entre regiones de un país. Hay otra dimensión en la que ciertos argumentos de
+igualdad podrían encontrar un lugar: la aplicación uniforme del derecho. Una nota
+clave del ideal del rule of law es que el derecho sea relativamente uniforme, es
+decir, que la ley y su aplicación por parte de los jueces no hagan discriminaciones
+arbitrarias al tratar casos similares. Este ideal, que en principio parece sólo formal,
+encuentra sustento normativo en teorías como la de Ronald Dworkin, para quien el
+estado puede reivindicar su autoridad –generando una obligación correlativa de
+obediencia de parte de los ciudadanos– y hacer uso del monopolio de la fuerza sólo
+si ciertas condiciones se ven satisfechas. En particular, si el derecho trata a los
+ciudadanos con igual consideración y respeto.
+
+[[PDF p. 37]]
+Al multiplicar los órganos a cargo de crear y aplicar derecho, la coexistencia de
+jurisdicciones típica de un estado federal puede generar ciertas asimetrías. Por
+ejemplo, la provincia P1 puede ser la única en adoptar una ley de salud
+reproductiva, o P2 puede tener estándares mucho más generosos que P3 en
+términos del respeto de las garantías en el proceso penal. Dado que, al menos
+cuando no hay dos derecho en juego, la Constitución Nacional sólo provee un piso
+mínimo de derechos, y que las provincias pueden elevarlo –siendo más ‘generosas’
+en su reconocimiento–, esto es perfectamente posible en nuestro país. Si, en
+cambio, los jueces de una provincia no respetaran esa interpretación ‘mínima’ de la
+Constitución Nacional (esto es, la versión ‘Corte Suprema’ de la Constitución
+Nacional), el Máximo Tribunal debería desautorizarlos, dejando sin efecto sus
+decisiones.
+
+Obviamente, esto no se limita a posibles asimetrías en términos del contenido de
+los derechos constitucionales. Una persona en Px, por consiguiente, podría tener
+
+[[PDF p. 38]]
+distintos derechos o estar sometida a un régimen jurídico distinto que una persona
+en Py. Es cierto, sin embargo, que esta ‘desigualdad’ no debería resultar
+excesivamente problemática. Además de otras razones, y de modo muy
+especial, tanto la Constitución Nacional como los códigos de fondo prevén límites
+que deben ser respetados (un código procesal no puede garantizar menos derechos
+que la Constitución Nacional; un juez local no puede interpretar discrecional o
+arbitrariamente una disposición del código penal), y existen remedios para cuando
+ello no suceda. Nuevamente, éste es el rol que la Corte Suprema debería cumplir,
+y de hecho suele hacerlo, aunque no siempre cabalmente.
+
+b. Experimentación. Como contracara del argumento anterior, la existencia de
+ciertas asimetrías entre las provincias podría celebrarse antes que criticarse. Así,
+podría sostenerse que la presencia de múltiples unidades con atribuciones
+legislativas puede funcionar como una suerte de ‘laboratorio’ para testear distintas
+alternativas legales. Las provincias, pero también la nación, podrían ‘aprender’
+
+[[PDF p. 39]]
+mutuamente a partir de la experimentación normativa. De hecho, esto es lo que ha
+sucedido con frecuencia con los códigos procesales provinciales. Según este
+argumento, entonces, podría ser especialmente positivo que existan distintas sub‐unidades dentro de un país, pues ello alentaría la innovación y el desarrollo en
+materia legal. Desde luego, tal experimentación quedará limitada por la
+necesidad de respetar una serie de estándares constitucionales mínimos.
+
+c. Federalismo y aplicación de tratados internacionales. Aunque sólo le
+dedicaré un par de párrafos, un punto más serio, que podría poner en tensión al
+federalismo, tiene que ver con la recepción interna de los tratados. El tema, que
+también tiene vinculación con el argumento de la igualdad, es especialmente
+relevante para nuestro país, dada la situación creada con la incorporación a la
+Constitución, en 1994, de los tratados de derechos humanos. Enfrentamos aquí
+un típico problema de agencia: mientras el único responsable a nivel internacional
+de pagar el costo del incumplimiento de un tratado es el estado nacional (la ‘parte’
+en el tratado), muchas de las violaciones pueden provenir de las provincias, que no
+son técnicamente parte. Este es un problema serio, tanto por lo que está en juego
+(en última instancia, el respeto de los derechos humanos, pero también la
+responsabilidad internacional del estado) como por la inexistencia de soluciones
+obvias.
+
+El ‘principal’ (el estado nacional) no tiene una forma directa de controlar al
+‘agente’ (las provincias) en el cumplimiento del tratado. ‘Controlar’ significa aquí
+no sólo que el estado nacional esté en condiciones de garantizar el cese,
+
+[[PDF p. 40]]
+investigación y reparación de una violación, sino que también pueda prevenirla.
+Esta situación no genera muchos incentivos a las provincias para ser más celosas
+en el respeto de los tratados. Desde luego, esto no sería grave si existiera un fuerte
+compromiso por parte de las autoridades provinciales, o cierto alineamiento
+político entre ellas y las nacionales. Esto no siempre sucede, sin embargo.
+Entonces, incluso presuponiendo que el estado nacional tiene voluntad para
+garantizar el cumplimiento del tratado (una suposición que no es obvia), el
+problema es cómo podría hacerlo en aquellos casos en que las violaciones se
+generan en territorios provinciales.
+
+Está fuera de discusión que el estado nacional no puede invocar ante la autoridad
+internacional (especialmente los órganos interamericanos, que tienen mecanismos
+de cumplimiento más fuertes) la existencia del federalismo para excusar el
+incumplimiento del tratado. El problema no es internacional sino interno.
+
+Algunos autores han sostenido que el Congreso Nacional está autorizado para
+crear leyes –federales– con estándares mínimos sobre interpretación y aplicación
+de los derechos contemplados en los tratados. Un posible problema con esta
+alternativa es que una gran cantidad de cuestiones podría tener relación con
+tales derechos (derechos sociales en general, garantías en el proceso penal,
+derechos políticos, etc.) Si esto fuera así, la introducción de los tratados habría
+supuesto una fuerte transferencia de poder de las provincias (generalmente
+
+[[PDF p. 41]]
+concebidas como las responsables de crear legislación local implementando los
+derechos constitucionales) hacia el estado nacional.
+
+¿Qué otras posibles soluciones hay? De acuerdo con nuestro diseño
+institucional, el órgano encargado de custodiar que los derechos sean
+correctamente implementados por las provincias parece ser la Corte Suprema.
+Según vimos, el tribunal tiene a su cargo fijar estándares mínimos en materia de
+derechos constitucionales, y custodiar la vigencia de los procedimientos
+democráticos a nivel local. Debe por consiguiente hacerlo también cuando los
+derechos provienen de un tratado incorporado a la Constitución. Existen otras
+alternativas, desde las negociaciones y presiones políticas que el estado nacional
+pueda ejercer sobre las autoridades provinciales (una alternativa que en la
+práctica podría ser débil), hasta ordenar la intervención federal de la provincia en
+cuestión (demasiado fuerte). No todas las opciones, sin embargo, tienen la
+misma eficacia, especialmente cuando se trata de prevenir violaciones.
+
+6. Conclusión
+
+Comencé este artículo definiendo el término ‘federalismo’, e intentando buscar
+posibles justificaciones normativas de este tipo de arreglos. Sostuve que, en un
+país con gran densidad poblacional, grandes divisiones sociales o un gran
+territorio, el federalismo podría ser una buena opción –en comparación con otras
+
+[[PDF p. 42]]
+alternativas más centralizadas– para fomentar la participación y el control
+democrático, y para custodiar los derechos de ciertos tipos de minoría. Pero no
+para optimizar el potencial mayoritario de un sistema político. Complementé estas
+intuiciones con una descripción sintética del origen histórico del federalismo en los
+Estados Unidos y en Argentina.
+
+Luego analicé el federalismo argentino en funcionamiento. Sostuve que varias
+cláusulas constitucionales que se refieren a él no son respetadas. En contra de
+algunas intuiciones comunes, afirmé que un mayor respeto a la Constitución
+restaría poder efectivo a algunas provincias en comparación con el que hoy tienen.
+Pero en contra de otras intuiciones, esta pérdida de poder podría ser más positiva
+que negativa. Finalmente analicé otros posibles puntos referidos al federalismo. Al
+menos inicialmente, dos parecen problemáticos, especialmente el segundo: la
+desigualdad en el derecho y la aplicación de tratados internacionales. El otro
+parece en cambio ventajoso: la posibilidad de experimentar jurídicamente.
+
+Uno de los varios puntos que este artículo no analiza es el de cómo mantener la
+estabilidad de un sistema por naturaleza inestable como el federal, que agrupa a
+fuerzas que empujan para distintos polos. Aunque el riesgo es que éste derive
+tanto en un centralismo como en una fragmentación completa, el peligro mayor es
+el primero, al menos en sociedades relativamente homogéneas como la nuestra.
+Las alternativas son de dos tipos. En primer lugar, confiar en que las pautas
+jurídicas o constitucionales sobre el federalismo sean aseguradas por un órgano
+judicial independiente. Según sugerimos, la Corte Suprema tiene un papel
+importante en este aspecto. De hecho, el nacimiento del control judicial de
+constitucionalidad podría en general vincularse con el posible rol de árbitro entre
+las distintas unidades que componen una federación que los tribunales superiores
+del país podrían cumplir.
+
+Pero descontando el hecho de que la intervención de un órgano que pertenece al
+gobierno central para asegurar el respecto del federalismo pueda ser problemática
+–el árbitro sería de alguna manera parte en la disputa–, la justicia sólo interviene
+
+[[PDF p. 43]]
+correctivamente, luego de que la norma ya fue (según se asegura) violada. Más
+efectivas para mantener la vigencia del federalismo pueden ser ciertas
+salvaguardas estructurales del propio sistema político, que logren minimizar la
+posibilidad de que un fuerte gobierno central avance contra las sub‐unidades. La
+división entre los poderes ejecutivo y legislativo (en prácticamente cualquiera de
+sus versiones) ayuda a lograr esto.
+
+Como ya dijimos, sin embargo, la fuerte preponderancia del ejecutivo argentino
+por sobre el legislativo limita esta posibilidad. Irónicamente, el débil rol que el
+legislativo de por sí juega a nivel nacional (con independencia de las dinámicas
+asociadas al federalismo) se ve agravado por nuestra práctica federal.
+
+En suma, no es que tengamos poco o mucho federalismo. Sea poco o mucho aquello
+que tenemos, el problema es que, de acuerdo con las variables que analicé, no es
+claro que sea aceptable. Desde luego, las cosas podrían funcionar mucho mejor, y
+uno de los modos de que eso suceda es respetar nuestra malhadada Constitución.
+Pero es inútil despegar completamente la discusión del federalismo de la discusión
+más general que tiene al propio presidencialismo argentino, con todo su
+significado histórico y actual, en el centro de la escena. Según vimos, el federalismo
+influye en el presidencialismo, pero también el presidencialismo influye en el
+federalismo.
+
+[[PDF p. 44]]
+
+[[PDF p. 45]]
+Ethnic Identity and Democratic Institutions: A
+Dynamic Perspective”, en Constitutionalism in Divided Societies, ed. Choudry, S.
+Cambridge, England: Cambridge University Press.
+
+[[PDF p. 46]]
+

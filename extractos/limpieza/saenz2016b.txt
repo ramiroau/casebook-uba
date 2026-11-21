@@ -1,0 +1,37 @@
+# Sáenz, «Facultades normativas del poder ejecutivo» (U11).
+# Continuaciones de notas al pie que quedan antes del renglón con el número de
+# la nota siguiente, y por eso el corte de notas las deja en el cuerpo.
+# PDF p. 2 (fin de la nota 2)
+^\s*instituciones republicanas\. La expresión máxima de las potestades excepcionales del Presidente en la atribución para emitir\s*$
+^\s*disposiciones legislativas por vía de decretos de necesidad y urgencia \(art\. 99\.3\)\.\s*$
+# PDF p. 11 (fin de la nota 36)
+^\s*existencia de circunstancias excepcionales, propias de un estado de necesidad, que exijan medidas de urgencia que deban\s*$
+^\s*adoptarse en un tiempo menor al que requiere al Congreso la sanción de las leyes”\.\s*$
+# PDF p. 18 (fin de la nota 55)
+^\s*misma lo denominó– constituido por un conjunto de tres leyes que habilitaban al Ejecutivo a derogar aquel régimen laboral,\s*$
+^\s*aunque ello no estuviera expresamente contemplado en las leyes delegantes\.\s*$
+# Llamadas de nota que MARCA_DE_NOTA no toma (tras comillas tipográficas,
+# punto, mayúscula, cifra o espacio)
+(?<=Administración Pública-\.)11(?= Se)
+(?<=“llenar los detalles”)16(?= o)
+(?<=implementación de la ley”)17(?=\.)
+(?<=excepciones reglamentarias”)21(?=\.)
+(?<=en última instancia) 22(?=\s*$)
+(?<=sistema\nrepublicano democrático”) 24(?=\.)
+(?<=paz y el orden social”)25(?= \()
+(?<=es el art\.\n99\.3 CN)29(?=\.)
+(?<=“estado de necesidad”)33(?= \()
+(?<=“fuerza mayor”)34(?=\s)
+(?<=comienzos de 2010)37(?=,)
+(?<=“Aceval\nPollachi” \(2011\)) 39(?=,)
+(?<=Ciudad de\nBuenos Aires)40(?=-)
+(?<=especial interés público\)) 47(?=\.)
+(?<=caso “A\.M\. Delfino”)48(?= en)
+(?<=\(caso “Mouviel)53(?=\))
+(?<=\(una “patología”)57(?=\))
+(?<=crisis económicas de 1989 y de 2002)58(?=,)
+(?<=El caso “Oviedo c/ Marcone”)59(?=,)
+(?<=c/ Estado Nacional”)62(?=,)
+(?<=“Julio Héctor Czerniecki”)66(?= y)
+(?<=Establecimiento Modelo Terrabusi S\.A\.”)67(?=,)
+(?<=restrictiva de los DNU)28(?=,)

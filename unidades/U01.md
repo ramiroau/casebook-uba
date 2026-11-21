@@ -1,0 +1,147 @@
+## Unidad 1. Introducción a algunos problemas de la teoría constitucional {-}
+
+*¿Qué es una constitución? ¿Qué es la democracia? Relación entre constitución y democracia. Las distintas concepciones de constitución y de democracia.*
+
+### El problema {-}
+
+¿Por qué debemos obediencia a una Constitución que no votamos? ¿Qué autoridad tienen sobre nosotros quienes la escribieron, si ya no están? ¿Y en qué sentido puede llamarse «democrático» un sistema que pone ciertas decisiones fuera del alcance de las mayorías?
+
+La expresión *democracia constitucional* reúne dos ideales que no conviven sin esfuerzo. Gargarella lo formula como un conflicto entre dos compromisos: los democráticos apelan a un principio según el cual no hay autoridad superior a la nuestra, actuando colectivamente; los constitucionales llevan a pensar en límites que ninguna mayoría puede franquear [@gargarella2009d, 23]. La tensión se vuelve visible cada vez que un tribunal invalida una ley sancionada por el Congreso, y tiene además una versión temporal: la Constitución pretende durar, quienes la dictaron están muertos y quienes viven bajo ella no la votaron. Los dos textos de la unidad parten de ese mismo lugar ---Thomas Paine y el derecho de los vivos frente a la autoridad de los muertos, Thomas Jefferson y su propuesta de rehacer la Constitución con cada generación [@gargarella2009d, 24; @holmes1993]---.
+
+Desde ahí, la bibliografía toma dos caminos. Gargarella examina los argumentos disponibles a favor de la primacía de la Constitución ---su origen democrático, las circunstancias excepcionales de la fundación, el consenso tácito, el arraigo en las tradiciones--- y los descarta uno por uno; luego se detiene en el más prometedor, la imagen de Ulises atado al mástil, y le opone dos objeciones. Termina proponiendo un terreno común entre los dos ideales, la igualdad, del que deriva una concepción deliberativa de la democracia [@gargarella2009d, 24-40].
+
+<!-- AUTOR -->Holmes recorre el camino inverso. Sostiene que la «tensión» entre constitucionalismo y democracia es un mito: hay reglas que *capacitan*, y sin ellas el pueblo no puede actuar como tal. Reconstruye la historia de dos prohibiciones ---ninguna generación puede atar a la siguiente, nadie puede obligarse a sí mismo---, muestra cómo fueron superadas y aplica la idea de *precompromiso* a la separación de poderes, a las reglas electorales y a la libertad de expresión [@holmes1993]. Los dos textos conversan: Gargarella remite a Holmes en la nota con la que introduce la metáfora de Ulises [@gargarella2009d, 30]. La bibliografía optativa agrega a Nino, que descompone el constitucionalismo en dimensiones separables [@nino1996a].<!-- /AUTOR -->
+
+<!-- AUTOR -->La lectura de Gargarella se reproduce completa, sin las notas al pie: es breve y se lee mejor entera que resumida. De Holmes se reproducen tres tramos ---la apertura, la defensa que Madison hace del compromiso previo y las secciones sobre fundadores, ciudadanos y reglas capacitadoras---, enlazados por una reconstrucción de las secciones intermedias; el resto del capítulo se lee en el compendio. Antes de cada tramo va una línea que indica qué hace ese pasaje en el argumento.<!-- /AUTOR -->
+
+<!-- AUTOR -->La unidad procede, entonces, de la siguiente manera. Primero se lee a Gargarella en tres tramos: el conflicto y los argumentos que descarta, Ulises y sus dos objeciones, la igualdad y la democracia deliberativa. Después se lee a Holmes en tres momentos: la tensión como problema, las posibles soluciones ---con la defensa madisoniana del compromiso previo--- y la paradoja de las reglas capacitadoras. Al final, las notas y preguntas señalan dónde coinciden y dónde se separan los dos textos.<!-- /AUTOR -->
+
+<!-- AUTOR -->
+### Preguntas que guían la lectura {-}
+
+1. ¿Qué compromisos democráticos y qué compromisos constitucionales entran en conflicto según Gargarella, y por qué la versión temporal del conflicto ---la autoridad de los muertos sobre los vivos--- agrava la dificultad [@gargarella2009d, 23-24]?
+2. ¿Qué cuatro argumentos examina Gargarella a favor de la primacía de la Constitución, y por qué razón descarta cada uno [@gargarella2009d, 24-29]?
+3. ¿Qué muestra la metáfora de Ulises y en qué consisten la objeción intergeneracional y la objeción sociológica [@gargarella2009d, 29-32]?
+4. ¿Por qué Gargarella deriva de la igualdad una concepción deliberativa de la democracia, y qué consecuencias extrae de ella para el lugar de los jueces [@gargarella2009d, 32-40]?
+5. ¿Por qué Holmes llama «mito» a la tensión entre constitucionalismo y democracia, y qué le reprocha a Ely [@holmes1993, sección «La tensión entre constitucionalismo y democracia»]?
+6. ¿Qué diferencia hay, para Holmes, entre reglas regulativas y reglas constitutivas, y cómo usa esa distinción para corregir la metáfora de Ulises [@holmes1993, sección «Reglas incapacitadoras y capacitadoras»]?
+<!-- /AUTOR -->
+
+### Lectura: Gargarella, «Constitucionalismo versus democracia» [@gargarella2009d] {-}
+
+**Ubicación.** Capítulo III del primer volumen de *Teoría y crítica del derecho constitucional*, pp. 23-40. Obligatoria. Diez hojas en el compendio, escaneadas a doble página. Cuatro secciones: la tensión y su genealogía (I), los argumentos que la resolverían a favor del constitucionalismo y por qué fallan (II), la igualdad como terreno común (III) y la concepción deliberativa de la democracia que se sigue de ella (IV).
+
+<!-- AUTOR -->*1. El planteo y cuatro argumentos descartados (pp. 23-29).* Cada estrategia ---origen democrático, circunstancias fundacionales, consenso tácito, tradiciones--- se descarta por una razón distinta. Madison entra después, frente a «un dilema semejante», sin sumarse a la serie. El tramo cierra con un párrafo hecho sólo de preguntas.<!-- /AUTOR -->
+
+<!-- EXTRACTO gargarella2009d
+desde: «Detrás de muchas de las discusiones que hoy»
+hasta: «y preferible a un estado de tensión latente?»
+cita: --- Gargarella, «Constitucionalismo versus democracia», secciones I y II, pp. 23-29 [@gargarella2009d]
+-->
+
+*2. Ulises y las sirenas (pp. 29-32).* «Un último y prometedor argumento»: la Constitución como condición de la democracia. El tramo presenta dos objeciones, la *intergeneracional* y la *sociológica*, que reaparecen a lo largo de la materia.
+
+<!-- EXTRACTO gargarella2009d
+desde: «Llegados hasta aquí, de todos modos, conviene explorar»
+hasta: «en la historia del constitucionalismo moderno–.»
+parrafo: «El argumento en cuestión reconoce una presentación»
+cita: --- Gargarella, «Constitucionalismo versus democracia», sección II, pp. 29-32 [@gargarella2009d]
+-->
+
+<!-- AUTOR -->*3. La igualdad y la democracia deliberativa (pp. 32-40).* La sección III distingue entre tratar a cada persona *como un igual* y tratarla *igual*. La sección IV extrae tres consecuencias: no toda expresión de la voluntad ciudadana vale lo mismo, la democracia debe *transformar* preferencias además de *agregarlas*, y la deliberación colectiva se prefiere a la reflexión aislada de unos pocos ---«típicamente, los jueces»---.<!-- /AUTOR -->
+
+<!-- EXTRACTO gargarella2009d
+desde: «III. LA IGUALDAD COMO PRESUPUESTO COMÚN»
+hasta: «en razones independientes, como las citadas más arriba.»
+cita: --- Gargarella, «Constitucionalismo versus democracia», secciones III y IV, pp. 32-40 [@gargarella2009d]
+-->
+
+### Lectura: Holmes, «El precompromiso y la paradoja de la democracia» [@holmes1993] {-}
+
+<!-- AUTOR -->**Ubicación.** Capítulo del volumen *Constitucionalismo y democracia*, compilado por Jon Elster y Rune Slagstad (Fondo de Cultura Económica), pp. 217-262 de la edición castellana. Obligatoria. Veintiséis páginas en el compendio. La versión del compendio es una transcripción sin paginación impresa, por lo que se cita por título de sección. Arrastra errores de tipeo («Tribal» por «Tribe», «la sabrían» por «lo sabrían», «iNo» por «¡No», letras sueltas en medio de una frase) que se reproducen tal cual. La unidad reproduce tres tramos del capítulo; las secciones sobre la separación de poderes, las reglas electorales, el debate público, el autopaternalismo y la autoesclavización se leen en el compendio.<!-- /AUTOR -->
+
+<!-- AUTOR: eliminado «*1. El mito de la tensión.* Hayek y Shapiro aparecen como adversarios simétricos…» y el marcador de extracto holmes1993 que iba desde «LAURENCE TRIBE comienza su influyente tratado» hasta «Empezaré por una incursión en la historia de las ideas.» -->
+
+<!-- AUTOR -->
+El texto de Holmes empieza por discutir a algunos autores como Hayek y Shapiro, que aparecen como adversarios simétricos en torno a la idea básica de que la idea de una constitución y la idea de una democracia están en tensión. Holmes rastrea la idea de Ulises a Hayek, pero trae a Ely como un posible aliado que ---sin embargo--- no pude desmontar el mito. Para Holmes, la idea de que una Constitución puede *limitar* a la democracia tiena una larga tradición, que él vincula a ciertas ideas fuerza de autores como David Hume, Thomas Paine, o Thomas Jefferson --- todas en una dirección precisa: la que subraya la necesidad de que las constituciones reconozcan de manera explícito el derecho del *pueblo* a cambiar sus constituciones cuando lo estimen pertinente, porque es derecho del pueblo alterar o abolir cualquier 'forma de gobierno' que se haya vuelto 'destructiva' de la vida, la libertad y la búsqueda de la felicidad. Ninguna institución, por muy importante que sea, es inalterable; ninguna ley, por muy fundamental que sea, es irrevocable" [@holmes1993, ???]. O como el propio Thomas Paine planteó ---en controversia con Edmund Burke--- "cada época y generación debe ser tan libre de actuar por sí misma, en todos los casos, como las edades y generaciones que la precedieron" [@holmes1993, ???]. 
+
+Por razones teóricas e históricas, las constituciones resultaron ser más difíciles de cambiar que lo que estos precursores imaginaron. En ocasiones, los textos se volvieron objeto de veneración política y social, lo que las convirtió en parte de una "religión civil" [@klarmann]. En otras, los mecanismos de cambio constitucional se volvieron muy difíciles de implementar, por cambios demográficos y políticos que simplemente hacen más difícil alcanzar los consensos necesarios para activar los mecanismos de reforma, en general más *rígidos* que los previstos para el proceso legislativo corriente. En todo caso, estos cambios sociales refuerzan ---en lugar de diluir--- la tensión que Holmes discute. Sin embargo, quiere combatirla, y busca la ayuda ---nuevamente--- de John Hart Ely.  
+<!-- /AUTOR -->
+
+<!-- AUTOR: eliminado «*2. Las dos prohibiciones.* Ninguna generación puede atar a la siguiente…» y el marcador de extracto holmes1993 que iba desde «LA PROHIBICIÓN DE OBSTRUIR EL FUTURO» hasta «anterior y aparte de todos los procesos constitucionales.» -->
+
+<!-- AUTOR -->
+*1. La tensión como problema.* 
+
+<!-- EXTRACTO holmes1993
+desde: «La existencia de una “tensión” irreconciliable entre constitucionalismo y democracia es»
+hasta: «Y sin embargo, subsiste el mito de una “tensión” latente.»
+cita: --- Holmes, «El precompromiso y la paradoja de la democracia», apertura y sección «La tensión entre constitucionalismo y democracia» [@holmes1993]
+-->
+<!-- /AUTOR -->
+
+<!-- AUTOR: eliminado «*3. Cómo se superaron.* Contra la primera prohibición, la herencia…» y el marcador de extracto holmes1993 que iba desde «POR QUÉ UNA GENERACIÓN SI PUEDE OBLIGAR A LA SIGUIENTE» hasta «afirmar más eficazmente su voluntad.» -->
+
+<!-- AUTOR -->
+*2. Posibles soluciones*. ¿Cómo se resuelve esa tensión? Holmes explora dos ideas de larga data: la postura de David Hume en relación a que los padres no pueden comprometer a sus hijos y la idea de que si el gobierno republicano dependerá del consentimiento del pueblo, el *pueblo* que vale es el pueblo *de los vivos*. Esta idea tuvo su famosa expresión constitucional en Jefferson, quien sugirió una Convención Constituyente periódica cada 19 años para que cada generación pueda resolver sobre el tipo de gobierno que mejor se ajusta a sus necesidades. Contra la primera objeción, Holmes plantea la idea de la propiedad, que puede ---efectivamente--- imponer obligaciones a las generaciones futuras. La segunda objeción recibe una respuesta más interesante: si bien el consentimiento de los vivos es importante, es posible que éstos decidan restringirse a sí mismos y restringir a las generaciones futuras como un modo de aumentar su propio poder, e lugar de restringirlo. Esta idea, aparentente paradojal, es central en el argumento de Holmes, quien la rastrea hasta la teología medieval y el pensamiento de Jean Bodin, uno de los primeros y más importantes teóricos de la soberanía. Para Bodin, la soberanía no puede ser limitada, lo que no significa que los reyes ---soberanos de entonces--- no puedan autolimitarse: "...estas restricciones no son límites sino, antes bien, expresiones de la libertad y de poder reales. La autoatadura es ilícita cuando incluye una disminución de la autoridad del rey; en cambio, es permisible y hasta obligatoria cuando sostiene y aumenta el poder soberano. Si el rey sólo puede retener y extender la autoridad atándose las propias manos, entonces deberá atárselas. De hecho, en muchas circunstancias la abdicación del poder no es una infracción de la voluntad del príncipe, sino más bien una técnica indirecta por la cual puede afirmar su voluntad" [@holmes1993, ???]. 
+
+Este viejo debate de la teoría política medieval se expresó con claridad en el proceso constiuyente de Estados Unidos. 
+<!-- /AUTOR -->
+
+<!-- AUTOR: eliminado «*4. Madison.* El mismo material que el primer tramo de Gargarella…» -->
+
+<!-- EXTRACTO holmes1993
+desde: «MADISON DEFIENDE EL COMPROMISO PREVIO»
+hasta: «itinerarios no sincronizados de las vidas humanas.»
+parrafo: «Al criticar el ataque de Jefferson»
+parrafo: «En Inglaterra, por esa misma época, Burke»
+parrafo: «Las objeciones de Madison al programa»
+parrafo: «Madison también consideró la cuestión de la deuda»
+parrafo: «Los problemas que afectaban la propuesta»
+cita: --- Holmes, «El precompromiso y la paradoja de la democracia», sección «Madison defiende el compromiso previo» [@holmes1993]
+-->
+
+<!-- AUTOR -->
+*3. La paradoja*. La tensión entre constitucionalismo y democracia que venimos discutiendo sería, en Holmes, una enorme paradoja. Las reglas que limitan a las instituciones republicanas no constituyen restricciones, sino que son reglas *capacitadoras* --- las reglas del ajedrez no limitan al ajedrecista, sino que hacen que el ajedrez sea *posible*. Esa metáfora es utilizada por Holmes para defender las restricciones constitucional, no como *restricciones* a la democracia sino como reglas que *la habilitan y la hacen posible*. 
+
+<!-- EXTRACTO holmes1993
+desde: «En contraste con el anhelo de Rousseau»
+hasta: «tiene una función positiva, no sólo una negativa.»
+parrafo: «En contraste con el anhelo de Rousseau»
+parrafo: «A pesar de todo, como lo sugirió Madison»
+parrafo: «Jefferson y Paine nunca se enfrentaron»
+parrafo: «Los constitucionalistas, de cualquier modo»
+parrafo: «El proceso de crear una Constitución o la»
+parrafo: «Paine y Jefferson se sintieron complacidos»
+parrafo: «Puede resultar útil comparar las constituciones»
+parrafo: «O tal vez debiéramos volver a considerar»
+cita: --- Holmes, «El precompromiso y la paradoja de la democracia», secciones «Fundadores y ciudadanos» y «Reglas incapacitadoras y capacitadoras» [@holmes1993]
+-->
+<!-- /AUTOR -->
+
+<!-- AUTOR: eliminado «*6. Tres aplicaciones.* La separación de poderes, las reglas electorales…» y el marcador de extracto holmes1993 que iba desde «FUNCIONES CAPACITADORAS DE LA SEPARACIÓN DE PODERES» hasta «mientras los ciudadanos sigan imponiéndoselos a sí mismos.» -->
+
+<!-- AUTOR: eliminado «*7. Los límites del argumento.* Las tres «desanalogías»…» y el marcador de extracto holmes1993 que iba desde «EL AUTOPATERNALISMO» hasta «sí pueden facilitar el que los vivos se gobiernen a sí mismos.» -->
+
+### Notas y preguntas {-}
+
+1. Gargarella examina cuatro respuestas a la pregunta por la obligatoriedad de la Constitución ---origen democrático, circunstancias fundacionales, consenso tácito, arraigo en las tradiciones--- y las rechaza todas. Entre ellas establece una jerarquía: el argumento de las tradiciones es «más vulnerable que el recién examinado», el del consenso tácito [@gargarella2009d, 27]. ¿Cuál es la más fuerte, y por qué falla? Si ninguna vale, ¿queda alguna base de legitimidad para un texto como el de 1853?
+2. ¿Qué prueba exactamente la metáfora de Ulises y qué no prueba? La objeción intergeneracional y la sociológica apuntan a cosas distintas: la primera, a quién queda atado; la segunda, a quién ata. Gargarella cierra con la imagen de las manos atadas de la comunidad y las manos desatadas de los constituyentes [@gargarella2009d, 31-32].
+3. Holmes sostiene que la generación *a* puede ayudar a la generación *c* a protegerse de la generación *b* [@holmes1993, sección «Fundadores y ciudadanos»]. ¿Responde eso a la objeción intergeneracional? ¿Responde a la sociológica? ¿Quién dicta las metalimitaciones, y qué garantiza que la elite constituyente no se deje las manos libres?
+4. <!-- AUTOR -->¿Qué diferencia hay entre una regla *regulativa* y una regla *constitutiva*? ¿Qué partes de la Constitución argentina son de cada tipo? Si toda regla constitucional se justifica por hacer posible el autogobierno, ¿cómo se distingue una regla que capacita de una que sólo beneficia a quien la escribió? El criterio que Holmes ofrece, en una sección que la unidad no reproduce, es parcial: el precompromiso es moralmente permisible «siempre que refuerce la prohibición de la autoesclavización» [@holmes1993, sección «La prohibición de la autoesclavización»].<!-- /AUTOR -->
+5. Los dos textos leen a Madison con el mismo material y distinta valoración. Gargarella presenta sus argumentos y pregunta por qué desconfiar del debate público y de las capacidades reflexivas de la ciudadanía [@gargarella2009d, 28-29]; Holmes los presenta como realismo psicológico [@holmes1993, sección «Madison defiende el compromiso previo»]. Algo parecido ocurre con el consentimiento tácito: Gargarella lo descarta porque no se distingue de la resignación [@gargarella2009d, 26]; el Madison de Holmes lo rehabilita, siempre que la oportunidad de protestar y de pedir la reforma esté garantizada. ¿Qué concepción de la ciudadanía supone cada lectura?
+6. <!-- AUTOR -->Gargarella distingue entre *agregar* y *transformar* preferencias. La distinción presupone que las preferencias existentes pueden estar deformadas por injusticias previas y que por eso merecen ser examinadas además de contadas [@gargarella2009d, 34, 37]. El texto lo plantea en un sentido «fundamentalmente modesto» y descarta que la deliberación deba llevar al consenso unánime o garantice la imparcialidad [@gargarella2009d, 37, 40]. ¿Dónde se pone el límite entre examinar una preferencia y descontarla?<!-- /AUTOR -->
+7. <!-- AUTOR -->La separación de poderes, dice Holmes en una sección que se lee en el compendio, organiza y aumenta el poder además de limitarlo [@holmes1993, sección «Funciones capacitadoras de la separación de poderes»]. ¿Qué queda, entonces, de la idea del constitucionalismo como límite? La respuesta a Schmitt ---el pueblo sin reglas no tiene manos--- [@holmes1993, sección «Restricciones que refuerzan la democracia»] vale igual contra un populismo autoritario y contra un movimiento constituyente democrático. La Unidad 3 vuelve sobre esto con los límites del poder constituyente derivado.<!-- /AUTOR -->
+8. <!-- AUTOR -->La «dificultad contramayoritaria» de la Unidad 4 es esta misma tensión, aplicada a un órgano concreto. Gargarella la anticipa dos veces: cuando asigna mayor legitimidad democrática a la decisión de una legislatura que a la de un juez [@gargarella2009d, 35] y cuando rechaza que la imparcialidad se garantice mejor con la reflexión aislada de los jueces [@gargarella2009d, 38]. Holmes, por su parte, recoge en su apertura la tesis de Ely según la cual el «Tribunal» recibe facultades para ser «el guardián de la democracia» [@holmes1993, sección «La tensión entre constitucionalismo y democracia»], y más adelante pone en sus manos el trazado de los distritos electorales [@holmes1993, sección «Restricciones que refuerzan la democracia»].<!-- /AUTOR -->
+9. Holmes trabaja casi enteramente con material anglosajón, francés y con Weimar. El caso latinoamericano ---muchas constituciones, a menudo dictadas por pocos--- es el objeto de la Unidad 2.
+
+### Síntesis {-}
+
+Los dos textos coinciden en un punto: hay límites que habilitan, y no toda limitación es una afrenta al autogobierno [@gargarella2009d, 30-31; @holmes1993]. Discrepan en cuánto puede cargarse sobre esa idea. Holmes sostiene que sin precompromiso no hay voluntad popular coherente y concluye que el constitucionalismo es condición de la democracia [@holmes1993, sección «Restricciones que refuerzan la democracia»]. Gargarella acepta la premisa y niega que alcance: de que hagan falta *algunas* reglas constitutivas no se sigue que sean legítimas *estas* reglas, dictadas por *esta* elite, ni que deban permanecer firmes frente a las generaciones que vienen [@gargarella2009d, 31-32].
+
+<!-- AUTOR -->Lo que separa una posición de la otra es la concepción de la democracia que se esté dispuesto a defender: agregativa o deliberativa, de ciudadanos a los que hay que proteger de sus pasiones o de ciudadanos capaces de corregirse en el debate. Queda además una pregunta que ninguno de los dos textos contesta: si ciertas reglas son constitutivas y otras no, ¿quién decide cuáles son cuáles? Esa pregunta abre la discusión sobre el control judicial de constitucionalidad.<!-- /AUTOR -->
+
+### Para seguir leyendo {-}
+
+- Carlos Santiago Nino, «El carácter complejo de la democracia constitucional» [@nino1996a]. Optativa. Capítulo inicial de *La constitución de la democracia deliberativa*, pp. 13-28. El escaneo del compendio es de baja calidad.
+- Alfonso Ruiz Miguel, «Constitucionalismo y democracia», *Isonomía* 21 (2004). En la carpeta de la unidad; no integra el programa.

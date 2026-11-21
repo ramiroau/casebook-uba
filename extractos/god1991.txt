@@ -1,0 +1,824 @@
+# fuente: Unidad11/1_O'Donnell_1991_Democracia Delegativa.pdf
+# modo: texto
+# paginas: 17
+# copiado de corpus/texto/god1991.txt (U11)
+
+[[PDF p. 1]]
+        DEMOCRACIA DELEGATIVA*
+                            Guillermo O’Donnell
+
+
+
+
+Guillermo O’Donnell, cientista político argentino, es Profesor de la cátedra
+Helen Kellogg de Estudios Internacionales y Director Académico del Kellogg
+Institute of International Studies de la Universidad de Notre Dame. Entre
+sus libros se incluyen Modernization and Bureaucratic-Authoritarianism
+(1979); Bureaucratic-Authoritarianism: Argentina, 1966-1973, in
+Comparative Perspective (1988); y Transitions from Authoritarian Rule
+(1986), con Philippe Schmitter y Laurence Whitehead.
+
+
+En el presente artículo describo una “nueva especie”, un tipo dentro
+de las democracias existentes sobre el cual aún no se ha teorizado.
+Como ocurre a menudo, tiene muchas similitudes con otras especies
+ya reconocidas y los casos presentan una gradación entre la primera
+y alguna variedad de las últimas. Aun así, considero que las diferen-
+cias son suficientemente significativas como para justificar el intento
+de tal descripción. El trazado de límites más nítidos entre estos tipos
+de democracia depende de la investigación empírica, así como de un
+trabajo analítico más refinado, que es el que ahora emprendo. Pero si
+realmente he encontrado una nueva especie —y no a un miembro de
+una familia ya reconocida, o una forma demasiado evanescente como
+para ameritar una conceptualización—, podría ser valioso examinar sus
+principales características.
+    Los académicos que han estudiado las transiciones y consolidaciones
+democráticas han señalado repetidamente que, dado que sería incorrecto
+suponer que todos estos procesos culminan en el mismo resultado, se
+necesita una tipología de las democracias. Se han realizado algunas
+tentativas interesantes centradas en las consecuencias de diversas tra-
+yectorias hacia la democratización, en términos de tipos de democracia
+
+
+    * Publicado originalmente como “Delegative Democracy”, Journal of Democracy, Vol. 5,
+No. 1, January 1994: 55-69. © 1994 National Endowment for Democracy and The Johns
+Hopkins University Press.
+
+[[PDF p. 2]]
+8                                             Journal of Democracy en Español
+
+y modelos de políticas.1 Sin embargo, mi actual investigación indica
+que los factores más decisivos en la generación de diversas clases
+de democracia no se relacionan con las características del régimen
+autoritario precedente ni con el proceso de transición. Más bien, creo
+que debemos centrarnos en varios factores históricos de larga data, así
+como en la gravedad de los problemas socioeconómicos que heredan
+los gobiernos democráticos recién instalados.
+    Permítanme exponer brevemente los puntos principales de mi argu-
+mento: 1) Las actuales teorías y tipologías respecto de la democracia
+se refieren a la democracia representativa tal como es, con todas sus
+variaciones y subtipos, en los países capitalistas de alto nivel de desa-
+rrollo. 2) Algunas democracias instaladas recientemente —en Argentina,
+Brasil, Perú, Ecuador, Bolivia, Filipinas, Corea y muchos países posco-
+munistas— constituyen democracias en el sentido de que cumplen con
+los criterios de Robert Dahl para la definición de poliarquía.2 3) Sin
+embargo, estas democracias no son democracias representativas y no
+parecen estar en camino de serlo; presentan características que me
+inducen a llamarlas democracias delegativas (DDs). 4) Las DDs no
+son democracias consolidadas —es decir, institucionalizadas—, pero
+pueden ser duraderas. En muchos casos, no se observan señales de una
+amenaza inminente de regresión autoritaria, ni de progresos hacia una
+democracia representativa. 5) Existe un importante efecto de interacción.
+La profunda crisis social y económica que la mayoría de estos gobiernos
+heredaron de sus predecesores autoritarios refuerza ciertas prácticas y
+concepciones acerca del ejercicio adecuado de la autoridad política, que
+conducen hacia la democracia delegativa, no a la representativa.
+    Las siguientes consideraciones subyacen al argumento recién
+presentado.3
+    A) La instalación de un gobierno elegido democráticamente abre
+camino a una “segunda transición”, con frecuencia más extensa y más
+compleja que la transición inicial desde el gobierno autoritario.
+    B) Esta segunda transición supuestamente se desarrolla entre un
+gobierno elegido democráticamente y un régimen democrático institu-
+cionalizado y consolidado.
+    C) No obstante, nada garantiza que esta segunda transición se lleve a
+cabo. Las nuevas democracias pueden retroceder a un gobierno autorita-
+rio, o se pueden atascar en una situación de ineficacia e incertidumbre.
+Esta situación podría mantenerse sin que surjan posibilidades para las
+formas institucionalizadas de democracia.
+    D) El elemento fundamental para el éxito de la segunda transición
+es la construcción de un conjunto de instituciones que se conviertan en
+puntos de decisión importantes dentro del flujo del poder político.
+    E) Para que se produzca tal exitoso desenlace, las políticas guber-
+namentales y las estrategias políticas de diversos agentes deben incor-
+porar el reconocimiento de un interés compartido, de nivel superior, en
+
+[[PDF p. 3]]
+Guillermo O’Donnell                                                      9
+
+la construcción de las instituciones democráticas. Los casos exitosos
+han mostrado una coalición decisiva de líderes políticos con un amplio
+respaldo, que prestan mucha atención a la creación y el fortalecimiento
+de las instituciones políticas democráticas. A su vez, estas instituciones
+han facilitado el manejo de los problemas sociales y económicos he-
+redados del régimen autoritario. Este fue el caso de España, Portugal
+—aunque no inmediatamente después de la instalación de la democra-
+cia—, Uruguay, y Chile.
+    F) En contraste, los casos de democracia delegativa mencionados
+anteriormente no han alcanzado un progreso institucional ni una con-
+siderable eficacia gubernamental para abordar sus respectivas crisis
+sociales y económicas.
+    Antes de desarrollar estos temas con más detalle, debo realizar una
+breve digresión para explicar en forma más precisa a qué me refiero con
+instituciones e institucionalización, de modo de hacer más nítidos los
+patrones que no logran desarrollarse bajo la democracia delegativa.
+
+                      Acerca de las Instituciones
+    Las instituciones son patrones de interacción regulados, que son co-
+nocidos, seguidos y comúnmente aceptados —aunque no necesariamente
+aprobados mediante normas— por los agentes sociales que esperan
+continuar interactuando bajo las reglas y normas formal o informalmente
+plasmadas en esos patrones. En ocasiones, aunque no necesariamente, las
+instituciones se convierten en organizaciones formales; se materializan
+en edificios, sellos, rituales y personas que desempeñan roles que las
+autorizan a “hablar por” la organización.
+    Mi interés se dirige a un subconjunto: las instituciones democráticas.
+Su definición es esquiva, de modo que delimitaré el concepto mediante
+aproximaciones. Para comenzar, las instituciones democráticas son
+instituciones políticas. Poseen una relación reconocible y directa con
+los principales aspectos de la política: la toma de decisiones que son
+obligatorias dentro de un territorio determinado, los canales de acceso
+a los roles de toma de decisiones, y la configuración de los intereses
+e identidades que reclaman dicho acceso. Los límites entre lo que es
+y lo que no es una institución política son difusos, y varían a lo largo
+del tiempo y entre los países.
+    Necesitamos una segunda aproximación. Algunas instituciones políticas
+son organizaciones formales que pertenecen a la red constitucional de
+una poliarquía; entre éstas se incluye al congreso, al poder judicial, y a
+los partidos políticos. Otras, como las elecciones justas, se plasman en
+términos organizacionales de manera intermitente, pero no son menos
+indispensables. La pregunta principal respecto de todas estas instituciones
+es cómo funcionan: ¿son realmente puntos de decisión importantes en
+el flujo de influencia, poder, y políticas? Si no lo son, ¿cuáles son las
+consecuencias para el proceso político en general?
+
+[[PDF p. 4]]
+10                                             Journal of Democracy en Español
+
+    Otros factores indispensables para el funcionamiento de la democracia
+en las sociedades contemporáneas —aquellos que atañen a la formación
+y representación de las identidades e intereses colectivos— pueden
+o no estar institucionalizados, o pueden ser operativos sólo para una
+fracción de los sectores potencialmente pertinentes. En las democra-
+cias representativas, esos patrones están muy institucionalizados y se
+plasman, en términos organizativos, por medio de arreglos pluralistas
+o neocorporativistas.
+    Entre las características de una configuración institucional funcional
+se encuentran las siguientes:
+    1) Las instituciones incorporan tanto como excluyen. Determinan qué
+agentes —sobre la base de qué recursos, exigencias, y procedimientos—
+se aceptan como participantes válidos en los procesos de toma de deci-
+siones e implementación. Estos criterios necesariamente son selectivos:
+se adecúan y favorecen a algunos agentes; es posible que conduzcan a
+otros a redefinirse de modo de cumplir con ellos; y por diversos motivos,
+podrían ser imposibles de cumplir, o inaceptables, para otros. El alcance
+de una institución corresponde al grado en que incorpora y excluye al
+conjunto de agentes potencialmente pertinentes.
+    2) Las instituciones determinan la probable distribución de resul-
+tados. Como Adam Przeworski ha señalado, las instituciones “proce-
+san” sólo determinados actores y recursos, y lo hacen de acuerdo con
+ciertas reglas. 4 Esto predetermina la gama de resultados posibles, y
+su probabilidad dentro de esta gama. Por ejemplo, las instituciones
+democráticas excluyen el uso de la amenaza o la fuerza y los resulta-
+dos que éstas generarían. Por otra parte, el conjunto de instituciones
+democráticas que se basan en la universalidad del voto, como Philippe
+Schmitter y Wolfgang Streek han afirmado, no son adecuadas para el
+procesamiento de la intensidad de las preferencias.5 Las instituciones
+de representación de intereses son más apropiadas para procesar la
+intensidad de las preferencias, aunque a expensas de la universalidad
+del voto y la ciudadanía y, con frecuencia, de la “democraticidad” en
+la toma de decisiones.
+    3) Las instituciones tienden a agregar el nivel de acción y orga-
+nización de los agentes que interactúan con ellas y a estabilizar esta
+agregación. Las reglas establecidas por las instituciones influyen sobre
+las decisiones estratégicas de los agentes de acuerdo con el nivel de
+agregación que sea más eficaz para ellas en términos de la probabilidad
+de resultados favorables. Las instituciones, o más bien las personas que
+ocupan roles en la toma de decisiones dentro de ellas, tienen capacidades
+de procesamiento de información y lapsos de atención limitados. En
+consecuencia, esas personas prefieren interactuar con relativamente pocos
+agentes y temas a la vez.6 Esta tendencia hacia la agregación constituye
+otro motivo del aspecto excluyente de toda institución.
+
+[[PDF p. 5]]
+Guillermo O’Donnell                                                     11
+
+    4) Las instituciones inducen modelos de representación. Por las
+mismas razones, las instituciones favorecen la transformación de las
+numerosas voces potenciales de sus electores en unas cuantas que
+puedan afirmar que hablan como sus representantes. Por una parte, la
+representación implica el derecho reconocido de hablar en nombre de
+otros relevantes y, por otra, la capacidad de producir el acuerdo de esos
+otros con lo que el representante decide. En la medida que esta capaci-
+dad es demostrada y se respetan las reglas del juego, las instituciones
+y sus diversos representantes desarrollan un interés en la coexistencia
+mutua como agentes en interacción.
+    5) Las instituciones estabilizan a los agentes/representantes y sus
+expectativas. Los líderes y representantes de las instituciones esperan
+comportamientos —dentro de una gama relativamente estrecha de posi-
+bilidades— de un conjunto de actores con los que esperan encontrarse
+nuevamente en la próxima ronda de interacciones. A algunos agentes
+podría no agradarles la estrechez de los comportamientos esperados,
+pero anticipan que las desviaciones de esas expectativas probablemente
+serían contraproducentes. Éste es el punto en que se puede afirmar que
+una institución, que probablemente se ha transformado en una organi-
+zación formal, es fuerte. La institución está en un equilibrio; a nadie le
+interesa cambiarla, salvo de manera incremental y fundamentalmente
+consensual.
+    6) Las instituciones extienden los horizontes de tiempo de los acto-
+res. La estabilización de los agentes y de las expectativas incluye una
+dimensión temporal; es decir, se espera que las interacciones institucio-
+nalizadas continúen en el futuro entre el mismo conjunto de agentes, o
+que dicho conjunto cambie en forma lenta y más bien predecible. Esto,
+junto con un alto nivel de agregación de la representación y de control
+de sus electores, es el fundamento de la “cooperación competitiva”, que
+caracteriza a las democracias institucionalizadas: el dilema del prisionero
+de una sola interacción se puede superar;7 la negociación —incluido el
+intercambio de favores— se facilita; numerosas disyuntivas se vuelven
+factibles de ser resueltas; y la atención secuencial a los problemas hace
+posible coordinar una agenda que de otro modo sería inmanejable. El
+establecimiento de estas prácticas fortalece aún más la disposición de
+todos los agentes relevantes a reconocerse entre ellos como interlocu-
+tores válidos, y aumenta el valor que le atribuyen a la institución que
+configura sus interrelaciones. Este círculo virtuoso se completa cuando
+la mayoría de las instituciones democráticas logran no sólo un alcance
+y una fortaleza razonables, sino también una gran cantidad de interre-
+laciones múltiples y estables. Esto hace que estas instituciones sean
+puntos de decisión importantes en el proceso político general y, de este
+modo, emerge una democracia consolidada e institucionalizada.
+    Una forma de resumir lo expuesto es que en el funcionamiento de
+las complejas sociedades contemporáneas, las instituciones políticas
+
+[[PDF p. 6]]
+12                                              Journal of Democracy en Español
+
+democráticas proporcionan un nivel decisivo de mediación y agregación
+entre, por un lado, factores estructurales y, por el otro, no sólo indivi-
+duos sino también las diversas agrupaciones bajo las cuales la sociedad
+organiza sus múltiples intereses e identidades. Este nivel intermedio, es
+decir institucional, tiene un efecto importante en los modelos de organi-
+zación de la sociedad al conferir representación a algunos participantes
+del proceso político y excluir a otros. Es innegable que la institucio-
+nalización conlleva grandes costos; no sólo la exclusión, sino también
+las pesadillas recurrentes y demasiado reales de la burocratización y el
+tedio. La alternativa, sin embargo, sumerge a la vida social y política
+en el infierno de un colosal dilema del prisionero.
+    Esta es, por supuesto, una descripción ideal típica, pero la considero
+útil para trazar, por la vía del contraste, las peculiaridades de una si-
+tuación de carencia de instituciones democráticas. Una democracia no
+institucionalizada se caracteriza por el alcance restringido, la debilidad
+y la baja intensidad de cualesquiera que sean las instituciones políticas
+existentes. El lugar de las instituciones que funcionan adecuadamente
+lo ocupan otras prácticas no formalizadas, pero fuertemente operativas,
+a saber: el clientelismo, el patrimonialismo y la corrupción.
+
+           Caracterizando la Democracia Delegativa
+    Las democracias delegativas se basan en la premisa de quien sea que
+gane una elección presidencial tendrá el derecho a gobernar como él (o
+ella) considere apropiado, restringido sólo por la dura realidad de las
+relaciones de poder existentes y por un período en funciones limitado
+constitucionalmente. El presidente es considerado como la encarnación
+del país, principal custodio e intérprete de sus intereses. Las políticas de
+su gobierno no necesitan guardar ninguna semejanza con las promesas de
+su campaña, ¿o acaso el presidente no ha sido autorizado para gobernar
+como él (o ella) estime conveniente? Debido a que a esta figura paternal
+le corresponde encargarse de toda la nación, su base política debe ser un
+movimiento; la supuestamente vibrante superación del faccionalismo y
+de los conflictos asociados a los partidos. Generalmente, en las DDs los
+candidatos presidenciales ganadores se sitúan a sí mismos tanto sobre los
+partidos políticos como sobre los intereses organizados. ¿Cómo podría
+ser de otro modo para alguien que afirma encarnar la totalidad de la
+nación? De acuerdo con esta visión, otras instituciones —por ejemplo,
+los tribunales de justicia y el poder legislativo— constituyen estorbos
+que acompañan a las ventajas a nivel nacional e internacional de ser un
+presidente democráticamente elegido. La rendición de cuentas a dichas
+instituciones aparece como un mero obstáculo a la plena autoridad que
+le ha sido delegada al presidente.
+    La democracia delegativa no es ajena a la tradición democrática. Es
+más democrática, pero menos liberal que la democracia representativa. La
+
+[[PDF p. 7]]
+Guillermo O’Donnell                                                    13
+
+DD es fuertemente mayoritaria. Consiste en constituir mediante elecciones
+limpias una mayoría que faculta a alguien para convertirse, durante un
+determinado número de años, en la encarnación y el intérprete de los
+altos intereses de la nación. A menudo, las DD utilizan recursos como
+la segunda vuelta electoral si en la primera vuelta no se produce una
+clara mayoría.8 Esta mayoría debe crearse para respaldar el mito de la
+delegación legítima. Además, la DD es muy individualista, pero de un
+modo más hobbesiano que lockeano: se espera que los votantes elijan,
+independientemente de sus identidades y afiliaciones, al individuo más
+apropiado para hacerse responsable del destino del país. En las DDs las
+elecciones constituyen un acontecimiento muy emocional y en donde hay
+mucho en juego: los candidatos compiten por la posibilidad de gobernar
+prácticamente sin ninguna restricción salvo las que imponen las propias
+relaciones de poder no institucionalizadas. Después de la elección, los
+votantes (quienes delegan) deben convertirse en una audiencia pasiva,
+pero que vitoree lo que el presidente haga.
+    El individualismo extremo al constituir el poder ejecutivo se com-
+bina adecuadamente con el organicismo del Leviatán. La nación y su
+expresión política “auténtica”, el líder y su “movimiento”, se presentan
+como organismos vivos.9 El líder debe sanar a la nación mediante la
+unión de sus fragmentos dispersos en un todo armonioso. Dado que
+existe confusión en la organización política, y que las voces existentes
+sólo reproducen su fragmentación, la delegación incluye el derecho —y
+el deber— de administrar las desagradables medicinas que restaurarán
+la salud de la nación. Según esta perspectiva, parece obvio que sólo
+quien está a la cabeza sabe realmente: el presidente y sus asesores
+más confiables son el alfa y el omega de la política. Además, algunos
+de los problemas del país sólo pueden solucionarse mediante criterios
+altamente técnicos. Los “técnicos”, especialmente en relación con la
+política económica, deben ser defendidos políticamente por el presidente
+en contra de la múltiple resistencia de la sociedad. Mientras tanto, es
+“obvio” que la resistencia, sea del congreso, los partidos políticos, los
+grupos de interés, o las multitudes en las calles, se debe ignorar. Este
+discurso organicista no se adecúa bien a los severos argumentos de los
+tecnócratas, y se consuma así el mito de la delegación: el presidente
+se aísla de la mayoría de las instituciones políticas e intereses organi-
+zados, y asume en forma exclusiva la responsabilidad por los éxitos y
+fracasos de “sus” políticas.
+    Esta curiosa mezcla de concepciones organicistas y tecnocráticas
+estaba presente en los regímenes burocrático-autoritarios recientes. A
+pesar de que el lenguaje —pero no las metáforas organicistas— era
+diferente, tales concepciones también existían en los regímenes comu-
+nistas. Pero hay grandes diferencias entre estos regímenes y las DDs.
+En las DDs, los partidos, el congreso, y la prensa usualmente son libres
+de expresar sus críticas. En ocasiones los tribunales, citando lo que el
+
+[[PDF p. 8]]
+14                                             Journal of Democracy en Español
+
+ejecutivo típicamente desecha como “razones legalistas, formalistas”,
+bloquea las políticas inconstitucionales. Las asociaciones de trabajado-
+res y capitalistas a menudo expresan sus quejas con fuerza. El partido
+o la coalición que eligió al presidente se desespera por su pérdida de
+popularidad, y deniega el apoyo parlamentario a las políticas que éste
+les ha “impuesto”. Lo anterior aumenta el aislamiento político del pre-
+sidente, sus dificultades para formar una coalición legislativa estable,
+y su propensión a pasar por alto, ignorar, o corromper al congreso y a
+otras instituciones.
+    A estas alturas es necesario detallar qué diferencia a la democracia
+representativa de su prima delegativa. La representación necesariamente
+conlleva un elemento de delegación. Mediante algún procedimiento, una
+colectividad autoriza a algunos individuos a hablar por ella, y finalmente
+a comprometerla con lo que el representante decida. Por lo tanto, la
+representación y la delegación no son polos opuestos. No siempre es
+sencillo realizar una distinción nítida entre el tipo de democracia que
+se organiza en torno a la “delegación representativa” y aquel tipo donde
+el elemento delegativo ensombrece al representativo.
+    La representación trae consigo la rendición de cuentas. De alguna
+manera los representantes son considerados responsables de sus acciones
+por aquellos sobre quienes afirman tener el derecho a representar. En
+las democracias institucionalizadas, la rendición de cuentas funciona
+no sólo de manera vertical, de modo que los funcionarios elegidos sean
+responsables frente al electorado, sino también en forma horizontal; a
+través de una red de poderes relativamente autónomos; es decir, otras
+instituciones, que pueden cuestionar, y finalmente castigar, las formas
+incorrectas de liberar de responsabilidades a un funcionario determinado.
+La representación y la rendición de cuentas llevan en sí la dimensión
+republicana de la democracia; la existencia y la observancia de una
+meticulosa distinción entre los intereses públicos y privados de quienes
+ocupan cargos públicos. La rendición de cuentas vertical, junto con la
+libertad para formar partidos y para intentar influir sobre la opinión
+pública, existe tanto en las democracias representativas como en las
+delegativas. Pero la rendición de cuentas horizontal, característica de
+la democracia representativa, es extremadamente débil, o no existe, en
+las democracias delegativas. Además, debido a que las instituciones
+que hacen efectiva la rendición de cuentas horizontal son vistas por
+los presidentes delegativos como trabas innecesarias a su “misión”,
+estos llevan a cabo enérgicos esfuerzos por obstaculizar el desarrollo
+de dicha instituciones.
+    Nótese que lo importante no sólo son los valores y creencias de los
+funcionarios, sean o no elegidos, sino también el hecho de que están
+incorporados en una red de relaciones de poder institucionalizadas.
+Dado que esas relaciones se pueden movilizar para imponer un castigo,
+los actores racionales evaluarán los costos probables cuando consideren
+
+[[PDF p. 9]]
+Guillermo O’Donnell                                                     15
+
+emprender un comportamiento impropio. Por supuesto, el funcionamiento
+de este sistema de responsabilidad mutua deja mucho que desear en
+todas partes. Aun así, parece evidente que la fuerza, a la manera de una
+norma, de ciertos códigos de conducta determina el comportamiento
+de los agentes pertinentes en las democracias representativas mucho
+más que en las democracias delegativas. Las instituciones sí importan,
+especialmente cuando la comparación se realiza no entre diferentes
+grupos de instituciones sólidas sino entre estas últimas y las que son
+extremadamente débiles o inexistentes.
+    Debido a que las políticas son ejecutadas por una serie de poderes
+relativamente autónomos, la toma de decisiones en las democracias
+representativas tiende a ser lenta e incremental y en ocasiones proclive
+al estancamiento. Sin embargo, por la misma razón, dichas políticas
+generalmente son inmunes frente a errores flagrantes, y cuentan con
+una probabilidad razonablemente alta de ser implementadas; más aún,
+la responsabilidad por los errores suele compartirse ampliamente. Como
+se señaló, la DD implica una institucionalización débil y, en el mejor
+de los casos, es indiferente respecto de fortalecerla. La DD otorga al
+presidente la ventaja aparente de no tener prácticamente rendición de
+cuentas horizontal, y posee la supuesta ventaja adicional de permitir una
+elaboración de políticas rápida, pero a costa de una mayor probabilidad
+de errores de gran envergadura, de una implementación arriesgada, y
+de concentrar en el presidente la responsabilidad por los resultados.
+No es de extrañar que los presidentes de las DDs suelan experimentar
+turbulentos vaivenes de popularidad; un día son aclamados como sal-
+vadores providenciales, y al siguiente son maldecidos como sólo los
+dioses caídos pueden serlo.
+    Ya sea debido a la cultura, la tradición, o el aprendizaje estructurado
+a través de la historia, las tendencias plebiscitarias de la democracia
+delegativa eran perceptibles en la mayoría de los países latinoamericanos
+—y en muchos países poscomunistas, asiáticos, y africanos— mucho
+antes de la presente crisis social y económica. Este tipo de gobierno
+ha sido analizado como un capítulo del estudio del autoritarismo, bajo
+nombres como cesarismo, bonapartismo, caudillismo, populismo, y otros
+similares. Pero también debiera considerarse como un tipo peculiar de
+democracia que se traslapa y difiere de tales formas autoritarias de un
+modo interesante. No obstante, aun cuando la DD pertenece al género
+democrático, difícilmente podría ser menos compatible con la construc-
+ción y el fortalecimiento de las instituciones políticas democráticas.
+
+                      Comparaciones con el Pasado
+   La gran ola de democratización anterior a la que ahora estamos
+presenciando ocurrió después de la Segunda Guerra Mundial, como
+una imposición de las potencias aliadas sobre los derrotados Alemania,
+
+[[PDF p. 10]]
+16                                           Journal of Democracy en Español
+
+Italia, Japón, y hasta cierto punto Austria. Las condiciones emergentes
+eran notablemente diferentes de las que hoy enfrentan América Latina y
+los países poscomunistas: 1) Tras la destrucción causada por la guerra,
+las expectativas económicas de la gente eran probablemente muy mo-
+deradas. 2) Hubo enormes inyecciones de capital principalmente, pero
+no en forma exclusiva, mediante el Plan Marshall (se produjo también
+la condonación de la deuda externa a Alemania). 3) En consecuencia,
+y ayudadas por una economía mundial en expansión, las ex potencias
+del Eje muy pronto alcanzaron una acelerada tasa de crecimiento
+económico. Estos no eran los únicos factores en juego, pero ayudaron
+considerablemente a la consolidación de la democracia en esos países.
+Además, estos mismos factores contribuyeron a la estabilidad política
+y de las coaliciones en torno a las políticas públicas: En efecto, tomó
+alrededor de 20 años para que ocurriera un cambio del partido gober-
+nante en Alemania y, por su parte, los partidos dominantes de Italia y
+Japón se mantuvieron en el poder durante casi medio siglo.
+    En contraste, en las transiciones de las décadas de los 70 y 80,
+como reflejo del contexto mucho menos favorable en que ocurrieron,
+la victoria en la primera elección luego del fin del régimen autoritario
+garantizaba que el partido ganador sería derrotado, o prácticamente
+desaparecería, en la próxima elección. Esto sucedió en España, Portugal,
+Grecia, Argentina, Bolivia, Brasil, Ecuador, Perú, Uruguay, Corea, y
+Filipinas. Pero este patrón aparece junto con importantes diferencias en
+el desempeño social y económico de los nuevos gobiernos. La mayoría
+de estos países heredaron serias dificultades socioeconómicas de los
+regímenes autoritarios precedentes, y fueron gravemente afectados por
+los problemas económicos mundiales de los años 70 y principios de los
+80. En todos ellos, en algún momento los problemas socioeconómicos
+alcanzaron proporciones de crisis y se consideró que requerían una
+acción decisiva por parte del gobierno. Sin embargo, por más graves
+que fueran los problemas económicos de la década de los 70 en el sur
+de Europa, parecen leves si se comparan con los que afectaron a los
+países poscomunistas y latinoamericanos recién democratizados (con
+Chile como una excepción parcial). Una inflación muy elevada, el
+estancamiento económico, la grave crisis financiera del Estado, una
+enorme deuda pública externa e interna, el aumento de la desigualdad,
+y un profundo deterioro de las políticas y prestaciones sociales son
+todos aspectos de esta crisis.
+    Sin embargo, una vez más surgen grandes diferencias entre los
+países latinoamericanos. Durante el primer gobierno democrático bajo
+el presidente Sanguinetti, la economía uruguaya tuvo un desempeño
+relativamente bueno: la tasa de inflación anual disminuyó de tres a
+dos dígitos, mientras el PNB, la inversión, y los salarios reales regis-
+traron aumentos graduales. El Gobierno adoptó políticas económicas
+incrementales, que en su mayoría se negociaron con el Congreso y
+
+[[PDF p. 11]]
+Guillermo O’Donnell                                                     17
+
+diversos intereses organizados. Chile, bajo el presidente Aylwin, siguió
+la misma trayectoria. En contraste, Argentina, Brasil y Perú optaron
+por drásticos y sorprendentes “paquetes” de estabilización económica:
+el Plan Austral en Argentina, el Plan Cruzado en Brasil, y el Plan Inti
+en Perú. Bolivia también adoptó este tipo de paquete de estabilización
+en los años 80. Aunque este programa, más afín a las prescripciones
+de las organizaciones financieras internacionales que los mencionados
+previamente, ha sido elogiado por su éxito respecto del control de la
+inflación, el crecimiento del PNB y de la inversión sigue siendo muy
+deficiente. Además, la brutalidad con que se reprimieron las protestas
+de los trabajadores en contra del programa difícilmente podría consi-
+derarse democrática.
+    Estos “paquetes” han sido desastrosos. No resolvieron ninguno de
+los problemas heredados y, en cambio, es difícil encontrar sólo uno que
+no hayan empeorado. Aún persiste el desacuerdo respecto de si estos
+programas eran intrínsicamente imperfectos, tenían defectos corregibles,
+o eran acertados aunque terminaron estropeados por factores políticos
+“exógenos”. Como sea, es evidente que la experiencia de estos fraca-
+sos reforzó la decisión de los líderes democráticos chilenos de evitar
+este ruinoso camino. Esto transforma a Uruguay —un país que heredó
+del régimen autoritario una situación tan mala como la de Argentina o
+Brasil— en un caso muy interesante. ¿Por qué el gobierno uruguayo no
+adoptó su propio paquete de estabilización, especialmente durante la
+euforia posterior a las primeras fases de los planes Austral y Cruzado?
+¿Fue acaso debido a que el presidente Sanguinetti y sus colaboradores
+fueron más sensatos o estaban mejor informados que su contraparte
+argentina, brasileña, y peruana? Probablemente no. La diferencia es que
+Uruguay constituye un caso de redemocratización, donde el Congreso
+comenzó a funcionar de manera eficaz tan pronto como se restauró la
+democracia. Frente a un poder legislativo fuertemente institucionalizado
+y a una serie de restricciones constitucionales y prácticas adquiridas a lo
+largo de la historia, ningún presidente uruguayo habría logrado ordenar
+un paquete de estabilización drástico. En Uruguay, la promulgación de
+muchas de las políticas generalmente contenidas en esos paquetes re-
+quiere pasar por el Congreso; lo que significa tener que negociar no sólo
+con los partidos y los legisladores, sino también con diversos intereses
+organizados. Por lo tanto, en contra de las supuestas preferencias de
+algunos de sus altos funcionarios, las políticas económicas del gobierno
+uruguayo estaban “condenadas” a ser incrementales y a verse limitadas
+a objetivos más bien modestos; como alcanzar el desempeño aceptable
+que hemos conocido. Al dirigir la atención a Uruguay, y más reciente-
+mente a Chile, se aprende sobre la diferencia entre contar o no con una
+red de poderes institucionalizados que le dé consistencia al proceso de
+elaboración de políticas o, en otras palabras, sobre la diferencia entre
+la democracia representativa y la democracia delegativa.
+
+[[PDF p. 12]]
+18                                              Journal of Democracy en Español
+
+                         El Ciclo de la Crisis
+    A continuación me centraré en algunos casos de democracia delegativa
+de Sudamérica: Argentina, Brasil y Perú. No es necesario detallar la
+profundidad de la crisis que estos países heredaron de sus respectivos
+regímenes autoritarios. Una crisis como esa genera una intensa sensación
+de urgencia y proporciona un terreno fértil para liberar las tendencias
+delegativas que podrían estar presentes en un país determinado. Los
+problemas y las demandas se van acumulando delante de gobiernos
+inexpertos que deben operar a través de una burocracia deficiente y
+desarticulada, cuando no desleal. Los presidentes llegan a ser elegi-
+dos mediante la promesa de que por ser fuertes y valerosos, por estar
+sobre los partidos e intereses, y por ser “machos”, salvarán al país. El
+suyo es un gobierno de “salvadores de la patria”. Esto conduce a un
+estilo “mágico” de formulación de políticas: el “mandato” delegativo
+supuestamente conferido por la mayoría, la firme voluntad política, y
+el conocimiento técnico debieran ser suficientes para cumplir con la
+misión salvadora; los “paquetes” se desprenden como un corolario.
+    Mientras más extensa y profunda la crisis, y menor la confianza en
+que el gobierno será capaz de resolverla, más racional se vuelve para
+todos actuar: 1) de una manera muy desagregada, especialmente en
+relación con los organismos estatales que podrían contribuir a aliviar
+las consecuencias de la crisis en un grupo o sector determinado (lo
+que debilita y corrompe aún más al aparato estatal); 2) con horizontes
+de tiempo extremadamente breves; y 3) bajo el supuesto de que todos
+los demás harán lo mismo. En resumen, se produce una riña general
+por el beneficio restringido y a corto plazo. Este dilema del prisionero
+es exactamente lo opuesto a las condiciones que promueven tanto las
+instituciones democráticas sólidas como las formas razonablemente
+eficaces de abordar los urgentes problemas nacionales.
+    Una vez que las esperanzas iniciales se han desvanecido y los primeros
+paquetes han fallado, la desconfianza respecto de la política, los políti-
+cos, y el gobierno se transforma en la atmósfera dominante. Si dichos
+gobiernos desean conservar algo de respaldo popular, deben controlar
+la inflación y además implementar políticas sociales que demuestren
+que, a pesar de que no pueden resolver con rapidez la mayoría de los
+problemas subyacentes, sí se preocupan del destino de los pobres y,
+lo que es más importante políticamente, de los segmentos de la clase
+media recientemente empobrecidos. Pero por mínima que sea, ésta es
+una tarea imponente. Estas dos metas son extremadamente difíciles de
+armonizar, al menos en el corto plazo, y para estos frágiles gobiernos
+poco más que el corto plazo es lo que importa.
+    A los gobiernos les agrada gozar de un respaldo popular sostenido, y
+los políticos desean ser reelegidos. Sólo si las difíciles situaciones recién
+descritas pudieran solucionarse dentro del breve lapso de un período
+
+[[PDF p. 13]]
+Guillermo O’Donnell                                                      19
+
+presidencial, el éxito electoral sería un triunfo en lugar de una maldición.
+¿Cómo se gana una elección y cómo, luego de ser elegido, se gobierna
+en una situación como ésta? Obviamente, diciendo una cosa durante la
+campaña y haciendo lo contrario una vez en el poder, lo cual es muy
+destructivo en términos de la construcción de la confianza pública que
+es, en definitiva, lo que contribuye a que una democracia se consolide.
+Por supuesto, las democracias institucionalizadas no son inmunes a este
+ardid, pero las consecuencias son más devastadoras cuando las instituciones
+son pocas y débiles, y cuando una profunda crisis socioeconómica afecta
+al país. Los presidentes han ganado elecciones en Argentina, Bolivia,
+Ecuador y Perú mediante promesas de políticas económicas expansionistas
+y muchos otros aspectos beneficiosos que las acompañarían, sólo para
+promulgar severos paquetes de estabilización inmediatamente después
+de asumir sus funciones, o al poco tiempo. Cualesquiera sean los mé-
+ritos de tales políticas para un determinado país en un momento dado,
+su adopción sorpresiva no contribuye a promover la confianza pública,
+particularmente si el efecto inmediato y más visible deprime aún más el
+estándar de vida, ya bajo, de gran parte de la población.
+    Por otra parte, la virtual exclusión de los partidos y del congreso
+de tales trascendentales decisiones tiene numerosas consecuencias
+nocivas. En primer lugar, cuando el ejecutivo finalmente, y de manera
+inevitable, necesite apoyo legislativo, sin duda se encontrará con un
+congreso resentido y que no se siente responsable de políticas en cuya
+elaboración no participó. Segundo, el congreso se debilita aún más por
+su propia actitud hostil e indiferente, combinada con la condena públi-
+ca del ejecutivo referida a su lentitud e “irresponsabilidad”. Tercero,
+estas riñas favorecen una marcada disminución del prestigio de todos
+los partidos y los políticos, como lo muestran con creces las encues-
+tas de opinión de muchos países latinoamericanos y poscomunistas.
+Finalmente, la debilidad institucional resultante hace cada vez más
+difícil alcanzar la otra solución mágica cuando los paquetes fracasan:
+el pacto socioeconómico.
+
+                De la Omnipotencia a la Impotencia
+    Si consideramos que la lógica de la delegación también significa que
+el ejecutivo no hace nada para fortalecer al poder judicial, la carencia
+resultante de instituciones eficaces y autónomas deposita una inmensa
+responsabilidad en el presidente. Cabe recordar que quien típicamente
+ejerce este cargo en una DD ha ganado la elección prometiendo salvar
+al país sin un alto costo para nadie, no obstante muy pronto arriesga
+el destino de su gobierno en políticas que acarrean costos sustanciales
+para muchos sectores de la población. Esto tiene como consecuencia
+la elaboración de políticas en condiciones desesperadas. El cambio
+desde una amplia popularidad a una difamación general puede ser tan
+
+[[PDF p. 14]]
+20                                            Journal of Democracy en Español
+
+rápido como dramático. El resultado es una curiosa mezcla de omni-
+potencia e impotencia gubernamental. La omnipotencia comienza con
+la espectacular promulgación de los primeros paquetes de políticas y
+continúa con una avalancha de decisiones que tienen por objeto com-
+plementar dichos paquetes e, inevitablemente, corregir las numerosas
+consecuencias no deseadas. Esto acentúa la tendencia antiinstitucional
+de las DDs y ratifica las tradiciones de una acentuada personalización
+y concentración del poder en el ejecutivo. La otra cara de la moneda es
+la extrema deficiencia en transformar tales decisiones en regulaciones
+efectivas de largo plazo de la vida societal.
+    Como se señaló anteriormente, las democracias institucionalizadas
+son lentas en la toma de decisiones. Pero una vez tomadas, es más
+probable que se implementen. En contraste, en las DDs se observa que
+las decisiones se toman de modo frenético, lo que en América Latina
+se denomina “decretismo”. Dado que dichas órdenes del ejecutivo,
+apresuradas y unilaterales, suelen disgustar a intereses importantes y
+movilizados políticamente, es poco probable que se materialicen. En
+medio de una grave crisis y de una impaciencia popular en aumento, el
+resultado comúnmente son nuevas ráfagas de decisiones que, debido a
+la experiencia que muchos sectores ya tuvieron respecto de oponerse a
+las anteriores, tendrán aún menos posibilidades de ser implementadas.
+Además, por la forma en que se toman tales decisiones, la mayoría
+de los agentes políticos, sociales, y económicos pueden desconocer la
+responsabilidad. El poder fue delegado al presidente, y él hizo lo que
+consideró más adecuado. En la medida en que los fracasos se acumulan,
+el país debe tolerar a un presidente ampliamente vilipendiado, cuya única
+meta es resistir hasta el fin de su período. El período consiguiente de
+pasividad y desorganización de las políticas públicas no contribuye a
+mejorar la situación del país.
+    Dado este escenario, en el pasado la consecuencia “natural” en
+América Latina habría sido un golpe de Estado exitoso. Claramente,
+las DDs, debido a su debilidad institucional y a los patrones erráticos
+de elaboración de políticas, son más propensas a la interrupción y al
+colapso que las democracias representativas. En este momento, sin em-
+bargo, por razones ligadas en su mayoría al contexto internacional, que
+no es del caso analizar, las DDs exhiben una capacidad de resistencia
+bastante notable. Con la excepción parcial de Perú, donde el colapso
+constitucional fue encabezado por su presidente delegativo, no han
+tenido lugar golpes de Estado exitosos.
+    La política económica adoptada por las DDs no siempre está conde-
+nada a ser ampliamente percibida como un fracaso, particularmente en
+medio de las secuelas de la hiperinflación o de largos períodos de una
+inflación extremadamente alta.10 Esto sucede hoy en día en Argentina
+bajo el presidente Menem, aunque no está claro qué tan sostenible es la
+mejor situación económica. Pero dichos logros económicos, así como
+
+[[PDF p. 15]]
+Guillermo O’Donnell                                                   21
+
+los más pasajeros de Collor (Brasil), Alfonsín (Argentina), y García
+(Perú) en la cima del éxito aparente de sus paquetes económicos, pueden
+conducir a un presidente a brindar la prueba máxima de la existencia
+de una democracia delegativa. En la medida en que sus políticas sean
+reconocidas como exitosas por segmentos de la población que tienen
+peso electoral, los presidentes delegativos consideran simplemente
+odioso que sus períodos deban limitarse constitucionalmente; ¿cómo
+podrían estas “limitaciones formales” impedir la continuación de su
+providencial misión? Por ende, fomentan —por medios que debilitan
+aún más cualquier clase de rendición de cuentas horizontal que aún
+exista— reformas constitucionales que permitan su reelección o, en su
+defecto, su permanencia en la cima del gobierno como primeros ministros
+de un régimen parlamentario. Por extraño que parezca, los presidentes
+delegativos exitosos, al menos mientras ellos creen que lo son, pueden
+convertirse en defensores de alguna forma de parlamentarismo. En
+contraste, este tipo de maniobra era imposible en los casos del relati-
+vamente exitoso presidente Sanguinetti de Uruguay, y el muy exitoso
+presidente Aylwin de Chile, por más que hubieran deseado continuar
+en el poder. Una vez más, encontramos una diferencia crucial entre la
+democracia representativa y la democracia delegativa.11
+    Como se mencionó, entre los países recientemente democratizados
+de América Latina sólo Uruguay y Chile, tan pronto como se rede-
+mocratizaron, restablecieron las instituciones políticas anteriores, de
+las que los otros países latinoamericanos —así como gran parte de
+los poscomunistas— carecen. Éste es el problema: las instituciones
+eficaces y las prácticas favorables a ellas no se pueden construir en un
+día. Como lo demuestran las democracias consolidadas, el surgimiento,
+fortalecimiento, y legitimación de estas prácticas e instituciones toma
+tiempo, durante el cual ocurre un complejo proceso de aprendizaje
+positivo. Por otra parte, el abordar de manera eficaz la tremenda crisis
+económica y social que enfrentaron la mayoría de los países reciente-
+mente democratizados requeriría que tales instituciones ya estuvieran
+funcionando; no obstante, la propia crisis obstaculiza seriamente la
+ardua tarea de la institucionalización.
+    Este es el drama de los países que carecen de una tradición demo-
+crática: como todas las democracias emergentes, pasadas y presentes,
+deben manejar los múltiples legados negativos de su pasado autoritario,
+además de luchar con el tipo de problemas sociales y económicos ex-
+traordinariamente graves que pocas o ninguna de las democracias más
+antiguas enfrentaron en sus comienzos.
+    A pesar de que el presente ensayo se circunscribe principalmente
+a un ejercicio tipológico, considero que identificar una nueva especie
+tiene cierto valor, especialmente dado que en relación con algunos
+aspectos decisivos no se comporta como otros tipos de democracia. En
+
+[[PDF p. 16]]
+22                                                           Journal of Democracy en Español
+
+otros textos he desarrollado con más detalle la conexión entre las DDs
+y la crisis socioeconómica, y algunos aspectos teóricos relacionados,12
+y mi intención es presentar visiones más integrales en el futuro. Sólo
+puedo agregar que al considerar los ciclos que he descrito, un optimista
+estimaría que poseen algún grado de previsibilidad, de modo que sumi-
+nistran una cierta base sobre la cual se podría construir una perspectiva
+de más largo plazo. Sin embargo, dicha visión da origen a la pregunta
+de por cuánto tiempo la mayor parte de la población estará dispuesta
+a jugar este tipo de juego. De acuerdo con otro escenario optimista,
+un segmento decisivo de los dirigentes políticos admitiría la calidad
+autodestructiva de esos ciclos, y accedería a cambiar los términos bajo
+los cuales compiten y gobiernan. Ésta me parece prácticamente la única
+salida del problema, pero los obstáculos para un desenlace tan tortuoso,
+aunque finalmente feliz, son muchos.
+
+
+                                          NOTAS
+
+El presente ensayo corresponde a una versión corregida y abreviada de un texto del mismo
+nombre publicado en portugués por Novos Estudos CEBRAP 31 (octubre de 1991): 25-40, y
+como Kellogg Institute Working Paper No. 172 (March 1992). Algunas de las ideas de este
+ensayo tuvieron su origen en conversaciones que sostuve en la década de 1980 con Luis Pásara
+en relación con los patrones de gobierno emergentes en diversos países latinoamericanos. En
+la preparación de la presente versión tuve el privilegio de recibir sugerencias y comentarios
+detallados de David Collier.
+
+    1.  Terry Lynn Karl and Philippe C. Schmitter, “Modes of Transition and Types of Democracy
+in Latin America. Southern and Eastern Europe”, International Social Science Journal 128
+(May 1991): 269-84.
+
+     2.  Véase: Robert A. Dahl, Polyarchy: Participation and Opposition (New Haven: Yale
+University Press, 1971); e ídem., Democracy and Its Critics (New Haven: Yale University Press,
+1989). Extraigo más distinciones respecto de diversas características de las poliarquías en un
+artículo reciente titulado “On the State, Democratization and Some Conceptual Problems (A
+Latin American View with Glances at Some Post-Communist Countries)”, World Development
+21 (1993): 1355-69; publicado también como Kellogg Institute Working Paper No. 192 (April
+1993).
+
+    3.  Para adentrarse en un análisis más detallado, véase mi ensayo “Transitions, Continuities
+and Paradoxes”, en Scott Mainwaring, Guillermo O’Donnell, and J. Samuel Valenzuela, eds.,
+Issues in Democratic Consolidation: The New South American Democracies in Comparative
+Perspective (Notre Dame, Indiana: University of Notre Dame Press, 1992), 17-56.
+
+    4.  Adam Przeworski, “Democracy as a Contingent Outcome of Conflicts”, en Jon Elster
+and Rume Slagstad, eds., Constitutionalism and Democracy (Cambridge: Cambridge University
+Press, 1988), 59-80.
+
+     5.  Wolfgang Streeck and Philippe C. Schmitter, “Community, Market, State-and Associations?
+The Prospective Contribution of Interest Governance to Social Order”, en Wolfgang Streeck and
+Philippe C. Schmitter, eds., Private Interest Government: Beyond Market and State (London:
+Sage Publications, 1985), 1-29.
+
+    6.  Véase: James March and Johan Olsen, Rediscovering Institutions: The Organizational
+Basis of Politics (New York: The Free Press, 1989).
+
+[[PDF p. 17]]
+Guillermo O’Donnell                                                                            23
+
+     7.  El dilema del prisionero se produce cuando, a pesar de que todos los agentes involucrados
+podrían estar mejor mediante la cooperación mutua, resulta racional para cada uno de ellos,
+independientemente de lo que los otros decidan, no cooperar. En este sentido, las instituciones
+pueden considerarse como invenciones sociales cuya utilidad es hacer que la cooperación sea
+la preferencia racional.
+
+    8.  Arturo Valenzuela, “Latin America: Presidentialism in Crisis”, Journal of Democracy
+4 (October 1993): 17, señala que todos los países (excepto Paraguay) que prepararon nuevas
+constituciones en los años 80 y principios de los 90 (Guatemala, El Salvador, Colombia,
+Ecuador, Perú, Chile y Brasil) instituyeron el sistema francés del balotaje, o segunda vuelta,
+para las carreras presidenciales. De estos países, Guatemala y El Salvador no cumplían con los
+requisitos de una poliarquía, la constitución de Chile fue un producto del régimen de Pinochet,
+y Ecuador, Perú, y Brasil se encuentran entre los casos más puros de DD.
+
+   9.   Giorgio Alberti ha insistido en la importancia del movimientismo como un rasgo
+dominante de la política en muchos países latinoamericanos. Véase “Democracy by Default,
+Economic Crisis, and Social Anomie in Latin America” (documento presentado en el XV
+Congreso mundial de Ciencia Política, Buenos Aires, 1991).
+
+    10.  Analizo estos temas en mi ensayo “On the State, Democratization, and Some Conceptual
+Problems”, citado en la nota 2 anterior.
+
+     11.  No ignoro los importantes debates actualmente en desarrollo acerca de diversas formas
+de presidencialismo y parlamentarismo, de las cuales son recientes e interesantes expresiones
+Scott Mainwaring and Matthew Shugart, “Juan Linz, Presidentialism, and Democracy: A
+Critical Appraisal”, Kellogg Institute Working Paper No. 200 (July 1993); Alfred Stepan and
+Cindy Skach, “Constitutional Frameworks and Democratic Consolidation: Parliamentarism
+versus Presidentialism”, World Politics 46 (October 1993): 1-22; y Arturo Valenzuela, “Latin
+America: Presidentialism in Crisis”, citado en la nota 8 anterior. En el presente texto analizo
+patrones que son independientes de esos factores institucionales, aunque pueden ser convergen-
+tes en sus consecuencias. Claramente, el presidencialismo tiene más afinidad con la DD que
+el parlamentarismo. Sin embargo, si las tendencias delegativas son fuertes en un determinado
+país, el funcionamiento de un sistema parlamentario podría ser, de manera relativamente fácil,
+subvertido o conducido a atolladeros aún peores que los aquí analizados.
+
+   12.  Debo referirme nuevamente a mi ensayo “On the State, Democratization, and Some
+Conceptual Problems”, citado en la nota 2 anterior.

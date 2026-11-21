@@ -1,0 +1,825 @@
+# fuente: 1_Gargarella_2009_Constitucionalismo versus Democracia.pdf
+# modo: ocr
+# revisado: si
+# paginas_revisadas: PDF 1 der. (p. 23); PDF 2-6 (pp. 24-33); PDF 8 (pp. 36-37); PDF 9 izq., primer párrafo (p. 38). El resto sigue sin revisar.
+# paginas: 10
+
+[[PDF p. 1]]
+22 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+Debe reiterarse: el igualitarismo no pretende —como podría pretenderlé
+el populismo— que no existan organismos de control frente a los órgano;
+o expresiones mayoritarias; lo que pretende es un sistema institucional que
+aliente y contribuya a mejorar (en lugar de desalentar o, directamente
+reemplazar) la voluntad mayoritaria. Del mismo modo, el igualitarismc
+no pretende —como podría pretenderlo el perfeccionismo— que no existar
+derechos, o que los mismos no constituyan “cartas de triunfo” frente +
+los avances mayoritarios; lo que pretende es una concepción de los dere:
+chos compatible con (y no seriamente enfrentada a) el ideal de la autode:
+terminación colectiva. Al descuidar estos aspectos, concluiría, el consti:
+tucionalismo individualista desvirtúa sus originales promesas igualitarias,
+
+Llegados a este punto, de todos modos, no es mucho lo que hemos
+podido avanzar. Aún es necesario demostrar de un modo más contunden:
+te los referidos “límites” del individualismo, en tanto postura igualitaria,
+Por otra parte, es posible que el individualismo cuente (aunque no estoy
+seguro de ello) con formas más efectivas para justificar la concepción de
+derechos, o el peculiar sistema institucional que propone. Finalmente, es
+necesario mostrar que la postura “consistentemente igualitaria” con la que
+he estado contrastando al individualismo, en esta última parte del trabajo
+resulta, finalmente, una alternativa atractiva. Al menos estas tareas debe
+quedar pendientes hasta un próximo y más detallado análisis.
+
+podían ser criticables, en sí mismas, pero en su conjunto nos hablaban de un modelo d
+
+organización constitucional orientado a partir de principios diferentes de los que aún hoy
+sostiene el constitucionalismo individualista. Se pretendía, en dicho caso, establecer la
+
+zos muy fuertes entre representantes y representados -dando, así, más contenido al idea
+
+de la soberanía del pueblo—. Frente a aquella alternativa —distinguida por una pluralidad del
+herramientas dirigidas a estrechar la relación entre electores y elegidos-, el sistema de 1n5-
+tituciones favorecido por el individualismo liberal preservó casi exclusivamente (al me
+
+nos, en una mayoría de casos) el principio de las elecciones periódicas (aunque muy
+espaciadas en el tiempo) como único vínculo realmente significativo entre los ciudada-
+nos y sus representantes (de allí --agregaría— que no resulte sorprendente que en la ac-
+tualidad se hable de modo tan recurrente de la “crisis del sistema representativo”, de 12
+“distancia” que siente la ciudadanía frente a sus representantes).
+
+[[PDF p. 1]]
+CAPÍTULO III
+
+CONSTITUCIONALISMO VERSUS DEMOCRACIA
+
+Por ROBERTO GARGARELLA
+
+I. INTRODUCCIÓN
+
+Detrás de muchas de las discusiones que hoy se escuchan en países
+como el nuestro, se esconde una disputa a la cual apenas prestamos aten-
+ción, y es la que enfrenta a las ideas de Constitución y democracia. En
+realidad, puede parecer extraño que exista un conflicto entre ambas ideas
+cuando es tan usual que hablemos de “democracias constitucionales”,
+o cuando es tan común que uno se proclame, al mismo tiempo, y por ejem-
+plo, demócrata y defensor de los derechos humanos. Pero lo cierto es que
+tales ideas se llevan mal, y que dicho desacuerdo repercute finalmente en
+nuestras discusiones públicas.
+
+El conflicto entre ambas ideas surge, ante todo, del hecho de que ellas
+apelan a principios opuestos. Nuestros compromisos democráticos apelan
+a un principio que a primera vista no reconoce límites, y según el cual no
+hay ninguna autoridad superior a la nuestra, actuando colectivamente.
+Mientras tanto, y por otro lado, ideas tales como las de Constitución o
+derechos humanos nos llevan a pensar, justamente, en límites infranquea-
+bles, capaces de resistir la presión de cualquier grupo y aun, y especial-
+mente, las presiones de un grupo mayoritario.
+
+En nuestras discusiones cotidianas, la tensión referida emerge de un
+modo especialmente gravoso. Ocurre que, por un lado, queremos y ne-
+cesitamos aferrarnos al derecho: queremos estar sujetos a reglas imper-
+sonales, antes que a la voluntad discrecional de algún personaje todo-
+poderoso. Sin embargo, y por otro lado, vemos que explotan nuestros
+ímpetus democráticos que, muchas veces, encontramos encorsetados, pri-
+sioneros, dentro del derecho. La mala noticia es que dicha tensión no es
+
+[[PDF p. 2]]
+24 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+ficticia ni tiene una obvia resolución, pero lo interesante es que recono-
+ciendo este problema quedamos forzados a plantearnos cuestiones de
+enorme importancia.
+
+Los orígenes de dicha tensión pueden encontrarse, por caso, en al-
+gunos célebres escritos anticonservadores de Thomas Paine, proclaman-
+do el “derecho de los que están vivos” por encima de “la autoridad de los
+muertos”, en su idea de que “cada generación tiene los mismos derechos
+que las generaciones que la precedieron, del mismo modo en que cada
+individuo tiene los mismos derechos que cualquiera de sus contemporá-
+neos”. A través de esta afirmación, Paine se oponía a la idea conserva-
+dora –típicamente, defendida por Edmund Burke– que venía a rebelarse
+frente al valor del autogobierno, y en particular, frente al ideario revolu-
+cionario que los franceses habían puesto de moda. Para Burke, las tradi-
+ciones de la comunidad guardaban mayor valor que las ambiciones de
+cualquier generación particular. Paine, mientras tanto, y como muchos
+de sus contemporáneos, pensaba lo contrario.
+
+Un viejo conocido de Paine, Thomas Jefferson, supo retomar aque-
+llos reclamos para incorporarlos a la historia norteamericana. Como Paine,
+Jefferson también sostuvo que nada era más importante que el autogobier-
+no colectivo. De allí, por ejemplo, que en sus “Notas para el Estado de
+Virginia” se manifestara en contra de la idea de dictar una Constitución
+permanente. La misma debía ser, en todo caso, “flexible”: cada genera-
+ción debía tener el derecho de rehacer el texto fundacional propio (de
+hecho, y calculando que las generaciones se recambiaban, más o menos,
+cada veinte años, Jefferson propuso la adopción de reformas constitucio-
+nales, al menos, con esa periodicidad). De este modo, pioneramente, tan-
+to Paine como Jefferson mostraban la hostilidad que despertaban en los
+demócratas las ambiciones de los constitucionalistas.
+
+II. ¿PUEDE RESOLVERSE EL CONFLICTO
+ENTRE EL CONSTITUCIONALISMO Y LA DEMOCRACIA?
+
+¿Es cierto, tal como lo sugiriéramos en las líneas anteriores, que no
+es posible resolver este dilema entre el constitucionalismo y la democra-
+cia? ¿Por qué es que no podemos afirmar, como lo hace una mayoría de
+juristas, la superioridad de la Constitución? ¿Por qué no podemos decir,
+
+[[PDF p. 2]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 25
+
+simplemente, que la Constitución está “por encima de todo” y que, por
+tanto, ella se impone no sólo sobre la comunidad que la diseñó, sino tam-
+bién sobre las generaciones que la sucedieron? Los problemas en juego
+aparecen, según entiendo, por la “terquedad” del ideal del autogobierno.
+En efecto, a la hora de justificar cualquier solución que termine afirman-
+do la primacía de la Constitución, el argumento del autogobierno reapa-
+rece firme, imbatible: ¿qué puede haber por encima de tal derecho?
+
+La fortaleza de este ideal es tal que aquellos interesados en defender
+la primacía de la Constitución han comenzado a dejar de lado su inclina-
+ción inicial –orientada a desplazar sin más el ideal democrático– para optar
+en cambio por una estrategia sustantivamente diferente, destinada a inte-
+grar al mismo o, al menos, a mostrar la compatibilidad de su propuesta
+con la afirmación del principio del autogobierno.
+
+El primer argumento con el que nos encontramos, el más simple de
+todos, es el que nos dice que la comunidad debe sentirse sujeta a –limitada
+por– la Constitución porque esta última es el resultado de un acuerdo de-
+mocrático. Aun asumiendo que siempre lo es –lo que no siempre es cla-
+ro–, el argumento no nos lleva demasiado lejos. Ello, en particular, cuan-
+do estamos hablando, como en este caso, del valor de una Constitución
+–un documento que, como tal, tiene la pretensión de perdurar con el co-
+rrer de los años y con el paso de las generaciones. ¿Por qué es entonces
+que la comunidad que sucede a la nuestra debe sentirse limitada a partir
+de un acuerdo del que no ha tomado parte? Esta crítica es poderosa, y
+muestra el grado de conflicto que existe entre el valor del principio de-
+mocrático y el valor de la Constitución. Sin embargo, los defensores del
+constitucionalismo tienen todavía varias réplicas a mano, que vamos a
+estudiar a continuación.
+
+Ante todo, y por ejemplo, alguien podría sostener que las ambicio-
+nes del constitucionalismo –sobre todo, la de permanecer a lo largo del
+tiempo, generación tras generación– se justifican a partir de las circuns-
+tancias “peculiarmente democráticas” que rodearon a su nacimiento, léa-
+se, por caso, la participación en su dictado de mayorías abrumadoras (o
+la existencia de un consenso extraordinario al momento de su escritura),
+un grado inalcanzado de reflexión en su diseño, el puro ánimo público de
+quienes la redactaron. Este tipo de argumentos son muy habituales den-
+tro del ámbito jurídico. Sin embargo, en una mayoría de casos, dicho re-
+lato enfrenta el serio inconveniente de basarse en dogmas o mitos que se
+disuelven apenas se los examina con un poco más de cuidado. Ocurre que
+la mayoría de los procesos constituyentes que conocemos tienen poco
+
+[[PDF p. 3]]
+26 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+parecido con aquellas descripciones heroicas que suelen hacerse acerca
+de los momentos fundacionales de cualquier nación. Aquellos tiempos
+fundacionales –típicamente, a fines del siglo XVIII o principios del XIX–
+tenían poco que ver con las referidas imágenes de consenso unánime y
+reflexiones desinteresadas. Más bien, ellos nos hablan de discriminacio-
+nes (hacia la mujer, hacia los pobres, hacia los esclavos), de presupues-
+tos abiertamente elitistas (conforme a los cuales la mayor parte de la ciu-
+dadanía era vista como parte de una masa irreflexiva, más que como
+individuos con iguales capacidades que los constituyentes) y de decisio-
+nes con un claro componente de autointerés (lo que explica el estatus
+especial conferido a la propiedad privada, en todos los casos, incluyendo
+en muchos –como el norteamericano– el resguardo a la propiedad de los
+esclavos).
+
+Admitido este hecho, esto es, el carácter originalmente poco demo-
+crático de una mayoría de Constituciones, los abogados del constitucio-
+nalismo podrían apelar a una estrategia complementaria. Ellos podrían
+decir, por ejemplo, que la Constitución merece un respeto especial ya no
+a partir de la situación especial en la que tuvo origen, sino a partir del
+respaldo que fue obteniendo con el transcurrir del tiempo. Esto es, según
+esta postura, la Constitución –¿una mayoría de las Constituciones que co-
+nocemos?– puede haber tenido un origen “dudoso” pero aun así haberse
+“purificado” con el paso del tiempo, ganando legitimidad democrática a
+través de los años. Esta idea, asociada a la noción lockeana de consenso
+tácito, también resulta muy popular entre los defensores del constitucio-
+nalismo. Ella nos viene a decir, entre otras cosas, que aquellos eventuales
+vicios de origen han sido limpiados a partir del extraordinario consenso
+que el texto constitucional pudo conseguir en su avance. Este consen-
+so aparecería reflejado en la implícita adhesión que uno acostumbra a
+detectar en la comunidad hacia la Constitución original y sus “padres fun-
+dadores” (léase Madison, Sieyes, Alberdi, etc.), tanto como en la perma-
+nencia o no reforma de los rasgos esenciales de aquel texto. Sin embar-
+go, como es bien sabido, los argumentos en favor del consenso tácito tienen
+poca fuerza. Y es que nunca podemos saber si lo que algunos llaman con-
+senso tácito no debiera ser llamado, en verdad, mera resignación, o tal
+vez una aceptación basada simplemente en el acostumbramiento, en la
+certeza acerca de lo difícil de cambiar radicalmente dicho texto, en la per-
+plejidad o ignorancia acerca de lo que es posible. Tampoco podemos sa-
+
+[[PDF p. 3]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 27
+
+ber si la falta de una reforma de la Constitución, en sus rasgos esencia-
+les, se debe al consenso generado por la misma o, más bien, a las propias
+dificultades impuestas por sus creadores para modificarla (i.e., en la exi-
+gencia habitual de una mayoría calificada en ambas Cámaras para obte-
+ner la autorización para la convocatoria a una Convención reformadora).
+
+Una alternativa estrechamente vinculada con la anterior, pero igual-
+mente fallida, sería la de sostener que la Constitución se encuentra ya
+enraizada en las tradiciones más profundas de nuestra comunidad. El ar-
+gumento, en este caso, retomaría el ideal democrático afirmando que los
+principios constitucionales ya se han “decantado” hasta el punto de for-
+mar parte, en la actualidad, de aquel “núcleo duro” que hace que nuestra
+comunidad sea lo que es, que configura su identidad. En un punto, el ar-
+gumento es más ambicioso que el anterior, ya que el mismo trasciende la
+idea del consenso –que, en última instancia, podría cambiar de un mo-
+mento a otro– para decir que nuestra comunidad no puede abandonar aquel
+cúmulo de ideas sin dejar de ser lo que es. Sin embargo, claramente, di-
+cho argumento es más vulnerable que el recién examinado. Y es que, por
+un lado, uno puede tomar algunas iniciativas destinadas a desentrañar la
+persistencia o no de aquel “consenso dormido”, pero ¿qué hacer en cam-
+bio frente a la apelación de las tradiciones? ¿Cómo demostrar lo que pa-
+rece definitivamente indemostrable? Lo que es peor, aun en el hipotético
+caso en que pudiéramos demostrar el profundo arraigo de las ideas que
+distinguen a nuestra vida constitucional: ¿qué razones tendríamos para
+defender la perdurabilidad de aquellos rasgos? Claramente, podría darse
+la situación de que nuestra comunidad, por ejemplo, insista en resolver
+sus conflictos de modo sangriento, y que dicha forma de acción represen-
+te ya una “marca de identidad” de nuestro ámbito. Pero, resulta claro, dicho
+hecho no nos proporciona ninguna razón para darle algún estatus espe-
+cial a aquella indeseable práctica. Necesitamos criterios, claramente in-
+dependientes del mero hecho de que una práctica habitual sea una prácti-
+ca habitual, para definir si merece apoyarse o, por el contrario, disolverse,
+combatirse, aquella repetida forma de acción.
+
+El propio James Madison –tal vez la cabeza más notable en el de-
+sarrollo moderno del constitucionalismo– se vio acorralado, en su mo-
+mento, frente a un dilema semejante. A él también le interesaba reafir-
+mar el valor de la Constitución frente a quienes insistían en la importancia
+del valor del autogobierno. Madison estaba interesado en mostrar que las
+voces más críticas del constitucionalismo –en especial, su amigo Thomas
+Jefferson– se equivocaban al insistir con la idea del autogobierno colectivo.
+En su opinión, los propios demócratas debían advertir que, en ocasiones,
+
+[[PDF p. 4]]
+28 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+el argumento democrático no podía ser defendido en su extrema radica-
+lidad y ello, finalmente, en honor de una última preocupación por el va-
+lor de la democracia. La disputa entre Madison y Jefferson apareció fren-
+te a la sugerencia del último, portavoz de los sectores más democráticos
+de la comunidad, de resolver los problemas constitucionales más básicos
+–en especial, las situaciones de conflicto entre los diversos poderes– ha-
+ciendo uso de la regla mayoritaria. Madison, particularmente preocupado
+por asegurar la estabilidad de un sistema político al que consideraba fun-
+damentalmente frágil, pareció indignarse frente a la sugerencia del autor
+de las “Notas para el Estado de Virginia”. Contra este último, y en lo que
+hoy se conoce como el escrito nro. 49 de los papeles de “El Federalista”,
+Madison presentó tres argumentos principales –algunos de los cuales son
+pertinentes para nuestra requisitoria–.
+
+En primer lugar, Madison sostuvo que si los principales conflictos
+entre poderes tuvieran que ser resueltos a partir de una convocatoria po-
+pular, los mismos iban a tener un final previsible. En su opinión, dado
+que la Cámara legislativa era la rama del gobierno “más popular”, resul-
+taba obvio que cualquier convocatoria al pueblo contaba ya con una res-
+puesta fija de antemano: el pueblo siempre tendería a inclinarse a favor
+de la rama que veía más cercana a sus intereses. Por lo tanto, sostenía
+Madison, la insistencia en el recurso al pueblo, para estos casos, era irra-
+zonable. En segundo lugar, Madison afirmaba que la obsesión con la con-
+vocatoria al pueblo debía dejarse de lado si la misma podía poner en ries-
+go –como él presumía– la propia estabilidad del gobierno democrático.
+En su opinión, las convocatorias frecuentes a la ciudadanía iban a soca-
+var la legitimidad del gobierno –de cualquier gobierno–. Finalmente, él
+alegaba que un reclamo como el formulado por Jefferson era irrazonable
+porque conlleva el riesgo de “encender las pasiones populares”. Nueva-
+mente, el argumento era que, en momentos de debilidad institucional como
+los que se vivían –y, podríamos agregar, como los que todavía se viven
+en una multiplicidad de naciones–, argumentos democráticos como los re-
+feridos se tornaban inaceptables, porque favorecían el surgimiento de
+nuevos conflictos, tensiones y divisiones dentro de la sociedad. Ello, cuan-
+do lo que más se precisaba era lo contrario, esto es, insistir con aquellas
+medidas capaces de amalgamar a la sociedad.
+
+Como resulta habitual, las sugerencias de Madison guardan mucho
+del mejor sentido común, y son –como lo fueron– capaces de ganar la
+adhesión de sectores importantes de la población. Pero la pregunta es si
+las razones que daba en aquel momento son lo suficientemente poderosas
+como para desplazar posibles argumentos en su contra. Y la respuesta no
+
+[[PDF p. 4]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 29
+
+parece nada clara. El atractivo de los argumentos de Madison resulta a
+partir de que se extreman los de su contrario. Pero ¿por qué pensar que
+una iniciativa como la de Jefferson, destinada a reafirmar la autoridad
+soberana del pueblo, implica un desgastante proceso de convocatorias
+populares? ¿Por qué esa desconfianza en las virtudes del debate público
+y, finalmente, en las capacidades reflexivas de la ciudadanía? ¿Por qué
+decantarse naturalmente por las decisiones del gobierno, en caso de ten-
+siones entre este último y la ciudadanía? En definitiva, la estabilidad no
+es valiosa a cualquier precio, y aun si fuera cierto que alguna convocato-
+ria ciudadana estimula los conflictos sociales, ¿por qué no pensar –como
+sostuviera Jefferson– que el estallido de determinados conflictos puede
+resultar valioso para la salud cívica de la comunidad, y preferible a un
+estado de tensión latente?
+
+Llegados hasta aquí, de todos modos, conviene explorar un último y
+prometedor argumento a favor de la prioridad del constitucionalismo. El
+argumento en cuestión es especialmente interesante porque se orienta di-
+rectamente a reafirmar lo que los críticos del constitucionalismo más va-
+loran, esto es, el principio democrático. Lo que este argumento señala,
+entonces, es que la misma preocupación por el valor de la democracia debe
+llevarnos directamente a reconocer la primacía del constitucionalismo. Ello,
+fundamentalmente, en la medida en que la Constitución establezca las
+condiciones que permitan que la democracia funcione como tal.
+
+El argumento es importante y vale la pena examinarlo con algún
+detalle. Lo que aquí se hace es poner cabeza abajo una mayoría de las
+críticas democráticas examinadas hasta ahora. En efecto, lo que nos ocu-
+rría hasta aquí es que, cada vez que invocábamos un argumento en favor
+del constitucionalismo, nos encontrábamos frente a alguna variante del
+argumento democrático que venía a decirnos: ¿pero cuál es la razón para
+quitarle libertad a la comunidad, para impedirle que sea ella misma la que
+decida cómo quiere organizar su vida futura? Si usted valora el autogo-
+bierno, se nos decía, no tiene alternativa a la de reconocer el carácter su-
+bordinado, dependiente, de la Constitución. Lo que se nos dice ahora, en
+cambio, parece realmente novedoso. Aquí se nos sugiere que, justamente
+porque nos interesa defender el valor del autogobierno, es que tenemos
+razones para defender la primacía de la Constitución. Más precisamente,
+se afirma aquí que el constitucionalismo no debe verse –como lo veíamos
+hasta aquí– como una forma de “atarle las manos” a la sociedad –una forma
+de quitarle libertad, de ahogar el autogobierno–. Más bien, y por el con-
+trario, se nos dice en este caso que el constitucionalismo debe ser visto
+como una forma de ganar o potenciar nuestra libertad como comunidad.
+
+[[PDF p. 5]]
+30 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+El argumento en cuestión reconoce una presentación elegante y muy
+sugerente a través de la metáfora de Ulises y las sirenas. En el relato
+tradicional, Ulises, como capitán de su navío, le exige a sus marineros
+que lo aten al mástil de la embarcación, porque temía perder el control
+de la misma una vez enfrentado al canto de las sirenas. Al dar aquella
+orden, Ulises sabía que iba a perder control sobre sus impulsos más in-
+mediatos –esperablemente, él se vería tentado a desviar su embarcación,
+e incapacitado así de llegar al destino que se había fijado inicialmente–,
+pero ello no lo llevó a desdecirse. Ulises tomó su decisión de modo cons-
+ciente, convencido de que de ese modo –atado al mástil, inmovilizado–
+podría conseguir el objetivo que se había propuesto en un principio. Por
+lo dicho, cualquier descripción de tal situación que pretendiera presentar
+dicho acto como una “pérdida de libertad” por parte de Ulises resultaría
+insensata. Ulises, podríamos decir, ganó libertad en lugar de perderla,
+cuando se ató al mástil: fue así, en definitiva, como consiguió llegar al
+destino prefijado. La moraleja parece clara: contra lo que nos sugiere
+consistentemente el sentido común –atarse las manos es sinónimo de per-
+der libertad–, lo que el ejemplo nos demuestra es lo contrario: en ocasio-
+nes, ganamos en libertad cuando nos limitamos. O, para decirlo de otro
+modo, hay limitaciones que liberan, ataduras que nos capacitan.
+
+El traslado de esta metáfora al campo constitucional parece obvio:
+del mismo modo en que Ulises pudo ganar libertad, en lugar de perderla,
+al incapacitarse para ciertas acciones, una sociedad también puede expan-
+dir sus capacidades autoimponiéndose determinados límites. Éste sería el
+rol de la Constitución –el poner límites “capacitadores” sobre las faculta-
+des de autogobierno de la sociedad–. Reconociendo los riesgos de caer
+en tentaciones inadmisibles (oprimir a grupos minoritarios, censurar a la
+oposición), una comunidad actuaría tan racionalmente como lo hiciera
+Ulises si decidiera fijar, de una vez, ciertos límites irrenunciables, capa-
+ces de potenciar la propia libertad futura.
+
+La propuesta es atractiva, al menos en un punto importante: ella nos
+ayuda a dejar de lado la visión habitual conforme a la cual toda limita-
+ción, aun autoimpuesta, debe ser vista como una afrenta al autogobierno.
+Se nos dice aquí, con razón, que cierto tipo de limitaciones pueden ser
+
+[[PDF p. 5]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 31
+
+compatibles con, y aun necesarios para, asegurar el autogobierno. Ahora
+bien, admitido este punto, corresponde preguntarse: ¿hasta dónde es que
+este argumento permite afirmar la victoria del bando del constituciona-
+lismo por sobre el bando de los demócratas? Lo cierto es que, pese a la
+espectacularidad del ejemplo de Ulises, el mismo termina probando me-
+nos de lo que pretendía.
+
+En efecto, enfrentados a consideraciones semejantes, los defensores
+del autogobierno podrían replicar que, en verdad, dicha metáfora sugiere
+bastante poco: en definitiva, los demócratas no objetan la posibilidad de
+que una comunidad se autoimponga determinados límites, tal como lo
+hiciera Ulises. Lo que objetan es la posibilidad de que una comunidad
+exija que los límites que se autoimpuso se preserven firmes frente a las
+generaciones futuras –algo tan inaceptable como que Ulises le exija a su
+hijo que se ate al mástil como él lo ha hecho–. Esto es lo que rechazan
+los demócratas, y lo que el ejemplo de Ulises es incapaz de probar. Di-
+cho ejemplo, en todo caso, prueba lo obvio: la racionalidad del autopa-
+ternalismo, pero no avanza en lo que más les interesa a los constitucio-
+nalistas, esto es, la justificación de una comunidad para imponer sus
+normas sobre otras comunidades diferentes.
+
+La comparación entre la situación de Ulises y la que enfrenta una
+comunidad que quiere dictar su Constitución también registra otro tipo
+de des-analogía notable. Las sociedades son cuerpos numerosos –compues-
+tos, muchas veces, por millones de personas– y, lo que es más grave, no
+es para nada esperable que todos ellos participen del dictado de su propia
+Constitución. De allí que merece guardarse una mayor prudencia cuando
+se quiere comparar la situación de Ulises, autoimponiéndose normas, con
+la de la sociedad, queriendo hacer lo propio: en este último caso, lo espe-
+rable es que un (muy pequeño) sector de la sociedad determine cuáles son
+las normas que van a regir para todo el resto. De allí que, en este caso, ni
+siquiera tiene sentido hablar de autopaternalismo. En prácticamente to-
+dos los casos no es cierto que “la sociedad se dicta su propia Constitución”:
+lo que allí llamamos “la sociedad” no son sus millones de habitantes, ac-
+tuando de modo conjunto, sino una pequeña elite, por más representativa
+y honesta que sea. Este hecho abre, entre otros, algunos riesgos notables,
+ausentes en el caso de Ulises. Bien puede ocurrir, por ejemplo, que dicho
+sector encargado de dictar la Constitución se incline por dictar normas
+más favorables para sí mismo que para todo el resto. Esto es, para conti-
+nuar con la metáfora ya empleada, puede ocurrir que los encargados de
+dictar la Constitución aten las manos de toda la comunidad, dejando desa-
+
+[[PDF p. 6]]
+32 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+tadas las propias –una posibilidad inimaginable para el caso de Ulises,
+pero bastante habitual, de hecho, en la historia del constitucionalismo
+moderno–.
+
+III. LA IGUALDAD COMO PRESUPUESTO COMÚN
+
+Una manera de moderar los devastadores efectos de esta tensión en-
+tre constitucionalismo y democracia puede ser la siguiente: explorar las
+notas que reúnen ambas ideas, antes que aquellas que las diferencian. En
+este sentido, creo que existe un camino atractivo que transitar, a través
+del recorrido por lo que aparece como uno (si no el principal) de los pre-
+supuestos comunes de ambas nociones, y que se vincula con la idea de
+igualdad. En efecto, no es difícil llegar a la conclusión de que si nos inte-
+resa el constitucionalismo y si nos preocupa la democracia ello se debe,
+ante todo, a que le asignamos un lugar importante a la idea de igualdad.
+Ello, en el sentido de que asumimos que todas las personas poseen una
+misma dignidad moral, y son iguales en cuanto a sus capacidades más
+básicas. Aprobamos el compromiso con el sistema democrático, justamente,
+porque rechazamos la idea de que existen clases de personas situadas –en
+sus conocimientos, en su intrínseca dignidad– por encima de todas las
+demás. Contra dicha propuesta, afirmamos que cada individuo tiene un
+igual derecho a intervenir en la resolución de los asuntos que afectan a su
+propia comunidad: todos merecen participar de dicho proceso decisorio
+en un pie de igualdad. Nuestro compromiso con el constitucionalismo, del
+mismo modo, se desprende de este tipo de presupuestos igualitarios. En
+efecto, queremos preservar ciertos derechos fundamentales que permitan
+a cada uno llevar adelante su vida conforme a sus propios ideales; y que-
+remos preservar una estructura de decisión democrática en donde la opi-
+nión de cada uno valga lo mismo que la de los demás. La idea de igual-
+dad, entonces, resultaría el fundamento último del constitucionalismo y
+la democracia. La apreciación, cabe aclararlo, no parece descabellada
+
+[[PDF p. 6]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 33
+
+cuando leemos algunos de los documentos esenciales en la materia, tales
+como la “Declaración de la Independencia” norteamericana –que recono-
+ce en su primera línea la afirmación de que “los hombres son creados
+iguales”–; o la “Declaración de Derechos” francesa, que comienza hacien-
+do una referencia a la libertad e igualdad que une a las personas.
+
+La noción de igualdad presentada en las líneas anteriores responde,
+sin dudas, a una interpretación, de entre las muchas posibles, de la idea
+de igualdad. Por ello, es importante que desde un comienzo especifique
+qué tipo de idea de igualdad es la que voy a tomar en cuenta de aquí en
+adelante. Ante todo, la noción de igualdad que tomo en cuenta se distin-
+gue por tener ciertos rasgos individualistas, en un sentido modesto del tér-
+mino: cada persona en sí misma nos resulta importante; a cada una de
+ellas merece asignársele un valor idéntico. Por otra parte, dicho compro-
+miso con la suerte de cada persona implica, según entiendo, tratar a cada
+persona como un igual, más que tratar a cada persona igual: lo que se pre-
+tende es afirmar nuestra preocupación por la igual consideración y respe-
+to que nos merece cada uno. Uno fallaría en su compromiso con la igual-
+dad, en tal sentido, y por ejemplo, si no proveyera un tratamiento especial
+a la mujer en el ámbito del trabajo, en consideración de su embarazo; o
+no tomara medidas especiales para asegurar la protección de los intereses
+de la comunidad negra, luego de siglos de una indebida postergación alen-
+tada y mantenida por el Estado.
+
+Aunque son, evidentemente, muchas las formas posibles en las que se
+puede pensar la idea de igualdad, en lo que sigue asumiré a la misma como
+vinculada con la perspectiva desarrollada en las últimas décadas por la
+filosofía política liberal igualitaria. Conforme a una lectura posible de di-
+cha tradición, tratar a cada individuo como un igual conlleva una preocu-
+pación por asegurar que la vida de cada individuo dependa de las eleccio-
+nes que cada individuo realiza, y no de las meras circunstancias en las
+que le toca nacer. La vida de alguien resulta inapropiadamente definida
+por las circunstancias en las que le toca nacer cuando, por ejemplo, el sis-
+tema institucional permite que algunos reciban beneficios y otros resulten
+perjudicados por hechos que son ajenos a su responsabilidad, i.e., por el
+hecho de que hayan nacido en condiciones de pobreza o riqueza; por el he-
+
+[[PDF p. 7]]
+34 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+cho de que hayan nacido con ventajas o desventajas intelectuales o física:
+por el hecho de que pertenezcan a tal o cual género o grupo racial. Pc
+ello, la debida preocupación por la igual dignidad de cada uno —una prec
+cupación que debe ser constitutiva de todo sistema institucional equitativo
+resulta entonces violada cuando el Estado, por ejemplo, legitima o refuerz,
+en lugar de confrontar, aquellas injusticias “naturales” —injusticias que so
+producto, como dice Rawls, del “azar de la naturaleza”--. El objeto fi
+de la acción pública debe ser, entonces, el de asegurar que nadie te
+acceso a un peor sistema educativo, a un peor servicio sanitario, o a
+peor proceso educacional, por razones que son ajenas a su control,
+objetivo final, en definitiva, es que el sistema institucional no distribu
+“oremios y castigos” en razón de factores arbitrarios desde un punto
+vista moral, sino en razón de las elecciones que cada uno realiza.
+
+Esta posición —conforme a la cual la vida de cada uno depende
+damentalmente de las decisiones de cada uno— aparecerá en lo que sig
+como “ideal regulativo”, o “punto de reposo” de muchas de las consid
+raciones que presento. Dicho ideal, conforme iré dejando en claro, sé
+interpretado de un modo particular, asumiendo lo siguiente. En pri
+lugar, que tal ideal puede resultar violado tanto por acciones como p
+omisiones del Estado o, en ciertos casos, de otros particulares. En tal sé
+tido, y por ejemplo, asumiré que el Estado no cumple con sus deberes
+asegurar a todos un igual trato cuando meramente se abstiene de ac
+en una situación en donde algunos gozan de ventajas frente a los de
+y las mismas resultan ya sea de su buena fortuna, ya sea de previas ace
+nes indebidas del Estado (i.e., una indebida concesión de derechos, cof
+la que podría resultar de una asignación de tierras que se hiciera sin CC
+sideración de los reclamos igualmente legítimos que otros individuos É
+dieron haber tenido en ese momento; la concesión de licencias realiz
+sin atención a los intereses fundamentales de los demás). En segundo
+gar, la idea de “respetar las decisiones de cada uno” la tomo como!
+compatible con la de asumir como “dadas” las pretensiones de cada ul
+Para decirlo de otro modo, considero aquí que es muy habitual que nú
+tras pretensiones sean simplemente un reflejo de una estructura cultu
+conformada a partir de prejuicios, abusos y privilegios injustificados, Í
+lo que el respeto por las decisiones de cada uno requiere, al menos,
+previo proceso de información y reflexión crítica sobre la propia sit
+ción de cada uno, y sobre sus relaciones con los demás y con el Esta
+En tercer lugar, considero que el ideal de respetar a todos por igual, a pé
+de su contenido individualista, no implica negar la posibilidad de t0
+acciones en favor de colectivos determinados. Típicamente (y confoH
+
+[[PDF p. 7]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 35
+
+Lsmos ejemplos arriba citados), en una sociedad en donde el estatus
+A e o de alguna minoría racial se encuentra perjudicado por pre-
+y Msn: u omisiones del Estado (i.e., quien impidió a través de las
+Move dictaba que aquéllos accedieran a estudios adecuados 0 a posi-
+mes públicas de poder), el compromiso con el trato igual requiere de la
+a de decisiones orientadas a remediar la situación de los colectivos
+
+ebidamente perjudicados, En tal sentido, el Estado no actuaría de un
+
+o “debidamente neutral” frente a todos si permitiera que la suerte de
+terminados individuos empeorara en razón de su pertenencia a deter-
+nados grupos previamente perjudicados por el activismo estatal.
+
+IGUALITARISMO Y DEMOCRACIA
+
+Una vez que reconocemos el valor último de la idea de igualdad, nos
+acontramos en mejores condiciones para proseguir nuestros estudios. En
+icular, y en lo que sigue, quisiera dedicarme a aclarar algunas ideas
+inculadas con el compromiso democrático. Al respecto, y en primer lu-
+me interesa afirmar quetla superioridad moral de la democracia no
+fica que debamos situar en el mismo plano a toda expresión de la
+luntad ciudadana.¿En efecto, para quienes asumimos que todos somos
+amentalmente iguales —y que nadie tiene, por tanto, el derecho de
+Ogarse el poder de decidir en nombre de otro u otros—, las expresiones
+ds directas de la voluntad ciudadana tienen más valor que aquellas otras
+US $e encuentren más mediadas institucionalmente. En tal sentido, y por
+Jemplo. tenemos razones para adjudicar mayor legitimidad democrática
+la decisión de una Legislatura que a la decisión de un juez; o a la deci-
+IÓN del presidente que a otra tomada por un funcionario ministerial nom-
+1adO por él (lo cual no niega, por supuesto, que coyunturalmente poda-
+OS Estar “más de acuerdo” con las últimas que con las primeras). Del
+1Smo modo, las decisiones tomadas directamente por la ciudadanía me-
+SEN ser jerarquizadas por encima de las que pueda adoptar la misma
+e sto la represente (ello, contra lo que pudieron decir los pro-
+Cs fundadores” en la Argentina o en los Estados Unidos).
+Or otra parte, cuando reconocemos que nuestra racionalidad es li-
+Mo podemos sino asumir que todos y cualquiera de nosotros pue-
+Iamza mo. de en sus juicios y razonamientos, y que habitualmente no
+Ir bien, De Aa toda la información que necesitaríamos para deci-
+das en ros 0 que no podamos considerar que todas las decisiones to-
+speto de la regla mayoritaria sean idénticas.
+
+itad
+
+[[PDF p. 8]]
+36 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+Porque respetamos a todos por igual, y porque asumimos que na-
+die tiene el conocimiento suficiente como para decidir en nuestro nom-
+bre (es decir, porque asumimos que todos podemos equivocarnos), es
+que necesitamos escuchar a todos los demás, y corregir nuestros juicios
+mutuamente. Cuanto menos oportunidades nos demos para llevar adelan-
+te este proceso de mutua clarificación, más riesgos correremos de deci-
+dir mal, esto es, a partir de errores, prejuicios, o falta de información. Es-
+to parece explicar por qué los gobernantes más autoritarios suelen ser
+los que más se entusiasman con las invocaciones a las mayorías; por
+qué Pinochet en los años ochenta o Fujimori en los noventa convoca-
+ron alegremente la celebración de plebiscitos destinados a ratificar su
+presencia en la cúspide del poder (como lo hiciera, también, el ex go-
+bernador Eduardo Duhalde en la provincia de Buenos Aires). Ocurre que,
+si se restringe la circulación de información y opiniones críticas, mien-
+tras se insiste con la propaganda en favor de quien está en el poder (como
+hicieran cada uno de los nombrados); si se prohíbe la existencia de sin-
+dicatos o partidos políticos (como ocurriera durante el régimen de Pi-
+nochet); o se permite que el debate público esté controlado por el poder
+y el dinero, luego, las posibilidades de que el convocante obtenga una
+victoria en la compulsa electoral se incrementan de un modo obvio. Así,
+quedamos sujetos a la peor situación posible: la autoridad de turno puede
+mostrar al mundo su autoridad reluciente, y fortalecida a partir del áurea
+de la legitimación popular. Por advertir lo anterior, es que quienes defien-
+den un compromiso radical con la democracia tienen la especial respon-
+sabilidad de tomarse en serio el diseño de las reglas capaces de darle
+sentido al mismo.
+
+Lo dicho lleva implícito una reflexión de teoría de la democracia,
+orientada a distinguir entre distintas formas en que es posible concebirla.
+En particular, las consideraciones recién avanzadas implican el rechazo a
+una idea que tiene mucho predicamento dentro de los estudios de la de-
+mocracia (vinculada con lo que se ha dado en llamar la concepción
+pluralista de la democracia), y que sostiene o simplemente asume que
+el sistema político debe encargarse, fundamentalmente, de agregar las
+diferentes preferencias existentes dentro de la sociedad, para poner en
+practica aquellas que cuentan con mayor respaldo. Contra dicha visión,
+aquí se procura distinguir –como ya sugiriéramos– entre la agregación y
+
+[[PDF p. 8]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 37
+
+la transformación de preferencias. Lo que se afirma es que, justamente a
+partir de la señalada necesidad de no tomar como dados los errores, pre-
+juicios o falta de información de cada uno, la democracia debe ser conce-
+bida como un ámbito destinado primordialmente a facilitar la reflexión
+crítica. Esta afirmación merece entenderse en un sentido fundamentalmente
+modesto: lo que se quiere significar es que el statu quo no merece un
+tratamiento deferencial, por el hecho de serlo. Ello, en particular, cuando
+–tal como ocurre en una mayoría de sociedades modernas– las condicio-
+nes iniciales en las que se desarrolla la política no parecen especialmente
+justificadas.
+
+La posición anterior, favorable a concebir la democracia como un pro-
+ceso orientado a la “transformación” de preferencias, se ve reforzada por
+una multitud de estudios psicológicos que muestran de qué modo las de-
+cisiones y acciones de las personas resultan moldeadas a partir de las
+normas (jurídicas, sociales) que enmarcan la vida de cada uno. Sin ne-
+cesidad de abrir juicios acerca del grado de justicia e injusticia de las ins-
+tituciones actuales, resulta claro, al menos, que las sociedades modernas
+se han edificado sobre la base de múltiples e inaceptables injusticias, que
+incluyeron medidas racistas, sexistas y xenófobas entre ellas. De allí
+que haya razones adicionales para someter a un proceso de examen críti-
+co las posiciones iniciales de cada uno. Ocurre que, por ejemplo, es da-
+ble esperar que luego de largas décadas o siglos de racismo, muchas per-
+sonas de color hayan desarrollado una visión muy degradada acerca de
+sus propias capacidades. Del mismo modo, es esperable que luego de una
+larga época en que se les privaba del voto o del mismo derecho a traba-
+jar, muchas mujeres hayan comenzado a verse a sí mismas como incapa-
+ces de desarrollar tareas para las que están perfectamente calificadas. Así
+también, en contextos como los citados, es dable esperar que muchos
+empleadores o dirigentes políticos desarrollen visiones prejuiciadas acer-
+ca de aquellos grupos, y acerca de los derechos y obligaciones que pue-
+den corresponderles. En definitiva, en una mayoría de casos, y muy espe-
+cialmente frente a situaciones como las descriptas, caracterizadas por largos
+años de injusticia, tiene sentido poner en tela de juicio el statu quo, y
+organizar conforme a dicho criterio las instituciones democráticas. En otros
+
+[[PDF p. 9]]
+38 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+términos, en situaciones como las citadas la democracia no merece ser pen-
+sada, meramente, como un instrumento orientado a la agregación de pre-
+ferencias –un instrumento encargado de convertir las injusticias históri-
+cas en injusticias legítimas.
+
+“Del mismo modo, consideraciones como las anteriores, que asum
+el igual valor decada individuo, tienden a reafirmar el presupuesto
+lleano conforme al cual cada individuo es “soberano sobre sí mismo, S
+bre su propio.cuerpo y.menie” 11 Con Mill, reconocen entonces que ca
+persona es el mejor juez de sus propios intereses. Conviene aclarar q
+al afirmar una idea como la citada, uno no queda comprometido con ni
+guna de las dos ideas siguientes: una sección tercera O que uno siemp
+está en lo cierto, en lo que concierne a su propia vida (i.e., que uno sier
+pre escoge el mejor camino alternativo posible, cuando se encuentra
+una encrucijada vital); y que los demás no pueden tener razón (y a
+ocasionalmente, más razones que nosotros mismos) al pronunciarse act
+ca de nuestras elecciones personales. Lo que se quiere afirmar, más bie
+es que cada persona se encuentra excepcionalmente bien situada para 1
+conocer cuáles son sus propios intereses, cuáles sus deseos y temores, €
+
+la intensidad con la que abraza o rechaza ciertas opciones. Esa posicl
+privilegiada convierte a cada uno en el “mejor juez” de su propio desí
+no, y hace presumir que, tendencialmente, nadie vaya a saber sopes
+mejor que uno los propios intereses.
+
+Dicho presupuesto tiene implicaciones muy significativas en mal
+ria de filosofía política. Fundamentalmente, nos sugiere que los prob
+mas colectivos deben ser discutidos colectivamente, si lo que se prete
+es adoptar decisiones que traten a todos imparcialmente, esto es, Seg
+voy a asumir aquí, decisiones.que sepan balancear adecuadamente
+intereses de todos, Afirmar esto implica rechazar, por ejemplo, una postl
+muy-habitual-entre quienes se ocupan del estudio y diseño de sister
+institucionales, conforme a la cual la mejor garantía para la adopció
+decisiones imparciales está dada por la reflexión individual, aislada,
+algunas personas bien instruidas (típicamente, los jueces). Esta posicll
+monológica —epistémicamente elitista, según el lenguaje de Carlos Nino,
+es desplazada aquí en favor de una diferente, colectivista, que vincul?
+imparcialidad con procesos de reflexión colectiva?: ]
+
+11 MiLL, J. S., On Liberty, Bobbs-Merrill Co., Indianápolis, 1956, p. 13.
+12 Nino, C., The Ethics of Human Rights, Oxford University Press, Oxford, 12
+13 Habermas, J., Between Facts and Norms: Contributions to a Discourse The
+on Law and Democracy, MIT Press, Cambridge, 1996.
+
+[[PDF p. 9]]
+CONSTITUCIONALISMO VERSUS DEMOCRACIA 3% o! -
+
+! . ] nat
+
+, posición CS fundamentalmente inclusiva en cuanto sostiene que e
+método para garantizar que ningún punto de vista sea ignorado f
+o subvalorado consiste en asegurar la intervención —y en defi- |
+rrrasencia**— de todos 188 maroncialmenia aecrdos porlaide.
+y juego 15 en el proceso-de-toma-de decisiones. Se afirma aquí |
+a medida en que el proceso de toma de decisiones tenga me-
+ver con un proceso inclusivo, del que toman parte todos aquellos
+los en la decisión, y desde un lugar igual, menos razones va a
+ra pensar que la decisión finalmente adoptada sea una decisión
+Do, no se afirma aquí que nadie puede ni debe hacer el
+para situarse en el lugar de los demás. Es claro que todos tene-
+ta capacidad para la empatía, y que es muy valioso hacer ese
+por reconocer y entender el punto de vista de los demás. Lo que
+iquí es que una comunidad mejora las chances de adoptar una
+imparcial en la medida en que escucha efectiyamente.a aquellas
+
+o grupos que pueden ser afectados por la decisión en juego !'.
+os términos, se dice aquí que una comunidad reduce.los. riesgos.
+wr o pasar por alto la consideración de ciertos intereses relevan-
+do que los propios afectados tengan la oportunidad de hacer uso
+abra, y explicar a los demás por qué sostienen la posición que
+zamos así, entonces, a otra consideración clave para caracterizar 4
+ón que aquí tomaremos como punto de referencia. Y ésta es la 7,
+cia de la deliberación toleetivata la hora de determinar de qué |!
+ben tomarse las decisiones frente a problemas de indole colecti- |
+liberación se defiende aquí, ante todo, en razón de que los pro- |
+tos de discusión resultan, en principio, adecuadamente respetuo-
+rincipio según el cual todos merecemos un igual respeto(-el
+
+que nos dice que nadie tiene el derecho de arrogarse el poder
+decisiones sobre todos los demás miembros de la sociedad). Pero
+
+" varias otras razones en defensa de un procedimiento diálógico.
+arte, dicho procedimiento nos ayuda a conocer alternativas que
+lodo podriamos tener dificultades en CONOCEL; nos ayuda, así, a
+
+pS Á., The Politics of Presence, Clarendon Press, Oxford, 1995; y
+> Foice, Trust and Memory, Princeton University Press, Princeton, 1999.
+
+A RMAS, J., Between Facts..., cit.
+
+| ] 1 Ñ y. 7
+
+P LPS, A.. The Politics..., cit. KymLicKa, W., Multicultural Citizenship,
+Yess, Oxford, 1995,
+
+[[PDF p. 10]]
+40 INTRODUCCIÓN. CONSTITUCIÓN, IGUALITARISMO Y DEMOCRACIA
+
+corregir nuestras propias posturas; nos permite entender por qué los
+más están de acuerdo-o-no con nosotros; contribuye a que conozca:
+puntos de vista que podríamos haber ignorado simplemente en razón!
+prejuicios; favorece la consolidación de una práctica conforme a la e
+las decisiones se toman por consenso, y no como resultado de la ¡ imp:
+ción arbitraria de algún grupo. Finalmente, los procedimientos de dis
+sión nos fuerzan a dar razones acerca de por qué defendemos una
+ción u otra. Si no lo hacemos -si decimos, simplemente , “defiendo e
+posición porque sí”, o “porque me conviene a mí”-, seguramente ten
+mos dificultades en ver nuestra propuesta aprobada. Por supuesto, la
+cusión no hace un llamado a la hipocresía —a que cada uno indague,
+tratégicamente, de qué modo puede agradar o persuadir a los demá:
+aunque algunos vayan a hacer un uso meramente manipulativo de los
+gumentos. De lo que se trata es de reducir ciertos riesgos finalmente p
+sentes en cualquier procedimiento de toma de decisiones, a la vez
+proveer de mayores incentivos y posibilidades a alternativas que se €
+sideran valiosas.
+Lo dicho no implica entonces una defensa dogmática ni incondici
+nal de la discusión: un debate del que algunos sectores se encuentren $
+temáticamente excluidos; en donde la distribución de la palabra depe
+del dinero o la capacidad de influencia de cada uno; en donde el uso
+la palabra queda disociado de la toma final de decisiones; no es un de
+te que merezca mayor atención. Del mismo modo, defender la delibe
+ción no implica sostener que la misma implica —o debe implicar, para te
+sentido— el logro de un consenso unánime entre los participantes; o cr
+que un previo proceso deliberativo garantiza la imparcialidad final de
+decisión en juego: lo que se mantiene, más bien, es que la deliberación
+un procedimiento justificado, y capaz de favorecer una dinámica cole
+va valiosa, Finalmente, la defensa de la deliberación no implica soste
+la idea de que la deliberación va a llevar al logro de acuerdos armónic
+más que a la revelación o estallido de conflictos !” . La deliberación pue
+generar tanto como disolver conflictos, y su sostenimiento se basa, en to
+caso, en razones independientes, como las citadas más arriba.
+
+17 PRZEWORSKI, A., “Deliberation and Ideological Domination”, en ELsteR, J. (ed
+Deliberative Democracy, Cambridge University Press, Cambridge, 1998.
+
+[[PDF p. 10]]
+SISTEMA POLÍTICO

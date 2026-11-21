@@ -1,0 +1,786 @@
+# fuente: Unidad7/Arballo - 2019 - Comentario al artículo 121.pdf
+# md5_original: ff9f82f388c81cf1dc6650ea413e4231
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+ARTÍCULO 121
+
+
+
+
+               121. Las provincias conservan todo el poder no delegado por esta Constitución
+        al Gobierno federal, y el que expresamente se hayan reservado por pactos especiales al
+        tiempo de su incorporación.
+
+
+
+
+§ 1. Poderes “conservados” por las Provincias.
+
+
+        Se habla en forma indistinta de los poderes “no delegados” como los poderes
+“conservados” por las provincias, y la letra del art. 121 CN aparenta consagrar la excepcionalidad
+de los poderes federales. Y en muchos fallos de la Corte Suprema se ha presentado esa regla
+observando que "los poderes de las provincias son originarios e indefinidos, en tanto que los
+delegados a la Nación son definidos y expresos". 1
+        Pero lo cierto es que este principio aparece atenuado a la luz del desarrollo posterior de la
+jurisprudencia y la praxis gubernamental que asume la posibilidad de delegaciones implícitas a la
+Nación (tal como explicamos en el comentario al art. 126 C.N.).
+       En resumen, hay una zona mas “intangible” dada por los poderes provinciales que tienen
+una garantía expresa en la constitución como:
+        -    poderes constituyentes, tanto en su parte “orgánica” como en su parte “dogmática”,
+            conforme a la atribución y pautas de los arts. 5 CN y 123 CN;
+        -   poderes político-administrativos, para regular y elegir sus propias autoridades y
+            funcionarios, cfme. art. 122 CN, lo que implica naturalmente deferir una autonomía en
+            el ejercicio de esa autoridad;
+        -   poderes derivados de su personalidad jurídica de derecho público, para realizar
+            tratados interprovinciales y regionales, y convenios en el orden internacional, cfme.
+            arts. 124 y 125 CN;
+        -   poderes legislativos,
+
+
+
+1
+ Modernamente se ha repetido este criterio en CSJN, Filcrosa S.A. s/ quiebra s/ incidente de verificación de
+Municipalidad de Avellaneda, Fallos 326:3899 (2003); Verdini, Edgardo Ulises c/ Instituto de Seguridad Social de
+Neuquén, 327:3187 (2004); Cadegua S.A. c/ Municipalidad de Junín, Fallos 327:4103 (2004); Cablevisión S.A. c/
+Municipalidad de Pilar, Fallos 329:976 (2006); Entre Rios c/ Estado Nacional, Fallos: 331:1412 (2008);
+Municipalidad de Resistencia c/ Llubricom S.R.L., Fallos 332:2108 (2009 ).
+
+[[PDF p. 2]]
+                 o propiamente locales (los que conciernen a su derecho público interno y a las
+                   normas de policía local, reglamentarias de derechos),
+                 o de complemento y desarrollo de derechos (la Constitución explicita reglas
+                   especiales para las cláusulas ambientales, educativas y de tutela indígena, pero
+                   las provincias mantienen la potestad de desarrollar legislativamente todos los
+                   derechos y garantías de la Constitución Nacional en el ámbito de su
+                   jurisdicción)
+                 o concurrentes (incluyendo las normas de fomento autorizadas por el art. 125 in
+                   fine CN, y todas las que en general sean compatibles con poderes nacionales
+                   delegados).
+        -    poderes impositivos, para establecer impuestos y tasas, y para concertar con el
+             Gobierno Federal regímenes de coparticipación impositiva, conforme al deslinde y
+             pautas del art. 75 incs. 2 y 3 CN);
+        -    poderes judiciales, para aplicar el derecho común en la medida en que las cosas o las
+             personas caigan dentro de su jurisdicción, conforme art. 75 inc. 12 CN y en
+             consecuencia dictar sus códigos de procedimiento, exigir la extradición de criminales
+             cfme art. 8 CN, etc.).
+
+
+§ 2. Sobre el “margen de apreciación provincial”.
+
+
+        En el caso “Castillo”, en relación a la educación religiosa en la provincia de Salta, el voto
+disidente del Juez Rosatti introduce por primera vez a nivel federal un conocido concepto del
+derecho internacional de los derechos humanos, la doctrina del “margen de apreciación”,
+desarrollado sobre todo en el sistema Europeo. López Alfonsín expone que esta doctrina se
+presenta “cuando no es posible verificar la existencia de consenso internacional respecto a la
+cuestión a resolver y, al mismo tiempo, cuando las circunstancias del caso ameritan una deferencia
+hacia las autoridades estatales para que interpreten el sentido dado a la norma internacional. (…)
+Ante la posible inexistencia de una solución absoluta, el margen de apreciación nacional viene a
+ser ese espacio o válvula de escape en la cual se le da un determinado peso a la posición estatal,
+en cuanto a la apreciación del interés nacional preponderante”.2
+        Ahora bien: ¿existe, en sistemas federales, una versión aplicable “por analogía” de este
+margen de apreciación? En el fallo al que aludimos el voto de Rosatti así lo entiende: toma nota
+de ciertas diversidades de la legislación educativa en las diversas provincias de nuestro país, para
+concluir que “la elección salteña (…) expresa un “margen de apreciación provincial” que no
+confronta con el citado art. 5° sino, antes bien, expone una forma de implementar la competencia
+
+
+2
+  LÓPEZ ALFONSÍN, Marcelo Alberto, La doctrina del margen de apreciación nacional. Su recepción en el Sistema
+Europeo de Derechos Humanos, en el Sistema Interamericano de Derechos Humanos y en Argentina, en relación con
+los derechos económicos, sociales y culturales. En LEX N° 19 - AÑO XV – 2017, pp. 53-76. Disponible en
+http://dx.doi.org/10.21503/lex.v15i19.1370. Razona este autor que “en el caso del Sistema Interamericano se trata por
+el momento de una figura muy débil, incluso residual debido a que, hasta la fecha, los casos que llegaban a la Corte
+eran de tal gravedad (lo que se conoce como gross violations, violaciones del derecho a la vida, integridad personal,
+etc.) que el self restraint no tenía ninguna cabida”.
+
+[[PDF p. 3]]
+educativa atendiendo a las particularidades provinciales, de acuerdo con la ponderación de sus
+propios constituyentes”. 3
+        Por supuesto que se trata de una doctrina minoritaria, pero es pertinente intentar analizar
+críticamente su sentido y alcance, en la medida en que mutatis mutandis pueda ser extrapolable a
+otros derechos.
+        La doctrina tiene una semilla de verdad: en efecto, las provincias se han reservado el definir
+formas de implementación de un derecho, y por ello pueden en los planes de estudio establecer
+contenidos específicos vinculados con la jurisdicción propia. El amplio margen de posibilidades
+también se da en las opciones que puede adoptar un gobierno local en sus políticas públicas, que
+podrían priorizar válidamente diversos objetivos en función de sus intereses y necesidades, ya sea
+salud, vivienda o inversión educativa. La doctrina europea ha justificado una explicación
+funcional: las autoridades locales están mejor posicionadas que las supranacionales para calibrar
+la proporcionalidad de las restricciones.4 En ese punto cabe acotar que hay un diferencial más
+plausible en el contraste autoridad doméstica-tribunal supranacional, que el que puede haber en el
+contraste entre dos autoridades nacionales, una subfederal y otra federal. Además, el “margen de
+apreciación” cumple en cuerpos supranacionales la función política de maximizar la adhesión y la
+permanencia en un sistema de derechos humanos, cuestión que no debe estar en discusión en la
+relación Nación-Provincias. De ambas observaciones se deriva que cabe propiciar entonces un uso
+extremadamente cauto del margen de apreciación a nivel subfederal.
+        Pero de ello no se sigue que las provincias se hayan reservado un margen que las habilite
+a adoptar una visión idiosincrática y local de la fuerza normativa de los derechos de la Constitución
+nacional. Una visión progresiva del margen de apreciación aceptable siempre debe partir de una
+línea de base común que debe ser respetada en toda la República, un núcleo duro pero no “pétreo”,
+sino de “fronteras móviles” para dar cuenta de posibles avances en la realización y tutela de
+derechos. En este punto cabe aplicar el mismo análisis de razonabilidad que busca identificar el
+contenido esencial de los derechos, y un test de proporcionalidad o razonabilidad en lo que
+constituyan sus eventuales restricciones para luego tomar la diversidad verificable como un
+indicador de posibilidades de desarrollo. En relación al margen de apreciación nacional ha dicho
+Agustina Pérez que “la diversidad de regulaciones y sistemas jurídicos en la región debería ser,
+más que un motivo para en la práctica restringir derechos, una herramienta para pensarlos
+creativamente y mejorar su protección”5, y lo mismo se aplica a su eventual acepción federal.
+        Por lo demás, la inexistencia de un consenso generalizado intrafederal puede ser en verdad
+demostrativo de que una parte importante de los Estados no están adoptando en la práctica una
+legislación que tutele adecuadamente los derechos, y no puede invocarse tal circunstancia como
+
+
+3
+  CSJN, Castillo, Carina Viviana y otros c. Provincia de Salta - Ministerio de Educación de la Prov. de Salta s/
+amparo, Fallos 340:1795 (2017). Disidencia del Juez Rosatti, cons. 18.
+4
+  Esta línea aparece primeramente en el caso Handyside. Cf. Corte EDH, Handyside c. Reino Unido, sentencia del 7
+de diciembre de 1976, § 48, Series A no. 24, y se replica en otros como Irlanda c. Reino Unido, del 18 de enero
+de1978, § 207, Series A no. 25; Gillow c. Reino Unido, del 24 de noviembre de 1986, § 56, Series A no. 109; Müller
+y otros v. Suiza, del 24 de Mayo de 1988, § 35, Series A no. 133. Lautsi c. Italia (“Lautsi II”), de 18 de marzo de 2011,
+TEDH 2011/31, entre muchos otros.
+5
+  PÉREZ. Agustina, Una mirada desde América Latina sobre el margen de apreciación estatal en el Tribunal Europeo
+de Derechos Humanos: ¿génesis de una permanente tensión entre democracia y derechos?, Revista Jurídica de la
+Universidad de Palermo. Vol. 15, No. 1, 2017, pp. 79-98.
+
+[[PDF p. 4]]
+una renuncia a la aplicación de los tests de proporcionalidad en orden a determinar la validez de
+una restricción o la configuración de una violación.
+        Sería así correcto hablar –con licencia literaria- de un margen de apreciación en la medida
+en que se trate de un plus por encima de ese contenido esencial: las provincias tienen efectivamente
+la potestad de decidir cuánto y cómo van a desarrollarlo in meius, y no se les puede reclamar
+homogeneidad ni se les puede imponer la legislación o la modalidad diversa de las provincias han
+querido y podido desarrollar otra versión hipotéticamente aún mas superadora, o han calibrado de
+modo distinto un balance entre derechos en tensión.
+        Esto nos remite a otra cuestión. En el intento de evitar esa desigualdad intra-federal se ha
+invocado la lógica del principio pro homine según el cual ante una alternativa de normas
+coexistentes los particulares pueden invocar –y los jueces aplicar- la más beneficiosa para el
+sistema de derechos de la persona.6 El problema es que este entendimiento resulta incompatible
+con el sistema de distribución federal de competencias, ello en tanto se pretende atribuir una
+vigencia virtual a actos legislativos o reglamentarios de extraña jurisdicción.
+       Lo que, en efecto, no se puede –a riesgo de desbaratar la integridad del sistema federal- es
+invocar el margen de apreciación con un sentido regresivo, in peius, para darle a las provincias
+una fuente adicional para validar restricciones, para transformar en cuestión local un tópico que es
+evidentemente cuestión federal, o para asignar una presunción de validez a priori a las limitaciones
+fundadas en una preferencia o interés local.
+        Es por ello que la existencia de un criterio común y extendido en varias jurisdicciones
+puede iluminar sobre la irrazonabilidad de una disposición que resulte anómala o incongruente en
+el contexto del derecho público provincial.
+        Dicho de otro modo, este criterio implicaría un desplazamiento de las cargas probatorias
+en cuanto a la constitucionalidad del derecho local sub judice: aún sosteniendo –como dejamos en
+claro en los párrafos precedentes- la inaplicabilidad del llamado “derecho al mejor derecho”, el
+derecho “peor” en tal caso habrá de presumirse inconstitucional, y en función de ello cabría
+juzgarlo exigiéndole al Estado local una justificación robusta que valide el grado de restricción
+que se verifica en su territorio. Recordamos, a propósito de ello, que la apelación al “margen de
+apreciación” no puede ser un “sello de goma” o carta blanca para aplicar restricciones: en todo
+caso, quien pretenda valerse de él (o avalar su aplicación) deberá explicar con precisión por qué
+la autoridad local está “mejor situada” para efectuar un balance.7
+       Esta es la lectura que mejor cuadra con la decisión de 2005 la Corte Suprema de Justicia
+de la Nación de “Verbitsky”, fallo en el que el Tribunal establecía en el considerando 57 que
+“cualquiera sea el sistema procesal de una provincia y sin desmedro de reconocer su amplia
+
+
+6
+ Cf., por ejemplo, MANILI, Pablo, El derecho procesal constitucional y el federalismo, en Manili (Dir.) “Tratado de
+Derecho Procesal Constitucional”, Tomo I, La Ley, 2010, pp. 441-451, o JULIANO, Mario Alberto; GARCÍA, Nicolás
+Gerardo y PÉREZ GALIMBERTI, Alfredo, Derecho al mejor derecho y poder punitivo, Del Puerto, Buenos Aires, 2011.
+
+7
+ Advertencia que figura en la opinión disidente de Pinto de Albuquerque, suscripta por el Juez Sajo, en Correia de
+Matos v. Portugal. Cf. Corte EDH, Caso de Correia de Matos v. Portugal, Demanda Nº 56402/12, 4 de abril de
+2018, disidencia cit., en especial §§ 4-9. "
+
+[[PDF p. 5]]
+autonomía legislativa en la materia, lo cierto es que si bien no puede llevarse la simetría legislativa
+hasta el extremo de exigir una completa igualdad para todos los procesados del país, la desigualdad
+tampoco puede extremar las situaciones hasta hacer que el principio federal cancele por completo
+el derecho a la igualdad ante la ley, pues un principio constitucional no puede borrar o eliminar
+otro de igual jerarquía”.
+        La Corte puntualizaba que “una asimetría total en cuanto a la legislación procesal penal
+destruiría la necesaria unidad en materia penal que se mantiene en todo el territorio en virtud de
+un único Código Penal. ... por ello, se debe entender que, sin pretensión de cancelar las asimetrías,
+para la prisión preventiva -que es donde más incidencia represiva tiene el derecho procesal penal-
+las provincias se hallan sometidas a un piso mínimo determinado por los estándares internacionales
+a los que se ajusta la legislación nacional. No es lo mismo que, habiendo dos imputados en igualdad
+de condiciones y por el mismo delito, uno llegue al juicio libre y otro lo haga después de muchos
+meses o años de prisión, sin que el Estado Federal se asegure de que en el último caso, al menos,
+se respeta un piso mínimo común para todo el territorio”. 8
+        En ese caso, recordemos, la Corte concluía prima facie que la legislación vigente en la
+Provincia de Buenos Aires en materia excarcelatoria parecía “alejarse del estándar trazado por el
+derecho internacional y que sigue la legislación nacional”, en virtud de lo cual exhortaba a los
+poderes de la provincia “a que adecuen la legislación procesal penal en materia de prisión
+preventiva y excarcelación a los estándares mínimos internacionales que, a modo de ejemplo,
+recepta la legislación procesal penal de la Nación” (el subrayado es nuestro). `
+        Esto significa que para poder descalificar una normativa local no basta la mera
+comprobación con otra norma favorable, sino que debe comprobarse que esa norma está
+concretando ciertos “estándares internacionales”. Así lo hizo la Corte con claridad en “Verbitsky”
+(sosteniendo que “las Reglas Mínimas para el tratamiento de reclusos de las Naciones Unidas, si
+bien carecen de la misma jerarquía que los tratados incorporados al bloque de constitucionalidad
+federal, se han convertido, por vía del art. 18 de la Constitución Nacional, en el estándar
+internacional respecto de personas privadas de libertad”) y también con la invocación a las Reglas
+Mínimas de las Naciones Unidas para el Procedimiento Penal ("Reglas de Mallorca") en los casos
+“Llerena” y “Dieser” donde establece la necesidad de separación entre órganos de instrucción y
+órganos de juicio.9
+        Laura Clérico subraya la función constructiva del federalismo, un sistema que -dice-
+“requiere ser interpretado como facilitador del cumplimiento de los derechos”, por lo cual propicia
+que en ausencia de protección provincial eficaz se apliquen “los estándares que surjan de las
+normas federales y nacionales hasta que las provincias consoliden sus propios medios de
+protección que se acerquen y superen los estándares de fuente federal”. Ese parece ser, postula, el
+camino iniciado por la Corte cuando ordenaba a las obras sociales provinciales no adheridas al
+
+
+
+
+8
+    CSJN, Verbitsky, Horacio s/ hábeas corpus, Fallos 328:1146 (2005).
+9
+ CSJN, Llerena, Horacio, Fallos 328:1491 (2005), y Dieser, María G. y Fraticelli, Carlos A. Fallos 329:3034 (2006).
+Este último caso (en el que la Corte se remite al dictamen del Procurador) es el que más interesa aquí porque viene a
+proyectar el criterio de “Llerena” a las jurisdicciones provinciales.
+
+[[PDF p. 6]]
+sistema nacional de la ley 24.901 a asumir las prestaciones derivadas de los principios que
+sustentan esa norma, aludiendo al caso “Passero de Barriera” de 2007.10
+
+
+
+
+§ 3. ¿Federalismo “dual” o “de torta marmolada”?
+
+
+         En Estados Unidos, notoria inspiración de nuestro sistema, ha surgido una interesante
+dicotomía para conceptualizar dos modelos de organización de competencias federales: o división
+estricta (modelo de federalismo “dual”, o torta en capas) o poderes entremezclados (modelo de
+federalismo de cooperación, o marble cake, de “torta marmolada”11).
+        El federalismo de torta marmolada asume la posibilidad de coexistencia entre poderes
+locales y nacionales. Es el modelo propio del federalismo alemán, donde el Estado Federal
+establece leyes de base y los Länder las reglamentan y son su autoridad de aplicación. 12
+        Esta coexistencia se refleja en mecanismos de coordinación institucionalizados
+(usualmente materializados a través de leyes-convenio, o de la adhesión provincial a leyes
+nacionales) y en la existencia de poderes concurrentes.
+       Nuestro sistema, en definitiva, presenta rasgos de ambos paradigmas. Es “dual” en algunos
+aspectos básicamente identificados en las prohibiciones del art. 126 CN (a cuyo comentario
+remitimos) y en las garantías dadas a las provincias en el art. 5 (correlacionándolo con los arts.
+122 a 125, subsiguientes a este que comentamos). Pero la evolución constitucional (a pesar de que
+
+10
+   CSJN, Passero de Barriera, Graciela N. c. Estado Nacional, Fallos 330:4160 (2007), citado en CLÉRICO, Laura.,
+¿El argumento del federalismo vs. el argumento de igualdad? El derecho a la salud de las personas con discapacidad,
+Revista Jurídica de Palermo, Año 11, Nro. 1-octubre de 2010, págs. 93-118, en p. 98.
+11
+   La expresión fue .acuñada por Morton Grodzins en Goals for Americans, una obra de 1960 dedicada a presentar el
+Reporte de la Comisión Presidencial de Metas Nacionales. Dice Grodzins, “La forma de gobierno de los Estados
+Unidos es frecuentemente –y erróneamente- descripta como una torta de tres capas. Una imagen mucho más
+ajustada a la realidad sería el espectro de una torta marmolada … como los colores están entremezclados en la torta
+marmolada, así lo están las funciones en el sistema federal americano-.”. Cf. GRODZINS, Morton “The Federal
+System,” en Goals for American, (Englewood Cliffs, N.J.; Prentice-Hall, 1960,pp. 265–282. Cf. WRIGHT Deil S.,
+Para entender las relaciones intergubernamentales, Fondo de Cultura Económica, México, 1997. Pp. 140-141.
+.
+12
+   Es interesante apuntar que el modelo alemán ha seguido también una trayectoria centralizante desde la distribución
+originaria de competencias. Observa Antonio Arroyo Gil que de acuerdo con el artículo 30 GG, “los Länder disponen
+de una competencia general de carácter residual, mientras que la Federación, por el contrario, únicamente puede
+ejercer aquellas facultades que tenga expresamente atribuidas en la propia Ley fundamental o en virtud de ella
+(competencias tasadas)”. Y confronta ello con la evolución ulterior donde “la mayor parte de las competencias en el
+ámbito de la legislación se encuentran atribuidas también ahora a la Federación, expresamente o por medio de
+cláusulas constitucionales abiertas que han sido interpretadas de manera muy generosa por los órganos centrales
+competentes, con la aquiescencia del Tribunal Constitucional Federal. Es ésta precisamente la nota más característica
+del proceso centralizador del federalismo alemán a que se trató de hacer frente, sobre todo, en la reforma constitucional
+de 2006, si bien con no demasiado éxito, pues lo cierto es que en el terreno legislativo, a par tir de esa modificación,
+sigue siendo la Federación la que ostenta el protagonismo principal”. Cf. ARROYO GIL, Antonio: "Fundamentos
+constitucionales del reparto de competencias en la República Federal de Alemania", en AA.VV., Cooperación y
+reparto competencial en los estados descentralizados, Collecció Institut d’Estudis Autonòmics, núm. 83, IEA-
+Generalitat de Catalunya, Barcelona, 2013, pp- 85-154, en p. 90.
+
+[[PDF p. 7]]
+el juego de los art. 121 y 126 parecen indicar a un constituyente que quiso un federalismo
+categóricamente “dual”), ha ido derivando en amplias zonas de concurrencia y ellas implican la
+posibilidad de zonas de regulación potencialmente mixta, simultánea, de Nación y de los poderes
+locales.
+        De hecho, vamos a ver que existe en cierta jurisprudencia moderna un reconocimiento
+explícito de la funcionalidad de este paradigma. Lo vemos ejemplificado en el caso “Nobleza
+Piccardo” de 2015, donde una tabacalera cuestionaba una ley de la Provincia de Santa Fe que
+restringía la publicidad de su producto y otros aspectos de su actividad. La Corte rechazó el
+planteoy nos interesa aquí en particular el voto concurrente de Maqueda y Highton, enfatizando la
+existencia de una válida finalidad constitucional, ejercida razonablemente, y advirtió que “la
+materia sobre la que versa el caso es una de aquellas que admite que una potestad legislativa
+nacional y una provincial puedan ejercerse conjunta y simultáneamente, sin que de esa
+circunstancia derive violación de principio o precepto jurídico alguno”.
+        Ello le dio pie para decir que
+        -   “el contexto en el cual se desenvuelven las tensiones entre las provincias y la Nación,
+            como rasgo propio del proceso federal (…) implica reconocer que el federalismo no es
+            ya estático, sino que permite avanzar en la concreción de políticas intercomunales y en
+            una línea de gestión intergubernamental”.
+        -   que “bajo esta interpretación, las relaciones y convergencias entre distintos niveles de
+            gobierno resignifican las políticas públicas en ordena la protección de derechos
+            fundamentales”, y que
+        -   “en la dinámica de la distribución de competencias en este campo, entre ambas
+            jurisdicciones, la tendencia que prevalece es el abandono de la técnica de la separación
+            absoluta de aquellas entre el Estado central y los Estados miembros -sus competencias
+            exclusivas-, para afianzar el esquema de las compartidas o concurrentes”. 13
+
+
+        Finalmente, recordemos que en algunos casos la mixtura competencial se deberá articular
+a través de acuerdos interjurisdiccionales, soluciones que la Corte propició en la orden judicial de
+saneamiento del Riachuelo Matanza en su conocido precedente de 2008, y en casos como la
+demanda de La Pampa contra Mendoza por los usos del Río Atuel.14
+
+
+
+§ 4. Poderes concurrentes.
+
+
+        Aunque no figuran alusiones explícitas a este tipo de poderes ni en este artículo, ni en el
+capítulo relativo a los gobiernos de provincia (arts. 121 a 129 CN) en varias partes de la
+
+13
+  CSJN, Nobleza Piccardo S.A.I.C. y F. c/ Santa Fe, Provincia de s/ acción declarativa de inconstitucionalidad,
+Fallos: 338:1110 (2015), de donde citamos o glosamos fragmentos de los considerandos 14 al 16.
+14
+  CSJN, Mendoza, Beatriz Silvia y otros c. Estado Nacional y otros, Fallos 331:1622 (2008), La Pampa, Provincia
+de c/ Mendoza, Provincia de s/uso de aguas, Fallos 340:1695 (2017)
+
+[[PDF p. 8]]
+Constitución aparecen varios casos que prevén (o presuponen) pautas específicas de
+“concurrencia”.
+        Así ocurre en materia ambiental (cfme. art. 41 CN: la Nación puede dictar las normas que
+contengan los presupuestos mínimos de protección, y las provincias, las necesarias para
+complementarlas), tributaria (donde se establece la potestad concurrente en contribuciones
+indirectas), educativa (Art. 75 inc. 19, CN “sancionar leyes de organización y de base de la
+educación que consoliden la unidad nacional respetando las particularidades provinciales y
+locales”), en la legislación protectora de las comunidades indígenas (art. 75 inc. 17 CN15) y en las
+cláusulas de la prosperidad y del desarrollo social del art. 75 incs. 18 y 19 CN.
+         Otro indicio revelador aparece desde 1994 en el 75 inc. 30 CN, en el que al mismo tiempo
+que se le reconoce al Congreso la potestad de establecer establecimientos de utilidad nacional, se
+advierte que las provincias y municipios “conservan sus poderes de policía e imposición sobre
+estos establecimientos” en tanto no interfieran en el cumplimiento de sus fines. Ello implica que a
+fortiori también tienen dichos poderes con una facultad inmanente, y documenta una pauta muy
+específica que nos terminará resultando familiar y muy funcional para interpretar el plexo federal:
+la no interferencia.
+        Debe aclararse que las facultades concurrentes no suponen necesariamente exclusión
+recíproca entre sí, pues cabe la posibilidad de que su ejercicio pueda conciliarse, coordinarse o
+complementarse. Por ejemplo, las cláusulas que surten la competencia del Congreso de la Nación
+(tanto la del comercio como las de la prosperidad y la del desarrollo –art. 75 incs. 13, 18 y 19
+respectivamente-) no implican una automática anulación de las regulaciones locales, ya que
+provincias y municipios pueden ejercer sus potestades propias en la medida en que no interfieran
+con la operatoria de una actividad comercial interprovincial o la prestación de un servicio público
+interjurisdiccional. (remitimos pues a nuestro comentario a los incs. 13 y 18 del art. 75 CN). Lo
+mismo ha dicho la Corte en relación al carácter concurrente de la materia sanitaria: “es una de
+aquellas que admite que una potestad legislativa nacional y una provincial puedan ejercerse
+conjunta y simultáneamente, sin que de esa circunstancia derive violación de principio o precepto
+jurídico alguno, siempre que ambas actúen respetando las limitaciones que la Ley Fundamental
+les impone”. 16
+       La concurrencia plantea la necesidad de encontrar paradigmas adecuados para hacer un
+administrado deslinde de los solapamientos competenciales entre nación y provincias, y a ello
+dedicaremos los dos acápites siguientes de este comentarios.
+       Antes de ello empero es necesario advertir sobre la conveniencia (tanto práctica como
+hermenéutica) de que los arreglos competenciales no se definan sistemáticamente en los tribunales
+–una opción esencialmente traumática, que incrementa los costos de transacción, y que genera
+
+15
+   Dice el art. 75 inc. 17. “Reconocer la preexistencia étnica y cultural de los pueblos indígenas argentinos. Garantizar
+el respeto a su identidad y el derecho a una educación bilingüe e intercultural; reconocer la personería Jurídica de sus
+comunidades, y la posesión y propiedad comunitarias de las tierras que tradicionalmente ocupan; y regular la entrega
+de otras aptas y suficientes para el desarrollo humano; ninguna de ellas será enajenable, transmisible ni susceptible de
+gravámenes o embargos. Asegurar su participación en la gestión referida a sus recursos naturales y a los demás
+intereses que los afecten. Las provincias pueden ejercer concurrentemente estas atribuciones” (el subrayado es
+nuestro).
+16
+  CSJN, Nobleza Piccardo S.A.I.C. y F. c/ Santa Fe, Provincia de s/ acción declarativa de inconstitucionalidad,
+Fallos: 338:1110 (2015), cons. 14.
+
+[[PDF p. 9]]
+escenarios proclives a las soluciones “de suma cero”- sino que se articulen concertadamente
+mediante sistemas coordinados, flexibles y participativos de regulación y aplicación de políticas
+públicas.
+        Además de esa alternativa de deslinde, podemos imaginar la fertilidad de una alternativa
+complementaria y coordinada. En este orden de ideas Cicero ha propuesto también repensar las
+cláusulas comercial y del progreso y del bienestar a la luz del artículo 42 C.N. –que prevé, en
+materia de servicios públicos, una participación provincial en los organismos de control- para
+adoptar “un patrón dinámico de relación federal en punto a los servicios públicos, de modo que la
+intervención local no quede relegada a aquellos espacios propios o inherentes a las provincias y
+que en general nunca les fueron desconocidos, sino que por el contrario crezca para alcanzar
+protagonismo tanto en el diseño regulatorio del régimen de los servicios interconectados, como en
+su ejecución y control”.17
+
+
+
+§ 5. La presunción de “concurrencia” y la primacía federal en caso de interferencia.
+
+
+        La concurrencia lleva de suyo la posibilidad de una colisión entre potestades provinciales
+y nacionales. Ante la necesidad de establecer una pauta de deslinde, el estándar fundacional de la
+jurisprudencia en la materia fue tempranamente enunciado por la Corte Suprema en el caso
+“Domingo Mendoza c. Provincia de San Luis” de 186518 . Allí dijo la Corte que “los actos de la
+Legislatura de una Provincia, no pueden ser invalidados, sino en aquellos casos en que
+           -   la Constitución concede al Congreso Nacional en términos expresos un exclusivo
+               poder, marcando la primera causal de invalidación: exclusividad expresa deferida a la
+               Nación.
+           -   o en los que el ejercicio de idénticos poderes ha sido expresamente prohibido a las
+               provincias; marcando la segunda causal de invalidación; exclusión expresa a las
+               provincias;
+           -   o cuando hay una directa y absoluta incompatibilidad en el ejercicio de ellos por éstas
+               últimas; fuera de cuyos casos –agrega la Corte “es incuestionable que las Provincias
+               retienen una autoridad concurrente con el Congreso”.
+
+
+       El criterio de “Domingo Mendoza c. Provincia de San Luis” de 1865 ha sido mantenido
+en diversas fórmulas en numerosísimos fallos que llegan hasta hoy.19
+
+
+17
+     CICERO, Nidia Karina, Servicios públicos y federalismo, Eudeba, Buenos Aires, 2013, pp. 179-180.
+18
+     CSJN, Domingo Mendoza y otro c. Provincia de San Luis, Fallos 3:131 (1865), considerando 2º.
+19
+   A título de ejemplo podemos mencionar: Griet Hermanos contra Provincia de Tucumán, Fallos 137:212 (1922),
+S.A. Mataldi Simón Limitada c/ Provincia de Buenos Aires, Fallos 149:260 (1927), Abbott Laboratories S.A. y otros
+c/ Provincia de Buenos Aires, Fallos 317:473, (1994), Telefónica de Argentina c/ Municipalidad de Chascomús, Fallos
+
+[[PDF p. 10]]
+         Nótese que
+        -    no se trata de una compatibilidad hipotética, en abstracto o eventual, sino efectiva.
+        -    que el carácter absoluto requerido para la incompatibilidad no se mantiene como nota
+             uniforme en la jurisprudencia, existiendo otros criterios que traducen la
+             incompatibilidad en términos de “ineficacia”, lo que implica una evaluación más
+             propensa a darla por configurada y con el efecto de invalidación de la legislación local.
+             En virtud de ello se reputa implícitamente prohibido a las provincias el ejercicio de una
+             competencia que obstaculice o haga ineficaz el desenvolvimiento de una competencia
+             del Gobierno Federal20.
+        -    la incompatibilidad no requiere una efectiva contradicción normativa, sino que aparece
+             también ante un conflicto funcional o teleológico entre las normas en cuestión.
+        -    como consecuencia necesaria de la presunción de concurrencia, la demostración de la
+             incompatibilidad, en todo caso, es carga probatoria de quien pretenda su invalidación.
+        -    esa interferencia puede devenir tanto de una disposición que directamente contradiga a
+             una norma federal en su texto mismo, como de casos en donde la incompatibilidad se
+             derive de los efectos de la normativa.
+
+
+         Nos interesará aquí glosar un criterio de orden general que adopta el tribunal en el caso
+“Boto” de 1997 en relación a la configuración de interferencia local sobre legislación nacional
+(fallo al que nos referimos en el comentario al art. 75 inc. 18 CN, en el que la Corte que invalida
+una ley bonaerense que establecía un salario mínimo para los médicos que trabajan en relación de
+dependencia). 21
+         Allí se glosa la jurisprudencia norteamericana de Pacific Gas & Electric de 198322, que
+nuestra Corte hace suya. La doctrina, contenida en el sustancial considerando 13 de “Boto”, consta
+de varias premisas que analizaremos por separado, marcando en orden sucesivo; (i) la deferencia
+a la intención expresa del Congreso de afirmar su exclusividad en la materia, (ii) la posibilidad de
+
+
+
+320:619 (1997); Operadora de Estaciones de Servicio S.A. c/ Municipalidad de Avellaneda, Fallos 321:1052 (1998),
+Edenor c/ Municipalidad de Gral Rodríguez, Fallos 322:2331 (1999); Edesur S.A. c/ Provincia de Buenos Aires, Fallos
+322:2624 (1999); Adm. Nac. de Aduanas c/ Municipalidad de Bahía Blanca, Fallos 324:933 (2001); Gas Natural Ban
+S.A. c/ Municipalidad de Campana (Pcia. de Buenos Aires), Fallos 326:2653 (2003); Filcrosa S.A. s/ quiebra s/
+incidente de verificación de Municipalidad de Avellaneda, Fallos: 326:3899 (2003), Litoral Gas S.A. c/ Municipalidad
+Villa Constitución, Fallos 327:1416 (2004), Entre Rios, Provincia de c/ Estado Nacional, Fallos 331:1412 (2008);
+entre muchos otros.
+20
+  Línea jurisprudencial iniciada por la CSJN en Procurador fiscal de San Juan c/ prior Convento Santo Domingo,
+Fallos 10:380 (1898), y replicada en fallos como Ferrocarriles del Sud c/ Municip. de Juárez, Fallos 183:190 (1939)
+21
+  CSJN, Boto, Armando c/ Obra Social Conductores de Transporte Colectivo de Pasajeros, Fallos 320:786 (1997),
+cons. 13.
+22
+  Corte Suprema EE.UU., Pacific Gas & Electric v. State Energy Resources Conservation Commission, 461 U.S. 190
+[año 1983]).
+
+[[PDF p. 11]]
+su determinación implícita, con igual resultado y (iii) la prelación federal que igualmente juega
+como criterio subsidiario en caso de un “conflicto de hecho” con la normativa local.
+        Así tenemos que:
+        -   (i) “El Congreso puede dictar -siempre que actúe dentro de sus poderes
+            constitucionales- normas que prevalezcan sobre la normativa estadual, si el Congreso
+            indica esta intención en términos explícitos”. Este es el caso más “simple”, el de la
+            normativa que el Congreso adopta con expresa afirmación de que la misma habrá de
+            prevalecer sobre la normativa provincial.
+        -   (ii) “Cuando el Congreso no manifiesta de modo explícito dicha voluntad, la intención
+            del Congreso de prevalecer sobre la normativa estadual puede ser inferida de la
+            estructura de la normativa federal”. En el fallo se reconocen dos modos “indiciarios”
+            de determinar la vocación de exclusividad implícita del Congreso. Tal intención puede
+            ser inferida:
+                o (a) cuando “a raíz de su minuciosidad y extensión, puede hacer razonable
+                  pensar que el Congreso no ha dejado espacio a los estados para suplementar
+                  dicha normativa federal”, como
+                o (b) “porque el objetivo perseguido por dicha normativa federal, y el carácter
+                  de las obligaciones impuestas por ésta, puede revelar que el Congreso ha
+                  tenido la mencionada intención”.
+        -   (iii) Finalmente, aun en el supuesto de que el Congreso no haya completamente
+            desplazado el poder estadual de regular cierta materia, la normativa federal prevalece
+            sobre la estadual, si ésta (la normativa estadual) entra en conflicto, de hecho, con la
+            normativa federal. Este conflicto puede originarse
+                o si es empíricamente imposible cumplir, al mismo tiempo, con las obligaciones
+                  establecidas por la normativa federal y la estadual; o
+                o cuando las normas estaduales son, de hecho, un obstáculo para la ejecución de
+                  los propósitos y objetivos del Congreso. 23
+        Debe decirse que “Boto” ha establecido un amplio espectro de criterios que redundan todos
+ellos en establecer la primacía federal como un contrapeso de la presunción de concurrencia.
+
+
+
+
+§ 6. Principio de compatibilidad con el interés nacional: se permite el poder local que no
+condiciona, menoscaba o impide.
+
+
+
+
+23
+  CSJN, Boto, Armando c/ Obra Social Conductores de Transporte Colectivo de Pasajeros, Fallos 320:786 (1997),
+cons. 13.
+
+[[PDF p. 12]]
+       El carácter abierto de las pautas de deslinde y atribución competencial genera margen para
+solapamientos. Para minimizar su intervención nulificadora y no retacear a priori potestades a cada
+uno de los órdenes involucrados, la Corte ha ido adoptando un criterio según el cual ante la duda
+presume que los poderes son concurrentes.
+        Así la Corte razona que “la regla y no la excepción consiste en la existencia de
+jurisdicciones compartidas entre la Nación y las provincias” y postula con frecuencia una solución
+“compatibilizadora” cuando propicia que “las normas constitucionales que rigen el caso deben ser
+interpretadas de modo tal que se desenvuelvan armoniosamente evitando interferencias
+susceptibles de acrecentar los poderes del gobierno central en detrimento de las facultades
+provinciales y viceversa”.24
+        Al respecto, en la casuística concreta vemos registrada en la jurisprudencia otra forma de
+enunciación que no nos habla de interferencia sino de su reverso, la compatibilidad. En el caso
+Ambros-Palmeglani de 1986 se reconoce en el considerando 6º) que “la supresión de la
+jurisdicción provincial debe limitarse a los casos en que su ejercicio interfiera con la satisfacción
+del propósito de interés público que requiere el establecimiento nacional”, y de allí se avanza en
+el cons. 7º al criterio positivo: “el criterio para aceptar o excluir el ejercicio de poderes provinciales
+en lugares sometidos a la jurisdicción federal por interés nacional, es precisamente el de la
+compatibilidad con dicho interés”.
+        Allí la Corte reconoce que “el ejercicio de una facultad por la provincia en los enclaves de
+jurisdicción federal incide siempre en éstos”, de modo que la pauta no puede ser la simple
+incidencia, sino –dice- “su compatibilidad con lo afectado o inherente a esa utilidad nacional, o
+con las actividades normales que la utilidad nacional implique”.
+         De vuelta, empero, el test aparece también funcionando a contrario sensu: rescatando un
+voto de Pedro J. Frías de 1980,25 se concluye que hay tal compatibilidad siempre que la facultad
+provincial “no condiciona, menoscaba o impide el interés nacional”, fijando esa tríada de efectos
+censurados que “en cuanto disputan, en diverso grado, su primacía al interés nacional, indican que
+el ejercicio del poder provincial es incorrecto”. 26
+        Es importante observar una depuración conceptual. No se trata del “interés nacional” lato
+sensu, sino del interés específico del propósito al que sirve el establecimiento en cuestión, que es
+mas acotado. Tal es el principio que adopta el constituyente de 1994 en la redacción del art. 75
+inc. 30: la jurisdicción nacional queda limitada a la materia específica del establecimiento creado,
+sin afectar la potestad política de la provincia sobre el resto de la actividad cumplidas en el lugar
+cedido.
+
+
+
+
+24
+  CSJN, Bco. de la Prov. de Bs. Aires c/ Nación, Fallos 186:170 (1940); Hidronor S.A. Hidroeléctrica Norpatagónica
+c/ Provincia del Neuquén, Fallos 302:1461 (1980); Brizuela, Pablo César c/ S.A. Frigorífica Cía. Swift de La Plata,
+Fallos 296:43 (1976), Disco Sociedad Anónima c/ Gobierno de la Provincia de Mendoza s/ APA, Fallos 312:1437
+(1989), y muchos otros: la línea llega hasta fallos contemporáneos como Acuerdo para el Bicentenario c/ Provincia
+de Tucuman, Fallos 340:914 (2017).
+25
+     Su voto en CSJN, Vialco S.A. c/ Nación, Fallos: 301:1122 (1979).
+26
+     CSJN, Ambros-Palmeglani S.A. y Gennaro y Fernández S.A., Fallos 308:403 (1986)
+
+[[PDF p. 13]]
+§ 7. El “poder de policía” y su naturaleza “local” como poder reservado.
+
+
+       Es pertinente señalar el caso especial del llamado poder de policía (aludiendo con ello a la
+reglamentación o fijación de límites para el ejercicio de los derechos).
+        En la reforma de 1994 se aclaró que en la hipótesis de que el Congreso instituya
+establecimientos de utilidad nacional en el territorio de las provincia tanto éstas como los
+municipios “conservarán” sobre ellos sus “poderes de policía e imposición” (art. 75 inc. 30 CN).
+La condición a la que la Constitución supedita esa consecuencia es la de que estos se conservan
+“en tanto no interfieran en el cumplimiento de aquellos fines”. Esta expresión que destacamos fue
+introducida en la reforma constitucional de 1994 que en este punto incorporó el criterio
+jurisprudencial adoptado por la Corte en casos como “Municipalidad de Laprida c. UBA”27 y
+“Compañía Argentina de Teléfonos, S.A. c/ Provincia de Mendoza”..28
+        La categoría de “poderes de imposición”, que concierne a la posibilidad de cobrar tasas y
+tributos locales vigentes en el territorio, no resulta problemática ni merece mayor tratamiento aquí
+aunque viene a resolver un tema disputado en doctrina y jurisprudencia.
+       Fuera de ello, la norma citada ratifica la idea de que existe un poder de policía inmanente
+y eminentemente local. Ya en un viejo fallo, “Plaza de Toros” de 1870, la Corte Suprema reconocía
+como uno de los poderes que las provincias se han reservado “el de proveer lo conveniente a la
+seguridad, salubridad y moralidad de sus vecinos”.29
+       Ese poder -que también tienen los municipios en la medida en que se ejercite sobre el
+marco de sus competencias- es el que concierne al concepto “estricto” del poder de policía, por
+oposición al concepto “amplio” donde los derechos se limitan en orden al “bien común” entendido
+como el bien común de la Nación y que tiene –en cambio- una presunción de federalidad.
+       Con todo lo problemático y aproximativo de esta distinción, el criterio se mantiene como
+un patrón recurrente al momento de establecer pautas de distribución de competencias entre el
+Estado federal y las provincias.
+
+
+
+
+27
+   CSJN, Municipalidad de Laprida c. Universidad de Buenos Aires, Facultad de Medicina e Ingeniería; Fallos
+308:647 (1986). Allí, la Corte dijo en el cons 10º: “la legislación propia del Congreso Federal, en los lugares adquiridos
+en las provincias para establecimientos de utilidad nacional, no autoriza a concluir que se pretende federalizar esos
+territorios en medida tal que la Nación atraiga toda potestad de manera exclusiva y excluyente; la supresión de la
+jurisdicción provincial debe limitarse a los casos en que su ejercicio interfiera con la satisfacción del propósito de
+interés público que requiere el establecímiento nacional”.
+28
+   CSJN, Compañía Argentina de Teléfonos, S.A. c/ Provincia de Mendoza, Fallos 257:159 (1963). Dijo la Corte que
+el Congreso Nacional puede, en ejercicio de sus facultades constitucionales, legislar aspectos de las actividades
+interiores de las Provincias susceptibles de menoscabar u obstruir el comercio interprovincial y exterior, o perturbar
+el bienestar general en el orden nacional. “Tales atribuciones no excluyen necesariamente la subsistencia de poderes
+locales, compatibles con aquéllas, en la medida que no interfieran los fines que sustentan la jurisdicción nacional. Con
+esta reserva, no hay óbice para la subsistencia del poder local de policía, de las atribuciones impositivas y de los
+derechos de orden patrimonial contractual, en beneficio del Estado y de sus oficinas, en el ámbito local”.
+29
+     CSJN, Empresa ‘Plaza de Toros’ c/ Gobierno de Buenos Aires, Fallos 7:150 (1869).
+
+[[PDF p. 14]]
+§ 8. Las “leyes convenio” y la adhesión local a leyes nacionales.
+
+
+         Lo dicho en el punto anterior tiene su concreción efectiva en este tema. Estos casos
+conforman una parte cuantitativa y cualitativamente muy importante del derecho público
+provincial y son el medio técnico por el cual se generan áreas de derecho común en sentido
+impropio pues entrañan regulación de áreas donde las provincias tendrían potestades “reservadas”
+para si.
+        En el caso de la “adhesión”, la Provincia adhiere a una ley nacional asumiéndola como
+propia. La adhesión puede ser total o pueden hacerse “reservas” parciales sobre diferentes
+artículos. Como ejemplos de leyes que fueron ganando vigencia nacional a través de adhesiones
+locales tenemos la Ley de Tránsito 24.449 y la ley de Adopción 25.854. En estos y otros casos el
+Congreso de hecho incluye una previsión expresa por la cual “se invita a las provincias a adherir”,
+lo que es un reconocimiento de que sin esa adhesión las mismas no tendrían vigencia a nivel local.
+En algunos casos, como el de la Ley 24.464 que establece el Sistema Nacional de la Vivienda, la
+ley Nacional establece algunas condiciones específicas para la adhesión.
+        Es importante aclarar que del hecho de que se trabaja sobre un poder conservado por la
+provincia se siguen varias consecuencias: a) la adhesión a la ley no implica la adhesión a un
+reglamento del Poder Ejecutivo, salvo que se especifique ello expresamente; b) la adhesión no
+impide que la provincia incorpore nuevas reservas o sancione una nueva normativa propia para
+fijar un régimen diferente; c) si la ley nacional a la que se adhirió tiene modificaciones, para que
+esas nuevas normas rijan a nivel local deberá haber nuevas adhesiones que adopten y ratifiquen
+esos cambios (de lo contrario, la provincia en cuestión habrá hecho una inconstitucional delegación
+de poderes específicos a la Nación).
+        Distinto es el sistema de “leyes convenio” en el que ya no existe un paradigma de
+subordinación, sino un tipo de acuerdos que –conforme a la caracterización que ha dado alguna
+vez la Corte- “constituyen manifestaciones positivas del llamado federalismo de concertación,
+inspirado en la búsqueda de un régimen concurrente en el cual las potestades provinciales y
+nacionales se unan en el objetivo superior de lograr una política uniforme en beneficio de los
+intereses del Estado Nacional y de las provincias”30.
+        Vemos materializado ello -ya como exigencia constitucional- para la adopción del sistema
+de coparticipación de impuestos (así fue implementado en la ley está plasmado en la ley 23.548 y
+de hecho, la Constitución prevé que el establecimiento de un nuevo sistema siga el procedimiento
+de ley convenio en el art. 75 inc. 2 C.N., con la pauta específica de que se reclama unanimidad de
+todas las provincias).
+        Estos pactos fiscales, ha dicho la Corte así como las demás creaciones legales del
+federalismo de concertación, “configuran el derecho intrafederal y se incorporan una vez
+ratificados por las legislaturas al derecho público interno de cada Estado provincial, aunque con la
+diversa jerarquía que les otorga su condición de ser expresión de la voluntad común de los órganos
+superiores de nuestra organización constitucional: nación y provincias. Esa gestación institucional
+los ubica con un rango normativo específico dentro del derecho federal. Prueba de su categoría
+
+
+30
+  CSJN. El Cóndor Empresa de Transportes S.A. c/ Buenos Aires, Provincia de s/ acción declarativa, Fallos 324:4226
+(2001)
+
+[[PDF p. 15]]
+singular es que no es posible su derogación unilateral por cualquiera de las partes”. Esa afirmación
+constituye el holding que adoptó la Corte en 2015 al resolver la demanda que contra la Nación
+habían entablado varias provincias por modificaciones en el régimen de coparticipación, en el
+mismo fallo donde destacó que “la esencia misma del derecho intrafederal impone concluir que
+las leyes-convenio y los pactos que lo componen no se encuentran en una esfera de disponibilidad
+individual de las partes, y solo pueden ser modificados o renovados por otro acuerdo posterior de
+la misma naturaleza, debidamente ratificado por leyes emanadas de las jurisdicciones
+intervinientes”.31
+
+
+§ 9. Poderes reservados en “pactos especiales” al tiempo de su incorporación.
+
+
+       En el art. 121 CN vemos que, aparte de “todo el poder no delegado por esta Constitución
+al Gobierno federal”, y las provincias conservan todos los que “expresamente se hayan reservado
+por pactos especiales al tiempo de su incorporación”. La frase tiene un sentido retrospectivo claro,
+no cabe duda de que se está haciendo mención al Pacto de San José de Flores de 1859 del que
+derivó la incorporación de la Provincia de Buenos Aires –hasta entonces disidente- a la
+Confederación Argentina, previa revisión constitucional.
+        Esta cláusula tiene un campo limitado de aplicación práctico actual, derivado del art. 7º del
+pacto por el cual “Todas las propiedades del Estado [de Buenos Aires] que le dan sus leyes
+particulares, como sus establecimientos públicos, de cualquier clase y género que sean, seguirán
+correspondiendo a la provincia de Buenos Aires, y serán gobernados y legislados por la autoridad
+de la provincia”. Varios casos se han derivado de ello en relación al Banco de la Provincia de
+Buenos Aires, ya que en su Carta orgánica el Estado local homónimo declaró al Banco y a sus
+bienes, actos, contratos y operaciones como “exentos de todo gravamen, impuesto, carga o
+contribución de cualquier naturaleza”. A partir de esa auto-exención, el art. 121 in fine CN fue la
+clave en sendos pronunciamientos, entre los cuales destacamos los relativamente recientes de 2007
+y 2013 en los que la Corte reconoció la inmunidad fiscal de la entidad ante planteos tributarios del
+Fisco Nacional.32 Cabe acotar que también en un pronunciamiento de 2014 la Corte aclaró que
+estos establecimientos provinciales no estaban exentos, por cierto, de las reglas del derecho común
+(y consecuentemente, validó las multas impuestas al Banco de la Provincia de Buenos Aires en
+virtud de las infracciones cometidas a las leyes consumeriles 24.240 y 25.065)33
+        En la doctrina se ha pensado en la posibilidad de que la cláusula no se limite a esa
+aplicación retrospectiva del Pacto de San José de Flores, asumiendo que mantiene a futuro un
+interés potencial en tanto permite que nuevas provincias se incorporen a la unión federal
+
+31
+  CSJN, Provincia de Santa Fe c. Estado Nacional s/ acción declarativa de inconstitucionalidad, Fallos 338:1389
+(2015).
+32
+  CSJN, “Banco de la Provincia de Buenos Aires c. Dirección General Impositiva”, Fallos 330:4988 (2007) y “Banco
+de la Provincia de Buenos Aires c. Estado Nacional- Ministerio de Economía”, Fallos 336:539 (2013), relacionados
+con el Impuesto al valor agregado y las tasas de justicia respectivamente. En otros precedentes podemos encontrar
+criterio similar en CSJN, “Banco Provincia de Buenos Aires”, Fallos, 186:170; id., “Asociación Bancaria”, Fallos,
+276:432; “Richardi”, Fallos, 301:1010.; entre muchos otros.
+33
+     CSJN, “Banco de la Provincia de Buenos Aires c. DNCI -Disp. 622/05 (exp. 29.184/02)”, Fallos: 337:205 (2014)
+
+[[PDF p. 16]]
+reservándose algunos derechos especiales (y, al respecto, se ha sugerido esa vía como de
+contingente aplicabilidad en un escenario donde se incorpore a la República el territorio de las
+Islas Malvinas, con garantías de binacionalidad o doble idioma, etc.).34
+
+
+
+
+§ 10. Poderes de las provincias incorporadas luego de la sanción de la Constitución de 1853.
+
+
+        El constituyente de 1853-60 aceptó en el artículo 13 CN la posibilidad de admisión de
+nuevas provincias. Ni en esa norma, ni en esta, aparecen condiciones que supongan poderes
+diferenciales o criterios de capitis diminutio para las provincias “nuevas”, de modo que cabe
+asumir que las mismas tienen –salvo en lo “que se hayan reservado por pactos especiales al tiempo
+de su incorporación”- derechos iguales a las existentes al momento de sancionar la Constitución
+Nacional.
+         Esta afirmación –simple inferencia hermenéutica- nos lleva a la misma conclusión que la
+interpretación jurisprudencial desarrollada por la Corte Suprema de los Estados Unidos y adoptada
+también por nuestra Corte. Se trata de la doctrina del “equal footing” por la cual las provincias
+nuevas se incorporan en un pie de igualdad, adoptada en el caso de “La Pampa c. Provincia de
+Mendoza”, y utilizada también en “Total Austral S.A. c/ Tierra del Fuego” para afirmar la idea en
+su otra faceta: la de que una incorporación de una “nueva” provincia no podía redundar en perjuicio
+de las provincias preexistentes. 35
+
+
+§ 11. Aclaración terminológica: los “poderes compartidos”.
+
+
+        En la doctrina se suele utilizar la terminología de poderes compartidos, que se diferencia
+claramente de los concurrentes. En las competencias “compartidas” así definidos se trata de
+poderes que para activarse requieren el pronunciamiento integratorio de ambos órdenes de
+gobierno, el federal y el Nacional. Los ejemplos apuntados históricamente eran la fijación de sede
+de Capital Federal y la creación de nuevas provincias en el territorio de otra, la fijación de límites
+interprovinciales, al que podríamos agregar, luego de la reforma constitucional de 1994, la
+
+34
+  Cf. SAGÜES, Nestor Pedro, Derecho constitucional. 2 Estatuto del poder, Astrea, 2017, pp. 500-502. BIDART
+CAMPOS, Tratado elemental de derecho constitucional argentino, Ediar, t. I-A, p. 657. QUIROGA LAVIÉ, Humberto,
+Constitución de la Nación Argentina Comentada, 4ª ed., Zavalía, 2003, p. 750.
+35
+   CSJN, Prov. La Pampa c/Prov. de Mendoza, Fallos, 310:2527 a 2578 (1987), que declaró no vinculante para la
+Provincia de La Pampa el acuerdo entre la Nación y Mendoza, sobre el río interprovincial Atuel, suscripto cuando La
+Pampa era territorio nacional; Total Austral S.A. c/ Tierra del Fuego, Antártida e Islas del Atlántico Sur, Provincia
+de s/ acción declarativa. Fallos 326:3368 (2003), fallo que declara “inconstitucional el art. 81 de la Constitución de
+la Provincia de Tierra del Fuego, en cuanto extiende la jurisdicción provincial en materia de explotación económica
+hasta donde la República Argentina ejerce su jurisdicción, pues es evidente el exceso en que incurre al pretender
+avanzar de manera indebida sobre atribuciones que le son adjudicadas exclusivamente al gobierno federal y, a la vez,
+prohibidas a las provincias (art. 75, inc. 15, y art. 126 de la Ley Fundamental)”.
+
+[[PDF p. 17]]
+normativa sobre coparticipación de impuestos federales. En todos estos casos, la cuestión debe ser
+votada por el Congreso y aceptada por la Legislatura de las Provincias involucradas.

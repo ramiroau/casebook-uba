@@ -1,0 +1,29 @@
+# alegre2020 (U14): llamadas de nota pegadas a un signo de puntuación
+# (MARCA_DE_NOTA sólo las quita detrás de letra, paréntesis o comilla recta)
+(?<=partidos políticos\.)2(?=\s*$)
+(?<=ordinario\.)3(?= Sea cual sea)
+(?<=responsabilidad institucional\.)4(?=\s*$)
+(?<=extendía, poderes delegados al presidente\.)5(?= Y, segundo)
+(?<=respecto de dos decretos\)\.)6(?= Se analizó)
+(?<=para la sanción de las leyes\.)7(?= Como sugirió)
+(?<=quien la estaba haciendo\.)8(?=\s*$)
+(?<=sujeto al control judicial”)9(?=, y)
+(?<=bases de delegación del Congreso\.)12(?=\s*$)
+(?<=equidad y necesidad\.)10(?= Ello es)
+(?<=es la estricta prohibición)11(?= –del)
+(?<=definido por el art\.\n23)13(?=\. En tales casos)
+(?<=memoria colectiva en la materia\.)14(?= A la luz)
+(?<=mecanismos de emergencia que aparecen a su alcance\.)15(?=\s*$)
+(?<=derechos o bienes de terceros”\.)16(?=\s*$)
+(?<=ese daño debe ser sustancial”\.)17(?=\s*$)
+(?<=cuando no la\nhay”\.)18(?=\s*$)
+(?<=riesgo significativo de\ncontagio\.)19(?= Este es el caso)
+(?<=puede ser muy bajo\)\.)20(?= Este consenso)
+(?<=Ministro de Salud de la\nNación\.)21(?= En otras palabras)
+(?<=la interferencia con ella\.”)22(?= En este caso)
+# PDF p. 7: continuación de la nota 15 (empezada en p. 6) en el pie, sin número propio;
+# el corte de notas (primer renglón con sólo un número) la dejaría dentro del cuerpo
+^estándar fue subrayado, de manera particular, por la Corte Interamericana[\s\S]*?párr\.41\)\.\s*$
+# PDF p. 9: «-que casualmente … demostrarlo- son» partido a fin de renglón tras la raya de cierre;
+# sin este patrón el script une «demostrarloson». Queda «demostrarlo-son» (falta el espacio del impreso)
+(?<=parecen demostrarlo-)\n(?=son quienes)

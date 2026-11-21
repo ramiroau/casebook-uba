@@ -1,0 +1,1278 @@
+# fuente: Unidad5/4_Gargarella_El derecho como una conversación (cap. interpretacion, extracto).pdf
+# md5_original: 12bf7ec54ab7118f87d3faa7ec629757
+# modo: ocr
+# via: ocr
+# modo_ocrmypdf: nuevo
+# motor: ocrmypdf + tesseract spa (300 dpi)
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+          14. Interpretación constitucional:
+          cuando se abre la brecha intepretativa
+
+
+
+
+          Para tornar comprensible el tipo y la gravedad de problemas
+a los que nos enfrentamos cuando hablamos de interpretación constitu-
+cional, comencemos con un ejemplo. Imaginemos que estamos ante un
+tribunal superior que funciona respetablemente, al estilo de la venerada
+y muy discutida Corte Suprema de los Estados Unidos, de nueve miem-
+bros. Ese tribunal es la máxima instancia interpretativa del país; damos
+por sentado que, dentro de la comunidad, hay pocas personas tan capa-
+citadas en el conocimiento jurídico como los miembros de esa corte. Se
+trata de jueces en su mayoría estudiosos, bien preparados, que cuentan
+con un fantástico equipo de colaboradores y secretarios: los graduados
+en Derecho más destacados de todo el país les ofrecen su asistencia técni-
+ca. Forman un excelente conjunto de expertos en cuanto a sus destrezas
+y conocimientos.
+  Veamos ahora los resultados, reflejados en las decisiones del tribunal.
+Examinemos las últimas cuatro (daré ejemplos inventados, para tornar
+más visible lo expuesto): en una de ellas, sobre el matrimonio igualita-
+rio, el fallo fue unánime, y los nueve jueces votaron juntos a favor en el
+fallo. En los demás casos, como suele ser la regla, las decisiones resul-
+taron divididas. En una sobre el derecho a portar armas, la mayoría se
+impuso por seis a tres; en la siguiente, sobre los impuestos a las compa-
+ñías telefónicas, se dio un siete a dos; en la tercera, sobre el aborto, la
+más dividida de todas, el resultado fue de cinco contra cuatro. “¡Qué
+bien!” —podemos decir—. “¡Se trata de un tribunal reflexivo, con mayorías
+fluidas, cambiantes!”.
+  Pensemos ahora sobre lo ocurrido. ¿Qué significan esas mayorías cam-
+biantes? El hecho de que un tribunal colegiado llegue regularmente a
+decisiones fragmentadas no habla solo de un carácter reflexivo e impar-
+cial: implica y delata, sobre todo, que aun en la máxima instancia inter-
+pretativa del país, entre los equipos jurídicos técnicamente mejor prepa-
+rados, entre quienes más han estudiado el significado del derecho, los
+desacuerdos sobre cómo interpretar ese derecho son radicales y cotidianos. Mucho
+
+[[PDF p. 2]]
+212   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+más que eso, y mucho peor que eso: ejemplos como los referidos señalan
+que, en el máximo nivel interpretativo del país, y de cara a los temas más
+importantes de todos (aborto, matrimonio igualitario, impuestos), cinco
+de los miembros del tribunal (o seis, o dos) piensan de una manera so-
+bre el significado último del derecho, mientras que los restantes cuatro
+(o tres, o siete) opinan que el derecho vigente dice justo lo contrario.
+Día a día nos encontramos con esta situación alarmante.
+  Para dimensionar adecuadamente el panorama descripto, conviene
+agregar lo siguiente. La primera promesa del estado de derecho es ofre-
+cer un trato igualitario (Allan, 2016; Dyzenhaus y Thorburn, eds., 2016).
+El marco legal nos asegura: “No importa quién eres, cómo te llamas, cuál
+es tu raza o tu sexo o tu etnia. El derecho va a tratarte como un igual.
+
+Las normas son iguales para todos. Esta es la diferencia entre un estado
+de derecho y un sistema autoritario, ese entorno violento en el que tu
+destino depende de la voluntad discrecional del que decide”, lo cual le
+proporciona la legitimidad que reclama. Ejemplos como los anteriores,
+sin embargo, ponen en cuestión esa promesa respecto de tratarnos como
+iguales, de no tratarnos de modo discrecional, y sugieren que nuestra
+suerte depende de quiénes sean los miembros del tribunal. Si, por ejem-
+plo, me juzgan por consumo de estupefacientes, mi suerte final -mi vida
+en algunos casos, mis derechos, mi libertad- dependerá enteramente no
+de lo que dice el derecho vigente en mi comunidad, sino de la lectura que
+los intérpretes del derecho hagan (¿el derecho constitucional a la priva-
+cidad implica la plena protección del consumo personal, como conducta
+privada y protegida, o permite que se me persiga por aquello que pen-
+sé que me autorizaba»). Lamentablemente, luego de más de doscientos
+años de reflexión acerca de las teorías interpretativas, nos encontramos
+muy lejos (tan lejos como en un comienzo) de alcanzar acuerdos básicos
+en la materia.
+
+
+
+
+LO QUE NO ES INTERPRETAR
+
+
+
+Como sabemos, la capacidad (autoasignada) de los jueces para invalidar
+las leyes contrarias a la Constitución les confiere un poder extraordina-
+rio. Ahora bien, esa capacidad y ese poder enorme resultarían irrepro-
+chables si 1) la tarea que llevan a cabo (interpretar el derecho y deter-
+minar si las leyes cuestionadas son compatibles con la Constitución o no
+acordes con ella y, por lo tanto, inválidas) fuera una tarea sencilla y ob-
+
+[[PDF p. 3]]
+                                   INTERPRETACIÓN CONSTITUCIONAL 21 3
+
+
+
+via, o bien 2) si contáramos con maneras de interpretar la Constitución
+compartidas por todos, una fórmula interpretativa indiscutida. Vimos ya
+que el derecho no es claro, sino impreciso, ambiguo, lleno de lagunas; la
+Constitución no es transparente, etc. Este tipo de problemas son propios
+del lenguaje natural: aparecen cuando leemos un libro, buscamos enten-
+der una novela, escuchamos un discurso o vamos al cine. Nuestra habla
+y nuestra escritura están plagadas de ambigúedades e imprecisiones, ya
+sea que pensemos en un texto jurídico o en uno escrito por Borges o
+Cervantes; mucho más en el caso de las constituciones, que aluden a va-
+lores y principios tan generales como vida, libertad, igualdad, dignidad.
+   Nos queda entonces hacernos otras preguntas: ¿para interpretar la
+Constitución existen fórmulas compartidas? ¿Existen teorías jurídicas
+específicas que nos permiten saber cómo interpretar al derecho, cómo
+leer bien y de modo indubitable la ley de leyes? Si la respuesta fuera
+afirmativa, quedaríamos ante la puerta de salida del problema: solo sería
+cuestión de estudiar y trabajar más. Lamentablemente, este no es el caso.
+  Ante todo, y como ya podemos entrever, la tarea no es comparable a
+la de resolver problemas matemáticos. Si así fuera, bastaría con exigir
+de nuestros jueces que hicieran bien su trabajo: obtener las habilidades
+requeridas sería suficiente para llegar al resultado correcto. En ese caso,
+asumiríamos que solo hay un resultado correcto, y que cualquiera puede
+conseguirlo: solo se requiere ser muy inteligente, conocer toda la infor-
+mación disponible o haber estudiado todo lo necesario. Sin embargo, el
+derecho no es una ciencia exacta; por el contrario, involucra una canti-
+dad de compromisos valorativos (con ideales como los ya mencionados
+de justicia, libertad, igualdad, dignidad, etc.) sobre los que disentimos
+hoy y seguiremos haciéndolo. Interpretar de la manera correcta el dere-
+cho no es algo que se logre con solo estudiarlo (el extraordinario jurista
+Ronald Dworkin trabajó buena parte de su vida con la idea de que todos
+los casos difíciles tienen apenas una respuesta correcta, pero solo como
+hipótesis de trabajo: en sus escritos, únicamente un juez fabuloso —al cual
+llamaba “Hércules”— era capaz de cumplir esa hazaña).
+   La tarea de interpretar el derecho tampoco es comparable con la del
+traductor público. Para traducir textos o discursos —supongamos, verter
+al castellano un discurso del noruego o del ruso— también podríamos
+decir, en un sentido relevante, que cuanto más nos preparamos y estu-
+diamos, mayores posibilidades tenemos de hacerlo bien. Si trabajamos
+lo suficiente, estudiamos variantes, tratamos con los locales, nos empa-
+pamos de su jerga, lo haremos todavía mejor. Luego alguien podrá decir
+que la traducción es más o menos perfecta, podremos disentir acerca
+
+[[PDF p. 4]]
+214   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+
+de cuál es la mejor versión de tal o cual término concreto, pero en todo
+lo fundamental habrá un acuerdo. Si la tarea de interpretar el derecho
+fuera similar a la de traducir idiomas, solo necesitaríamos designar a los
+jueces más inteligentes y que más han estudiado.
+  Sin embargo, el derecho vuelve a desilusionarnos. Dos expertos pue-
+den ser muy inteligentes, haber estudiado toda su vida y, pese a todo,
+llegar a dos respuestas diferentes sobre lo que expresa el derecho en un
+caso concreto. Incluso pueden llegar a conclusiones directamente antité-
+ticas. Y esto es lo que ocurre todos los días, todo el tiempo, por ejemplo
+en el cinco a cuatro o en el seis a tres de un fallo colectivo.
+
+
+
+
+TEORÍAS INTERPRETATIVAS DIFERENTES
+
+
+Hasta aquí, la cuestión versa sobre los profundos desacuerdos que nos se-
+paran en cuanto a cómo leer el derecho y, más específicamente, sobre
+
+cómo leer los compromisos valorativos fundamentales del derecho que
+asume cualquier ordenamiento jurídico frente a los casos concretos. Este
+tipo de problemas graves dejarían de serlo si contáramos con teorías inter-
+pretativas compartidas, gracias a las cuales pudiéramos solucionar o poner
+fin a nuestros disensos. En cambio, tenemos a disposición (por tanto, los
+Jueces pueden emplearlas) teorías interpretativas bien fundadas para to-
+dos los gustos, incluso algunas que apuntan hacia lugares opuestos.
+  En efecto, luego de más de doscientos años de estudio en torno a
+cuestiones de interpretación constitucional, no nos hemos acercado
+siquiera a la solución del problema. Además, en los últimos tiempos
+los trabajos se han sofisticado mucho, pero esto no ha permitido am-
+pliar los márgenes de los acuerdos. Podemos acordar sobre el punto de
+partida: todos reconocemos que lo primero para entender y dilucidar
+un texto es leerlo. Debemos leer los textos de las normas y evaluar si
+nos basta con ello. En los casos comunes, cotidianos, las coincidencias
+tienden a terminarse inmediatamente después de leerlos; enseguida
+aparecen dudas legítimas, desacuerdos razonables. La pregunta, enton-
+ces, es: ¿cómo deben resolver esos desacuerdos sobre el derecho, esos
+desacuerdos interpretativos?                   l
+  Como obvio resultado de lo anterior, encontramos una enorme va-
+riedad de respuestas: hay teorías que nos sugieren responder una cosa
+y otras que nos aconsejan lo contrario. Enumero aquí solo algunas, a
+modo ilustrativo. Para tomar un caso real, imaginemos que está en juego
+
+[[PDF p. 5]]
+                                   INTERPRETACIÓN CONSTITUCIONAL 2 15
+
+
+
+cómo interpretar el significado del respeto que la Constitución ofrece a
+la vida privada respecto de un Estado que quiere criminalizar las relacio-
+nes íntimas entre personas del mismo sexo. Hoy contamos con teorías
+como las siguientes.
+
+
+
+
+INTENCIONES /VOLUNTAD ORIGINAL (ORIGINALISMO)
+Algunas teorías pueden pedir que prestemos atención a las intenciones
+de quienes escribieron las normas (por ejemplo, un juez podría decir:
+“En una carta de Alberdi —el ideólogo de la Constitución argentina— a
+Sarmiento, dejó en claro que consideraba a la homosexualidad como un
+acto puramente privado”). De modo similar (aunque en absoluto idénti-
+co al caso anterior), existen criterios que piden resolver los desacuerdos
+interpretativos teniendo en cuenta el pensamiento expresado por los
+autores de la Constitución, o bien tratando de reconstruir contrafáctica-
+mente lo que ellos habrían afirmado en esa misma situación; por ejem-
+plo, qué dijeron los convencionales que redactaron el texto durante los
+debates constituyentes; o, ya decididamente en el plano contrafáctico, a
+qué conclusión habrían llegado, si se les hubiera presentado este caso, a
+la luz de lo que ellos opinaron frente a casos análogos.
+
+
+
+
+SIGNIFICADO ORIGINAL
+
+Otros pueden sugerirnos, en cambio, que interpretemos el término
+en cuestión (“privacidad”, por ejemplo) conforme al significado que
+se le asignaba en el momento en que fue escrito e incorporado a         la
+Constitución (por ejemplo, cómo se entendía la idea de moral privada
+en 1853, año de sanción de la Constitución argentina). El juez estadouni-
+dense Antonin Scalia sostenía esta visión, que denominó del “significado
+público originario” (original public meaning): “Tomo las palabras tal como
+fueron promulgadas por el pueblo de los Estados Unidos, y en el sentido
+en que imparcialmente se entienden dichas palabras”.
+
+
+
+
+EL TEXTO SEGÚN UN CONSTITUCIONALISMO
+
+VIVO (LIVING CONSTITUTIONALISM) -
+Algunos consideran que la Constitución no puede quedar anclada en
+el pasado y que, por tanto, su significado debe actualizarse conforme a
+lo que la comunidad piensa al respecto. Desde esta perspectiva, su texto
+debe mantenerse vigente por cuanto permanece vivo.
+
+[[PDF p. 6]]
+216 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+TRADICIONES
+
+Para algunos juristas, la forma de resolver los desacuerdos interpretativos
+requiere prestar atención a las tradiciones y prácticas jurídicas dominan-
+tes dentro de la sociedad de que se trate. Carlos Rosenkrantz, presiden-
+te de la Corte argentina en 2019, propuso en más de una oportunidad
+seguir este camino en primera instancia ante los desacuerdos en casos
+difíciles. En efecto, poco después de asumir la presidencia del tribunal,
+afirmó que el texto de la ley debía desempeñar un papel primordial en
+la interpretación del derecho, y que lo sostenido por ese texto solo podía
+ser “expandido o contraído conforme al modo en que la comunidad en-
+tendió las reglas a lo largo de la historia, y los cánones que creó a lo largo
+del tiempo” (discurso del 9 de octubre de 2018).
+
+
+
+
+EL PENSAMIENTO MAYORITARIO
+
+De un modo similar al anterior, alguien podría decir que, para resolver
+las dudas profundas que determinado texto jurídico nos genera, debe-
+mos tener en cuenta cuál es el pensamiento actual, mayoritario, demo-
+crático, sobre la materia; por ejemplo, qué sostuvo en su plataforma el
+partido que se encuentra en el gobierno, sobre los derechos de los ho-
+mosexuales; o qué piensa hoy la mayoría del país sobre esos derechos.
+
+
+
+
+INTERPRETACIÓN SISTEMÁTICA
+Para otros, las dudas que puede suscitarnos un término de la Constitución
+deben resolverse, en primer lugar, con un intento por comprender el sen-
+tido completo de su texto, por caso, al comparar la letra del artículo citado
+con la de otros artículos o derechos involucrados; así también, entre otros
+ejemplos posibles, qué dice sobre la privacidad una Constitución que, al
+mismo tiempo, ofrece una protección muy fuerte de las libertades de ex-
+presión, de asociación, de pensamiento, etc. Las distintas partes de la Carta
+Magna deben interpretarse armónica, comprehensiva, sistemáticamente.
+
+
+
+
+INTERPRETACIÓN TELEOLÓGICA
+Una sugerencia alternativa nos invita ya no a mirar al pasado ni a deter-
+minar lo que podría decirse desde el presente, sino a concentrarnos en
+los fines, en los objetivos que la Constitución se ha planteado; por ejem-
+plo, qué pueden decirnos sobre la materia que discutimos los propósitos
+enunciados en su preámbulo.
+
+[[PDF p. 7]]
+                                    INTERPRETACIÓN CONSTITUCIONAL 21 7
+
+
+
+DERECHO COMPARADO/LA DOCTRINA PREVALECIENTE
+Otro punto de vista sugiere que resolvamos nuestros desacuerdos inter-
+pretativos teniendo en cuenta lo que ha dicho sobre casos similares la
+Jurisprudencia comparada o la doctrina dominante en la materia; por
+ejemplo, “de acuerdo con el Tribunal Europeo de Derechos Humanos,
+los homosexuales tienen derecho a ser respetados como iguales, en
+cuanto a sus preferencias más personales”.
+
+
+
+
+                                   -
+
+                                       ES
+
+                                             53
+                                            se
+Los ejemplos anteriores nos ilustran acerca de apenas algunas de las múl-
+tiples teorías interpretativas que aparecen a nuestro alcance en la actuali-
+dad a la hora de resolver los desacuerdos sobre el significado del derecho.
+Por el momento, solo me interesa remarcar dos cuestiones cruciales.
+  Los intérpretes (los jueces) tienen disponibles todas las teorías men-
+cionadas (y, desde luego, muchas otras), y pueden optar por una de ellas
+conforme a su buen saber y criterio. Finalmente escogen, de manera ex-
+plícita o en los hechos, aquella que prefieren, sin tener que justificar por
+qué lo hacen; pueden optar hoy por interpretar el derecho conforme a
+cierta teoría, pero mañana usar la contraria (y pasado mañana otra, y así
+sucesivamente, tanto cuanto quieran). Más aún, pueden citar en apoyo
+de su interpretación una teoría interpretativa y la contraria, sin proble-
+mas. El costo institucional/personal de sus elecciones es cero, y nadie va
+a sancionarlos ni reprocharlos en modo alguno por ello.
+  Sin embargo, conviene destacar también que los resultados de esco-
+ger una teoría interpretativa o la contraria son radicalmente diferentes.
+Si retomamos el ejemplo examinado, no sería inesperado que un juez
+que haga un planteo sobre los derechos que una Constitución de los
+siglos XVIII o XIX reserva a los homosexuales llegue a una respuesta
+restrictiva o negativa; mientras que, si elige apoyarse en teorías opues-
+tas a las anteriores, que requieren interpretar el derecho conforme a
+su sentido actual, llegará a las conclusiones contrarias, de amplitud
+y tolerancia.
+  Lo cierto es que, dado todo lo que está en juego y el poder que esa capa-
+cidad de decisión les asigna, además de los bajos costos asociados con optar
+por un camino interpretativo u otro, los jueces quedan en una situación
+muy privilegiada, que facilita que terminen por actuar del modo menos
+deseable de todos: primero, deciden a dónde quieren llegar, conforme a
+sus preferencias o.prejuicios, y luego eligen el instrumento interpretativo
+que les sirva para llegar a ese lugar prefijado por ellos. Como alguna vez
+
+[[PDF p. 8]]
+218 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+dijo Jeremy Bentham (1843: 253), los magistrados (en su despectiva termi-
+nología, Judge and Co.) colocan en una situación muy difícil al ciudadano
+común, para quien resulta imposible “desentrañar los misterios en que
+los Jueces y Cía. han envuelto a los procedimientos legales, de modo que
+aquellos persiguen exitosamente sus propios y siniestros intereses”.
+  Todo esto genera cuestionamientos muy serios sobre la situación de
+nuestro estado de derecho, interrogantes dramáticos sobre los alcances
+y límites de nuestros derechos y, por tanto, sobre la extensión efectiva de
+nuestras libertades.
+
+
+
+
+¿MIRAR AL PASADO O PENSAR EN EL PRESENTE?
+
+
+
+Para comprender mejor las implicaciones de la difícil situación interpreta-
+tiva en que nos encontramos, querría simplificar el problema y comenzar
+a pensarlo desde un punto de vista más acotado, sencillo. En el mundo an-
+glosajón, hace décadas que la discusión en la materia parece concentrarse
+en dos grupos de teorías principales, relacionadas, por un lado, con lo que
+llamamos teorías oniginalistas, que nos solicitan mirar al pasado; mientras
+que por el otro, las vinculadas al texto vivo (living constitutionalism) nos pi-
+den concentrarnos en el presente. Prestemos particular atención al hecho
+de que uno y otro tipo aparecen apoyados en fundamentos comprensibles,
+razonables, pero también contrarios. Veamos lo que pueden decirnos.
+
+
+
+
+¿POR QUÉ EL ORIGINALISMO?
+En   sustancia,   los   originalistas   sostienen   que   el   significado   de   la
+Constitución no puede quedar sujeto a la voluntad discrecional de na-
+die. Como ciudadanos que vivimos en un estado de derecho, queremos
+estar atados solo a lo que dicen las normas, y no que nuestra suerte de-
+penda de la voluntad ocasional de alguien. En este sentido, cabe recor-
+dar que el interés por el originalismo renació en los años sesenta, al calor
+de cortes activistas y progresistas en términos sociales, como la famosa
+Corte Warren de los Estados Unidos (Earl Warren la presidió entre 1953
+y 1969). Este tribunal se destacó por su activismo en casos relacionados
+con los derechos civiles y, en particular, con la discriminación sufrida
+históricamente por los grupos de afroamericanos. En ese momento apa-
+recieron vibrantes decisiones judiciales, que reconocían los derechos de
+ese grupo étnico en cuanto a la discriminación laboral; en contra de la
+
+[[PDF p. 9]]
+                                         INTERPRETACIÓN CONSTITUCIONAL 21 9
+
+
+
+prohibición que les impedía utilizar los mismos medios de transporte
+que los blancos; que cuestionaban la negativa a que concurrieran a las
+mismas escuelas que los blancos y señalaban las violaciones de derechos
+en materia de justicia criminal; etc.
+  En ese contexto, muchos profesionales del derecho comenzaron a
+presentar sus quejas debido a semejante activismo judicial. Sostenían ar-
+gumentos por el estilo de: “La Corte toma decisiones muy fuertes —para
+muchos, decisiones muy atractivas, muy progresivas—. Lamentablemente,
+hay quienes le hacen decir a la Constitución no lo que ella *dice” (en nin-
+gún momento menciona que todos, sin importar su color de piel, tienen
+derecho a ir a la misma escuela), sino lo que ellos mismos quieren que la
+Constitución diga. Estos jueces, por lo tanto, no están cumpliendo con su
+misión”. Entonces, contra la discrecionalidad de aquellos jueces activistas,
+propusieron que “se ataran las manos”, cinéndose al sentido fijo de la
+Constitución que -según sugerían— se encontraba en el pasado, en los orí-
+genes del derecho. Contra la discrecionalidad que asociaban con la actividad de
+sus adversarios jurídicos, los originalistas ofrecieron, como característica distintiva
+de su respuesta, una gran virtud: la certidumbre. Así, podemos imaginar répli-
+cas como la siguiente: “Si el juez tiene dudas sobre el significado de un
+término constitucional, que no lo busque afuera, por donde quiere: que
+se ate las manos, que deje de lado sus preferencias, y que estudie historia
+constitucional. Allí, en los orígenes del texto, podrá encontrar lo que el
+derecho dice, su sentido original, primero, fijo y permanente”.
+  Alguien podría presentar una primera y rápida crítica al originalismo:
+¿por qué fijar el sentido de la Constitución en lo dicho por sus autores
+cincuenta, cien o doscientos años atrás? Á pesar de ser muy habitual,
+esta no es una buena crítica. Lo que los originalistas demandan no es
+que la Constitución no cambie; ni requieren que rija hasta el fin de los
+tiempos lo que fue escrito hace uno o dos siglos. Así, sostienen algo que
+es compatible con que la Constitución cambie todo el tiempo, pero siem-
+pre que se respete el sentido originario, lo cual, si la Constitución tiene
+doscientos años, puede requerir remontarse a lo que dijeron los Padres
+Fundadores; o bien, si solo tiene un día de vigencia, remitirse a lo que
+dijeron los convencionales constituyentes en esa jornada de ayer.
+
+
+
+
+¿POR QUÉ EL TEXTO VIVO?
+Contra el originalismo,         los   defensores de la interpretación           de la
+Constitución como un texto vivo también tienen algo relevante para de-
+cir: las normas básicas de la comunidad no pueden quedar congeladas
+
+[[PDF p. 10]]
+220 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+en el momento en que fueron creadas. El derecho tiene que saber adap-
+tarse a las nuevas necesidades, aspiraciones y entendimientos de la épo-
+ca. No puede esperarse que, en el siglo XXI, problemas morales básicos
+como los relacionados con cómo tratar los derechos de las minorías
+sexuales— sean decididos según los criterios de la minoría de hombres
+blancos, ricos y conservadores que escribieron la Constitución hace dos-
+cientos años. Resulta por completo irrazonable, además, pensar que en
+cada cambio de criterio relevante la comunidad deba activar un proceso
+difícil y costoso de reforma constitucional. Por tanto, en el momento de
+decidir un caso difícil, y frente a las dudas que puedan generársele en
+cuanto a cómo interpretar la Constitución, el juez debe tener el buen
+tino de tomar en cuenta los nuevos acuerdos y supuestos compartidos,
+las nuevas aspiraciones de la comunidad.
+  En definitiva, tanto los originalistas como quienes respaldan la tesis de un
+texto vivo esgrimen argumentos relevantes. Pero lo que está en juego son
+el alcance y los límites de nuestros derechos, y podemos advertir que apa-
+recen sugerencias contradictorias acerca de cómo debemos entenderlos.
+
+
+
+
+PASADO O PRESENTE: RESULTADOS NORMALMENTE OPUESTOS
+
+
+
+
+Parece claro (aunque no necesariamente taxativo) que, según nos apo-
+yemos en el originalismo o en el constitucionalismo vivo, obtendremos
+resultados opuestos. El derecho escrito mismo es compatible con un resul-
+tado o con el contrario, lo cual depende exclusivamente de quién sea el
+Juez a cargo de interpretarlo. Esta situación parece por completo incon-
+sistente con las promesas más elementales de un estado de derecho en
+términos de certeza y de trato igualitario.
+  Estas diferencias interpretativas tienden a aparecer con mayor intensi-
+dad en los casos públicos más difíciles: en estos, los desacuerdos resurgen
+con mayor énfasis. Por ejemplo, a comienzos del siglo XX estalló una de
+las crisis económicas más profundas de la era moderna (la que llamamos
+hoy “crisis del 30”): las viejas sociedades del orden y progreso se desmo-
+ronaban, y debían enfrentar demandas sociales muy profundas, que a
+veces se expresaban en enfrentamientos violentos contra el gobierno.
+Muchos países comenzaron a explorar formas de intervención económi-
+ca destinadas a reparar las peores consecuencias de la crisis económica y
+social. El Estado de bienestar —que surgió como New Deal, en los Estados
+Unidos- terminaría confirmándose como una solución posible frente al
+
+[[PDF p. 11]]
+                                    INTERPRETACIÓN CONSTITUCIONAL 221
+
+
+
+desastre de aquellos años. Hoy en día, con el “diario del lunes” en la
+mano, sabemos lo importante que fue esa irrupción del Estado regula-
+dor, que en su momento impuso controles y límites al uso de la propie-
+dad privada y que procuró dar amparo social a los más necesitados. Sin
+embargo, en sus inicios fue duramente resistido, en particular por jueces
+que, interpretando el derecho, afirmaban que esas regulaciones econó-
+micas no resultaban válidas por ser contrarias a la Constitución. Lo cierto
+es que, en la mayoría de los países, las constituciones nada decían contra
+las regulaciones económicas ni contra el establecimiento de límites so-
+bre el derecho de propiedad. Sin embargo, una y otra vez los jueces se
+opusieron a las iniciativas de presidentes y legisladores. Durante largos
+años de emergencia social extraordinaria, impidieron el surgimiento y la
+consolidación del welfare State.
+  El primer caso en que la Corte estadounidense rechazó una regula-
+ción de este tipo se percibió en la decisión “Lochner c. Nueva York”,
+de 1905, que, con una argumentación de tipo originalista, consideró
+inconstitucionales los límites al horario de trabajo en las panaderías, que
+había impulsado el Ejecutivo. Los jueces expusieron que la Constitución
+no decía cosa alguna sobre panaderías, horarios de trabajo o regula-
+ciones económicas. Según la mayoría entonces dominante en la Corte,
+subyacía a las cláusulas de la Constitución un enfoque antiestatista o fa-
+vorable al libre mercado y a los derechos de propiedad. Con su decisión,
+la Corte le asestó al gobierno de entonces un golpe demoledor, que la
+justicia repetiría en alrededor de otros doscientos casos. Recién en 1937,
+con su decisión en “West Coast Hotel Co. c. Parrish”, y después de un
+largo proceso de movilizaciones sociales, insistencias políticas, conflictos
+y estallidos sociales y, sobre todo, presiones intensísimas del Ejecutivo, el
+tribunal modificó su postura. (Por entonces, el presidente Roosevelt se
+comunicaba cotidianamente con la ciudadanía, por radio, dando cuenta
+de sus serias preocupaciones: la nación necesitaba cambios; buena parte
+de la población enfrentaba situaciones de pobreza y miseria. ¿Cómo era
+posible -se preguntaba FDR-— que decisiones políticas tan necesarias en
+la coyuntura fueran así resistidas por el Poder Judicial?).
+   En la Argentina, la situación resultó básicamente equivalente a la de
+los Estados Unidos, casi al mismo tiempo. Allí, desde comienzos del si-
+glo XX y durante el lapso de unos treinta años (período de crisis social
+gravísima y temeroso ascenso de las regulaciones por parte del Estado),
+la justicia enfrentó a los gobiernos reguladores o se alineó con ellos con
+intempestivos cambios argumentativos. Apelando a la voluntad origi-
+nal de los creadores de la Constitución (en particular, la voluntad de
+
+[[PDF p. 12]]
+222   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+Alberdi), típicamente antiestatista y contraria a toda regulación, los jue-
+ces de la Corte (encabezados por Antonio Bermejo, un conservador que
+la presidió entre 1905 y 1929) consideraron inconstitucionales las regula-
+ciones económicas perseguidas por el Estado, como las promovidas por
+el presidente radical Hipólito Yrigoyen respecto del control de precios a
+los alquileres, con que el Estado pretendía aliviar los gastos de las fami-
+lias más pobres. Como había dispuesto la Corte en “Hileret”, de 1903, no
+podía interpretarse la Constitución a partir de “teorías y precedentes que
+no están en armonía con las fuentes inmediatas de la ley fundamental”:
+resultaban insoslayables “las necesidades y anhelos de la época en que
+se dictó [la Constitución
+                       ]”, así como el sentido que se le fue dando en
+“documentos históricos y numerosos fallos”. Sin embargo, en otras oca-
+siones, con argumentos opuestos, del estilo del constitucionalismo vivo,
+la mayoría de la Corte se alineó con la política predominante y aceptó
+al Estado regulador. Como sostuvo en “Avico”, de 1934, era necesario
+“adaptar el texto, liberal y humanamente, a las realidades y exigencias de
+la vida moderna, sin rezagarse a buscar obstinadamente cuál había sido,
+hace cien años, el pensamiento de los autores del Código al redactar tal
+o cual artículo”.
+  Me permito resumir en pocas líneas una larga y oscilante historia ju-
+dicial de décadas: la Corte argentina asumió una posición fuertemente
+antiestatista, contraria a cualquier regulación estatal en la economía, en
+casos como “Hileret”, pero pareció convertirse en defensora de la inje-
+rencia estatal en la economía en “Ercolano” (1922), para luego volver
+a dar la impresión contraria en “Mango” (1925) y sepultar finalmente
+su sesgo antiestatista en “Avico”. Esto es, una marcada oscilación en un
+lapso de treinta años (uno de los períodos más estables de la historia
+Jurisprudencial argentina), a partir del recurso a teorías argumentativas
+de signo opuesto. Mientras tanto, en el medio, había personas que no
+podían pagar sus alquileres; otras que caían en la pobreza; otras más
+que morían en la indigencia. Cambiando de enfoque interpretativo, los
+jueces pasaban de una posición a la otra, sin mayores problemas ni preo-
+cupaciones por las dramáticas consecuencias de su accionar.
+  En definitiva, ejemplos concretos como los anteriores evidencian los
+resultados opuestos que pueden generarse a partir del recurso a una
+línea interpretativa o la contraria, la facilidad con que los jueces pueden
+obrar esos cambios y las tremendas consecuencias prácticas, políticas,
+económicas y sociales que pueden seguirse de ello.
+
+[[PDF p. 13]]
+                                    INTERPRETACIÓN CONSTITUCIONAL 22 3
+
+
+CUANDO SE RADICALIZA LA CRÍTICA A LA
+INTERPRETACIÓN CONSTITUCIONAL
+
+
+Radicalizar la crítica significa mirar con mayor detalle, describir mejor
+la grave situación en desarrollo. Se podría decir que todo lo que tene-
+mos son dos enfoques sólidos, potentes, pero contrapuestos y que solo
+hay que decidirse por uno de ellos. Pero ¿cuál resulta más promisorio,
+cuál el más persuasivo? En ese escenario, bastaría ver cuál funciona me-
+jor, y quedarnos con él. Sin embargo, la premisa de este razonamiento
+ no es verdadera: los dos enfoques contrapuestos resultan inadmisibles y,
+ en mi opinión, insostenibles en cualquiera de las versiones más usuales.
+Fundamentaré estas afirmaciones.
+
+
+
+
+LOS PROBLEMAS INHERENTES AL ORIGINALISMO
+
+Según vimos, el originalismo nos ofrece una gran virtud: la certidum-
+bre, contra la completa discrecionalidad que asigna a los defensores
+del constitucionalismo vivo. Mientras en este último caso las teo-
+rías disponibles le permitirían al juez reemplazar la voluntad de la
+Constitución y el pueblo con su voluntad discrecional, los originalis-
+tas le asignarían un significado fijo: si hay dudas sobre su significado,
+debe interpretarse la ley de leyes de acuerdo con la voluntad original
+de sus autores y según el significado que se le daba al texto en su
+tiempo. El gran problema del originalismo es que, si algo no puede
+ofrecer, es, precisamente, certidumbre. Toda la teoría depende de ex-
+traordinarios niveles de incertidumbre: discrecionalidad pura, aunque
+sus cultores lo nieguen.
+   Imaginemos que queremos tomar al originalismo en su mejor versión.
+ Cuando su exponente nos dice que la Constitución debe interpretarse
+ conforme a la voluntad original de sus creadores, en verdad nos encon-
+ tramos con muchas voluntades diferentes en disputa: ¿debemos tomar
+ en cuenta solo la voluntad de quienes escribieron la Constitución? ¿La
+ de todos? ¿La de algunos? ¿Priman los principales autores? ¿O, antes
+ bien, debemos considerar la voluntad de quienes redactaron la sección,
+ la cláusula o el artículo pertinente? ¿O inclinarnos por quien fue la figu-
+ ra decisiva en la concepción de ese artículo en concreto? ¿Y si se diese
+ preminencia a quienes participaron en los debates, aunque no en la
+ escritura o en la concepción teórica desde un principio? Además, por
+ definición, las convenciones constituyentes de sociedades plurales son
+ también plurales en la medida de su carácter medianamente represen-
+
+[[PDF p. 14]]
+224   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+tativo. Esto supone la coexistencia de convencionales que piensan muy
+diferente. Entonces, según la/s voluntad/es que escojamos tomar en
+cuenta, nos encontraremos con un testimonio constitucional de uno de
+
+sus autores o con el contrario. Por ejemplo, en la Convención Federal
+
+estadounidense, notamos posiciones muy diferentes sobre todos los te-
+mas importantes que se discutieron; por caso, el sistema de frenos y
+contrapesos. Si en situaciones de duda (como estipular si el presidente
+puede decidir por sí solo intervenir en un conflicto armado en un país
+aliado, en caso de que ese aliado sea objeto de un ataque súbito) analiza-
+mos los puntos de vista de los distintos participantes de la Convención,
+podemos hallar fácilmente una posición o la contraria entre sus princi-
+pales miembros: Hamilton, por ejemplo, siempre fue favorable a deferir
+a la autoridad del presidente, en caso de dudas. Madison pensaba lo
+contrario. Y qué hacer en los casos de un artículo escrito por personas
+con pensamiento antitético, en el cual cada una de ellas logró dejar su
+impronta en la redacción final del texto; por ejemplo, el art. 19 de la
+Constitución argentina, referido a la moral privada: la primera línea,
+promovida por los liberales, avala el respeto a las acciones privadas de
+las personas; mientras que la segunda línea, escrita por el grupo de
+conservadores, pretendió condicionarlo al hecho de que esas acciones
+no afectaran como se escribió finalmente- “el orden y la moral públi-
+ca”. ¿Cómo se interpreta una construcción jurídica de este tipo frente
+a un conflicto en concreto, como el intento del Estado de criminalizar
+la homosexualidad?
+  Por otra parte, algunos de los Padres Fundadores influyeron en
+la creación del texto constitucional, pero no participaron directa-
+mente en su escritura. Es el caso, en los Estados Unidos, de Thomas
+Jefferson —una de las principales cabezas teóricas del momento-, que
+en la época de los debates estaba en Francia, como delegado del go-
+bierno. Pensemos el caso de Alberdi, en la Argentina, considerado el
+autor ideológico de muchas de las cláusulas de la Constitución, sobre
+la que influyó decisivamente a partir de un manuscrito suyo, previo a
+la Convención.
+  Otra cuestión importante es si debemos tomar en cuenta solo la vo-
+luntad expresada por esas personas (aunque, en verdad, no hemos podi-
+do determinar bien la voluntad de quiénes) o también sus intenciones.
+¿Debemos evaluar, contrafácticamente, lo que no dijeron pero creemos
+que habrían dicho, de acuerdo con lo que conocemos de ellos? Como
+sostuvo Mark Greenberg (2020: 143, 114), estas formas contemporáneas
+del originalismo (tanto el “textualismo” como el “intencionalismo”) apa-
+
+[[PDF p. 15]]
+                                       INTERPRETACIÓN CONSTITUCIONAL 2 25
+
+
+
+recen “confusas hasta lo más profundo”, en su incapacidad para decirnos
+qué debería disponerse a buscar un intérprete razonable.*
+   Por lo demás, ¿corresponde considerar solo lo que esos juristas ex-
+presaron dentro del recinto de la Convención Constituyente? ¿Y qué de-
+cir, por ejemplo, de las cartas que escribieron a personas ajenas a ella?
+¿Y los textos o las comunicaciones que se produjeron con posterioridad
+a esa instancia? Para retomar un ejemplo que nos acompañó en estas
+páginas, El Federalista, serie de artículos periodísticos publicados en los
+diarios de la época, fue escrita para persuadir a la población de votar en
+favor de la Constitución, ya redactada. Postular como natural que ma-
+terial interpretativo relevante consista en lo escrito por algunos de los
+miembros de la Convención ¿significa que en nuestros días deberíamos
+tomar como material relevante los dichos de un convencional constitu-
+yente en un programa televisivo nocturno, o lo que publicó en Twitter
+en un aniversario de la Constitución? Parece ridículo, pero debería ser-
+lo también tomar como material relevante para la interpretación los
+artículos de El Federalista.
+  También corresponde que nos preguntemos en qué nivel de abstrac-
+ción debemos tomar lo dicho o escrito por esos Padres Fundadores hace
+tanto tiempo. La noción de igualdad incorporada en la Enmienda XIV
+de la Constitución estadounidense, leída en un nivel de abstracción muy
+bajo, se refiere exclusivamente a la igualdad entre blancos y negros que se
+quiso consagrar luego de la guerra civil. Sin embargo, si leemos esas refe-
+rencias en un nivel de abstracción más alto, percibimos alusiones iguali-
+tarias que nos pueden servir para pensar y decidir en materia de igualdad
+de género. ¿Con qué grado de abstracción corresponde leer esa cláusula,
+visto que esa decisión promete traer consigo consecuencias relevantes?
+   En definitiva, el mundo interpretativo que nos proponía el originalis-
+mo prometía, sobre todo, certidumbre, contra la discrecionalidad propia
+de sus contrarios. Sin embargo, apenas prestamos atención a lo que exi-
+ge, nos encontramos con infinidad de problemas, de solución más bien
+imposible: no sabemos la voluntad de quién tomar en cuenta, expresada
+dónde y cuándo, en qué grado de abstracción, etc., hasta el infinito. La
+conclusión a la que debemos llegar es que parece haber un objetivo que,
+claramente, el originalismo no puede asegurarnos: la certidumbre.
+
+
+
+        40 Greenberg (2020: 143, 109) considera, en particular, que el propio Antonin
+           Scalia tuvo un papel “extraordinario” en “la propagación de estas confusio-
+           nes”, como cuando habló del “gran estado de confusión que prevalece” en el
+           área de la interpretación legal, que en su momento había denunciado.
+
+[[PDF p. 16]]
+226 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+LOS PROBLEMAS INHERENTES AL CONSTITUCIONALISMO VIVO
+
+El planteo del texto vivo conlleva problemas estructuralmente similares
+a los del originalismo, porque tampoco queda claro qué quiere decir
+en realidad ese living constitutionalism. No es claro qué propone esa al-
+ternativa ante los casos difíciles: ¿debemos ajustar el significado de la
+Constitución al sentido actual o al percibido por la comunidad? ¿Cómo
+hacerlo? ¿La voluntad o los reclamos de quiénes deberíamos tomar en
+cuenta, y expresada por cuáles medios?
+
+   Echaré luz sobre este tipo de problemas con un ejemplo de la Argentina.
+Desde comienzos de 2018, se desarrolló en el país una discusión pública
+notable en torno al tema del aborto. Según dónde mirásemos en un in-
+tento por desentrañar el pensamiento actual de la comunidad, habríamos
+dado con resultados muy diferentes. El presidente -quien había dejado
+en claro que, en lo personal, era contrario a autorizar esa práctica— ha-
+bilitó la discusión en el Congreso. La sociedad civil, de tradición católi-
+ca, se involucró activamente y, según diversas encuestas, tendió a tomar
+una postura mucho más liberal. Dentro de la política partidaria, en el
+
+Congreso, donde el tema había sido escamoteado durante años, apare-
+ció, de pronto, como una cuestión prominente y omnipresente; comenzó
+a discutirse entonces una iniciativa liberal de reforma que obtuvo una
+victoria ajustada en la Cámara Baja, pero fue derrotada, por una minoría
+exigua, en el Senado, con lo que la discusión quedó sepultada.
+  Imaginemos que, en ese contexto, la Corte se viera obligada a recon-
+siderar su posición —algo ambigua— sobre el tema y que en este caso di-
+fícil prevalecieran los criterios del constitucionalismo vivo. La cuestión
+es qué debería tomar en cuenta un tribunal dispuesto a otorgar un peso
+especial al sentir actual de la comunidad: ¿la voluntad del presidente,
+personalmente en contra del aborto, pero que habilitaba la discusión?
+¿La voluntad mayoritaria que, según encuestas, parecía suscribir una po-
+sición más liberal? ¿La voluntad de la mayoría de los partidos políticos
+que, hasta ese 2018, silenciaban el tema y luego solo hablaban de él? ¿La
+voluntad del Congreso, que finalmente sepultó el debate con la Cámara
+de Diputados a favor y la de Senadores en contra?*!
+  En todos los casos, queremos reconocer y honrar la voluntad actual en
+materia de aborto, pero, según la institución, figura pública o grupo que tomemos en
+
+cuenta, notaremos resultados o réplicas inconciliables. Incluso, según el momento,
+
+podíamos llegar a diversas conclusiones; por ejemplo, partidos políticos,
+
+
+
+
+        41 Véanse nn. 57 y 58.
+
+[[PDF p. 17]]
+                                    INTERPRETACIÓN CONSTITUCIONAL 227
+
+
+
+figuras públicas, la propia ciudadanía habían compartido una posición
+aparentemente hostil o indiferente frente al aborto, pero en el último año
+parecía haber cambiado. Entonces, ¿la voluntad que debía contar como
+actual era la más reciente o la del último siglo, o bien la del último año?
+  Ejemplos como los citados abren interrogantes importantes acerca de
+cómo debemos encontrar la expresión que estamos buscando. Por caso,
+¿una encuesta es capaz de revelar el pensamiento de la ciudadanía so-
+bre un tema controvertido? ¿O lo revela mejor la opinión del Congreso?
+Además, queda por responder quién se ocupa de estipular el pensamien-
+to actual sobre determinado tema. Pensemos, en particular, en lo que
+planteó el jurista John Ely: ¿puede justificarse que el Poder Judicial adop-
+te una teoría de la interpretación del tipo de constitucionalismo vivo?
+Sería paradójico que, si le asignásemos a los jueces esa tarea, le exigiría-
+mos al Poder Judicial que indague el pensamiento actual de la comuni-
+dad, luego de haber hecho todo lo posible, en términos institucionales,
+para separar a los jueces de la ciudadanía al blindarlos respecto de las
+elecciones, darles estabilidad de por vida, etc. Habría algo de irracional
+en esperar de los magistrados determinado trabajo luego de haberlos
+preparado para el trabajo exactamente contrario o, al menos, para no
+actuar conforme a las preferencias mayoritarias.
+  En conclusión, los dos principales grupos de teorías con que conta-
+mos en materia interpretativa sufren falencias gravísimas, que revelan
+eran fragilidad estructural. Conviene retomar entonces nuestra preocu-
+pación inicial: ingresamos en el examen de teorías interpretativas con la
+esperanza de encontrar fórmulas acertadas que nos permitieran llegar
+a resultados correctos y, en cualquiera de los casos, exigir que los intér-
+pretes estudien más para tomar decisiones apropiadas, o fórmulas com-
+partidas por todos, capaces de eliminar la objeción democrática contra
+los jueces. Cuando vemos que nada de eso está a nuestra disposición, la
+brecha interpretativa se agiganta y, otra vez, quedamos enfrentados al
+abismo: hoy por hoy, con relación a la interpretación constitucional, los
+jueces pueden hacer, literalmente, cualquier cosa. Por tanto, el proble-
+ma de la legitimidad democrática del intérprete renace con fuerza, con
+la decisión de instalarse como crucial entre nosotros.
+   En contextos institucionales frágiles (como los de los países latinoame-
+ricanos), el poder político-económico tiene acicates extraordinarios para
+ganar control sobre el Poder Judicial; sabe que, tomando el control so-
+bre la llave judicial de la interpretación, obtiene control sobre casi todo
+lo que importa: con ayuda de jueces amigos, políticamente dependientes
+o adictos, sabe que puede dar fuerza legal a cualquiera de sus abusos.
+
+[[PDF p. 18]]
+228 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+Si la Corte Suprema convalida esos excesos (legitimando la censura, le-
+galizando la persecución de opositores, etc.), el poder de turno queda
+blindado ante las críticas internas y externas, y fortalecido en cuanto a
+la legitimidad de su gobierno. Muy malas noticias para las democracias
+frágiles en que habitamos.
+
+
+
+
+ALGUNAS NOTAS DE CAUTELA
+
+
+
+En los párrafos anteriores, presenté una posición quizá demasiado escépti-
+ca con respecto a la interpretación constitucional. Permítanme, entonces,
+agregar algunas notas de cautela (y quizás optimismo), antes de continuar
+el análisis. Para empezar, admito que mis opiniones sobre el sistemajudicial
+pueden estar indebidamente sesgadas. Sin duda, en un país como el mío
+(la Argentina), es difícil creer en las virtudes del constitucionalismo o de
+los jueces y en las posibilidades de interpretación constitucional. Nuestra
+entera historia constitucional ha estado marcada por la inestabilidad po-
+lítica y la presencia de jueces “políticamente dependientes”. Para men-
+cionar solo un dato: todo el siglo XX se caracterizó por golpes de Estado
+recurrentes (seis en total: en 1930, 1943, 1955, 1962, 1966 y 1976, en varios
+casos con sucesivos recambios), que casi siempre implicaron cambios en
+la composición de los -principales tribunales y los consiguientes cambios
+en el contenido de los más importantes fallos judiciales y en la línea de
+precedentes judiciales existente. Sin duda, tales factores explican, en gran
+medida, mi desencanto y mi falta de esperanza. Seguramente, también,
+las realidades de otros países —quiero decir: países democráticos más só-
+lidos y estables— pueden permitir a otros lectores mayores márgenes de
+optimismo que los que encuentro en mi región. También entiendo que en
+muchos de estos países (es decir, los Estados Unidos, Alemania, el Reino
+Unido), el uso de precedentes judiciales (y de algunas técnicas interpreta-
+tivas, como el razonamiento analógico) permite a la comunidad jurídica
+encarar con menos ansiedad y menos preocupaciones cuestiones como la
+interpretación constitucional. Asimismo, la existencia de prácticas jurídi-
+cas más estables y la presencia de convenciones interpretativas más sólidas
+favorecen el fortalecimiento del estado de derecho. Todos estos factores
+pueden resultar en mayores niveles de confianza hacia el sistema judicial,
+en general, y la tarea de la interpretación constitucional, en particular.
+
+[[PDF p. 19]]
+                                   INTERPRETACIÓN CONSTITUCIONAL 22 C
+
+
+
+LA INTERPRETACIÓN CONSTITUCIONAL EN UNA COMUNIDAD
+DE IGUALES (O DE LA PREGUNTA SOBRE EL CÓMO
+A LA PREGUNTA SOBRE EL QUIÉN)
+
+
+Para el derecho, la dificultad de la interpretación constitucional repre-
+senta un problema gravísimo, que en más de doscientos años no hemos
+podido resolver ni estamos cerca de hacerlo. Todo lo importante se de-
+fine en ese nodo (qué significa la Constitución en los casos concretos;
+cómo resolver los casos difíciles; de qué manera corresponde pensar el
+derecho hoy, frente a cualquier tema público importante —aborto, de-
+rechos sociales, privacidad, libre expresión, etc.) y, sin embargo, nos
+vemos inmovilizados en respuestas toscas, inerciales. Vimos ya el pantano
+teórico en que nos hundíamos. Podemos entender la dificultad de resol-
+ver un problema tan importante y complejo; sin embargo, resulta insó-
+lito que todavía no salgamos de semejante lugar de incertidumbre com-
+pleta, que sigamos conviviendo con dos formas de respuesta principales
+que son contrarias entre sí. El riesgo resultante es el que hoy predomina:
+la discrecionalidad del poder. Conociendo esa dificultad radical que en-
+frentamos, los decisores concretos —los jueces— quedan en la situación de
+transitar un camino que debería resultarnos temible: el de imponernos
+como solución pública lo que es su voluntad personal, privada (sus pre-
+tensiones, sus ambiciones, su conveniencia, sus prejuicios), en nombre
+nuestro y de la Constitución, y con la autoridad propia del general en
+una guerra: el juez nos impondrá su voz, sin esperar cuestionamientos
+legales concretos (salvo la autoridad de sus superiores).
+  Así las cosas, ¿cómo pensar la interpretación constitucional? ¿Cómo
+hacerlo frente a dificultades como las examinadas más arriba? Por su-
+puesto, en este breve espacio no pretendo resolver un problema con
+el cual la comunidad jurídica lidia desde hace más de doscientos años.
+Sugeriré, simplemente, algunas ideas y observaciones al respecto.
+  En primer lugar, el análisis presentado en las páginas anteriores nos
+llama la atención acerca de la fragilidad de la mayoría de las. teorías
+interpretativas con que contamos. Según vimos, luego de un examen
+más detallado, aun las teorías más aceptadas se muestran débiles, in-
+consistentes, imprecisas. Para peor, después de más de dos siglos de
+reflexión en la materia, seguimos careciendo de criterios claros para
+preferir a alguna de tales teorías (esto es, el originalismo) frente a las
+demás. Aquí la fragilidad de las teorías interpretativas se interseca con
+lo que Jeremy Waldron ha denominado “el hecho del desacuerdo”: no
+hay (ni es esperable que encontremos) métodos sólidos e incontro-
+
+[[PDF p. 20]]
+2390   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+vertibles para resolver nuestros principales desacuerdos en materia de
+interpretación constitucional.
+  Llegados a este punto, ¿qué podemos hacer? Vuelvo aquí a Waldron,
+para afirmar, con él, que junto con la pregunta sobre la teoría adecuada
+necesitamos comenzar a plantearnos una sobre la “autoridad” para in-
+tervenir y decidir, en situaciones de tanta incertidumbre. Así lo formula
+
+Waldron (1999b: 244): “¿Quién debe tener el poder de tomar decisiones
+sociales,   o mediante qué procedimiento, sobre cuestiones prácticas de
+las cuales pretenden ocuparse las teorías de los derechos en conflicto?”;
+de inmediato, su principal respuesta al respecto sería: “La gente cuyos
+derechos están en cuestión tiene el derecho a participar en iguales tér-
+minos en esta decisión”.
+  Dentro del marco de este trabajo, mi respuesta es algo diferente:
+quien debe decidir finalmente es la comunidad de iguales. (Como vere-
+mos más adelante, la diferencia resulta mayor de lo que parece; a fin de
+cuentas, Waldron declara estar hablando no del “pueblo” mismo, sino de
+“los representantes del pueblo, en el Congreso”).
+  En definitiva, detectamos algunas claves que nos permiten, al menos,
+pensar mejor una cuestión tan importante y difícil. No tenemos una res-
+
+puesta clara frente a la pregunta del qué teoría interpretativa usar, pero sí
+algunas plausibles frente a las referidas al quién —-la comunidad de igua-
+les— y al cómo —gracias a la conversación entre iguales—.
+  Permítanme, a continuación, ilustrar cómo podría desarrollarse la
+conversación en una comunidad de iguales, frente a la aparición de
+problemas interpretativos de importancia. Sin pretensión de definir
+aquí lo que ni siquiera los más lúcidos colegas han dilucidado en tantos
+años, busco sugerir qué forma podría tomar la interpretación en una
+comunidad de iguales. Echaré mano al ejemplo del capítulo 2: una co-
+munidad de inmigrantes que llega a su tierra prometida. En conjunto,
+ellos enfrentaban desde un comienzo problemas interpretativos serios.
+Habían confeccionado en el barco un reglamento (su Constitución) con
+las bases mínimas que organizarían su trabajo en las nuevas tierras. Ya
+instalados en su lugar, y frente a conflictos concretos, se planteaban pre-
+guntas como qué significa que no se trabaje los domingos: ¿está prohibi-
+
+do? ¿Qué pasa con quienes profesan religiones distintas al cristianismo y
+piden no trabajar los sábados? Tomemos el caso de Francesco, que había
+encontrado que no podía trabajar más la tierra en las mañanas de esos
+duros inviernos, porque ese tiempo había agravado sus ya serios proble-
+mas pulmonares. Quería saber si el reglamento que requería el trabajo
+de todos los miembros de la comunidad le permitía quedarse en la casa
+
+[[PDF p. 21]]
+                                   INTERPRETACIÓN CONSTITUCIONAL 231
+
+
+
+cocinando. A los fines de nuestro trabajo, esto representa sin duda un
+problema interpretativo. ¿Cómo podríamos resolverlo, en una comuni-
+dad de iguales? Conociendo a Francesco, los miembros de la comunidad
+se reunían, conversaban entre ellos y llegaban a una solución comparti-
+da. Le respondían -según el reglamento, pero tomando en cuenta tam-
+bién todo lo que sabían de él, incluidos, en cierta forma, su afecto y sus
+lazos con Francesco- que podía quedarse en la casa, pues cocinar era
+un trabajo. No me interesa aquí idealizar o romantizar la respuesta que
+imagino propia de una comunidad de iguales. Me interesa, sí, resaltar el
+procedimiento, en contraste con las alternativas que conocemos.
+   La respuesta de la comunidad de iguales está a años luz de las alter-
+nativas que tenemos como disponibles y dominantes en la actualidad.
+A ninguno de los miembros de la comunidad se le ocurre tomar un
+diccionario para ver de qué modo se define la palabra “trabajo”. No es
+esa la manera de resolver el tipo de conflictos que hoy en día tenemos.
+Imaginemos que uno de nuestros Padres Fundadores -en nuestro ejem-
+plo, el patriarca don Vincenzo— ha fallecido ya, y él influyó mucho sobre
+nosotros en el momento de redacción originaria. Podríamos recordar
+su palabra e incorporarla como relevante en nuestras conversaciones
+sobre el tema, pero resultaría cercano al delirio tomar una vieja carta de
+Vincenzo para reconocer que allí, perdida en una dedicatoria o fórmula
+final de despedida, aparecía una frase que sugería que la ocupación
+en la cocina calificaba como trabajo. Podemos leer esa carta, pero to-
+dos en la comunidad de iguales entendemos que el problema que hoy
+enfrentamos es nuestro: debemos conversar al respecto, sin apelar a la
+autoridad de los muertos. Las palabras de quienes ya se fueron pueden
+iluminarnos en algo, pero no definir lo que tenemos que hacer con el
+conflicto en nuestro presente.
+   Lo mismo puede observarse respecto de las alternativas del estilo cons-
+titucionalismo viviente. Resultaría insólito decidir mediante voto secreto
+o imponer la decisión a mano alzada, como se impone una lápida: el pro-
+blema es nuestro, aunque afecta de un modo especial a uno de nosotros
+y lo estamos conversando. Necesitamos darnos argumentos, escuchar a
+los demás en quienes confiamos, con quienes convivimos, en lugar de
+imponerles nada. En última instancia, podríamos llegar a votar, pero re-
+sultaría ofensivo hacerlo cuando tenemos la oportunidad y necesidad de
+intercambiar nuestros pareceres acerca de lo que nos pasa, de la dificul-
+ tad que tenemos, en este caso, para interpretar un texto.
+   ¿Qué pasa si la comunidad crece y se hace difícil conversar con todos
+ sobre nuestros problemas? En ese caso podríamos crear un comité o una
+
+[[PDF p. 22]]
+232   EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+
+
+comisión que represente a todos para encargarle que resuelva esos pro-
+blemas. Pero, seguramente, veríamos como un abuso que ese comité ale-
+gara que decide conforme a nuestra voluntad, cuando meramente nos
+
+impone la suya; o que, frente a los casos más divisivos, no nos consultara,
+pudiendo o debiendo hacerlo. Escogimos esa comisión no para que go-
+bierne sobre nosotros o pase a dominarnos, sino por una mera cuestión
+de división de tareas, para ahorrarnos el tiempo, por la misma razón por
+la cual no estamos todos labrando la tierra o cocinando: la tarea y los
+beneficios son de todos. Nos ayudamos de esta forma.
+   En definitiva, según entiendo y espero, un ejemplo como el de la co-
+munidad de iguales puede resultar fértil para pensar soluciones a nues-
+tro problema jurídico más grave, estancado y aparentemente sin salida,
+el de la interpretación constitucional.
+
+
+
+
+LA REVISIÓN JUDICIAL FRENTE A LA “CONVERSACIÓN ENTRE IGUALES”
+
+
+En su artículo “The arduous virtue of fidelity”, el profesor Ronald
+Dworkin (1997: 1251) se propuso “responder a la pregunta sobre el sig-
+nificado de la Constitución” de modo independiente de aquella sobre
+quién debe quedar a cargo de la interpretación final. Aquí, seguí en
+parte su propuesta del análisis independiente, para luego apartarme
+                                                                         un
+poco. Según entiendo, una vez que aclaramos ciertas cuestiones básicas
+sobre el primer problema, quedamos en mejores condiciones de pensar
+y tomar decisiones en torno a la “autoridad” que interpreta.
+  Conforme al análisis presentado hasta aquí, nos encontramos con al
+menos dos conclusiones relevantes. Reconocemos como datos funda-
+mentales y prioritarios, al comienzo, 1) los razonables y persistentes desa-
+cuerdos que nos separan en materia de temas de interés público (y que
+también afectan a las frágiles teorías interpretativas de que disponemos)
+y, más adelante, 2) la conversación colectiva para resolver esos desacuer-
+dos. Con este punto de partida, podemos articular una mejor respuesta
+acerca del control de constitucionalidad en general y, más específica-
+mente, sobre el papel de los jueces en dicha tarea. En lo que sigue, me
+
+propongo exponer algunas breves consideraciones sobre el rol que
+                                                                 le
+corresponde al juez constitucional (tema que retomaremos, de modos
+distintos, en los capítulos siguientes).
+  En relación con el papel específico que les corresponde a los jueces,
+entiendo que podríamos establecer al menos dos principios. Primero,
+
+[[PDF p. 23]]
+                                         INTERPRETACIÓN CONSTITUCIONAL 233
+
+
+
+y contra lo que los jueces suelen hacer (con la excusa de estar inter-
+pretando la Constitución), deberían permitir que la comunidad decida
+acerca de sus propios asuntos, por medio del diálogo colectivo (en razón
+de la prioridad de este frente al “hecho del desacuerdo”); y segundo,
+contra lo que algunas doctrinas (esto es, la teoría de las “cuestiones po-
+líticas”) sugieren, los magistrados deberían concentrarse en el resguar-
+do de las condiciones de ese diálogo colectivo (optando entonces por
+un modelo de intervención centrada en los “procedimientos” de toma
+de decisiones).
+  Estas breves “directivas” iniciales nos permiten formular algunas pre-
+cisiones de interés. Por un lado, podemos sostener que la habitual discu-
+sión doctrinaria acerca de si los jueces deben ser activistas o jueces que
+se autorrestringen es equivocada. No se trata de que los jueces sean “una
+u otra cosa” (“¡queremos jueces más activistas!” versus “queremos jueces
+contenidos, que sepan refrenarse y “dejen hacer” a la política”). Más bien
+propondría reconocer que en algunos casos específicos (en las cuestio-
+nes “sustantivas”, que deben ser decididas políticamente) tendrían que '
+autorrestringirse, mientras que tendrían que ser muy activos frente a
+otro tipo de casos (relativos a la custodia de las condiciones procedimen-
+tales del diálogo). Del mismo modo, la propuesta anterior nos permite
+pensar mejor sobre la tradicional “crítica democrática” al control judicial
+(que postula la “prioridad” del debate democrático y, por tanto, objeta
+el intervencionismo desbordado de los jueces). Crítica que se disuelve
+cuando entendemos que la tarea del juez constitucional debe concen-
+trarse en la salvaguarda del procedimiento del debate democrático.
+   A partir de mi análisis anterior, alguien podría concluir que defiendo
+un modelo de control de constitucionalidad “procedimental”, como aquel que
+se volvió célebre en la propuesta de John Ely. En su importante libro
+Democracy and Distrust (1980), Ely sugirió orientar la tarea del juez constl-
+ tucional hacia el resguardo de las condiciones del proceso democrático.*
+   Si bien existe un obvio parentesco (que reivindico) entre la teoría pro-
+ cedimentalista de Ely y la que aquí propongo, considero que las diferen-
+
+
+        42 En dicha obra, y siguiendo lo establecido por la Corte Suprema de los
+           Estados Unidos en la famosa “nota al pie 4” del caso “Carolene Products”
+           (“United States c. Carolene Products Co.”, 304 U.S. 144, 152, 1938), Ely
+           propuso concentrar la tarea del juez constitucional en dos misiones princi-
+           pales: “Mantener abiertos los canales del cambio político” (frente a normas
+           que limitan la libertad de expresión, socavan los derechos electorales, etc.)
+           y asegurar una protección especial a las minorías desaventajadas (discrete and
+           insular minorities), objeto de “extendidos prejuicios”.
+
+[[PDF p. 24]]
+234   EL DERECHO COMO UNA CONVERSACIÓN
+                                       ENTRE IGUALES
+
+
+
+
+cias entre los enfoques son muy relevantes, por motivos que ya deberían
+resultar evidentes. Por un lado, 1) apoyo mi trabajo en una concepción
+dialógica de la democracia, que es muy diferente de la concepción plu-
+ralista que se supone en el esquema de Ely.* Por el otro, 2) la teoría de
+Ely nació pensada para un contexto social y político específico, y aquí
+me interesará repensar dicha visión a partir de otras preocupaciones
+                                                                                            o
+“dramas de época”.
+  En relación con el primer tipo de diferencias (las más importantes),
+adelantaría solo lo siguiente. Que los jueces asuman semejante compro-
+miso debería llevarlos no solo a “retirar” su atención de los temas “sus-
+tantivos” que deben ser decididos por el debate público, sino también
+                                                                                            a
+prestar especial atención a tipos de problemas que actualmente
+                                                                                   suelen
+desatender. Por caso, ellos podrían optar por un escrutinio estricto (con
+alta presunción de invalidez) de aquellas leyes aprobadas en el Congreso,
+con las mayorías necesarias, pero sin debate público, o sin apoyo en ra-
+zones públicas,    o de un modo que solo refleje la presión de los grupos
+de interés. Se trataría de jueces resistentes -como Cass Sunstein propuso
+alguna vez- frente al protagonismo legislativo de los grupos de interés.*
+Análogamente, este punto de partida podría llevar a un juez a
+                                                              analizar
+de modo especial las reformas institucionales que puedan tener impac-
+to negativo sobre el debate público. Por ejemplo, una regulación de
+                                                                                        la
+prensa como la derivada, en sua momento, de la “doctrina de la equidad”
+podría recibir el mismo apoyo (y por las mismas razones) que recibió
+                                                                     en
+fallos como “Red Lion”; mientras que decisiones que dejen la amplitud
+
+
+
+
+       43 En este sentido, comparto la crítica que en su momento le hizo
+                                                                         Cass
+          Sunstein, por razones similares: las “aspiraciones deliberativas”
+                                                                       del sistema
+          constitucional estadounidense tienen poco que ver con el modelo
+                                                                           “antitrust”
+          propuesto por Ely, que identifica a la democracia con el mercado
+                                                                            (y, por
+          tanto, propone fundamentalmente orientar a los jueces a evitar
+                                                                         la aparición
+          de bloqueos monopólicos y oligopólicos).
+       44 Según Sunstein (1985: 49), “La Corte requiere cierto “interés público”
+          independiente para justificar la regulación. Una referencia al poder
+                                                                                 político
+          es, por sí sola, insuficiente. En ningún caso moderno la Corte ha
+                                                                              recono-
+          cido la legitimidad del compromiso pluralista como la base exclusiva
+                                                                                de la
+          legislación. [...] Los representantes deben deliberar en vez de responder
+          mecánicamente a las presiones de los constituyentes; pero las decisiones
+                                                                                   de
+          redistribuir recursos u oportunidades, o de adaptar la estructura
+                                                                              preexisten-
+          te de derechos y preferencias, bien pueden basarse sobre un
+                                                                         esfuerzo por
+          promover el bien público”.
+
+[[PDF p. 25]]
+                                           INTERPRETACIÓN CONSTITUCIONAL 235
+
+
+
+del foro público a la merced del dinero (“Citizens United”) deberían
+ser resistidas.*
+  La segunda diferencia importante se debería a 2), la base de referencia
+contextual, los problemas o “dramas” que el esquema aquí propuesto (a
+diferencia del de Ely) busca resolver. Como señaló Stephen Gardbaum,
+en un excelente análisis del trabajo de Ely, la teoría de este último fue
+“conscientemente parroquial”, dado que ella estuvo destinada a lidiar
+“exclusivamente con el caso de la Constitución de los Estados Unidos, y
+casi enteramente con la Corte Warren”.*
+   Si bien la cuestión requeriría un pormenorizado desarrollo aparte,
+aquí me contentaría, simplemente, con señalar algunas “reactualiza-
+ciones” imaginables del esquema propuesto por Ely. Enumero algunas
+posibilidades. a) Mientras el enfoque de Ely se presenta como orienta-
+do al “reforzamiento de la representación” (a representation-remforcng
+approach), yo propondría reorientarlo hacia la reconstrucción democrática
+de un esquema de controles ya gravemente socavado. En ese sentido,
+y en particular, creo que sería razonable pensar en un enfoque judicial
+con una presunción contraria a la concentración de poderes.” De modo simi-
+lar, b) mientras el esquema de Ely se propone “mantener abiertos los ca-
+nales del cambio político” (keep open the channels ofpolitical change), reitero
+que sugiero uno tendiente a favorecer el debate democrático. Asimismo, c) su
+
+
+
+         45 Véase al respecto, especialmente, Rawls (1993: 360-361). De modo similar
+            aunque no me detendré aquí en el tratamiento de la cuestión-, el resguar-
+            do de la conversación entre iguales puede llevar al juez a decirle al legislador
+            que ni él (el legislador) ni ella (la jueza) pueden decidir en lugar del propio
+            individuo, en lo que hace a la vida privada de cada quien. Es decir, ni una ni
+            otra rama del poder están autorizadas para tomar un curso de acción “mo-
+            ralmente perfeccionista” e imponerle al individuo, directa o indirectamente,
+            los valores propios de una cierta concepción global del bien. Como señaló
+            Carlos Nino (1991: cap. 5), la validez de los ideales personales no depende
+            de la satisfacción de los requerimientos de la imparcialidad. En dicha área -a
+            diferencia de lo que podemos decir sobre temas compartidos, relativos a la
+            vida pública—, el debate colectivo no puede considerarse como más apro-
+            piado que la reflexión individual, como vía para determinar el mejor curso
+            que seguir.
+         46 Por eso, él se propuso “ampliar, refinar y actualizar” dicha teoría original, y
+            así aprovechar su potencia (Gardbaum, 2020: 1).
+         47 Autores como David Strauss o Geoffrey Stone imaginaron salidas semejantes,
+            reflexionando sobre la labor debida del Poder Judicial, durante la adminis-
+            tración de Donald Trump. Según Strauss (2018: 373), por ejemplo, “si existe
+            el riesgo cierto de que las acciones gubernamentales socaven indebidamente
+            los valores liberaldemocráticos, los tribunales deberían limitar los poderes
+             del presidente”; véase también Stone (2018).
+
+[[PDF p. 26]]
+236 EL DERECHO COMO UNA CONVERSACIÓN ENTRE IGUALES
+
+
+atención especial a la suerte de las minorías “sobre las cuales existen ex-
+tendidos prejuicios” debería integrarse con, al menos, una preocupación
+similar por la suerte de las mayorías empobrecidas. En honor de los valores
+del debate público, los jueces podrían hacer una especial contribución
+procurando proteger y recobrar las voces de los grupos sociales marginados (vale
+decir, en casos relacionados con la protesta social).
+   Concluyo esta breve introducción al tema, en todo caso, con una nota
+necesariamente escéptica: reconozco que los jueces no solo carecen de
+los incentivos necesarios para comprometerse en un ejercicio dialógico
+como el que propongo, sino que (con el sistema institucional prevale-
+ciente —el de los checks and balances- como marco) también encuentran
+más límites que oportunidades para actuar según una modalidad con-
+versacional. Podrían decidir obrar de conformidad con la teoría dialógi-
+ca, O no, pero nada en el sistema institucional los induce a tomar sus pro-
+pias decisiones de conformidad con los principios y métodos que una
+teoría deliberativa demandaría. Considero, por tanto, que una reorien-
+tación de la función judicial, como la propuesta hasta aquí, resulta de-
+seable, posible, pero poco factible en las actuales condiciones. Necesitaríamos
+“trabajar sobre las motivaciones” y los “medios constitucionales” de los
+jueces (como nos pediría el Madison de El Federalista n* 51). No se trata
+de simplemente señalar “cuál debe ser la tarea” de tal o cual funcio-
+nario, como si pudiera llevarla adelante, con normalidad, en cualquier
+condición institucional. La buena noticia que tenemos (como analizare-
+mos más adelante) es que existen hoy, disponibles y en funcionamiento,
+muchos instrumentos y “remedios judiciales” perfectamente compati-
+bles y afines con un constitucionalismo dialógico (medios que años atrás
+podían considerarse utópicos, inútiles, o ajenos al derecho vale decir,
+las audiencias públicas; las “mesas de diálogo” entre poderes; los meca-
+nismos asamblearios; etc.—). La mala noticia es que la inercia del “viejo
+sistema” sigue siendo demasiado poderosa.

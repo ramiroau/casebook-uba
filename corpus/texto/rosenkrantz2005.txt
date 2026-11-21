@@ -1,0 +1,1369 @@
+# fuente: Unidad8/Rosenkrantz_2005_En contra de los pŕestamos y de otros usos no autoritativos.pdf
+# md5_original: e83543c2b7bbda7786a0c0b1220681ee
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                         En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+
+En contra de los “Préstamos” y de otros usos “no autoritativos”
+del derecho extranjero
+Por Carlos F. Rosenkrantz •
+
+
+    1. En este artículo quiero reflexionar sobre la adopción o, como se lo conoce en el
+debate académico de los Estados Unidos, el “préstamo” de leyes y materiales jurídicos
+foráneos por parte de tribunales domésticos, así como sobre otros usos del derecho
+extranjero. La sección 2 de este trabajo describe la relevancia que el derecho extranjero,
+en especial el derecho de los Estados Unidos de América, ha tenido en el desarrollo
+constitucional de la Argentina. El Profesor Jonathan Miller tiene razón cuando afirma que
+el derecho constitucional estadounidense fue un “talismán” en la historia Argentina.1 La
+sección 3 muestra las que, estimo, son las mejores razones en favor de la práctica del
+“préstamo”. En la tradición legal argentina los “préstamos”, a pesar de ser muy usuales,
+no han recibido demasiada atención y nadie ha reflexionado mucho sobre ellos; por ello, la
+discusión en la sección 3 será más bien teórica sin que me pueda referir a autores locales.
+La sección 4 introduce los problemas que los “préstamos” pueden enfrentar y las razones
+por las cuales deben ser resistidos. El argumento básico que he de desarrollar es que la
+heterogeneidad del derecho constitucional y las dificultades en la validación democrática
+de la decisión de un tribunal de adoptar o tomar prestado derecho extranjero hacen a la
+actividad de tomar “prestado”, cuando menos, problemática. La sección 5 se centra en
+otros usos del derecho extranjero, distintos al “préstamo”, a los que llamaré aquí “usos no
+autoritativos”. En la sección 5, discutiré los méritos de usar el derecho extranjero como
+evidencia y como fuente de innovación y conocimiento legal. Esta sección 5 también trata
+el “diálogo actual entre los tribunales de la comunidad mundial”2 , y adopto un punto de
+vista distinto –opuesto- al de aquellos jueces que se refieren en sus decisiones al derecho
+extranjero con el objetivo de tomar parte en una conversación internacional. Mi idea es
+que la referencia a material extranjero en las sentencias es inconveniente, principalmente
+porque agrega complejidad innecesaria a las decisiones judiciales –las cuales, idealmente,
+deberían ser tan simples como fuera posible- y porque dificulta el desarrollo de una cultura
+constitucional autóctona. La sección 6 finaliza destacando algunas ideas generales.
+    Dos comentarios introductorios resultan apropiados. Primero, que la perspectiva de
+este artículo es la de alguien que vive en un país que ha usado y abusado del derecho
+extranjero pero que, a pesar de este uso y abuso y probablemente a causa de él, ha
+fracasado en su intento de construir una cultura legal y constitucional sustentable. En
+
+
+  • Este artículo es una versión con algunos cambios del ensayo “Against borrowings and other
+nonauthoritative uses of foreign law”, publicado en inglés en el International Journal of Constitutional
+Law, 2003; 1: 269-295. La traducción del texto, incluyendo las citas originalmente en inglés, estuvo a cargo
+de Sebastian Elias, a quien el autor desea agradecer. Colaboraron en la revisión de la traducción Ariel
+Romano y el autor.
+  1. Ver Jonathan M. Miller, The Authority of a Foreign Talisman: A Study of U.S. Constitutional Practice
+as Authority in Nineteenth Century Argentina and the Argentine Elite´s Leap of Faith, 46 AM. U. L. REV.
+1483 (1997).
+  2. Euromepa S.A. v. R. Esmerian, Inc., 51 F. 3d 1095 (2d Cir. 1995).
+
+                                                                                                            71
+
+[[PDF p. 2]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+consecuencia, mi aspiración es modesta. Simplemente quiero ofrecer una razón para
+hacer una pausa y reflexionar sobre el prevaleciente entusiasmo con el cual el derecho
+extranjero en general –y el derecho constitucional extranjero, en particular- es imitado
+prácticamente en todas partes.
+    Segundo, dado que “préstamo” es una expresión que usamos en nuestras conversaciones
+legales con muchos sentidos diferentes, resulta necesario empezar con una definición. En
+este artículo entenderé por “préstamo” a la decisión de un tribunal local de usar en una de
+sus sentencias derecho extranjero cuando dicho uso se hace basado, al menos parcialmente,
+en el hecho de que el tribunal local considera que el derecho extranjero debe tener alguna
+autoridad local en virtud de que ostenta autoridad en su jurisdicción de origen. Esta definición
+difiere de otras más familiares en tanto excluye como instancias de “préstamo” todos
+aquellos usos del derecho extranjero que no derivan de la convicción de que el derecho
+extranjero, por una razón u otra, debería ser vinculante en el ámbito local. Prefiero esta
+definición porque ayuda a destacar los casos en los que el uso del derecho extranjero se
+torna más problemático.
+
+2.
+    Argentina ha practicado incansablemente el “préstamo constitucional”, y lo ha hecho
+con particular extensión en dos áreas fundamentales del derecho constitucional: el diseño
+institucional y los derechos fundamentales. Argentina tuvo dos constituciones de corta
+vida, la de 1819 y la de 18263 , ninguna de las cuales fue inspirada por la Constitución de
+los Estados Unidos. Incluso hubo algunas figuras políticas muy influyentes –Bolívar entre
+ellas4 - que sostuvieron que la América hispana no estaba lista para replicar el sistema de
+los Estados Unidos. Aún así, en 1853 Argentina organizó la estructura de sus poderes
+siguiendo las líneas de las competencias políticas establecidas por los Padres Fundadores
+de la Constitución de los Estados Unidos. Como José Benjamín Gorostiaga, el más
+prominente miembro de la Convención Constituyente de 1853, expresara, la nueva
+Constitución “fue forjada en el molde de la Constitución de los Estados Unidos.”5
+    La Constitución de 1853 preveía un Presidente con una duración fija en el cargo;
+una soberanía territorial dual –el Estado Federal y las Provincias-; un Congreso
+
+
+   3. Ambas constituciones eran unitarias. Ver Valentín Gómez, Discurso pronunciado en la Sesión del
+Congreso Constituyente del 15 de abril de 1826, en 4 ASAMBLEAS CONSTITUYENTES ARGENTINAS (Emilio
+Ravignani ed., 1937).
+   4. Atilio Borón cree que América Latina, debido al autoritarismo hispánico, la distribución de la tierra, y la
+escasa familiaridad con el autogobierno, era –en general- inapropiada para la democracia representativa.
+Por ello, Borón sostiene: “Muchos países latinoamericanos imitaron exitosamente la Constitución de los
+Estados Unidos; lo que resultó imposible de reproducir en sociedades basadas en latifundios fueron las
+estructuras sociales y económicas creadas en los Estados Unidos por un capitalismo basado en granjeros
+libres… e industrialistas urbanos”. Ver Atilio A. Borón, Latin America: Constitutionalism and the Political
+Traditions of Liberalism and Socialism, in CONSTITUTIONALISM AND DEMOCRACY: TRANSITIONS IN THE
+CONTEMPORARY WORLD, 339 (Douglas Greenberg et al., eds., Oxford Univ. Press 1993). El Profesor
+Nicholas Shumway ha descripto a Bolívar como desconfiando de la factibilidad de replicar la organización
+política de los Estados Unidos en América Latina. Ver Symposium, Challenges to Fragile Democracies in the
+Americas: Legitimacy and Accountability, 36 Tex. INT’L L. J. 319, 322 (2001).
+   5. Ver Declaración de José Benjamín Gorostiaga, Convención Constituyente de 1853, Sesión del 20 de
+Abril de 1853, en 4 ASAMBLEAS CONSTITUYENTES ARGENTINAS (Emilio Ravignani ed., 1937).
+
+72
+
+[[PDF p. 3]]
+                          En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+bicameral con cámaras simétricas, donde la Cámara de Diputados y el Senado tenían
+el mismo rol en el proceso legislativo; y, finalmente, un Poder Judicial investido tanto
+del deber de resolver disputas de derechos, como la facultad de invalidar la legislación
+que contradijera la Constitución. Al igual que la Constitución de los Estados Unidos,
+la Constitución Argentina de 1853 es rígida, en el sentido de que no puede ser reformada
+con facilidad, y es suprema, en el sentido de que sus disposiciones normativas prevalecen
+por sobre toda otra norma legal.6
+    La fascinación de los constituyentes argentinos por la Constitución de los Estados
+Unidos, no se debía a la falta de otros modelos constitucionales. Es cierto que, en 1853,
+la historia de la humanidad no había visto aún otra gran república que hubiera sido capaz
+de mantenerse como tal. El único ejemplo viviente de una federación, además de los
+Estados Unidos, era Suiza. Pero la decisión de replicar la Constitución de los Estados
+Unidos no fue consecuencia de la escasez de modelos constitucionales. Los constituyentes
+del ’53 podrían haber dado rienda libre a su imaginación, como lo habían hecho antes en
+las convenciones que produjeron las constituciones de 1819 y 1826, cuando no buscaron
+inspiración en la constitución de los Estados Unidos.7
+    En cambio, hubo en la historia temprana de la Argentina una profunda convicción
+de que la Constitución de los Estados Unidos había sembrado el germen del progreso
+político y económico en ese país, y se asumió que el mismo germen penetraría en la
+Argentina por el sólo hecho de adoptar exactamente la misma constitución.8 Esta creencia
+respecto del modelo constitucional de los Estados Unidos resurgió en el momento de la
+redacción de la Constitución en 1853. Así, tanto Juan Bautista Alberdi, autor de las Bases
+y Puntos de Partida para la Organización Política de la República Argentina, libro que
+sirvió de proyecto para la Constitución de 1853, como Domingo F. Sarmiento, quien
+sería luego Presidente de la República y una de las figuras políticas e intelectuales de
+la época, apoyaban la idea de romper con la tradición española y de adoptar las
+
+
+
+   6. La diferencia más notoria entre la Constitución estadounidense y la argentina, en lo que respecta a la
+organización del poder, es que la Constitución Argentina establece un presidente mucho más poderoso. En
+el modelo argentino, el presidente está facultado para designar los miembros del gabinete sin necesidad del
+acuerdo del Senado; el presidente puede utilizar el veto parcial; y, en ciertas circunstancias, puede declarar
+el estado de sitio sin la aprobación del Congreso. Ver Carlos Nino, Transition to Democracy, Corporatism and
+Constitutional Reform in Latin America, 44 U. MIAMI L. REV. 129 (1989); William C. Banks & Alejandro Carrió,
+Presidential Systems in Stress: Emergency Powers in Argentina and the United States, 15 MICH. J. INT’L. L.
+1 (1993).
+   7. Nuestros constituyentes del ’53 pudieron haber seguido, también, los modelos de Chile y Perú. Ambos
+países habían adoptado sus constituciones antes de 1853, y ambos podrían haber servido como modelos
+para la Constitución Argentina.
+   8. La admiración por el modelo constitucional norteamericano ya se encontraba presente en los primeros
+productos intelectuales del ambiente revolucionario argentino. Así, en el Plan de Operaciones para las
+Provincias Unidas del Río de la Plata, diseñado por Mariano Moreno, se lee: “Patria mía, ¡cuántas mutaciones
+tienes sufrir! ¿Dónde están noble y grande Washington, dónde están las lecciones de tu política? ¿Dónde
+las reglas laboriosas de la arquitectura de tu grande obra? Tus principios y tu régimen serán capaces de
+conducirnos, proporcionándonos tus luces, a conseguir los fines que nos hemos propuesto.” Mariano
+Moreno, Plan de las Operaciones que el Gobierno Provisional de las Provincias Unidas del Río de la Plata
+debe poner en Práctica para consolidar la Grande Obra de Nuestra Libertad e Independencia, en ESCRITOS
+POLÍTICOS Y ECONÓMICOS 306 (Norberto Piñero ed., 1915).
+
+                                                                                                             73
+
+[[PDF p. 4]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+instituciones de los Estados Unidos.9 Ambos pensaban que adoptar el modelo constitucional
+norteamericano sería lo mejor para el desarrollo político y económico del país. Alberdi
+sostenía que, de otra manera, la cultura hispanoamericana impediría la formación de una
+república representativa, la cual –hasta ese momento- sólo se había alcanzado en los
+Estados Unidos y Suiza.10 Sarmiento era aún más sanguíneo en su defensa de la importación
+del derecho constitucional norteamericano.11 En un libro introductorio sobre la nueva
+Constitución, Sarmiento sostuvo que para lograr éxito la Argentina debía seguir estrictamente
+el derecho constitucional de los Estados Unidos.12 Él creía que la intención original de los
+constituyentes del ’53 había sido asegurar para la Argentina “el éxito de los Estados
+Unidos”, lo cual podía garantizarse con la adopción del derecho constitucional
+norteamericano.13
+    La idea de incorporar a la Constitución de los Estados Unidos como una fuente final de
+autoridad normativa fue ratificada durante el siguiente paso evolutivo en el desarrollo
+constitucional del país. La Provincia de Buenos Aires no había participado en la Convención
+Constituyente de 1853. La razón de dicha ausencia había sido la oposición al gobierno
+nacional de Justo José de Urquiza, como así también el interés de Buenos Aires en mantener
+el control sobre su puerto y los correspondientes ingresos provenientes de la aduana. Sin
+embargo, en 1860, luego de la derrota militar en Cepeda, Buenos Aires decidió incorporarse
+a la federación. A fin de proteger sus intereses, Buenos Aires exigió el derecho de revisar
+la Constitución de 1853 y convocó una convención provincial con la expresa tarea de
+recomendar modificaciones al texto de aquella.
+    El objetivo de la convención provincial era “purgar” la Constitución de 1853 de todas
+las cláusulas que difirieran de la constitución de los Estados Unidos.14 Con este objetivo
+en mente, la convención provincial creó el Comité Examinador para revisar la Constitución
+de 1853. Los registros revelan que una de las aspiraciones principales de Buenos Aires,
+era restaurar el derecho constitucional de los Estados Unidos en la parte que hubiera sido
+
+
+   9. JUAN BAUTISTA ALBERDI, BASES Y PUNTOS DE PARTIDA PARA LA ORGANIZACIÓN POLÍTICA DE LA
+REPÚBLICA ARGENTINA, Buenos Aires (1852). DOMINGO FAUSTINO SARMIENTO, ARGIRÓPOLIS (1896),
+reproducido en OBRAS COMPLETAS DE SARMIENTO 18-18 (Editorial Luz del Día, 1950) citado en Miller,
+supra nota 1, pág. 1505/1508.
+   10. ALBERDI, supra nota 9, pág. 233. Es interesante destacar que Alberdi no sólo prestó atención a la
+constitución de los Estados Unidos, sino también a las de California y Massachussets. Alberdi pensaba que
+todas ellas eran una guía útil para alcanzar unidad, libertad y progreso.
+   11. Alberdi era mucho más cauteloso que Sarmiento respecto a la adopción del derecho constitucional
+estadounidense. Así, luego de que la Constitución de 1853 fue aprobada, Alberdi escribió Estudios sobre la
+Constitución Argentina de 1853, donde argumentó en contra de la fascinación de Sarmiento con la idea de
+importar el derecho constitucional norteamericano íntegramente. Alberdi estaba convencido de que la
+historia local jugaba un rol en el desarrollo de las prácticas constitucionales de la Argentina. Ver JUAN
+BAUTISTA ALBERDI, ESTUDIOS SOBRE LA CONSTITUCIÓN ARGENTINA DE 1853, 5 OBRAS COMPLETAS DE
+JUAN BAUTISTA ALBERDI (La Tribunal Nacional 1886); Miller supra nota 1, pág. 1519.
+   12. DOMINGO FAUSTINO SARMIENTO, COMENTARIOS DE LA CONSTITUCIÓN DE LA CONFEDERACIÓN
+ARGENTINA DE 1853 29-30 (Editorial Talleres Gráficos Argentinos de L.J. Rosso 1929).
+   13. Ver Miller, supra nota 1, pág. 1516.
+   14. En su discurso en la convención provincial, Vélez Sársfield dijo que el comité no había hecho más que
+restaurar el derecho constitucional de los Estados Unidos. Informe de la Comisión Examinadora de la
+Constitución Federal, en 4 ASAMBLEAS CONSTITUYENTES ARGENTINAS 769 (Emilio Ravignani ed., 1937);
+Miller supra nota 1, pág. 1524.
+74
+
+[[PDF p. 5]]
+                       En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+modificada por los constituyentes de 1853. Vélez Sársfield, redactor del Código Civil,
+jurista eminente, futuro Ministro del Tesoro y del Interior, y uno de los miembros del
+Comité Examinador, fue el principal expositor de este punto de vista dentro de la convención
+provincial de 1860.
+    La importancia de la Constitución de los Estados Unidos como fuente de autoridad,
+emerge una y otra vez a lo largo de todo el siglo diecinueve. En casi todas las instancias en
+las que se decidía alguna cuestión importante, aparecía este punto de vista. Así por ejemplo,
+tanto la cuestión del federalismo, como la de los poderes de los gobiernos locales, y la
+cuestión de si el gobierno federal podía ejercer autoridad sobre la Ciudad de Buenos Aires
+–este último, fue probablemente el debate político más importante en la década de 1880-
+fueron discutidas con referencias a la autoridad de la Constitución de los Estados Unidos.
+    La expectativa general de quienes forjaron nuestra historia constitucional era que las
+interpretaciones sustantivas de la constitución norteamericana deberían ser vinculantes
+también en la Argentina. La idea era que se necesitaba una fuente de autoridad normativa
+obligatoria para prevenir la multiplicidad de discursos normativos que usualmente surgen
+cuando ninguna institución tiene la capacidad de brindar interpretaciones autoritativas de
+un texto constitucional. La multiplicidad normativa y divergencia interpretativa eran, de
+algún modo, asimiladas a la anarquía, y se creía –en consecuencia- que la organización
+institucional del país requería evitar a ambas. Sarmiento, como se expresó antes, insistía
+en que el derecho constitucional formado por los precedentes norteamericanos debía ser
+vinculante para las cortes argentinas. Creía que las autoridades argentinas debían seguir la
+Constitución de los Estados Unidos tan estrictamente como fuera posible, no tanto porque
+fuera más o menos aplicable a nuestro país, sino porque si las autoridades lo hicieran nos
+encontraríamos con un precedente respecto al cual nadie podría decir, simplemente, “esta
+es mi opinión.”15 Sarmiento estaba tan convencido de la necesidad de obtener un discurso
+normativo unívoco y dominante que sostenía que, para construir una nueva Argentina, el
+intérprete constitucional no debería centrarse en la realidad doméstica sino confiar en el
+derecho norteamericano. Así, Sarmiento sostuvo que el derecho constitucional
+norteamericano, la doctrina de sus estadistas, las declaraciones de sus tribunales, la práctica
+constante en los puntos idénticos o análogos constituían autoridad en la República Argentina
+y podían ser alegados en los litigios y adoptados como una genuina interpretación de nuestra
+propia Constitución.16 Bartolomé Mitre participaba de la misma idea. Durante los debates
+sobre la construcción del puerto, Mitre –por entonces ex presidente- sostuvo que la Argentina
+debía descubrir la “doctrina verdadera”, constituida por los precedentes norteamericanos
+de la Constitución que habíamos tomado como modelo.
+    La Corte Suprema apoyó esta tendencia imitativa. En 1877, en el famoso caso “De la
+Torre”17, la Corte se refirió al poder del Congreso para arrestar a un periodista por haber
+informado sobre una sesión secreta. En “De la Torre”, la Corte dijo –en un estilo que
+prevaleció durante todo el siglo diecinueve-: “El sistema de Gobierno que nos rige no es
+nuestra creación. Lo hemos encontrado en acción, probado por largos años de experiencia
+
+
+  15. Ver SARMIENTO, supra nota 12, pág. 872; Miller, supra nota 1, pág. 1526.
+  16. Ver SARMIENTO, supra nota 12, pág. 59; Miller, supra nota 1, pág. 1517.
+  17. Fallos 19:231 (1877).
+                                                                                                          75
+
+[[PDF p. 6]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+y nos lo hemos apropiado. Y se ha dicho con razón que una de las grandes ventajas de
+esta adopción ha sido encontrar un vasto cuerpo de doctrina, una práctica y una
+jurisprudencia que ilustran y completan las reglas fundamentales y que podemos y debemos
+utilizar, en todo aquello que no hayamos querido alterar por disposiciones peculiares.”
+    No es posible explicar muchos fallos de la Corte Suprema sino como intentos por
+seguir de cerca los precedentes norteamericanos. En 1887, en “Sojo”,18 la Corte sostuvo
+que el artículo 20 de la Ley 48 no podía interpretarse como confiriendo jurisdicción
+originaria a la Corte Suprema en los casos de hábeas corpus, como se había alegado. La
+Corte afirmó que la Constitución impedía tal expansión de su jurisdicción original, citando
+precedentes norteamericanos, y envió el caso a un tribunal inferior para su tramitación.
+Resulta difícil entender esta decisión. El texto constitucional, como dijo el por entonces
+Ministro de la Corte Ibarguren, de ninguna manera prohíbe que el Congreso extienda la
+jurisdicción originaria de la Corte Suprema. El Artículo 101 (numeración anterior a la
+reforma) –que es muy similar al artículo III, sección 2 de la Constitución de los Estados
+Unidos- permitía una interpretación textual en virtud de la cual el Congreso se encontraba
+autorizado a extender el número de casos a ser juzgados originariamente por la Corte
+Suprema. Además, y como también sostuvo Ibarguren, un gran número de miembros del
+Congreso que votaron la Ley 48 habían sido previamente miembros de la Convención
+Constituyente que sancionó el texto constitucional, y el hecho de que ellos hubieran votado
+la ley ampliando las competencias originarias de la Corte Suprema revelaba que no habían
+encontrado ningún problema de constitucionalidad en la creación de nuevos casos que
+pudieran ser decididos por ella en forma originaria. Finalmente, “Sojo” no se ajustaba a los
+precedentes de la propia Corte Suprema.19 La única explicación para la decisión del caso
+“Sojo” era, como sugiere el Profesor Miller, que la Corte siguió lo resuelto en “Marbury v.
+Madison”,20 en el cual la Corte Suprema de los Estados Unidos decidió que la jurisdicción
+originaria no podía ser ejercida sin una autorización explícita de la constitución.21
+    Argentina se apoyó en la Constitución Norteamericana no solamente para el diseño de
+sus instituciones políticas sino también para dar forma a su propio sistema de derechos
+fundamentales. La Declaración de Derechos argentina refleja muchas de las enmiendas de
+la Constitución de los Estados Unidos,22 y ha sido interpretada por los tribunales argentinos
+siguiendo los lineamientos del derecho constitucional norteamericano. Este apoyo en el
+derecho norteamericano no debería causar sorpresa, dada la existencia en muchas
+jurisdicciones, incluida la de los Estados Unidos, del canon interpretativo llamado “doctrina
+de la ley prestada” (“Borrowed Statute Doctrine”). Este canon interpretativo sugiere que
+cuando un legislador copia una ley de un poder legislativo extranjero, puede presumirse
+que conocía la forma en que dicha ley era interpretada por los tribunales extranjeros; es
+razonable, en consecuencia, concluir que el legislador desearía que los tribunales nacionales
+
+
+   18. Fallos 32:120 (1887)
+   19. La Corte Suprema había decidido, previamente, casos que involucraban a periodistas que habían
+interpuesto acciones contra órdenes de detención emitidas por el Senado. Ver, por ej., “De la Torre”, Fallos
+19:231 (1877); “Acevedo”, Fallos 28:406 (1885).
+   20. 5 U.S. 137 (1803).
+   21. Ver Miller, supra nota 1, pág. 1547.
+   22. Particularmente, la Primera, Cuarta, Quinta, Novena y Decimocuarta Enmienda.
+76
+
+[[PDF p. 7]]
+                         En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+interpretaran la ley de una manera consistente con la interpretación de los tribunales
+extranjeros.23 En pocas palabras, no es difícil concluir que cuando un legislador “toma
+prestado”, el respeto por el legislador extranjero exige ajustarse a las decisiones de los
+tribunales extranjeros. Pero cualquiera sea el poder explicativo y justificatorio de la “doctrina
+de la ley prestada”, la realidad es que la Corte Suprema argentina incorporó, consciente y
+voluntariamente, la interpretación que la Corte de los Estados Unidos hacía respecto de la
+Constitución Norteamericana.
+    El caso más importante en el campo de las libertades económicas de las primeras
+décadas del siglo pasado, “Ercolano c. Lanteri de Renshaw”24, fue decidido en 1922
+recurriendo a casos norteamericanos. En “Ercolano”, la Corte debía decidir si un
+plan de congelamiento de alquileres era constitucionalmente admisible. A pesar de
+que los constituyentes del ’53 favorecían con bastante más énfasis que sus pares
+norteamericanos la economía del laissez-faire, y que la Constitución Argentina era
+más explícita que la de los Estados Unidos en la protección de de los derechos y
+libertades económicas25, la Corte Suprema encontró que el congelamiento de los
+alquileres era constitucional. La Corte no tenía precedentes nacionales para decidir
+como lo hizo. Al contrario, poco tiempo antes la misma Corte había decidido “Horta
+c. Harguindeguy” 26, donde había declarado inconstitucional el congelamiento de los
+alquileres cuando se aplicaba a contratos en vigencia. A pesar de “Horta c.
+Harguindeguy” y de otros precedentes, la Corte Suprema siguió el precedente
+norteamericano “Block v. Hirsch”27, donde la Corte Suprema de los Estados Unidos
+había sostenido la constitucionalidad de una ley de control de alquileres, y se colocó
+del lado de los inquilinos.
+    De forma similar, en “Avico c. De la Pesa”28, donde se discutía la cuestión de si la
+disminución de las tasas de interés hipotecarias y la moratoria en las ejecuciones de hipotecas
+existentes era constitucional, la Corte Suprema fue fuertemente influenciada por el derecho
+norteamericano. Los precedentes de la Corte no eran claros. “Ercolano” apuntaba hacia la
+constitucionalidad, pero “Horta” lo hacia en la dirección opuesta. En una larga decisión,
+de la cual dos terceras partes fueron destinadas a discutir precedentes norteamericanos
+como “Nebbia v. New York”29 y “Home Building & Loan Ass’n v. Blaisdell”30, la Corte
+Suprema concluyó que era constitucionalmente admisible que la legislatura interviniera y
+alterara las condiciones contractuales de hipotecas privadas. Con una disidencia que insistió
+en la necesidad de respetar los derechos de propiedad consagrados en la Constitución, la
+
+
+   23. Ver, por ej., William S. Blatt, Interpretative Communities: The Missing Element in Statutory
+Interpretation, 95 NW. U.L.REV. 629, 679 n. 335 (2001); Jens C. Dammann, The Role of Comparative Law
+in Statutory and Constitutional Interpretation, 14 ST. THOMAS L. REV. 513, 527 (2001).
+   24. Fallos 136:161 (1922).
+   25. Arts. 14 y 17, Constitución Nacional.
+   26. Fallos 137:47 (1928).
+   27. 256 U.S. 135 (1921).
+   28. Fallos 172:21 (1934).
+   29. 291 U.S. 502 (1934).
+   30. 290 U.S. 398 (1934), declarando la validez constitucional de una moratoria hipotecaria del Estado de
+Minnesota que daba a los tomadores de préstamos un plazo de gracia de dos años para evitar la ejecución
+de sus propiedades.
+                                                                                                            77
+
+[[PDF p. 8]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+Corte Suprema dijo que los precedentes estadounidenses eran auténtica y erudita
+interpretación de los principios incorporados en nuestra Constitución31.
+    La tendencia imitativa también era notoria en materia de interpretación de la cláusula
+del debido proceso.32 Así, en 1981, en “Montenegro”33, la Corte tuvo que decidir un
+aberrante caso en que el acusado había sido torturado hasta confesar su culpabilidad. El
+Tribunal, en vez de centrarse en la legislación local, se apoyó en “Spano v. New York”34.
+La Corte, al igual de lo que había hecho su par norteamericana, caracterizó el caso como
+uno que introducía el conflicto entre el interés de la sociedad en la pronta y eficiente
+ejecución de las leyes y el interés de la sociedad en evitar que los derechos de sus miembros
+individuales sean cercenados por métodos inconstitucionales.35 Al seguir a la Corte de los
+Estados Unidos, la Corte Argentina despojó a la confesión de toda fuerza como evidencia.
+    Existen muchos otros casos similares,36 pero los mencionados hasta aquí son suficientes
+para mostrar la influencia que el derecho constitucional de los Estados Unidos ha tenido
+entre nosotros. Como dice Miller, “Argentina ofrece un ejemplo no sólo de la adopción de
+un modelo constitucional extranjero, sino también del modelo extranjero convirtiéndose
+rápidamente en un artículo de fe…”37 Por cierto, cada vez que las autoridades argentinas
+tuvieron que afrontar un problema nuevo y dificultoso, en lugar de mirar en sus propias
+experiencias, tradiciones y valores legales, la atención se centró en el derecho extranjero.
+Yo estoy convencido que eso no ha sido, en general, para bien. Creo que al referirse al
+derecho extranjero con tanta asiduidad las autoridades constitucionales y los jueces han
+obstaculizado la habilidad del país para desarrollar los recursos culturales internos necesarios
+para resolver casos constitucionales “autoritativamente”. Especular sobre lo que otros
+países han hecho en circunstancias similares es, por cierto, un desafío importante y una
+ayuda para pensar mejor nuestros propios problemas, pero parece improbable que algún
+país pueda construir una identidad y una cultura constitucional a través de la importación
+masiva de doctrinas y experiencias constitucionales ajenas. Como George Fletcher ha
+señalado, “la forma aceptable de resolver disputas y explicar los resultados es mirar hacia
+
+
+   31. Fallos 172:21 (1934). Para un excelente análisis de la influencia en Argentina de los precedentes
+norteamericanos, ver Jonathan Miller, Judicial Review and Constitutional Stability: A Sociology of the U.S.
+Model and its collapse in Argentina, 21 HASTINGS INT’L & COMP. L. REV. 77 (1997).
+   32. Artículo 18 Constitución Argentina.
+   33. Fallos 303:1938 (1981).
+   34. 360 U.S. 315 (1959).
+   35. Fallos 210:2284 (1981).
+   36. Ver, por ej., “Fiscal c. Fernández”, Fallos 313:1305 (1990), donde la Corte Suprema enfrentó la
+cuestión de determinar si la actividad de un agente encubierto es constitucional. La Corte aplicó “Sherman
+v. United States”, 356 U.S. 369 (1958) y “Hampton v. United States”, 425 U.S. 484 (1976), concluyendo que
+la recolección de evidencia está protegida constitucionalmente si el oficial solamente aprovecha las
+oportunidades que le da el acusado y no comete él mismo un delito. Comparar “Fiscal v. Fernández” con
+“Hoffa v. United States”, 385 U.S. 293 (1966). En el tema de la libertad de expresión, la Corte Suprema
+también utilizó extensamente precedentes norteamericanos. En “Costa c. Municipalidad de la Ciudad de
+Buenos Aires”, Fallos 310:508 (1987), la Corte señaló que los precedentes norteamericanos tienen un
+innegable valor para nosotros, dada la similitud entre la forma que nuestra Constitución protege la libertad
+de expresión y la forma en que lo hace la constitución de los Estados Unidos Id. pág. 527. En “Gesualdi c.
+Cooperativa Periodistas Independientes y ot.”, Fallos 319:3085 (1996) la Corte utilizó el test formulado en
+“New York Times v. Sullivan”, 376 U.S. 254 (1964).
+   37. Ver Miller, supra nota 1, pág. 1485.
+78
+
+[[PDF p. 9]]
+                         En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+adentro y reflexionar sobre la cultura legal en que se inserta la disputa”38 y no mirar hacia
+fuera importando aquello que es consistente con las aspiraciones de quien tiene la
+responsabilidad de decidir un caso o de diseñar una cláusula constitucional.
+
+3.
+    La práctica del préstamo o “borrowing”, sin embargo, no es totalmente insensata. Hay
+varias razones de envergadura que se pueden ofrecer en su defensa. Si bien en la tradición
+argentina no ha habido suficiente reflexión crítica sobre los “préstamos”, no es demasiado
+difícil hallar razones generales en apoyo de la práctica de importar soluciones foráneas –y
+su autoridad- para resolver problemas legales domésticos. Estas razones generales pueden
+sintetizarse, a mi criterio, en cuatro argumentos. Esta sección describe esos argumentos,
+mientras que en la sección 4 introduciré las dificultades que los mismos plantean.
+
+3.1.
+    Podríamos justificar los “préstamos” cuando el derecho interno y el derecho extranjero
+se encuentran unidos por una relación de descendencia e historia común. Tal relación parece
+ser suficiente para justificar la importación de diferentes áreas de la doctrina constitucional y
+el derecho positivo. Siguiendo a Sujit Choudhy, llamaré a este argumento “genealógico”39
+    Choudhry ha sostenido que las “relaciones genealógicas” difieren de las relaciones
+“genéticas.”40 “Las constituciones están genéticamente relacionadas”, dice Choudhry, “si
+una constitución influencia la sanción de la otra, o si ambas son sancionadas bajo la
+influencia de una tercera.”41 La “relación genealógica”, por otra parte, es el vínculo entre
+un orden constitucional y otro del cuál el primero desciende.42 El argumento genealógico
+sostiene que la constitución madre y las interpretaciones de la misma deberían tener autoridad
+vinculante en el país que adopta tal constitución. En otras palabras, de acuerdo con el
+argumento genealógico uno puede explicar la fuerza en el ámbito doméstico del derecho
+extranjero apelando a las relaciones entre las constituciones de los países en cuestión.43
+
+3.2.
+    Un segundo argumento en defensa de los “préstamos” se refiere al contexto en el cual
+el “préstamo” tiene lugar. Este argumento no requiere la íntima relación presupuesta por el
+“argumento genealógico”, desde que describe una manera más general de conectar
+normativamente los sistemas legales de diferentes países. Supongamos que hay un caso
+
+
+
+  38. Ver George Fletcher, Constitutional Identity, en CONSTITUTIONALISM, IDENTITY, DIFERENCE, AND
+LEGITIMACY: THEORETICAL PERSPECTIVES 223 (Michel Rosenfeld ed., Duke Univ. Press 1994).
+  39. Ver Sujit Choudhry, Globalization in search of Justification: Toward a Theory of Comparative
+Constitutional Interpretation, 74 IND. L. J. 819 (1999).
+  40. Id. pág. 838.
+  41. Id.
+  42. Id.
+  43. El argumento genealógico explica el uso de jurisprudencia americana por parte de la Corte Suprema
+de Canadá –especialmente las decisiones del Chief Justice Marshall en los comienzos del siglo diecinueve-,
+pasando revista a los acuerdos de los británicos con los pueblos nativos en América. Ver Choudhry, supra
+nota 39, pág. 871.
+                                                                                                            79
+
+[[PDF p. 10]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+entre A y B. Luego de considerar cuidadosamente los argumentos esgrimidos por A y por
+B, y de revisar todos los hechos relevantes del caso y todas las normas aplicables, el Juez
+J dice que B tiene razón y que debe, en consecuencia, prevalecer en la disputa. Si luego
+tenemos que decidir una controversia entre C y D, donde la cuestión y las normas aplicables
+son similares a aquellas comprendidas en el conflicto entre A y B, ¿hay alguna razón
+general para considerar la decisión de J como autoritativa?
+    Podemos pensar que una razón en apoyo de concederle alguna autoridad a la decisión
+de J es la necesidad de evitar multiplicidad normativa y divergencia interpretativa (justamente
+el objetivo que Sarmiento invocaba cuando pregonaba la adopción de los precedentes
+constitucionales norteamericanos por parte de los tribunales argentinos). Comoquiera que
+uno piense respecto de los méritos de la decisión de J, uno puede pensar que es necesario
+resolver el caso como él lo hizo, a los fines de adherir a aquella solución y reforzar las
+expectativas que aquel caso debe haber generado. Si cada juez hace lo que cree correcto
+en casos como éste, el resultado será una suerte de Babel legal donde nadie comprendería
+verdaderamente cuáles son sus derechos y obligaciones. En otras palabras, tenemos razones
+para imitar la decisión de J –cualquiera sea su mérito intrínseco- porque al hacer eso
+podemos evitar los problemas de la multiplicidad normativa y la divergencia interpretativa.
+Éste es el tipo de argumento que justifica la práctica del precedente y del stare decisis,44
+pero, lamentablemente, no puede justificar los “préstamos” porque no hay nada incorrecto
+o confuso en que dos o más sistemas legales nacionales tengan diferentes normas, o
+diferentes interpretaciones de sus normas. La multiplicidad y la divergencia no son
+necesariamente un mal cuando ocurren en jurisdicciones diferentes.
+    Sin embargo, podría decirse también que las decisiones de J, aún cuando J fuera un
+juez de una jurisdicción extraña, deberían tener algún grado de autoridad sobre nosotros
+simplemente porque es muy posible que estas decisiones hayan sido cuidadosamente
+razonadas. Esta manera de ver la cuestión puede concebirse como un segundo argumento
+en favor de los préstamos porque puede explicar la práctica de usar precedentes extranjeros
+en virtud de su “autoridad” intrínseca.
+    Llamaré a este segundo argumento “contextual” en virtud de que se aplica solamente
+si: (1) el contexto en las dos situaciones es idéntico, y (2) el caso en la jurisdicción
+extranjera fue decidido con conciencia de su gran importancia. Este argumento contextual
+ha sido defendido por académicos del derecho y filósofos por igual. Así, por ejemplo,
+Vicki Jackson ha sugerido que “las decisiones constitucionales extranjeras pueden merecer
+consideración porque reflejan los juicios razonados de otros jueces enfrentados con
+problemas similares.”45 Bernard Williams ha sostenido que es razonable considerar que
+las decisiones legales tienen autoridad más allá del caso concreto, y que –en consecuencia-
+
+
+   44 En Argentina, al igual que en Brasil, los precedentes no obligan a los tribunales. Sin embargo,
+recientemente importantes académicos han sostenido que el estado de derecho requiere una fuerte
+deferencia hacia las decisiones pasadas y que, en consecuencia, deberíamos incorporar a nuestros sistemas
+la naturaleza vinculante del precedente. Ver Alberto Garay, El Precedente Judicial en la Corte Suprema,
+REVISTA JURÍDICA DE LA UNIVERSIDAD DE PALERMO, número 2, pág. 51 (1997); CAMARGO MANCUSO,
+DIVERGENCIA JURISPRUDENCIAL E SÚMULA VINCULANTE (Revista dos Tribunais 1999).
+   45. Ver Vicki C. Jackson, Ambivalent Resistance and Comparative Constitutionalism: Opening up the
+Conversation on Proportionality, Rights and Federalism, 1 U. PA. J. CONST. L. 583, 636 (1999).
+80
+
+[[PDF p. 11]]
+                        En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+casos pasados pueden ser usados para decidir casos futuros, cuando los tribunales que
+han decidido los casos pasados eran conscientes de la importancia de los mismos. Como
+este argumento se aplica perfectamente cuando los tribunales que han decidido los casos
+pasados son extranjeros, me arriesgaría a citar a Williams como un potencial defensor de la
+perspectiva según la cual los “préstamos” pueden ser defendidos por razones contextuales.46
+
+3.3
+    La tercera justificación para la práctica de otorgar autoridad a las decisiones de los
+tribunales y a las leyes, más allá de las fronteras del propio país, es el “argumento
+procedimental”. En la forma general del argumento procedimental se sostiene que tenemos
+razones para seguir lo que otros han decidido en el pasado respecto a cuestiones con las
+que nos enfrentamos hoy si las decisiones adoptadas por otros fueron alcanzadas mediante
+el uso de procedimientos diseñados para aumentar la confiabilidad de sus decisiones. El
+mismo tipo de argumento podría utilizarse en el campo constitucional. En ocasiones, las
+legislaturas, las asambleas constituyentes y los tribunales operan con requisitos procesales
+especialmente diseñados para reproducir las condiciones ideales de elección. Así, por
+ejemplo, en muchas legislaturas hay normas que regulan las discusiones a fin de permitir
+la manifestación de todos los puntos de vista. Algunos tribunales aceptan reglas que
+canalizan las discusiones o proveen standards para evaluar la evidencia producida, y otras
+similares. En virtud de estos y otro tipo de requisitos procedimentales, es probable que los
+tribunales y las legislaturas puedan identificar las normas y los principios correctos –o, al
+menos, razonables-, y que tengan un mayor grado de probabilidad de éxito en esta empresa
+que aquellos tribunales y legislaturas que no se encuentran reguladas por tales requisitos
+procedimentales. Consecuentemente, en el caso de que las autoridades o los tribunales
+extranjeros hubieran operado en el contexto de procedimientos confiables, no resulta en
+absoluto irrazonable conceder algún grado de obligatoriedad a las decisiones así adoptadas.
+    Este tipo de argumento no es nuevo: algunos autores se han apoyado en él para explicar
+la tendencia universal al “préstamo”. Así, por ejemplo, Jens C. Dammann ha sostenido
+que los “préstamos” se tornan plausibles tan pronto como uno “asume que los
+procedimientos legales y democráticos que cumplen un cierto estándar de justicia son
+aptos para llevarnos a adoptar leyes deseables”.47
+
+3.4
+   Existen más municiones a favor de los “préstamos” que las que los argumentos
+genealógico, contextual, y procedimental sugerirían. Como algunos autores han enfatizado,
+en ocasiones razones expresivas pueden explicar y justificar determinados “préstamos”.
+
+
+   46. Ver Bernard Williams, What Has Philosophy to Learn from Tort Law?, en PHILOSOPHICAL FOUNDATIONS
+OF TORT LAW 487 (David G. Owen ed., Clarendon Press 1995). La Corte de Sudáfrica ha adherido
+explícitamente a la idea de que las decisiones extranjeras tienen credibilidad porque fueron tomadas en
+contextos donde temas de importancia dependen del resultado. Así la Corte Suprema sudafricana ha
+dicho: “las autoridades internacionales y foráneas son de valor porque… muestran cómo Cortes de otras
+jurisdicciones han manejado el controvertido tema (de la pena de muerte). Por esa razón solamente, ellas
+requieren de nuestra atención”. “S. v. Makwanyane”, 1995 SALR 391 (CC), pág. 413.
+   47. Ver Dammann, supra nota 23, pág. 527.
+                                                                                                           81
+
+[[PDF p. 12]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+Piénsese en la historia argentina. Después de las traumáticas experiencias de las masivas
+violaciones de derechos humanos realizadas por las juntas militares en los ’70 y el comienzo
+de los ’80, Argentina decidió reformar su Constitución en 1994. En la convención
+convocada al efecto, una gran mayoría de sus miembros votaron la incorporación al texto
+constitucional de los derechos y libertades reconocidos por los tratados internacionales
+sobre derechos humanos que Argentina había firmado en el pasado o firmara en el futuro.48
+La razón para la incorporación de estos tratados fue explicada por Alicia Oliveira, miembro de
+la convención constituyente de 1994. Ella destacó que “la decisión [de incorporar tratados de
+derechos humanos en la Constitución] tiene su fuente inmediata en los aberrantes crímenes
+cometidos por las dictaduras militares en Argentina, especialmente la última…”49 “Nuestra
+historia”, dijo Oliveira, “está condensada en la expresión ‘Nunca Más’…”50 “y para garantizar
+que será así debemos otorgar basamento constitucional a los principios de ius humanitarios”51
+    Los comentarios de Oliveira enfatizan que Argentina incorporó derecho extranjero por
+un propósito completamente expresivo. Argentina utilizó los “préstamos” a fin de manifestar
+su adhesión a las mismas restricciones al poder gubernamental que caracterizaban al
+derecho extranjero o internacional “transplantado” o “prestado”. Argentina no es el único
+país que ha hecho esto. Hungría, Eslovenia y Checoslovaquia hicieron lo mismo.52 En
+1989, después de su pasado comunista, Hungría adoptó una constitución que exigía la
+armonización de la legislación interna con el derecho internacional.53 Sudáfrica es otro claro
+ejemplo de “préstamo” o “transplante” constitucional expreso (el “transplante” es la aprobación
+por un cuerpo legislativo, distinto a un tribunal, de leyes o constituciones de idéntico o similar
+contenido a leyes o constituciones extranjeras cuando ella es hecha bajo la presuposición de
+que estas leyes o constituciones son aptas para resolver los problemas locales, en razón de
+que han sido considerados aptas por los legisladores o constituyentes extranjeros para
+resolver los problemas extranjeros).54 La Profesora Scheppele sugiere que las democracias
+europeas han adoptado derecho extranjero para expresar sus aspiraciones constitucionales.
+Estos países “pueden haber adoptado el modelo del Tribunal Constitucional Federal de
+
+
+   48. Un artículo interesante sobre los problemas y promesas de la constitucionalización de los tratados
+sobre derechos humanos en Argentina es el de Janet K. Levit, The Constitutionalization of Human Rights in
+Argentina: Problem or Promise? 37 COLUM. J. TRANSNAT’L L. 281 (1999).
+   49. Diario de Sesiones de la Convención Nacional Constituyente, 22 Reunión, 3 Sesión Ordinaria, Agosto 2,
+1994, pág. 2861, disponible en www.1hcdn.gov.ar/dependencias/dip/debate-constituyente.htm
+   50. NUNCA MÁS, Eudeba, 1986.
+   51. Id.
+   52. Ver Victor Osiatynski, Paradoxes of Constitutional Borrowing, 1 INT’L J. CONST. L. 244 (2003). Ver A
+MAGYAR KÖZTÁRÁG ALKOTAMNYA, art. 7 (1); CONST. ESLOVENIA, art. 153; CONST. ESLOVAQUIA, art.
+11, CONST. CHECOSLOVAQUIA, art. 10.
+   53. El Capítulo I, artículo 7 (1) de la Constitución húngara de 1989 establece “El sistema legal de la
+República de Hungría acepta las normas y regulaciones de derecho internacional universalmente reconocidas,
+y armoniza las normas y leyes internas del país con las obligaciones asumidas bajo el derecho internacional”.
+A MAGYAR KÖZTÁRÁG ALKOTAMNYA, art. 7 (1).
+   54. La Sección 35 (1) de la Constitución interina de Sudáfrica establece “Interpretación: (1) Al interpretar
+las previsiones de este Capítulo, los tribunales de justicia deberán promover los valores subyacentes a una
+sociedad abierta abierta y democrática, basada en la libertad y la igualdad y deberán, donde corresponda,
+tener en consideración el derecho internacional público aplicable a la protección de los derechos establecidos
+en este Capítulo, y pueden considerar precedentes comparables del derecho extranjero.” S. AFRICAN
+INTERIM CONSTITUTION. S35 (1).
+82
+
+[[PDF p. 13]]
+                       En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+Alemania para demostrar, precisamente, que ellos también aspiraban a realizar los principios
+constitucionales que la Corte Constitucional había ayudado a establecer en Alemania.”55
+
+4.
+    No hay dudas de que los argumentos genealógico, contextual, procedimental y expresivo
+son persuasivos. Individual o colectivamente, pueden convencernos de que, en general, la
+práctica de los “préstamos” es plausible. Sin embargo, los “préstamos” constitucionales
+constituyen una actividad problemática. Aún cuando los textos e interpretaciones
+constitucionales sean adoptados en circunstancias en las que los factores principales
+dependan de decisiones de gente por quien tengamos la mayor consideración, a través de
+procedimientos diseñados para maximizar la deliberación pública autónoma, la incorporación
+de derecho extranjero crea problemas no siempre fáciles de resolver.
+    Una constitución es una carta que distribuye poder político, organiza el proceso legislativo
+y determina la extensión y los límites de los derechos y libertades fundamentales de los
+ciudadanos. La mayoría de las constituciones intentan resolver estas cuestiones usando,
+en general, los mismos mecanismos. Aún así, a pesar de la similitud de fines y medios, no
+existe un canon constitucional que provea uniformidad a través de las fronteras. Es posible
+concebir muchas maneras diferentes, e igualmente razonables, de tratar cada tema que
+amerite preocupación constitucional. Tomemos el problema de la distribución del poder.
+Uno podría pensar que es mejor tener divisiones territoriales, como hace la Constitución
+de los Estados Unidos, o que el poder debería ser dividido entre distintas ramas, como
+hace la actual Constitución de Chile.56 Existe también espacio para la diversidad en materia
+de regulación de derechos fundamentales. La frontera entre los derechos individuales y el
+poder estatal podría trazarse concediendo el mayor espacio posible al individuo, como era
+ciertamente el caso de la Establishment Clause de la Constitución de los Estados Unidos,57
+o podría decidirse que el espacio se dividiera entre el individuo y el estado –por ejemplo,
+atribuyendo al estado la facultad de adoptar una religión, en tanto y en cuento no intente
+imponerla a los individuos– como es el caso de la regulación de las prácticas religiosas en
+la Constitución Argentina.58 Como ha señalado Michael Rosenfeld, “el constitucionalismo
+implica una compleja interrelación entre identidad y diversidad en tantos niveles diferentes
+que parece completamente inútil buscar cualquier semejanza o diferencia que fuera
+indispensable para una organización constitucional legítima.”59
+    ¿Por qué el derecho constitucional es tan heterogéneo? Desde mi punto de vista, la
+combinación de la multiplicidad de nuestras relaciones como ciudadanos, y nuestra continua
+facultad de redefinirlas, reformarlas y amoldarlas, es lo que hace al derecho constitucional
+heterogéneo. Esta combinación –que admite muchas formas diferentes- hace posible la
+
+
+  55. Kim Lane Scheppele, Aspirational and Aversive Constitutionalism: The Case for Studying Cross-
+Constitutional Influence Through Negative Models, 1 INT’L. J. CONST. L. 296, 299 (2003).
+  56. Ver Constitución de Chile, art. 100.
+  57. U.S. Const., Amend. 1.
+  58. C.N. art. 2.
+  59. Ver Michael Rosenfeld, Modern Constitutionalism as Interplay Between Identity and Diversity, en
+CONSTITUTIONALISM, IDENTITY, DIFFERENCE, AND LEGITIMACY: THEORETICAL PERSPECTIVES, supra nota
+38, pág. 3/13.
+                                                                                                          83
+
+[[PDF p. 14]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+aparición de varias formas diferentes de tratar los problemas a los que el derecho constitucional
+se enfrenta. Siempre habrá innovación y creación en el derecho constitucional, porque
+siempre habrá diferentes formas de intentar solucionar problemas constitucionales.60
+    No hay ninguna duda que la heterogeneidad de las normas constitucionales debilita
+tanto el argumento procedimental como el contextual. Estos dos argumentos dependen de
+la identidad o, al menos, similitud del objeto del derecho constitucional. Si la ley del país
+extranjero provee un conjunto de respuestas a los problemas del constitucionalismo diferente
+a aquellos del país que toma prestada la norma, tiene poco sentido efectuar el “préstamo”
+o “transplante”. Esto es así, aún cuando las respuestas adoptadas por los tribunales
+extranjeros hayan sido dadas en circunstancias donde los resultados eran muy importantes
+y hayan sido alcanzadas a través de procedimientos diseñados para maximizar la probabilidad
+de lograr resultados correctos –o, al menos, razonables-.
+    Sin embargo, la heterogeneidad del derecho constitucional no debilita el argumento
+genealógico ni el expresivo. Los argentinos que apoyan la práctica de los “préstamos” o
+de los “transplantes” pueden insistir en que la Constitución argentina fue elaborada sobre
+el molde de la Constitución norteamericana, y que este hecho –por sí mismo- justifica otorgar
+algún grado de autoridad a las decisiones constitucionales adoptadas por los Estados Unidos.
+Similarmente, si un país toma prestada una regulación extranjera para expresar fidelidad a los
+valores que aquella regulación encarna, el planteo respecto a que, constitucionalmente hablando,
+el país del cual se toma prestada la norma es diferente al propio, no implica una crítica a la
+decisión de efectuar el “préstamo” dado que, precisamente, es esta diferencia la que justifica
+el “préstamo” en primer término: se adopta el derecho extranjero porque se quiere ser
+diferente de lo que uno es, y en consecuencia la heterogeneidad del derecho constitucional
+es una precondición –y no un impedimento– de la decisión de adopción.
+    No obstante lo anterior, hay un problema que afecta a todos los argumentos en defensa
+de los “préstamos” o “transplantes”, al que voy a llamar el “problema de la validación”.
+Las normas constitucionales regulan la estructura subyacente de la sociedad. Los problemas
+que pretenden resolver estas normas son los asuntos interpersonales más importantes que
+
+   60. Los “Préstamos” o “transplantes” en derecho privado son menos problemáticos que en derecho
+constitucional porque el derecho privado es más homogéneo. Esta mayor homogeneidad no es consecuencia
+del hecho de que el derecho privado “sirva a un sólo amo”, o de que el derecho privado sea el sujeto de uno,
+o como máximo dos, fines superpuestos, como por ejemplo sostiene Rosenfeld. Ver Michael Rosenfeld,
+Constitutional Migration and the Bounds of Comparative Analysis, 58 N.Y.U. ANN. SURV. AM. L. 67, 72
+(2001). Es imposible pensar el derecho privado como un campo monista en términos de valores, fines u
+objetivos. Los artículos del Código Civil Argentino, o para el caso los de cualquier otra regulación de derecho
+privado de cierta complejidad, no pueden ser vistos como emanaciones normativas del ideal de eficiencia o
+de maximización de la riqueza. Por el contrario, lo que explica la homogeneidad del derecho privado es el
+hecho de que hemos llegado a desarrollar una forma de argumentar, un determinado set de respuestas o
+formas que, por razones de repetición y adhesión general transnacional e intertemporal, han alcanzado el
+status de soluciones a los diferentes problemas que pueden surgir en el contexto de nuestras interacciones
+con otros, en nuestro carácter de individuos privados. ¿Por qué hicimos eso en el ámbito del derecho
+privado y no en el del derecho constitucional? Probablemente porque, como ha enfatizado Weinrib, el
+derecho privado requiere sólo un modo de interacción, caracterizado por la vinculación inmediata entre las
+partes, mientras que el derecho constitucional regula muchas interacciones de diferente tipo. Ver ERNEST
+WEINRIB, THE IDEA OF PRIVATE LAW 8 (Harvard Univ. Press 1995). Sobre la mayor facilidad de “transplantar”
+cuestiones instrumentales, como el derecho privado, Ver Oscar G. Chase, Legal Process and Natural
+Culture, 5 CARDOZO J. INT’L & COMP. L. 1 (1997).
+84
+
+[[PDF p. 15]]
+                          En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+pueden surgir en una comunidad democrática. Éstos definen el modo en que una comunidad
+democrática puede intentar conducirse a sí misma, y las formas permitidas en las que los
+ciudadanos –y, más generalmente, los miembros de la sociedad- pueden cooperar entre ellos
+a lo largo de todas sus vidas.61 La consecuencia más notable de la relevancia de los problemas
+que pretenden regular las normas constitucionales es que ellas afectan nuestras vidas mucho
+más profundamente y más coercitivamente que las normas de otras ramas del derecho. El
+derecho contractual y el derecho de daños, por ejemplo, sólo determinan el modo en que
+debemos comportarnos en cierto tipo de interacciones reguladas. Pero el derecho constitucional
+tiene un impacto más profundo. Podemos expresar esta verdad diciendo que los ciudadanos
+de un estado democrático siempre sentirán la presión coercitiva de las normas constitucionales
+en sus vidas cotidianas de un modo que no sucede con otras normas jurídicas.
+    Ahora bien, en un estado democrático la justificación de la coerción tiende a ser una
+tarea ardua. Dado el pluralismo irreductible sobre lo que nos debemos a cada uno –estamos
+en desacuerdo respecto del contenido y alcance de la mayoría de los derechos que
+conocemos- no podemos tratar de justificar la coerción mediante una referencia al contenido
+o la sustancia de la norma.62 No puede decirse, por ejemplo, que siendo la ley moralmente
+plausible, uno tenga razones para obedecerla, dado que uno puede no estar de acuerdo
+con las razones morales invocadas.
+    El modo en que podemos validar el derecho en una democracia constitucional y, por lo
+tanto, la manera en que podemos validar pro tanto el uso de la coerción no está relacionado
+con el contenido o la sustancia de las normas jurídicas. Antes bien, lo que explica el por
+qué de la obligatoriedad del derecho es la participación justa en el proceso legislativo tanto
+como “hacedores” de las normas como “beneficiarios” de las mismas (o la oportunidad
+justa de participar en tal proceso o, aún menos ambiciosamente, la existencia de condiciones
+normativas y fácticas diseñadas para prevenir la alienación individual respecto al proceso
+legislativo).63 Es nuestra participación en el proceso legisferante la que desmorona todas
+nuestras defensas contra los reclamos y expectativas de aquellos que quieren que nos
+conformemos con lo que ha sido decidido colectivamente.64
+
+   61. Esta afirmación refleja de cierta manera el punto de vista de Rawls. Ver JOHN RAWLS, POLITICAL
+LIBERALISM 339 (Harvard Univ. Press 1993). Rawls ha insistido en la importancia de la regulación de la
+estructura básica. Por ello dice “…todos reconocen que la forma institucional de la sociedad afecta a sus
+miembros y determina en gran medida el tipo de persona que quieren ser tanto como el tipo de personas
+que son. La estructura social también limita las ambiciones y deseos de la gente de diferentes modos; desde
+que ellos con razón se verán a sí mismos en parte según su posición en ella y tomando en cuenta los medios
+y oportunidades a los que pueden, en forma realista, aspirar.” Id. pág. 269.
+   62. Es usual referirse al pluralismo sobre las concepciones del bien desde que una característica de las
+sociedades modernas es que la gente esté en desacuerdo entre sí respecto a lo que le da verdadero sentido
+a la vida. Pero el desacuerdo persistente sobre los que nos debemos a cada uno y el modo en que este
+desacuerdo afecta nuestras relaciones ha recibido menos atención.
+   63. Sobre la obligatoriedad de la norma, he desarrollado mis ideas en La Pobreza, la Ley y la Constitución,
+en SELA 2002 (Editor del Puerto S.R.L., 2003).
+   64. La idea de que la obligatoriedad de la ley sólo puede ser explicada y justificada procedimentalmente es
+defendida por Jürgen Habermas. Habermas ha sostenido que “en sociedades complejas la ciudadanía como
+un todo no puede seguir siendo aglutinada por un consenso sustantivo respecto a valores, sino solamente por
+un consenso respecto a los procedimientos para la legítima sanción de las normas y el legítimo ejercicio del
+poder.” Ver Jürgen Habermas, Struggle for recognition in the democratic constitutional state, en MULTICULTURALISM,
+EXAMINING THE POLITICS OF RECOGNITION 107, 135 (Amy Gutman ed., Princeton Univ. Press 1994).
+                                                                                                               85
+
+[[PDF p. 16]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+    Si aceptamos la idea de que se supone que cumplamos las normas solamente cuando
+ellas son el resultado de decisiones colectivas de la entidad política a la que pertenecemos,65
+entonces podríamos objetar los “préstamos” o “transplantes” constitucionales simplemente
+porque ellos consisten, esencialmente, en la deferencia a decisiones colectivas tomadas
+por otros. La adopción consciente de una norma constitucional extranjera como derecho
+vinculante por una autoridad constitucional o por un juez son dos casos en que los temas
+más básicos de nuestra vida interpersonal son decididos por personas con quienes no
+tenemos relación política alguna, y quienes no son miembros de la misma entidad política.
+Esta deferencia de la última palabra en asuntos constitucionales a otros es lo que torna la
+práctica de los “préstamos” o “transplantes” incompatible con el principio según el cual la
+coerción sólo puede ser justificada cuando es la consecuencia directa de una decisión
+colectiva66 y, por lo tanto, los “préstamos” resultan de imposible validación en el contexto
+de una democracia constitucional.
+    El problema de la validación no puede ser evitado mediante el argumento de que la
+elección de efectuar un “Préstamo” o “Transplante” es una elección de la propia comunidad
+y, por lo tanto, el “préstamo” debe ser visto como un ejercicio –y no como una violación- del
+derecho y la obligación de una comunidad de gobernarse a sí misma de acuerdo a sus propias
+decisiones. Es cierto que cuando una comunidad adopta derecho foráneo, es la comunidad
+la que lo hace, pero la decisión que la comunidad toma, en un sentido importante, es la
+decisión de otra persona. Como la esclavitud voluntaria, que sigue siendo esclavitud, la deferencia
+voluntaria a las decisiones de otros, sigue siendo deferencia a las decisiones de otros.67
+    En este punto es importante enfatizar que el problema de la validación es más difícil en
+el ámbito de la adjudicación constitucional por parte de los tribunales que en el de la
+elaboración de constituciones por parte de convenciones constituyentes. Scalia, hoy juez
+de la Corte Suprema de los Estados Unidos, acierta al distinguir entre la decisión de una
+autoridad de adoptar derecho constitucional comparado para el diseño constitucional y la
+decisión de un tribunal de adoptarlo para la interpretación constitucional.68 Tushnet también
+acierta cuando dice “que la Constitución debe permitir expresamente el uso de material
+comparativo para que las Cortes estén autorizadas para aprender de la experiencia
+constitucional extranjera”69 (El aserto de Tushnet sugiere que, contrariamente, las
+
+
+
+   65. Los asertos que hago en el texto son, obviamente, debatibles. La cuestión de la obligatoriedad de la
+ley ha sido un problema no resuelto desde el crito en adelante, y no pretendo dar una respuesta final aquí.
+Sin embargo, quiero insistir que, a menos que asociemos la validación y la justificación de la ley con la justa
+oportunidad de participar en el proceso de toma de decisiones colectivas (o por lo menos con el hecho de
+no ser alienados del mismo), es imposible entender y explicar por qué pensamos que la ley es obligatoria en
+sociedades democráticas modernas.
+   66. Creo que Frank Michelman estará de acuerdo con que la validación es un problema para los
+“préstamos” constitucionales. Por cierto, él cuestiona el proceso de privatización y globalización recurriendo
+a argumentos que suenan al “problema de la validación”. Ver Frank I. Michelman, Constitutionalism,
+privatization and globalization: whither the Constitution? 21 CARDOZO L.REV. 1063, 1071 (2000).
+   67. Choudhry sugiere que la jurisprudencia americana, en general, está de acuerdo con la idea de que
+recurrir a fuentes extranjeras es, prima facie, ilegítimo, porque estas fuentes son extraídas de sistemas
+legales creados por otros. Ver Choudhry, supra nota 39, pág. 825.
+   68. Ver Printz v. United States, 521 U.S. 898 (1997).
+   69. Ver Mark Tushnet, The Possibilities of Comparative Constitutional Law, 108 YALE L. J. 1225, 1231 (1999).
+
+86
+
+[[PDF p. 17]]
+                          En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+convenciones constituyentes no requieren de tal permiso). Los miembros de las legislaturas
+y de las convenciones constituyentes son representativos de los diversos sectores de la
+sociedad, responden a las necesidades sociales y son sensibles a las demandas públicas.
+A mayor abundamiento, la membresía o participación en una legislatura o una convención
+constituyente es una cuestión abierta al pueblo en general, al punto de que no existen
+limitaciones normativas que descalifiquen a persona alguna para tales posiciones, y los
+miembros de tales cuerpos a menudo deben someterse al proceso electoral. En
+consecuencia, cuando se expresa una convención constituyente o una legislatura, es el
+pueblo quien habla, y cuando ellas “transplantan” o “toman prestado” institutos jurídicos
+o jurisprudencia, es razonable afirmar que somos nosotros –el pueblo- quien ha efectuado
+el “transplante” o “préstamo”. La cuestión es diferente cuando nos referimos a los tribunales.
+El poder judicial está integrado, selectivamente, con miembros exitosos de una profesión
+determinada, los cuales han recibido una larga educación, y no rinden cuentas a nadie de
+sus actos, ni siquiera a aquellos que pueden resultar profundamente afectados por sus
+razonamientos y conclusiones. Por ello, cuando un tribunal “toma prestada” una norma
+constitucional o una interpretación constitucional determinada, no somos nosotros –el
+pueblo- quienes “tomamos prestado”. Es el tribunal quien lo hace. En otras palabras, dado
+que nos resulta difícil identificarnos con un tribunal, es igualmente difícil justificar la
+coerción implícita en la implementación de una norma legal “transplantada” por un tribunal.70
+
+5.
+    Los “préstamos” y “transplantes” no agotan los usos posibles de materiales
+constitucionales foráneos. Existe, por cierto, una amplia diversidad de posibles influencias
+del derecho extranjero que excede el fenómeno más bien restringido que a lo largo de este
+artículo he designado “préstamo”-es decir, la decisión de un tribunal local de usar en una
+de sus sentencias derecho extranjero cuando dicho uso se hace basado en la autoridad de
+este último en su jurisdicción de origen- o “transplante” –es decir, la aprobación por un
+cuerpo legislativo, distinto a un tribunal, de leyes o constituciones de idéntico o similar
+contenido a leyes o constituciones extranjeras cuando ella es hecha bajo la presuposición
+de que estas leyes o constituciones son aptas para resolver los problemas locales, en
+razón de que han sido consideradas aptas por los legisladores o constituyentes extranjeros
+para resolver los problemas extranjeros–. Recuérdese que el “préstamo” o “transplante”,
+como lo he definido, consiste en un uso autoritativo de normas creadas fuera de nuestras
+fronteras. En secciones anteriores, he argumentado que los “transplantes”, en particular
+los “transplantes constitucionales”, son una cuestión complicada. Aún así, en numerosos
+contextos constitucionales, solemos usar normas constitucionales foráneas y referirnos a
+ellas sin la deferencia normativa característica de los “préstamos” o “transplantes”. La
+diferencia crucial entre los “préstamos” y los “transplantes y los restantes usos del derecho
+constitucional extranjero es que estos otros usos son no-autoritativos. Aquí, la referencia
+
+
+   70. Vicki Jackson ha analizado otros problemas de la importación de derecho extranjero. Entre otros,
+analiza la forma en que el uso del derecho extranjero afecta la percepción de legitimidad de las instituciones
+legales. Ver Vicki Jackson, Narratives of Federalism: Of controversies and Comparative Constitutional
+Experience, 51 DUKE L.J. 223, 266 (2001).
+                                                                                                             87
+
+[[PDF p. 18]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+al derecho constitucional extranjero no va acompañada de la aspiración de que sea adoptado
+y observado –aún coercitivamente- en razón de su autoridad intrínseca. Los usos no-
+autoritativos asignan relevancia descriptiva al derecho extranjero, meramente como un
+“hecho constitucional”,71 esto es, como datos que nos informan acerca de la experiencia
+constitucional de otros. Pero, ¿resultan justificables los usos no-autoritativos del derecho
+extranjero? ¿Se encuentran tales usos entre aquellas formas permitidas en las que la
+“influencia constitucional cruzada”72 puede ejercerse de un país a otro?
+    Los usos no-autoritativos del derecho extranjero son muy populares en Argentina. En
+las convenciones constituyentes argentinas, la mayoría de los temas en debate han sido cargados
+con referencias al derecho extranjero. Tampoco es la popularidad de los usos no-autoritativos
+del derecho extranjero una tendencia idiosincrásica argentina. El Juez de la Corte
+Constitucional húngara Imre Voros señala que “las soluciones en la Constitución húngara
+fueron tomadas de las constituciones nacionales de las democracias occidentales”.73 Jon
+Elster apunta el mismo fenómeno cuando señala que en la mayoría de las discusiones
+constitucionales alrededor del mundo, encontramos “un gran número de referencias a
+otras constituciones” no solamente como “modelos a imitar”, sino también “como desastres
+a evitar, o simplemente como evidencia de ciertas visiones sobre la naturaleza humana”.74
+    El hecho de que, constitucionalmente hablando, no podamos inventarnos “desde cero”,
+parece proveer una base para el estudio del derecho extranjero. Además, estudiar derecho
+foráneo nos facilita la detección de falsas imposibilidades que son más bien producto de
+nuestras limitaciones intelectuales pero que no se basan realmente en hechos.75 Sin embargo,
+en mi opinión estudiar derecho extranjero es algo completamente diferente que usarlo.
+Los usos del derecho extranjero, aún aquellos no-autoritativos, son siempre problemáticos.
+En las secciones siguientes intentaré explicar mis ideas y, espero, clarificar esta afirmación
+más bien osada.
+
+5.1
+    A veces las autoridades constitucionales y los tribunales utilizan el derecho extranjero
+como evidencia de hechos. El derecho constitucional regula las estructuras subyacentes de la
+sociedad, y hacerlo con efectividad requiere conocer de antemano cómo la sociedad puede
+responder a los intentos de regularla. Como no existen laboratorios sociales en los cuales
+experimentar, los únicos datos que una autoridad constitucional o un tribunal puede reunir son
+aquellos provistos por el desempeño de regulaciones similares en otros países (o, en casos de
+países federales, con similar regulación en jurisdicción federal o provincial). Las autoridades
+constitucionales y los tribunales reproducen la experiencia de otros países para generar hipótesis
+respecto del futuro de diferentes decisiones legales domésticas. En esta línea de pensamiento,
+
+
+  71. Tomo esta expresión de Fontana, quien habla de “hechos legislativos”. Ver David Fontana, Refined
+Comparativism in Constitucional Law, 49 UCLA L.REV. 539, 553 (2001).
+  72. Ver Kim Lane Scheppele, Aspirational and Aversive Constitutionalism: The Case For Studying Cross-
+Constitutional Influence Through Negative Models, 1 INT’L J. CONST. L. 296, 297 (2003).
+  73. Ver Imre Voros, Contextuality and Universality: Constitutional Borrowings on the Global Stage –The
+Hungarian view, 1 U. PA. J. CONST. L. 651 (1999)
+  74. Ver Jon Elster, Constitutionalism in Eastern Europe: An Introduction, U. CHI. L. REV. 447, 476 (1991).
+  75. Ver Tushnet, supra nota 71, pág. 1227.
+88
+
+[[PDF p. 19]]
+                          En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+el Justice Stephen Breyer de la Corte Suprema de los Estados Unidos, ha señalado que el
+análisis constitucional comparativo puede arrojar “luz empírica sobre las consecuencias de
+las diferentes soluciones [legales] a problemas legales comunes”.76 Este uso del derecho
+extranjero como evidencia se asienta en la idea de que, a pesar de la heterogeneidad del
+derecho constitucional, existen similitudes sociales, culturales y económicas a través de los
+países, que justifican una mirada al extranjero para conjeturar sobre lo que podría suceder
+cuando ciertas clases de regulaciones legales son adoptadas domésticamente.
+
+5.2
+    Las autoridades constitucionales suelen usar el derecho extranjero no como evidencia
+de hechos sino como fuente de innovación y conocimiento legal. El material constitucional
+extranjero puede liberarnos, ayudándonos a deshacernos de la convicción de falsa
+necesidad,77 que usualmente acompaña a aquellos que han sido criados intelectualmente
+en el contexto de instituciones arraigadas. Un campo completamente nuevo de ideas y
+posibilidades puede abrirse cuando miramos al exterior. Nuevas maneras de manejar
+problemas antiguos y comunes pueden aparecer razonables. Adicionalmente, el mirar
+hacia fuera puede ayudarnos a ver nuestro propio esquema constitucional bajo una nueva
+luz, y esto, a su vez, puede llevarnos a resultados a los que no hubiéramos podido llegar
+sin recurrir al material foráneo.
+    Estos dos usos no-autoritativos del derecho extranjero –como evidencia y como fuente
+de innovación y conocimiento legal- no se ven afectados por el “problema de la validación”.
+Dado que estos usos del derecho constitucional no aspiran a introducir de “contrabando”
+la autoridad del derecho extranjero en nuestra decisión constitucional, no están sujetos a
+la principal objeción contra los “préstamos” o “transplantes” que mencioné en la sección
+4. Por lo tanto, y en contraposición a los reclamos de Montesquieu y Hegel,78 puede ser
+posible que el estudio, y algunos usos, del derecho constitucional extranjero puedan ser
+vistos como beneficiosos. Sin embargo, a la luz de la heterogeneidad del derecho
+constitucional a la que me referí antes en la sección 4, se impone una advertencia. Cuando
+usamos derecho constitucional extranjero como evidencia y como fuente de innovación y
+conocimiento legal, tenemos que estar lo suficientemente alertas para identificar las
+características particulares del carácter nacional que nos distingue de otras naciones.
+Tales características representan el límite de lo que puede lograrse a través de la legislación.
+Ergo, como ha sostenido Roberto Mangabeira Unger respecto del Brasil,79 uno puede
+
+
+
+   76. Printz, 521 U.S. 976.
+   77. Ver Mark Tushnet, Returning with Interest: Observations on Some Putative Benefits of Studying
+Comparative Constitutional Law, 1 U. PA. J. CONST. L. 325, 327 (1998).
+   78. Tanto Montesquieu como Hegel pensaban que era mala idea importar constituciones extranjeras.
+Montesquieu decía que sería pura coincidencia si las leyes de una nación pudieran satisfacer las necesidades
+de otra. Ver Del Espíritu de las Leyes, Libro 1, Capítulo 3, Editorial Tecnos, Madrid, 1995 (3ra. edición). Hegel
+argüía que la constitución es “el trabajo de siglos… la conciencia de la racionalidad, tanto como haya sido
+desarrollada en una nación determinada”. Ver FRIEDRICH HEGEL, THE PHILOSOPHY OF RIGHT, 287-287
+(T.M. Knox trans., Oxford Univ. Press, 1967).
+   79. Ver ROBERTO MANGABEIRA UNGER, A ALTERNATIVA TRANSFORMADORA: COMO DEMOCRATIZAR
+O BRASIL, 345-74 (Editora Guanabara Koogan S.A., 1990).
+                                                                                                              89
+
+[[PDF p. 20]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+pensar que el presidencialismo es una buena estrategia para circunscribir la inestabilidad
+endémica de los sistemas parlamentarios, dado que el presidencialismo es el único
+mecanismo político disponible para trascender los acuerdos políticos entre élites que
+usualmente impiden las transformaciones requeridas popularmente.80 Puede pensarse
+también que el presidencialismo es eficaz para la salida de regímenes comunistas. Con
+estas convicciones en mente, uno puede mirar a los Estados Unidos e, inspirado por el
+aceitado funcionamiento de su esquema político, decidir enmendar la propia constitución
+a fin de que refleje la distribución del poder característica de la Constitución de los Estados
+Unidos. Sin embargo, si uno falla en advertir, por ejemplo, que el propio país tiene una
+manera establecida de interacción política radicalmente diferente a la de los Estados Unidos
+–donde no existe ninguna disciplina partidaria-, puede cometer un terrible error.81 Por
+cierto, si como consecuencia de la cultura o de la historia reciente, el sistema partidario
+del propio país resulta altamente confrontativo y prolijamente ordenado con una fuerte
+disciplina partidaria, el presidencialismo redundará probablemente –como lo testifica
+Argentina-82 en insuperables bloqueos entre el presidente y la mayoría legislativa.83 En
+pocas palabras, debemos ser cuidadosos con los “transplantes” legales porque siempre,
+como Mirjan Damaska ha señalado, “la música del derecho cambia… cuando los
+instrumentos musicales y los intérpretes ya no son los mismos”.84
+
+5.3
+   Las autoridades constitucionales a veces utilizan el derecho extranjero en forma negativa.
+Como Epstein y King han sostenido, el “no-transplante” o “no-préstamo” –el rechazo
+consciente a la adopción de una norma, un principio o un texto legal como derecho
+obligatorio- es también parte de un “fenómeno más amplio de construcción
+constitucional”.85 El fenómeno de los “préstamos negativos” es consecuencia de la
+focalización en “las fallas de otros regímenes constitucionales”.86 Las razones del rechazo
+varían. A veces, se produce con clara conciencia de las diferencias categóricas entre los
+países. Así, por ejemplo, Osiatynski señala que en 1989 en algunos países del Este Europeo
+hubo una fuerte discusión sobre si era conveniente diseñar las nuevas constituciones
+sobre la base del modelo americano, y menciona al respecto que la idea fue rechazada,
+eventualmente, debido a las drásticas diferencias entre los países de la región y los Estados
+
+
+  80. De acuerdo a la mayoría de los relatos, Mangabeira Unger parece estar equivocado en el punto de
+que el presidencialismo es algo deseable. Ver THE FAILURE OF PRESIDENTIAL DEMOCRACY: THE CASE OF
+LATIN AMERICA. Vol. II.(Juan J. Linz & Arturo Valenzuela eds., John Hopkins Univ. Press, 1994).
+  81. Ver Fred Riggs, Presidentialism: A Problematic Regime Type, in PARLAMENTARY VERSUS PRESIDENTIAL
+DEMOCRACY (Arend Lijphalt ed., Oxford Univ. Press, 1992).
+  82. Ver Carlos Rosenkrantz, Symposium Transcript, Challenges to Fragile Democracies in the Americas:
+Legitimacy and Accountability, 36 Tex. Int’l. L. J. 328 (2001)
+  83. Osiatynksi sugiere que el presidencialismo ha sido tenido en consideración durante los debates
+constitucionales de 1992 en Polonia, pero fue eventualmente desechado. Ver Osiatynsky, supra nota 52,
+págs. 250-251.
+  84. Ver Mirjan Damaska, The Uncertain Fate of Evidentiary Transplants: Anglo-American and Continental
+Experiments, 45 AM. J. COMP. L. 839, 840 (1997).
+  85. Ver Leo Epstein & Jack King, Constitutional Borrowing and Nonborrowing, 1 Int’l. J. Const. L. 196, 197
+(2003).
+  86. Ver Fontana, supra nota 71, pág. 551.
+90
+
+[[PDF p. 21]]
+                         En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+Unidos. La idea fue también rechazada en los debates de la “Pequeña Constitución”
+en Polonia “primariamente debido a las diferencias en los sistemas de partidos y en el
+contexto político”.87 En otras ocasiones, las diferencias culturales o el orgullo nacional
+subyacen a la decisión de rechazar modelos extranjeros. Finalmente, una decisión de
+no transplantar o no tomar prestado puede deberse a una convicción profunda sobre
+la implausibilidad de una organización constitucional determinada. Este motivo es el
+que Scheppele llama “constitucionalismo aversivo”88, en el que la construcción de un
+texto y una cultura constitucional se basa en el rechazo de una particular concepción
+de lo que una constitución es.89
+    Los usos negativos del derecho extranjero no enfrentan problemas de heterogeneidad
+constitucional ni de validación constitucional, simplemente porque el rechazo del derecho
+extranjero es una decisión autónoma que implica una afirmación de una identidad
+constitucional definida y diferente. Por cierto, los usos negativos son instrumentos muy
+eficientes en la fijación del carácter constitucional esencial de una entidad política nacional.
+En consecuencia, no tengo ningún problema con que las autoridades constitucionales y
+los tribunales usen el derecho constitucional extranjero como modelos a ser evitados.
+
+5.4
+    En ocasiones, los tribunales utilizan materiales comparativos simplemente para enfatizar
+que los aspectos fácticos distintivos del caso pueden ameritar una decisión propia y
+particular. Así, en Amarilla,90 la Corte Suprema argentina contrastó los hechos del caso
+con aquellos de New York Times v. Sullivan91 para mostrar que en Amarilla el demandado
+era perseguido judicialmente por opiniones, juicios de valor y conjeturas, mientras que en
+New York Times v. Sullivan el cargo era por afirmaciones de hecho falsas o imprecisas.
+Basada en estas diferencias, la Corte concluyó que aún si el demandado hubiera publicado
+juicios sabiendo de su falsedad, o con absoluta despreocupación acerca de si eran falsos
+o no, no podía ser condenado.92
+    En otras oportunidades, los tribunales han usado derecho foráneo para mostrar la
+originalidad de sus decisiones. En S.V. v. M.D.A.93 el Juez Petracchi encontró que la
+orden de una corte destinada a evitar que diarios publicaran noticias sobre un caso en que
+un menor demandaba a una figura del deporte por filiación violaba la cláusula de la libertad
+de expresión de la Constitución Argentina, aún cuando tenía como objetivo la protección
+del menor. El Juez Petracchi declaró que la prohibición de censura es un punto fijo en la
+tradición constitucional argentina –también reconocida en el art. 13 de la Convención
+
+
+  87. Ver Osyatynski, supra note 52, págs. 250-251.
+  88. Ver Scheppele, supra nota 72, pág. 300.
+  89. Ackerman ha enfatizado la importancia del ideal de un “nuevo comienzo” para la estabilidad de un
+orden constitucional. Ver Bruce Ackerman, The Rise of World Constitutionalism, 83 U. Va. L. Rev. 771 (1997).
+  90. 321 Fallos 2558 (1998).
+  91. 376 U.S. 254 (1964).
+  92. La Corte presupuso que aquellos que publican informaciones falsas pueden ser condenados únicamente
+cuando intencionalmente quieren causar daño o si tienen “real malicia”, en los términos en que fuera
+definida en New York Times v. Sullivan, esto es, conocimiento de la falsedad de la información publicada o
+absoluta despreocupación acerca de tal circunstancia.
+  93. 324 Fallos 1015 (2001).
+                                                                                                            91
+
+[[PDF p. 22]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+América de Derechos Humanos-94 y el texto constitucional lo prohíbe expresamente.
+Luego se refirió a casos de los Estados Unidos, tales como Organization for a Better
+Austin v. Keefe95 y New York Times Co. v. United States96, sugiriendo que en los Estados
+Unidos la decisión en un caso similar, S.V. v. M.D.A., podría haber sido diferente porque
+aún cuando en la tradición constitucional norteamericana existe una fuerte presunción en
+contra de la censura, ésta per se no está explícitamente prohibida por la Constitución.97
+Finalmente, a veces los tribunales utilizan el derecho foráneo para demostrar que otros
+sistemas resuelven casos en forma similar, lo cual –a su vez- demuestra que sus propias
+decisiones se ajustan a un consenso general sobre el tema. Así, por ejemplo, los Jueces
+Petracchi y Belluscio en Bahamondez98 decidieron que un testigo de Jehová goza del
+derecho constitucional a rechazar una transfusión de sangre recomendada por sus médicos
+para tratar una enfermedad grave. En su opinión conjunta, señalaron que el Tribunal
+Constitucional Federal de Alemania99 y algunos tribunales norteamericanos (mencionaron
+la Corte de Apelaciones del Distrito de Columbia) habían adoptado el mismo criterio,
+basados en los mismos principios contenidos en la Constitución Argentina.100
+
+
+   94. C.A.D.H., Nov. 22, 1969, art. 13.
+   95. 402 U.S. 415 (1971).
+   96. 403 U.S. 713 (1971).
+   97. Existen muchos ejemplos de la Corte Suprema argentina citando casos extranjeros para establecer
+diferencias en otros tópicos. Ver, por ej., Transporte Interprovincial Rosarino S.A. v. Provincia de Buenos Aires
+s.sumario, 324 Fallos 3056 (2001), donde el Juez Fayt dijo que aún cuando en la interpretación de la cláusula
+comercial de la Constitución argentina la Corte otorgaba valor a las interpretaciones que la Corte
+norteamericana hacía de la cláusula análoga de la constitución americana –principalmente la sentada en
+Gibbons v. Odgen 22 U.S. (9 Wheat)- existe una diferencia crucial entre los Estados Unidos y la Argentina
+porque la Constitución argentina establece que el gobierno federal dicta el derecho común.
+   98. 316 Fallos 479 (1993).
+   99. 11 BVerfGE 11 (1957).
+   100. Los tribunales argentinos a veces utilizan el derecho extranjero de manera estratégica. Por ejemplo,
+en Peralta, 313 Fallos 1513 (1990), la Corte Suprema sostuvo la constitucionalidad de un decreto de
+necesidad y urgencia emitido por el presidente que convertía todos los depósitos bancarios por sobre
+determinado monto en bonos del gobierno argentino a largo plazo, citando Home Building & Loan Ass’n v.
+Blaisdell, 290 U.S. 398 (1934) (encontrando que la prórroga del tiempo de pago de deudas hipotecarias no
+violaba la cláusula contractual de la constitución norteamericana). La misma cuestión había sido decidida,
+negativamente, en Avico v. De la Pesa 172 Fallos 21 (1934) y Home Building era un caso más bien diferente.
+Compárese Fernández Prieto, LL 1999-B-282 con Carroll v. United States, 267 U.S. 132 (1925); Chambers
+v. Maroney, 399 U.S. 42 (1975); Ferry v. Ohio, 392 U.S. 1 (1968); y Daray, LL 1995-B-349. Para un lúcido
+análisis de Fernández Prieto, ver ALEJANDRO CARRIÓ, GARANTÍAS CONSTITUCIONALES EN EL PROCESO
+PENAL, 225 (Hammurabi 2002). Los usos estratégicos de decisiones extranjeras por las cortes no son un vicio
+exclusivamente argentino. Por ejemplo, Epstein & Knight sugieren que el uso de material extranjero en los
+Estados Unidos (por parte de los jueces de Corte Breyer y Brennan) y la resistencia a tal uso (juez Scalia)
+podría haber sido diferente si las cortes extranjeras hubieran tomado decisiones diferentes. Ver Printz v.
+United States, 521 U.S. 898 (1997) (referente a la amplitud de los derechos de los estados); Stanford v.
+Kentucky, 492 U.S. 361 (1989) (concerniente a la constitucionalidad de la pena de muerte para menores).
+“¿Sería Scalia un opositor tan ferviente del uso de jurisprudencia extranjera si, digamos, las practicas
+extranjeras favorecieran la ejecución de la pena de muerte en menores? Habría invocado materiales
+extranjeros Brennan si éstos fueran contrarios a la posición de su preferencia?” Epstein & Knight, supra
+nota 90, pág. 208. Michael Rosenfeld afirmaba que “los intérpretes de la Constitución pueden buscar
+aumentar la legitimidad de sus decisiones envolviéndolas en términos de normas constitucionales extranjeras
+muy respetadas, aún en ausencia de un ajuste genuino”. Nichael Rosenfeld, Constitutional Migration and
+the Bounds of Comparative Analysis, 58 N.Y.U. Ann. Surv. Am. L. 72 (2001).
+92
+
+[[PDF p. 23]]
+                         En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+    Obviamente, los usos no-autoritativos del derecho extranjero por parte de los tribunales
+no son una rareza argentina.101 En muchos países, se ha vuelto una moda que los tribunales
+refieran precedentes extranjeros en sus decisiones, tomando parte así en lo que el Juez
+Calabresi ha llamado “un diálogo en desarrollo entre los cuerpos adjudicativos de la
+comunidad mundial”.102
+    ¿Es aceptable que los tribunales efectúen los usos no-autoritativos de materiales
+constitucionales foráneos que acabo de describir y que, siguiendo a Calabresi, podríamos
+llamar “dialógicos”? ¿Deberíamos aprobarlos, de la misma forma en que aprobamos el
+uso de derecho extranjero como evidencia y como fuente de innovación y conocimiento
+legal por parte de las autoridades constitucionales?
+    Para comenzar, los usos dialógicos de derecho extranjero por los tribunales, aún aquellos
+casos de usos frecuentes, no son alcanzados ni por el problema de la validación ni por el
+de la heterogeneidad. Cuando un tribunal utiliza derecho extranjero meramente para destacar
+los aspectos fácticos distintivos de los casos que decide, o la originalidad o acierto de sus
+decisiones, no se enfrenta con el problema de validar lo que ha hecho como sí sucede
+cuando decide “usar” derecho extranjero, ni aumenta los riesgos de ignorar los aspectos
+característicos de su propio país. Los usos dialógicos son no-autoritativos y, en
+consecuencia, carecen del carácter imitativo que contamina los “préstamos” o
+“transplantes”. A pesar de todo, deberíamos oponernos prima facie al uso dialógico de
+decisiones extranjeras. Esto es así por dos importantes razones: primero, porque el derecho
+extranjero agrega complejidad innecesaria a las decisiones de los tribunales y, segundo,
+porque dicho uso dificulta la implantación y desarrollo de una cultura constitucional propia.
+Permítaseme explicar estas dos razones con algo más de detalle.
+    Como puntualizaba El Federalista, los tribunales no tienen la fuerza ni la voluntad, sino
+meramente el juicio.103 El hecho de que los tribunales carezcan de poder, les impone
+ciertas restricciones especiales. Así, a fin de hacer posible que tanto los litigantes como
+los terceros comprendan lo que los tribunales dicen, razonen con ellos e, idealmente,
+adhieran a sus decisiones y las hagan cumplir, los tribunales deben hablar en la manera
+más clara posible. La claridad es siempre exigida, pero es aún más necesaria en el contexto
+del derecho constitucional, dado que en estos casos esperamos que todas las decisiones
+constitucionales disparen un amplio y robusto debate en la ciudadanía. La supervivencia
+de la fibra democrática en las sociedades modernas, donde los tribunales suelen tomar en
+sus manos algunas de las decisiones sociales más complejas, se encuentra íntimamente
+asociada con la posibilidad de que todos los ciudadanos interactúen con los tribunales, lo
+que sólo puede ocurrir de la manera requerida cuando éstos hablan un lenguaje que puede
+ser fácilmente comprendido por todos los ciudadanos.
+
+
+
+  101. Ver Tushnet, supra notas 69 y 77; Jackson, supra notas 45 y 70. Ver Nota, The International Judicial
+Dialogue: When Domestic Constitutional Courts Join the Conversation, 114 Harv. L. Rev.2049 (2001).
+  102. Euromepa S.A., 51 F. 3d at 1095. La descripción de la práctica actual de citar, analizar, o distinguir
+de o apoyarse en decisiones extranjeras y en tribunales supranacionales como un “diálogo” es tomada de
+Justice Claire L’Hereux-Dubé de la Corte Suprema de Canadá. Ver su artículo The importance of Dialogue:
+Globalization and the International Impact of the Renhquist Court, 34 Tulsa L.J. 15, 24 (1998).
+  103. Ver THE FEDERALIST N°78 (Alexander Hamilton).
+                                                                                                            93
+
+[[PDF p. 24]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+    Ahora bien, como el derecho extranjero es un tópico difícil y la mayoría de los
+ciudadanos de un estado democrático no estarán familiarizados con él, la invocación de
+decisiones constitucionales foráneas por los tribunales –aún a pesar del efecto positivo
+que puedan tener, al aumentar la persuasividad de los tribunales- induce necesariamente
+una mayor complejidad en sus decisiones. Piénsese, por ejemplo, en las dificultades
+que una persona común tendrá para seguir la argumentación en el ya mencionado caso
+S.V. v. M.D.A., donde la Corte Suprema argentina no solamente citó casos norteamericanos
+sino también decisiones españolas y opiniones consultivas no vinculantes de la Corte
+Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos
+Humanos, junto a referencias a pactos internacionales y al derecho constitucional
+alemán, italiano, español, brasileño y paraguayo. Puede ser verdad que el derecho
+extranjero no sea una cuestión compleja para sofisticados abogados, profesores de
+derecho comparado y otras personas vinculadas a él, y que estas personas puedan
+seguir fácilmente el hilo de una decisión en la que se entrecruzan decisiones
+extranjeras. Sin embargo, ni el abogado sofisticado ni el profesor de derecho son el
+hombre medio de nuestras comunidades, y es precisamente ese hombre medio quien
+debería ser la audiencia privilegiada de los tribunales democráticos.
+    La claridad no se logra mediante la referencia constante al derecho extranjero en un
+contexto en el cual el derecho extranjero es un tema no habitual. Los tribunales promoverán
+mejor su interacción con litigantes y ciudadanos si mantienen sus decisiones tan simples
+como sea posible y, en lugar de envolver sus argumentos con referencias extranjeras,
+mostraran claramente las razones por las cuales deciden como lo hacen. En síntesis,
+deberíamos oponernos a los usos dialógicos del derecho extranjero simplemente porque
+las referencias extranjeras agregan una dañina complejidad a las decisiones de los tribunales.
+    La segunda razón para oponernos al uso dialógico del derecho extranjero por los
+tribunales –lo que, de hecho, se aplica a todos los usos no-autoritativos del derecho
+extranjero– está relacionada con la idea de que la implantación y el desarrollo de una
+cultura constitucional solamente tiene lugar cuando se satisfacen ciertas condiciones. En
+efecto, una cultura constitucional depende completamente de que el derecho constitucional
+sea concebido y vivido como el árbitro único y final de todos los conflictos que puedan
+surgir entre los ciudadanos de un estado democrático. Para una cultura constitucional,
+resulta esencial que los ciudadanos, para usar una expresión de Fiss,104 toleren “la
+compulsión de… reglas trascendentes” y que obedezcan el texto constitucional, aún en
+aquellas circunstancias donde la solución constitucional no coincide con lo que ellos
+piensan es mejor.
+    Desafortunadamente, el uso dialógico del derecho extranjero por los tribunales dificulta
+el desarrollo de una cultura constitucional. En efecto, como consecuencia de su tremenda
+heterogeneidad –el derecho extranjero tiene tantas fuentes diferentes como países existen,
+e inclinaciones tan variadas como ideologías legales hay–, el derecho extranjero priva a
+los tribunales que lo utilizan del sentido de unicidad y finalidad que sus decisiones deben
+provocar, a los fines de ser vistas como la última palabra en las disputas sociales.
+
+
+  104. Ver Owen M. Fiss, The Death of the Law, 72 CORNELL L. REV. 1, 13 (1986).
+
+94
+
+[[PDF p. 25]]
+                      En contra de los “Préstamos” y de otros usos “no autoritativos” del derecho extranjero
+
+
+
+    Piénsese por ejemplo, en el sentido de contingencia que los argentinos experimentan
+cuando, por ejemplo, leen Amarilla, V.C. v. M.D.A., o Bahamondez, donde se mencionan
+decisiones de la Corte Suprema de los Estados Unidos, el Tribunal Constitucional Español
+y la Corte Europea de Derechos Humanos. Después de leer opiniones de este tipo, me
+parece imposible que un hombre común no piense que su Constitución se encuentra a
+merced de las elecciones arbitrarias de la autoridad extranjera preferida y, consecuentemente,
+que su Constitución no es única y final, como requeriría el desarrollo de una cultura
+constitucional sino que, al contrario, es contingente y pasajera.
+    Obviamente, podría sostenerse que un lector capaz estará en condiciones de distinguir
+el holding del caso del texto que lo acompaña y que, en consecuencia, podrá –dejando de
+lado las influencias extranjeras– identificar las proposiciones normativas sostenidas por la
+Corte en el caso, localizarlas en el contexto de decisiones anteriores y luego recuperar el
+sentido de necesidad y finalidad que las decisiones de las cortes constitucionales requieren.
+Esto puede ser cierto, pero debemos recordar que la Corte debería hablar para todos, y no
+todos tendrán la posibilidad de hacer la –más bien sofisticada– distinción, particularmente
+en los estadios tempranos del desarrollo constitucional, cuando no está aún claro qué es lo
+que la Constitución exige.
+
+6.
+    He argumentado en este artículo que tanto los “préstamos” como los “transplantes” y
+los usos dialógicos de las normas constitucionales extranjeras por parte de los tribunales
+locales resultan problemáticos. En consecuencia, mi respuesta a la cuestión de si deberíamos
+imitar a otros en el terreno legal es negativa. Creo profundamente que siempre será mejor
+que nuestras autoridades constitucionales y nuestros tribunales miren hacia adentro, antes
+que hacia fuera, en su búsqueda de argumentos constitucionales.
+    Obviamente, lo que aquí sostengo no debe entenderse como una militancia para
+desalentar el estudio serio del derecho constitucional comparado. Al contrario, el estudio
+del derecho comparado es probablemente la mejor forma de entender el carácter legal de
+lo que somos y lo que podemos ser como creadores de derecho y sus destinatarios.
+Desde que aprendemos mucho por confrontación, el derecho comparado debería ser
+parte obligatoria de nuestra educación legal y nuestra cultura legal.
+    Para finalizar, permítaseme ofrecer una imagen que, desde mi punto de vista, muestra
+correctamente la relación adecuada entre los materiales extranjeros y el proceso de
+construcción y adjudicación constitucional. A fin de evitar los problemas de heterogeneidad
+del derecho constitucional, y para fortalecer la comunicación con las audiencias domésticas
+y la implantación y el desarrollo de una cultura constitucional, las autoridades constitucionales
+–incluyendo los tribunales- deberían vincularse con el derecho extranjero como los trabajadores
+de la construcción lo hacen con un andamio, esto es, como artefactos sobre los cuales
+pararse para expandir sus propias habilidades constructivas, pero que nunca son
+componentes del trabajo final ni tampoco determinan la forma de lo que se construye.
+
+
+
+
+                                                                                                         95
+
+[[PDF p. 26]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+
+96

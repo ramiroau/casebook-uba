@@ -1,0 +1,634 @@
+# fuente: Unidad8/Filippini_2005_El derecho internacional de los derechos humanos no es un préstamo.pdf
+# md5_original: 8ac098338b86a6cad723b42602c0806f
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                          El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+
+El derecho internacional de los derechos humanos
+no es un préstamo
+Reflexiones sobre la crítica a los préstamos de Carlos F. Rosenkrantz
+Leonardo G. Filippini*
+
+
+
+I. En contra de los usos autoritativos del derecho extranjero e internacional
+
+    En su artículo “En contra de los préstamos…”1 Carlos Rosenkrantz critica el uso
+autoritativo de materiales jurídicos extranjeros por parte de los tribunales nacionales. A fin
+de precisar sus argumentos, Rosenkrantz propone una utilización acotada del término
+préstamo y con él alude a “la decisión de usar derecho extranjero basada, al menos
+parcialmente, sobre la autoridad que el derecho extranjero tiene en su jurisdicción de
+origen”2 . Sin embargo, Rosenkrantz no sólo critica los préstamos en el sentido que él
+mismo define, sino que extiende esas observaciones a la incorporación de los tratados de
+derechos humanos a nuestra Constitución Nacional en 1994. Esta breve nota cuestiona
+esa expansión de la crítica de Rosenkrantz3 pues, a diferencia de los préstamos, el derecho
+internacional de los derechos humanos de la Constitución no es derecho extranjero y ha
+sido incorporado a nuestro ordenamiento jurídico como resultado de una deliberación
+nacional previa4 .
+
+   Rosenkrantz describe la relevancia que el derecho extranjero ha tenido en el desarrollo
+constitucional de la Argentina —en especial el derecho de los EE.UU.— y ofrece distintas
+razones por las cuales, a su juicio, los préstamos deben ser resistidos. Sin embargo, como
+ya he indicado, no se refiere solamente al derecho extranjero sino que su descripción del
+
+
+   * Abogado, UBA ’98; Master en Derecho UP ’04; LL.M. ’06 y J.S.D. (candidato) Yale Law School.
+Agradezco a Julieta Rossi, Natalia Volosin y Sebastián Elías las observaciones a este trabajo.
+   1. Carlos F. Rosenkrantz, “Against Borrowings and other Nonauthoritative Uses of Foreign Law”, 1
+INTERNATIONAL JOURNAL OF CONSTITUTIONAL LAW, (2003) pp. 269-295. En adelante, “Against Borrowings”. Hay
+traducción al español, “En contra de los ‘Prestamos’ y de otros usos ‘no autoritativos’ del derecho extranjero”,
+en Revista Jurídica de la Universidad de Palermo, Año 6, número 1 (2005). Las referencias que incluyo en el
+texto son traducciones propias al trabajo original en inglés.
+   2. “Against Borrowings”; punto 1, p. 270.
+   3. Dos trabajos critican otros aspectos de la posición de Rosenkrantz sobre los préstamos. Martín Böhmer
+defiende la originalidad del proyecto constitucional argentino y critica la falta de atención de Rosenkrantz
+sobre el proceso deliberativo que se da en el momento de la aplicación normativa; ver “Préstamos y
+adquisiciones. La utilización del derecho extranjero como una estrategia de creación de autoridad democrática
+y constitucional”. Roberto Gargarella, por su parte, rechaza la idea según la cual un uso autoritativo del
+derecho de otro país pone en crisis nuestra identidad constitucional; ver “Injertos y rechazos: Radicalismo
+político y transplantes constitucionales en América”, nota 2. Ambos trabajos presentados en el Seminario
+en Latinoamérica de Teoría Constitucional y Política, 2007, San Juan, Puerto Rico.
+   4. En esta nota me refiero fundamentalmente a la decisión constituyente de incorporar una serie de
+instrumentos de derechos humanos al texto constitucional de 1994, que es el ejemplo de préstamo que
+ofrece Rosenkrantz. Mi argumentación no es necesariamente extensiva a la jurisprudencia posterior de la
+Corte Suprema que aplicó esos instrumentos o las decisiones de los órganos creados por algunos de esos
+instrumentos.
+
+                                                                                                           191
+
+[[PDF p. 2]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+universo de materiales prestados incluye los tratados y declaraciones de derechos humanos
+incorporados a nuestra Constitución. Rosenkrantz afirma que frente a las violaciones de
+derechos humanos cometidas en los ’70 y al comienzo de los ’80, una gran mayoría de
+los miembros de la Convención Nacional Constituyente de 1994 votó la incorporación al
+texto constitucional de los derechos y libertades reconocidos por los tratados internacionales
+sobre derechos humanos con una finalidad expresiva5 . En sus palabras: “Argentina incorporó
+derecho extranjero por un propósito, en su conjunto, expresivo. Utilizó los ‘préstamos’ a fin
+de manifestar su adhesión a las mismas restricciones al poder gubernamental que caracterizaban
+al derecho extranjero o internacional que adoptó”6. En sustento de esta afirmación, Rosenkrantz
+cita un fragmento de la intervención de la convencional constituyente Alicia Oliveira durante
+los debates de la Asamblea Constituyente de 1994, en el cual ella dijo que la historia
+argentina estaba “condensada en la expresión ‘Nunca Más’ y que para garantizar que esto
+fuese así “deb[íamos] otorgar jerarquía constitucional a los principios ius humanitarios”7 .
+
+    Rosenkrantz concede que, tal como algunos autores han enfatizado, “razones expresivas
+pueden a veces explicar y justificar ciertos ‘préstamos’”8 y dice que el argumento expresivo,
+individualmente o junto a otros argumentos, es persuasivo y podría convencernos de que
+la práctica de los préstamos es plausible9. Sin embargo, a su juicio, la falta de deliberación
+previa a la conformación de la norma afecta a todos los argumentos que podrían justificar
+los préstamos10. Rosenkrantz llama a esta deficiencia el “problema de la validación”11 y la
+presenta del siguiente modo:
+
+        Si aceptamos la idea de que se espera que cumplamos con la ley sólo cuando
+        ella es el resultado de decisiones colectivas de la entidad política a la que
+        pertenecemos, entonces podríamos objetar el préstamo constitucional
+        simplemente porque éste consiste, en esencia, en deferir a decisiones colectivas
+        tomadas por otros. La adopción conciente de una norma constitucional extranjera
+        como derecho vinculante por una autoridad constitucional o por un juez son
+        dos casos en los cuales los temas más básicos de nuestra vida interpersonal son
+        decididos por personas con quienes no estamos relacionados políticamente, y
+        que no son miembros de la misma entidad política. Esta deferencia de la última
+        palabra en asuntos constitucionales a otros es lo que hace que el préstamo
+        constitucional sea incompatible con el principio según el cual la coerción sólo
+
+
+
+
+   5. “Against Borrowings”; punto 3.4, pp. 280-281.
+   6. “Against Borrowings”; punto 3.4 p. 281.
+   7. “Against Borrowings”; punto 3.4, pp. 280-281. La trascripción de la Asamblea Constituyente dice:
+“Esta historia quedó condensada en la frase “Nunca más”, y para asegurar ese nunca más debemos dar
+jerarquía constitucional a los principios jus humanitarios”.
+   8. “Against Borrowings”; punto 3.4, p. 280.
+   9. “Against Borrowings”; punto 4, p. 282. Los otros argumentos que considera, además del expresivo,
+son los que denomina genealógico, contextual, y procedimental.
+   10. “Against Borrowings”; punto 4, pp. 283-286.
+   11. “Against Borrowings”; punto 4, p. 283.
+192
+
+[[PDF p. 3]]
+                                            El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+        puede ser justificada cuando es la consecuencia directa de una decisión colectiva
+        y, por lo tanto, es imposible de validar en el contexto de una democracia
+        constitucional12 .
+
+    Mi comentario tiene tres partes. Primero, marcaré una distinción entre el derecho
+internacional y el derecho extranjero que no aparece en el trabajo de Rosenkrantz. En
+segundo lugar, mostraré que hay bastante espacio para relativizar la reconstrucción de
+acuerdo con la cual Argentina incorporó los instrumentos de derechos humanos a su
+Constitución con un propósito expresivo. En tercer lugar, mostraré por qué estas dos
+cuestiones son relevantes y por qué la incorporación de una serie de instrumentos de
+derechos humanos a nuestra Constitución no merece las críticas que Rosenkrantz hace a
+los préstamos del derecho extranjero, del modo en que él las ha presentado.
+
+II. El derecho internacional no es derecho extranjero
+
+    En contra de lo que sugiere Rosenkrantz, no creo que los instrumentos internacionales
+de derechos humanos incorporados a la Constitución en 1994 merezcan la caracterización
+que él hace de los préstamos. Esos instrumentos internacionales no son la cristalización
+de una “decisión colectiva tomada por otro”, sino de una decisión de nuestra propia
+comunidad política. Tampoco podemos afirmar que “no estamos relacionados
+políticamente” con quienes conformaron esas normas, ni que la incorporación de los
+tratados implica la “deferencia de la última palabra en asuntos constitucionales a otros”, o
+que sólo la voluntad de un tribunal de justicia acuerda autoridad a estas normas. A ello se
+suma de modo ostensible que nuestro régimen de derecho positivo constitucional y legal
+no equipara al derecho internacional de los derechos humanos al derecho extranjero13.
+
+    La decisión de incorporar un conjunto de instrumentos internacionales de derechos
+humanos a la Constitución en 1994 es el resultado de un proceso deliberativo autóctono.
+En primer lugar, la formación de cada uno de los instrumentos a los que se otorgó jerarquía
+constitucional no es totalmente ajena a nuestros procesos deliberativos. Gobiernos
+argentinos democráticos de distinto signo político y a lo largo de varias décadas han
+participado en la redacción de los tratados e instrumentos que hoy se encuentran
+incorporados en la Constitución. Los instrumentos multilaterales en cuestión,
+evidentemente, no son un producto enteramente nacional, en la medida en que de suyo
+implican la voluntad de otras comunidades políticas para perfeccionarse. Está claro, además,
+que la dinámica de creación del derecho internacional exige un enfoque diverso de los que
+usamos al enfrentarnos a los procesos de formación del derecho nacional14 . Sin embargo,
+los instrumentos de derechos humanos de la Constitución tampoco resultan por ello, de
+
+
+   12. “Against Borrowings”; punto 4, p. 285.
+   13. No me detendré sobre este punto dado que las diferencias son conocidas. Mi impresión es que el
+enfoque de Rosenkrantz tampoco da cuenta de la situación en nuestro derecho positivo.
+   14. Para un trabajo reciente explorando los procesos de formación del derecho internacional en diversas
+áreas, ver ALAN BOYLE Y CHRISTINE CHINKIN, THE MAKING OF INTERNATIONAL LAW, Oxford: Oxford University Press (2007).
+                                                                                                              193
+
+[[PDF p. 4]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+modo necesario, “la decisión de otro”. Incluso cuando en algunos casos el aporte argentino
+durante la elaboración de la norma internacional pueda haber sido menos determinante
+que el de otros Estados, la afirmación según la cual los instrumentos son el resultado de
+una decisión colectiva tomada por otro no es una descripción adecuada, en tanto no da
+cuenta del aporte nacional, por modesto que sea, a un proceso colectivo. Al contrario, en
+todos los casos en los que los representantes legítimos de nuestra comunidad política han
+participado en la elaboración y finalmente firmado acuerdos con otros Estados debemos
+concluir que, en principio, el producto no puede nunca sernos completamente ajeno.
+
+    Otras normas del derecho internacional distintas de las de fuente convencional —que
+establecen reglas expresamente reconocidas por los Estados— parecen más problemáticas
+frente a la pregunta acerca del proceso de deliberación previo a su conformación. En
+efecto, la “costumbre internacional”, los “principios generales de derecho reconocidos
+por las naciones civilizadas” y las “decisiones judiciales y las doctrinas de los publicistas de
+mayor competencia de las distintas naciones”15, parecen autorizar la idea de que el derecho
+internacional puede operar aun en ausencia de la participación del Estado durante el proceso
+de elaboración normativa. Sin embargo, Rosenkrantz no se refiere a estas normas del
+derecho internacional, sino a la incorporación de tratados y declaraciones expresamente
+adoptados por el Estado argentino conforme a los procedimientos constitucionales.
+
+    En segundo lugar, la aprobación de los tratados en Argentina por las dos cámaras
+legislativas y la decisión constituyente de 1994 de incorporar una serie de tratados y
+declaraciones a nuestra Carta Magna confirman la existencia de una deliberación nacional.
+La aprobación de un tratado es un acto de nuestra legislatura y no existe ningún requisito
+del derecho internacional que exija un arreglo constitucional como el de 1994, lo que
+resalta su originalidad16 . Además, como Rosenkrantz reconoce, el problema de la validación
+“es más difícil en el ámbito de la adjudicación constitucional por parte de los tribunales
+que en el de la elaboración de constituciones por parte de convenciones constituyentes”17 .
+Según su planteo, cuando una convención constituyente o una legislatura se expresan,
+“es el pueblo quien habla, y cuando ellas ‘toman prestado’, es razonable decir que somos
+nosotros —el pueblo— quien ha tomado prestado”18 , de modo que incluso desde su
+propia mirada la crítica a la opción del constituyente de 1994 es un caso difícil en contra
+de los préstamos.
+
+   Desde otra perspectiva, a diferencia de lo que ocurre con los préstamos tal como los
+caracteriza Rosenkrantz, tampoco es cierto que no tengamos relación política con quienes
+conformaron las normas internacionales que hoy son parte de nuestra Constitución. El
+
+
+
+  15. Enunciadas en el artículo 38 del Estatuto de la Corte Internacional de Justicia.
+  16. Janet Koven Levit observó que la opción de Argentina “es única en Sudamérica y podría decirse que
+en el mundo.” Janet Koven Levit, “The Constitutionalization of Human Rights in Argentina: Problem or
+Promise?”, 37 COLUMBIA JOURNAL OF TRANSNATIONAL LAW, 287, p. 312.
+  17. “Against Borrowings”; punto 4, p. 285.
+  18. “Against Borrowings”; punto 4, p. 286.
+194
+
+[[PDF p. 5]]
+                                             El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+grueso de los documentos regionales fue ratificado como parte del proceso de transición
+a la democracia en nuestro país. La Comisión Interamericana jugó un papel crítico durante
+la dictadura militar, y Argentina es hoy uno de los principales usuarios del sistema
+interamericano de protección19. Además, nacionales argentinos ocupan plazas tanto en la
+Corte Interamericana de Derechos Humanos como en la Comisión Interamericana de
+Derechos Humanos20. La afirmación de Rosenkrantz no parece dar debida cuenta del
+proceso que condujo al cuadro actual. También respecto de los instrumentos universales
+es difícil negar nuestra relación política con los procesos de creación normativa.
+Recientemente, un ejemplo claro ha sido el liderazgo argentino para la sanción de una
+Convención contra la Desaparición Forzada de Personas, pero este episodio no es un
+hecho aislado. Como explica Katrhyn Sikkink, a pesar de que a veces los latinoamericanos
+sugieren que los derechos humanos son una exportación inapropiada para nuestros países,
+muchos intelectuales latinoamericanos han sido líderes en la promoción del derecho
+internacional de los derechos humanos, a través del cual, justamente, intentaron limitar la
+influencia de los países poderosos sobre los más débiles de la región21. Evidentemente, la
+observación de Sikkink no es concluyente acerca de la efectiva existencia de una deliberación
+local pero alcanza para mostrar que la negación de todo vínculo es exagerada.
+
+    La incorporación de los tratados, además no implica la deferencia absoluta de la última
+palabra en asuntos constitucionales a otros. De un lado, porque representantes de nuestra
+propia comunidad política son parte de las deliberaciones internacionales y porque hay
+muchas instancias de interacción entre los Estados nacionales y los sistemas internacionales
+que impiden hablar de un traspaso de competencias tan drástico como el que sugiere
+Rosenkrantz22 . Por otro lado, porque la sola idea según la cual la comunidad internacional
+es un sujeto político tan radicalmente distinto al nuestro al punto de impedir otra alternativa
+más que considerarnos extraños a él, también es problemática. Parte de la riqueza del
+derecho internacional de los derechos humanos, ha sido, precisamente, abrir la posibilidad
+de concebir derechos fundamentales por encima de las jurisdicciones nacionales23. En el
+propio caso argentino los excluidos de nuestra comunidad política fueron, gracias a ello,
+tratados como sujetos de derechos en una comunidad política más amplia que les reconoció
+la dignidad personal que se les negaba fronteras adentro. Es cierto que los Estados nacionales
+
+
+   19. Ver Comisión IDH, Informe Anual 2006, Capítulo III, B, Estadísticas. Disponible en http://www.cidh.org/
+annualrep/2006eng/Chap.3.htm#Statistics
+   20. Desde el 2006, Víctor E. Abramovich es comisionado de la Comisión IDH y en el 2007, Leonardo Franco
+asumió como el primer juez argentino de la Corte IDH. Durante varios períodos anteriores Argentina ha
+tenido un nacional designado como miembro de la Comisión IDH: Genaro R. Carrió (1972-1976); Elsa Kelly
+(1986-1989), Oscar Luján Fappiano (1990-1997) y Juan Méndez (2000-2003).
+   21. KATHRYN SIKKINK, MIXED SIGNALS - U.S. HUMAN RIGHTS POLICY AND LATIN AMERICA, Ithaca: Cornell University Press -
+Century Foundation (2004), pp. 26-27.
+   22. Un análisis de las muchas aristas de esta relación puede verse en AA.VV., LA APLICACIÓN DE LOS TRATADOS
+SOBRE DERECHOS HUMANOS EN EL ÁMBITO LOCAL, del Puerto, Abramovich, Bovino y Courtis (comps.); Buenos Aires: del
+Puerto (2007).
+   23. Ver, por ejemplo, Mónica Pinto; “El valor jurídico de las decisiones de los órganos de control en
+materia de derechos humanos en la jurisprudencia de la Corte Suprema de Justicia”, en AA.VV., LA APLICACIÓN
+DE LOS TRATADOS SOBRE DERECHOS HUMANOS EN EL ÁMBITO LOCAL, cit., pp. 119-121.
+
+                                                                                                                 195
+
+[[PDF p. 6]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+parecen seguir siendo los sujetos políticos que mejor acomodan las necesidades deliberativas
+de las distintas comunidades, pero no existe ningún problema de legitimidad insalvable en su
+coexistencia con una comunidad internacional. Y aunque aceptemos que las decisiones
+nacionales pueden representar mejor los intereses de sus propias comunidades, sería un error
+creer que una decisión se legitima sólo por ser un producto nacional.
+
+    Finalmente, y en contraste con la definición acotada de préstamo que Rosenkrantz
+postula, no sólo los jueces han conferido autoridad a los instrumentos de derechos humanos
+de la Constitución. Los poderes Ejecutivo y Legislativo —con la firma, aprobación,
+ratificación y depósito— y el propio constituyente de 1994 han sido los principales actores
+de este proceso. Incluso las provincias a través de sus propios poderes han adherido a las
+normas internacionales a las que Rosenkrantz se refiere. En conclusión, ninguna de las
+notas que según la propia definición de Rosenkrantz caracterizan a los préstamos del
+derecho extranjero puede predicarse del derecho internacional de los derechos humanos
+de fuente convencional incorporado a la Constitución. Este cuerpo de normas no es un
+préstamo ni, como veremos, merece la objeción deliberativa que Rosenkrantz ha presentado.
+
+III. Los motivos del constituyente del 1994
+
+    El modo en que Rosenkrantz presenta la visión del constituyente de 1994 acerca de la
+incorporación de instrumentos de derechos humanos puede ser matizado. Rosenkrantz
+dice que Argentina incorporó “derecho extranjero” con un propósito “completamente
+expresivo”. Sin embargo, esto puede ser cierto sólo parcialmente ya que los tratados no
+sólo consagran aspiraciones. También reflejan la voluntad de una comunidad política de
+participar en diversos foros internacionales y de someterse efectivamente al escrutinio
+internacional, incluso bajo la jurisdicción de tribunales internacionales. Es cierto que los
+órganos de los tratados de derechos humanos pueden hacer poco más que afectar la
+reputación internacional de los Estados. Con todo, aun por esa vía, los sistemas
+internacionales han demostrado cierta capacidad de influir sobre las prácticas de los Estados.
+El compromiso, entonces, no es sólo expresivo y conlleva la posibilidad para el Estado
+argentino de participar en organizaciones internacionales y de avanzar, a su vez, sus
+propios intereses sobre otros Estados.
+
+   Rosenkrantz no niega en su trabajo la posibilidad de que otras finalidades, además de la
+expresiva, hayan podido determinar la definición del texto actual de nuestra Constitución.
+Sin embargo, el foco sobre la motivación expresiva no da debida cuenta de varias otras
+razones que las autoridades argentinas pudieron tener en mente al adoptar estas normas,
+primero, y al incorporarlas a la Constitución en 1994. A fin de fundar esta observación,
+quiero presentar otras razones que también fueron consideradas por la Convención
+Constituyente. Aunque este ejercicio será incompleto porque me referiré —al igual que
+Rosenkrantz en su nota— sólo a las intervenciones de algunos convencionales, tal como
+han quedado documentadas y sin consultar otras fuentes, la lectura de las actas de la
+Convención Constituyente alcanza para mostrar que la sola referencia a una finalidad
+expresiva es una descripción incompleta.
+196
+
+[[PDF p. 7]]
+                                     El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+   La decisión de 1994, por empezar, no carece por completo de antecedentes nacionales
+y la posibilidad de una estrategia de dos niveles, en la cual un arreglo constitucional
+permeable al derecho internacional no es una apelación a la autoridad del material extranjero,
+sino una opción constituyente deliberada y propia fue enunciada explícitamente por Alberdi
+en sus Bases. En clave liberal, Alberdi entendía que los tratados con otras naciones eran
+otro de los frenos y contrapesos que podrían limitar al poder. La opción por un sistema
+permeable al derecho internacional, de tal forma, perseguía un interés concreto de limitar
+efectivamente a las agencias estatales, a través de la creación de un foro externo en el cual
+deberían rendir cuentas. Así presentadas las cosas, podemos sugerir cierta ilación con la
+opción de 1994 que sugiere bastante más que la mera expresión de aspiraciones.
+
+    Alberdi criticaba ciertos préstamos y reclamaba una política constitucional original:
+“nuestra política constitucional americana” —decía— “debe ser tan original como es la
+situación de la América del Sud […] Mientras la América del Sud no tenga una política
+constitucional exterior suya y peculiar a sus necesidades especialísimas, no saldrá de la
+condición obscura y subalterna en que se encuentra”24 . Sin embargo, una opinión tan
+férrea en contra de este tipo de imitaciones no le impedía ser un fuerte promotor del
+derecho internacional:
+
+        XV […] Firmad tratados con el extranjero en que deis garantías de que sus
+        derechos naturales de propiedad, de libertad civil, de seguridad, de adquisición
+        y de tránsito, les serán respetados. Esos tratados serán la más bella parte de la
+        Constitución; la parte exterior, que es llave del progreso de estos países, llamados
+        a recibir su acrecentamiento de fuera. Para que esa rama del derecho público
+        sea inviolable y duradera, firmad tratados por término indefinido o
+        prolongadísimo. No temáis encadenaros al orden y a la cultura. Temer que los
+        tratados sean perpetuos, es temer que se perpetúen las garantías individuales en
+        nuestro suelo. El tratado argentino con la Gran Bretaña ha impedido que Rosas
+        hiciera de Buenos Aires otro Paraguay. […]
+
+        XXXIV […] Nuestra política […] [d]ebe promover y buscar los tratados de
+        amistad y comercio con el extranjero, como garantías de nuestro régimen
+        constitucional. Consignadas y escritas en esos tratados las mismas garantías de
+        derecho público que la Constitución dé al extranjero espontáneamente, adquirirán
+        mayor fuerza y estabilidad. Cada tratado será un ancla de estabilidad puesta a la
+        Constitución. Si ésta fuese violada por una autoridad nacional, no lo será en la
+        parte contenida en los tratados, que se harán respetar por las naciones signatarias
+        de ellos; y bastará que algunas garantías queden en pie para que el país conserve
+        inviolable una parte de su Constitución, que pronto hará restablecer la otra.
+        Nada más erróneo, en la política exterior de Sud América, que la tendencia a
+        huir de los tratados.
+
+
+  24. Bases, XVIII.
+                                                                                                   197
+
+[[PDF p. 8]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+    Juan Pablo Cafiero, presidente de la Comisión que presentó la propuesta de jerarquizar
+los tratados en la Asamblea Constituyente apeló precisamente a la voluntad del constituyente
+de 1853 y afirmó que “… si muchos constituyentes de ese momento estuvieran sentados
+aquí, con seguridad utilizarían el verbo de los derechos humanos y el verbo de la jerarquía
+de los mismos para incorporarlos a la Constitución”25 . El informe de Cafiero en la Asamblea
+Constituyente de 1994 presentó muchos de los argumentos compartidos por sus
+compañeros del Frente Grande y por los radicales y peronistas, representantes de los
+partidos entonces mayoritarios. Cafiero dijo que la reforma reflejaba una situación que ya
+era realidad. A su juicio, se trataba de “introducir lo que ya forma parte de la vigencia
+sociológica del derecho” y explicó que se había “diseñado y repensado convertir esa
+vigencia positiva del derecho internacional” a la luz “de la evolución y del progreso” y “de
+colocar al ser humano en el centro de las actividades”. Agregó que con la ratificación de
+la Convención de Viena sobre el Derechos de los Tratados, Argentina no podría “decir
+‘no’ a la comunidad internacional o a la relación con otro Estado”. También recordó que
+la Opinión Consultiva 10 de la Corte IDH interpretó que aun cuando los tribunales otorguen
+prioridad a la ley nacional, el Estado es responsable internacionalmente por las obligaciones
+contraídas y destacó que incluso esta interpretación “modesta” había ayudado a cuestionar
+la reimplantación de la pena de muerte en Perú por ser contraria al Pacto de San José.
+
+    Desde otro plano, Cafiero señaló que la Argentina no podía participar de ningún proceso
+de globalización si no participaba también de un sistema internacional de protección de los
+derechos individuales26 . Asimismo, y al igual que muchos otros constituyentes, se refirió
+a la dictadura militar de 1976-1983, e incluso aludió a la historia personal de varios de los
+convencionales durante ese período27 . No obstante, consideró que la jerarquía de los
+tratados tendría no sólo un valor testimonial frente a ese pasado, sino que impactaría de
+modo profundo sobre el ordenamiento jurídico nacional. Según dijo, “[o]torgar jerarquía
+constitucional a estos instrumentos es situar al ser humano —por su sola condición de
+tal— en el centro de la tutela del orden jurídico” y consideró que estos derechos formaban
+parte ya “de la conciencia colectiva de los argentinos” y que doctrinarios como Bidart
+Campos apoyaban una solución incluso más ambiciosa que la propuesta.
+
+    El constituyente Rodolfo Barra adhirió a esta visión y agregó otros argumentos que
+también fueron los de la mayoría en la Convención Constituyente. Dijo que Argentina
+estaba ahorrando “los cuarenta años de discusión que hubo en Europa a partir del Tratado
+de Roma para consolidar y constituir la Unión Europea”28 y que la norma propuesta
+seguía el ordenamiento del derecho internacional moderno y del actual derecho
+
+
+   25. Convención Nacional Constituyente, 22ª Reunión - 3ª Sesión Ordinaria (continuación), 2 de agosto de
+1994; Intervención del convencional Juan Pablo Cafiero, pp. 2828 y ss. Las menciones que siguen corresponden
+al mismo documento.
+   26. En una línea similar, enfatizando la necesidad de una integración latinoamericana, la intervención del
+convencional Estévez Boero, pp. 2914-2920, entre otros.
+   27. Referencias similares en la intervención de la convencional Alicia Oliveira, pp. 2860-2870; del
+convencional de Vedia, pp. 2876-2880 y del convencional Llamosas, pp. 2925-2930, entre otros.
+   28. Intervención del convencional Rodolfo Barra, pp. 2824-2830.
+198
+
+[[PDF p. 9]]
+                                          El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+constitucional comparado. Además remarcó que la solución reflejaba la posición del gobierno
+argentino, a lo largo de varios gobiernos, favorable a la incorporación de esos instrumentos
+al derecho interno.
+
+    Lamentablemente, el debate en la Asamblea Constituyente quedó trunco luego de una
+fuerte discusión que se generó por la alusión crítica de un convencional al papel del ex
+Presidente Arturo H. Illia frente al intento del ex Presidente Juan Domingo Perón de
+retornar al país, durante la presidencia del primero29 . La cuestión generó una encendida
+polémica y, luego de un cuarto intermedio, varios representantes prominentes de los bloques
+radical y peronista hicieron menciones recíprocas a la tradición democrática de ambas
+fuerzas políticas, contestaron los comentarios que objetaban el papel de Illia y llamaron a
+votar, aun sin agotar la lista de oradores. Varias decenas de convencionales, como
+consecuencia de ello, no llegaron a hacer uso de la palabra30. Las razones principales a
+favor y en contra de la incorporación de los instrumentos de derechos humanos, sin
+embargo, fueron suficientemente expuestas en sus aspectos centrales. La mayoría coincidió
+a favor de la cláusula que finalmente quedó consagrada sobre la base de argumentos
+como los reseñados de Cafiero y Barra. En contra, se señaló en lo fundamental que el
+texto propuesto excedía las competencias de la Asamblea Constituyente, pues modificaba
+la parte primera de la Constitución y que la solución implicaba una indebida cesión de
+soberanía31. Respecto de los contenidos en concreto de los instrumentos que se
+incorporaban hubo intercambios acerca de las posibles implicancias de los tratados sobre
+el aborto, el derecho a la reelección de algunos cargos políticos y los derechos de la mujer.
+
+    La lectura de las discusiones constituyentes y el incidente relatado dejan dudas acerca
+de la profundidad con la que fueron analizadas todas las posibles implicancias del arreglo
+institucional adoptado. Sin embargo, la cuestión central estuvo establecida y todos los
+convencionales consideraron las implicancias de otorgar rango constitucional a los
+instrumentos internacionales. La incorporación de tratados y declaraciones fue decidida
+sobre la base de un juicio original del constituyente argentino que consideró cuestiones
+tan variadas como las posibles contribuciones de este arreglo a los procesos de integración
+regional, la historia argentina, la tradición de gobiernos democráticos de distinto signo
+político, la doctrina, el derecho comparado y hasta las propias experiencias personales
+frente a los sistemas internacionales de protección de los derechos humanos. Aquí he
+
+
+   29. El convencional Giordano dijo: “… cuando Perón regresaba a su patria, la nuestra, en una aeronave
+española, el presidente Illia y el canciller Zavala Ortiz le dieron orden a la Fuerza Aérea de que si no acataba
+la prohibición de ingreso en el espacio aéreo argentino —el nuestro, el de su patria— el más eminente
+ciudadano argentino de ese momento, había que derribar ese avión con sus ciento veinte ocupantes”;
+Convención Nacional Constituyente, 23ª Reunión - 3ª Sesión Ordinaria (Continuación), 3 de agosto
+de 1994, p. 3028.
+   30. Este relato es una síntesis basada en el acta de la Convención Nacional Constituyente, 23ª Reunión - 3ª
+Sesión Ordinaria (Continuación), 3 de agosto de 1994, p. 3028 y ss.
+   31. Intervención del convencional Muruzábal (MODIN), Agosto 2, 1994, pp. 2841-2846. Sobre la
+inalterabilidad de la parte dogmática también el convencional Iriarte (Fuerza Republicana), pp. 2846-2852.
+En una línea concurrente, el convencional Alsogaray señaló que los derechos humanos “están perfectamente
+protegidos en la Constitución Nacional de 1853-60”, p. 2882.
+                                                                                                           199
+
+[[PDF p. 10]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+reseñado muy abreviadamente las posiciones de dos convencionales, pero muchos otros
+aportaron sus opiniones coincidentes y todos ellos dieron riqueza a la discusión. No todas
+las razones apuntadas son las mejores posibles, pero no puede negarse que existió una
+discusión propia que consideró reiteradamente la particularidad de nuestra comunidad
+política nacional y que tuvo en vista mucho más que propósitos expresivos en la decisión
+de incorporar los tratados y declaraciones al texto constitucional.
+
+IV. La reforma de 1994 y la crítica a los préstamos autoritativos
+
+    He marcado dos diferencias con el texto de Rosenkrantz. Primero, he distinguido
+entre el derecho internacional de fuente convencional y el derecho extranjero indicando
+que, más allá de las obvias diferencias de derecho positivo, es incorrecto afirmar que el
+derecho internacional convencional de los derechos humanos sea el fruto de un proceso
+deliberativo totalmente ajeno a nuestra comunidad política. En segundo lugar, he analizado
+las actas de la Asamblea Constituyente a las que Ronsenkrantz también acudió con el fin
+de resaltar dos matices ausentes en su exposición: que la decisión de 1994 fue el fruto de
+una deliberación nacional y que no respondió únicamente a motivaciones expresivas.
+
+    Por sí mismas, estas diferencias son anecdóticas. Sin embargo, creo que son definitivas
+para rechazar la extensión de las críticas de Rosenkrantz a la incorporación de los
+instrumentos de derechos humanos a la Constitución. Con las distinciones presentadas, el
+problema de validación pierde su relevancia, al menos, en los términos en que Rosenkrantz
+lo ha planteado. Parafraseando su formulación, si se espera que obedezcamos las normas
+surgidas de la deliberación de la entidad política a la que pertenecemos, entonces deberíamos
+obedecer el derecho internacional de los derechos humanos incorporado a nuestra
+Constitución. Podemos disentir en torno a la conveniencia de semejante arreglo institucional,
+pero en modo alguno se trata de una opción inválida, ni ha resentido nuestra capacidad de
+elaborar un discurso constitucional propio.
+
+    Planteada en otros términos, la cuestión traída por Rosenkrantz podría ser más desafiante
+para el derecho internacional de los derechos humanos pues él ha identificado
+correctamente, al igual que ya lo han hecho muchos otros, un motivo de preocupación en
+el uso del derecho internacional para dirimir cuestiones fundamentales de nuestra vida
+social. Una extensa literatura viene abordando hace tiempo ya el llamado “déficit democrático
+del derecho internacional”, según el cual —y en líneas generales de acuerdo con lo que
+sugiere Rosenkrantz— la formación del derecho internacional presenta problemas frente
+a las exigencias de una democracia deliberativa32 .
+
+    En EE.UU., gran parte de esta discusión fue avivada por una cita de la Corte Suprema
+de ese país a una decisión del Tribunal Europeo de Derechos Humanos en el caso Lawrence
+
+
+
+  32. Para una presentación resumida de las discusiones en EE.UU. ver Austen L. Parrish, “Storm in a teacup:
+The U.S. Supreme Court’s use of foreign law”, UNIVERSITY OF ILLINOIS LAW REVIEW 637 (2007), pp. 642-652.
+200
+
+[[PDF p. 11]]
+                                          El derecho internacional de los Derechos Humanos no es un préstamo
+
+
+
+v. Texas 33 . Lawrence fue el primer caso en el cual la opinión de la mayoría de la Corte
+Suprema de EE.UU. incluyó una decisión del Tribunal Europeo en su texto34 . Desde la
+perspectiva estadounidense, el material europeo era, a la vez, “internacional” y “extranjero”
+y de allí que para parte de la doctrina que evaluó si esta influencia era justificable la
+distinción entre fuentes de autoridad internacionales o extranjeras no era relevante. A ello
+se agrega, la importancia teórica del llamado “excepcionalismo”35 en materia de derecho
+internacional en los EE.UU. y el hecho de que la cámara de representantes no interviene en
+la aprobación de los tratados, a diferencia de lo que ocurre en nuestro país. Este contexto
+particular, por lo tanto, no es exactamente el nuestro de cara a la discusión acerca de los
+usos del derecho internacional por parte de las cortes nacionales.
+
+   En el caso de Argentina, me atrevería a decir que la discusión introducida por el caso
+Ekmekdjián en 1992 y por la reforma Constitucional de 1994 se hizo especialmente intensa
+luego del fallo de primera instancia en el caso Simón y, en general, con toda la jurisprudencia
+que ha apelado a normas de derecho internacional para la reapertura de la persecución
+penal por violaciones a derechos humanos, clausurada por las leyes de Punto Final y de
+Obediencia Debida y por lo indultos del ex Presidente Carlos S. Menem. Esta serie de
+casos mostró con claridad cómo leyes e indultos dictados por autoridades nacionales
+democráticamente electas eran desafiados por fallos judiciales basados, en parte, sobre
+normas que no habían sido generadas exclusivamente por las autoridades nacionales.
+Muchos de estos fallos, además, contienen apelaciones directas a la costumbre internacional,
+a principios del jus cogens, o a la jurisprudencia de la Corte IDH en el caso Barrios Altos
+seguido contra el Perú36 . Así como Lawrence y otros similares detonaron un profundo
+debate en EEUU, Simón y los demás casos que reabrieron la persecución penal por las
+violaciones a derechos humanos parecen haber cumplido ese papel en Argentina.
+
+   Sin embargo, nuestras preocupaciones no pueden reducirse a una pregunta genérica
+por la legitimidad del derecho internacional. No creo que el derecho internacional tenga
+problemas insalvables de legitimidad en su conjunto, ni que sea la mejor opción posible
+para definir todos los asuntos sensibles. Nuestra indagación debe permitirnos identificar
+bajo qué condiciones consideramos que una norma es legítima y verificar entonces si
+alguna de las manifestaciones del derecho internacional aplicable en Argentina satisface
+esas condiciones. Dentro de este marco, el origen nacional o internacional de una norma
+puede ser un indicio acerca de la calidad del debate que la precedió. Puede ser correcto
+
+
+   33. Supreme Court of the United States; John Geddes LAWRENCE and Tyron Garner, Petitioners, v.
+TEXAS. No. 02-102. Argued March 26, 2003. Decided June 26, 2003. Otros casos más o menos
+contemporáneos de ese tribunal también contienen alusiones a materiales internacionales o extranjeros,
+por ejemplo, Atkins v. Virginia, Grutter v. Bollinger y Roper v. Simmons.
+   34. Harold Hongju Koh, “International: Law as part of our law”, 98 AM. J. INT’L L. 43, p. 50.
+   35. Ver, por ejemplo, MICHAEL IGNATIEFF (ed.), AMERICAN EXCEPTIONALISM AND HUMAN RIGHTS, Princeton y Oxford:
+Pinceton University Press (2005).
+   36. Algunas menciones a los problemas de la aplicación del derecho internacional en el fallo Simón de la
+CSJN, en mi trabajo Tres problemas en la aplicación del derecho internacional en el caso Simón, en Revista
+de Derecho Penal. Lexis Nexis, Buenos Aires, vol. 2006-3, 2006, pp. 436/447.
+                                                                                                          201
+
+[[PDF p. 12]]
+Revista Jurídica de la Universidad de Palermo
+
+
+
+considerar que el debate nacional tiende a ser el mejor foro para la expresión de las voces
+interesadas, pero de ello no se sigue que la discusión internacional no pueda serlo también,
+o que incluso, pueda ser el ámbito donde son escuchadas las voces silenciadas en los
+ámbitos nacionales. Las víctimas de la dictadura argentina son un ejemplo de ello y, de
+hecho, de esa experiencia concreta partió la confianza del Constituyente de 1994 en que el
+camino elegido no era un obstáculo para nuestra democracia. En esta línea, por ejemplo,
+y en contra de la opinión que afirma de modo general el déficit democrático del derecho
+internacional, Keohane, Macedo y Moravcsik han postulado recientemente que puede
+demostrarse sobre la base de análisis empíricos que la participación en organizaciones
+multilaterales puede mejorar el funcionamiento de la democracia en los Estados nacionales
+y que las instituciones multilaterales, si son diseñadas adecuadamente, pueden mejorar la
+calidad de la democracia37 .
+
+    Por otro lado, tampoco deberíamos perder de vista que las capacidades del derecho
+internacional de imponerse localmente son limitadas por la autoridad nacional de
+implementación. El derecho internacional de los derechos humanos en particular es una
+de las áreas donde la ausencia de una autoridad global de aplicación de las reglas
+internacionales es más notoria. Cualquier descripción sobre la influencia del derecho
+internacional de los derechos humanos que prescinda de esta dimensión resulta incompleta
+y cualquier teoría que desconozca este fenómeno corre el riesgo de no ajustarse a la
+realidad. Para decirlo de un modo directo, Simón no debería interrogarnos exclusivamente
+sobre el proceso de formación del derecho internacional sino también sobre el papel de las
+autoridades locales en la delimitación de su alcance. De hecho, el informe de la Comisión
+IDH contrario a las leyes y a los indultos fue emitido en 1992, pero la Corte Suprema
+argentina hizo suya esa doctrina recién en 2005, más como consecuencia de nuestra
+propia dinámica institucional y política que como resultado de una evolución internacional.
+A diferencia de lo que sugiere Rosenkrantz, tiendo a pensar que la jerarquía del derecho
+internacional de los derechos humanos en nuestro medio no proviene tanto de su autoridad en
+otra jurisdicción, como de su capacidad de reflejar nuestra propia dinámica constitucional.
+
+
+
+
+   37. Aun cuando afirman que muchas instituciones multilaterales no tienen este efecto hoy . Cfr. Robert
+O. Keohane, Stephen Macedo y Andrew Moravcsik, “Democracy-Enhancing Multilateralism”; Interna-
+tional Law and Justice Working Papers, 2007/4. Disponible en http://iilj.org/working%20papers/documents/
+2007-4.KMM.web_001.pdf.
+202

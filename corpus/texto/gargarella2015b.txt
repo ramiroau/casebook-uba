@@ -1,0 +1,1932 @@
+# fuente: Unidad2/1_Gargarella_2015_La sala de máquinas de la Constitución.pdf
+# md5_original: b1ce7ddac2ed875f400ef5f7c68bd7ca
+# via: ocr-forzado
+# motor: ocrmypdf + tesseract spa (300 dpi)
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+12   |   LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+
+tratando de reconocer, recuperar, redefinir, sofisticar e interrogar al pen-
+samiento político americano de raíz igualitaria.
+
+
+6. Agradecimientos. Por ayudarme con este libro, quiero agradecer de modo
+muy especial a Robert Barros, Marcelo Leiras, Adam Przeworski y Julio
+Saguir, por algunas excelentes sesiones de discusión, en Buenos Aires;
+a Miguel Godoy y José Arthur Castillo, de la Universidad de Curitiba; a
+Mauricio García Villegas; a Vicky Murillo, quien organizó una de las prim-
+eras reuniones de discusión que tuve sobre el tema, en el marco del Semi-
+nario que ella coordina en la Universidad de Columbia; a Silvina Ramírez,
+Maristella Svampa y Horacio Tarcus, con quienes discutí en el CEDINCI;
+a Par Engstrom y los colegas del Instituto de las Américas del University
+College de Londres, por los meses que pasé discutiendo con ellos; y de
+modo muy especial a Miguel Ángel Benedetti por su lectura tan amigable,
+ilustrada y puntillosa. También quiero dar las gracias a los integrantes del
+Seminario de Teoría Constitucional y Filosofía Política, que coordino en
+la Universidad de Buenos Aires; a mis colegas de la Universidad Di Tella
+(a Alejandro Chehtman en particular) y del Christian Michelsen Institute,
+de Bergen (CMD); a quienes asistieron a presentaciones de partes de este
+libro, en el David Rockefeller Center for Latin American Studies, de Har-
+vard; en el Departamento de Ciencias Políticas de la Universidad de Yale;
+en el Departamento de Derecho de la Universidad de Austin, en Texas; y en
+los Departamentos de Derecho y Ciencias Políticas en la Universidad de
+San Pablo. Discutí partes de este texto, además, en el Seminario GIGA, en
+Hamburgo; en la Universidad de Frankfurt; en la Universidad de la
+República, en Uruguay; en la Facultad de Derecho y en la Facultad de
+Sociología de la Universidad de Buenos Aires; y en la Universidad de Cór-
+doba. También agradezco a Joanna Richardson, Alan Moir y Michelle
+Mangan por el trabajo que hicieron para la edición inglesa del texto, y a
+Alejandro Katz, Paula Viale y Renata Prati por el esmero puesto en esta
+edición en español. A Paula, por estos tiempos buenos.
+
+[[PDF p. 2]]
+1
+El primer derecho constitucional
+latinoamericano (1810-1850)
+
+
+
+
+INTRODUCCIÓN
+
+
+Cuando alguien revisa la historia del constitucionalismo americano, cen-
+trándose especialmente en el fundacional siglo XIX, se encuentra con un
+enorme número de Constituciones que, fácilmente, hacen pensar en una
+
+                                                                              a     eo
+
+
+
+
+la dictada en Venezu
+ A OA
+
+
+
+
+Constituciones, en dieciséis países. Algunos de esos países (es el caso de
+TT co
+
+
+
+
+países como Bolivia o la República Dominicana) superaron largamente la
+decena de Constituciones durante dicho lapso (Loveman, 1993:
+
+
+                                0:   de   documento que tiene la        pretensión de per-
+
+iS             el       tiempo.Peor aún, la extendida imagen de América Latina
+como un continente dominado por caudillos autoritari
+                                                                       os y caprichosos
+termina     or opacar la temprana historia del constitucionalismo regional:
+
+
+
+
+    Por fortuna, apenas uno se involucra en el estudio del constitu
+                                                                                   ciona-
+lismo americano, reconoce de inmediato que el panorama
+                                                                         es muy diferente
+al sugerido. Es allí que uno puede
+                                              advertir, entonces,
+                                                                       bear
+
+
+
+
+                                 , de la que todavía hoy tenemos mucho para
+                    esto vamos a dedicar, entonces, las páginas que siguen de este
+
+
+
+    1 Aunque estaré pensando, en lo que sigue, muy particul
+                                                                 armente en
+     Constituciones (y, en especial, en Constituciones escritas), lo
+                                                                       cierto es que mi
+     interés irá más allá de ellas para abarcar,
+                                                   también, proyectos de reforma
+
+[[PDF p. 3]]
+     14 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+     libro: a dar cuenta de la vitalidad y riqueza propias del primer constitu-
+     cionalismo latinoamericano,
+
+
+
+
+     Una CONSTITUCIÓN, ¿$
+
+     Contra la idea de un mundo constitucional caótico, producto de la volun-
+     tad discrecional de unos pocos, lo primero que destaca es la existencia de
+     proyectos jurídicos claramente definidos en cuanto a dos de las preguntas
+     centrales que merece hacerse cualquier Constitución: una Constitución
+     para qué; una Constitución contra qué. Más precisamente: muchas de las
+     Constituciones que aparecieron en la región, durante este periodo funda-
+
+
+     conveniente disponer de las energías constitucionales de modo tal de ha-
+
+
+
+     cionalismo ports             cano. En efecto, este dejaba en claro que la Consti-
+     tución podía fepresentar un medio excepcional para hacer frente a una
+     situación de crisis grave, Dicho ejemplo enseñaba, además, que el contenido
+                                                                               e
+
+
+
+     de la Constitución debía definirse conforme a las peculiares circunstancias
+     que daban sentido a su aparición. Decir * esto no era lo mismo     a decir que
+     la Constitución debía ser movida, exclusivamente, por propósitos de corto
+                          ns ”       :                             2...
+          papa eo
+AA
+
+
+
+
+     plazo. En todo caso, lo que se hacía era negar lo contrario, es decir, negar
+     la idea de que una buena Constitución era aquella capaz de desentenderse
+     de las características particulares del contexto dentro del cual nacía.
+      Enel;pionero caso de la Constitución norteamericana, elplanteo:alque
+ e
+
+
+
+
+      me refiero quedó claramente expuesto por James Madison, en los papeles
+      de:                                    » históricamente más influyente
+                      En particular, en el texto
+             A   A,
+
+
+
+
+             constitucional, implementados o no, y más arriesgadamente, programas
+             abarcativos sobre cómo organizar las bases generales de la sociedad (lo que John
+             Rawls denominaría su “estructura básica”, un concepto que incluye, pero que a la
+             vez excede claramente, el marco de la Constitución escrita, Véase Rawls, 1971).
+             De manera similar, para Cass Sunstein, las Constituciones deberían ser
+             entendidas como estrategias de compromiso previo, usadas para proteger a la
+        to
+
+
+
+
+             sociedad de los problemas más comunes en los procesos políticos. Las
+             Constituciones, para Sunstein, deberían entonces combatir las tendencias más
+             amenazantes de una nación (Sunstein, 1993: 36).
+
+[[PDF p. 4]]
+                                                                  15
+   El PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850) |
+                               Ta
+        20m   pS          AN         o,        A                    .    ez
+                                                                             4
+
+
+
+
+                                                                  n
+                                 El eralista n. 10, Madisondejóbieen
+de entre todos aquellos papeles, Fed
+                           qué de la Constitución. Mad
+claro el por qué y contra sa,                            ison identificó
+entonces, de manera preci     un grav e prob lema que apare cía socavando
+                                                                  sos estados
+las bases de la organización común, y que exigía a losa diver          Según
+federales un replanteo acerca del acuerdo que definía endo en.crisis
+                                                         la Unión
+                                                                              la
+                                         que estaba poni
+el político virginiano, el gran problema era                                 s,  y
+                                 eración el pro   ble ma  de la s   facc ione
+vida institucional de la Confed
+          como grupos mayo
+definidas interé            ritarios o minoritarios ,movidos por la pa- E
+sión o el        s común, y orientadas a actuar de modos contrarios  al
+                                                                       ,
+                                                                        er tl
+                                                                   cie
+                                                                       ps
+
+
+
+
+interés del conjunto o los derechos de los particulares? Aquí aparecía
+                                                                  hacer
+según Madison, el gran desafío institucional del momento: ¿Cómo
+para evitar que el sistema institucional diera fuerza de ley a lo que apa-
+recía como el mero producto de la pasión, o el cegado interés de unos
+pocos? La respuesta se encontraba, en su opinión, como en la de muchos,
+en una Constitución Federal capacitada para filtrar o diluir la creciente
+injerencia de las facciones en la vida pública. De este modo, era recono-
+cida como una herramienta crucial para enfrentar el peligro político más
+acuciante del período.
+   Ahora bien, lo propuesto y lo hecho por una mayoría de los pensado-
+res del constitucionalismo, en América Latina, puede leerse en claro pa-
+ralelo con lo que planteara Madison, para el caso norteamericano. Es
+decir, ellos tendieron a identificar algún o algunos grave/s problema/s
+social/es, y a reconocer en la Constitución una herramienta valiosa en la
+lucha contra tales males.*
+
+
+
+
+   3 El accionar de las facciones resultaba, en efecto, una novedad decisiva en la vida
+     política de numerosos estados (por caso, y de modo notable, en estados como
+     Rhode Island, Vermont o Pennsylvania), en donde —y según la descripción de los
+     “federalistas” — grupos de “deudores” habían alcanzadoposiciones de]poder,
+
+     (Brown, 1955; Schuckers, 1978; Wood, 1969, 1992). Madison, entre muchos otros,
+     entendió que la llamada “crisis del papel moneda” desatada entonces, resultaba
+     mucho más grave a partir de sus manifestaciones legales, que a partir de las
+     confrontaciones armadas a las que diera lugar. Finalmente, los alzamientos
+     armados (simbolizados por la “rebelión de Shays”) eran generalmente —
+     reconocidos como ilegales, y reprimidos por las tropas armadas de la
+     Confederación (Brown 1970, 1983; Feer, 1988; Szatmary, 1987; Wood, 1966). El.
+     problema surgía, en cambio, cuando las mismas demandas que en su momento
+     se planteaban con la fuerza de las armas (y que, por tanto, podían ser señaladas y
+     combatidas en su ilegalidad), comenzaban a ganar peso con el respaldo de la ley.
+   4 Por supuesto, uno puede considerar, en todos los casos, que los problemas. -
+     identificados, o las herramientas constitucionales seleccionadas para
+
+[[PDF p. 5]]
+  16    |   LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+                    4 e ve t e :
+       Un primer caso al que podemos prestarle atenció
+                                                                       n, por su origen tern-
+  prano y por la influencia que ejerció en toda
+                                                               la región, es el de      ¿ Poco
+  después de la Revolución Francesa, e inspirada
+                                                                 por ideales similares, Haití
+ —que era entonces una colonia
+                                        francesa en el Caribe- vivió una
+                                                                                     pronta y
+ sangrienta revolución, que se extendería
+                                                       entre 1791 y1804. Se trató de la
+ primera gran revolución negra,liderada por esclavo
+                                                   s, que va alograr eles-
+ tablecimiento de la independencia, conjuntamente
+                                                                      con la abolición de la
+ esclavitud. Tanto por su composición social como por el radica
+                                                               lismo de sus
+ demandas, la revuelta haitiana generaría enormes
+                                                                 resistencias directamente
+ pánico— en la región, y también en los centros
+                                                                de la administración colo-
+ nial. Por ello mismo, la organización constitucional
+                                                                       del país va a resultar
+ muy imperfecta y traumática. En todo caso,
+                                                               resulta notable comprobar
+ de qué modo los documentos legales que comien
+                                                                   zan a sucederse, uno al
+ otro, en poco tiempo, muestran con claridad
+                                                               el para qué y el contra    qué
+ de la Constitución: fundamentalmente, por
+                                                                                          FP
+
+
+                     dad de tales declaraciones dejan, al menos, un punto en
+claro: la dirigencia haitiana identificaba con absolut
+                                                                       a transparencia cuál
+era la gran “angustia” pública del momento,
+                                                               y orientaba a sus diversas
+Constituciones (tanto en su declaración de
+                                           derechos como en el modo en
+que definían la organización del poder)
+                                        , prioritariamente, en contra de
+dicho problema.
+   Otro caso interesante, al respecto, es el de
+                                                         Simón Bolívar, figura central
+en la lucha militar por la independencia
+                                                     política de la región, y también
+protagonista en la tarea intelectual
+                                           de pensar la reconstrucción consti
+                                                                             tu-
+cional de América Latina. En este doble
+                                          carácter, a Bolívar le interesó in-
+sistir en que las nuevas naciones debían utiliza
+                                                 r todas sus energías consti-
+tucionales con el objeto de consolidar instit
+                                               ucionalmente el triunfo que
+se había obtenido, dificultosamente, a través
+                                              de las armas. ParaBolívar, la
+consolidación de la independencia era el gran
+                                                  objetivo político del mo-
+mento, mientras que la respuesta consti
+                                                tucional que se ofrecía, en tal sen-
+
+
+
+    confrontarlos no eran los apropiados, pero este
+                                                         solo reconocimiento nos permite
+   pensar, desde un comienzo, en la complej
+                                               idad de la tarea que se emprendía, y en
+   el serio compromiso con que se hacía frente
+                                                     a ella.
+  5 Los campesinos haitianos clamaban, durante
+                                                      esos años, que “Constitusyon sé
+   papié, bayonet séfer” —“la Constitución
+                                        es de pap
+                                                las el,
+                                                    bayonetas de hierro”
+   (Sheller, 2000: 69).      a                                        TT
+ 6 Véase, de modo especial, art. 3 de la Constit
+                                                 ución de 1801; arts. 2 y 3
+   de la Constitución de 1805; art. 1 de la Constitución
+                                                               de 1806; arts, 1
+   y 2 de la Constitución de 1807; art. 1 de la Constitu
+                                                           ción de 1816.
+                                                 e
+
+[[PDF p. 6]]
+       El   PRIMER   DERECHO    CONSTITUCIONAL          LATINOAMERICANO        (1810-1850)     ]   17
+
+
+
+
+  tido, resultaba ser, una y otra
+                                            vez, equivocada. En 1813, en
+                                                                                   el “Memorial”
+  que dirigiera a los ciudadanos de
+                                                   Nueva Granada, y luego de hacer
+                                                                                                   un
+  examen de la crisis de la independencia venezo
+                                                lana, Bolívar sostuvo que
+  “entre las causas que han producido la
+                                                       caída de Venezuela, debe colocarse
+  en primer lugar la naturaleza
+                                           de su constitución; que repito,
+                                                                                    era tan con-
+  traria a sus intereses, como favorable a la de sus
+                                                                     contrarios”? Para él, re-
+ sultaba claro que la única respuesta constitucion
+                                                   al sensat                  a que podía darse,
+ frente a la crisis militar que asolaba a la región, era
+                                                                          una que hiciera exac-
+ tamente lo contrario a lo que se había
+                                                         hecho en Venezuela 1811, en su
+ primer ensayo constitucional.
+                                             Es decir, para él, la salida const                          Se    A
+                                                                                      itucional
+ consistía en la concentración de la autoridad políti
+                                                      ca en un Poder Ejecutivo
+ dota    de facul
+                dotades militares y políticas extraordinarias, política
+                                                                                                        Meat
+
+
+
+
+ irresponsable, y con capacidad para elegir a su sucesor.                mente
+ _ Unproyectoalternativo, más exitoso
+                                                       que el de Bolívar (al menos por el
+                                                                                             on
+hecho de haberse traducido en una                                                                       e
+                                                  Constitución que se convirtiera                       ¡A
+                                                                                             en la
+más estable del siglo XIX, en
+                                         toda América Latina), fue elPr
+                                                                       opuesto por
+Juan Egaña para Chile. Según
+                                         Juan Egaña, el gran problema
+                                                                      que enfrenta-
+ban las nuevas naciones era el de
+                                la disolución territorial, política,
+                                                                     y sobre
+todo moral- y la única respuesta
+                                 apropiada frente a la misma era
+                                                                     la con-
+centración de la autoridad
+                                     en favor de un ideal moral
+                                                                          compartido, esto es,
+el de la religión católica. “Desenga
+                                             ñiémonos —decía Egaña— sin relig
+                                                                              ión uni-
+forme no puede haber un gobierno
+                                              concorde?* Sin una religión únic
+                                                                               a —afir-
+
+
+  7 Véase, por ejemplo, Bolívar
+                                      (1950: vol, 3, p. 545). Y agregaba,
+                                                                            en la misma
+    dirección: “El más consecuente
+                                          error que cometió Venezuela, al
+                                                                        presentarse en
+   el teatro político fue, sin contradicc
+                                          ión, la fatal adopción que hizo
+                                                                           del sistema
+   tolerante: sistema improbado como
+                                           débil e ineficaz, desde entonces,
+                                                                             por todo
+   el mund   o sensato, y tenazmente sostenido hasta
+                                                             los últimos períodos, con una
+   ceguedad sin ejemplo” (ibid.
+                                : 541).      De la misma manera, en su
+                                                                             Discurso de
+   Angostura, pronunciado siete
+                                       años después, Bolívar vuelve sobre
+                                                                               la misma idea
+   Para criticar el modelo feder
+                                     alista adoptado en 1811, el
+                                                                   cual, en su opinión, el
+   País no estaba preparado para
+                                        adoptar “repentinamente,
+                                                                      alsalir de
+                                                                      lascadenas.
+   No estábamos preparados para tanto
+                                          bien; el bien, comel
+                                                            o mal, da la muerte
+   cuando es súbito y excesivo, Nuest
+                                      ra Constitución Moral no tenía todav
+   consistencia neces                                                      ía la
+                      aria para recibir el beneficio
+                                                          de un Gobierno completa
+   Representativo, y tan sublime                                                       mente
+                                       cuanto que podía ser adaptado
+   de Santos” (ibid.: 681)                                                  a una República
+                          .
+ 8 En Estado social del hombre,
+                                     Principios filosóficos de la legis
+                                                                     lación, Egaña agregaba
+  que “la religión es el eje [...]
+                                     no solo de la moralidad de
+                                                                    un pueblo, sino de su
+  carácter nacional, de sus
+                            cost      umbres, y del apego y respe
+                                                                    to a las instituciones
+  civiles [...]. En todo acto públi
+                                       co y aun doméstico, por pequ
+                                                                          eño que sea, deben
+  mezclarse formas religiosas
+                              , que recuerden la prese
+                                                       ncia de Dios, auxilien la
+  moral y sostengan las cost
+                             umbres.” (en Egaña, 1969:
+                                                        81).
+
+[[PDF p. 7]]
+18    |     LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+maba luego, pensando en el caso de Inglaterra— era posible crear %una
+nación de comerciantes, pero no una de ciudadanos”?
+     Juan Bautista'         Alberdi, quien fuera probablemente uno de los más lúci-
+dos juristas de la región, elogiaba, derecho, a aquellos primeros constitu-
+cionalistas, por razones similares a las que aquí presentamos: ellos habían
+tenido la sabiduría de ponerseareflexionar acerca de los graves problemas
+del momento postindependentista, y habían detectado, de modo apropiado,
+algunos de esos problemas, que podían ser enfrentados a través del dictado
+                                                 s
+de una nueva Constitución. En el capítulo :2 de suobra    más influyente,
+
+genti na, Alberdi reconocía los méritos del“primerderecho constitucional”
+de la región, en los siguientes términos:
+
+
+
+
+     quista y“sigmiendo por el coloniaje: y como medio de garantir su com-
+     pleta extinción, se iba hasta arrebatarle cualquier clase de ascendiente
+     en estos países. La          de                                                     :
+
+     interesesque preocupaban alos legisladores deesee tiempo. Tenían razón:
+     comprendían su época y sabían servirla (Alberdi, 1981: 26).'
+
+
+
+
+| En aquella época se trataba de afianzar la independencia por las armas;
+ _hoydebemos tratar de asegurarla por el engrandecimiento materialy
+
+
+
+
+  y Citado en Collier (1967: 270). Véase también Donoso (1967: 136-137).
+ 10 Aquella primeras respuestas, reconocía Alberdi, habían sido adecuadas en el
+    reconocimiento del contra qué debía pensarse la Constitución: “Se hacía
+    consistir y se definía entonces todo el mal de América en su dependencia de un
+    gobierno conquistador perteneciente a la Europa: se miraba por consiguiente
+          todo el remedio del mal en el alejamiento del influjo de la Europa” (ibid.).
+
+[[PDF p. 8]]
+      EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)          |   19
+
+
+
+
+  De lo que se trataba ahora, entonces —y según su particular opinión- era
+  de poblar
+         al ps $, asegurando su crecimiento económico, lo cual reque-
+
+  ría de un ordenamiento constitucional por completo diverso, orientado
+  > atr era la
+  aatra          población extranjera, y capacitado par.
+ Rata                9, amenazante. En todo caso, interesa
+                                                             retomar su modo
+
+  de acercarse al constitucionalismo, más que los remedios que coyuntural-
+ mente él podía proponer. Lo que Alberdi venía a plantearnos era que el
+  constitucionalismo debía asumir una mayor modestia: en lugar de plan-
+  tearse, de una vez y para siempre, cómo debía organizarse la sociedad, lo
+ que el constitucionalismo debía hacer, en suopinión, era plantearse cómo
+ resolver los “problemas del tiempo”, es decir, identificar ciertos “dramas”
+ o “angustias” capaces de marcar una época, y plantear respuestasposibles,
+ desde el derecho, frente a ellos.
+ —
+ Entodo caso, y en definitiva, no se trata de coincidir o no con el diagnós-
+ tico
+   y los remedios definidos por un autor particular, sino en tomar nota de
+ un proceder común en muchas de las principales figuras del constituciona-
+ lismo regional. Podemos disentir con ellos, radicalmente, en relación con
+ sus peculiares análisis y propuestas, pero lo que debe resultar claro es
+                                                                            que
+ había allí un tomarse en serio al constitucionalismo, que se traducía
+                                                                         en una
+ diversidad de modelos constitucionales, que todavía hoy nos sirven
+                                                                      de apoyo
+ para pensar sobre las bases de nuestra organiza
+                                                  ción constitucional.
+
+
+
+
+                             LES,
+
+
+ Una vez identificados ciertos graves dilema
+                                             s, ¿cómo hacer para enfrentar-
+ los, entonces, desde la ley? Más precisamente
+                                               , ¿qué organización constitu-
+ cional era la más promisoria, frente
+                                         a tamaños desafíos? Aquí, notable-
+
+
+
+
+   Es interesante,
+nal de América Latina, que ni se
+                                     encuentra un cuadro caótico, es
+                                                                         decir,
+innumerables soluciones
+                             que van en cualquier direc
+                                                           ción, ni un cuadro
+que sugiera la existencia de
+                               soluciones meramente discr
+                                                             ecionales y arbi-
+trarias, Más bien, ante algunos
+                                prob  lemas o “dramas” comúnmen
+                                                                     te iden-
+tificados como tales por ejem
+                             plo la independencia política,
+                                                                      la crisis
+«Económica, el desorden políti
+                              co, la injusticia social—los latin
+                                                                 oamericanos
+
+[[PDF p. 9]]
+                        20 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+                        sugirieron algunas respuestas limitadas y significativas. El punto es que,
+                        al final, solo hubo en juego pocas, diferentes y siempre interesantes res-
+                        puestas constitucionales,             o
+                           El reconocido jurista colombiano José María Samper abre su libro Los
+                        partidos en Colombia dando cuenta del tenor de las disputas constitucio-
+                       _nales que se sucedían en su país, y de la diversidad de respuestas en juego.
+                      Ñ Según su lúcida descripción, dicha confrontación no se relacionaba    con la
+                                                                                        nte,
+                  mera disputa entre líderesautoritariosy autointeresados sino, claramedife-
+                  %
+     e,
+
+
+
+          N      "con una disputa entre proyectos constitucionales comprehensivos     y
+                                                                                      de de-
+            yY A Tentes. Samper refirió, entonces, a la existencia de una pluralidad ciuda-
+     1
+
+
+
+
+        Ú    “3 bates en juego: el debate sobre la “mayor o menor libertad para   los
+     Élor £ eS danos” el debate sobre la “mayor o menor amplitud del poder central” o el
+                         “ensanche de las entidades municipales”, el debate sobre la “mayor o menor
+                         intervención de las masas populares, por medio del sufragio, en el gobierno
+                         del país”, y el debate sobre el “mayor o menor desenvolvimiento de las
+                         fuerzas sociales” (Samper, 1893: 16). Ese era el tipo de batallas constitucio-
+                         nales que estaban en juego, y no, meramente, una serie de disputas moti-
+                         vadas por la ambición de poder. Se trataba de disputas en tornoa la liber-
+                        _tad individual, el alcance de la democracia y el federalismo, la concentración
+                           de la autoridad, y el peso de las organizaciones sociales. 1         o
+                            Dada la diversidad de proyectos constitucionales vigente en América
+                         Latina, al momento de la independencia, podríamos proponer una manera
+                                                                                           diversidad.
+
+
+
+
+po                          La selección de estosdos ideales, el de la autonomía individual y el del
+                                                no es azarosa, Ellos nos refieren a dos reclamos
+                          autogobierno colectivo,
+                          básicos, que ocupan un lugar primordial en la política moderna, y qué
+Ñ                         resultaron de capital importancia en la discusión política que se abrió en
+                          América desde el momento independentista. Muchas de las principales
+                          batallas militares que se dieron en la región desde la independencia no
+                          tenían inscriptas en sus banderas la idea de autonomía, pero sí, claramente,
+                          consignas como “religión o muerte,” o “viva la religión” (por referir solo a
+                          un ejemplo importante). E a peculiar batalla —acerca del p                 a
+                          o'éstaba autorizada'a ocupar    l a Iglesia e n la   v i d a :  fue decisiva
+                          durante décadas (y aún lo sigue siendo hoy), en sus múltiples ramificacio-
+
+[[PDF p. 10]]
+        EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)        i     21
+
+
+
+
+ nes: en general, la discusión sobre separación entre Iglesia y Estado y luego,
+ a partir de allí, las discusiones sobre la influencia de la Iglesia en la edu-
+ cación; la tolerancia de ideas y cultos diferentes, la autorización de fun-
+ cionamiento a asociaciones hostiles a la religión, el patronato, el nombra-
+ miento de obispos y sacerdotes, las múltiples relaciones entre función
+ pública, ciudadanía y religión, etc. Las disputas en torno al lugar de la
+
+ Iglesia, finalmente, solo resumen y ejemplifican
+                                              una cantidad deconflic-
+ tos suscitados en la región
+                          en torno a la autonomía individual (disputas
+ en
+ torno a la privacidad, disputas «en torno al alcance de las libertades de
+ reunión o expresión, etcétera).
+      Tampoco resulta difícil identificar la influencia ejercida por el ideal del
+ autogobierno colectivo en toda América, y desde los albores mismos de
+ las revoluciones independentistas. Baste con mencionar, simplemente, que
+esas mismas revoluciones se basaron, antes que nada, en una reivindicación.
+republicana del derecho a decidir de los locales, frentealdomin     deio po-
+tencias extranjeras dominantes: Inglaterra, en el caso de los Estados
+                                                                        Unidos,
+España para el resto de casi toda América Latina, y Portugal para
+                                                                el caso
+«de Brasil. Desde el famoso reclam
+                                 deo no taxation without representation
+[no hay impuestos sin representación], que levantaran los primeros colo-
+nos americanos frente a Inglaterra, la demanda
+                                                    por el autogobierno siem-
+
+ e     ocupó un lugarprivilegiado en las nuevas sociedades independientes.
+ vo más interesante de toda esta historia es el modo
+                                                            en que dicho ideal
+     andera principal en las luchas por la liberación
+                                                         americana— siguió ju-
+ ando Un papel relevante una vez terminada la etapa de las revoluci
+                                                                       ones
+ independentistas. No es de extrañar que, luego de años
+                                                        en que se convocara
+     oblaciones enteras a entregar su vida, su liberta
+                                                       d, y sus propiedades por
+     Causa del autogobierno, esas misma
+                                       s poblaciones —como dijera el histo-
+     dor Gordon Wood- terminaran por utilizar contra
+                                                        sus propios maestros,
+     “doctrinas que aquellos les habían inculcado
+                                                    con el fin de llevar a cabo
+     evolución. De allí que muchos de los
+                                          nuevo   s debates políticos surgidos
+       lor de la independencia se organizara
+                                              n en torno del ideal del autogo-
+
+
+
+
+                                     ración popular:
+     En síntesis, no caben dudas acerca
+                                           del enorme impacto ejercido por
+     OS dos ideales constitucionales —aut
+                                           onomía individual, autogobierno
+     “ebvo— desde los albores de la independen
+                                                 cia. Frente a ellos resaltaría
+     guientes tres posibles posiciones, a su vez repres
+                                                       entati   vas de formas
+         tes de pensar la Consti
+                                tución:
+            3
+
+[[PDF p. 11]]
+22 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+   + Una posición:      adora, que desde los comienzos de la lucha inde-
+                                      la iónmás restrictiva, frente a
+     pendentista asumió la defensa de vis
+     ambos ideales. Se trató de una propuesta que propugnó organizar
+     to      sistema constitucional
+          el do                    en torno a una particular concepción
+     del bien (normalmente, una religión particular), a la vez que asumió
+     la postura más restrictiva y elitista, en cuanto al papel que debía
+     corresponderle a la voluntad mayoritaria, en el control de la vida
+     política de la comunidad.
+           |              licana, que se distin
+
+                                               y que tendió a considerarala
+      autonomía individual como un, ideal desplazable en nombre del bie-
+      nestar general, o las exigencias propias de una políti
+                                                               ca mayoritaria.
+
+
+
+
+                                         posiciones: una que               ten-
+ Resumidamente, nos encontramos aquí con tres
+                                                                             la
+ dió a reivindicar el ideal del autogobierno, aún en sacrificio del ideal dede
+ autonomía individual (el republicanismo); otra que privil     egió el ideal
+ la autonomía individual, aún a costa de establecer fuertes limitaciones
+                                                                         en pos
+ sobre el ideal del autogobierno (el liberalismo); y una tercera, que
+ de ciertos valores supraindividuales y extracomunitarios, aceptó desafi ar
+ ambos ideales (el conservadurismo). Este solo hecho  —el recon ocimi ento
+ de esta pluralidad de respuestas— €s, de por sí, ya 1interesante. En efecto,
+                                                                            -
+ nos habla ya de la existencia de formas distintas, y muchas veces contra
+ puestas entre sí, acerca de cómo pensar al constitucionalismo, enfrentado
+                                                              porque
+  asus principales dramas. El punto es importante en sí mismo
+  contrasta con unavisión,     que hoy parece presupues     dentrtao, del consti-
+                  según lalacual
+  tucionalismo,bible             no hay mucha s variaciones             imagina”
+                                                             posibles,estru
+       o conce       s, a hora    de pensa r en cómo   organ izar  la       ctura
+  bles                                                                 inicial nos
+  básica de la sociedad. Contra dicha visión, este reconocimiento  ituci onalismo
+  permite advertir que, desde su momento funda   ciona l, el const
+  reconoció la existencia de formas muy diferentes de    afront
+                                                          O
+                                                                ar  los princ ipa-
+  lesproblemas que se confrontaban.
+                                                                         modelos
+      En todo caso, en lo que sigue, haremos referencia a diferentes inicial
+   constitucionales, que ordenaremos a partir de esta clasificación             de
+
+[[PDF p. 12]]
+                                                                     (1810-1850) ] 23
+      EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO
+
+
+  s tres modelos constitucionales prin cipales mencionados. A favor de este
+lo
+    que, podría decirse que encaj  a bastante bien con entendimientos ha-
+                       política tiene, sobre el significado de los ideales
+enfo
+bituales que la teoría
+respectivos,' a lo cual se
+                           suma el apoyo que encuentra esta distinción tri-
+partita, dentro de la historia del consti
+                                         tucionalismo.” Reconociendo, desde
+                   istórica de la regióyn,         las ambigiiedades propias de los
+ya, la complejidadconstihstórca tuci€ onales citados(que, en la práctica     ieror
+distintos modelos
+                   serva                icuentra:                                  ses de la
+          (aquí, en todo caso, solo refina                                     érminos),
+
+     u Véase, por ejemplo, el modo en que se definen las ideas de conserv  atismo,
+       mayoritarismo y liberalismo en la International Encyclopedia of Social Sciences
+       (Sills, 1968). El conservatismo es definido como una ideologí a que reivindi ca
+                                                                       se
+                                                               y a lavez
+       ciertos patrones de moralidad tradicionales y heredados,que                             78
+                                                                       3, 291);
+       mantiene escéptica frente a la eficacia del gobierno popular (ibid., vol.           L
+       mayoritarismo estricto, como una postura que considera que la decisión
+       el
+       mayoritaria es decisiva para el grupoentero (ibid, val. 9, p. 536); y el liberalism o, 78
+       como una vision que   reivindica fundamen talmente  dos  temas,   el rechazo  de la
+       autoridad arbitraria, y la defensa de la libertad de expresión y la personalidad
+       individual (ibid.: vol, 9, p. 276).
+     12 Una primera muestra del apoyo que ofrece la historia a este esquerna inicial,
+       surge de la notable influencia simbólica, política,1intelectual adquirida por los
+        dos grandes eventos del constitucionalismo moderno, esto es, lasrevoluciones y.
+       francesa y norteamericana, y las Constituciones que siguieron a ellas (Elster,. NA
+        1993). Ambas revoluciones tuvieron un extraordinario impacto en todo | É AXLOALA
+                                                              indudable impronta
+        el mundo, y sus principales obras jurídicas dejaron una
+        a lo largo de todo el continente americano. El primer constitucionalismo               Ce [»
+        revolucionario proveniente de Francia, con sus antecedentes rousseaunianos, C / Dot tal - ]
+        y sus continuidades jacobinas, vinoa repres          ar al
+                                                        la región
+                                                     enent                        AE     REA
+                                                 constitucionalismo que encontraría
+        constitucionalismo radical, anticonservador;
+        continuidades en el mundo anglosajón a través de los escritos de radicales como             Y
+        Thomas Paine. Mientras tanto, y frente al mismo, la Constitución
+       orteamericana comenzó a simbolizar el modelo de los límites, del control al
+        poder, de la separación de la Iglesiay el Estado, es decir, de aquello que hemos
+        llamado liberalismo. Junto con estos abordajes, la otra gran fuente de
+        inspiración para el constitucionalismo regional estuvo dada, sin lugar a dudas,
+        por el derecho proveniente del imperio hispano. Cuatrocientos años de
+        colonización, impuestos por la fuerza de la espada, representaron una base de
+        apoyo extraordinaria para el desarrollo de un pensamiento de carácter
+        indudablemente conservador: conservador de las tradiciones, de la religión
+
+        impuesta, de un orden político estamental y un orden económico desigual.
+        Tenemos así, entonces, una primera y clara sustentación histórica para afirmar
+        la idea según la cual el constitucionalismo americano estuvo fundamentalmente
+         marcado, desde un inicio, por tres cosmovisiones diferentes, a las que podemos
+         asociar con el pensamiento conservador, republicano y liberal.
+
+[[PDF p. 13]]
+24 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+y la presencia del radicalismo, como proyecto de organización política al-
+ternativa, también resulta visible (aunque nunca con el peso de las cosmo-
+visiones anteriores), en una mayoría de los países que aquí estudiamos.*
+
+
+
+EL MODELO REPUBLICANO: POR LA “VOLUNTAD GENERAL”
+
+El modelo republicano o radical es el que crece con las luchas indepen-
+dentistas, a la vez quelas alimenta.** Se trata del modelo del autogobierno,
+  Je nace al calor de reclamos colectivos en pos de la independencia y la
+que
+autodeterminación. Y si bien es cierto que,conforme a lo dicho, se trató
+de un modo de pensar la organización constitucional muy apegadoal
+momento independentista, también lo es que el mismo tendió a resurgir
+frente a los nuevos rTeagrupamientos que iba mostrando el pensamiento
+“conservador, c€ ontraselque habitualmente se mostró enfrentado. En Amé-
+rica Latina,esoocurrióde modo muy notable :amediados delsigloXIX,
+acompañando> el“momento rojo” de las*“revoluciones democráticas de
+1848” en Europa. Reá                         e              A       itica     internaciónal
+
+
+
+
+                      En América Latina, la onda expansiva del movimiento
+democrático.sehizo sentir, sobre todo, en Colombia, Chile y Perúaunque
+-de un modo u otro- el mismo terminó teniendo repercusiones en toda
+
+
+
+
+: 3;JEn Chile, existió desde muy temprano un Partido Radical, con fuerte apoyo en
+   -/el siglo XIX; en Colombia es común la referencia a los“radicales del siglo XIX”
+      (es decir, Mejía Arango, 2007) o aun al “milagro socialista de Nueva Granada”
+      (Gilmore, 1956); en Perú, el historiador David Sobrevilla considera que “el
+      radicalismo es la tercera de las grandes opciones políticas peruanas desarrolladas
+     luego de la independencia nacional”, siendo “la primera “el pensamiento
+     conservador, la segunda, el liberal y la tercera, el radical” (Sobrevilla, 2009:
+     21-22); en México también resulta de sentido común la referencia a los
+     “radicales”, llamados a veces “liberales puros”, como los que participaron en la
+     Convención de 1857, etcétera.
+  14 En lo que sigue, usaremos de modo indistinto las categorías de “republicano”
+     y “radical”.
+  15 Véase, por ejemplo, Thomson (2002), y en particular Sobrevilla (2002).
+
+[[PDF p. 14]]
+      EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)                        |    25
+
+
+
+
+  En todo caso, en lo que sigue, vamos a definir al radicalismo a partir de
+dos de sus rasgos centrales: el mayoritarismo político y, lo que denomina-
+remos, a falta de un término mejor, el populismo moral     7)
+     La primera de estas características, el m                       ñ
+                                                                     al
+nos revela a la postura republicana en su faceta más crítica y opuesta
+conservadurismo. En efecto, el elitismo político que asociábamos con el
+proyecto conservador vira aquí a una postura de rechazo, de directa con-
+frontación con la anterior, que descansa en la autoridad superior de las
+mayorías populares. Lo que aquí se afirma enfáticamente es lo que allí se
+rechazaba de modo drástico: el derecho de las mayorías a autogobernarse,
+«a darse sus propias reglas
+                        y decidirpor
+                                   sí mismasel
+                                             modo en que quieren
+    evara cabo su vida en común.
+ “Por supuesto, las formas que fue adquiriendo este ideal —el ideal del
+autogobierno-— variaron en tiempos diferentes, y de acuerdo con el pensa-
+miento de autores diferentes. Sin embargo, de entre ellas podríamos des-
+
+
+
+
+    '6 Me detengo en el análisis de la cuestión en Gargarella (2010). En próximos
+      capítulos examinaremos con más detenimiento el particular devenir del
+:     pensamiento constitucional radical, desde finales del siglo XIX.
+17 La definición, según veremos, es muy similar en su contenido a la que ofrece, por
+      caso, el importante historiador peruano David Sobrevilla, para hablar del primer
+      radicalismo en su país, en contraste con el liberalismo y el conservadurismo que,
+      para él también, representan las tres grandes concepciones teóricas que
+      marcaron los inicios de las disputas políticas peruanas. Dice Sobrevilla: “Las
+      ideas radicales surgieron en el Perú hacia mediados del siglo XIX. El radicalismo
+      es la tercera de las grandes opciones políticas peruanas (hay otras menos
+      Importantes) desarrolladas luego de la independencia nacional. La primera
+                                                                                          de
+      ellas fue el pensamiento conservador, la segunda, el liberal, y la tercera,
+                                                                                    el radical.
+      El radicalismo tuvo un precursor en el Perú en Francisco de Paula González Vigil
+      (1792-1875), luego llegó a nuestro país en forma desarrollada traído por el prócer
+      chileno Francisco Bilbao (1823-1865) -quien vivió exiliado en Lima
+                                                                              de 1851 a 1856,
+      con una estadía intermedia en Guayaquil en 1852 y 1853; fue luego asumido
+                                                                                              por
+      Enrique Alvarado (1835 0 1837 y 1856) y cultivado
+                                                           por Mariano Amézaga
+      (1834-1883). El ápice del radicalismo se dio en el Perú con Manuel González
+      rada.
+          El radicalismo está caracterizado: negativamente por el anticlericalismo,
+      <Perú;
+      e
+        antibispanismo
+         hi     :
+
+                iwomo.
+                       y ladenuncia de losmaproblemas
+                                  ,
+
+                                                 O
+                                                      morales y económicos
+                                                                     A!
+
+                                                                      - del
+      AOStvamente por ser una opción de izquierda extrema que está
+                                                                                     en contra
+      de la burguesía, del capitalismo y del naciente imperialismo y a favor de un
+      'gualitarismo muy amplio” (Sobrevilla,2009: 21-22).
+
+[[PDF p. 15]]
+                             A        Pa   s
+                                     A A
+                        YO
+  Ñ
+  A
+      AN     A     A         Fe
+
+26 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+tacar una, por el grado de refinamiento y precisión que alcanzara, esto es,
+la defensa que hiciera del mayoritarismo político el extraordinario radical
+chileno Francisco Bilbao, a lo largo de su vida itinerante, de exilio en exi-
+lio, y en particular en uno de sus escritos más memorables, de 1855, titulado
+ gobierno de la libertad”. Dicho escrito representa la respuesta que diera
+“El
+Bilbao (en ese momento, exiliado en Perú), frente a una convocatoria he-
+cha por el general Castilla, para reformar la conservadora carta constitu-
+cional vigente, que databa de 1839.
+   En el texto, que refiere a los contornos que debían caracterizar a la nueva
+Constitución, el pensador chileno reflexiona detenidamente sobre el cons-
+titucionalismo, y el lugar que debían ocupar las mayorías populares en la
+nueva sociedad, y lo hace con un lenguaje y un ideario claramente rousseau-
+niano, y reivindicando directamente a la única Constitución que considera
+que “merece ser recordada” en la historia de la humanidad: esto es, la
+Constitución jacobina de 1793. Dando cuenta de los alcances de su mayo-
+ritarismo, Bilbaodefiende a la democracia directa frente a quienes consi-
+deran que ella es impracticable (Bilbao, 2007: 321-322); define a la delega-
+ción del Poder Legislativo como “crimen de lesa humanidad” (ibid.: 326),
+como “esclavitud disfrazada de soberanía” (“La historia de los congresos
+                                  aa
+lo comprueba”, ibid.: 322); y piens la representación en vínculo con el
+                         de revocatoria
+            y el derechovo
+mandato imperati                       de mandatos (ibid.: 321-
+                            ” —proclama Bilbao- al que presenta
+322).“El pueblo nombra el tribunado
+como “un agente, dependiente del soberano, con mandato imperativo, con
+el derecho especial de iniciativa, con el deber de elaborar la iniciativa de
+todos [...]. El tribunado es revocable, responsable, reelegible en su totali-
+dad o en parte y cuando lo manifieste el soberano” (ibid.: 327).
+   Claramente, el de Bilbao es un ejemplo notable, y en cierto sentido único
+en la historia de la región, pero convendría no exagerar su excepcionalidad.
+Sus propuestas, en todo caso, sofistican y extreman las que eran propias
+ de muchos otros activistas, políticos y pensadores de la época, que veían,
+                                                     stas
+                                      no debían frustrar
+ como él, que las revoluciones independenti              sus pro-
+                                                    o revoluciones
+                                                 a las
+ mesas emancipatorias: propuestas que habían dotad
+ de contenido y, sobre todo, de legitimidad.
+    Las formas que fue adquiriendo este discurso mayoritarista fueron di-
+ versas, pero en todas ellas podemos reconocer, sin dudas, la apuesta de los
+ radicales por salidas colectivas,
+                        e inién
+ en la regla de lamayoría,
+ estatal. Fueron ellos, los radicales, los que más y mejor abogaron por rom-
+ per un esquema de toma de decisiones excluyente, verticalista, concentrado
+ en unas pocas manos. Vemos expresadas estas convicciones, por ejemplo,
+                      o
+
+[[PDF p. 16]]
+> arpas
+
+                 El   PRIMER DERECHO CONSTITUCI
+                                               ONAL LATINOAMERICANO (1810-
+                                                                           1850)                    |   27
+
+
+
+
+            en la radical crítica a la delegación de poder que
+                                                                            presentara Bilbao, pero
+           también en el fuertesesgo antipresidencialista,
+                                                                    que caracterizara las propues-
+           tas de los primeros radicales en Nueva Granad
+                                                          a o en Perú (quienes reac-
+           cionaban, muy en particular, contra el militarismo
+                                                              autoritario que propo-
+           nía Simón Bolivar). Reconocemos estos compromisos
+                                                                 mayoritarios, también,
+           en la consistente defensa republicana del federalismo
+                                                                  político y la desconcen-
+           tración de la autoridad (banderas estas características del “antifederalismo”
+           norteamericano, de los “liberales puros” en México,
+                                                                              del liberalismo radical
+           colombiano de mediados del siglo XIX; etc.). Así también
+                                                                                 , el mayoritarismo
+           radical se manifiesta en la preferencia por una separación                    estricia   delo.
+                                      librar   de indebidas interferencias a la Degisiatara y
+          asegurar     así   su predominio     (ver, por caso, en las iniciativas constitucionales
+           defendidas por el radical británico Thomas Paine, en los Estados Unidos;
+           para un análisis sobre el origen y funcionamiento del
+                                                                              sistema de separación
+           estricta ver también Schmitt, 2008: sección ID). Advertimos
+                                                                                     este mayorita-
+           rismo de modo muy especial en la temprana y notable
+                                                                                 prédica a favor de
+          los derechos de las mujeres y de los trabajadores, realizada por
+                                                                               la peruana
+          Flora Tristán,* o en la decisiva campaña impulsada por los radicales
+                                                                                  , en pos
+          de la mayor inclusividad del sistema político. Y ello se reconoce
+                                                                            , también, en
+          la audaz y novedosa defensa de las asociaciones (la necesid
+                                                                           ad de nuestro
+          siglo”, Montalvo, 1984: 28) como esquema de organiz
+                                                                  ación colectiva basado
+          en la cooperación entre sus miembros (una defensa de las
+                                                                                  asociaciones que
+          encuentra varios ejemplos notables, en la región,
+                                                                          como los que nos proveen
+          los escritos y discursos de Juan Montalvo, en Ecuador, o
+                                                                el religioso Francisco
+          de Paula González Vigil, en Perú). Se trata de rasgos que
+                                                                      terminaron por
+          comprometer a los radicales con un intenso activism
+                                                                              o e intervencionismo
+          estatal que contrastaba de modo obvio, al menos discursi
+                                                                                  vamente, de la tan
+          común defensa del “dejar hacer, dejar pasar” propici
+                                                                             ado por una significa-
+          tiva porción de la élite de la época (véase, por ejemplo
+                                                                  , el brillante debate
+          que enfrentara, en Colombia, a Murillo Toro con
+                                                                          Miguel Samper)
+             El otro rasgo distintivo del republicanismo político
+                                                                                  fue el papi
+               al. La noción de populismo moral nos refiere a úña
+                                                                                                    4
+                                                            -y de   los    derechos. El radicalismo
+          proponía regular la vida política y social a partir de -y en
+                                                                               nombre de—la regla
+
+
+
+           18 El autor Carlos Rama la presenta como una
+                                                        “escritora de talento, que se
+              relaciona personalmente con Charles Fourier y [...]
+                                                                  con Robert Owen, a la cual
+              defenderá Carlos Marx contra los ataques de Edgard Bauer
+                                                                            en 1844 en La sagrada
+              familia, y en cuya obra se inspirará Federico Engels
+                                                                    para preparar su clásico
+              volumen La situación de las clases laboriosas en Inglaterr
+                                                                        a” (Rama, 1977: XXD).
+
+[[PDF p. 17]]
+                28 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+                mayoritaria. *                    :           —señala Pérez Guilhou descri-
+                                                                                         54
+                biendo la posición de los radicales argentinos, a fines del siglo XIX—
+                                             pa
+
+
+
+
+                contenido queda á        o por*lo que fija la vol                  z Guil-
+                                                                             al” (Pére
+                                                                                por ejemplo,
+                 hou, 1997: 20). En comunidades mayoritariamente religiosas,amien
+                 dicho compromiso mayoritario puede implicar el otorg               to de un
+                respaldo especial a la religión dominante            ,
+                                                              Esta era, por caso, laposi ción
+                                             Henrya Lee en 1784, frente
+                                       ralrdist
+                que defendía dlantifedeRicha                                          a James
+                Madison, cuando sostenía que la religión debía actuar   dián de
+                                                                       como “guar
+|                                                        de forma r el pensa miento de los
+!               la moral” o cuando abogaba por el deber                        22-23). Sin
+                ciudadanos “en favor de la virtud y la religión” (Storing, 1981: el perfec-
+                embargo, el fundamento de esta posición no radicaba, como encontingente
+                cionismo, en el valor intrínseco sino en el valor instrumental o
+                                                                             ser defendida,
+                 de la religión. La asociación entre Estado y religión podíavolun tadcolec-
+                entonces, y como imaginara Lee, de forma tal de honrar la Juan Jacobo
+                tiva, O podía defenderse, ren cambio, del mismo modo en que
+o                Rousseau defendiera la “religión civil”: esto es, en razón del servicio que
+                 era capaz de ofrecer la misma a la voluntad colectiva, en tanto “cemento
+                 social” elemento aglutinante y homogeneizador de sociedades en riesgo
+                                                                              y   ua   maza
+
+
+
+
+e
+.               - defragmentación (Wolff, 1996: 95; Cohen, 2010).
+    y Ml              No hablamos aquí, entonces (como lo hará el liberalismo, según vere-
+            Ñ    mos), ni de un ámbito de la moral privada, inexpugnable e impenetrable
+                 innegociables, que representen una insuperable barrera de contención
+                 frente a los abusos potenciales del Estado. La distinción entre voluntad
+                                                                                     contención
+                 colectiva y voluntad individual resulta diluida, y esas barreras de mejor
+                 entre individuo y Estado vuelan por los aires. Posiblemente,el            ejem-
+                  plo para ¡Justrar lo dicho tenga que ver con el caso de las virtudes cívicas,
+                  seguramente el aspecto más distintivo en la extensa historia de la teoría
+                                                                                              parecen
+                  política republicana y, aún más, uno de los pocos aspectos que
+                  formar parte del núcleo duro, común, del pensamiento republicano, desde
+                  sus orígenes y hasta hoy (Pettit, 1997; Skinner, 1983).
+    |                                             Estadoderepubl
+                                     siguiente: elrasgos
+                      La idea es laa por                         icano necesita de una ciudadanía
+    !             caracterizad           ciertos            carácter, ciertas cualidades morales,
+    7             que son las que permiten el sostenimiento de una nación libre, frente ala
+                  amenaza de potencias y comunidades externas (Sande l, 1996). Tales rasgos
+        |              carácte
+                  dependen     r eran los que habían hecho posible todo elmovimieninde- to
+                           tista, durante el cual grupos amplios de ciudadanos aceptaron sa-
+                   crificar todas sus pertenencias y hasta su vida en pos de la independencia
+                   política de su país. De allí que, para losrepublicanos, resultase inconcebi-
+                 PS
+                                                                      ci
+                                                                 una ciuda
+                   ble un escenario público marcado porla presde en          a
+                                                                           danía
+
+[[PDF p. 18]]
+    El PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)          |   29
+
+
+
+
+políticamente apática, no identificada con la vida de los demás, indiferente
+frente a la suerte del prójimo, desapegada del destino de su comunidad.
+   Por lo dicho, los republicanos rechazaron la idea del “Estado neutral” y,
+contra el mismo, defendieron como posible, deseabley "justificadala exis-
+
+                                               Un ejemplo.eneste respecto,
+quizás extremo, se encuentra en la radical y efímera Constitución mexicana
+de Apatzingán, de1814, que definía de modo muy estricto las dimensiones
+que debía asumir el compromiso ciudadano frente a su comunidad, adop-
+tando un lenguaje rousseauniano. En el art, 20 de la Constitución se con-
+sagraba entonces, por ejemplo, un absoluto predominio de la voluntad ge-
+neral sobre la particular: “La sumisión de unciudadano
+                                                     a una ley queno
+aprueba, no es uncomprometimiento«de su razónni de sulibertad; es un
+sacrificio de lainteligenciaparticular a la voluntad.general”. Del mismo
+          a   rn ocre
+
+
+
+
+“modo, el art. 41 definía, entre las obligacionesde los ciudadanos, la absoluta
+obediencia a las autoridades constituidas, a la vez que “una pronta dispo-
+sición a contribuir a los gastos públicos, un sacrifico voluntario de los
+bienes y de la vida cuando sus necesidades lo exijan”.
+   Ahora bien, lo dicho hasta aquí puede sugerir, equivocadamente, que
+los republicanosmantenían una idea simplemente |hostilfrente alaa noción,
+más tradicional, delosderechosconstitucionales como derechos inviola-
+bles e incondicionales. Sin embargo, la aseveración anterior es cierta solo
+de manera parcial. En realidad, ellos sostenían una aproximación más bien
+heterodoxa en torno a los derechos, que en parte restringía, pero en parte
+tambiénexpandía las nociones más comunes en torno a los mismos. Más
+que pensar en la lista de derechos como un modo de atrincherar ciertos
+intereses fundamentales, para así tornar posible la vida privada, los repu-
+blicanos concentraban su atención en las fo                                   y
+
+
+
+
+mente atadas)
+
+
+  En relación.con los derechospolíticos, sostuvimos ya que los republi-
+canos tuvieron un papelprotagónico en la discusión acerca de los mismos,
+
+y claramente en defensa de unavis
+                                másión
+                                   expansiva al respecto. En mo-
+mentos en que el derecho al sufragio era objeto de enfoques fuertemente
+testrictivos, y se privaba de la ciudadanía plena a la mayor parte de la
+
+población, ya sea por su condición económico-"social, su
+                                                      : género su raza,
+O su nivel educativo, k                                     o
+          a resultó de primera importancia. Pocas posiciones fueron tan
+
+[[PDF p. 19]]
+30 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+influyentes y articuladas al respecto —aquí, espeelcífi camente, en la defensa
+del sufragio universal- como rala que sostuviera   colombiano Murillo Toro.
+Murillo no solo fue una figucipacruc  ial en el avance de la iniciativacíauniv er-
+salista, sino además su prin l y aisladoel defe    nsor cuando pare que la
+                                                                              era
+propuesta se caía definitivamente ante aparente fracaso de la prim
+experiencia con el sufragio extendido.
+
+                          de ser elsígobie
+   Sila repúbdelicacadaha uno                                 o más bien,ría€
+                                           rno de todos portodos,
+   gobierno                   por mismo, y Conviniésemos enque la mayo      even ars rene ARI
+
+
+   noestá en la posibilidad de gobernarse por sí misma...
+                                                      A
+                                                          deberíamos
+
+    despedirnos del sistema democrático y procl ar una dictadura (Mu-
+    rillo Toro, 1979: 93).
+                                                                            e        va, fue
+ :                           des económicas dela Constitución.            En tal respecto,
+   son muchas las iniciativas que destacan, incluyendoGerva    la temprana y notable
+   iniciativa del líder independentista uruguayo, JoséOrientalsiopara      Artigas, quien
+   dictara un Reglamento Provisorio de la Provincia                            el Fomento
+   de la Campaña, destinado no solamente a aseguraruna               redis   tribu  ción de
+   Ja tierra, sino tambi                         de un criterio progr
+                          én a hacerlo a partiraba,                         esivo e igua-
+   litario por medio del cual se benefici        en prim er    lu       a
+                                                                       ga los   r,s más
+                                                                              grupo
+                                                  a “negr os   libres ”    “indio s”, 'zam-
+   “desaventajados de la sociedad, incluyendo
+                                                                        »            y
+
+
+
+
+                                                                  llos”    (Peti t Muñoz,
+    bos” “americanos nativos”, “viudas con hijos” y “crioartiguista adoptaba,
+                                  ”n   <
+
+
+
+
+    1956; Sala de Touron y Rodríguez, 1978). El documento  ión con grupos
+  de este modo, una actitud claramente igualitaria en relacya sea “integra-
+  desaventajados que, en ese tiempo, eran ya sea ignorados, fuerzas políticas
+  dos” por la fuerza, o directamente hostilizados por las
+                                                        ni la liberal parecían
+  dominantes (claramente, nila tradición conservadora modo       plenamente
+  bien preparadas para lidiar con tales grupos de un             s en que las
+  respetuoso, capaz de tomar en cuenta, por caso, los modo   n dañado a tales
+  políticas estatales vigentes, durante largas décadas, había
+  poblaciones).”
+
+                                                       con la tradición radical, en
+     19 Uno puede hacer la misma crítica en relación iones
+        general, más allá de que hayan existido excepc       como la de Artigas. Aún en
+        un caso extremo, como el de la revolución indepe  ndenti sta mexicana, liderada
+        por Hidalgo y Morelos, y motorizada por una mayoríantes.     de indígenas, los
+        resultados fueron , en el sentid o indica do, muy   frustra       Piénsese, por caso,
+        que la Constitución republicana,    rousse  aunian a, aprob  ada  en Apatzingán en 1814
+        (uno de los productos más interesantesódel      radicalism  o consti tucional temprano
+                                             omiti   toda refere  ncia a los derec hos e
+        en América Latina), básicamente
+
+[[PDF p. 20]]
+     EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)                       /        31
+
+
+
+
+   Medidas como la citada, orientada a asegurar ciertos bienes básicos para
+todos, pero en particular para los que estaban peor, a pesar de que no
+fueron las más comunes, se repitieron a lo largo de toda la región durante
+todo el siglo XIX. Uno puede alistar, entre otros ejemplos similares, las
+fuertes medidas redistributivas exigidas por los radicales mexicanos, desde
+los comienzos de la independencia (así, en la labor de los primeros “curas
+revolucionarios”), hasta muy avanzado el siglo, como se demostrara, de
+modo especial, en las profundas reformas agrarias exigidas por los libera-
+les radicales en la Convención Constituyente de 1857 (Reyes Heroles, 1957;
+Sayeg Helú, 1974; Zarco, 1957).
+  Ejemplos como los mencionados nos ayudan a reconocer la influencia
+—moderada, pero no menor- ejercida por el republicanismo americano en
+el diseño de las Constituciones de las nuevas sociedades independientes.
+
+
+
+
+         a espada,      ela       lawre               den.” Como dijera el publicista
+argentino Félix Frías:
+                              «
+                                  Lorden a la sombra y al amparo de la Cruz, es todo
+mi programa político”.
+
+                                          na; una de las dos más influyentes en toda la
+
+
+
+    intereses de los grupos indígenas, a pesar del rol protagónico que ellos habían
+    Jugado en la revolución.
+20 Seguramente, nadie superó al presidente ecuatoriano Gabriel García Moreno
+                                                                                            en
+    la traducción constitucional de esos ideales políticos. Así, en la presentación que
+    hiciera frente a la Asamblea Constituyente de su proyecto constitucional
+    extremadamente conservador, García Moreno sostuvo: “El proyecto de
+    Constitución que os será presentado, contiene las reformas que en mi concepto
+    demanda más imperiosamente el orden, el progreso y la felicidad de la
+    República, Dos objetos principales son los que he tenido en mira: el primero,
+    Poner en armonía nuestras instituciones políticas con nuestra creencia
+                                                                                 religiosa;
+    y el segundo, investir a la autoridad pública de la fuerza suficiente para
+                                                                                 resistir a
+    los embates de la anarquía” (García Moreno, 1887: 275-276). De allí que
+   proclamara la necesidad de “poner en armonía nuestras instituciones
+                                                                               políticas
+    con nuestra creencia religiosa”. En otros términos, y tal como
+                                                                     lo describiera
+   García Moreno, la Constitución debía “investir a la autoridad pública de
+                                                                            la
+   fuerza suficiente para resistir a los embates de la anarquía”.
+ 21 Y también: “Yo soy del partido de los católicos, esto es, del partido de
+                                                                           Jesucristo;
+   estoy por las facultades extraordinarias, por la omnipotencia de Nuestro
+                                                                               Padre
+   que está en los cielos”. Así, conforme a lo que sostuviera en un texto titulado
+
+[[PDF p. 21]]
+32 |     LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+región, y la que apareció en respaldo de las Constituciones más duraderas.
+En efecto, lapropuesta conservadora ha venido habitualmente de la mano
+
+
+
+
+  Al nivel constitucional, los ideales de “la Cruz y la espada” combinaban
+dos aspectos centrales del pensamiento conservador. Por un lado laCruz,
+                         quelas nuevas sociedades debían reorgani-
+          la convicción de
+estoesdecir,
+                                                     pero.no
+zarse en tornodeun proyectomoralcomprehensivo(habitual
+exclusivamente,, elde laIglesiaCatólica). Por otro lado la espada, esto es
+decir, la certeza de que era necesario recurrir a la fuerza para recuperar o
+imponer el orden; un orden vinculado con aquel proyecto comprehensivo,
+                                                          rr
+
+
+
+
+y que eraobjeto de resistencias y desafíos constantes por parte de una
+ciudadanía poco educada. Muchas de las primeras y principales Consti-
+tuciones aprobadas en la región respondieron bastante claramente a estas
+premisas: pensemos, por caso, en Constituciones como las de Chile de 1823
+y 1833 (una de las más duraderas en la historia latinoamericana), las de
+Colombia de 1843 y 1886, la ecuatoriana de 1869, la de México de 1843, O la
+de Huancayo, Perú, de 1839.
+  En términos algo más abstractos, y conforme ya adelantáramos, el mo-
+delo conservador implicaba el compromiso con dos posiciones teóricas de
+                      e todo el territorio americano: el eli
+extendida influencia en
+                                              o
+
+
+
+
+   Al dttismoso político podemos asociarlo con dos ideas fundamentales. Por
+un lado, un reclamo ontológico, centralenbuenapartede lahistoria del
+pensamiento político conservador, que vieneaafirmar la existencia de
+ciertasverdades políticas que deben guiar lavidapública. Por otro lado,
+                                                               A   A      A
+
+
+
+
+un reclamo epistemológico acerca de quiénes están capacitados o no para
+conocer o tener acceso a tales verdadespolíticas.     OS
+  “Uná buena muestra decómo podían operar ambos supuestos aparece
+en El Federalista n. 31, en donde Alexander Hamilton se refiere tanto a la
+convicción -derivada en su caso de John Locke-— acerca de la existencia de
+ciertas “verdades políticas primarias”, como al hecho de queno todoses-
+taban igualmente preparadosparaconocer el contenido de las mismas.”
+
+
+       “Vagancia”, publicado en La Religión, Buenos Aires, 8 de agosto de 1857 (citado
+       en Halperin Donghi, 1980: 42-43).
+  22 En un breve y revelador párrafo al respecto, Hamilton escribió que: “en todo tipo
+     de disquisiciones, existen ciertas verdades primarias, o primeros principios, de
+
+[[PDF p. 22]]
+     El PRIMER DERECHO CONSTITUCION
+                                   AL LATINOAMERICANO (1810-1850)
+                                                                                          |   33
+
+
+
+
+    La discusión que llevaba adelante Hamilton
+                                                 era eminentemente política:
+ de lo que se trataba entonces era de definir
+                                               los principios que habrían de
+ regular las instituciones básicas de las nuevas socieda
+                                                         des, y lo que él pre-
+ tendía, a través de su escrito, no era tanto participar en una
+                                                                               discusión fi-
+ losófica de larga data, sino intervenir en una discusión política urgente,
+ íntimamente imbricada con el dictado y aprobación de la Constitución
+ Federal. En todo caso, Hamilton proveía una versión más sofisticada y laica
+ de una manera de pensar que tenía y seguiría teniendo enorme peso
+                                                                                              en
+ toda la región.
+   Una visión similar, aunque tal vez más extrema y descarna
+                                                                               da, apareció
+muchas veces en América Latina de la mano de un discurso religioso
+                                                                                              y
+conservador. Son varios los ejemplos que pueden mencionarse en
+                                                                                        dicho
+respecto. Por caso, esa es la postura que reconocemos en
+                                                                          el religioso Bar-
+tolomé Herrera, en Perú, en su famosa polémica con el liberal Benito
+                                                                                        Laso,
+en torno a los principios fundamentales de la política, y las
+                                                                               capacidades
+de la ciudadanía para conocerlos. Decía Herrera:
+
+
+   Las leyes [...] son principios eternos fundados en la naturale
+                                                                                  za de las
+   cosas, principios que no pueden percibirse con claridad,
+                                                                               sino por los
+   entendimientos habituados a vencer las dificultades del trabajo mental
+  y ejercitados en la indagación científica. ¿Lamayoría de
+                                                                             un pueblo se
+  halla en estado de emprender la difícil tarea, indispensable para
+                                                                                       descu-
+  brir esosprincipios? No: no tiene tal capacidad y quien no tiene la ca-
+  pacidad para hacer algo, no se puede decir sin caer en
+                                                         un absurdo, que
+  tiene derechode hacerlo. El derecho de dictar las
+                                                    leyes pertenece a los
+  más inteligentes --a la aristocracia del saber, creada por la naturaleza”
+  (Herrera, 1929: 131; Basadre, 1949).
+
+
+El planteo de Herrera resume bien la versión más extrema
+                                                                          , y clerical, del
+elitismo propio del conservadurismo consti
+                                                       tucional americano. En todo
+
+Tn
+
+
+
+
+   los cuales debe depender todo el razonamiento posterior
+                                                                  . Estos principios
+   contienen una evidencia interna que, previa
+                                                     a cualquier reflexión o
+   combinación, determina el asentimiento del entendim
+                                                                iento, Cuando no produce
+   este efecto, ello debe resultar ya sea de algún
+                                                     desorden en el órgano perceptivo,
+   ya sea por la influencia de algún interés
+                                               extraño, alguna pasión, o algún
+   prejuicio”. Véase un análisis al respecto, por caso,
+                                                          en White (1987).
+23 Similar interés reviste la polémica de Herrera con los hermanos
+                                                                        José y Pedro Gálvez
+   (ver, en particular, el debate entre Herrera, corno rector
+                                                                del ultraconservador
+   Colegio de San Carlos, y Pedro Gálvez, director del liberal
+                                                               Colegio de Nuestra
+   Señora de Guadalupe). Véase, por ejemplo, Leguía (1927
+                                                             y 1939).
+
+[[PDF p. 23]]
+34 1 lA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+caso, el reconocimiento de lo anterior nos obliga a reflexionar sobre la
+plausibilidad del sistema institucional propiciado por un conservadurismo
+que pretendía crear instituciones que acompañaran los desarrollos más
+“duros” del “poder real”.             -
+   Lo que es más interesante,  de todos modos, es la forma en que este elitisimi
+  slítico    adquirió      ción               Í. Este implicó, fundamental-
+                                                                    obre    una persona,
+                                                     lencia lisa           e. Estas ideas
+                                                                 tran una
+básicas, que parecen encajar tan bien en Am érica Latina, encuen
+fuerte referencia externa en el modelo monárquico.inglés y en las Consti-
+tuciones Consulares Napoleónicas de 1799 y 1892, que alcanzaron tanta
+   f huencia en la región, Al mismo tiempo, tales
+influ
+                                                              ideas se         (       c
+         e
+
+
+
+   Este modelo político conservador, que combinaba un extremo centra-
+tismo con un extremo presidencialismo, reconoció, en.América Latina,
+diversas formas; desdel modelo teocrático defendido por el presidente
+ García Moreno, en Ecuador, hasta el modelo del presidentevitalicio,pro-
+                                                                  el
+ puesto porBolívar que el mismo Marx criticó en varios aspectos,” au-
+                                   es supremos” paraguayos, Gaspar
+                          “dictadora
+                   de los nist
+ toritarismo aislacio
+                             Erancisc
+                  Francia ydefend
+ Rodrígueztipodeimperia               o Solano López (Romero, 1970),,o elmo-
+ delo de                l,        ido en el constitucionalismo brasileño (Cal-
+ món, 1959: vol. 4; Mendes et al., 2008), O el esquema del “Supremo Poder
+
+
+  24 Aunque el modelo conservador fue el más exitoso de todos los existentes,
+     al menos en cuanto a la estabilidad que alcanzaron las Constituciones
+     conservadoras, ese no fue el caso de las Constituciones más claramente
+     inspiradas en el modelo napoleónico, como las que propusiera Bolívar en
+     Bolivia, Colombia o Perú, y que aparecieron como demasiado extremas,
+     sobre todo en relación con los poderes que depositaba en el presidente
+        (es decir, nombramiento de por vida).
+   25 Las críticas extremadamente duras que dirigió Marx a Bolívar pueden
+      encontrarse en uno de esos pocos textos en los que hace referencia a América
+      Latina (también existen algunas líneas acerca de la invasión norteamericana a
+      México). La crítica, que apareció en un artículo publicado en el New York Daily
+      Tribune, era tan dura y extrema que tuvo que aclarar su sentido y el objetivo de
+      sus críticas en una carta a Engels, escrita poco después de la aparición del
+        artículo sobre Bolívar. De manera notable, dicho artículo generó una importante
+        polémica en América Latina, entre autores y grupos de izquierda, acerca de la
+        adecuación del análisis histórico de Marx, e incluso (y de manera más
+        significativa) acerca de la estrategia de concentración de poderes en pos de
+        favorecer cambios sociales. Véase, por ejemplo, Marx (1858) y Aricó (2010).
+
+[[PDF p. 24]]
+ E
+          EL PRIMER DERECHO CONSTITUCIONAL LATINOAMERICANO (1810-1850)
+                                                                                              |     35
+
+
+
+
+      Conservador”, creado por la Constitución mexicana de 1836. Inclusive, el
+     modelo conservador latinoamericano llegó a expresarse a través de pro-
+     puestas monárquicas que, si bien resultaron excepcionales en la región,
+     alcanzaron una importancia particular (Safford, 1985: 360-361).*
+        Concentremos nuestra atención, ahora, en la otra “pata” central de las
+     propuestas conservadoras, relacionada con su perfeccionismo moral. De-
+     cir que el conservadurismo asume una posición moralmente perfeccionista
+     implica sostener que el mismo reconoce la existencia de ciertas verdades
+A
+
+
+
+
+     morales acerca de la vida buena (es decir, formas de vida mejores que
+     otras); a la vez que asume que una mayoría de ciudadanos tiene difículta-
+     des para alinear su comportamiento en los términos exigidos por aquellas
+     pautas. Esta última circunstancia pensaban los conservadores— dejaba a
+AS
+
+
+
+
+     una mayoría de personas a la merced de engaños o confusiones y, por tanto,
+     a las puertas de la degradación personal, de una vida en el vicio o la co-
+     rrupción. De allí, otra vez, la necesidad de guía y correcciones externas.
+        Obviamente, estos fuertescomp
+     dos«con
+          co la      ig
+                   renglon: Cato        ncontraron una pronta expresión constitu-
+
+     cional.?? Típicamente, el constitucionalismo de la región propició cláusu-
+     las favorables a la religión católica, ya sea declarando a la misma como
+     religión oficial (el 81% de las Constituciones dictadasdurante el siglo XIX),
+     ya sea prohibiendo el culto público
+                                       de otras religiones (el 54%, Loveman,
+                              e OAN
+
+
+
+
+     1993). En casos extremos, como en el de Ecuador 1869, la Constitución
+
+
+
+      26 Ello así, sobre todo, por el nivel de adhesión que llegaron a generar
+                                                                               en
+         pensadores liberales que vieron en ellas la única salida institucional posible,
+         frente a la crisis postindependentista, y el temor de una vuelta atrás del proceso
+         revolucionario. Fue así como aparecieron algunas breves experiencias
+         monárquicas en la Argentina (1814-1818), Chile (1818), y con más fuerza
+                                                                                       en
+         México, en donde un príncipe europeo llegó a ser designado al frente de
+                                                                                        los
+         destinos del país, entre 1864 y 1867 (una modalidad que había sido explorada
+                                                                                                  sin
+         éxito en otros países de la región). Manuel Belgrano, en la Argentina,
+                                                                                     había
+         intentado una alternativa curiosa, pero también fallida: designar
+                                                                           a un
+         descendiente Inca. El general Iturbide, en México 1821, mientras tanto, había
+         promovido, también sin éxito, la opción de un monarca
+                                                                    criollo,
+      27 Los modos adquiridos por el perfeccionismo moral, dentro de Amérita Latina,
+        y a partir de la extraordinaria influencia ejercida por la religión
+                                                                               católica, fueron
+        notables, La religión era vista, por muchos de ellos, como un
+                                                                         componente
+        esencial de la vida pública. Se trataba, en definitiva, del único
+                                                                          lazo que mantenía
+        unido al país, tal como sostuviera el monarquista mexicano José
+                                                                             María Gutiérrez
+        Estrada (Fowler, 1966: 70). Y, como mantuviera, en sintonía, el peruano
+        Bartolomé Herrera, “una Nación tan escasa de vínculos sociales”
+                                                                                no podía
+        considerar indiferente el “conservar o destruir el vínculo de la religión” (Paz
+        Soldán, 1973: 106).
+
+[[PDF p. 25]]
+36 | LA SALA DE MÁQUINAS DE LA CONSTITUCIÓN
+
+
+
+estableció que la ciudadanía misma quedaba reservada para los que pro-
+     la religión católica. En otros casos, como en el de Chile 1823, la
+fesaran
+                                                           deseiscientos
+                                   unCódigo Moral, de más hasta
+Constitución vino acompañada elde Estado
+artículos,a través de los cuales         pretendía regular      los más
+elementales aspectos de la vida privada. El Código establecía regulaciones,
+entonces, sobre el tenor que debían tener los vínculos entre padres e hijos,
+sobre el modo de celebración de las fiestas públicas y privadas, sobre el uso
+del alcohol, sobre el ocio y la vagancia, sobre los modos de la música po-
+pular, sobre las danzas nacionales, y sobre las conductas que debían ser
+exaltadas como virtuosas, o perseguidas y reprimidas como viciosas.
+   El influyente Bolívar, mientras tanto, defendió desde sus primeros es- .
+critos constitucionales una versión laica del Código Moral propiciado por
+Juan Egaña para Chile. En su conocida Carta de Jamaica sugería ya que la
+división de poderes tradicional debía ser completada con la creación de
+una institución destinada a cuidar de la educación y salud moral de la
+ciudadanía. Según Bolívar, el nuevo organismo se basaba en el Areópago
+ateniense y sus “guardianes de las costumbres”, en las prácticas austeras de
+los espartanos, y en los censores romanos junto con los tribunales domés-
+ticos allí existentes. Este cuarto poder debía ser —en su opinión una “fuente
+de Virtud” que tendría por objeto “la infancia y los corazones de los hom-
+bres, el espíritu público, las buenas costumbres, y la moralidad republicana”
+ (Belaúnde, 1967: 184).* Según el proyecto ofrecido por Bolívar en Angos-
+tura, el Poder Moral debía convertirse en la institución “que vele sobre la
+educación de los niños, sobre la instrucción nacional [...] que purifique
+lo que se haya corrompido en la República; que acuse la ingratitud, el
+egoísmo, la frialdad del amor a la patria, el ocio, la negligencia de los
+ciudadanos; que juzgue de los principios de corrupción, de los ejemplos
+ perniciosos”.?
+    La existencia de este tipo de iniciativas explícitas, grandilocuentes o
+ pintorescas, no debe impedir que reconozcamos la que resultó ser, tal vez,
+ la más importante y perdurable de las influencias del perfeccionismo a
+ nivel constitucional. La influencia aludida no es la que resulta de la con-
+ sagración de prohibiciones, religiones oficiales, o códigos morales, sino
+
+
+  28 El mismo se compondría de dos Cámaras: la primera debía publicar tablas
+     estadísticas con las virtudes y los vicios, así como listas comparativas con las
+      personas más virtuosas y distinguidas; mientras que la segunda, la Cámara
+      de la Educación, debía controlar la educación moral y física de los niños,
+      hasta los 12 años.
+   29 Véase, por ejemplo, http://www.analitica.com/bitblio/bolivar/angostura.asp
+
+[[PDF p. 26]]
+            EL PRIMER DERECH
+                             O CONSTITUCIONAL
+                                              LATINOAMERICANO
+                                                              (1810-1859)                      |   37
+
+
+
+
+        otra, más indirecta. Más
+                                        bien, se trata de la voca
+                                                                 ción por leer y interpre
+    todo el apartado de los dere                                              tar
+                                  chos constitucionales desd
+                                                             e el punto de vista
+    de la peculiar concepción comp
+                                    rehensiva del bien que defi
+                                                                  enden.
+       En tal sentido, y típicamente,
+                                      los conservadores no vier
+                                                                 on en el listado
+    de los derechos constitucion
+                                 ales una enumeración de los
+                                                               intereses funda-
+    mentales que el Estado se comp
+                                    rometía a defender de mod
+                                                                  o incondicio-
+    nal. No sorprende, por tanto
+                                   , que para los conservadores,
+                                                                   la garantía y
+    respeto de los derechos resul
+                                           tara condicionada al primordi
+                                                                                al resguardo de
+    la religión. Como dijera Juan
+                                             Egaña,
+
+
+         Es un error permitir toda clase
+                                                  de calumnia e insulto, y que
+                                                                                     se ataquen
+         los principios más sagrados e
+                                       inviolables de la religión y la mora
+                                                                           l, con
+         la expectativa de castigar desp
+                                         ués a sus autores [...]. La suma
+                                                                            de los
+         males que produce la liber
+                                   tad de imprenta en la relig
+                                                                               ión, la moral, la
+         mutua concordia inter
+                                       ior de los ciudadanos,
+                                                                     y aun el crédito exterior
+         de la nación, es mucho mayor
+                                                 que sus bienes (Egaña, 1969: 84-85
+                                                                                          ),
+
+Una operación similar se advie
+                                rte, por ejemplo, en la Cons
+                                                            titución ecua-
+toriana de 1869, cuando, por
+                             caso, tornaba dependiente el
+                                                           derecho de aso
+ciación del debido respeto
+                           a * a réligi
+
+
+
+
+nismo moral- vino a dar cont
+                            enido a las propuestas cons
+                                                        titucion                       ales del
+conservadurismo, en
+                               América, desde su mom
+                                                                ento fundacional.
+
+
+
+
+30 Más todavía, muchos de ellos
+                                      suscribían una visión organicist
+                                                                       a, antiindividualista
+        de la sociedad, que no encajaba
+                                        bien con el respeto incondicio
+                                                                        nal de los derechos
+        individuales que  muchos de sus rivales reclamab
+                                                                an. Como dijera el conservador
+        colombiano Miguel Antonio
+                                         Caro: “La sociedad es una enti
+                                                                          dad moral, con sus
+        derechos y deberes, y no bast
+                                         a que el individuo cumpla
+        ella no es el individuo”                                      los suyos [...] porque
+                                   (Valencia Villa, 1992:
+                                                            235).
+3       Una forma de razonamiento
+    E
+
+
+
+
+                                         similar puede encontrarse,
+                                                                       también, en Bolívar,
+        En su reacción frent
+                            e a lo que denomina
+                                                     ba “las máximas exag
+                                                                         eradas de los
+        derechos del hombre”. En
+                                    su opinión, no tenía sentido
+                                                                  pensar en los derechos
+        de las personas como se pens
+                                       aba sobre ellos en Francia,
+                                                                   es decir, como derechos
+        intangibles e incondiciona
+                                   les: nada era más importan
+                                                                te que preservar el
+        orden social,
+
+[[PDF p. 27]]
+
+
+[[PDF p. 28]]
+     El PRIMER DERECHO CONSTITUCIONAL
+                                      LATINOAMERICANO (1810-1850)                   |]   39
+                    A                             a         A
+                  ene bra Y AENA A A
+    de aquellas libertades con las cláusulas de
+                                                 “salvo la represión de los
+    delitos cometidos por el uso de estas libertades” o de “enla
+                                                                 forma de-
+    terminada por las leyes o los reglamentos de policía
+                                                                    ” u otras del mismo
+    sentido, incurrirá en el gravísimo error de.dejarlos derechos individua-
+    les y sociales al arbitrio del poder político (Lastarria, 1906: vol. 2, 271,
+    énfasis en el original).
+
+
+ Esta defensa de una lista de derechos incondicionales contrastaba direc-
+ tamente con la aproximación a los derechos que parecía caracterizar a las
+ posturas rivales. Por un lado, dicha postura era diferente
+                                                         de la que sostenían
+ los conservadores, quienes típicamente, como vimos, tendían'
+                                                                a interpretar
+ el sentido y alcance de esos derechos en sintonía con las necesida
+                                                                    des de la
+ religión. Y ese enfoque contrastaba, además, con la idea
+                                                           republicana, que
+veía al bienestar general como límite frente a los reclamos
+                                                            hechos en nom-
+bre de los derechos individuales, y no a la inversa.
+- La irrestricta defensa liberal de la autonomía individual, llevó a que se
+ identificara al liberalismo, apropiadamente, con una visión individualista,
+esto es, una visión que metodológicamente reconocía la primacía del indi-
+viduo, como unidad de análisis y punto de mira para
+                                                                  pensar y organizar a
+la
+sociedad. La otra crucial manifestación pública de esta postura (estre-
+chamente vinculada con la anterior) se reconoce en la visión
+                                                                          espontaneísta,
+anticolectivista, ysobre todo antiestatista, defendi
+                                                            da por los liberales (Jara-
+millo Uribe, 1964: 50). Lo dicho implica señalar que,
+                                                       para los liberales, el
+Estado debía abdicar de sus pretensiones perfeccionistas
+                                                         y regulatorias, para
+permitir, en cambio, que la organización de la
+                                                         sociedad surgiera espontá-
+neamente a partir de los acuerdos y contratos libremente firmado
+                                                                 s por               sus
+integrantes.” El punto es importante ya que nos ayuda
+                                                                     a advertir lo que,
+Por entonces, resultaba un presupuesto
+                                               fundante del liberalismo: ellos re-
+conocían al Estado como principal amena
+                                                za frente a la libertad individual,
+como la gran fuente de abusos que debía contene
+                                                           rse, limitarse. De allí que
+el jurista colombiano José María Samper pudiera declara
+                                                                   r, en su momento:
+
+  Es menester legislar lo menos posible, renunciar
+                                                                 a la manía de regla-
+  mentación e imitación. En las viejas
+                                             sociedades donde los intereses son
+  tan complicados y donde tienen tan profun
+                                                       das raíces, la reglamentación
+  de la vida social, sin ser justificable en sus exceso
+                                                                s, es algo comprensi-
+
+
+
+32 Se trata de lo que, en otro momen
+                                     to, Judith Shklar definiera como
+   “el liberalismo del miedo” (Shldar, 1989: 27-28;
+                                                      Williams, 2008: cap. 5).
+
+[[PDF p. 29]]
+

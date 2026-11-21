@@ -1,0 +1,129 @@
+# Llamadas de nota pegadas al texto en arballo2019_art75inc13 (generadas para U10; cada patrón lleva el contexto exacto)
+# PDF p. 1: llamada de nota
+(?<=ARTÍCULO)\ 75(?=\ IN)
+# PDF p. 2: llamada de nota
+(?<=\ \ \ 1943\)”\.)1(?=$)
+# PDF p. 2: llamada de nota
+(?<=son\ y\ Jay\.)2(?=$)
+# PDF p. 2: llamada de nota
+(?<=n”\ de\ 1824)3(?=,\ q)
+# PDF p. 3: llamada de nota
+(?<=\.”\ de\ 1937)5(?=,\ e)
+# PDF p. 3: llamada de nota
+(?<=t\ de\ 1964!)6(?=\.$)
+# PDF p. 3: llamada de nota
+(?<=\ de\ trigo\.)7(?=\ Al)
+# PDF p. 4: llamada de nota
+(?<=a\ materia\.)8(?=$)
+# PDF p. 4: llamada de nota
+(?<=bunales"\.\ )9(?=$)
+# PDF p. 4: llamada de nota
+(?<=s\ general”)10(?=\.$)
+# PDF p. 4: llamada de nota
+(?<=ez\ de\ 1995)11(?=\ en)
+# PDF p. 5: llamada de nota
+(?<=restadual\.)12(?=$)
+# PDF p. 5: llamada de nota
+(?<=e\ la\ otra\.)13(?=$)
+# PDF p. 6: llamada de nota
+(?<=\ directos”)15(?=\.$)
+# PDF p. 6: llamada de nota
+(?<=balizado”\.)17(?=$)
+# PDF p. 7: llamada de nota
+(?<=o”\ de\ 1866)18(?=,\ d)
+# PDF p. 7: llamada de nota
+(?<=elefónica”)19(?=,\ u)
+# PDF p. 8: llamada de nota
+(?<=unitario”\ )20(?=$)
+# PDF p. 8: llamada de nota
+(?<=exclusiva”)21(?=\.$)
+# PDF p. 8: llamada de nota
+(?<=vinciales\.)22(?=$)
+# PDF p. 8: llamada de nota
+(?<=s”\ de\ 1962)23(?=,\ a)
+# PDF p. 8: llamada de nota
+(?<=\ \ \ de\ 1977)24(?=,\ c)
+# PDF p. 9: llamada de nota
+(?<=s”\ de\ 1983)25(?=\.\ E)
+# PDF p. 9: llamada de nota
+(?<=stancias”\.)26(?=$)
+# PDF p. 9: llamada de nota
+(?<=a\ de\ 1998;)28(?=reg)
+# PDF p. 9: llamada de nota
+(?<=\ de\ 2003;\ )29(?=\ re)
+# PDF p. 10: llamada de nota
+(?<=\ \ \ \ 2009;\ )30(?=\ ob)
+# PDF p. 10: llamada de nota
+(?<=es\ de\ 2013)\ 31(?=$)
+# PDF p. 10: llamada de nota
+(?<=\ de\ 2003\.\ )32(?=$)
+# PDF p. 10: llamada de nota
+(?<=\ Misiones”)34(?=\ de)
+# PDF p. 10: llamada de nota
+(?<=\ \ Mendoza”)36(?=\ de)
+# PDF p. 11: llamada de nota
+(?<=\ bienes”\.\ )37(?=$)
+# PDF p. 11: llamada de nota
+(?<=titución”\.)39(?=\ Y\ )
+# PDF p. 12: llamada de nota
+(?<=endiente”\.)40(?=$)
+# PDF p. 12: llamada de nota
+(?<=\ nacional\.)41(?=$)
+# PDF p. 12: llamada de nota
+(?<=Nacional”\.)42(?=$)
+# PDF p. 12: llamada de nota
+(?<=vidades”\.\ )43(?=$)
+# PDF p. 12: llamada de nota
+(?<=e\ Mendoza”)44(?=\ de)
+# PDF p. 12: llamada de nota
+(?<=a\ Blanca”\ )45(?=\ de)
+# PDF p. 13: llamada de nota
+(?<=itorial”\.\.)46(?=$)
+# PDF p. 13: llamada de nota
+(?<=erritorio\.)47(?=$)
+# PDF p. 13: llamada de nota
+(?<=acional”\.\ )48(?=$)
+# PDF p. 14: llamada de nota
+(?<=ropósito”\.)49(?=$)
+# PDF p. 14: llamada de nota
+(?<=o”\ de\ 2012)51(?=\)$)
+# PDF p. 15: llamada de nota
+(?<=odifusión\.)55(?=$)
+# PDF p. 15: llamada de nota
+(?<=de\ 1998)56(?=\),\ )
+# PDF p. 15: llamada de nota
+(?<=za\ de\ 2003)57(?=\ y\ )
+# PDF p. 15: llamada de nota
+(?<=\.”\ de\ 2007)58(?=\)\.\ )
+# PDF p. 16: llamada de nota
+(?<=\ de\ 2008\)\.)59(?=$)
+# PDF p. 16: llamada de nota
+(?<=ovincial\.\ )60(?=$)
+# PDF p. 16: llamada de nota
+(?<=soberana”\.)61(?=$)
+# PDF p. 17: llamada de nota
+(?<=nacional”\.)64(?=$)
+# PDF p. 17: llamada de nota
+(?<=etencias\.\ )65(?=$)
+# PDF p. 17: llamada de nota
+(?<=completo"\.)66(?=\ De)
+# PDF p. 17: llamada de nota
+(?<=rcionado”\.)67(?=$)
+# PDF p. 18: llamada de nota
+(?<=cíficos”\.\ )68(?=$)
+# PDF p. 18: llamada de nota
+(?<=mantenga”\.)69(?=$)
+# PDF p. 18: llamada de nota
+(?<=ambiental\.)70(?=$)
+# PDF p. 18: llamada de nota
+(?<=e\ policía”)71(?=\.$)
+# PDF p. 19: llamada de nota
+(?<=\ general\.\ )72(?=$)
+# PDF p. 19: llamada de nota
+(?<=local\.)73(?=$)
+# PDF p. 19: llamada de nota
+(?<=vincias"\.\ )74(?=$)
+# PDF p. 19: llamada de nota
+(?<=\ Nacional\.)75(?=$)
+# PDF p. 20: llamada de nota
+(?<=s\ últimos”)76(?=\.$)

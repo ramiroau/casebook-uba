@@ -1,0 +1,25 @@
+# Guidi, «Elección y conformación de las Cámaras» (U09).
+# PDF p. 9: la nota 42 empieza con el número en el mismo renglón y queda
+# antes del primer renglón con sólo un número (la nota 43)
+^42 En ambos casos, esto es una simplificacion\.[\s\S]*?Veanse los arts\. 55 y 56 de la Ley 8871\.\s*$
+# PDF p. 13: continuación de la nota 60 (empezada en p. 12), sin número propio
+^también porque a continuación de la cita que efectúa la Cámara Weber pondera la importancia de los\s*\npartidos políticos para el ejercicio de la representación en las repúblicas parlamentarias\.\s*$
+# Llamadas de nota que MARCA_DE_NOTA no toma (tras comillas tipográficas, mayúscula o cifra)
+(?<=de\ la\ residencia”)10(?=\.\ Si)
+(?<=\ en\ la\ Cámara\ de\ Diputados\.”)13(?=\ Est)
+(?<=constitucional\ del\ siglo\ XIX)15(?=\ y\ h)
+(?<=os\ por\ defraudar\ al\ elector”)21(?=\.\ Si)
+(?<=los\ candidatos”)22(?=\.\ De)
+(?<=s\ por\ los\ arts\.\ 114\ y\ 115\ CN)36(?=\.)
+(?<=lista\ en\ su\ conjunto”)43(?=\.\ Ad)
+(?<=\ sea\ en\ exceso\ fragmentaria”)44(?=\.\ La)
+(?<=tido”\ sino\ por\ una\n“alianza”)47(?=\.\ Es)
+(?<=a\ remplazar\ a\ los\ titulares”)50(?=\.\ Es)
+(?<=os\ por\ sobre\ los\ candidatos”)58(?=\.\ As)
+(?<=ye\ exclusivamente\ al\nSenado”)65(?=\.\ Es)
+(?<=es,\ base\ de\ su\ subsistencia”)66(?=\.\ Lo)
+(?<=dades\ a\ las\ que\ está\ sujeto”)67(?=\.\ Lo)
+(?<=por\ la\ autoridad\ competente”)71(?=\.\ Po)
+(?<=resuelta en 2009)30(?=\. El juez)
+(?<=Seguí en\n1853)31(?= y citando)
+(?<=que exige el art\. 45)39(?=,)

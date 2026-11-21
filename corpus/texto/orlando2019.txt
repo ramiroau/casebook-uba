@@ -1,0 +1,824 @@
+# fuente: Unidad10/Orlando - 2019 - Federalismo Fiscal.pdf
+# md5_original: c07d2f1158709d601fab025cb853a4dd
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Artículo 75. Corresponde al Congreso…
+2. Imponer contribuciones indirectas como facultad concurrente con las provincias.
+Imponer contribuciones directas, por tiempo determinado, proporcionalmente iguales en
+todo el territorio de la Nación, siempre que la defensa, seguridad común y bien general
+del Estado lo exijan. Las contribuciones previstas en este inciso, con excepción de la
+parte o el total de las que tengan asignación específica, son coparticipables.
+Una ley convenio, sobre la base de acuerdos entre la Nación y las provincias, instituirá
+regímenes de coparticipación de estas contribuciones, garantizando la automaticidad en
+la remisión de los fondos.
+La distribución entre la Nación, las provincias y la ciudad de Buenos Aires y entre éstas,
+se efectuará en relación directa a las competencias, servicios y funciones de cada una de
+ellas contemplando criterios objetivos de reparto; será equitativa, solidaria y dará
+prioridad al logro de un grado equivalente de desarrollo, calidad de vida e igualdad de
+oportunidades en todo el territorio nacional.
+La ley convenio tendrá como Cámara de origen el Senado y deberá ser sancionada con la
+mayoría absoluta de la totalidad de los miembros de cada Cámara, no podrá ser
+modificada unilateralmente ni reglamentada y será aprobada por las provincias.
+No habrá transferencia de competencias, servicios o funciones sin la respectiva
+reasignación de recursos, aprobada por ley del Congreso cuando correspondiere y por la
+provincia interesada o la ciudad de Buenos Aires en su caso.
+Un organismo fiscal federal tendrá a su cargo el control y fiscalización de la ejecución
+de lo establecido en este inciso, según lo determina la ley, la que deberá asegurar la
+representación de todas las provincias y la ciudad de Buenos Aires en su composición.
+
+
+El federalismo fiscal
+Uno de los puntos más problemáticos de nuestra práctica constitucional ha sido el respeto al
+federalismo como modo de organización del Estado. En ese marco, resulta especialmente
+conflictiva la distribución de los recursos y gastos entre los distintos niveles de gobierno.
+        Ningún acercamiento al federalismo argentino puede soslayar el aspecto financiero
+que implica el reparto de atribuciones y tareas entre el Estado Nacional, las Provincias, los
+Municipios y la Ciudad Autónoma de Buenos Aires. Es decir, la pregunta acerca de qué
+funciones y, por ende, qué gastos corresponden a los entes de los distintos niveles, y por
+otra parte, qué recursos corresponden a cada uno de ellos1, a fin de asegurar el goce
+efectivo de los derechos fundamentales de los habitantes en todo el territorio de la Nación y
+el funcionamiento de las instituciones democráticas.
+Desde una teoría de la democracia que otorga un especial valor a la necesidad de que las
+decisiones colectivas que forman parte del nervio de una comunidad política sean el
+producto de una deliberación robusta e inclusiva2 con participación de los potenciales
+
+1
+  Jarach, Dino; “Finanzas de Múltiples Niveles de Gobierno”, en Finanzas Públicas y Derecho Tributario,
+Buenos Aires, Abeledo Perrot, 1999, pág. 133 y ss
+2
+  Nino, C., La constitución de la democracia deliberativa, Gedisa.
+
+
+
+                                                                                                          1
+
+[[PDF p. 2]]
+afectados, cabe argumentar que un régimen de tipo federal tiene la virtualidad de crear
+mayores instancias de diálogo y control ciudadano, en tanto “pondría a disposición de los
+individuos un ámbito adicional, más cercano y local, tanto como esfera autónoma de
+participación cuanto como modo de experimentación y preparación para (saltar a) las
+discusiones a nivel nacional”3.
+Ahora bien, desde esta perspectiva, una coordinación fiscal que no vacíe de contenido las
+autonomías locales, tampoco puede desentenderse de la precondición de que el poder
+impositivo se ejerza en definitiva al servicio de una distribución igualitaria de la autonomía
+de los individuos.4 En este orden de ideas, Habermas sostiene que la autonomía privada y la
+pública se presuponen mutuamente, en tal forma que ni los derechos humanos ni la
+soberanía popular pueden reclamar primacía sobre su contraparte: “[s]in derechos básicos
+que aseguren la autonomía privada de los ciudadanos, tampoco habría ningún medio para
+la institucionalización legal de las condiciones bajo las cuales tales ciudadanos puedan
+hacer uso de su autonomía pública”. 5 Llevando este postulado al plano fiscal, en un
+contexto signado por grandes desigualdades socio-económicas tanto entre las distintas
+provincias como en el plano interpersonal, su efectiva materialización requiere la
+articulación de mecanismos redistributivos que coadyuven a achicar ambas brechas.
+
+
+
+
+      Distribución de potestades tributarias entre los distintos niveles de gobierno
+
+
+Art. 75 inc. 2, primer párrafo. [Corresponde al Congreso:] Imponer contribuciones
+indirectas como facultad concurrente con las provincias. Imponer contribuciones
+directas, por tiempo determinado, proporcionalmente iguales en todo el territorio de la
+Nación, siempre que la defensa, seguridad común y bien general del Estado lo exijan.
+Las contribuciones previstas en este inciso, con excepción de la parte o el total de las que
+tengan asignación específica, son coparticipables.
+
+
+La clasificación de los impuestos en directos e indirectos es de especial relevancia a la hora
+de distribuir las potestades tributarias entre los distintos niveles de gobierno. Si bien
+históricamente se han propuesto distintos criterios de clasificación, el que goza de amplia
+aceptación en la actualidad es aquel que distingue entre impuestos directos e indirectos
+según éstos graven una manifestación inmediata o mediata de capacidad contributiva. Tal
+como ha sido explicado por Ferreiro Lapatza, la capacidad contributiva de los sujetos
+3
+  Bertomeu, J, “Notas sobre federalismo”, en Gargarella, R. (coord..), Teoría y Crítica del Derecho
+Constitucional, T. I, Abeledo Perrot, p. 445.
+4
+  Partiendo de la premisa de que las condiciones fácticas para elegir y materializar planes de vida también se
+violan por la omisión de proveer a los demás los recursos necesarios para que tengan la misma probabilidad
+que nosotros de realizar una vida autónoma, Nino justifica moralmente de manera condicional el poder
+impositivo del Estado: siempre que éste se ejerza al servicio de una distribución igualitaria de la autonomía de
+los individuos. Nino, Carlos; “La justificación ética de la contribución impositiva”, en Una teoría de la
+justicia para la democracia, Buenos Aires, Siglo XXI, 2013, pág. 128
+5
+  Habermas, Jurgen; “Retrospective Comments on Faktizität und Geltung”, manuscrito presentado en “The
+Program for the Study of the Law, Philosophy & Social Theory”, Nueva York, New York University, 1997,
+citado en Gargarella, R.; Las teorías de la justicia después de Rawls, Madrid, Paidós, 1999, pág. 189
+
+
+
+                                                                                                              2
+
+[[PDF p. 3]]
+“depende de su riqueza, y ésta se hace patente directa e inmediatamente en la posesión de
+un patrimonio o en la obtención de una renta. Los impuestos que recaen sobre la renta y el
+patrimonio son en este sentido impuestos directos, ya que gravan la riqueza en sí misma,
+directa e inmediatamente considerada. Pero la riqueza de un individuo puede manifestarse
+indirectamente a través de su utilización (…). Los impuestos indirectos gravan, tienen por
+objeto precisamente manifestaciones indirectas de capacidad económica, como son la
+circulación o consumo de la riqueza”6.
+Un enfoque anterior distinguía entre impuestos directos e indirectos a partir de la
+posibilidad o imposibilidad de la traslación del peso económico del gravamen. La Corte ha
+hecho alusión al mismo, respecto del impuesto al valor agregado o los impuestos internos a
+los consumos específicos, expresando que los impuestos indirectos son “esencialmente
+trasladables”7. Entre las críticas a este criterio, cabe mencionar que la traslación va a
+depender de un conjunto de factores, v.g. la diferencia de poder económico entre las partes
+que intervienen en una transacción, que pueden llevar a que un mismo impuesto sea, en
+ciertos casos, trasladable y, en otros casos, no. Por ello, no se erige como una pauta sólida
+que permita una distinción clara y precisa.
+Cabe advertir que la reforma constitucional de 1994 ha conservado las restricciones que la
+Constitución histórica preveía en cabeza del Gobierno Federal para el establecimiento de
+impuestos directos, a pesar de que ya desde 1932, con la sanción de la Ley 11.682 de
+Impuesto a los Réditos, la técnica legislativa por parte del Congreso Nacional para
+mantener un impuesto considerado directo, fue la de establecerlo formalmente por tiempo
+determinado pero prorrogar periódicamente su vigencia. Dicha ley fue reemplazada en
+1973 por la Ley de Impuesto a las Ganancias 20.628 que sin solución de continuidad sigue
+vigente hasta nuestros días. Consideraciones similares merece el Impuesto sobre los Bienes
+Personales. Teniendo en cuenta que existen razones técnicas que justifican que tales
+impuestos directos sean establecidos a nivel nacional -sin perjuicio de que su producido sea
+distribuido a las provincias-, la persistencia de una regla constitucional que no guarda
+relación con la forma en que efectivamente se encuentra estructurado nuestro régimen
+tributario entre los distintos niveles de gobierno, decididamente no contribuye a aportar
+claridad en la materia.
+
+
+El constituyente de 1994 incorporó al texto constitucional el reconocimiento expreso de la
+facultad concurrente del Gobierno Federal para establecer contribuciones indirectas,
+receptando el criterio adoptado en 1927 por la Corte in re “Simón Mataldi”8, en línea a su
+vez con la interpretación que ya realizara Terry al defender en el debate parlamentario de
+1894 la validez del Impuesto Interno al Consumo específico como recurso permanente del
+
+6
+  Ferreriro Lapatza, José Juan, Curso de Derecho Financiero español –instituciones-, 25ª ed., Marcial Pons,
+Madrid, 2006, p. 342.
+7
+  Véase CSJN, in re: “Recurso de hecho deducido por Arístides Horacio M. Corti en la causa Compañía
+General de Combustibles S.A. s/ recurso de apelación”, sentencia del 16 de junio de 1993 y “Nobleza
+Piccardo S.A.I.C. c/ Estado Nacional s/ Dirección General Impositiva”, sentencia del 5 de octubre de 2004,
+entre muchos otros.
+8
+  “Sociedad Anónima Simón Mataldi Limitada c/Pcia. De Buenos Aires” (Fallos 149.260).
+
+
+
+                                                                                                         3
+
+[[PDF p. 4]]
+Estado Nacional9. Su argumento se fundaba en el análisis del art. 4, en tanto éste hace
+referencia a las “contribuciones que equitativa y proporcionalmente a la población imponga
+el Congreso General” sin efectuar distinción alguna entre contribuciones directas e
+indirectas. La Corte había entendido que si bien el art. 4 no encerraba una delegación de
+poder expreso a favor de la Nación, la potestad de establecer impuestos indirectos estaba
+contenida de manera razonablemente implícita. La Corte había aclarado que esta facultad
+no presenta caracteres de exclusividad, por lo que debía considerarse que las provincias
+conservan al respecto facultades impositivas que pueden ser ejercidas de manera
+concurrente.10
+
+
+Esquemáticamente, la distribución de potestades tributarias quedó institucionalizada de la
+siguiente manera:
+-Le corresponde al Gobierno Federal: en forma exclusiva, excluyente y permanente los
+derechos de importación y exportación (arts. 4º y 75º:1º y 2º); en forma concurrente con las
+provincias y permanente la creación de impuestos indirectos internos (arts. 4º, 17º, 75º:2 y
+121º); y con carácter transitorio y bajo ciertas condiciones excepcionales, establecer
+impuestos directos (arts. 4º y 75º:2º).
+-Le corresponde a los Gobiernos Provinciales: establecer en forma permanente los
+impuestos directos; y en forma concurrente y permanente con el Gobierno Federal puede
+crear impuestos indirectos.11
+-Le corresponde a los Municipios: potestades tributarias de carácter derivado –es decir, el
+conjunto de facultades impositivas que las Provincias les asignen12. Conforme lo estipulado
+en el art.123 introducido por la reforma, las Provincias deben asegurar la autonomía
+municipal, reglando su alcance y contenido, inter alia, en el orden financiero.
+
+
+Persisten diversos criterios para caracterizar el status de la CABA.13 Sin perjuicio de ello,
+en virtud de lo dispuesto en el art. 129 introducido en la reforma, la CABA ha sancionado
+
+
+9
+  Casás, J. O.; “Semblanza del Profesor José Antonio Terry”, Bs. As, Lecciones y Ensayos N°79, 2004, pág.
+377.
+10
+   Como lo destaca Casás, uno de los puntos más álgidos en este aspecto, es la relativa a si el Congreso
+Nacional puede eximir temporalmente a ciertos sujetos, materias o emprendimientos –en razón de la
+actividad, lugar de inversión, etc.-, no sólo de gravámenes nacionales, sino también de tributos provinciales y
+municipales, sobre los cuales no tiene potestad normativa para crearlos. Sobre ello existe una jurisprudencia
+relativamente pacífica de nuestro más alto tribunal, en el sentido de reconocer al Congreso la facultad de
+eximir, en determinados supuestos, el pago de tributos locales, siendo el leading case sobre la cuestión el caso
+“Ferrocarril Central Argentino c/Pcia. De Santa Fe s/repetición de pago indebido”, sentencia dictada el
+03/07/1897Casás, J.O., “Restricciones al poder tributario de los municipios de provincia a partir de la ley de
+coparticipación tributaria”, en Casás, J.O. (coord..), Derecho Tributario Municipal, Ad-Hoc, 2001, p. 30.
+11
+   La Corte Suprema de Justicia tempranamente estableció in re “Don Domingo Mendoza y hermano c/Pcia.
+De San Luis s/derecho de exportación” (Fallos 3:131, 5/12/1865) que “Los actos de la legislatura de una
+provincia no pueden ser invalidados, sino en aquellos casos en que la Constitución concede al Congreso
+Nacional en términos expresos un exclusivo poder, o en los que el ejercicio de idénticos poderes ha sido
+expresamente prohibido a las provincias, o cuando hay una directa y absoluta incompatibilidad en el ejercicio
+de ellos por estas últimas”.
+12
+   Jarach, D., Finanzas públicas y derecho tribuario, Abeledo Perrot, 2da Edición, Buenos Aires, p. 153.
+13
+   La CSJN tiene resuelto que la CABA no se encuentra equiparada a una provincia Fallos, 322:2856 y
+323:3991. Más recientemente, in re “Gobierno de la Ciudad de Buenos Aires c. Tierra del Fuego” 18/12/2007
+en un voto en disidencia, Zaffaroni consideró que la representación senatorial (cf. art. 54) confiere a la Ciudad
+el carácter de ente federado.
+
+
+
+                                                                                                               4
+
+[[PDF p. 5]]
+en 1996 su propia Constitución, que define a su sistema financiero de manera
+sustantivamente similar al de las provincias.14 Cabe aclarar que le son propios asimismo los
+recursos que en las provincias suelen corresponder a los municipios.
+
+
+En definitiva, respecto del sistema de coordinación tributaria adoptado por la Constitución,
+la interpretación generalmente admitida y avalada por los pronunciamientos de la CSJN15,
+ubica al ordenamiento constitucional argentino adscripto al sistema de separación de
+fuentes en materia de derechos aduaneros (nacionales) y de contribuciones directas
+(provinciales como recursos ordinarios y permanentes) y al de concurrencia de facultades,
+respecto de contribuciones indirectas. El sistema se completa con la competencia
+“excepcional” y “transitoria” del Gobierno Federal para establecer contribuciones directas.
+
+
+
+
+                    Incorporación de la Coparticipación a la Constitución
+La reforma de 1994 incorporó la coparticipación federal a la Constitución Nacional, es
+decir, el sistema en virtud del cual el producido de una serie de tributos establecidos por el
+Gobierno Federal se reparte entre el Gobierno Federal, que los creó y los recauda, y los
+otros niveles de gobierno, que auto-limitan el ejercicio de su poder tributario mediante una
+ley - convenio.
+La “masa coparticipable”, conforme lo dispuesto en el art. 75 inc. 2 primer párrafo in fine,
+se compone en principio del producido de la sumatoria de las contribuciones indirectas y
+directas establecidas por el Congreso Nacional, pero no incluye los derechos de
+importación y exportación (art. 75 inc.1). La excepción respecto de las contribuciones que
+tengan una asignación específica total o parcial, en virtud de la potestad atribuida al
+Congreso Nacional en el art. 75 inc. 3 que ha sido objeto de interpretación restrictiva por
+parte de la Corte, será analizada en el apartado correspondiente a ese inciso.
+Desde 1988 rige el régimen de coparticipación instrumentado mediante la ley 23.548. Sin
+perjuicio de haber sido establecido con carácter “transitorio” éste continúa vigente como
+consecuencia de la prórroga automática ante la inexistencia de un régimen sustitutivo. Ello
+en flagrante incumplimiento de la cláusula transitoria sexta de la reforma constitucional de
+1994, que disponía que antes de la finalización del año 1996 debía dictarse una nueva ley
+de coparticipación que se adecuara a las pautas dispuestas en el art. 75 inc.2., que serán
+desarrolladas en el siguiente apartado.
+La primera ley-convenio de coparticipación, se dictó a principios de 1973, la ley 20.221,
+que sustituía tres regímenes anteriormente vigentes y tenía por objeto fundamental “el
+fortalecimiento en el plano financiero del efectivo ejercicio del sistema federal de gobierno,
+teniendo en cuenta preferentemente la situación de las provincias con menores recursos”.
+
+
+14
+   Corti, Arístides, El encuadre constitucional del derecho tributario en la Ciudad Autónoma de Buenos Aires,
+Buenos Aires, Revista ADA Ciudad N°2, 2008
+15
+   Ver “Vila c/Provincia de Córdoba” (Fallos 178:308), “SA Transporte Vidal c/Provincia de Córdoba”
+(Fallos 301:223); y “SA Transportes Vidal c/Provincia de Mendoza” (Fallos LL, 1984-C-225).
+
+
+
+                                                                                                           5
+
+[[PDF p. 6]]
+Ya a fines de 1934 se había sancionado la primera ley de unificación de impuestos internos
+nº 12.139, que bajo la forma de una ley de adhesión daba derecho a las provincias a la
+participación de lo recaudado. Al mismo tiempo, tanto la ley 12.143 de creación del
+impuesto a las ventas, como la ley 12.147 que prorrogaba el impuesto a los réditos,
+contemplaban mecanismos de participación hacia las provincias y el municipio de la
+Capital.16 Asimismo, cabe remontarse al citado precedente “Simón Mataldi”, en el que la
+Corte había hecho alusión a un régimen de coparticipación de lege ferenda. Al tiempo que
+reconocía potestades concurrentes a la Nación y las Provincias para establecer impuestos
+indirectos, advertía que “no puede desconocerse que su régimen efectivo determina una
+doble imposición de gravámenes con la que se afectan en determinadas circunstancias
+importantes intereses económicos”. Es decir, según el criterio seguido por la Corte
+Suprema, la doble o múltiple imposición interna no es inconstitucional per se.
+La ley de coparticipación 23.548 en su art. 9 inc. b) establece que cada provincia se obliga -
+por sí y por sus municipios y organismos de su jurisdicción- a no aplicar gravámenes
+locales análogos a los nacionales coparticipados, salvo las excepciones taxativamente
+admitidas en dicho inciso. La Corte ha interpretado que la analogía es el mecanismo técnico
+jurídico sobre el que pivota el régimen de coparticipación en cuanto tiende a evitar la doble
+o múltiple imposición interna, y no requiere una completa identidad de hechos imponibles o
+bases de imposición, sino una coincidencia “sustancial” 17.
+No ha sido pacífica la jurisprudencia en torno a si una eventual violación a la ley-convenio
+por parte de una provincia habilita la competencia originaria de la Corte.18 En un primer
+momento luego de la reforma constitucional, la Corte entendió aunque la transgresión se
+exteriorice como un conflicto entre dos leyes locales, la que crea el tributo cuestionado y la
+ley de adhesión, ella involucra una cuestión constitucional a los fines de la competencia
+originaria de la Corte19. Pero en 2009 cambió el criterio, subrayando que las leyes-convenio
+hacen parte, aunque con diversa jerarquía, del derecho público provincial y que su
+violación no abre la instancia originaria de la Corte, adhiriendo a la doctrina históricamente
+más restrictiva que sólo habilita dicha instancia si un tributo es atacado exclusivamente
+como contrario a la Constitución Nacional20.
+
+
+                           Ley- Convenio de Coparticipación Federal
+
+
+
+16
+   Ver Giuliani Fonrouge, C. M.., Derecho Financiero, Depalma, p. 389.; Spisso, R.; Derecho Constitucional
+Tributario, Buenos Aires, Abeledo Perrot, 2016, p. 203 y ss.
+17
+   CSJN “Pan American Energy LLC. Sucursal Argentina c. Provincia de Chubut s/ acción declarativa”
+19/6/2012. Allí la Corte cita a Dino Jarach, que con respecto a la analogía expresó: “Sin perjuicio de la
+valoración de las circunstancias particulares de cada caso, se entenderá que los impuestos locales son
+análogos a los nacionales unificados cuando se verifique alguna de las siguientes hipótesis: definiciones
+sustancialmente coincidentes de los hechos imponibles o definiciones más amplias que comprendan los
+hechos imponibles de los impuestos nacionales o más restringidas que estén comprendidas en éstos, aunque se
+adopten diferentes bases de medición; a pesar de una diferente definición de los hechos imponibles, adopción
+de bases de medición sustancialmente iguales.”
+18
+   Ver Naveira de Casanova, G. y Revilla, P.; “Competencia ratione materiae de la Justicia Federal en
+planteos vinculados con la Ley de Coparticipación”, Buenos Aires, Revista Impuestos, 2009-12, 913
+19
+   CSJN “El Cóndor Empresa de Transportes S.A. c. Provincia de Buenos Aires”, 7/12/2001
+20
+   CSJN “Papel Misionero S.A.I.F.C. c. Provincia de Misiones” 5/5/2009
+
+
+
+                                                                                                          6
+
+[[PDF p. 7]]
+Art. 75 inc. 2 segundo y tercer párrafo
+Una ley convenio, sobre la base de acuerdos entre la Nación y las provincias, instituirá
+regímenes de coparticipación de estas contribuciones, garantizando la automaticidad en
+la remisión de los fondos.
+
+
+La distribución entre la Nación, las provincias y la ciudad de Buenos Aires y entre éstas,
+se efectuará en relación directa a las competencias, servicios y funciones de cada una de
+ellas contemplando criterios objetivos de reparto; será equitativa, solidaria y dará
+prioridad al logro de un grado equivalente de desarrollo, calidad de vida e igualdad de
+oportunidades en todo el territorio nacional.
+
+
+La Constitución establece varias pautas distributivas, es decir, apunta a lograr objetivos
+múltiples que es preciso conciliar. Mientras que la distribución equitativa suele asociarse
+con el carácter devolutivo, esto es, con una distribución en base a los aportes a la
+recaudación, la distribución solidaria se vincula a una noción redistributiva, en principio
+opuesta a la anterior. Ello no debe entenderse como necesariamente contradictorio.
+Macón21 señala que aunque la ley sea única, el texto constitucional se refiere a la institución
+de    “regímenes” de coparticipación, sugiriendo que ésta podría dividirse en franjas
+destinadas a cumplir con cada una de las metas que se han fijado.
+
+
+Criterios objetivos de reparto en relación a las competencias, servicios y funciones
+
+
+La Constitución no sólo exige la elaboración de indicadores o parámetros de referencia que
+impidan comportamientos arbitrarios de los partícipes del arreglo federal.
+Corti expresa que estos criterios presuponen una noción de proporcionalidad según la cual
+“los recursos financieros deben distribuirse en relación directa a los gastos públicos
+requeridos para cumplir con las funciones jurídicas de cada unidad política”22.
+Por “competencias, servicios y funciones” debe entenderse aquellas establecidas
+constitucionalmente, de acuerdo con la situación particular y concreta de cada una de las
+Provincias. El reparto debe permitir “objetivamente” que las Provincias den cumplimiento a
+sus mandatos constitucionales, id est, a los derechos fundamentales constitucionalmente
+reconocidos y a las instituciones que se requieren para ello.
+Macón considera que el sentido de esta disposición es que la distribución no consista, como
+en la ley 23.548 vigente, en coeficientes fijos de distribución, sino en un sistema de
+fórmulas, al menos para la distribución secundaria entre las provincias. Los sistemas de
+fórmulas no sólo son los más comunes en el derecho comparado sino que ha tenido una
+temprana recepción en la Ley de coparticipación 20.221 sancionada en 1973, en base a
+
+
+21
+   Macón, Jorge; “La coparticipación en la Constitución” en Reig. E. (comp.), Coparticipación y Federalismo,
+Serie Seminarios, Instituto de Economía Aplicada, Academia Nacional de Ciencias Económicas, Buenos
+Aires, 1996
+22
+   Corti, H., Derecho Financiero, Abeledo Perrot, 1997, p. 140.
+
+
+
+                                                                                                          7
+
+[[PDF p. 8]]
+criterios tales como la población, brecha del desarrollo, etc. Por otra parte, entiende que es
+necesario que se identifiquen cuantitativamente las competencias, servicios y funciones,
+mediante cantidades abstractas que representen estándares de gasto.
+En esta tesitura, Corti expresa que: “el régimen de coparticipación actual, en vez de guiarse
+por criterios, se plasma, como ya se vio, en porcentajes fijos y predeterminados. Dicho
+método, sin perjuicio de su simplicidad, tiene una doble desventaja, ya que carece de
+fundamentos y de flexibilidad. Por un lado, no se saben las razones que justifican
+jurídicamente cada índice, más allá de las opiniones que expresan quienes participaron en
+su redacción. Por otro, los índices no permiten variaciones como consecuencia .de ocurrir
+modificaciones en la situación real de las unidades políticas”23.
+Es dable considerar indicadores como la densidad poblacional, la tasa de analfabetismo, la
+tasa de escolarización, la calidad educativa, la tasa de mortalidad infantil, las características
+habitacionales –teniendo en cuenta el hacinamiento, las condiciones sanitarias, el tipo de
+vivienda-, el nivel de actividad económica, la desigualdad en la distribución del ingreso, la
+tasa de desempleo, la tasa de incidencia de la pobreza, etc24.
+Equidad
+En materia de federalismo fiscal, se suele vincular a este principio con la justificación del
+llamado “carácter devolutivo”, esto es, “el reparto de la recaudación en función de la
+magnitud de los recursos que los contribuyentes de cada jurisdicción hubieran contribuido a
+generar”25.
+Otra interpretación, que difiere en los fundamentos pero que parece igualmente consistente
+con nuestros compromisos constitucionales, es la que aporta Corti. El mencionado autor
+sostiene que “la equidad refleja en el ámbito de la actividad financiera pública la presencia
+de un sistema constitucional de derechos humanos. La actividad financiera es respetuosa de
+ese sistema cuando, en términos positivos, actúa para hacer efectivos los derechos humanos
+y, en términos negativos, cuando no actúa de forma dañina ante ellos”26. De este modo,
+¿cuándo es posible sostener que un régimen de coparticipación federal es genuinamente
+equitativo? Para Corti, ello sólo es posible cuando el mismo “es respetuoso del sistema de
+derechos humanos, en su doble sentido de ser una vía para hacerlos efectivos y de no ser un
+medio para lesionarlos”27. En definitiva, si la distribución debe tener por objeto que las
+comunidades       locales    puedan     dar    cumplimiento       suficiente    con     sus   mandatos
+constitucionales, entonces, “la equidad es el principio estructural de suficiencia vista desde
+la óptica del sistema de los derechos humanos”28.
+
+
+Solidaridad
+
+23
+   Corti, H., Op. Cit., p. 145.
+24
+   Ver Porto, A. (Dir.); Disparidades regionales y federalismo fiscal, La Plata, UNLP, 2004
+25
+   Piffano, H., Notas sobre federalismo fiscal, PREBI-UNLP, 2005, p. 233. El autor expresa que, así
+entendido este principio, es posible adscribirle ciertos problemas prácticos dada la distinta localización
+geográfica de los hechos y bases imponibles y de domicilio legal de los contribuyentes, al tiempo de no
+contemplar los problemas de la traslación e incidencia tributaria.
+26
+   Corti, H., Op. Cit., p. 149.
+27
+   Op. Cit., p. 149.
+28
+   Op. Cit., p. 150.
+
+
+
+                                                                                                        8
+
+[[PDF p. 9]]
+En relación a la solidaridad, se ha interpretado que ésta “limitaría” a la equidad29 en el
+sentido de que al momento de decidir la distribución de lo recaudado, aun considerando la
+“cuestión devolutiva” que impone la equidad y teniendo en miras los objetivos políticos del
+arreglo federal, deben implementarse mecanismos de redistribución de la renta hacia las
+regiones menos favorecidas.
+Señala Corti que este principio expresa que “si una provincia no logra, de forma autónoma,
+obtener su suficiencia financiera, las restantes unidades políticas (el gobierno federal y las
+otras provincias hermanas) tienen la obligación constitucional de apoyarla financieramente
+para que pueda cumplir con sus cometidos constitucionales”30. Tanto el Gobierno Federal
+como las provincias que se encuentren en una mejor situación socioeconómica deben
+comprometerse con las provincias más desaventajadas con relación al logro “suficiente” de
+los compromisos constitucionales a su cargo31.
+Uno de los rasgos más notorios de nuestra comunidad política es la enorme desigualdad
+socio-económica que existe entre las diferentes provincias que conforman el Estado
+Nacional. En términos fiscales, esta desigualdad puede observarse en la capacidad de
+recaudación32. En este sentido, parece indispensable que cualquier análisis acerca de la
+razonabilidad de la distribución secundaria entre las provincias incorpore el diferente peso
+relativo que las transferencias del gobierno nacional tienen en las distintas cuentas
+provinciales. Así, “mientras las provincias con menor nivel de desarrollo presentan escasas
+posibilidades de imponer y recaudar impuestos autónomamente, las jurisdicciones más
+relevantes en términos económicos cuentan, por lo general, con una mayor capacidad de
+generación de recursos a través de los impuestos que se recaudan provincialmente: a los
+ingresos brutos, inmobiliarios, a los automotores, sellos, etc.”.33 Tales transferencias hacia
+los gobiernos locales tienen en miras corregir las consecuencias que generan las
+disparidades entre regiones en cuanto a capacidad fiscal, niveles de ingreso y costos de
+provisión de los servicios públicos.
+El mero hecho de que un régimen de transferencias mejore la distribución regional del
+ingreso, no implica, necesariamente, que también lo haga respecto a la distribución
+personal. Ello depende de que en las regiones pobres efectivamente la distribución del
+ingreso esté más concentrada y, fundamentalmente, de cómo se gasten los recursos
+recibidos34. Existe una tendencia que defiende a la persona o familia como eje de la política
+
+
+29
+   Macon, J., “La coparticipación en la Constitución” en Reig. E. (comp.), Coparticipación y Federalismo,
+Serie Seminarios, Instituto de Economía Aplicada, Academia Nacional de Ciencias Económicas, Buenos
+Aires.
+30
+   Corti, H., Op. Cit., p. 143.
+31
+   Op. Cit., p. 144.
+32
+   Según se ha dicho, las provincias de la Patagonia alcanzaron los mayores récords mientras que las
+provincias del Norte mostraron la menor capacidad fiscal del país. Ver Díaz Frers, L., “Los caminos paralelos
+al laberinto de la coparticipación”, CIPPEC, p. 2. Allí se ha señalado que “se corrobora una diferencia de
+casi 20 veces entre el máximo obtenido por Santa Cruz ($7.135 por habitante) y el mínimo recaudado en
+Jujuy ($376 per cápita)”.
+33
+   CIFRA-CTA, “El sistema de coparticipación federal de impuestos en la actualidad”, Documento de trabajo
+Nº 5, 2010, p. 10.
+34
+   Ahumada, H, Canavese, A., Gasparini, L., Porto, A. y Sanguinetti, P. (1994) Impacto distributivo del
+presupuesto público: una propuesta metodológica”, CEPAL, Chile. Ver también Piffano, H., “La
+Coparticipación Federal de Impuestos y los criterios de reparto”
+
+
+
+                                                                                                           9
+
+[[PDF p. 10]]
+distributiva. Por otro lado, varios autores de diversas vertientes ideológicas defienden la
+distribución regional antes que la personal, y las ventajas de diseñar programas con cierta
+“focalización regional” para lograr una efectiva reducción en los niveles de pobreza.35
+Es posible incluir incentivos que propugnen una mayor transparencia en las finanzas
+locales, y un sistema de transferencias condicionadas al logro de ciertos estándares
+relacionados con la disminución de las brechas sociales, a fin de evitar que el uso exclusivo
+de criterios regionales cause que los habitantes pobres de regiones ricas subsidien a sectores
+medios y altos de regiones pobres36.
+
+
+Prioridad al logro de un grado equivalente de desarrollo, calidad de vida e igualdad
+de oportunidades
+Corti expresa que “La Constitución impone que el régimen de coparticipación debe ser un
+medio para asegurar que los derechos humanos deben ser gozados de manera igual en todo
+el territorio nacional. (…) En términos negativos: el hecho de habitar en diferentes lugares
+del territorio no debe conducir a un desigual ejercicio de los derechos”37.
+Macón señala que ésta es la norma más comprometida de todas, puesto que exige
+efectividad en el sector público.38 Menciona que la calidad de vida depende entre otras
+cuestiones, de la construcción de viviendas y del gasto en salud. En punto a la igualdad de
+oportunidades, el gasto en educación y en salud resultan insoslayables. A manera de
+ejemplo, menciona que podría preverse el financiamiento de educación en proporción al
+número de chicos en edad escolar. Ahora bien, el autor advierte que la redistribución no
+opera porque las provincias son pobres sino para que remedien su pobreza. No es una mera
+habilitación financiera. La norma reúne el objetivo redistributivo y el de efectividad.
+Requiere que los fondos sean efectivamente aplicados al logro de los fines estipulados.
+La igualdad de oportunidades se vincula a una tesis arraigada en la tradición igualitaria de
+John Rawls en el sentido de que los azares de la naturaleza –en el caso nacer en una
+provincia rica o en una pobre- no deberían ser razones suficientes para justificar la
+desigualdad entre los habitantes de una comunidad política39. Al contrario, es justamente
+una razón para que el Estado interfiera buscando el equilibrio entre éstos.
+Este mandato relativo a la igualdad de oportunidades debería ser entendido conjuntamente
+con lo prescripto por el artículo 75 inciso 19 al reconocer la necesidad imperativa de
+equilibrar el desigual desarrollo relativo de las provincias y regiones.
+Ligada a la noción de desarrollo, Macón hace alusión a la infraestructura de servicios y la
+obra pública. Ahora bien, hoy día no es posible obviar las disputas que existen en torno al
+concepto de desarrollo como categoría-horizonte.40 En la constelación semántica de la
+
+
+35
+   Ravalion, M. y Datt, G., “Regional disparities, targeting and poverty in India” en Lipton, M. (eds),
+Including the poor, Hopkings University Press).
+36
+   Ver FIEL “Hacia una nueva organización del federalismo fiscal en la Argentina”, ps. 22/23.
+37
+   Corti, Op. Cit., p. 150.
+38
+   Macón, Op. Cit. p. 37
+39
+   Rawls, John; Teoría de la justicia, México, Fondo de Cultura Económica, 1995.
+40
+   Ver Svampa, Maristella y Viale, Enrique; Maldesarrollo, Buenos Aires, Katz Editores, 2014; Svampa, M.
+(ed.); El Desarrollo en Disputa: Actores, conflictos y modelos de desarrollo en la Argentina Contemporánea,
+
+
+
+                                                                                                        10
+
+[[PDF p. 11]]
+mentalidad moderna el desarrollo ocupa un lugar central.41 Sin embargo, hace décadas que
+la identificación entre desarrollo económico y crecimiento económico viene siendo
+cuestionada42.     Frente a los modelos neoextractivistas -que abarcan prácticas como la
+megaminería a cielo abierto, la explotación de hidrocarburos no convencionales con la
+metodología de la fractura hidráulica, la expansión de la frontera de los agronegocios a
+través del desmonte y el uso de agrotóxicos como el glifosato- se han suscitado debates
+sociales y políticos que involucran no sólo a técnicos y especialistas, sino a la población en
+general, y sobre todo a las comunidades afectadas, que alertan y denuncian sus graves e
+irreversibles impactos socio-ambientales. Estas iniciativas generan pasivos ambientales que
+no se contabilizan y en muchos casos entran en tensión con las economías regionales.
+.
+
+
+Art. 75 inc. 2, cuarto párrafo
+La ley convenio tendrá como Cámara de origen el Senado y deberá ser sancionada con la
+mayoría absoluta de la totalidad de los miembros de cada Cámara, no podrá ser
+modificada unilateralmente ni reglamentada y será aprobada por las provincias.
+
+
+En el marco del federalismo de concertación consagrado en la Constitución, es decir, un
+sistema que requiere esencialmente la existencia de un acuerdo federal entre la Nación y las
+provincias, no es admisible que éste resulte disponible para una de sus partes. Los pactos
+federales y leyes-convenio sólo podrían ser modificados por acuerdos posteriores de la
+misma naturaleza. Así ha sido afirmado por nuestro Máximo Tribunal.
+En ejercicio de su competencia originaria, la Corte Suprema de Justicia de la Nación, ha
+dictado a fines de 2015 una serie de fallos43 de suma trascendencia institucional en materia
+de coparticipación federal de impuestos. El Alto Tribunal hizo lugar a las demandas de las
+provincias de Santa Fe y San Luis contra el Estado Nacional, y otorgó una medida cautelar
+en favor de la provincia de Córdoba, declarando inconstitucionales las deducciones de la
+masa coparticipable realizadas por el Estado Nacional de manera unilateral.
+
+
+Art. 75 inc. 2, quinto párrafo
+No habrá transferencia de competencias, servicios o funciones sin la respectiva
+reasignación de recursos, aprobada por ley del Congreso cuando correspondiere y por la
+provincia interesada o la ciudad de Buenos Aires en su caso.
+
+
+Buenos Aires, Universidad General Sarmiento, 2015; Svampa, M.; Debates latinoamericanos: Indianismo,
+desarrollo, dependencia y populismo, Buenos Aires, Edhasa, 2016
+41
+   Esteva, Gustavo; “Desarrollo” en Sachs, Wolfgang (editor); Diccionario del Desarrollo, Perú, Pratec, 1996
+(primera edición en inglés en 1992)
+42
+   Arndt, H.W.; Economic Development: A Semantic History, Economic Development and Cultural Change,
+Vol. 29, N°3 (April 1981), p. 457-566
+43
+   Fallos de la Corte de fecha 24/11/15: CSJ 538/2009 [45-S] / CS1 “Santa Fe, Provincia de c/ Estado
+Nacional s/ acción declarativa de inconstitucionalidad” y CSJ 539/2009 [45-S] /CS1. Asimismo, CSJ
+191/2009 “San Luis, Provincia de c/ Estado Nacional s/ acción declarativa de inconstitucionalidad y cobro de
+pesos” y CSJ 1039/2008 (44-S) /CS1. Por último, CSJ 786/2013 (49-C) /CS1 “Córdoba, Provincia de c/
+Estado Nacional y otro s/ medida cautelar”.
+
+
+
+                                                                                                         11
+
+[[PDF p. 12]]
+La letra de la Constitución ha reconocido el llamado principio de funcionalidad,
+reafirmando la consecuencia normativa que se deriva de lo dispuesto en el párrafo tercero,
+en tanto establece una relación directa entre los criterios objetivos de reparto y las
+competencias, funciones y servicios. De esta forma se buscó evitar trastocar el equilibrio
+que el sistema de la coparticipación federal pretende materializar.44
+
+
+                                  Comisión Federal de Impuestos
+
+
+Art. 75 inc. 2 párrafo sexto.
+Un organismo fiscal federal tendrá a su cargo el control y fiscalización de la ejecución
+de lo establecido en este inciso, según lo determina la ley, la que deberá asegurar la
+representación de todas las provincias y la ciudad de Buenos Aires en su composición.
+
+
+La Comisión Federal de Impuestos fue creada en 1973 por la ley 20.221 y ratificada por la
+ley 23.548, art. 10 y ss. Entre las funciones establecidas en su art. 11 se incluye la de
+decidir de oficio o a pedido de parte si los gravámenes se oponen o no a las disposiciones
+de la ley de coparticipación. Sus decisiones son obligatorias para la Nación y las provincias
+adheridas, y se establece un procedimiento que prevé un plazo de cumplimiento para las
+jurisdicciones afectadas, vencido el cual, la Comisión dispone que el Banco de la Nación
+Argentina se abstenga de transferir a la provincia los importes que le correspondan sobre lo
+producido del impuesto a distribuir análogo al tributo impugnado, hasta tanto se dé
+cumplimiento a la decisión del organismo.
+Entre sus funciones se encuentra también la de verificar la liquidación de las
+participaciones que corresponden a cada fisco. Es evidente que con una nueva ley de
+coparticipación que se adecue a las pautas constitucionales, la tarea del organismo de
+contralor se complejiza, puesto que lejos de un mero cotejo sobre porcentuales fijos, los
+nuevos criterios van a requerir la evaluación de material estadístico.
+
+
+A más de veinte años de la fecha límite fijada en la disposición transitoria sexta de la
+Constitución Nacional para establecer un régimen de coparticipación conforme lo dispuesto
+en el inciso 2 del artículo 75, resulta imperioso superar el inmovilismo que asesta al
+corazón del sistema federal.
+
+
+
+
+Art. 75 inc. 3
+
+
+
+
+44
+   Concordantemente, la cláusula transitoria sexta establece que “la distribución de competencias, servicios y
+funciones vigentes a la sanción de esta reforma, no podrá modificarse sin la aprobación de la provincia
+interesada; tampoco podrá modificarse en desmedro de las provincias la distribución de recursos vigente a la
+sanción de esta reforma y en ambos casos hasta el dictado del mencionado régimen de coparticipación.”
+
+
+
+                                                                                                           12
+
+[[PDF p. 13]]
+[Corresponde al Congreso:] Establecer y modificar asignaciones específicas de recursos
+coparticipables, por tiempo determinado, por ley especial aprobada por la mayoría
+absoluta de la totalidad de los miembros de cada Cámara.
+
+
+
+
+                                       Asignaciones específicas
+La Corte afirmó que, “a la hora de examinar la validez constitucional de una asignación
+específica dispuesta por el Congreso, así como de los límites constitucionales fijados al
+ejercicio de esta potestad, se impone una interpretación restrictiva pues, en definitiva, lo
+que se encuentra en juego es una facultad de trascendente incidencia sobre el régimen de
+distribución de recursos y el sistema federal en su conjunto.”45 Asimismo, señaló que el art.
+75. inc. 3 debe entenderse a la luz de lo establecido con claridad en el art. 75 inc. 2 primer
+párrafo in fine: “Las contribuciones previstas en este inciso, con excepción de la parte o el
+total de las que tengan asignación específica, son coparticipables”. Es decir, se concede al
+Congreso de la Nación una atribución especial para establecer asignaciones específicas sólo
+respecto de contribuciones determinadas- y no de la masa coparticipable- cuya validez
+depende de que se reúnan una serie de requisitos: deben ser establecidas por tiempo
+determinado, a través de una ley aprobada por mayoría absoluta de la totalidad de
+miembros de cada cámara.
+Desde 2006, con la sanción y promulgación del artículo 76 de la ley 26.078, la Nación
+prorrogó, sin el consentimiento provincial, lo dispuesto en convenios federales que habían
+autorizado una detracción del 15% de la masa coparticipable destinada a la Administración
+Nacional de Seguridad Social (ANSeS), y pretendió mutar su naturaleza jurídica por la de
+una asignación específica. El 24/11/15 la Corte declaró su inconstitucionalidad y ordenó no
+sólo el cese, sino también, en los casos de las Provincias de Santa Fe y San Luis46, la
+devolución de las sumas correspondientes a las cantidades detraídas más los intereses.
+En la misma fecha, el Máximo Tribunal declaró la inconstitucionalidad de los artículos 1°,
+inciso a, y 4° del decreto 1399/01 del Poder Ejecutivo Nacional, que establecía
+asignaciones específicas destinadas a financiar a la Administración Federal de Ingresos
+Públicos, afectando la integralidad de los recursos coparticipables47. Entre los argumentos
+esgrimidos, la Corte destacó que la potestad excepcional del Congreso Nacional de
+establecer y modificar asignaciones específicas resulta una materia indelegable.
+Por último, la Corte exhortó a los poderes federales a convocar cuanto antes a un diálogo
+institucional que permita elaborar y coordinar propuestas normativas tendientes a concertar
+un nuevo Pacto Federal Fiscal que siente las bases de la futura ley-convenio.
+
+
+
+
+45
+   CSJ 538/2009 [45-S] / CS1 “Santa Fe, Provincia de c/ Estado Nacional s/ acción declarativa de
+inconstitucionalidad”, considerando 22, último párrafo (el resaltado es nuestro).
+46
+   “Santa Fe c. EN” CJN 538/2009 (45-S) / CS1 y “San Luis c. EN” CSJ 191/2009 (45-S) CS-1
+47
+   En fallos CSJ 539/2009 [45-S] /CS1 y CSJ 1039/2008 (44-S) /CS1.
+
+
+
+                                                                                                   13
+
+[[PDF p. 14]]
+                                Nuevo Acuerdo y Consenso Fiscal
+En mayo de 2016, el Estado Nacional, 19 provincias y la CABA firmaron el Acuerdo para
+un Nuevo Federalismo por el cual se estableció un esquema de eliminación gradual de la
+detracción del 15% de la masa de impuestos coparticipables destinada a la ANSeS, que fue
+ratificado por el Congreso por medio de la Ley 27.260.
+El 16 de noviembre de 2017 el Estado Nacional, la CABA, y todas las provincias excepto
+San Luis, suscribieron el Consenso Fiscal. Éste ha sido aprobado por el Congreso Nacional
+a través de la Ley 27.429 y ratificado por las legislaturas locales respectivas, salvo la
+Provincia de La Pampa.
+Entre los compromisos allí asumidos, cabe mencionar la adhesión al nuevo Régimen
+Federal de Responsabilidad Fiscal modificado por la Ley 27.428. El Estado Nacional se
+comprometió a no realizar detracciones de la masa de impuestos coparticipables con
+destino a la ANSeS sobre los recursos de las provincias que obtuvieron sentencias
+judiciales favorables ante la CSJN y a acordar el monto y forma de pago de los juicios con
+sentencia firme. Se prorrogó la vigencia del Impuesto sobre los Créditos y Débitos
+Bancarios, estableciendo una asignación específica del 100% de su recaudación a la
+ANSes. El Estado Nacional impulsaría la modificación de la reforma de movilidad del
+Régimen Previsional, que se llevó a cabo a través de la Ley 24.426, a pesar de la fuerte
+resistencia social que suscitó. Por otra parte, se derogó el art. 104 de la Ley de Impuesto a
+las Ganancias 20.628 (to.1997), que establecía asignaciones específicas, entre las cuales
+cabe mencionar el Fondo del Conurbano Bonaerense, cuyo tope había sido impugnado de
+inconstitucional por parte de la Provincia de Buenos Aires y estaba pendiente de resolución,
+habiendo dispuesto la Corte la citación al resto de las Provincias48. Se estableció un monto
+de compensación para la Provincia de Buenos Aires con destino a obras públicas y
+programas sociales, en la medida en que ésta adhiera, cumpla con el Consenso y desista de
+su pretensión resarcitoria respecto de la parte que corresponda a las jurisdicciones parte del
+Consenso. Asimismo, el Estado Nacional se comprometió a compensar a las provincias por
+la disminución efectiva de recursos provenientes de la eliminación del art. 104 de la LIG y
+la asignación específica del Impuesto al Cheque, compensación cuyos fondos serán
+destinados a obras de infraestructura. Se prorrogaron las restantes asignaciones específicas.
+Por su parte, las Provincias y CABA se comprometieron, inter alia, a eliminar los
+tratamientos diferenciales tanto en el Impuesto sobre Ingresos Brutos, basados en el lugar
+de radicación, ubicación del establecimiento o lugar de producción del bien, como en el
+Impuesto de Sellos, basados en el domicilio de las partes, el lugar de cumplimiento de las
+obligaciones o el funcionario interviniente.49 Se establecieron alícuotas máximas en el
+Impuesto sobre Ingresos Brutos por actividad y período. El Estado Nacional se
+comprometió a disponer de un organismo federal con participación de las provincias y de la
+
+48
+   CSJN, “Provincia de Buenos Aires c. Estado Nacional y otras s/ acción declarativa de inconstitucionalidad
+y cobro de pesos” (6/6/2017)
+49
+    En línea con los pronunciamientos de la Corte Suprema in re “Bayer SA. c. Provincia de Santa Fe”,
+“Harriet y Donnelly S.A.” (31/10/2017) y “Colegio de Escribanos de la Ciudad de Buenos Aires c. Provincia
+de Buenos Aires” (14/02/2012).
+
+
+
+                                                                                                         14
+
+[[PDF p. 15]]
+CABA, para lograr que las valuaciones fiscales de los inmuebles reflejen la realidad del
+mercado inmobiliario, y se fijó un rango de alícuotas para el impuesto inmobiliario.
+Respecto a los Municipios, las Provincias se comprometen a establecer un régimen legal de
+coparticipación de recursos provinciales con los municipios y se insiste en la exigencia de
+que las tasas municipales se correspondan con la concreta, efectiva e individualizada
+prestación de un servicio, tal como ha sido reiterado en diversas oportunidades por la Corte
+Suprema de Justicia de la Nación50-, y que su importe guarde razonable proporción con el
+costo del mismo.51
+Se advierte que la falta de consenso ha impedido aun la sanción de una nueva ley de
+coparticipación federal, pero se afirma que es voluntad de las partes emprender el diálogo
+institucional que desemboque en ella, en el marco de la Comisión Federal de Impuestos,
+a fin de cumplir con el mandato constitucional.
+
+
+
+
+50
+   CSJN “Compañía Química S.A. c Municipalidad de Tucumán” (03/09/1989); “Laboratorios Raffo S.A. c.
+Municipalidad de Córdoba” (23/06/2009); “Quilpe S.A. Municipalidad de La Rioja” (9/10/2012).
+51
+   Cabe mencionar al respecto: “Ana Vignolo de Casullo v. Municipalidad de la Capital” (Fallos 192:139);
+“Banco de la Nación Argentina v. Municipalidad de San Rafael” (Fallos 234:663); “Empresa de Transporte
+de Pasajeros Navarro Hnos. S.R.L. c. Municipalidad de Puerto Tirol” (Fallos 319:2211)
+
+
+
+                                                                                                       15

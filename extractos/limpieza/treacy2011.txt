@@ -1,0 +1,71 @@
+# treacy2011 (U16). Mobiliario de página de Lecciones y Ensayos 89.
+^\s*(?:\d{3}\s+)?Lecciones y Ensayos, nro\. 89, 2011\s*$
+^\s*Treacy, Guillermo F\., Categorías sospechosas y control de constitucionalidad, ps\. 181-216\s*$
+# treacy2011: notas al pie. Empiezan con «N. » a 15 espacios y llegan hasta el
+# pie de imprenta («Lecciones y ensayos 89.indd»), que se quita después (el
+# patrón del pie admite el carácter que deja la sustitución anterior).
+^ {15}\d{1,2}\. [\s\S]*?(?=^Lecciones y ensayos 89\.indd)
+^\W?Lecciones y ensayos 89\.indd.*$
+# treacy2011: continuaciones de notas al pie que no empiezan con número
+^ {15}cuando se trata de evaluar la validez constitucional de un decreto[\s\S]*?\(considerando 3 del voto mencionado\)\.\s*$
+^ {15}psicóloga\), derecho que les era reconocido por el artículo 20 CN[\s\S]*?normas impugnadas\.\s*$
+^ {15}307:1963\)\.\s*$
+^ {15}de la libertad\.\s*$
+# treacy2011: llamadas de nota tras puntuación, comilla tipográfica, raya o
+# cifra (generadas recorriendo la numeración de las notas en orden)
+(?<=vez,\ adaptado–)1(?=\s|$|[(,.;:)–])
+(?<=e\ la\ sociedad\.)2(?=\s|$|[(,.;:)–])
+(?<=ircunstancias\.)3(?=\s|$|[(,.;:)–])
+(?<=rcunstancias”\?)4(?=\s|$|[(,.;:)–])
+(?<=\ entre\ otros\)\.)5(?=\s|$|[(,.;:)–])
+(?<=su\ ejercicio”\.)6(?=\s|$|[(,.;:)–])
+(?<=\ \ \ impugnante\.)7(?=\s|$|[(,.;:)–])
+(?<=ez\ de\ aquélla\.)8(?=\s|$|[(,.;:)–])
+(?<=de\ un\ derecho\.)9(?=\s|$|[(,.;:)–])
+(?<=\ legislativas\.)10(?=\s|$|[(,.;:)–])
+(?<=\ alternativas\.)11(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ \ derecho\)\.)12(?=\s|$|[(,.;:)–])
+(?<=n\ de\ derechos\.)13(?=\s|$|[(,.;:)–])
+(?<=igen\ nacional\.)14(?=\s|$|[(,.;:)–])
+(?<=llos\ 311:2272\.)15(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ \ del\ voto\.)16(?=\s|$|[(,.;:)–])
+(?<=nio\ estricto”\.)17(?=\s|$|[(,.;:)–])
+(?<=\ norma\ general)18(?=\s|$|[(,.;:)–])
+(?<=alvo\ y\ Pesini”)19(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ En\ “Hooft”)20(?=\s|$|[(,.;:)–])
+(?<=e\ “Gottschau”,)21(?=\s|$|[(,.;:)–])
+(?<=yes\ Aguilera”,)22(?=\s|$|[(,.;:)–])
+(?<=ntecón\ Valdez”)23(?=\s|$|[(,.;:)–])
+(?<=\ \ en\ concreto\.)24(?=\s|$|[(,.;:)–])
+(?<=itucionalidad\.)25(?=\s|$|[(,.;:)–])
+(?<=ones\ análogas\.)26(?=\s|$|[(,.;:)–])
+(?<=echos\ civiles\.)27(?=\s|$|[(,.;:)–])
+(?<=e\ vulnerables\.)28(?=\s|$|[(,.;:)–])
+(?<=\ de\ la\ Nación\.)29(?=\s|$|[(,.;:)–])
+(?<=so\ “Carballo”,)30(?=\s|$|[(,.;:)–])
+(?<=res\ y\ varones\.)31(?=\s|$|[(,.;:)–])
+(?<=rio\ argentino\.)32(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ \ en\ juego\.)33(?=\s|$|[(,.;:)–])
+(?<=iscriminación\.)34(?=\s|$|[(,.;:)–])
+(?<=l\ o\ religioso\.)35(?=\s|$|[(,.;:)–])
+(?<=iscriminación\.)36(?=\s|$|[(,.;:)–])
+(?<=o\ “Domínguez”,)37(?=\s|$|[(,.;:)–])
+(?<=caso\ “Franco”\.)38(?=\s|$|[(,.;:)–])
+(?<=os\ sanitarios\.)39(?=\s|$|[(,.;:)–])
+(?<=\ es\ “Almirón”,)41(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ “Arenzon”\.)42(?=\s|$|[(,.;:)–])
+(?<=caso\ “Alvarez”)43(?=\s|$|[(,.;:)–])
+(?<=ición\ social”\.)44(?=\s|$|[(,.;:)–])
+(?<=Corte\ Suprema,)45(?=\s|$|[(,.;:)–])
+(?<=as\ impugnadas\.)46(?=\s|$|[(,.;:)–])
+(?<=cioeconómicas\.)47(?=\s|$|[(,.;:)–])
+(?<=\ \ \ \ \ derechos\.)48(?=\s|$|[(,.;:)–])
+(?<=e\ demostrarlo,)50(?=\s|$|[(,.;:)–])
+(?<=\ su\ finalidad\.)51(?=\s|$|[(,.;:)–])
+(?<=s\ argumentos”\.)52(?=\s|$|[(,.;:)–])
+(?<=ades\ de\ iure\)\.)53(?=\s|$|[(,.;:)–])
+(?<=\ –“Pellejero”–)54(?=\s|$|[(,.;:)–])
+(?<=\ ese\ extremo”\.)55(?=\s|$|[(,.;:)–])
+(?<=/\ Freddo\ S\.A\.”)56(?=\s|$|[(,.;:)–])
+(?<=\ de\ personal\)\.)57(?=\s|$|[(,.;:)–])
+(?<=chos\ humanos”\.)58(?=\s|$|[(,.;:)–])

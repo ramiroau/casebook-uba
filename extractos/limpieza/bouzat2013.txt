@@ -1,0 +1,12 @@
+# Bouzat, «El principio de razonabilidad…» (U06). Llamadas de nota pegadas a comillas de cierre.
+(?<=En el fallo “Hileret”)8(?= del año 1903)
+(?<=En el caso “Canale”)9(?= del año 1913)
+(?<=En el fallo “Ercolano”)10(?= del año 1922)
+(?<=En el caso “Avico de la Pesa”)11(?= del año 1934)
+(?<=“Home Building vs\. Blaisdell”)12(?= en el que)
+(?<=en el caso “Peralta”)13(?= la supervivencia)
+(?<=En el caso “Cine Callao”)14(?= del año 1960)
+(?<=En el caso “Massa”)15(?= en el que)
+(?<=el caso “Repetto”)16(?= en el que)
+(?<=En el caso “Hooft”)17(?= se cuestionó)
+(?<=^Argentinas”)18(?= defendió)

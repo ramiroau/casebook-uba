@@ -1,0 +1,951 @@
+# fuente: Unidad5/3_Gargarella-La dificultosa tarea...(versión más clara).pdf
+# modo: ocr
+# revisado: si
+# paginas_revisadas: pp. 123-148 (todo el capítulo VII). Los marcadores [[PDF p. N]] de esta copia llevan la PÁGINA IMPRESA (N = página impresa del libro), no la del PDF.
+# origen: el PDF del compendio es un escaneo a doble página torcido y el OCR entrelaza columnas en varias páginas. Se combinaron tres OCR (compendio partido en el lomo; re-OCR tesseract spa 300 dpi, --psm 3 y --psm 6, de la otra copia de la carpeta, «Gargarella_2009_La dificultosa tarea de la interpretación constitucional2.pdf», una página por hoja) y se corrigió cada página contra la imagen. La mitad inferior de p. 138 se transcribió de la imagen.
+# criterio: sin notas al pie, llamadas de nota ni encabezados; punto y aparte = renglón en blanco o sangría; rayas de inciso como –, igual que el impreso; cursivas no conservadas; se conservan las erratas del impreso («Frankfruter», «lo el derecho», «especiamente», «alegar?.»).
+
+[[PDF p. 123]]
+I. INTRODUCCIÓN
+
+En este trabajo, quisiera explorar uno de los temas más decisivos y
+más difíciles dentro de la teoría constitucional –un tema que es, a la vez,
+uno de los menos estudiados en nuestro país–. Me refiero a la cuestión
+de la interpretación constitucional. Anticipándome al final de este texto,
+diría que luego de más de doscientos años de discusión al respecto, to-
+davía estamos lejos de contar con algún tipo de acuerdo en la materia.
+En el mejor de los casos –y tal vez ello no sea poco– hoy tenemos a nues-
+tro alcance mejores criterios para distinguir entre buenas y malas, bien
+y poco fundadas concepciones interpretativas. Lo que voy a hacer a con-
+tinuación es dar cuenta de algunas posiciones singularmente influyentes
+sobre la cuestión, tratando de cubrir un espectro amplio de posturas y
+autores. Me ocuparé en primer lugar de dos de las visiones que –sin
+proclamarlo– nuestros jueces parecen sostener de modo más habitual
+(y muy a menudo, lo que resulta todavía más preocupante, de modo in-
+distinto): visiones orientadas a “actualizar” el significado de la Cons-
+titución, y visiones “originalistas”, destinadas a fijar el significado de di-
+cho texto en el tiempo (pasado). Luego, exploraré algunas posturas más
+complejas, que razonablemente se reclaman superadoras de las ante-
+riores, como la que ha venido desarrollando Ronald Dworkin. Final-
+mente, me ocuparé de algunas posturas críticas o escépticas en la mate-
+ria, como las presentadas más recientemente por autores como Jeremy
+Waldron.
+
+[[PDF p. 124]]
+II. LA CONSTITUCIÓN COMO “TEXTO VIVO”:
+LA INTERPRETACIÓN “DINÁMICA” DE LA CONSTITUCIÓN
+
+En primer lugar, un individuo interesado en la interpretación consti-
+tucional podría sostener que, en el caso de dudas acerca del significado
+específico de alguna cláusula constitucional, nos corresponde a nosotros
+mismos, como “comunidad” (y no, por ejemplo, a la “voz de la historia”
+o a la de nuestros antepasados), resolver ese tipo de dificultades. La de-
+cisión de ponernos a pensar “aquí y ahora” sobre qué es lo que significa
+la Constitución podría sostenerse al menos a partir de dos argumentos.
+Por un lado, ella se basaría en el reconocimiento de que vivimos en una
+sociedad democrática, y en la convicción de que en una sociedad de ese
+tipo no puede haber otra fuente de autoridad más alta que la de la propia
+comunidad. ¿Quién, si no la propia comunidad, puede darle sentido al com-
+promiso colectivo con ciertos ideales de justicia o igualdad? ¿Un filóso-
+fo? ¿Algún sacerdote? ¿Algún iluminado? Por otro lado, dicha alternati-
+va promete convertir a la Constitución en un texto más cercano a nosotros
+y a nuestras necesidades y problemas de todos los días. A esto, según en-
+tiendo, es a lo que se alude cuando se habla de las ventajas de tomar a la
+Constitución como un “texto vivo”.
+
+La idea de tener una Constitución “viva” resulta, a primera vista al
+menos, muy atractiva, porque ella viene a descalificar una alternativa que
+parece claramente desagradable, cual es la de estar “sujetos por la mano
+muerta del pasado”. Quienes postulan la “actualización” permanente de
+la Constitución nos prometen, entonces, una vida jurídica “moderna”,
+acorde a los tiempos. Ellos no quieren que la sociedad se vea impedida
+de “avanzar” de acuerdo con las ideas más evolucionadas de nuestros tiem-
+pos, ni veneran como “intocable” la obra realizada por sus antecesores.
+Quieren que la Constitución sea un instrumento para la libertad y no un
+freno a ella.
+
+[[PDF p. 125]]
+A quienes se inscriben en esta postura alguien podría replicarles, de
+todos modos, que lo que deben hacer es bregar políticamente por la adop-
+ción de tales cambios. Estos mismos críticos podrían agregar que la Cons-
+titución no impide en absoluto dicha evolución política de la sociedad: la
+Constitución, nos dirán, admite la posibilidad de su reforma. En definiti-
+va, podrán concluir, si lo que se quiere es actualizar la Constitución –man-
+tenerla viva–, lo que se debe hacer es cambiarla abiertamente, y no de
+modo subrepticio, a través de más o menos incontrolados vaivenes inter-
+pretativos. Ahora bien, contra este tipo de críticos, quienes defienden la
+idea de la Constitución como “texto vivo” podrán sostener, con cierta
+razón, que aquellos argumentos son algo tramposos dado que, lo sabemos,
+los procedimientos de reforma son por lo general muy costosos (en todo
+sentido). Y además, lo que es muy importante, tampoco parece sensato
+hacer una reforma de la Constitución cada vez que tengamos algún pen-
+samiento nuevo acerca de lo que significan valores constitucionales como
+el de “justicia” o “igualdad”.
+     Aceptemos entonces, provisionalmente, la importancia de mantener
+a la Constitución como un “texto vivo”. La cuestión que se nos aparece
+de inmediato es quién es el sujeto o el órgano encargado de esta tarea. La
+respuesta “la comunidad” es generosa pero obviamente problemática.
+¿Querría ello decir que tendríamos que hacer algo así como un llamado a
+un plebiscito cada vez que quedemos en duda acerca del significado de
+algún término constitucional? ¿No era que queríamos contar con un pro-
+cedimiento dinámico, no demasiado costoso, capaz de mantener actuali-
+zado nuestro texto básico? De modo muy rápido, y posiblemente asusta-
+dos frente a este tipo de alternativas plebiscitarias, muchos han pensado
+que la tarea de “actualización” constitucional debe delegarse exclusiva-
+mente en los jueces.
+     La alternativa judicial no parece, en principio, inaceptable. En defi-
+nitiva, los jueces están en contacto diario con las normas jurídicas –están
+versados en ellas, las conocen como pocos otros miembros de la comuni-
+dad–, a la vez que están en contacto permanente con la sociedad, y más
+aún, con los afectados por el derecho. Ellos saben, entonces, de los al-
+cances y problemas de los textos constitucionales. Están situados como
+
+[[PDF p. 126]]
+nadie para saber qué es lo que se demanda del derecho y qué es lo el de-
+recho da y no es capaz de dar.
+
+En apoyo de algunas de las observaciones hasta aquí avanzadas, el
+famoso juez norteamericano Félix Frankfruter señalaba: “Es una concep-
+ción inadmisiblemente estrecha del derecho constitucional [...] la de con-
+finar su contenido a las palabras de la Constitución, dejando de tomar en
+cuenta las glosas que la vida ha escrito acerca de ellas”. Ya antes que él,
+el juez Holmes había afirmado, en el caso “Missouri v. Holland”, que los
+creadores de la Constitución habían dado vida a un documento “cuyo
+desarrollo no pudieron prever por completo [...], de ahí que el caso [en
+cuestión] debe ser considerado a la luz de nuestras experiencias más aca-
+badas, y no meramente a partir de lo que fue dicho cien años atrás”. Lo
+que debe tomarse en cuenta –sostenía– “son tanto las palabras [de la Cons-
+titución] como su línea de crecimiento”.
+
+La propuesta de mantener la Constitución como un “texto vivo”, y
+en particular a través de la intervención de los órganos judiciales, resulta
+de todos modos muy problemática. Primero, porque ella contradice uno de
+los objetivos centrales del constitucionalismo, como lo es el de aislar cier-
+tas decisiones de la puja política diaria, esto es, afirmar ciertos valores
+“permanentes” contra los impulsos a los que podamos estar sujetos cir-
+cunstancialmente. Por otro lado (y dejando por ahora entre paréntesis la
+objeción anterior), dicha postura resulta curiosa en tanto apela a la vo-
+luntad mayoritaria (que, supuestamente, debe ser la que controla el senti-
+do de la Constitución) a la vez que deja el reconocimiento de la misma
+en el órgano institucional menos preparado para reconocerla. Es decir, si
+lo que nos interesara realmente fuera mantener “viva” la Constitución
+conforme a los “avances” que vamos afirmando como sociedad, luego,
+no se ve por qué es que debemos dejar que los jueces sean los que deter-
+minen cuáles son estos “avances”, y cuál es su alcance. Ello, en particu-
+lar, cuando hemos creado una estructura judicial con miembros abierta-
+mente “alejados” de las peticiones y conflictos cotidianos que afectan a
+una mayoría dentro de la sociedad. Por ello, podríamos afirmar junto a
+John Ely que “la noción de que los valores genuinos de la ciudadanía
+pueden ser discernidos de modo más confiable a través de una élite no
+
+[[PDF p. 127]]
+democrática” resulta chocante. Si lo que queremos es proteger las “nue-
+vas” convicciones de la ciudadanía, entonces “la Legislatura aparece mu-
+cho mejor situada que la justicia”, a dichos efectos. Finalmente, para
+muchos, lo que resulta más grave de toda esta estrategia “actualizadora”
+es el grado de discrecionalidad que deja en manos del intérprete –cualquie-
+ra que sea éste– encargado de revelar el pensamiento comunitario. En la
+sección que sigue, vamos a tratar acerca de este tipo de preocupaciones.
+
+III. EL ORIGINALISMO Y SUS PROBLEMAS
+
+La enorme dificultad que existe para interpretar el derecho en gene-
+ral, y la Constitución en particular, torna especialmente importante cual-
+quier iniciativa destinada a poner límites sobre dicha tarea. De lo contra-
+rio, podría decirse, el intérprete del derecho se convierte en el verdadero
+“legislador oculto” del sistema jurídico de que se trate. Él pasa a ser quien,
+desde detrás de la escena, y alegando que sólo realiza una tarea técnica
+(“yo sólo procuro que se haga efectivo lo que dice el texto de la Constitu-
+ción” –podría decirnos el intérprete–), maneja los hilos de nuestra vida
+jurídica, quien nos dice qué es lo que realmente estamos autorizados a
+hacer o no. Los ciudadanos se convierten, de este modo, en súbditos de
+los intérpretes de la Constitución –en nuestro derecho, en súbditos de los
+jueces (no es extraño, entonces, que pensando en este tipo de riesgos au-
+tores como Thomas Jefferson hayan dicho que los jueces eran “los topos
+del derecho”, sujetos capaces de “torcer y deformar a la Constitución”
+como si fuera “un mero objeto de cera”)–.
+
+Una forma de “anclar” la interpretación constitucional, impidiendo
+al intérprete que ponga, en lugar del texto de la Constitución, sus propias
+opiniones, parece ser la de “fijar” el contenido de la misma al sentido
+original que le dieron sus creadores. En su presentación más habitual, esta
+postura “originalista” se muestra como opuesta a la de interpretar la Cons-
+titución como un “texto vivo”. Los “originalistas” objetan esta visión, en
+particular, y proponen dejar al texto constitucional “anclado” en su senti-
+
+[[PDF p. 128]]
+do primero. En su favor, por supuesto, tienen algunas buenas razones a
+las que conviene prestar atención.
+
+Comencemos, por ejemplo, prestando atención a lo señalado por
+dos jueces originalistas (y conservadores) de renombre, como Robert Bork
+–quien expuso su postura en The Tempting of America– o el juez de la
+Corte Suprema norteamericana, Antonin Scalia –que explicitó la suya en
+A Matter of Interpretation–. Los jueces, según Bork, “se encuentran
+limitados por la única cosa que puede ser llamada derecho, los principios
+del texto, ya sea la Constitución o la ley, tal como se lo entendía gene-
+ralmente, al momento de ser aprobados”. Los jueces, agrega, no tienen
+que “salir allí afuera” (del texto) para encontrar qué es lo que el texto
+dice. No deben ponerse a buscar principios morales valiosos o filosófica-
+mente defendibles, sino que deben, únicamente, conformarse al texto de
+la Constitución.
+
+Una primera razón en favor de esta postura (una razón que, sin du-
+das, no es la más fuerte de todas las que pueden utilizarse) es que en los
+propios orígenes de la democracia constitucional, los fundadores del cons-
+titucionalismo pensaban que, en el futuro, la Constitución debía interpre-
+tarse conforme a las directivas que le hubieran impuesto sus creadores.
+James Madison o Alexander Hamilton pensaban que si no se tomaba se-
+riamente en cuenta lo establecido por la Constitución y las Convenciones
+que la habían ratificado, los gobiernos no llegarían a ser estables y con-
+sistentes. James Wilson sostenía, explícitamente, que “la primera y más
+importante máxima en la interpretación de un texto legal consiste en des-
+cubrir el significado que le dieron aquellos que la redactaron”.
+
+Por otra parte, alguien podría decir que un método como el origina-
+lismo nos brinda seguridad, garantizándole a cada ciudadano certeza en
+relación con el derecho al que está sometido. De acuerdo con esta postu-
+ra, cualquier concepción que quiera entender al texto constitucional como
+un “texto vivo” deja a los ciudadanos en el más completo desamparo: ¿có-
+mo saber a qué atenerse si cada intérprete puede arrogarse la autoridad
+de decirnos qué es lo que en verdad dice la Constitución, en este particular
+momento histórico? ¿Qué es lo que uno debe hacer, entonces, si quiere ser
+un ciudadano respetuoso de la ley? El originalismo viene a “bloquear”
+
+[[PDF p. 129]]
+aquellos intentos aventureros de los intérpretes constitucionales. El senti-
+do de la Constitución, nos dicen, no se renueva a cada momento, sino que
+ya está históricamente fijado. Para interpretar la Constitución no debe mi-
+rarse hacia adelante, hacia el futuro, sino hacia el pasado, hacia lo que ya
+se ha escrito. Un mal argumento, contra esta postura, diría que el origi-
+nalismo provoca el “estancamiento” de la sociedad, o que no la deja avan-
+zar. Sin embargo, los originalistas tienen una respuesta fácil frente a esta
+crítica, y es que ellos no se oponen en absoluto a la “evolución jurídica”.
+La comunidad puede hacer todas las innovaciones legales o constituciona-
+les que quiera. Lo que ocurre es que tales innovaciones no deben ser agre-
+gadas, subrepticiamente, por los jueces. Es el pueblo el que, a través de una
+reforma legal, debe decidir cuándo es que quiere cambiar el derecho. Y el
+pueblo está autorizado a tomar esta iniciativa tantas veces como quiera.
+
+Conviene detenerse un poco más en la sustancia del argumento an-
+terior, referido a la seguridad jurídica que garantiza el originalismo. Lo
+que en él se implica, en definitiva, es que el originalismo es un método
+interpretativo necesario si lo que se quiere es evitar la “tiranía del intér-
+prete” (de modo habitual, la “tiranía de los jueces”). Cualquier método
+alternativo de interpretación –se sostiene aquí pensando, fundamentalmen-
+te, en la opción que ve a la Constitución como un “texto vivo”– deja al
+conjunto de la ciudadanía a la merced de la voluntad discrecional de al-
+gunos. Una forma más interesante y todavía más promisoria de plantear
+este argumento consiste en decir que el originalismo es la única alternati-
+va interpretativa respetuosa de la voluntad democrática de la ciudadanía.
+El argumento es sencillo y poderoso a la vez. La idea es que la ciudada-
+nía ha dado forma y firma a una Constitución, y que se ha comprometido
+entonces a respetar dicho texto mientras esté vigente. La propia ciudada-
+nía, como dijéramos, conserva en sus manos las llaves del cambio: ella
+puede modificar la Constitución cuantas veces quiera. Mientras no lo ha-
+gan, los intérpretes de la misma –digamos, los jueces– tienen que some-
+terse a dicho texto, y atarse al significado que le atribuyeron sus creado-
+res. Y cuando estos últimos se decidan a modificar la Constitución, sus
+intérpretes –digamos, los jueces– deberán, obedientemente, tomar nota de
+estas nuevas pautas y asegurar el respeto de las mismas. Como subordi-
+nados de la voluntad pública que son, no tienen otra opción más que ésa.
+Como diría el famoso juez Robert Bork, “¿por qué es que la Corte, un
+[mero] comité de nueve abogados, debería convertirse en el único agente
+capaz de anular las decisiones democráticas?”.
+
+[[PDF p. 130]]
+La apelación al “argumento democrático” es capaz de darle fuerza
+real al originalismo. Es importante enfatizar esto porque el primer argu-
+mento citado (el basado en los testimonios de los fundadores del consti-
+tucionalismo) no resulta demasiado feliz, en su circularidad (el mismo nos
+diría: “el método que debe aplicarse a la hora de interpretar la Constitu-
+ción es el originalista, porque eso es lo que dicen los fundadores del
+originalismo”). El “argumento democrático”, en cambio, parece más atrac-
+tivo. Resulta curioso, de todos modos, que este argumento aparezca habi-
+tualmente invocado por las voces más conservadoras del arco jurídico. Y
+es que, en efecto, dentro del campo del originalismo –sin que esto repre-
+sente ningún mérito o demérito particular para la doctrina en cuestión–
+resulta muy habitual encontrarse con jueces y juristas de orientación con-
+servadora. El hecho es que el reclamo de muchos juristas en favor de
+posiciones originalistas suele venir acompañado de una manifiesta incon-
+formidad con las interpretaciones “progresistas” que algunos jueces, co-
+yunturalmente, han realizado de la Constitución. Es importante tomar nota
+de estas coincidencias, e indagar en los porqués de las mismas, no obs-
+tante que los argumentos en favor del originalismo puedan evaluarse con
+independencia de este trasfondo político.
+
+Ahora bien, llegados a este punto, estamos en mejores condiciones
+para hacer una evaluación de esta postura interpretativa. Una primera re-
+flexión crítica frente a las posturas originalistas vendría a decirnos que
+resulta simplemente imposible quedarnos exclusivamente con el texto de
+la Constitución, sin apelar a ningún tipo de consideraciones morales “aje-
+nas” al mismo. En este sentido, y criticando la postura de Robert Bork,
+Cass Sunstein sostiene que “no existe forma en que quienes interpretan
+la Constitución eviten la toma de decisiones morales... La visión que sos-
+tiene que el entendimiento originalista debe ser el dominante necesita de
+una teoría política o moral –en términos, digamos, de una teoría de la de-
+mocracia–. La aceptación de una postura como aquélla reside en un fun-
+damento moral controvertido. El propio enfoque de Bork se basa en deci-
+siones políticas y morales. Y estas decisiones resultan necesariamente
+externas a la Constitución. Necesitan ser defendidas. [El argumento en
+favor del originalismo, entonces], necesita basarse en algo que vaya más
+allá de la historia”.
+
+Como diría Sunstein, no basta con “tomar lecciones de lenguaje o
+consultar un diccionario” para tomar las decisiones más importantes en
+
+[[PDF p. 131]]
+materia de interpretación constitucional. Para ello (y aun para tomar de-
+cisiones tales como si debe o no apelarse al originalismo) se requiere el
+uso de criterios morales sustantivos. Adviértase que, simplemente para
+tomarnos en serio el originalismo, estamos obligados a adoptar cruciales
+y muy difíciles decisiones, optando entre múltiples alternativas posibles.
+Esto es, la decisión originalista de “quedarnos con el texto” y “no salir a
+buscar principios allí afuera” no nos basta en absoluto para encontrar las
+respuestas interpretativas que buscamos. Necesitamos decidir, por ejem-
+plo, qué opiniones vamos a tomar en cuenta para entender cuál es el “sen-
+tido normal o habitual” del texto. Piénsese lo que implican este tipo de
+dificultades, en un caso concreto. Por ejemplo, nadie duda de que James
+Madison o Alexander Hamilton resultaron personajes decisivos, a la hora
+de redactar la Constitución Federal. Sin embargo, ellos diferían radical-
+mente en muchas cuestiones, tales como la relativa a los poderes del presi-
+dente. ¿Qué deberíamos hacer, entonces, si nos encontramos con difi-
+cultades para reconocer cuál es el significado de lo establecido en la
+Constitución, en materias como la citada (si el texto no nos deja claro,
+por ejemplo, cuál es el alcance de los “poderes de guerra” del presiden-
+te)? ¿Qué implica la decisión de tomarnos en serio el significado original
+de la Constitución? ¿Quiere ello decir que, en caso de dudas generadas
+por el texto, o silencios del mismo, debemos atarnos a la “voluntad” de
+Madison, que tenía una mirada restrictiva respecto de los poderes del
+presidente? ¿Debemos inclinarnos, en cambio, por los criterios defendi-
+dos por Hamilton, que eran opuestos a los del anterior? ¿Debemos “pro-
+mediar” ambas voluntades? ¿Debemos pensar en el contrafáctico de qué
+hubiera dicho la Convención de entonces, interrogada sobre el problema
+que hoy nos agobia? ¿Debemos abrirnos, más bien, a considerar las vo-
+luntades de todos los presentes en la Convención Federal? ¿Debemos
+prestar atención a los criterios prevalecientes en la comunidad, a la hora
+en que se aprobaba el texto en cuestión? ¿O debemos excluir la conside-
+ración de toda voz que no estuviera presente en la Convención Constitu-
+yente, como muchos podrían razonablemente alegar?.
+
+Lo que vemos, en definitiva, es que el originalismo no nos asegura
+una de las promesas más importantes que orgullosamente nos ofrecía, y
+que era la de la “certeza interpretativa”. Como dijera Mark Tushnet, el
+originalismo recurre, por un lado, al método hermenéutico para examinar
+la historia evitando arbitrariedades pero, por otro lado, deja de lado tal
+
+[[PDF p. 132]]
+método a fin de seleccionar las opiniones constitucionales que va a tomar
+en cuenta. En dicha tarea, no sólo se ve obligado a reconstruir el pasado,
+sino a hacerlo creativamente. En última instancia, el originalismo exige a
+los jueces la permanente elección entre múltiples posibilidades (¿qué opi-
+niones tomar en cuenta?, ¿qué materiales considerar relevantes?), subvir-
+tiendo la pretensión de indiscutible certeza con la que se enfrentaba a las
+doctrinas a las que se opone. Finalmente, entonces, la discrecionalidad
+del intérprete, que a toda costa quería evitarse, termina infiltrándose por
+la puerta trasera.
+
+
+IV. DWORKIN, UNA LECTURA MORAL DE LA CONSTITUCIÓN
+
+     Autores como Ronald Dworkin, que durante años han estado tra-
+bajando en temas de interpretación constitucional, han mostrado un par-
+ticular interés por confrontar con el originalismo, al que consideran una
+concepción autocontradictoria, difícil de sostener (seguramente, no resulta
+un dato menor para entender este embate, el conservadurismo de aqué-
+llos, y el tipo de igualitarismo que defiende Dworkin). Los originalistas,
+según vimos, prometen certezas interpretativas –el fin de la discreciona-
+lidad del intérprete– que no son capaces de asegurar en la práctica, por
+vicios propios de la solución que aconsejan. El error principal de estos
+originalistas, según Dworkin, es el de proponer una interpretación con
+“fecha fija” (la del momento en que se escribieron los textos en cuestión).
+ Contra dicha postura, Dworkin propone una interpretación del texto cons-
+ titucional basada en principios. Conforme con esta visión, lo que hicie-
+ ron los creadores de la Constitución fue incorporar en dicho texto princi-
+ pios abstractos, más que reglas concretas (a leer conforme al entendimiento
+ existente sobre las mismas al momento de establecerlas). Estos principios,
+ sostiene Dworkin, deben ser objeto de una revisión continuada, “no con
+ el objeto de encontrar sustitutos para determinar qué es lo que dice la
+ Constitución, sino con el objeto de respetar lo que ella dice”. ¿Signifi-
+ ca esto aceptar que la Constitución cambia de significado permanentemen-
+ te? No, dice Dworkin. Lo que se trata es de determinar qué es lo que ella
+
+[[PDF p. 133]]
+ordena, lo cual no requiere ni especular sobre las intenciones o expecta-
+tivas de sus autores, ni sobre lo que se pensaba al momento en que se
+dictó la Constitución.
+
+¿Quiere Dworkin, entonces, comprometer nuevamente a los jueces
+con una tarea que, de hecho, los convierte en legisladores (ello, al dejar
+en exclusivas manos de los jueces la tarea de definir el significado “real”
+de la Constitución)? Tampoco, agrega Dworkin. Si los jueces se toman
+en serio su tarea, ellos tienen que reconocer que no tienen muchas opcio-
+nes frente a sí (de hecho, llegaría a decir Dworkin, hablando de un hipo-
+tético juez ideal –“Hércules”–, tienen una sola elección). Ellos no son
+“libres” de interpretar la Constitución como quieren. Su tarea es, en ver-
+dad, muy limitada, si es que se la toman en serio.
+
+La labor del intérprete, según Dworkin, consiste en encontrar respues-
+tas para las preguntas que formula la Constitución, determinar cuál es la
+mejor concepción de los distintos conceptos fundamentales que la Cons-
+titución fija en su texto (libertad de expresión, justicia, igualdad). Para
+ello, los jueces no tienen las manos libres. La concepción que elaboren
+debe, por un lado, ser fiel al texto escrito de la Constitución, tanto como
+a las tradiciones y a la práctica constitucional de la comunidad. En este
+sentido –y éste sería el primer paso de la tarea del intérprete–, deben
+mostrar de qué modo la concepción que proponen encaja con la experien-
+cia constitucional de la comunidad. De todos modos, aquí no terminaría
+la labor del intérprete. Si así ocurriera, la postura de Dworkin no parece-
+ría demasiado diferente de alguna de las versiones examinadas de origi-
+nalismo. Contra dicho criterio, Dworkin cree además que es necesario que
+dicha concepción se encuentre justificada, lo que implica leer aquellos ma-
+teriales constitucionales a su mejor luz. Adviértase que esta segunda
+tarea, sin la primera, aparentemente dejaría al juez libre de “actualizar”
+la Constitución conforme a lo que él o ella considerara más adecuado.
+
+Por lo tanto, y en este sentido, la propuesta que hace Dworkin implica un
+doble rechazo que incluye tanto un rechazo al originalismo como otro a
+la posición contraria, orientada a mantener “viva” a la Constitución. Contra
+ambas posturas, sostiene el profesor norteamericano, lo que el juez debe
+hacer es construir la mejor concepción moral que encaje con la historia
+constitucional de la comunidad.
+
+La empresa que propone Dworkin parece más bien extraña. A la vez,
+y a pesar de lo que él pretende, y de las limitaciones que reclama para su
+
+[[PDF p. 134]]
+propuesta, la misma parece dejar en los jueces márgenes de acción dema-
+siado amplios. Dworkin, sin embargo, descree de estas críticas. Para él,
+la visión interpretativa sugerida no hace más que recoger y darle forma a
+nuestro sentido común: es lo que cualquiera de nosotros propondría, pues-
+tos a pensar al respecto. Un ejemplo, sugerido por el propio autor, para
+mostrar la razonabilidad de su teoría, sería el siguiente.
+
+Imagínense, nos diría Dworkin, que somos invitados a participar en
+la escritura de una novela en cadena. Esto es, escribiremos una novela
+junto con un grupo de otros autores. Uno se encargará de las primeras
+páginas, irá fijando el tono, otro continuará cuando aquél haya terminado
+su parte, y así sucesivamente. Según Dworkin, la tarea del juez a la hora
+de decidir un caso es muy similar a la tarea a la que se enfrenta el escri-
+tor cuando le toca continuar con la redacción de la novela en cadena. ¿Qué
+es lo que el escritor de turno, cualquiera de nosotros, haría, una vez que
+le pasan un texto que ya ha circulado antes por las manos de varios otros
+autores? La respuesta que demos a esta pregunta, según Dworkin, será la
+misma que tendremos que darle al juez comprometido con su comunidad
+y angustiado por saber de qué modo cumplimentar su función responsa-
+blemente. Veamos.
+
+En primer lugar, el escritor –o el juez– reconoce algo muy impor-
+tante, y es que no está solo en su tarea, sino que forma parte de una em-
+presa colectiva. Hay gente que ya ha estado tomando decisiones cruciales
+antes que él o ella; hay muchos que continuarán con esta obra parcial,
+una vez que nosotros hayamos terminado con nuestra parte. Si el autor
+en cuestión no advirtiera esta primera limitación, simplemente no estaría
+reconociendo cuál es el sentido de su tarea. Creería que con él o ella “nace”
+y “muere” el derecho o la obra de que se trate. Pero ésta sería una actitud
+por completo irresponsable, además de irrespetuosa frente a todos los
+demás comprometidos con el mismo emprendimiento colectivo.
+
+¿Qué es lo que un sujeto responsable y respetuoso de su comunidad
+haría, enfrentado a una tarea semejante? En primer lugar, y antes de ver
+de qué modo va a continuar con la obra ya hecha, uno debería esforzarse
+por “mirar atrás” y reconocer qué es lo que la comunidad en cuestión ha
+venido diciendo hasta el momento. Por ejemplo, uno se preguntaría, na-
+turalmente, ¿de qué obra se trata? ¿Qué es lo que este grupo ha venido
+diciendo hasta ahora? En el caso de una obra literaria, es obvio que nos
+interesaría saber a qué género pertenece la obra en cuestión, que nosotros
+vamos a continuar. ¿Se trata de una novela policial? ¿Es ésta en cambio
+una narración histórica? ¿Se trata de una obra dramática? Si no nos hi-
+ciéramos este tipo de preguntas, o no supiéramos cómo contestarlas, de-
+
+[[PDF p. 135]]
+beríamos optar por abandonar la empresa. La continuidad que vayamos a
+darle a esta obra colectiva requiere que veamos de qué modo la continui-
+dad en la que estamos pensando se vincula e integra con lo que ha sido
+hecho hasta el momento. Esto, y no otra cosa, es lo que dice Dworkin
+cuando habla del encaje.
+
+Ahora bien, una vez que reconocemos el sentido de la obra colectiva,
+y vemos de qué se trata, no ha terminado nuestra tarea. Por un lado, exis-
+ten múltiples continuaciones posibles, frente a este tronco común que ahora
+hemos identificado. Y no todas estas continuaciones son igualmente valio-
+sas. Preocupados por nuestras decisiones, y por el modo en que ellas van
+a impactar sobre nuestros contemporáneos y sucesores (los que sigan escri-
+biendo esta obra luego de que nosotros hayamos hecho lo nuestro), debe-
+mos esforzarnos por determinar cuál es la mejor continuación posible de
+esta historia. Esto, y no otra cosa, es aquello de lo que Dworkin habla
+cuando se refiere a la lectura de la obra anterior en su mejor luz. Reconocer
+la importancia de esta segunda dimensión es central, ya que ella puede
+requerir, aún, que dejemos de lado o reconduzcamos parte de la obra ante-
+rior. Esto es, participar de una obra colectiva no quiere decir que estemos
+sometidos a aceptar a ojos cerrados todo lo dispuesto por los escritores o
+jueces que nos precedieron. Para continuar con el ejemplo de la novela
+en cadena, puede ocurrir que alguno de los autores que nos precedieron
+no haya escogido la mejor continuación posible de la obra que el grupo
+desarrolló a lo largo del tiempo. Puede ocurrir que de los distintos cami-
+nos a su alcance esta persona haya tomado el peor de todos ellos. Estar
+comprometidos con esta obra colectiva, entonces, no requiere que acepte-
+mos irresponsablemente cualquiera de las páginas ya escritas, o todas ellas.
+Por el contrario, un compromiso responsable con aquel emprendimiento
+puede perfectamente requerir que dejemos de lado ciertas páginas, que
+simplemente se desviaron de la mejor reconstrucción posible de la obra
+en cuestión. Para seguir con el ejemplo literario, si el autor que nos pre-
+cedió caracterizó a un determinado personaje de nuestra obra de modo
+contradictorio con los rasgos que, durante años, distintos autores estuvieron
+dándole, entonces respetar la obra colectiva nos pide que honremos aquel
+trabajo de años. Adviértase que lo dicho, entonces, ni permite que nos
+sintamos “libres” a la hora de decidir (bajo el riesgo de ser irrespetuosos
+con lo actuado por nuestra comunidad), ni nos pide que nos sometamos a
+cualquier decisión anterior o que bloqueemos la “evolución” de la obra
+en común (descuidando la dimensión de “principios” de nuestra decisión).
+
+Como pocos otros autores, Dworkin muestra los déficits de los acer-
+camientos habituales al tema de la interpretación constitucional. Su pro-
+
+[[PDF p. 136]]
+pia posición, sin embargo, ha estado sujeta a numerosas críticas basadas,
+fundamentalmente, en el extraordinario rol que su teoría reserva para los
+principales intérpretes del derecho –los jueces, en una mayoría de demo-
+cracias constitucionales– y en la confianza que muestra la misma en la
+reflexión monológica de tales intérpretes, esto es, en el modo en que des-
+merece la importancia del diálogo público, a la hora de tratar básicas cues-
+tiones constitucionales. Y es que, por más que el buen juez –como el buen
+autor, en el caso de la novela en cadena– haga un esfuerzo por entender
+lo que su comunidad y quienes lo precedieron valoran, lo cierto es que
+quien escribe la continuación de la historia es una sola persona, en la
+soledad de su despacho. El problema que aparece entonces no se resuel-
+ve, obviamente, con la existencia de cuerpos colegiados de jueces (como
+en la Corte Suprema) o con jueces “dialogantes”, bien dispuestos a en-
+tender los problemas de su comunidad (volveremos sobre este punto más
+adelante). Lo que aquí está en juego es el hecho de que la última inter-
+pretación constitucional esté en manos de individuos que tienen (en todo
+caso) una obligación moral pero no institucional de discutir democrática-
+mente sus sentencias. El problema, en última instancia, se refiere a la
+tensión existente entre el contar con un órgano interpretativo institucio-
+nalmente aislado del debate democrático, y la pretensión de generar deci-
+siones democráticamente creadas y públicamente respaldadas.
+
+Recogiendo el peso de dificultades como las señaladas, Frank Michel-
+man, por ejemplo, sostuvo que “Hércules, el mítico juez de Dworkin, es
+un solitario. Es demasiado heroico. Sus narraciones constructivas son
+monólogos. Él no conversa con nadie, salvo con sus libros. No tiene nin-
+gún enfrentamiento. No se encuentra con nadie. Nada lo conmueve.
+Ningún interlocutor viola la inevitable insularidad de su experiencia y
+su visión. Hércules es un hombre, después de todo. No es la totalidad
+de la comunidad. Ningún hombre o mujer puede serlo”. Hércules no pa-
+rece tomar en cuenta ideas tales como la del pluralismo social o la im-
+portancia del diálogo público. Carlos Nino defiende un punto similar
+al de Michelman, al objetar los presupuestos monológicos de la postura
+de Dworkin. En tal sentido, Nino critica la idea de que los jueces “por
+más ilustrados que sean, [puedan] llegar a conclusiones valorativas co-
+rrectas en la soledad de sus despachos y bibliotecas, sin participar en
+el proceso de discusión pública con todos los interesados en una u otra
+
+[[PDF p. 137]]
+decisión, y sin que su decisión sea revisada en ese proceso de revisión
+pública”.
+
+En más de una oportunidad, Dworkin ha tratado de eludir este tipo de
+críticas, distinguiendo correctamente entre la teoría interpretativa y la re-
+flexión acerca de cuál es el órgano más preparado para llevar a cabo di-
+cha tarea interpretativa. Después de mucha reflexión al respecto, Dworkin
+parece sostener, actualmente, que su postura no exige que la interpretación
+constitucional esté a cargo de los jueces, sino más bien que el control
+judicial de constitucionalidad no es incompatible con la misma, ni con-
+traria a una teoría de la democracia sensata (luego volveremos sobre este
+punto). Muestra entonces la aceptabilidad del control judicial, y –como
+cuestión separada– el valor de una teoría interpretativa como la arriba
+descripta. “La pregunta que me interesa –sostiene Dworkin– es previa a
+otras referidas al diseño institucional: ¿Cuál es la respuesta correcta a
+la pregunta acerca de qué es lo que significa la Constitución, más allá de
+a qué órgano o a qué sujeto se le otorga la responsabilidad interpretativa
+final?”.
+
+Ahora bien, es cierto que en lo que Dworkin trata hay dos cuestio-
+nes centrales y distinguibles entre sí (una vinculada con la teoría de la
+interpretación, y otra vinculada con la teoría del control judicial). Sin
+embargo, la vinculación entre ambos temas es tan obvia como la posibi-
+lidad de separarlas analíticamente. Claramente, algunas respuestas posi-
+bles sobre la primera pregunta (por ejemplo, que la interpretación ade-
+cuada es la que surge de un proceso dialógico entre todos los afectados)
+demandan cierto tipo de respuestas sobre la segunda cuestión, a la vez
+que descartan de plano otro tipo de respuestas (por ejemplo, una que diga
+que el control final de constitucionalidad debe estar en manos de los jue-
+ces). En este sentido, podríamos concluir que es esperable que nuestras
+preocupaciones en materia de interpretación constitucional nos exijan pres-
+tar atención inmediata a cuestiones vinculadas al control judicial.
+
+[[PDF p. 138]]
+V. JOHN ELY, EL CONTROL JUDICIAL
+   Y LOS PROCEDIMIENTOS DEMOCRÁTICOS
+
+     A continuación, vamos a examinar una postura muy diferente de la
+defendida por Dworkin, como lo es la presentada por John Ely en su fa-
+moso libro Democracy and Distrust, de 1980. En parte, podría decirse que
+lo que se defiende en este libro es directamente opuesto a lo que sostiene
+Dworkin. Si Dworkin sugiere un papel robusto y activo para los jueces,
+quienes quedan encargados de llevar a cabo una lectura “sustantiva” de
+la Constitución, Ely defiende lo contrario, es decir, una tarea judicial fuer-
+temente restringida –restringida, aquí, a una custodia de los “procedimien-
+tos” constitucionales–. Para él, en efecto, la misión de los jueces se redu-
+ce a la custodia de la Constitución entendida ésta como un documento
+“vaciado de contenido”, un documento fundamentalmente encargado de
+fijar los procedimientos de la discusión democrática.
+     La visión de Ely nació a partir de la que es, probablemente, la nota
+al pie de página más famosa dentro de la jurisprudencia moderna. Se tra-
+ta de la nota que apareciera en 1938 en el fallo “United States v. Carolene
+Products”, redactado por quien era el presidente de la Corte estadouni-
+dense en ese momento, Earl Warren. La nota se hizo famosa porque allí
+la Corte, como pocas veces, definió el alcance y los límites de su propia
+función. Sintéticamente, Warren sostuvo entonces que la Corte debía guar-
+dar una fuerte presunción en favor de las decisiones adoptadas por los
+ legisladores democráticos. Dicha presunción, sin embargo, debía invertirse
+ cuando fuera necesario resguardar el propio procedimiento democrático,
+ o para proteger a minorías incapaces de protegerse a sí mismas a través
+ del proceso político.
+     Contemporáneamente, el jurista John Ely encontró en aquella nota
+al pie la inspiración para elaborar directamente una teoría sobre cómo de-
+bía ejercerse el control judicial de constitucionalidad. Como muchos de
+sus antecesores, Ely también se mostraba preocupado por preservar un am-
+plio espacio para las decisiones legislativas, libre de indebidas interferen-
+cias judiciales. Ely advertía que con el correr del tiempo el Poder Judi-
+cial había ido adentrándose, poco a poco, en terrenos que debían estarle
+vedados. Con el alegado objeto de resguardar debidamente la Constitu-
+ción, la justicia había pasado a constituirse en el último árbitro en todo
+tipo de cuestiones socialmente relevantes. Definía si las regulaciones pú-
+
+[[PDF p. 139]]
+blicas en materia de salarios eran válidas o no; decidía el sostenimiento o
+     la anulación de las regulaciones estatales sobre extensión de la jornada
+     laboral; y así sucesivamente. Y todo ello, aduciendo que sólo interpreta-
+     ba el verdadero sentido de la Constitución.
+           No resulta extraño que entonces, y ante todo, Ely se dedicara a ata-
+     car las concepciones interpretativas predominantes en el ámbito jurídico.
+     Ellas proponían a los jueces ya sea “rastrear” el significado real de la Cons-
+     titución en las raíces históricas de la misma (así, en las distintas versio-
+     nes del originalismo) o “salir” del texto para encontrar fuera del mismo
+     el contenido de los “valores” constitucionalmente suscriptos (así, en las
+     corrientes que Ely engloba bajo el nombre de “no-originalistas”). Ely con-
+     fronta ambas alternativas, y propone en su lugar una suerte de “retira-
+     da” de la justicia constitucional, a la que concentra –como se sugería en
+     “Carolene Products”– en cuestiones de tipo procedimental. En su opinión,
+     custodiar la Constitución es custodiar las reglas de juego que la misma
+     fija. En definitiva, sostiene Ely, la Constitución no establece valores que
+     toque a los jueces desentrañar, sino que fija procedimientos a partir de
+     los cuales las nuevas generaciones van a ocuparse de esos valores. A los
+     representantes del pueblo les corresponde lidiar con las cuestiones sus-
+     tantivas (o valorativas), mientras que los jueces deben ocuparse sólo de
+     las procedimentales. Resguardando, judicialmente, estos procedimientos,
+     se hace posible que, políticamente, se resuelvan aquellos temas valorativos.
+     Se da aquí, entonces, una clara división de tareas entre el poder político
+     y el Poder Judicial.
+
+          Debe advertirse que esta división de tareas propuesta por Ely no
+     implica que él suscriba una postura “pasivista” por parte del Poder Judi-
+     cial. Más bien, Ely deja bien en claro que su propuesta no es “pasivista”
+     ni “activista”. Él considera que, efectivamente, los jueces deben dejar de
+     intervenir en cantidad de cuestiones en las que hoy se encuentran invo-
+     lucrados (y en este sentido, deben ser “pasivistas”). Pero al mismo tiem-
+     po, y esto es tan importante como lo anterior, sostiene que los jueces de-
+     ben participar de modo muy intenso en otro tipo de cuestiones, vinculadas
+     con el sostenimiento de las bases del procedimiento democrático (y en
+     este sentido, deben ser “activistas”).
+
+[[PDF p. 140]]
+Cabe señalar también que Ely, como antes Warren, avanza una pro-
+  puesta por entender que la misma representa la mejor lectura posible de
+  la Constitución. Ellos ven a la Constitución como un “manual de proce-
+  dimientos” más que como un compendio de valores. Lo que hay en ella
+  son las “tuercas y tornillos” del procedimiento democrático. En ella se
+  dice cómo se deben elegir las autoridades públicas, cómo removerlas,
+  cómo organizar el proceso de toma de decisiones, etc. Por ello, hacer res-
+  petar la Constitución es, para ellos, hacer respetar las reglas del juego de
+  la democracia. Al actuar de ese modo, sostiene Ely, los jueces cumplen
+  una función similar a la de los árbitros en un partido de fútbol. Su misión
+  es la de permitir que los jugadores (en este caso, los jugadores del juego
+  democrático) hagan su juego, y no la de participar en el mismo, tomando
+  partido en favor de un sector o el sector rival. El buen árbitro, como el
+  buen juez, es el que deja que los partidos sean resueltos a partir de una
+  disputa a la que ellos sólo siguen desde fuera.
+       Finalmente, corresponde señalar que una teoría como la propuesta
+  por Ely se comprende mejor cuando se advierte el contexto en el que ella
+  apareció. Con Democracy and Distrust Ely vino a defender decisiones
+  judiciales como las generadas por la (así llamada) “Corte Warren”, que
+  se distinguía por sus fallos “progresistas” (o liberals), y que se encontra-
+  ba, tal vez por esa razón, bajo un severo ataque por parte de juristas con-
+  servadores y originalistas. Según viéramos, los originalistas tendían a re-
+  sistir este tipo de decisiones alegando que ellas implicaban distorsionar
+  el sentido que históricamente había tenido la Constitución. Los jueces
+  “progresistas”, al decir del originalismo, eran jueces “activistas” que, en
+  última instancia, reemplazaban el significado real de la Constitución por
+  los valores que ellos preferían que la Constitución tuviese. Lo que vino a
+  hacer Ely fue, en los hechos, una salida en defensa de tribunales como la
+  “Corte Warren”. En su opinión, una Corte como la citada no podía ser
+  descripta como (y acusada por ser) una Corte “activista”. Por el contra-
+   rio, lo que ella hacía era cumplir con su tarea adecuadamente, lo que im-
+   plicaba que fuera, en efecto, muy activa, pero sólo en determinadas áreas.
+   Cuando la Corte impulsaba un trato igualitario para los grupos más des-
+   aventajados de la sociedad; cuando intervenía en temas de libertad de ex-
+   presión, libertad de asociación, o derechos procedimentales; cuando se
+   comprometía con temas como los referidos a la cualificación de los elec-
+   tores y la formación de distritos electorales, la Corte estaba simplemente
+   cumpliendo con su tarea específica. Ella no era otra que la definida en
+   aquella famosa nota al pie de “Carolene Products”: mantener abiertos los
+
+[[PDF p. 141]]
+canales del cambio político y dar protección especial a minorías poco po-
+derosas y sobre las cuales existían extendidos prejuicios.
+
+VI. JEREMY WALDRON: EL DERECHO COMO DESACUERDO
+
+Finalmente, voy a revisar algunas de las ideas expuestas por Jeremy
+Waldron sobre el tema. Nos encontraremos, ahora, con una postura que
+confronta en buena medida con todas las anteriores, y considera que la
+pretensión judicial de definir finalmente el significado de términos cons-
+titucionales controvertidos resulta “insultante”, en el marco de una socie-
+dad democrática. Pero vayamos por partes.
+
+En su influyente libro Derecho y desacuerdo, Waldron parte de una
+perplejidad, descripta por Roberto Unger en un trabajo reciente: la exis-
+tencia de una “hipertrofia de prácticas y arreglos contramayoritarios; ...el
+obstinado foco sobre los jueces superiores y su selección como la parte
+más importante de la política democrática”. Frente a esta mirada apa-
+rentemente arraigada en los estudios legales contemporáneos, propone
+tomarse en serio el ideal del autogobierno, y poner su estudio al servicio
+del mismo. Dicho compromiso va a llevarlo a defender una concepción
+mayoritarista de la política, y a calificar como insultantes e irrespetuo-
+sos hacia la igual dignidad de las personas los intentos de “anclarla” en
+la esfera judicial.
+
+Hay una intuición que recorre todo su texto, según la cual la política
+se desarrolla en condiciones muy particulares, que son las que nos permi-
+ten entender el imperio del derecho, o explicar el sentido de virtudes ta-
+les como las de la tolerancia o la civilidad. Dichas condiciones son las
+que denomina (adaptando la idea rawlsiana de las “circunstancias de la
+justicia”) las circunstancias de la política y, como aquéllas (“escasez mo-
+derada de recursos” y “altruismo limitado”), vienen en par, siendo en este
+caso el desacuerdo y la necesidad de actuar de modo concertado. En
+
+[[PDF p. 142]]
+dichas circunstancias, asume Waldron, “resulta importante que las comuni-
+dades tomen sus decisiones en foros y a través de procedimientos que sean
+respetuosos del desacuerdo y permitan que las distintas voces sean escu-
+chadas en un debate acerca de cuál debería ser la solución del problema”.
+
+A la luz de aquellos antecedentes, Waldron identifica a la Legisla-
+tura como un órgano especialmente bien situado para lidiar con las cir-
+cunstancias de la política. Siguiendo un argumento dado por Aristóteles,
+Waldron defiende el valor de la Legislatura como un órgano capaz de “re-
+unir una diversidad de experiencias y perspectivas”. “Una asamblea le-
+gislativa –afirma– es capaz de alcanzar mejores respuestas que [uno] por-
+que su composición permite que accedamos a un abanico más amplio de
+experiencias e ideas de las que cada uno puede acumular por sí mismo”.
+La Legislatura –y, con ella, los procedimientos de decisión mayoritaria–
+se muestra como un instrumento razonable, antes que arbitrario, teniendo
+en cuenta las circunstancias que son propias de la vida política.
+
+Su punto de vista descriptivo lo coloca en oposición a buena parte
+de la literatura politológica contemporánea, que ve a la Legislatura co-
+mo un órgano poco “digno”, sobre todo cuando se lo compara con otros
+como el judicial. Su punto de vista normativo, mientras tanto, lo en-
+frenta a una mayoría de teóricos legales y filósofos políticos que, preo-
+cupados por las “malas decisiones” de la política, concentran sus estu-
+dios en la idea de los derechos individuales, y fundamentan la adopción
+de estrictas declaraciones (constitucionales) de derechos, protegidas a
+través del control judicial. Para Waldron, esta última postura –que lo
+llevó a sostener una interesante polémica con Ronald Dworkin, acerca del
+valor de que Inglaterra adoptara un sistema de protección de derechos
+similar al vigente en los Estados Unidos– resulta una afrenta a la idea
+
+[[PDF p. 143]]
+de igual respeto que nos merecen las personas. Esto no implica decir
+que Waldron abdica, directa o indirectamente, del valor de la idea de
+derechos. Waldron acepta, con Dworkin y buena parte de la academia
+jurídica contemporánea, que existe una importante conexión entre la idea
+de derechos y la de democracia, o la de que ciertos derechos individuales
+deben ser considerados como condiciones de una decisión mayoritaria
+legítima. Ocurre, sin embargo, que ello no lo lleva a pensar que la cus-
+todia de los derechos requiera de Constituciones e instituciones contra-
+mayoritarias.
+
+El razonamiento que lleva a Waldron a esta conclusión se encuentra,
+en buena parte, expresado ya en los párrafos anteriores. Y es que si par-
+timos del hecho inevitable del desacuerdo, tenemos que admitir que tam-
+bién vamos a encontrar desacuerdos dramáticos acerca del número, conte-
+nido, o alcance de los derechos. Nos enfrentamos, entonces, a un problema
+de autoridad: tenemos urgencia por encontrar una vía a través de la cual
+resolver aquellas disputas acerca de nuestros derechos. En tal sentido, el
+derecho a la participación aparece como especialmente adecuado, y no
+porque el mismo “tenga alguna prioridad moral sobre los otros derechos”.
+Sucede, más bien, que la participación es un derecho “cuyo ejercicio re-
+sulta particularmente apropiado para situaciones en donde personas razo-
+nables, y portadoras de derechos, se encuentran en desacuerdo acerca de
+los derechos que tienen”. El derecho de participación, en tal sentido, es
+
+[[PDF p. 144]]
+el derecho de los derechos. Ello así, en definitiva, porque la participación
+y decisión mayoritarias se muestran como las únicas herramientas proce-
+dimentales que, en las circunstancias de la política, resultan consistentes
+con la idea de que todas las personas son fundamentalmente iguales.
+Ellas son las únicas herramientas que se hacen cargo del “respeto que
+debemos [a cada individuo] como sujeto activo y pensante”. Ellas son
+las únicas que no se basan en una radical actitud de “desconfianza” hacia
+los individuos, ni en una “visión predatoria de la naturaleza humana”.
+
+¿Qué es lo que significa, entonces, esta robusta defensa de la demo-
+cracia mayoritaria (una que niega la justificación de órganos contrama-
+yoritarios como los que hoy existen en cualquier democracia moderna;
+que rechaza la existencia de límites a priori frente a los resultados polí-
+ticos)? ¿Quiere decir esto –se pregunta Waldron– que todo se encuentra
+abierto al “arrebato” de una circunstancial mayoría?. La respuesta de
+Waldron es, simplemente, que sí, que todo lo que pueda ser sujeto de un
+desacuerdo de buena fe resulta susceptible de quedar sujeto a la regla de-
+mocrática. El “pánico” frente a esta posibilidad, agrega, es el pánico
+
+[[PDF p. 145]]
+ante la idea del autogobierno político. Pero ocurre que “si estamos de-
+cididos a tratar con respeto a los puntos de vista de los demás, si no tra-
+tamos de ocultar el hecho de que tenemos diferencias ni intentamos su-
+primir el disenso, entonces no tenemos otra opción que la de adoptar
+procedimientos capaces de resolver nuestros desacuerdos políticos que no
+especifiquen, por sí mismos, cuáles deben ser los resultados a obtenerse”.
+
+VII. REPENSANDO LA FUNCIÓN JUDICIAL
+
+Llegados a este punto, quisiera recuperar algunas de las considera-
+ciones realizadas hasta aquí –las que, en mi opinión, mejor se sostienen
+frente a críticas posibles– para resumirlas en parte y extenderlas por otra
+parte.
+
+Ante todo, y según entiendo, sobrevuela a toda la discusión anterior
+una reflexión en torno a la llamada “objeción contramayoritaria” sobre el
+papel de los jueces en la revisión de la constitucionalidad de las normas.
+Según entiendo, el caso en favor de un Poder Judicial como el que existe
+actualmente en una mayoría de países –un Poder Judicial con el poder
+final de revisar la validez constitucional de cualquier norma– está, en mi
+opinión, perdido. Sólo tiene sentido, creo, pensar de qué modo debe reor-
+ganizarse la función judicial. Junto con Waldron, no veo una buena for-
+ma para justificar que la magistratura guarde la “última palabra” en ma-
+teria constitucional. Vivimos en democracia, entre otras razones, porque
+asumimos que todos, aun los jueces, pueden equivocarse. Y, asumiendo
+este dato, no hay buenos argumentos para privar a la ciudadanía de su
+
+[[PDF p. 146]]
+derecho final a decidir: sus errores, como los de cualquier otro individuo,
+grupo u órgano, pueden ser muy graves, pero nada nos dice que haya ra-
+zones para pensar que corremos mayores riesgos dejando la “última pala-
+bra” legal en manos de la ciudadanía. Ella, tanto como los miembros de
+la judicatura, pueden actuar irrazonable, apasionada, o autointeresadamen-
+te. Decir esto no niega la posibilidad de que, por razones de celeridad o
+“división del trabajo”, se opte por delegar dicha función en algún cuerpo
+institucional particular. Pero, debe advertirse, esta opción poco tendría que
+ver con los modelos de organización actualmente existentes, que privan a
+la ciudadanía de esta posibilidad, apelando a argumentos supuestamente
+lógicos, o alegando que aquella no tiene capacidad o derecho para actuar
+como último árbitro en sus propios asuntos. Como dice Waldron, las mis-
+mas razones que nos llevan a reconocernos unos a otros como sujetos de
+derecho sustentan nuestro derecho a hacernos cargo de nuestra vida en
+común.
+
+Ahora bien, el hecho de que no existan buenas razones para que los
+jueces guarden la última llave del control constitucional no significa que
+ellos no puedan participar en el proceso colectivo de mejora y refinamiento
+de las decisiones colectivas, o que no haya razones para obligar a los
+cuerpos representativos a pensar sus decisiones dos veces, o a decidir con
+más calma. Más bien, por el contrario: como sujetos falibles, como ten-
+demos a apasionarnos y a actuar irreflexivamente, movidos por nuestros
+primeros impulsos, es que tiene sentido diseñar herramientas para pensar
+mejor. En tal sentido, la institución judicial puede llegar a jugar un papel
+especialmente atractivo, obligándonos a pensar mejor, trayéndonos a cuen-
+ta argumentos que en primera instancia no habíamos considerado, u obli-
+gándonos a utilizar razones públicas para justificar nuestras decisiones,
+frente a quienes no hemos tomado debidamente en cuenta.
+
+Los jueces pueden jugar un papel especialmente importante en este
+sentido, gracias a su peculiar posición institucional: ellos se encuentran
+situados fuera del escenario principal de las disputas políticas, y obliga-
+dos a escuchar a aquellos que han sido afectados a resultas de aquéllas.
+Es a la justicia adonde se dirigen, en efecto, todos aquellos que han sido
+desatendidos o maltratados institucionalmente, por lo que los tribunales
+pueden convertirse en un excelente medio para dotar de mayor imparcia-
+lidad a las decisiones colectivas. En la actualidad, sin embargo, varias
+causas confluyen para dificultar esta tarea: desde la composición, más bien
+elitista, de los tribunales superiores, hasta una carencia o falta de desa-
+rrollo de instrumentos institucionales destinados a facilitar dicha tarea. No
+existen hoy (o están claramente subdesarrollados) los medios para propi
+
+[[PDF p. 147]]
+ciar el “reenvío” de normas desde el Poder Judicial hacia los órganos po-
+líticos, para facilitar un posible diálogo y debate entre poderes. El poder
+que, de hecho, ejercen los jueces como “última voz” del sistema insti-
+tucional también conspira contra la posibilidad de que se instrumente un
+intercambio fructífero entre poderes. Dicho hipotético y saludable inter-
+cambio, entonces, se convierte en una conflictiva disputa de poder, en
+donde una rama del gobierno “golpea” a la otra, bloqueando o vetando
+su capacidad de decisión.
+
+Un sistema institucional más sensato, en cambio, podría orientarse a
+facilitar otro tipo de relaciones entre los poderes, permitiendo la mutua
+corrección entre los mismos. El Poder Judicial, por caso, podría obligar
+al poder político a rever su decisión, o a fundamentarla o justificarla de
+otro modo. En tal sentido, y entre otras cosas, debería ocuparse de hacer
+exactamente lo que hoy se niega a hacer, que es exigirle al poder político
+que dé razones públicamente aceptables de sus decisiones, impidiendo que
+las leyes sean el mero producto de las presiones de grupos de interés, el
+mero producto de intercambios de favores, o el mero resultado de la volun-
+tad arbitraria de una ocasional mayoría parlamentaria. Una decisión demo-
+crática es algo distinto de todo aquello: es la que resulta de un debate co-
+lectivo, inclusivo, abierto, entre iguales, y que tiene un privilegiado centro
+de desarrollo en el Parlamento. El Poder Judicial, en tal sentido, debería
+ayudar a que el sistema de toma de decisiones se aleje cada vez más del
+escenario ficcional en el que hoy se ubica: un mundo en donde las deci-
+siones públicas invocan la voluntad popular sin consultarla, mientras afir-
+man los intereses de una élite cualquiera (política, económica, religiosa)
+según su capacidad de influencia. Por otra parte (aunque en el mismo
+sentido), el Poder Judicial podría ayudar a los órganos políticos a tomar
+sus decisiones de modo más informado y deliberado. Ello así, por caso,
+abriendo cada decisión pública significativa al contacto con expertos y
+ciudadanos comunes, que puedan informar a la misma con puntos de vis-
+ta imprescindibles para dotarla de imparcialidad. Algunos de los pasos que
+ha dado la Corte Suprema argentina, en tal sentido (casos “Verbitsky” o
+“Mendoza”), parecen bien orientados en esta dirección.
+
+Este tipo de “controles internos”, a su vez, debería sumarse a otros
+“externos”, destinados a asegurar la responsabilidad de los principales
+decisores; y a otros mecanismos destinados a asegurar el diálogo colecti-
+vo: de los ciudadanos entre sí; de los ciudadanos con sus representantes;
+de los funcionarios públicos entre sí.
+
+Controles como los referidos hasta aquí merecerían ejercerse con
+mayor intensidad cuanto más sensibles o riesgosas sean las decisiones en
+
+[[PDF p. 148]]
+juego. Claramente, si la decisión en cuestión es capaz de poner en riesgo
+la propia maquinaria de toma de decisiones democráticas, los controles
+deberían ser más intensos, y menor la presunción de validez de la deci-
+sión en cuestión –retomando la terminología utilizada por la jurispruden-
+cia norteamericana, tales decisiones merecerían ser sujetas a las formas
+de escrutinio judicial más estrictas (high o intermediate scrutiny)–. Ello
+así, por ejemplo, si se trata de una medida por la cual quienes están en el
+poder pretenden prolongar su permanencia en el mismo, o dificultar la
+posibilidad de que los opositores protesten o levanten reclamos contra
+ellos. Siempre, pero muy especialmente cuando existen grupos de la so-
+ciedad con dificultades para protestar o para hacer sentir sus quejas, los
+jueces deberán mostrarse especiamente atentos frente a las demandas de
+los perjudicados, y firmes frente al poder político exigiéndole que preste
+atención o que responda a las exigencias de quienes han sido indebidamen-
+te desconsiderados en el proceso de toma de decisiones. Del mismo modo,
+los jueces deberían ser facilitadores y promotores del diálogo colectivo,
+y especialmente sensibles frente a las medidas orientadas a entorpecer ese
+diálogo, a privar o desplazar la “voz” de algunos sectores, o a concentrar
+la discusión pública entre algunos privilegiados (aquellos con mayor po-
+der político, aquellos con mayores recursos económicos, etc.). Nuevamen-
+te, los jueces merecerán encender sus alarmas cada vez que se enfrenten
+a alguna medida destinada a empobrecer el debate democrático.
+
+De todos modos, el propósito de este trabajo ha sido otro, es decir,
+el de abrir el abanico de ideas en materia de interpretación constitucio-
+nal. En todo caso, estas líneas finales pueden servir como un pequeño y
+primerísimo paso en una discusión todavía pendiente, sobre los modos en
+que debería hacerse efectiva la interpretación constitucional, y el rol que
+podría jugar el Poder Judicial en dicha materia.

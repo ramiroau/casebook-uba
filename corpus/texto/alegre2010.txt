@@ -1,0 +1,1060 @@
+# fuente: Unidad11/Alegre-Democracia sin presidentes.pdf
+# md5_original: 4495de184476b250e3e57478f08e4abe
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                       Democracia sin presidentes.1
+                                                                 Marcelo Alegre (Universidad de Palermo)
+Introducción.
+    La crítica frontal al presidencialismo está perdiendo espacio en América Latina. En este trabajo
+expreso mi queja por este silencio. Durante un tiempo creí que tal vez había que abandonar la propuesta
+de parlamentarización de los sistemas políticos latinoamericanos. Pero un análisis somero de algunos
+desarrollos recientes de la ciencia política y el derecho constitucional ha reforzado mi convicción
+acerca del carácter negativo del presidencialismo.
+    La pasividad actual frente al presidencialismo puede obedecer a diversas razones. En primer lugar,
+puede deberse a la creencia de que la dicotomía “presidencialismo versus parlamentarismo” es demodé,
+y que otras categorías (por ejemplo “federalismo-unitarismo”, “pluripartidismo-bipartidismo”) gozan
+de mayor poder explicativo respecto de los sistemas políticos. En segundo lugar, la aceptación del
+presidencialismo podría fundarse en el error de las críticas de décadas pasadas, o en el hallazgo de
+ciertas virtudes hasta ahora ocultas del presidencialismo. En tercer lugar, aun cuando la dicotomía
+“presidencialismo-parlamentarismo” mantuviera su vigencia y los males del presidencialismo se
+consideraran probados más allá de toda duda razonable, podríamos justificadamente postergar la
+propuesta de abandonar el presidencialismo por razones de realismo: tal vez sea impensable un cambio
+tan radical de sistema de gobierno. O tal vez sería simplemente inconveniente contribuir a la larga
+historia de inestabilidad institucional latinoamericana a través de nuevas reformas constitucionales con
+su carga de traumatismo, alta tensión y profundas confrontaciones.
+    Me propongo reflexionar acerca de estas posibles explicaciones en el siguiente orden: Primero
+repasaré el estado de la cuestión en la discusión académica de la última década y media. Además de las
+nuevas evidencias sobre las disfuncionalidades del presidencialismo, me ocuparé luego de algunas
+defensas recientes del presidencialismo. A continuación, enfatizaré la crítica normativa del
+presidencialismo, y señalaré de qué manera las objeciones de principio pueden extenderse a la
+alternativa de atenuar, en vez de desmantelar el presidencialismo. Mi sospecha es que el semi-
+presidencialismo no es una buena opción y que deberíamos, consecuentemente, optar por un sistema
+parlamentario. Por último aspiro a convencerlos / as que los académicos / as no debemos sumarnos al
+
+
+
+1
+ Agradezco las discusiones y comentarios con y de Lucas Arrimada, Paola Bergallo, Juan Bertomeu, Gabriel
+Bouzat, Bo Burt, Eduardo Cifuentes, Victor Ferreres Comella, Alberto Föhrig, Roberto Gargarella, Owen Fiss,
+
+                                                                                                              1
+
+[[PDF p. 2]]
+silencio que parece estar imperando respecto de un sistema que, como el personaje borgeano, “es
+autoritario, pero también es ineficaz.”2
+
+
+    1. Vigencia del debate “presidencialismo versus parlamentarismo”.
+    Una posible explicación del abandono de la crítica al presidencialismo en América Latina sería que
+la distinción entre sistemas presidencialistas y parlamentaristas es demasiado abstracta, y que por
+consiguiente, el foco de las reformas institucionales debería centrarse en otros elementos de los
+sistemas institucionales. De acuerdo con esta explicación, sería más fructífero, en vez de cuestionar el
+sistema de gobierno, que nos ocupáramos, por ejemplo, de los problemas que plantea el federalismo
+latinoamericano, o de fortalecer la independencia judicial, o de reformar el sistema de partidos
+políticos.
+    Existe una correlación entre este punto de vista y algunos desarrollos académicos recientes. En
+efecto, ha habido intentos muy serios de demostrar que la dicotomía
+“presidencialismo/parlamentarismo” debía ser abandonada.3 Sin embargo, el resultado, a mi juicio, ha
+sido el de fortalecer la relevancia de este contraste. Los embates contra la distinción, en lugar de
+desplazarla, la han enriquecido. Por supuesto, hoy entendemos que el sistema político no lo es todo, ya
+que también cuenta, por ejemplo, el grado de federalismo, el sistema electoral y de partidos políticos, la
+cantidad de actores con poder de veto sobre las políticas públicas. Pero el hecho de que un país adopte
+un sistema presidencialista o uno parlamentario sigue siendo la decisión institucionalmente más
+significativa y que acarrea las consecuencias más profundas con relación al resto de las variables. En
+otras palabras, los sistemas presidencialistas suelen producir diferencias muy marcadas respecto de los
+parlamentarios en una amplia serie de elementos. Las diferencias al interior de los sistemas de
+gobierno, con ser de fundamental importancia, no consiguen opacar la relevancia de las diferencias
+entre sistemas de gobierno.
+    Como lo han mostrado David Samuels y Kent Eaton,4 hay dos características predominantes en los
+sistemas presidencialistas. Por un lado, los “poderes unilaterales del ejecutivo” (veto legislativo,
+
+Ezequiel Nino, Carlos Rosenkrantz y Pablo Ruiz Tagle, y a los y las integrantes del curso “Temas Actuales de
+Derecho Constitucional” de la Facultad de Derecho de la Universidad de Palermo, 2005 y 2006.
+2
+  Como Carlos Argentino Daneri, el personaje de El Aleph. Uno de los problemas del presidencialismo es que el
+precio de atenuar su autoritarismo sería una mayor ineficacia, y viceversa.
+3
+  Por ejemplo, George Tsebelis, Veto Players, Princeton, 2002.
+4
+  “Presidentialism And, Or, and Versus Parliamentarism: The State of the Literature and an Agenda for Future
+Research”, David Samuels & Kent Eaton, 2002.
+
+                                                                                                                2
+
+[[PDF p. 3]]
+dictado de decretos con fuerza de ley, iniciativa en materia presupuestaria, etc) y por otro lado, la
+“separación de propósitos” (que se da cuando el ejecutivo y los legisladores difieren en sus incentivos,
+preferencias, y respecto de los grupos, presiones, y demandas a que responden). Estos dos elementos
+son más frecuentes en los sistemas presidencialistas, y aun cuando puedan excepcionalmente estar
+presentes en los sistemas parlamentarios, su impacto es mayor en los esquemas presidencialistas. A
+partir de estos rasgos surgen notorias diferencias entre los sistemas presidencialistas y los
+parlamentaristas en varias dimensiones. Hay diferencias en cuanto a la fragilidad del régimen, a la
+probabilidad del surgimiento de gobiernos de minoría, a la efectividad en la aprobación de propuestas
+legislativas, a los incentivos para proponer y para integrar gabinetes de coalición,5 a la facilidad para la
+entrada de oportunistas, y “outsiders” a los gabinetes de gobierno, al acceso público a información
+política relevante, a la influencia de los grupos de interés, a la vulnerabilidad frente a la corrupción, y
+en cuanto a la exposición de los sistemas a los cambios abruptos y sorpresivos de programas y acciones
+de gobierno.
+    Luego repasaré estos efectos, pero por ahora sólo interesa remarcar que la distinción entre
+presidencialismo y parlamentarismo merece continuar en el centro de los estudios sobre regímenes de
+gobierno. Esto no significa ignorar la relevancia (como tal vez se hizo durante un tiempo) de otras
+variables que afectan de manera importante el funcionamiento de los sistemas políticos, como los
+poderes legislativos del ejecutivo, los sistemas electorales, el sistema de partidos políticos, el
+bicameralismo, el federalismo y el control judicial de constitucionalidad.6
+    Para ilustrar la vigencia de la importancia de la distinción entre presidencialismo y
+parlamentarismo, permítaseme aludir al importante trabajo de George Tsebelis, uno de los autores que
+ha insistido en la conveniencia de abandonar esta dicotomía.7 Tsebelis ha propuesto que la clave para
+entender los distintos sistemas son los jugadores con poder de veto [veto players], es decir, actores cuya
+aquiescencia es necesaria para modificar el status quo. En apretada síntesis, la idea de Tsebelis es que a
+mayor cantidad de jugadores con poder de veto habrá mayor estabilidad en las políticas y,
+consiguientemente, mayor dificultad para producir reformas. Samuels e Eaton señalan que el número
+
+5
+  José A Cheibub y Fernando Limongi, en “Modes of Government Formation and the Survival of Democratic
+Regimes: Presidentialism and Parliamentarism Reconsidered” Annual Review of Political Science 5: 151-179,
+niegan esta diferencia, pero hay muchos estudios empíricos que la confirman. Ver el trabajo de Samuels e Eaton
+y sus referencias, p. 16-7.
+6
+  Ver Kent Eaton, “Parliamentarism versus Presidentialism in the Policy Arena”, Comparative Politics, 2000, pp.
+355-376.
+7
+  George Tsebelis, Veto Players, Princeton, 2002.
+
+                                                                                                              3
+
+[[PDF p. 4]]
+de los jugadores con poder de veto puede estar configurado por elementos distintivos de ambos
+sistemas, por lo cual éstos y no aquellos son la clave principal. Adicionalmente, el mismo Tsebelis
+reconoce que ciertos actores con poder de veto pueden ser irrelevantes, dado lo que denomina la “regla
+de absorción”: si las preferencias de un actor con poder de veto coinciden con las de otro, su capacidad
+de veto pierde importancia. Por último, existe el problema de que en el interior de actores colectivos,
+como partidos políticos, sindicatos, o bloques legislativos, pueden a su vez existir actores colectivos
+más pequeños o actores individuales con su propio poder de veto. La moraleja es que contabilizar
+actores con poder de veto puede ser una tarea muy engorrosa,8 y no siempre del todo iluminadora. El
+estudio de los jugadores con poder de veto no es un buen candidato para desplazar la categorización
+“presidencialismo-parlamentarismo” del centro de la escena.
+    Por mi parte, creo que la relevancia de la distinción “presidencialismo-parlamentarismo”, lejos de
+diluirse, está presupuesta por el propio Tsebelis cuando señala que cuando ambos sistemas (el
+presidencialista y el parlamentario) cuentan con un número alto de jugadores con poder de veto se da la
+siguiente diferencia: en los parlamentarismos habrá inestabilidad de los gobiernos, mientras que en los
+presidencialismos habrá inestabilidad de sistema.9 Bajo ciertas circunstancias, la diferencia entre
+parlamentarismo y presidencialismo, aprendemos de Tsebelis... ¡es la que hay entre democracia y
+dictadura!
+    Ahora bien, aun cuando la distinción entre presidencialismo y parlamentarismo sigue siendo
+relevante, sí se nota un corrimiento del foco de análisis. Hasta hace quince años el gran parámetro de
+estudio era el de la estabilidad de los sistemas, pero hoy la atención está centrada en el tipo de políticas
+y resultados que uno u otro sistema tiende a producir.10 Dicho de otro modo, si antes preocupaba la
+supervivencia del presidencialismo, hoy nos importa su vida. Así, interesa indagar sobre la capacidad
+del presidencialismo para producir reformas estructurales, para resistir los embates de los grupos de
+presión, para controlar la corrupción, para evitar los giros drásticos en las orientaciones de los
+gobiernos, o para producir bienes públicos. Como veremos, el presidencialismo no sale precisamente
+bien parado de estos nuevos análisis.
+
+
+    2. Los males del presidencialismo, ayer y hoy.
+
+
+8
+  “[A] messy and subjective affair” la califica Eaton en “Parliamentarism...” p. 362.
+9
+  Veto Players, Introducción, y Cap. 3.
+10
+   Eaton, “Parliamentarism…”, p. 355-6
+
+                                                                                                           4
+
+[[PDF p. 5]]
+     Antes de analizar algunas de los nuevos desarrollos en el estudio del presidencialismo, repasemos
+someramente cuatro de los cuestionamientos más tradicionales contra el presidencialismo.
+     i)El problema de las legitimidades en conflicto: Arend Lipjhart ha afirmado que, dado que en los
+     sistemas presidencialistas tanto el poder legislativo como el ejecutivo son electos popularmente,
+     surge la posibilidad de graves conflictos entre ambos poderes, por ejemplo, si ellos expresan
+     preferencias políticas diferentes.11
+     ii) El problema de la rigidez: Los sistemas presidencialistas no disponen de modos flexibles de
+     resolución de los conflictos referidos anteriormente. El mandato fijo del presidente es un obstáculo
+     para posibles “reajustes”.12
+     iii) Tendencias mayoritaristas: Lipjhart13 ha señalado que el presidencialismo desalienta los
+     acuerdos y consensos, los que son especialmente necesarios en épocas de crisis y de transición.14
+     Linz15 atribuye esta debilidad a la característica de juego de “suma cero” o “winner-takes-all” del
+     presidencialismo. Guillermo O´Donnell, en el mismo sentido, se refiere a los sistemas
+     presidencialistas de América Latina como “democracias delegativas”, en que los presidentes están
+     “habilitados a gobernar al país como se les ocurra...”.16
+     iv) Personalización del poder: Carlos Nino, entre otros, ha enfatizado que en estos sistemas un
+     enorme poder queda concentrado en las manos de una sola persona. Esto vuelve a los
+     presidencialismos vulnerables a rupturas institucionales, ya que la eventual debilidad en el
+     liderazgo presidencial implica la debilidad de todo el sistema.17
+
+
+     Los estudios sobre presidencialismo de los últimos quince años reafirman su carácter problemático.
+Como dije anteriormente, en los últimos años el foco de los análisis se ha puesto en los problemas de
+funcionamiento del presidencialismo, más que en su perdurabilidad. Sin embargo, pese a que también
+
+
+11
+   Arend Lijphart, “Presidentialism and Majoritarian Democracy: Theoretical Observations, en Juan J. Linz y
+Arturo Valenzuela (eds.), The Failure of Presidential Democracy, J. Hopkins, 1994, p. 100.
+12
+   Linz, “Presidential or Parliamentary Democracy: Does It Make a Difference?”, en Linz y Valenzuela, op. cit., ,
+p.6.
+13
+   Arend Lijphart, “Presidentialism and Majoritarian Democracy: Theoretical Observations, en Linz y
+Valenzuela, op. cit., p. 97
+14
+   Gabriel Bouzat nos muestra en su trabajo el ejemplo dramático de Argentina en el año 2001.
+15
+   Linz, op. cit., p. 14.
+16
+   O’Donnell, Guillermo, “Delegative Democracy?”, Journal of Democracy,1994.
+17
+   Nino, Carlos S., “Presidentialism vs. Parliamentarism”, en Presidentialismo y Parlamentarismo, Eudeba,
+Buenos Aires, 1988.
+
+                                                                                                               5
+
+[[PDF p. 6]]
+ha habido algunos trabajos que confirman la debilidad presidencialista frente a las rupturas
+institucionales, en este apartado quisiera referirme a los problemas de funcionamiento del
+presidencialismo, los que pueden ser entendidos como nuevas variaciones sobre las clásicas melodías
+de Linz, Nino, Lipjhart y otros.
+     v) Giros abruptos. Susan Stokes ha estudiado una tendencia persistente en las democracias
+latinoamericanas: la de los giros abruptos que los presidentes llevan a cabo en sus políticas de gobierno
+respecto de sus promesas electorales.18 No se trata de un fenómeno aislado, ya que sucede en más de un
+30 % de los casos. Es decir, en al menos 3 de cada 10 elecciones presidenciales el ganador quebranta
+sus compromisos electorales y encara políticas diferentes a las anunciadas.19 Resulta notable que en
+todos los casos de giros abruptos las políticas adoptadas son hacia la derecha. No hay un solo caso de
+un presidente que gobierne a la izquierda del discurso de su campaña. Más allá de que en algunos casos
+(Fujimori, Menem) el cambio de rumbo resulta validado electoralmente en elecciones posteriores,
+resulta evidente que estos giros producen un daño sobre la confianza pública en la política. Estos giros
+son mucho más difíciles en los sistemas parlamentarios, ya que se requeriría que todo el partido de
+gobierno o la coalición gobernante coincida en favorecer el cambio sorpresivo. Además, los sistemas
+parlamentarios tienden a ser más inmunes a la llegada de “outsiders”.
+     vi) Conservadurismo institucionalizado: En general los sistemas presidencialistas se caracterizan
+por originar un número mayor de actores con poder de veto que los sistemas parlamentarios. (En
+general, pues los sistemas parlamentarios con coaliciones multipartidarias también tienen muchos
+actores con poder de veto, y por el contrario los ejecutivos que concentran grandes poderes legislativos,
+de hecho o de derecho, implican una disminución en el número de poderes de veto).20 La probabilidad
+de que un proyecto legislativo del gobierno sea aprobado por el Congreso es menor en el
+presidencialismo, dada la alta frecuencia de gobiernos en minoría. Cualquiera que esté preocupado por
+implementar una agenda progresista en América Latina debería tomar nota de que en un sistema
+presidencialista los cambios frente al status quo 1) son más improbables, 2) menos profundos, 3) más
+lentos, 4) más costosos.21
+
+
+
+18
+   Susan C. Stokes, Mandates and Democracy. Neoliberalism by Surprise in Latin America, Cambridge, 2001.
+19
+   Stokes, p. 3, 14-15.
+20
+   Ver Kent Eaton, “Parliamentarism versus Presidentialism in the Policy Arena”, Comparative Politics, Abril
+2000, pp. 355-76, en p. 361.
+21
+   Samuels e Eaton, op. cit., p. 11 y ss.
+
+                                                                                                               6
+
+[[PDF p. 7]]
+     Persson y Tabellini muestran que los regímenes parlamentarios suelen estar acompañados por
+gobiernos de mayor tamaño. También, que los sistemas parlamentarios tienden a proveer más bienes
+públicos que los presidencialistas.22 La explicación que proveen estos autores es que la base electoral
+de los regímenes parlamentarios tiende a ser mayor (y, podríamos agregar, a mantenerse durante el
+tiempo, sobre todo si está acompañada de mecanismos consensualistas como la censura constructiva),
+lo que favorece políticas más igualitarias. Por otra parte, en el parlamentarismo existe una mayor
+cohesión legislativa, lo que favorece acuerdos más “generosos” sobre el gasto público.
+     América Latina precisa revertir la doble regresividad dada por sistemas impositivos que penalizan a
+los pobres y por estados cuyo gasto está orientado a las franjas más acomodadas.23 Para encarar las
+enormes inequidades de infraestructura, educativas, y de ingresos, el gasto público deberá aumentar o
+permanecer alto. Por supuesto, un nivel alto de gasto público no es garantía de mejora alguna, pero es
+una condición necesaria. El presidencialismo no parece ser, después de todo, una opción neutra cuando
+reflexionamos acerca de las abismales desigualdades en nuestra región.
+     vii) Corrupción e ineficiencia. Jana Kunicová24 y Susan Rose-Ackerman25 han estudiado la relación
+entre diversos sistemas institucionales, incluyendo el presidencialismo, y la corrupción. Kunicová
+señala con sensatez que existen dos fuentes de riesgos de corrupción en los presidencialismos: El
+mandato fijo de el o la presidente (que le niega a la ciudadanía toda posibilidad de castigar
+electoralmente al presidente que está cumpliendo los últimos años de mandato),26 y la concentración de
+funciones en el o la presidente vis a vis el Congreso. Kunicová ha relevado la relación entre diversos
+
+
+
+
+22
+   Torsten Persson y Guido Tabellini, Political Economics, MIT, 2000, p. 252: “Separation of powers in the
+presidential-congressional regime produces a smaller government with less waste and less redistribution but also
+inefficiently low spending on public goods… [l]egislative cohesion in the parliamentary regime, on the other
+hand, leads to a larger government, with more taxation and more waste, but also more spending on public goods
+and redistribution benefiting a broader group of voters”
+23
+   Ver Informe Banco Mundial sobre Desigualdad en America Latina, 2004, en worldbank.org.
+24
+   Jana Kunicová, “Political Corruption: Another Peril of Presidentialism?”, disponible en
+http://www.hss.caltech.edu/~jana/perilous%20presidentialism%20feb%2006.pdf (chequeado por última vez
+Marzo 30, 2006)
+25
+   Susan Rose-Ackerman y Jana Kunicová, “Electoral Rules as Constraints in Corruption” British Journal of
+Political Science 35 (4), 573-606.
+26
+   El límite a las reelecciones presidenciales parece ser otro dato duro en América Latina, como el sistema
+electoral representativo, allí donde rige. Esto conduce a otro dilema: para que el electorado preserve capacidad
+de castigar al presidente, éste debería poder reelegirse indefinidamente.
+
+                                                                                                               7
+
+[[PDF p. 8]]
+índices de corrupción y los sistemas presidencialistas y los resultados son claros: presidentes
+irresponsables ante el electorado y ante el Congreso no son la mejor garantía de transparencia ética.27
+     La vulnerabilidad del presidencialismo frente a las presiones corporativas ha sido descripta por
+Linz, Nino, y otros.28 En este mismo sentido, David Vogel ha explicado que el tipo de separación de
+poderes del presidencialismo tiende a abaratar el costo de acceso de los grupos de interés, al crear dos
+centros decisorios.29 A su vez, Bruce Ackerman argumenta que el tipo de competencia entre el
+Congreso y el Presidente por el control del aparato burocrático del estado tiende a generar un estilo de
+gobierno excesivamente politizado, transformando el poder ejecutivo en un enemigo del rule of law.30
+     Los nuevos estudios sobre el tema no alientan la pasividad imperante sobre el sistema de gobierno
+dominante en la región: el presidencialismo fomenta la corrupción, el corporativismo y la ineficiencia
+administrativa.
+
+
+     3. El contraataque presidencialista.
+     ¿O será que tal vez fuimos demasiado duros con el presidencialismo? En este apartado me
+propongo analizar algunas reacciones frente a las críticas al presidencialismo. En resumen, la acusación
+contra el presidencialismo es que es un sistema democrático débil y al mismo tiempo, un sistema
+débilmente democrático. Es un sistema democrático débil en cuanto ha mostrado una gran fragilidad
+frente a las rupturas institucionales. Y es un sistema débilmente democrático en cuanto tiende a
+acentuar rasgos muy negativos en el sistema político. Pero como reacción a las críticas frontales al
+presidencialismo, han surgido algunas voces intentando relativizar sus alcances. De acuerdo con estas
+reacciones no resultan claras ni la conexión entre presidencialismo y rupturas institucionales, ni las
+supuestas deficiencias funcionales del presidencialismo.
+     3.1. Presidencialismo y golpes de estado.
+
+
+
+
+27
+   Kunicová, op. cit.. Estas conclusiones deberían contrapesar la insinuación de que el presidencialismo aumenta
+la transparencia.
+28
+   Linz, p. 63; Nino, Fundamentos..., p. 604.
+29
+   David Vogel, “Representing Diffuse Interests in Enviromental Policymaking”, en Bert Rockman y R. Kent
+Weaver, Do Institutions Matter?, Brookings Institution Press, Washington D.C., 1993, p. 268.
+30
+   Bruce Ackerman, “The New Separation of Powers”, Harvard Law Review, 113: 3, January 2000, p. 641.
+
+                                                                                                               8
+
+[[PDF p. 9]]
+     La relación estrecha entre presidencialismo e inestabilidad democrática tiene una amplia aceptación
+académica. Un clásico estudio de Alfred Stepan y Cindy Skach,31 muestra que la tasa de supervivencia
+de los regímenes presidencialistas en 53 países fuera de la OECD entre 1973 y 1989 es del 20%, en
+comparación con el 61% de los sistemas parlamentarios puros. Un trabajo de Scott Mainwaring32
+muestra que de las 32 democracias con una estabilidad de 25 años (a 1991), 23 (o sea un 72%) son
+parlamentaristas. Fred W. Riggs33, señala que a 1988, salvo los EEUU, todos los países
+presidencialistas han sufrido golpes de estado, mientras que dos terceras partes de los regímenes
+parlamentarios del Tercer Mundo han permanecido en democracia. Linz insiste en que los EEUU son la
+única “democracia presidencial con una larga historia de continuidad constitucional.”34 Más
+recientemente, Adam Przeworski y otros35 han mostrado que, durante los años 1950-1990, el 54% de
+los regímenes presidencialistas han sufrido golpes, contra un 28% de los parlamentaristas. La
+expectativa de vida de un régimen presidencialista es de 21 años, contra 73 de un sistema
+parlamentarista. Estos autores, además, desmienten la idea de que la inestabilidad de los
+presidencialismos se deba a que los análisis suelen centrarse en los casos latinoamericanos, ya que la
+supervivencia de los sistemas presidencialistas latinoamericanos es bastante mayor a la de los sistemas
+presidencialistas fuera de América Latina (10.6 años contra 6.5 años). Además refutan la noción de que
+es el subdesarrollo y no el régimen de gobierno la causa de la inestabilidad política, ya que muestran
+que “las democracias presidenciales tienden a morir más que las parlamentarias en cualquier nivel de
+desarrollo.”36
+        Shugart y Carey cuestionan esta vinculación entre presidencialismo e inestabilidad. De manera
+provocativa, estos autores afirman que “no hallan justificación a la aserción de Linz y otros de que el
+presidencialismo tiende inherentemente a sufrir crisis que lleven a rupturas.”37 Por un lado, identifican
+12 regímenes presidenciales y 21 parlamentaristas que sufrieron rupturas durante el siglo veinte. Por
+
+
+31
+   Stepan, A., y Skach, C, “Presidentialism and Parliamentarism in Comparative Perspective”, en The Failure of
+Presidential Democracy, vol. 1, 1994, Linz, Juan J. y Valenzuela, Arturo (Eds.), The Johns Hopkins University
+Press.
+32
+   Mainwaring, Scott, “Presidentialism, Multiparty Systems, and Democracy: The Difficult Equation”, citado en
+Shugart y Carey, op. cit, p. 38
+33
+   Riggs, Fred W., “Presidentialism: A Problematic Regime Type”, en Lijphart, A. Presidential vs.
+Parliamentary Government (ed.), Oxford, 1992, p. 219.
+34
+   en Lijphart, A., (ed.), op. cit, p. 118.
+35
+   Adam Przeworski, Michael A. Alvarez, José Antonio Cheibub, Fernando Limongi, Democracy and
+Development, Cambridge, 2000.
+36
+   Przeworski et al, Democracy…, pp. 128-31.
+
+                                                                                                                 9
+
+[[PDF p. 10]]
+otro lado, listan 12 sistemas presidencialistas estables contra 27 parlamentarismos estables. Pero al
+enfocarse en el Tercer Mundo observan que el 59.1% de los regímenes parlamentarios sufrió rupturas,
+contra solamente el 52.2 % de los presidencialistas.
+       Sin embargo, encuentro algunas deficiencias importantes en este análisis de Shugart y Carey.
+Primero, cuando enumeran las rupturas en los parlamentarismos, estos autores cuentan cada ruptura
+independientemente del hecho de que algunas de ellas sucedieron en el mismo país. Por ejemplo,
+contabilizan separadamente los golpes en Grecia de 1936 y 1967, y los de Pakistán de 1954 y 1977.
+Pero de modo sorprendente, no aplican ese criterio a las rupturas en los sistemas presidencialistas. Por
+mencionar el caso del primer país de su lista (Argentina), la aplicación consistente del criterio hubiera
+implicado contar seis rupturas: 1930 (la única registrada por los autores), 1943, 1955, 1962, 1966 y
+1976. Todas estas rupturas satisfacen las (peculiares) condiciones postuladas por Shugart y Carey:
+casos en que las rupturas estuvieran precedidas por dos elecciones generales consecutivas. Segundo, el
+criterio estipulado para establecer que un régimen democrático es exitoso es aun más sorprendente:
+haber tenido al menos dos elecciones democráticas sin rupturas. Eso significa, por ejemplo, que las
+naciones con elecciones bianuales son contabilizadas como democracias consolidadas a los dos años, y
+que Argentina ha tenido siete períodos de democracia consolidada en el siglo pasado (como el fumador
+que abandona para siempre el cigarrillo... ¡todos los lunes!). Linz también llama la atención sobre otros
+errores y omisiones de este trabajo, como, por ejemplo, el hecho de que no se cuente a India entre los
+regímenes parlamentarios estables.38
+       En un trabajo posterior, Shugart y Scott Mainwaring39 siguen una línea diferente de análisis. No
+cuestionan de manera directa la relación entre presidencialismo y rupturas institucionales pero apuntan
+a otros factores como los verdaderos responsables de la inestabilidad, e inversamente, de la estabilidad
+de los regímenes parlamentaristas. Estos autores sospechan, por un lado, que existe un sesgo en la
+literatura sobre el tema, ya que la continuidad democrática podría deberse a “condiciones de trasfondo
+mejores en términos relativos.” Por otra parte, también dudan que las rupturas latinoamericanas
+
+
+
+
+37
+   Presidents and Assemblies, p. 42.
+38
+   Linz, J.J., op. cit, p. 73.
+39
+   Shugart, M. S., and Mainwaring, S., “Presidentialism and Democracy in Latin America: Rethinking the Terms
+of the Debate”, en Shugart, M. S., y Mainwaring, S. (Eds.) Presidentialism and Democracy in Latin America,
+Cambridge University Press, 1997.
+
+                                                                                                          10
+
+[[PDF p. 11]]
+“resulten del presidencialismo antes que de otras condiciones que afectan generalmente a las
+democracias sudamericanas.”40
+           Resulta importante, antes que nada, aclarar que nadie ha atribuido en forma distintiva al
+presidencialismo la única responsabilidad en los quiebres institucionales. El argumento, por el
+contrario, asume una forma diferente: que el presidencialismo es ineficaz para contrarrestar (y a su vez
+genera algunas) tendencias rupturistas. Pero, aun así, la sugerencia de Shugart y Mainwaring (la de que
+otros factores son los decisivos para explicar los éxitos del parlamentarismo y los fracasos del
+presidencialismo) puede ella misma ser cuestionada. Considérese la “correlación ampliamente
+reconocida entre la herencia colonial británica y la democracia.”41 El ejemplo de estas ex-colonias es
+particularmente bienvenido por los críticos del presidencialismo, porque lo interpretan como una
+demostración de que aun en países con bajos niveles de crecimiento económico y enorme pobreza, la
+democracia puede arraigar de modo perdurable si se elige el sistema de gobierno apropiado. La idea de
+Shugart y Carey es que la durabilidad de las democracias de esos países podría explicarse por factores
+ajenos al parlamentarismo. Pero supóngase que, por caso, es la tolerancia la que explica el éxito de la
+democracia en esos países. El cuento no termina allí, porque bien podría replicarse que el predominio
+de la tolerancia se debe (al menos parcialmente) a la existencia de instituciones que animan y refuerzan
+conductas deliberativas y respetuosas. Me apresuro a hacer notar, frente al lector escéptico que podría
+creer que esto es una mera especulación, que todas las colonias británicas que adoptaron un sistema
+presidencialista sufrieron golpes de estado.
+           Shugart y Mainwaring creen que es posible que las rupturas en América Latina se hubieran
+debido a otras razones, más allá del sistema político. De hecho, es bien conocido que muchas
+explicaciones se han intentado para dar cuenta de los fracasos de las democracias en la región: tal vez
+las dos principales sean el legado cultural de la colonia (la influencia del autoritarismo español y
+católico) y la estructura social y económica.
+           Ahora bien, ¿hasta qué punto podemos aislar estas variables de la estructura político-
+institucional? En primer lugar, y con relación a la herencia cultural autoritaria, la tendencia a depender
+de fuertes liderazgos personales puede ser mitigada a través de una estructura de gobierno que tienda a
+la difusión del poder, o, por el contrario, puede ser agravada a través de un régimen institucional que
+concentra gran cantidad de poder en una sola persona. Lo mismo ocurre con la intolerancia como rasgo
+
+40
+     Op. cit. p. 23.
+41
+     op. cit., p.23.
+
+                                                                                                          11
+
+[[PDF p. 12]]
+cultural. Ésta puede debilitarse por medio de instituciones que favorezcan la cooperación y el consenso,
+o puede reforzarse al adoptar sistemas de decisión que incentivan la confrontación permanente. Algo
+similar puede decirse con relación a las explicaciones de tipo económico. La desigualdad, la pobreza, el
+subdesarrollo son, plausiblemente, causas de inestabilidad. Pero como lo afirmé en la sección anterior,
+ellas mismas no son independientes del sistema presidencialista, con sus incentivos para crear
+situaciones de bloqueo, su tendencia a generar crisis, su inclinación al corporativismo y su debilidad
+frente a la corrupción.42
+       Los propios Shugart y Mainwaring asumen la importancia de las instituciones políticas,
+poniendo en tensión su hipótesis acerca de que son otros los factores determinantes de la (in)estabilidad
+de las democracias. Al enumerar razones probables para explicar la correlación entre la herencia
+colonial británica y la democracia, mencionan ¨la tendencia a entrenar servidores públicos” y “las
+prácticas e instituciones de gobierno”. La primera es aceptada ampliamente como una característica
+saliente, y una ventaja,43 de los sistemas parlamentaristas. Y, por supuesto sería llamativo que se
+desvincularan “las prácticas e instituciones de gobierno” del mismo sistema parlamentarista. Shugart y
+Mainwaring afirman que éstas “incluyen pero no se reducen al parlamentarismo.”44 Pero, en verdad,
+alcanza con que lo incluyan para que los críticos del presidencialismo estén en lo cierto: el
+parlamentarismo contribuye a explicar la estabilidad de los regímenes democráticos (nadie ha dicho
+que sea la única causa, lo que sería absurdo).
+       Estos autores también afirman que la perdurabilidad democrática de los parlamentarismos se
+debe a que en su mayoría se trata de países de altos ingresos económicos. Como vimos, Przeworski y
+otros han refutado esta noción. Pero además, países como Canadá, Israel y Japón (los ejemplos fuera de
+Europa provistos por Shugart y Mainwaring) son ricos hoy, pero no lo eran hace medio siglo. Estos
+mismos casos podrían perfectamente ser usados por los defensores del parlamentarismo para mostrar
+que este sistema favorece el desarrollo.
+       Podemos concluir en que la relación entre presidencialismo e inestabilidad democrática todavía
+no ha sido desmentida.
+
+
+
+42
+   Waisman, Carlos, “Reversal of Development in Argentina. Postwar counterrevolutionary policies and their
+Structural Consequences”, Princeton University Press, New Jersey, 1987. Nino, Carlos, “The Constitution of
+Deliberative Democracy”, Yale University Press, Conn., 1996.
+43
+   Por ejemplo, Linz, J, op. cit., p. 32.
+44
+   op. cit., p. 23.
+
+                                                                                                             12
+
+[[PDF p. 13]]
+3.2. Supuestas ventajas del presidencialismo.
+       Me ocuparé ahora de algunas supuestas ventajas del presidencialismo, expuestas en la última
+década y media.
+       3.2.1.) Superioridad electoral prospectiva (Identificabilidad).
+       Shugart y Carey45 señalan la ventaja del presidencialismo consistente en “el grado en que los
+votantes pueden identificar antes de la elección los distintos gobiernos alternativos que pueden emerger
+de la elección.” Reconocen que en los sistemas parlamentaristas con dos partidos también “hay un gran
+rango de identificabilidad”, pero dicen que en los sistemas multipartidarios, “tiende a ser mucho más
+pequeño”. Linz cuestiona el argumento, afirmando que “en las elecciones presidenciales el votante
+puede conocer mucho menos acerca de quien habrá de gobernar que el votante de un partido en la
+mayoría de los sistemas parlamentaristas”. Esto se debe a que en los parlamentarismos los jefes de
+gobierno tienen menos margen de maniobra que los presidentes para formar sus gabinetes.
+       Además, el trabajo de Stokes referido en el apartado anterior muestra la enorme cantidad de
+giros abruptos en los planes de gobierno que se da en los sistemas presidencialistas latinoamericanos, lo
+que desmiente la idea de identificabilidad. Por último, la existencia, en muchos casos, de elecciones
+legislativas intermedias también erosiona la identificabilidad, ya que el presidente resultante de la
+elección puede no disponer (desde el inicio o posteriormente) de las herramientas legislativas
+necesarias para gobernar. En estos casos, el electorado no identifica ni siquiera gobiernos alternativos,
+ya que bien puede resultar, luego de las elecciones, una situación de desgobierno.46
+
+
+3.2.2) Superioridad electoral retrospectiva (Rendición de cuentas [Accountability]).
+       Persson y Tabellini afirman que “un régimen presidencial-congresional que funciona bien opera
+mejor en términos de accountability, porque lidia mejor con el problema de agencia entre votantes y
+políticos”.47 De acuerdo a Shugart y Carey “bajo el principio de maximizar la rendición de cuentas
+directa (en el sentido de poder sancionar a los funcionarios electos en funciones por medio del voto)
+entre votantes y funcionarios elegidos, el presidencialismo es claramente superior al
+
+
+
+
+45
+   Op. cit, p. 45.
+46
+   Un caso extremo (una vez más) de negación de identificabilidad es el caso de Argentina en 2001, cuando
+asumió la Presidencia el candidato que había perdido las últimas elecciones presidenciales.
+47
+   Torsten Persson y Guido Tabellini, op. cit., p. 253.
+
+                                                                                                            13
+
+[[PDF p. 14]]
+parlamentarismo...” Esto se debería a que “los votantes votan directamente por un ejecutivo que no
+puede ser removido por coaliciones cambiantes.”48
+         Por el contrario Stepan y Skach49 afirman que “el principio de accountability en el
+presidencialismo es más débil que en el parlamentarismo”. Linz50 niega la existencia de esta ventaja
+sobre la base de dos argumentos. Primero, que la superioridad no puede alegarse respecto de sistemas
+que no permitan la reelección presidencial. Esta réplica pierde terreno dada la tendencia a reformar las
+constituciones permitiendo la reelección. Claro está que Linz podría insistir en que si la reelección no
+es indefinida siempre habrá un período en el que el presidente sabe que no podrá presentarse a
+reelección, período en el que no habrá forma de castigarlo mediante el voto. Segundo, Linz objeta el
+tipo de accountability que permite el presidencialismo, en que los votantes deben esperar hasta el fin
+del gobierno para ejercerla. La observación es correcta, ya que el control electoral sería mayor si
+hubiera más posibilidades de forzar elecciones generales, como en los sistemas parlamentarios. Pero la
+observación de Linz no debe hacernos perder de vista que en aquellos casos en que hay elecciones
+intermedias (la mayoría) los votantes pueden hacer mucho contra un presidente que les disgusta antes
+de que termine su mandato. El electorado puede votar a la oposición, castigando, y muy duramente al
+presidente, ya que hasta podría dejarlo en minoría en el congreso. El problema en estos casos es que la
+ira contra el presidente se canaliza ineficientemente ya que no provoca el fin del mandato presidencial
+sino la parálisis del sistema. No es que el presidente deja de ser “accountable”, sino que el castigo se
+canaliza al mismo tiempo en su contra y contra el sistema en su conjunto.
+         Hay otros problemas que hacen que la relación entre presidencialismo y accountability no
+resulte tan clara. Por una parte, muchas veces la posibilidad de ejercer accountability nunca llega
+porque el sistema se derrumba antes. Por otra parte, el hecho de que las elecciones tengan una
+oportunidad prefijada establece una restricción de calidad a la accountability. Podría alegarse que la
+verdadera accountability reside en poder echar al mal mandatario en cualquier momento. Las fechas
+fijas de elecciones favorecen en los presidentes el hábito bien conocido de variar su comportamiento en
+época de elecciones, explotando la tendencia sicológica a subestimar el peso de los hechos pasados y
+recordar más vívidamente los más recientes.
+
+
+
+48
+   op. cit., p. 44-5.
+49
+   op. cit. p. 136.
+50
+   op. cit., pp. 10 y ff.
+
+                                                                                                           14
+
+[[PDF p. 15]]
+3.2.3.) Superioridad en las opciones electorales.
+       Shugart y Mainwaring51 afirman que el presidencialismo cuenta entre sus ventajas con el hecho
+de proveer al electorado de dos opciones electorales (una para el ejecutivo y otra para el legislativo), y
+ven esta característica como el otro lado de la moneda de la crítica de Lipjhart sobre las legitimidades
+en competencia.
+       Pero ¿se trata de una opción doble o de una opción dividida? La legitimidad dual puede llevar al
+bloqueo entre los poderes y eso implica un freno a la tarea legislativa y a la fluidez en el gobierno. Pero
+entonces, esta faceta del presidencialismo, en lugar de permitir mayores opciones electorales reales,
+parece dividir la opción electoral en dos opciones más débiles. La opción electoral, en efecto, puede
+verse frustrada si el Congreso no puede legislar contra la voluntad del presidente, y la opción respecto
+del poder ejecutivo puede tornarse ilusoria con un Congreso mayoritariamente opositor: el costo de
+proveernos con dos votos es el riesgo de debilitar nuestra capacidad total de influencia. La forma de
+que ambos votos se reflejen en la legislación y en el gobierno es unificarlos, como resulta en los
+sistemas parlamentarios. En suma, el presidencialismo no multiplica las opciones electorales sino que
+las divide en dos opciones que podrían ser mutuamente neutralizadoras.
+
+
+3.2.4. Frenos y Contrapesos.
+       Shugart y Carey52 sugieren que, después de todo, el tipo de separación de poderes del
+presidencialismo puede ser un positivo elemento consensualista, una vez que lo vemos a la luz de la
+estrategia madisoniana de “poner a la ambición contra la ambición.”53
+       Hay que distinguir dos posibles situaciones. En el caso en que el presidente no dispone de
+mayoría en el congreso el resultado no es el buscado a través de la idea de frenos y contrapesos (un
+ejercicio balanceado del poder) sino el de bloqueos e inmovilismo. En el segundo caso, en que el
+presidente dispone de mayoría legislativa, el argumento según el cual el sistema funciona de manera
+consensualista tendría algún sentido. La idea es que los legisladores, en este escenario, pueden discutir
+la legislación con mayor amplitud, “libres de la amenaza de un voto de confianza.”54 Sin embargo, allí
+
+
+
+51
+   op. cit., p. 33.
+52
+   op. cit., p. 46.
+53
+   Federalist 51,en Madison, Hamilton, Jay: The Federalist Papers, (Clinton Rossiter, Ed.), Penguin books, 1998,
+p. 322.
+54
+   Shugart and Carey, op. cit., p. 46.
+
+                                                                                                             15
+
+[[PDF p. 16]]
+donde impere una alta disciplina partidaria, la amplitud en el margen de maniobra de los legisladores se
+angosta sensiblemente.
+        Y de manera más importante, el poder del congreso de legislar sin el consentimiento del
+ejecutivo es muy limitado: cuatro de cada cinco sistemas presidencialistas le otorgan al ejecutivo poder
+de veto legislativo y requieren una súper mayoría para dejarlo sin efecto.
+
+
+3.2.5.) Presidentes - árbitros.
+        Shugart y Carey55 se refieren a la posibilidad de que “el presidente pueda, en caso de conflicto
+político, servir como un árbitro que está por encima de los partidos”. Esta posibilidad, como lo
+entrevén los propios autores, es irrealista, y solamente podría surgir en un sistema semi-
+presidencialista, en el que un presidente en minoría conserva algún poder en la formación de un
+gabinete compartido con la oposición.56
+        En los sistemas presidencialistas el sistema favorece la polarización y un clima de confrontación
+entre los partidarios del presidente y la oposición. En este contexto, sencillamente no hay espacio
+disponible para que el presidente se sitúe en un rol equidistante en la discusión pública, ya que él
+constituye uno de los polos de la confrontación.
+
+
+3.2.6.) Transparencia Política.
+     Se ha dicho, en defensa del presidencialismo, que este sistema provee mayor información acerca de
+las preferencias de los actores políticos relevantes. Éste es, se alega, el efecto “de las idas y venidas
+entre los poderes de gobierno.”57 En los regímenes parlamentaristas, en contraste, la información es
+menos visible, y muchas preferencias del ejecutivo jamás llegan a conocerse. Esta tendencia sin
+embargo, debe ser contrapesada por la probabilidad del abuso presidencial de sus poderes unilaterales,
+y por el efecto distorsivo que tiene la personalización del poder sobre el debate público. Usualmente los
+esquemas presidencialistas carecen de algo parecido a los debates públicos en el Parlamento en los que
+los Primer Ministros defienden sus políticas de gobierno y deben responder en el momento las críticas
+de la oposición.
+
+
+55
+   op. cit., p. 48.
+56
+   Este rol de árbitro fue atribuido por Julio Faúndez a los presidentes chilenos antes de 1970, (“In Defense of
+Presidentialism: The Case of Chile, 1932-1970”, en Mainwaring y Shugart, (Eds.) op. cit., p. 300/20.
+57
+   Samuels e Eaton, p. 34
+
+                                                                                                                   16
+
+[[PDF p. 17]]
+        Como siempre, es importante entender que los EEUU son un caso extraño, no un caso
+paradigmático, de presidencialismo. Como observa Eaton, el poder de las comisiones del Congreso
+norteamericano no está replicado en otros sistemas presidencialistas: “Estos sistemas centralizan la
+negociación política en la rama ejecutiva más allá de la separación formal de poderes.”58
+
+
+     4. Presidencialismo o democracia.59
+     Los problemas del presidencialismo no son simplemente mecánicos o de eficacia. Muchas de las
+deficiencias del presidencialismo lo vuelven no sólo un sistema indeseable por sus efectos, sino
+ofensivo respecto de una noción robusta de la democracia. Esta es una razón para preocuparnos aun
+más por la indiferencia que ha vuelto a predominar respecto del presidencialismo. Quiero ocuparme en
+este apartado de exponer las formas en que el presidencialismo colisiona con la democracia.
+     Las discusiones que hemos tenido a lo largo de estos años en SELA nos sirven para, a modo de
+punto de partida, delinear un ideal de democracia alrededor de la idea de igualdad. Mi sugerencia es
+que partamos de una idea simple de igualdad, que nos permita su uso en diversos contextos. De tal
+manera, en vez de enzarzarnos en disputas sobre la igualdad política, la igualdad económica, o la
+igualdad social, podríamos converger en los requerimientos de esa idea simple de igualdad en los
+dominios de la política, la economía, la educación, etc. Espero poder mostrar que el esfuerzo que
+propongo podría aclarar algunas de nuestras discrepancias.
+     La idea simple de igualdad es la igualdad moral de las personas, bajo cualquiera de sus
+formulaciones, sea que todos somos “igualmente humanos”,60 “igualmente valiosos”, “igualmente
+dignos”, “igualmente respetables”. Las diferentes formulaciones son equivalentes a los fines de
+nuestras discusiones. Esta idea está arraigada en diversas tradiciones, como la judeo-cristiana y la
+liberal. El fundamento de la idea suele hacer referencia a nuestra capacidad para dar y recibir justicia,61
+o para evaluar,62 o para conducir una vida. La implicancia más obvia de la idea es la descalificación de
+
+58
+   “Parliamentarism...” at 365. En efecto, ¿qué transparencia existe frente a los cientos de “decretos de necesidad
+y urgencia” nunca discutidos por el congreso argentino?
+59
+   Esta crítica normativa al presidencialismo, aunque más centrada en la noción de igualdad, está muy influida
+por el tratamiento del tema por parte de Carlos Nino y Bruce Ackerman. Ver, Carlos Nino, Fundamentos de
+Derecho Constitucional, Astrea, 1992, pp. 569-619, y Bruce Ackerman, “The New Separation of Powers”,
+Harvard Law Review, 113: 3, Enero 2000.
+60
+   Carlos Nino, The Ethics of Human Rights, Clarendon, Oxford, 1993.
+61
+   J. Rawls, A Theory of Justice, p. 504..
+62
+   Gregory Vlastos, “Justice and Equality”, en Equality, L, Pojman, R. Westmoreland (Eds.), Oxford University
+Press, 1997, pp. 120-133..
+
+                                                                                                                 17
+
+[[PDF p. 18]]
+acciones y políticas discriminatorias, racistas, sexistas, o que establezcan o perpetúen sociedades de
+castas o (al menos fuertemente) jerárquicas.
+     Para arribar a implicancias menos obvias de esta idea (las implicancias que generan mayores
+discrepancias, por ejemplo con relación a la economía y las prestaciones estatales), puede sernos útil
+notar que los fundamentos de la idea de igualdad moral, es decir la capacidad de dar y recibir justicia,
+evaluar, o conducir una vida, coinciden en el valor de elegir. Si a algunos se les reconociera la
+posibilidad de elegir y conducir planes de vida o conductas que a otros se les veda, entonces se les
+estaría negando su carácter de iguales.63
+     ¿Qué notas mínimas debe contener un sistema político para respetar la igualdad moral de las
+personas? En primer lugar la democracia, como forma política de la igualdad, requiere, al menos, ser
+diseñada de modo de no amplificar ciertas voces en desmedro de otras, o de modo de no privilegiar
+indebidamente las preferencias de ciertas personas en lugar de las de otras. El propio carácter
+deliberativo de la democracia, como insistía Carlos Nino, responde a un requerimiento igualitario. La
+democracia exige un diálogo entre iguales, a través de foros abiertos a todos, y de un sistema político
+que amplifique las diversas perspectivas y garantice la confrontación abierta de ideas y propuestas. La
+exigencia de una justificación pública y abierta de las preferencias tiende a protegernos contra la
+desigualdad que implicaría reducir la dinámica política al acomodamiento de intereses, dada la
+(parcialmente) azarosa asimetría en nuestros poderes de negociación.
+
+
+
+
+63
+   Como nuestras posibilidades de elegir están ligadas a las de los demás, la igualdad es al mismo tiempo
+relacional y comparativa. Las desigualdades materiales pueden generar relaciones asimétricas, y esa es una razón
+para atenuarlas, a fin de que sea cierto que somos nosotros, y no los demás, quienes están al mando de nuestras
+vidas. Pero las discrepancias materiales, o las desigualdades sociales, pueden no tener esa consecuencia (un
+sentimiento de fuerte autoestima, o una convicción ascética acendrada pueden evitar que sintamos que nuestra
+vida está en las manos de los demás). Aun en esos casos, nuestras posibilidades de elegir estarían injustamente
+limitadas, si es que las desigualdades nos fueron impuestas sin referencia alguna a nuestras decisiones. Esta es la
+convicción que anima los resquemores contra las loterías social y natural. Tanto la clase en que nacimos como
+los genes que traemos al mundo carecen de la fuerza moral suficiente para validar un tipo de vida. Lo único que
+puede validar el lugar que ocupamos son nuestras decisiones. Esta es la idea positiva que anima al igualitarismo.
+Aquello que se quiere neutralizar o igualar, la suerte, está concebido como la negación del aspecto positivo que
+se quiere honrar, la elección autónoma de proyectos de vida. Por esta razón, deberíamos abandonar el mote de
+igualitarismo de la suerte [luck egalitarianism] por el de igualitarismo de la voluntad, o de las decisiones [choice
+egalitarianism]. Las innegables dificultades –filosóficas y prácticas- que rodean a la idea de la neutralización de
+la suerte no deben alejarnos de lo importante: que son nuestras decisiones las que deben determinar nuestra
+posición en la comunidad.
+
+                                                                                                                 18
+
+[[PDF p. 19]]
+   En segundo lugar, en el corazón de la democracia está la regla de la mayoría, ya que cualquier otra
+forma de decisión implicaría darle un peso extra a ciertas personas o grupos. Las mayorías deben
+influir en el gobierno de manera significativa y sin excesivos obstáculos institucionales.
+   En tercer lugar, la igualdad se manifiesta a través de los derechos. Por supuesto, de todos los
+derechos, no solamente los llamados clásicos, sino también de los sociales y económicos. Para que las
+personas estemos en una relación de iguales la satisfacción de ciertos intereses básicos no puede estar
+sujeta a los vaivenes de la política, ya que su fundamentación no está vinculada a la cantidad de votos
+que la respalda. De allí que la promesa liberal igualitaria que la mayoría de nuestras constituciones
+formula en sus listados de derechos fundamentales necesita de estados que promuevan la tolerancia, la
+libertad de expresión, la mayor amplitud de proyectos de vida disponibles, al tiempo que reformen de
+manera persistente las desigualdades estructurales que niegan a las grandes mayorías el disfrute de los
+derechos que otros tienen a su disposición.
+       Los tres requerimientos de la igualdad son vulnerados por el presidencialismo. Por empezar, el
+presidencialismo degrada la calidad deliberativa de la democracia. Esto sucede de varias maneras. En
+primer lugar, porque la personalización del poder genera un diálogo público, cuando lo hay, muy
+asimétrico, debido a que el presidente rara vez participa en las deliberaciones públicas dando y
+recibiendo razones. Sus intervenciones tienden a adoptar un tono imperial, por encima del nivel terrenal
+de la política cotidiana. Cuando la realidad se complica, el presidente echa mano a su rol de jefe de
+estado, descalificando a quienes no se alinean con su voluntad, quienes son acusados de conspirar
+contra los intereses nacionales. La forma en que los presidentes participan en las discusiones públicas
+es la negación más rotunda de un diálogo racional, igualitario y civilizado. En segundo lugar, la alta
+polarización que tiende a generar el presidencialismo también deteriora la calidad de la discusión
+pública, exacerbando las posturas más intransigentes. En tercer lugar, la tendencia a la concentración
+de funciones en el ejecutivo, contribuye a desplazar el centro de las decisiones de las legislaturas,
+oscureciendo las razones detrás de las medidas más trascendentes, que suelen adoptarse en secreto, en
+los despachos ministeriales.
+       El presidencialismo también resulta difícilmente compatible con el segundo requisito
+igualitario, el del autogobierno colectivo. Ackerman hace notar que bajo el presidencialismo un partido
+precisa ganar elecciones durante una década o más para poder controlar instituciones claves.64 Esto
+implica un alejamiento demasiado inaceptable respecto del ideal de autogobierno colectivo. Los
+
+
+
+                                                                                                          19
+
+[[PDF p. 20]]
+problemas que revisamos anteriormente, como por ejemplo la debilidad de las opciones electorales
+(que lleva a que las opciones en las elecciones legislativas y ejecutivas se anulen mutuamente)
+evidencian que el presidencialismo empobrece la igualdad política. La alta exposición a las presiones
+corporativas y a los grupos de interés fortalece esta conclusión, ya que implican legitimar un acceso
+mucho mayor a las decisiones por parte de quienes disponen de mayor capacidad de presión.
+       Respecto del tercer requerimiento igualitario (un clima de respeto de los derechos), el
+presidencialismo tampoco resulta la mejor opción. Los elementos autoritarios del presidencialismo
+contribuyen a explicar el fenómeno de las “democracias antiliberales”:65 en América Latina se observa
+una tendencia al deterioro de los derechos individuales, la libertad de expresión, las garantías
+judiciales, y, muy especialmente, de los derechos socio-económicos, amenazados por la mayor
+desigualdad del planeta. América Latina necesita reformas estructurales para corregir enormes
+desigualdades estructurales de tipo político, social, económico. Desde esta perspectiva el
+presidencialismo es problemático por al menos dos razones. En primer lugar, porque este sistema hace
+más difíciles los cambios. En los sistemas presidencialistas existe una probabilidad mucho mayor de un
+gobierno minoritario que la que existe bajo los sistemas parlamentarios (el doble, más precisamente). 66
+En estas situaciones, en las que el presidente y el legislador pivotal están distanciados políticamente, se
+producen bloqueos que impiden, dificultan, encarecen, o demoran las reformas del status quo. En
+segundo lugar, estos bloqueos generan frecuentemente inestabilidad política, y consiguientemente crisis
+políticas y sociales. Se encuentra abundantemente demostrado que las crisis golpean más duramente a
+los sectores más desaventajados. De modo que resulta al menos plausible vincular al presidencialismo
+con la perpetuación de la desigualdad social y económica.
+       El presidencialismo es inaceptable desde una concepción democrática del gobierno, porque
+colisiona con algunos requerimientos de una teoría de la democracia de manera frontal (la
+personalización del poder, la distorsión de preferencias, la baja calidad deliberativa, la inestabilidad
+política, el deterioro de los derechos). Pero existen formas más indirectas en que el presidencialismo
+puede resultar antidemocrático, ya que requiere para funcionar eficazmente (es decir, para evitar
+parálisis y bloqueos) de factores que son cuestionables desde una perspectiva democrática, como
+sistemas electorales no proporcionales, y, tal vez, intolerablemente amplias delegaciones de facultades
+
+
+64
+   Ackerman, op. cit., p. 650.
+65
+   Ver Peter H. Smith, Democracy in Latin America, Oxford, 2005.
+66
+   Samuels & Eaton, p. 10.
+
+                                                                                                           20
+
+[[PDF p. 21]]
+legislativas al ejecutivo. Es en este punto que la teoría de la democracia nos provee razones adicionales
+para rechazar el presidencialismo, al marcarnos que ciertos ajustes que harían al sistema más eficaz y
+fluido, lo harían aun más antidemocrático. Por un lado, nos veda una de las recetas para resolver las
+deficiencias del presidencialismo, la de fortalecer aún más el poder legislativo de los presidentes. Por el
+otro, nos resalta la importancia de ciertos componentes del sistema político, pero que son difícilmente
+compatibles con el presidencialismo:
+        i. ¿Más poder a los presidentes?
+        Una de las tentaciones frente a la tendencia presidencialista a los bloqueos entre los poderes es
+la de resolver las tensiones entre presidentes y parlamentos a favor de los ejecutivos, otorgándoles
+mayores poderes legislativos, (al estilo de la Constitución brasileña reformada) sea a través de facilitar
+la delegación legislativa al presidente, o fortalecer sus poderes de veto, o reconociéndole la capacidad
+de dictar decretos con fuerza de ley. Esta salida resulta inaceptable desde una perspectiva democrática,
+porque implica debilitar aun más el rol de los parlamentos, y acentuar la concentración de poderes.
+        ii. ¿Menos proporcionalidad electoral?
+        He aquí una muestra de la incompatibilidad indirecta entre presidencialismo y democracia.67
+Para que el sistema presidencialista funcione eficazmente el régimen electoral debería ser del tipo
+“winner takes all”, ya que el sistema proporcional tiende a crear múltiples partidos (hay algunas
+excepciones). La idea es que la fragmentación partidaria, fruto de la representación proporcional, hace
+más difícil que exista un partido que controle el Congreso, agudizando el riesgo de gobiernos de
+minoría y las crisis políticas. Por el contrario, sistemas electorales como el uninominal favorecen la
+existencia de dos partidos, con exclusión de otras perspectivas políticas, y por lo tanto, son los únicos
+compatibles con el presidencialismo. Pero la democracia requiere, como cuestión de principios, un
+sistema proporcional. Esto se adecua a la exigencia de amplitud en la representación de perspectivas
+políticas, y disminuye la tendencia a los discursos y plataformas políticos excesivamente ambiguas que
+apuntan a seducir a todas las opiniones. (que luego vuelven casi inevitables los giros abruptos una vez
+alcanzado el gobierno).68
+
+
+
+67
+  Cfr. Ackerman, “The New Separation…” p. 655.
+68
+  La dificultad que le plantea el sistema electoral proporcional al presidencialismo no es solamente normativa.
+Más allá del argumento principista, es un hecho que la abolición del sistema proporcional es extremadamente
+difícil, porque usualmente exige el consentimiento de los mismos actores que con seguridad habrán de
+desparecer del mapa como resultado de la reforma.
+
+                                                                                                                  21
+
+[[PDF p. 22]]
+      5. ¿Semi-presidencialismo?
+      Dados estos cuestionamientos de tipo instrumental como de principio, es hora de cuestionarse si el
+semi-presidencialismo (por ejemplo, al estilo francés) es una alternativa prometedora al
+presidencialismo. Existe una vieja sospecha de que este sistema alberga un potencial de conflictos, y
+que si en el caso de Francia estos riesgos no han derivado en crisis serias de gobernabilidad ha sido
+gracias a las virtudes de su élite política.69 Pero no existen muchos fundamentos para confiar que, en el
+contexto de la cultura política latinoamericana, los límites borrosos entre los poderes que
+eventualmente hayan de “cohabitar” vayan a ser consensuados civilizadamente.
+      Tal vez el problema del deslinde de competencias entre un presidente y un primer ministro que “co-
+habitan” pueda ser sorteado con una buena técnica de redacción constitucional, como lo sugirió el
+Consejo para la Consolidación de la Democracia en la Argentina.70 Pero resta otro problema, a mi
+juicio insalvable. Cuando el sistema mixto funciona con un Presidente con mayorías en el Congreso,
+los riesgos de autoritarismo, caudillismo y hegemonía salen a relucir con la misma fuerza que en los
+sistemas presidencialistas puros. La democracia requiere modos colectivos de deliberación y decisión
+que son incompatibles con los presidentes-monarcas. Cuando en los sistemas mixtos el presidente
+dispone de mayorías parlamentarias, la democracia tiembla.
+      Si los sistemas mixtos resuelven (arguendo) los problemas de parálisis cuando los presidentes
+pierden popularidad, ellos dejan intacto el autoritarismo que acompaña a los presidentes con respaldo
+parlamentario. Mi impresión es que en los momentos en que en el sistema semi-presidencialista el
+presidente dispone de mayoría en el Congreso, quedan en pie los problemas que nos preocupaban
+antes, en particular el riesgo de excesiva personalización del poder y la baja calidad del diálogo
+público.
+      La clave de la reforma de los sistemas de gobierno presidencialistas estriba en correr el centro de
+poder de los ejecutivos a los parlamentos, y hacerlo de manera permanente, no solamente en tiempos de
+crisis. La parlamentarización no debería ser una terapia desesperada, ni un mal menor frente a los
+bloqueos inter-poderes, sino un cambio duradero y estable de nuestras sociedades políticas.
+
+
+      6. La academia y el presidencialismo.
+
+
+
+69
+     Ver, por ejemplo, Ackerman, p. 648.
+70
+     Dictamen sobre la Reforma Constitucional, Buenos Aires, Eudeba, 1988.
+
+                                                                                                            22
+
+[[PDF p. 23]]
+     Si el presidencialismo es indefendible, ¿por qué, entonces, estamos abandonando la idea de
+reformar los sistemas políticos? Un argumento general sería que la consolidación democrática requiere
+abandonar la confianza ciega en las reformas constitucionales: los cientos de enmiendas
+constitucionales y nuevas constituciones que muestra la historia de América Latina71 son una razón
+para pensar que dado un mínimo umbral de decencia de las constituciones vigentes, debemos
+cumplirlas antes de pensar en reformarlas. Una segunda razón para abandonar la crítica frontal al
+presidencialismo es la tal vez nula probabilidad de un cambio radical de sistema. ¿Por qué navegar
+contra la corriente?
+     Pero si las críticas principistas contra el presidencialismo son acertadas, la prédica contra el
+presidencialismo es un requerimiento democrático, no una mera disquisición técnica. Es posible que
+una reforma constitucional que termine con el presidencialismo sea una quimera. Pero si nos
+detenemos a pensar por qué es esto, encontraremos que no se trata solamente de que los intereses
+políticos que se verían afectados por la reforma tienen un poder de veto sobre la misma. Parte de la
+dificultad estriba en la indiferencia de las sociedades y de las elites políticas y académicas respecto de
+las deficiencias estructurales del sistema presidencialista.
+        Las reformas constitucionales no son baratas, en ningún sentido. Y estoy abierto a aceptar la
+conclusión de que, luego de analizar los pros y contras, la mejor decisión colectiva sea la de hacer las
+cosas lo mejor posible con las reglas que tenemos, y poner fin por un buen tiempo a la práctica de
+refundar nuestras instituciones. Pero al menos, cuando analicemos los pros y contras, tengamos en
+cuenta que el presidencialismo degrada a la democracia, que promueve una deliberación pública
+distorsionada y frecuentemente irracional, genera crisis periódicas que empeoran las condiciones de
+vida de los sectores postergados, incentiva las traiciones electorales, nos desprotege frente a la
+corrupción, y amplifica las presiones corporativas.
+     Por cierto, es posible que estemos llegando al punto en que la estructura institucional ha sido
+internalizada por todos los actores relevantes, incluyendo a los académicos. Tal vez ya nos resulte
+imposible pensar fuera de la dinámica y los términos del presidencialismo. Pero si algún valor tiene la
+actividad académica en la región, parte del mismo reside en resistir ese tipo de endogeneidad. Nuestra
+
+
+
+71
+  Keith Rosenn, “The Success of Constitutionalism in the United States and its Failure in Latin America: An
+Explanation,” University of Miami Inter-American Law Review 22, no.1, 1990.
+
+
+
+                                                                                                              23
+
+[[PDF p. 24]]
+visión del derecho y las instituciones debe ser transformativa y crítica. Nuestro rol es incomodar y
+cuestionar, no racionalizar las prácticas asentadas.
+
+
+   7. Algunas objeciones.72
+7.1. Otra forma de mesianismo
+Uno de los problemas del presidencialismo, como vimos, es que tiende a reforzar los rasgos
+personalistas que caracterizan a nuestras sociedades. El caudillismo es un obstáculo para el progreso, el
+desarrollo y la cohesión social. Una de sus notas es la pretensión de la refundación permanente de la
+historia. El caudillo reclama para sí el poder de ignorar cualquier restricción a su voluntad. Las
+instituciones, con su historia, su tradición, sus expectativas creadas, deben rendirse a sus designios.
+Una posible objeción a la tesis de este trabajo partiría de este mismo diagnóstico y plantearía que la
+propuesta de parlamentarización no es más que una variante del mesianismo latinoamericano. La
+propuesta, en otras palabras, reflejaría nuestra incapacidad para internalizar instituciones y nuestra
+tendencia a reinventar la historia de manera recurrente.
+       La objeción cuenta con la ventaja de que la propuesta parlamentarista transmite cierto aire de
+paradoja: Propone abandonar los riesgos de inestabilidad a través de una reforma constitucional, que de
+por sí implica tensión y riesgos de saltos al vacío. No veo otra forma de resolver esta probable paradoja
+que comparando los costos y beneficios del cambio versus el status quo. Ahora bien, es probable que
+solamente un tipo de reforma sea compatible con los fines sustantivos perseguidos por la
+parlamentarización, a saber una reforma ampliamente consensuada, y ejecutada a través de pasos
+previamente delimitados y prolongados en el tiempo. Por ejemplo, una comisión mixta del Congreso
+sería el ámbito de construcción de ese consenso. Esta comisión procedería recopilando información y
+opiniones acerca de los problemas constitucionales más graves, perfilando las alternativas con mayores
+respaldos y, finalmente, elaborando un proyecto de reforma.
+
+
+7.2. Esquematismo. La propuesta de parlamentarización, podría objetarse, cae en el error de considerar
+los sistemas de gobiernos como paquetes cerrados. De tal manera, de los paquetes cerrados en oferta, se
+nos fuerza a adoptar uno de ellos, con sus puntos débiles y fuertes. ¿No sería más inteligente desarmar
+los paquetes, y reconstruir un modelo constitucional propio, de acuerdo a nuestras necesidades y
+
+
+
+
+                                                                                                          24
+
+[[PDF p. 25]]
+condiciones? El resultado sería naturalmente un híbrido, y categorizarlo como parlamentarismo o semi-
+presidencialismo no tendría mayor importancia.73
+        Estoy de acuerdo en que no deberíamos perder tiempo en discutir etiquetas. En última instancia,
+mi divergencia parcial con las propuestas de sistemas mixtos se reduce a que en ellas no resulta claro lo
+que a mi juicio resulta el objetivo fundamental: que se corra el centro de gravedad político del ejecutivo
+al congreso.
+
+
+7.3. Bonapartismo. De acuerdo a esta objeción, el problema que enfrentamos es la representación
+política, no los sistemas políticos. Nuestras democracias ganarían en calidad, de acuerdo a esta crítica,
+si se redujera la distancia entre el estado y la ciudadanía, si nos acercásemos al ideal de democracia
+directa a través de mecanismos como el referéndum, el plebiscito, mandatos imperativos, más cortos, y
+revocables, la institucionalización de asambleas por barrios, etc. En particular, el parlamentarismo no
+exhibe garantía alguna contra la violación sistemática del ideal del autogobierno colectivo. Después de
+todo, los parlamentos son la sede de los acuerdos secretos y del reinado en la oscuridad de las cúpulas
+partidarias. Darle más poder a cuerpos como éstos, concluiría esta crítica, implicaría arriesgarnos a un
+sistema de gobierno aún más alejado de la sociedad.
+Este trabajo, efectivamente, presupone una visión escéptica de la democracia directa, y no solamente
+por razones de implementación. En otras palabras, me resisto a considerar a la representación un mal
+necesario. Bajo ciertas condiciones, la representación política provee imparcialidad e información, y
+por lo tanto supera en valor a la (imposible) democracia directa. Me temo que desde una perspectiva de
+la democracia centrada en el ideal de los derechos, la democracia directa no sea un sueño sino una
+pesadilla.
+
+
+     8. Conclusión.
+
+
+     En este trabajo reivindiqué la relevancia actual de la crítica al presidencialismo. Pese al relativo
+silencio que ha merecido el tema en los últimos años, el presidencialismo sigue siendo un problema
+
+
+73
+  Carlos Nino, Hyperpresidentialism and Constitutional Reform
+in Argentina, in Carlos Waisman and Arend Lijphart, Institutional
+Design in New Democracies, Perseus, 1994, pp. 161-174
+
+
+                                                                                                            25
+
+[[PDF p. 26]]
+clave de muchas de las democracias de América Latina. Las pruebas siguen acumulándose: el
+presidencialismo exacerba la inestabilidad, y fomenta situaciones de parálisis, debilita a las
+democracias para enfrentar la corrupción, incentiva los cambios abruptos de programas de gobierno,
+favorece las tendencias corporativistas y la desigualdad.
+   La democracia constitucional promete autogobierno, pero el presidencialismo sólo nos da
+imposición o parálisis. La democracia ofrece diálogo, pero el presidencialismo nos condena a la
+hipocresía de mandatos vulnerados y al monólogo de presidentes imperiales. La democracia propone
+igualdad de derechos, pero el presidencialismo fomenta la cultura autoritaria, es ineficaz en la provisión
+de bienes públicos, y transcurre de crisis en crisis, lo que empobrece y debilita aún más a los sectores
+más desaventajados.
+   En términos de las discusiones del SELA, hay buenas razones para creer que el presidencialismo,
+como siempre se sospechó, produce violencia, amenaza el estado de derecho, violenta los derechos
+fundamentales y genera pobreza y desigualdad.
+   ¿Por qué deberíamos resignarnos a esta forma menor de democracia?
+
+
+
+
+                                                                                                           26

@@ -1,0 +1,9 @@
+# PDFs (originales, compendio y casebook compilado)
+*.pdf
+corpus/pdf/
+_build/
+*.docx
+.DS_Store
+__pycache__/
+*.pyc
+.claude/settings.local.json

@@ -1,0 +1,2906 @@
+# fuente: Unidad4/Gargarella_1996_La justicia frente al gobierno.pdf
+# md5_original: 295c0a022474d7f93e1cda1877b828be
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 35
+
+
+
+
+                La falta de legitimidad
+                democrática de la justicia:
+                fundamentos históricos
+
+
+
+
+                1. Notas de historia institucional
+                INTRODUCCIÓN
+                        n este apartado voy a examinar los orígenes del actual modelo de
+
+                E       revisión judicial de las leyes. En particular, mi estudio va a estar
+                        centrado en el caso de Estados Unidos (EE. UU.) en el siglo XVIII,
+                ya que fue allí, y en ese momento, cuando se sentaron las bases del vigen-
+                te sistema del control de constitucionalidad.
+                    Un primer punto que correspondería señalar al respecto es que el cre-
+                cimiento del poder de la justicia en EE. UU. fue paralelo al crecimiento
+                del poder e influencia de la ciudadanía sobre las legislaturas locales. En
+                este sentido, la cuestión judicial comenzó a concentrar la atención de la
+                clase dirigente norteamericana frente a un creciente temor ante las accio-
+                nes de las asambleas legislativas estatales. ¿Por qué se había generado este
+                temor? La respuesta, en muy breve síntesis, sería la siguiente: desde fines
+                del siglo XVIII, las legislaturas aparecieron como directas «poleas de
+                transmisión» de exigentes demandas de la ciudadanía. Más concretamen-
+                te, en muchos casos (y forzadas por circunstancias económicas agobian-
+                tes, según veremos) tales legislaturas se vieron obligadas a tomar medidas
+                económicas perjudiciales para los sectores más acomodados de la socie-
+                dad. Este tipo de reacciones legislativas resultaron inaceptables para
+                buena parte de la clase dirigente norteamericana, y dieron origen a los
+                mencionados temores contra las legislaturas. A continuación, y con el
+
+                                                                                         35
+
+[[PDF p. 2]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 36
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             solo fin de proveer de respaldo histórico a estas afirmaciones, voy a pre-
+             sentar un repaso más detallado de los hechos mencionados.
+
+
+             ACTIVISMO MAYORITARIO, «ASAMBLEAS COMUNALES»,
+             Y PRESIONES ANTE LAS LEGISLATURAS
+
+
+             A partir de la «Revolución norteamericana» (1776), las asambleas legisla-
+             tivas aparecieron estrechamente vinculadas a la voluntad de la ciudadanía.
+             Es cierto, de todos modos, que en aquellos tiempos buena parte de los
+             miembros de la comunidad estaban directamente excluidos de la partici-
+             pación política: mujeres, negros, esclavos, no formaban parte de la «ciu-
+             dadanía». Sin embargo, también es cierto que las cámaras de representan-
+             tes funcionaban como eficaz caja de resonancia de los más graves proble-
+             mas de la época. Una de las causas de este fenómeno es que dichas legis-
+             laturas aparecían permanentemente acosadas por organizaciones popula-
+             res relativamente eficientes y representativas.
+                 En particular, a fines del siglo XVIII y como práctica que permanecía
+             desde la época colonial, era muy habitual que los habitantes de cada
+             comuna se reunieran en las llamadas «town meetings» o «asambleas comu-
+             nales» a debatir los problemas que más directamente les afectaban. Y, a
+             pesar de restricciones participativas como las citadas, lo cierto era que
+             muchos de los habitantes de las comunas en cuestión tomaban parte en
+             las discusiones políticas más importantes, aun en contravención con las
+             restricciones formales existentes:3 todos se conocían y estos vínculos cara
+             a cara tendían a pesar más que cualquier otra limitación legal.
+                 En las mencionadas «asambleas comunales», la población se reunía a
+             deliberar sobre asuntos locales bajo la moderación de un funcionario
+             seleccionado al efecto.4 En general, aun los autores más críticos de estos
+
+             3    En cuanto al alto número de participantes de estas reuniones (que normalmente era de varios cen-
+                  tenares de personas) véase, por ejemplo, Hoerder, Dick. Crowd Action in Revolutionary
+                  Massachusetts. The Boston Committee of Correspondence and the Towns. 1772-1774. Harvard U.P.,
+                  1977, p. 323.
+             4    Pole, J. R. Political Representation in England and the Origins of the American Republic. Nueva
+                  York, 1966, p. 54. Véase, también, Bonomi, Patricia. A Factious People. Politics and Society in
+                  Colonial New York. Columbia U.P., 1971, pp. 26-39.
+
+             36
+
+[[PDF p. 3]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 37
+
+
+
+
+                                      La falta de legitimidad democrática de la justicia
+
+
+                mítines reconocen que los debates estaban bien organizados: se discutía
+                un cierto orden del día, se escuchaban una a una distintas posturas, y
+                luego se votaba procurando el consenso.5 Más tarde, comités ad hoc inte-
+                grados rotativamente por «ciudadanos comunes»6 trataban de llevar a la
+                práctica lo acordado en las asambleas.7
+                    El éxito de estas reuniones públicas llevó a que distintas comunas
+                comenzaran a coordinar sus encuentros en convenciones más abarcativas
+                («county conventions»),8 para así ejercer mayores presiones sobre las asam-
+                bleas legislativas de cada Estado. El resultado final de estas actividades
+                colectivas fue el siguiente: por un lado, comunas muy activas en el cono-
+                cimiento y defensa de sus intereses, y por otro, legislaturas permanente-
+                mente acosadas por críticas y demandas de sus representados.
+
+
+                LA CRISIS QUE SIGUIÓ A LA INDEPENDENCIA NORTEAMERICANA
+
+                Después de lograda la independencia en Estados Unidos las reclamacio-
+                nes a causa de mejoras económicas adquirieron una difusión extraordina-
+                ria. A lo largo de casi todo el territorio de la Unión, los pequeños campe-
+                sinos y, en general, los miembros más desaventajados de la sociedad
+                (todos exparticipantes en la lucha contra Inglaterra) se reunieron para
+                protestar en búsqueda de alivio para sus problemas. Sucedía que, después
+
+                5   Brown, Robert. Middle-Class Democracy and the Revolution in Massachusetts. Ithaca, 1955, p. 98.
+                    Entre los autores habitualmente críticos hacia los «town meetings», véase Warden, G. «Inequality
+                    and Instability in Eighteenth-Century Boston: A Reappraisal», p. 81, en Greene, Jack y Pauline
+                    Maier, eds. Interdisciplinary Studies of the American Revolution. B. Hills, 1976.
+                6   No era inusual, en estas votaciones, que la gente tachase algunos de los nombres propuestos, o
+                    incluyese otros no mencionados en las propuestas. Lovejoy, David. Rhode Island Politics and the
+                    American Revolution, 1760-1776. Brown U.P., 1958, p. 24.
+                7   Véase, por ejemplo, Lockridge, Kenneth y Alan Kreider. «The Evolution of Massachusetts Town
+                    Government, 1640 to 1740», WMQ, XXIII. 4 (octubre 1966): 556-562. También, Lockridge,
+                    Kenneth. A New England Town The First Hundred Years. Dedham, Massachusetts, 1636-1736.
+                    Nueva York, 1970. La diversidad de individuos que formaron parte de estos comités se debió,
+                    entre otras, a una razón muy sencilla: esos servicios no eran compensados pecuniariamente. En
+                    este sentido, véase Bridenbaugh, Carl. Cities in Revolt. Urban Life in America, 1743-1776. Nueva
+                    York, 1955, p. 6.
+                8   Brown, Robert. Revolutionary Politics in Massachusetts. Cambridge, Harvard U.P., 1970, p. 213.
+
+                                                                                                                 37
+
+[[PDF p. 4]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 38
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             de años de haber puesto sus (escasas) propiedades e incluso sus vidas en
+             juego por los intereses comunes, la independencia los encontraba ahora
+             más empobrecidos y endeudados que nunca. Para esa «clase de los deudo-
+             res» (así la voy a llamar desde ahora en adelante) la situación era inverosí-
+             mil: se los había incitado a participar en la guerra bajo promesas de una
+             gran prosperidad, y ahora veían que el resultado obtenido los dejaba peor
+             que en un comienzo. Por ejemplo, y en razón de las deudas adquiridas
+             durante la época bélica, muchos de ellos eran juzgados y llevados a la cár-
+             cel, mientras que a otros (en los casos en que ello era posible) se les arre-
+             bataban las pocas propiedades que tenían.
+                 Las razones de aquel endurecimiento económico no eran ignoradas
+             por nadie. Los grandes propietarios y mercaderes norteamericanos, obli-
+             gados a saldar sus cuentas con los ingleses, presionaron a sus propios
+             deudores (campesinos, pequeños propietarios, etc.), en búsqueda del
+             «efectivo» («moneda dura») que los ingleses les exigían a ellos.9 Este
+             modo de pago «efectivo» constituía toda una novedad en aquella época,
+             ya que los intercambios, por entonces, solían hacerse en «especie». La
+             cadena de reclamaciones, por tanto, siguió el siguiente orden: los ingle-
+             ses demandaban sus pagos a los comerciantes americanos, y estos, care-
+             ciendo de efectivo suficiente, cargaban sobre sus propios deudores, los
+             cuales, para cumplir con su parte, se veían obligados a desprenderse de
+             sus pocos bienes, para no enfrentarse directamente con la posibilidad de
+             perder su libertad.10
+                 Reconociéndose como los más castigados durante la guerra, y también
+             después de ella, los endeudados campesinos decidieron movilizarse en
+             busca de algún remedio a su situación. En ningún caso, sin embargo,
+             pidieron la anulación o el perdón de sus deudas. Solo querían evitar la
+
+             9  La situación, claramente, también era difícil para estos mercaderes norteamericanos, Por una
+                parte, sus pares ingleses les denegaban nuevos créditos; por otra, Inglaterra les clausuraba rutas
+                comerciales que antes les autorizaba usar. Finalmente, se presentaba esta nueva exigencia de pago
+                de deudas en «moneda dura».
+             10 Véase, por ejemplo, Walker, Francis. The Making of Nation 1783-1817. Nueva York, 1912, cap.
+                1; también McDonald, Forrest. E Pluribus Unum. The Formation of the American Republic 1776-
+                1790. Cambridge, 1965, cap. 5; Bolles, Albert. The Financial History of the United Status from
+                1774 to 1789. Nueva York, 1969.
+
+
+             38
+
+[[PDF p. 5]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 39
+
+
+
+
+                                       La falta de legitimidad democrática de la justicia
+
+
+                obligación de pagar en efectivo, ya que carecían de «moneda dura» y no
+                estaban dispuestos a seguir vendiendo bienes para encontrarla.11
+
+
+                ACTIVISMO SOBRE EL LEGISLATIVO, Y PRIMEROS
+                ENFRENTAMIENTOS CON LA JUSTICIA
+
+
+                A mediados de la década 1780-1790 (década considerada el «período crí-
+                tico» de la historia norteamericana),12 las presiones sobre la clase de los
+                deudores se mostraron particularmente intensas. Y no es de extrañar que
+                fuera entonces cuando se produjeron los primeros enfrentamientos entre
+                la ciudadanía y la justicia. Para dar algún ejemplo de lo que ocurría, solo
+                en el condado de Hampshire (entre 1784 y 1786), 2 977 pequeños pro-
+                pietarios fueron llevados a juicio por sus acreedores (lo cual representó un
+                incremento de mucho más de un 200 por ciento en los juicios promovi-
+                dos en un período similar, entre 1770 y 1772). Aún peor, en Worcester,
+                solo durante 1785, se presentaron 4 000 casos de enjuiciamiento.
+                    Frente al «acoso» judicial y político que sentían, la primera medida
+                tomada por los deudores fue la de reunirse en asambleas locales para
+                redactar petitorios y presentarlos ante sus respectivas legislaturas.13 Los
+                petitorios constituían un medio habitual de presión sobre los legisladores
+                y, en ese caso, lo que se reclamaba tampoco era nuevo, emisiones de papel
+                moneda de curso forzoso, como medio de resolver la extendida ausencia
+
+                11 Peor aún, justamente debido a la falla de moneda dura resultaba más difícil el lograr la venta de
+                   tales bienes. Este tipo de situaciones aparecen descritas, por ejemplo, en Onuf, Peter. The Origins
+                   of the Federal Republic. U. of Pennsylvania Press, 1983, p. 177; y en McLaughlin, Andrew. The
+                   Confederation and the Constitution. Nueva York, 1962, p. 166.
+                12 Así, típicamente, desde el trabajo de Fiske, John. The Critical Period of American History.
+                   Cambridge, Mass., C.U.P., 1916.
+                13 Según S. Patterson, «[la] economía unió a los demócratas en los reclamos a favor de papel mone-
+                   da, en la petición de pensiones para exoficiales de guerra, en cómo las Cortes debían tratar a los
+                   deudores y en el nivel de impuestos que debían imponerse. Todas estas cuestiones fueron discu-
+                   tidas en asambleas, directamente por la misma ciudadanía». Véase Hoffman, R. y P. J. Albert, eds.
+                   «The Roots of Massachussets Federalism», en Sovereign Status in an Age of Uncertainty, or U.S.
+                   Capitol Historical Society, University Press of Virginia, 1981. También se sostuvo que aparecie-
+                   ron «grupos extralegales y convenciones populares llevando adelante acciones por propia iniciati-
+                   va. [Hacia] 1780 parecía como si las masas hubiesen tomado a su cargo las funciones del gobier-
+                   no estatal», Word, Gordon. William and Mary Quarterly. XXIII. 4 (octubre de 1966): 640.
+
+                                                                                                                   39
+
+[[PDF p. 6]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 40
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             de metálico. Este tipo de emisiones, muy propias de aquellos años revolu-
+             cionarios, prometían una solución rápida al problema del endeudamiento
+             generalizado y, sobre todo, el fin de los dramáticos enjuiciamientos.
+                 Sin embargo, como era de prever, los acreedores se resistieron ante
+             nuevas emisiones de papel, por lo cual las deudas y los consiguientes jui-
+             cios siguieron en aumento. Fue esa actitud de los acreedores en general, y
+             de los legisladores estatales en particular, la que determinó el estallido de
+             la crisis: cansados de protestar sin respuesta frente a las legislaturas, los
+             deudores procedieron a rebelarse frente a los jueces.
+                 Siguiendo una práctica en la que se habían iniciado en los tiempos de
+             la Revolución, los deudores comenzaron a obstaculizar la reunión de las
+             Cortes de justicia, obligando a los jueces a suspender sus convocatorias.
+             Este movimiento antijudicial se propagó de inmediato por los distintos
+             Estados, ya que eran numerosos los deudores en idéntica situación.
+             Samuel Ely encabezó uno de estos levantamientos en Northampton. Otro
+             líder campesino, L. Day, continuó el ejemplo del anterior reuniendo un
+             ejército de 1 500 personas. Otros intentos similares se produjeron, más
+             tarde, en Taunton, Concord y Great Barrington. De todos modos, ningu-
+             na de estas rebeliones antijudiciajes tuvo tanta trascendencia como la
+             organizada por Daniel Shays, en Springfield.14 Esta rebelión (que no era
+             la primera encabezada por Shays) provocó una particular conmoción,
+             dado que en Springfield se encontraba el principal arsenal norteamerica-
+             no. La situación llevó a que se convocasen las tropas nacionales que, enca-
+             bezadas por el general B. Lincoln, pudieron dispersar sin mayores proble-
+             mas a los rebeldes.15
+
+
+             14 Véase, por ejemplo, Mros, Richard. «Shays’ Rebellion in Taunton», y Szatmar, David. «Shays’
+                Rebellion in Springfield», incluidos ambos en Kaufman, Martin, ed. Shays’ Rebellion: Selected
+                Essays. Westfield State College, 1987. Según el general Knox, en sus reclamaciones pro deudores.
+                Shays expresaba la convicción de que «la propiedad en Estados Unidos [había sido] protegida con-
+                tra las confiscaciones británicas con esfuerzo de todos, y que por lo tanto, ahora, la propiedad
+                [debía] ser compartida por todos». Véase Callahan, North y Henry Knox. Genrela Washington’s
+                General. Nueva York, 1858; Sparks, J., ed. Correspondence of the American Revolution. Boston,
+                1853; Young, Alfred. The Democratic Republicans of New York. The Origins. The U. of N. Carolina
+                Press, 1967, cap. 3.
+             15 Véase, por ejemplo, Walker, Francis. The Making of a Nation 1783-1817. Nueva York, 1912 cap. 1;
+                Morgan, Edmund. The Birth of the Republic. 1763-1789. The U. of Chicago Press, 1977, cap. 9.
+
+             40
+
+[[PDF p. 7]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 41
+
+
+
+
+                                      La falta de legitimidad democrática de la justicia
+
+
+                NACIMIENTO DEL TEMOR AL DESPOTISMO LEGISLATIVO
+
+                Como hemos dicho anteriormente, los enfrentamientos que Shays llevó a
+                su punto más álgido pudieron ser prontamente dispersados. Sin embargo,
+                las consecuencias de los mismos pervivieron durante años. La primera y
+                más importante de dichas consecuencias tuvo que ver con la actitud de
+                muchas legislaturas locales, que vieron la necesidad de satisfacer de algún
+                modo a la clase deudora, a fin de evitar nuevos levantamientos populares.
+                En cualquier comarca podían ocurrir cosas como las de Springfield. De
+                ahí que, rectificando iniciales tendencias, una tras otra las distintas legis-
+                laturas estatales comenzaron a emitir papel moneda, respondiendo así a la
+                principal demanda de los deudores.
+                    El primer estado en llevar adelante estas nuevas emisiones fue
+                Pennsylvania, al que le siguieron Carolina del Sur, Nueva York, Carolina
+                del Norte, Georgia, Nueva Jersey y Rhode Island.16 En este sentido, el
+                caso más destacado fue el de Rhode Island, donde el amplio grupo de los
+                deudores llegó directamente a controlar el gobierno del Estado. En efec-
+                to, en 1786 los deudores eligieron a Jonathan Hazard (quien actuaba
+                como su principal portavoz) como gobernador de Rhode Island. Su pro-
+                grama de gobierno consistía casi íntegramente en medidas tendentes a ali-
+                viar los problemas de la deuda, que comenzaron a ser aplicadas tan pron-
+                to como Hazard accedió al poder. En Rhode Island, no solo se emitió
+                moneda, sino que se dispusieron multas para aquellos que se negasen a
+                aceptar dicho circulante. Más aún, se estableció que los jueces debían con-
+                vocar públicamente a los acreedores que se negasen a recibir la nueva
+                moneda, y dar las obligaciones por canceladas, en caso de que aquellos
+                persistiesen en su negativa.
+                    Medidas como las citadas sorprendieron a buena parte de los políticos,
+                mercaderes y grandes propietarios norteamericanos, acostumbrados a tra-
+                tar con legislaturas relativamente pasivas y disciplinadas. Por primera vez
+                se percibía una grave fisura en el esquema de gobierno vigente a nivel
+
+                16 Véase, por ejemplo, Hoffman, R. et al., eds. The Economy of Early America. The Revolutionary
+                   Period, 1763-1790. U.P. of Virginia, 1988. Sobre la emisión de papel moneda en Maryland,
+                   North Carolina y Virginia véase, por ejemplo, Chesapeake Politics, 1781-1800. Columbia U.P.,
+                   1978, cap. 4.
+
+
+                                                                                                            41
+
+[[PDF p. 8]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 42
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             local. Esta sorpresa sería la base de futuros y definitivos avances contra el
+             poder de dichas legislaturas estatales.
+
+
+             EL PASO HACIA UNA VISIÓN CONTRAMAYORITARIA DE LA POLÍTICA:
+             REACCIÓN CONTRA LAS ASAMBLEAS LEGISLATIVAS
+
+
+             Para la tradicional clase dirigente norteamericana, situaciones como las
+             descritas constituyeron una afrenta inaceptable, posiblemente peor que la
+             representada por los mismos levantamientos armados a los que hice refe-
+             rencia. Sucedía que, en ese caso, los deudores conseguían sus objetivos
+             avalados por medios legítimos: ahora era la Legislatura la que suscribía
+             tales reclamaciones.
+                 La opinión de los historiadores sobre este tema parece ser unánime.
+             Conforme a G. Wood, la preocupación mayor provenía de que «era la
+             fuerza de la misma ley de los estados, y no la anarquía o la ausencia de
+             leyes, lo que estaba afectando a las nuevas repúblicas».17 Por su parte, M.
+             Jensen sostuvo que «el éxito del movimiento [en pro del papel moneda]
+             en la mayoría de los estados, y su amenaza latente en otros, creó mucho
+             más temor, en los sectores conservadores, que cualquier otro hecho ocu-
+             rrido en el tiempo de la Confederación».18 Según S. Patterson, a media-
+             dos de la década 1780-1790 había una total conexión entre la voluntad
+             de las asambleas populares y los votos de las asambleas legislativas, lo cual
+             constituía una temible novedad para la clase dirigente de entonces.19
+
+
+             17 Estas afirmaciones pertenecen a Gordon Word, el más notable de los historiadores que investiga-
+                ron ese período. Véase The Creation of the American Republic, 1776-1787. Nueva York, 1969, pp.
+                405-406. Según él, «la voluntad de la ciudadanía, tal como era expresada en las legislaturas por
+                los representantes del pueblo, y que había sido objeto de tanta confianza a través del período colo-
+                nial, repentinamente comenzaba a aparecer como caprichosa y arbitraria». Para una excelente dis-
+                cusión de las tesis de Word, véase «The Creation of the American Republic, 1776-1787: A
+                Symposium of Views and Reviews», William and Mary Quarterly. XLIV. 3 (julio de 1987).
+             18 Jensen, Merrill. The New Nation. A History of the United States During the Confederation 1781-
+                1789. Nueva York, A. Knopf, 1967, p. 313.
+             19 Patterson, S. «The Roots of Massachussets Federalism», en Hoffman, R. y P. J. Albert, eds.
+                Sovereign Status in an Age of Uncertainty. U.S. Capitol Historical Society, University Press of
+                Virginia, 1981, pp. 49-50.
+
+             42
+
+[[PDF p. 9]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 43
+
+
+
+
+                                       La falta de legitimidad democrática de la justicia
+
+
+                    Viendo lo que ocurría a nivel estatal con las diversas legislaturas, el
+                notable político Alexander Hamilton denunció la «usurpación» del poder
+                de la Legislatura, y previno a sus pares ante la posibilidad de ver a los
+                representantes populares constituidos en «dictadores perpetuos».20 En
+                sentido similar, aseguró estar siendo testigo del «despotismo de la
+                Legislatura».21 lo cual le confirmaba que «no había tiranía más opresiva»
+                que aquella emanada de «una mayoría victoriosa».22 George Washington,
+                por su parte, percibió «prejuicios» en las mencionadas actitudes de la
+                Legislatura, así como «unos celos irracionales e intereses locales».23 En una
+                significativa declaración, Theodore Sidgwick (uno de los intelectuales
+                más importantes del conservadurismo en dicho período) afirmó que «el
+                partido que ahora controla ambas Cámaras de la legislatura, dominado
+                por un frenético espíritu republicano, está intentando alcanzar, a través de
+                la legislación, los mismos objetivos que el pasado invierno procuraba
+                alcanzar por las armas».24 Las legislaturas fueron entonces asociadas a «un
+                decaimiento general, y pérdidas en las virtudes sociales»,25 y su poder
+                democrático juzgado como un «instrumento de tiranía y opresión».26
+
+
+
+
+                20 Hamilton, Alexander. «Second Letter from Phocion», abril de 1784, incluida en The Papers of
+                   Alexander Hamilton. Columbia U.P., 1962, III: 551. Haciendo referencia al gobierno entonces
+                   presente en Nueva York, afirmó que «la verdad es que, actualmente, el estado se encuentra gober-
+                   nado por un par de aventureros de Nueva Inglaterra [que están tratando] de subvertir la
+                   Constitución y destruir los derechos de la propiedad privada; y, si no fuera por los esfuerzos del
+                   Consejo de Revisión, tales actos habrían alcanzado sus más serios efectos». Véase «Hamilton to
+                   Robert Livingston», 25 de abril de 1785, en The Papers of Alexander Hamilton, III: 609.
+                21 «Hamilton to Livingston», 25 de abril de 1785, en The Papers of Alexander Hamilton, III: 605.
+                22 Véase esta opinión en Miller, John. «Hamilton: Democracy and Monarchy», en Cooke, Jacob, ed.
+                   Alexander Hamilton. A Profile. Nueva York, 1967, p. 158.
+                23 «George Washington to J. Madison», 5 de noviembre de 1786, The Papers of James Madison.
+                   Rutland, Robert y W. Rachal. eds. U. of Chicago Press, 1975, 9: 161-162.
+                24 Sobre esta opinión, y otros ejemplos igualmente ilustrativos del pensamiento conservador de la
+                   época, véase el interesante artículo de East, Robert. «The Massachusetts Conservatives in the
+                   Critical Period», p. 378, incluido en Morris, Richard, ed. The Era of the American Republic.
+                   Columbia U.P. 1971.
+                25 New Jersey Gazette, 17 de marzo de 1779.
+                26 Véase Polishook, Irwin. 1774-1795 Rhode Island and the Union. Evanston, Northwestern U.P.,
+                   1969, p. 132.
+
+                                                                                                                  43
+
+[[PDF p. 10]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 44
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             2. La filosofía dominante en los orígenes del sistema representativo
+
+             HACIA UNA TEORÍA DEL COMPORTAMIENTO MAYORITARIO
+
+             Las reacciones expresadas por la clase dirigente norteamericana frente a la
+             particular coyuntura de 1780-1786 fueron traduciéndose poco a poco en
+             una concepción más definida y articulada acerca de cómo funcionaba y
+             cómo debía funcionar la política. Esta concepción combinó observacio-
+             nes de sentido común con principios más filosóficos, que resultaron ser
+             compartidos, a grandes rasgos, por la generalidad de los dirigentes norte-
+             americanos (lo cual resulta especialmente relevante, dado que se trataba
+             de un momento en el que dicha clase dirigente comenzaba a pensar en
+             cómo organizar la sociedad con miras al futuro).
+                 El razonamiento más habitual, entre la clase dirigente entonces en el
+             poder, partió de premisas descriptivas para concluir en estrictas afirmacio-
+             nes normativas. Así, en general, se partió de la idea de que las asambleas
+             legislativas habían actuado con inaceptable imprudencia, y se llegó a sos-
+             tener que las mismas habitualmente actuaban así, y que por ello debían
+             ser limitadas. Para llegar a esta conclusión, se tomaron en cuenta también
+             consideraciones como las siguientes:
+
+                 A) La convicción de que en política existían pocos «principios verda-
+             deros», que no podían ser percibidos por la «ciudadanía común».
+             En materia de «verdades políticas», los dirigentes norteamericanos siguie-
+             ron el pensamiento elaborado por Locke respecto de las «verdades prima-
+             rias». En este sentido, Locke afirmaba que existían algunas «verdades pri-
+             marias» en torno a los derechos naturales, y que tales verdades, aunque
+             «autoevidentes», no podían ser igualmente percibidas por todos. Para
+             Locke, la mayoría del pueblo se encontraba incapacitada para detectar
+             tales principios autoevidentes, debido a factores de muy diverso tipo (que
+             iban desde la carencia de tiempo para reflexionar, hasta la falta de capaci-
+             dad de razonamiento).27 Del mismo modo, los dirigentes norteamericanos
+
+             27 Analizando a Locke y su influencia en el pensamiento de la clase dirigente norteamericana, véase
+                White, Morton. Philosophy, The Federalist, and the Constitution. Oxford U.P., 1987.
+
+
+             44
+
+[[PDF p. 11]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 45
+
+
+
+
+                                       La falta de legitimidad democrática de la justicia
+
+
+                sostuvieron que en política también existían ciertas verdades, vinculadas
+                con los «reales intereses de la nación», que no podían ser conocidas por
+                todos.
+                    En el texto político más importante de los escritos en aquellos años, El
+                Federalista, Hamilton expuso dicha concepción «lockeana» al menos dos
+                veces. Así, en El Federalista, n.° 17, Hamilton recurrió a la idea de los prin-
+                cipios autoevidentes para referirse a los beneficios que podían derivarse del
+                adoptar un gobierno nacional. Mientras tanto, en El Federalista, n.° 31 se
+                refirió a tales principios para defender la necesidad de un poder nacional
+                capaz de establecer impuestos. Estas afirmaciones se complementaron
+                siempre con la idea de que un individuo cualquiera no podía llegar a com-
+                prender aquellas verdades primarias. Más aún, la idea era que la mayoría
+                de la población encontraba dificultades para apreciar los reales intereses del
+                país. Así, siguiendo al pie de la letra el razonamiento de Locke, Hamilton
+                sostuvo que «en las disertaciones de cualquier índole hay ciertas verdades
+                primarias, o primeros principios, sobre los cuales se apoyan todos los razo-
+                namientos que han de seguir. Estos principios contienen una evidencia
+                interna, que es anterior a toda reflexión o razonamiento, y que se impone
+                al asentimiento de nuestro entendimiento. Donde no se produce ese efec-
+                to es porque existe algún desorden o defecto de los órganos perceptivos, o
+                la influencia de algún interés, pasión o prejuicio».28
+                    B) La convicción de que las mayorías tendían a actuar irracionalmente.
+                La clase dirigente norteamericana, paulatinamente, comenzó a elaborar
+                razones más profundas en apoyo de sus críticas hacia las asambleas popu-
+                lares. La idea ya no era que las emisiones de papel moneda habían sido
+                medidas erróneas, sino, más precisamente, que las mayorías tendían a
+                actuar incorrectamente y a dejarse guiar por las pasiones en vez de por la
+                razón. En el pensamiento de Hamilton se encuentran las bases de estos
+                criterios. Antes que nada, se afirmaba la existencia de una propensión
+                estructural, en toda organización colectiva, hacia la irracionalidad.
+                Ello debido a las múltiples «opiniones, sentimientos e intereses que la
+
+                28 El Federalista, n.° 31. México, Fondo de Cultura Económica, 1957. También, véase White,
+                   Morton. The Philosophy of the American Revolution. p. 217. Madison estaba guiado por criterios
+                   similares, asumiendo que cierto tipo de leyes (van dictadas por las defectuosas asambleas estata-
+                   les) eran «contrarias a los primeros principios del contrato social, y todo principio adecuado de
+                   legislación» (El Federalista, n.° 44).
+
+
+                                                                                                                 45
+
+[[PDF p. 12]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 46
+
+
+
+
+                                                      Roberto Gargarella
+
+
+             perturban y desvían» (El Federalista, n.° 76). Esto es, la presencia de un
+             mayor número de participantes, en una discusión, era asumida como
+             un factor de empobrecimiento (y no, como bien podría pensarse, de
+             enriquecimiento) de tales debates. Madison, tal vez el teórico político
+             más importante de la época, propuso una formulación más poderosa
+             de aquella misma regla. Para él, «cuanto mayor es el número de los
+             integrantes de una asamblea, cualquiera sea el carácter de los mismos,
+             mayor es el predominio de la pasión sobre la razón. Luego, cuanto
+             mayor es el número, mayor será la proporción de miembros con infor-
+             mación limitada y débiles capacidades».29
+                 Los argumentos que vinieron a apoyar tales puntos de vista fueron
+             variados. Así, se sostuvo que las mayorías tenían una propensión a dejar-
+             se seducir por «demagogos» y «politiqueros». Se adujo también que las
+             grandes asambleas tendían a concentrar su atención en ventajas inmedia-
+             tas y de corto plazo. Y, sobre todo, se sostuvo que las mayorías de cada
+             Estado se dejaban llevar por intereses locales y parciales, que poco tenían
+             en común con los grandes intereses de la nación (que eran los que, en
+             definitiva, debían ser resguardados), que solo algunos individuos especial-
+             mente virtuosos podían conocer y proteger adecuadamente.30 Este tipo de
+
+             29 El Federalista, n.° 58. Del mismo modo, en El Federalista, n.° 55 señaló que «en toda asamblea
+                numerosa, cualquiera que sea el carácter de quienes la integren, la pasión jamás deja de dañar el
+                cetro de la razón».
+             30 Las declaraciones de este tipo en la clase dirigente norteamericana son interminables, sobre todo
+                dentro del contexto de la Convención Constituyente. Se habló entonces de lo indeseable de las
+                «partes democráticas de las Constituciones» (Randolph, en Farrand, I: 27; de la «irresistible» ten-
+                dencia autoritaria de la Cámara Baja» (El Federalista, n.° 71); de la «insensibilidad de carácter pro-
+                ducida por los grandes números» (Ghorum, en Farrand, The Records of the Federal Convention of
+                1787, 2: 42); la tendencia a la «precipitación, maleabilidad, y excesos» de la Cámara Baja
+                (Governour Morris, en Farrand, The Records of the Federal Convention of 1787, 1: 512); y, al
+                mismo tiempo, de «la firmeza e independencia» que iban a caracterizar al Senado y al Ejecutivo;
+                del hecho que «una sola persona» (el presidente) evitaría las animosidades propias de la legislatu-
+                ra (Wilson, en Farrand, The Records of the Federal Convention of 1787, 1: 119); o que «si se [nom-
+                braba] a un solo hombre, éste se[ría] responsable del conjunto, e imparcial frente a los intereses
+                de todos» (Rutler, en Farrand, The Records of the Federal Convention of 1787, 1: 88); que «un solo
+                hombre podía poseer más virtud o sabiduría, que un grupo de hombres» (El Federalista, n.° 73);
+                de la «sabiduría y sistemacidad» que iban a caracterizar a los miembros del Senado (Rufus Kig, en
+                Farrand, The Records of the Federal Convention of 1787, 2: 6 y 7); del deber de tales representan-
+                tes de «iluminar» a los diputados (ibíd.), etc. Múltiples ejemplos en esta dirección pueden encon-
+                trarse en Gargarella, Roberto. Representation and Irrationality. The Philosophical Foundations of the
+                Representative System. Universidad de Chicago, 1993.
+
+             46
+
+[[PDF p. 13]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 47
+
+
+
+
+                                       La falta de legitimidad democrática de la justicia
+
+
+                argumentos adquirirían un papel extraordinario, poco después, durante
+                los debates constituyentes en los que se discutió cómo reorganizar insti-
+                tucionalmente el país.31
+
+
+                LA TEORÍA SOBRE EL COMPORTAMIENTO DE LAS MAYORÍAS LEGISLATIVAS:
+                MADISON Y SU CONCEPCIÓN DE LAS FACCIONES
+
+                Hasta aquí, solo he presentado esbozos de lo que luego resultaría una teo-
+                ría completa sobre el modo como suelen actuar las mayorías en política.
+                Y fue James Madison, mediante una larga serie de artículos y discursos,
+                quien se encargó de dar forma precisa a dicha teoría. En efecto, Madison
+                articuló intuiciones, argumentos y prejuicios como los antes mencionados
+                con tal maestría que los posteriores debates constituyentes debieron pro-
+                nunciarse o a favor o en contra de las ideas madisonianas. Nadie pudo
+                desconocer la fuerza que arrastraban dichas ideas.
+                    Si bien Madison siempre habló de la tendencia de «la mayoría de cada
+                comunidad» a «despojar y esclavizar a la minoría de los individuos», y cri-
+                ticó, como a ninguna otra, la sugerencia de tomar el «interés de la mayo-
+                ría como el estándar político de lo que está bien y mal»,32 su obsesión
+                principal estuvo vinculada, en todos los casos, con los más específicos
+                peligros presentados por las mayorías legislativas en los distintos estados
+                de la Confederación. Madison había comenzado a teorizar acerca de las
+                legislaturas estatales a comienzos de la década de 1780-1790. Sus prime-
+                ras reflexiones mostraron preocupación por el hecho de que la legislatu-
+                ra «no deja pasar una sola sesión sin instancias de repentinas resolucio-
+                nes [...] de las que luego se arrepienten a tiempo, para interceder por la
+
+                31 Así, por ejemplo, el convencional Ghorum, de Rhode Island, haría referencia a «la insensibilidad
+                   de carácter producida por los grandes números, que se demuestra en medidas deshonrosas», y a
+                   la falta de «responsabilidad» y a la «intriga» que solían caracterizar a los cuerpos públicos. Véase
+                   Farrand, Max, ed. The Records of the Federal Convention of 1787. New Haven, Conn., Yale U.P.,
+                   1937, 1: 299. Ferry, en la misma convención, sostendría que las asambleas tendían a comportar-
+                   se de un modo «uniformado», y a dejarse llevar, de manera equivocada, «por los designios de unos
+                   pocos hombres» (Farrand, The Records of the Federal Convention of 1787, 2: 57).
+                32 Carta de Madison a James Monroe, del 5 de octubre de 1786. Véase en The Papers of Alexander
+                   Hamilton, 9: 140-142.
+
+                                                                                                                    47
+
+[[PDF p. 14]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 48
+
+
+
+
+                                                      Roberto Gargarella
+
+
+             negativa del Senado».33 Por dichas razones, se mostraba menos inquieto
+             por levantamientos como los de Shays, que por la posibilidad de que los
+             rebeldes «[promuevan] sus iniciativas bajo el auspicio de formas consti-
+             tucionales».34
+                 En su principal trabajo teórico previo a la inminente convención cons-
+             titucional (llamado «Vicios del Sistema Político») Madison concentró su
+             atención en la «mutabilidad», «multiplicidad», e «injusticia» de las leyes.
+             Estas tres características representaban, en su opinión, los rasgos más
+             habituales y objetables del sistema político. Según él, actos que los indi-
+             viduos aisladamente se negarían a ejecutar por cuenta propia, aparecían
+             con frecuencia cuando estos se reunían en ámbitos como el de las asam-
+             bleas legislativas.35 Para describir este tipo de actitudes de las mayorías,
+             entonces Madison comenzó a hablar de «comportamientos facciosos».36
+                 Ya dentro de la Convención Constituyente, y como delegado de
+             Virginia, Madison se animó a delinear una concepción más afinada al res-
+             pecto. Sostuvo entonces que cuando los individuos se encuentran moti-
+             vados por impulsos comunes, y encuentran la ocasión de perseguir esos
+             impulsos, actúan —ineludiblemente— en consecuencia. En sus palabras:
+             «cuando una mayoría se encuentra unida por un sentimiento común y
+             tiene la oportunidad, los derechos de la parte minoritaria pasan a estar
+             inseguros».37
+                 La articulación definitiva de todas estas ideas aparecería, por fin, en El
+             Federalista, n.° 10, seguramente uno de los textos más importantes e
+
+             33 Carta de Madison a Caleb Wallace, del 23 de agosto de 1785, ibíd., vol. 8. pp. 350-357.
+             34 Carta de Madison a Thomas Jefferson, del 23 de abril de 1787, ibíd., vol. 9, pp. 399-401.
+             35 «Vices of the Political Svstem of the United States». 7 de abril de 1787, ibíd., vol. 9, pp. 345-358.
+             36 En tal sentido, Madison sostuvo que en la actividad propia de los Estados percibía un espíritu de
+                «facción y opresión», capaz de atentar contra la «libertad republicana», véase Farrand, The Records
+                of the Federal Convention of 1787, 1: 135-136.
+             37 Ibíd., vol., pp. 135-136. En idéntico sentido, hablando de las tendencias facciosas de las mayorí-
+                as, frente a intereses o pasiones comunes, en una carta a Jefferson, del 24 de octubre de 1787, The
+                Papers..., op. cit., vol. 10, pp. 205-220. Por entonces era común que hablase de los «impulsos súbi-
+                tos» de las mayorías, que los llevaban a «cometer injusticias sobre la minoría» (ibíd., 1: 421-423).
+                Por ello, su preocupación creciente en «moderar la furia» de aquellas (carta de Madison a George
+                Washington, del 24 de diciembre de 1786, The Papers of Alexander Hamilton, 9: 224-225). En
+                carta a Patrick Henry, también afirmó que la «turbulencia, violencia y abuso de poder por la
+                mayoría, al invadir los derechos de la minoría, han producido facciones y conmociones, que, en
+                las repúblicas, han sido causa de despotismo, más que cualquier otra causa» («General Defense of
+                the Constitution», 6 de junio de 1788, ibíd., 11: 79).
+
+             48
+
+[[PDF p. 15]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 49
+
+
+
+
+                                         La falta de legitimidad democrática de la justicia
+
+
+                influyentes escritos en toda la historia de la ciencia política. En dicha oca-
+                sión, Madison dejó en claro al menos dos cosas: primero, que el nuevo
+                orden institucional debía estar fundamentalmente orientado a impedir los
+                actos de las facciones; segundo, que los comportamientos facciosos repre-
+                sentaban tendencias más bien propias e inevitables de las asambleas legis-
+                lativas.
+                    Para verificar de qué modo esta noción de «facciones» era identificada
+                con la idea de las «mayorías legislativas», basta solo con leer atentamente
+                El Federalista, n.° 10. Antes que nada, allí se define la idea de facciones
+                como un «cierto número de ciudadanos, estén en mayoría o en minoría,
+                que actúan movidos por el impulso de una pasión común, o por un inte-
+                rés adverso a los derechos de los demás ciudadanos o a los intereses perma-
+                nentes de la comunidad considerada en conjunto». Sin embargo, aunque
+                aparentemente el riesgo de comportamientos facciosos podía provenir
+                (teóricamente) tanto de los actos de las mayorías como de los de las mino-
+                rías, lo cierto es que Madison nunca tomó seriamente en cuenta la posibi-
+                lidad de opresión por parte de la minoría. Como afirmara Robert Dahl,
+                «ni en la Convención Constituyente, ni en los papeles de El Federalista, se
+                demuestra mayor ansiedad acerca de los peligros que puedan provenir de
+                la tiranía de la minoría; en cambio, el riesgo de una tiranía de las mayo-
+                rías aparece como fuente de agudo temor».38 En efecto, en el mismo
+                Federalista, n.° 10, e inmediatamente después de haber enunciado su defi-
+                nición de facciones, Madison afirma que hay pocas razones para preocu-
+                parse de una posible tiranía de las minorías. De hecho —sostuvo—, «si
+                una minoría consiste en menos que la mayoría, los mismos principios
+                republicanos otorgan la solución, ya que la mayoría está capacitada para
+                derrotar estas visiones siniestras a través del voto.»39
+
+                38 Dahl, Robert. A Preface to Democratic Theory. The U. of Chicago, 1956, p. 9.
+                39 El Federalista, n.° 10 también nos permite verificar el grado de regularidad («inevitabilidad») que
+                   Madison atribuyó a las acciones «facciosas» de las mayorías. Su criterio fue, según anticipamos, el
+                   de que ciertos impulsos del hombre resultaban irrefrenables, dadas ciertas circunstancias. En este
+                   sentido, y conforme a su opinión, era inevitable que los hombres tuvieran diferentes opiniones,
+                   que se enfrentasen a partir de los impulsos de sus pasiones, y, sobre todo, que se enemistasen entre
+                   sí a partir de diferencias de intereses (particularmente, a partir de la diferencia de intereses en cuan-
+                   to a la posesión de propiedad). «La conclusión a la que debemos llegar —dijo entonces— es que
+                   las causas del espíritu de facción no pueden suprimirse.» De ahí que debiera diseñarse un sistema
+                   político capaz de contener (ya no las causas sino) los efectos del modo de obrar de las facciones.
+
+
+                                                                                                                         49
+
+[[PDF p. 16]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 50
+
+
+
+
+                                             Roberto Gargarella
+
+
+                 A partir de observaciones teóricas como las mencionadas, Madison se
+             concentró en proponer remedios institucionales para «afrontar» el princi-
+             pal «peligro» que, desde su óptica, distinguía a dicho período: el peligro
+             de las facciones, o lo que es lo mismo, el de asambleas legislativas caren-
+             tes de controles adecuados. Para estos fines, según veremos la organiza-
+             ción judicial vendría a jugar un papel predominante.
+
+
+             UNA DEFINICIÓN RESTRINGIDA DE LA IDEA DE MINORÍAS
+
+             De acuerdo con lo visto hasta aquí, en los albores de la organización del
+             poder judicial existió un presupuesto acerca del actuar desmesurado e
+             imprudente de las mayorías. La idea implícita de este supuesto era la de
+             que existían «minorías» que debían ser especialmente protegidas. Esta
+             idea (la de proteger a las minorías) nos resulta aún hoy intuitivamente
+             aceptable. Sin embargo, antes de otorgarle nuestra aprobación convendrá
+             aclarar qué se pretendía decir en aquella época cuando se hablaba de la
+             idea de minorías.
+                 En la actualidad, cuando hablamos de minorías solemos oscilar entre
+             una variedad de nociones diferentes. Por ejemplo, podemos estar hacien-
+             do alusión, simplemente, a aquellos grupos que carecen de poder efecti-
+             vo y que no pueden, por tanto, ejercer una adecuada defensa de sus inte-
+             reses (en este caso, podríamos incluir al grupo de las «mujeres» como
+             «minoría», aun cuando estas formen un grupo numéricamente mayorita-
+             rio dentro de la sociedad). Otras definiciones, sin embargo, nos acercan a
+             una idea más estrecha de las minorías. Así, cuando tomamos el factor
+             numérico como decisivo y hablamos de grupos de homosexuales, o de
+             inmigrantes, o de miembros de una religión con pocos adeptos. En todos
+             los casos mencionados, al menos, existe una coincidencia básica: cual-
+             quiera que sea la definición en cuestión, cada una es susceptible de incluir
+             una diversidad de grupos posibles. En la primera de las definiciones men-
+             cionadas se hace referencia a cualquier grupo con escaso poder. En la
+             segunda, se habla de cualquier grupo minoritario en número. Sin embar-
+             go, ninguna de estas fue la posición predominante en las discusiones
+             constituyentes norteamericanas, en el siglo XVIII. Allí, cuando se habla-
+             ba de «minorías» se estaba haciendo referencia a uno, y solo a uno, de los
+
+             50
+
+[[PDF p. 17]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 51
+
+
+
+
+                                      La falta de legitimidad democrática de la justicia
+
+
+                posibles grupos minoritarios de la sociedad: el grupo de los «acreedores»,
+                o grandes propietarios. Claramente, además, no se estaba hablando de un
+                grupo sin «poder» efectivo, sino del núcleo de los más favorecidos de la
+                sociedad.
+                    Conforme a esta definición, las minorías constituían un grupo mino-
+                ritario en cuanto a su número, pero dominante en cuanto a su poder.
+                Nada puede ser más ilustrativo de este notable acercamiento al término
+                que los mismos textos históricos. Allí vemos cómo se equipara directa-
+                mente la idea de minoría a la idea de the few, «los pocos», «los que tienen
+                el poder». Hamilton, clásicamente, utilizó la idea de minoría como sinó-
+                nimo de la de los «ricos y bien nacidos».40 Madison hizo explícita esta ana-
+                logía, sosteniendo, por ejemplo, que el Senado debía estar determinado a
+                proteger a «la minoría de los opulentos frente a la mayoría».41 Estas opi-
+                niones no representan citas aisladas, sino que se repiten frecuentemente
+                en diferentes textos de la época. Robert Dahl, por ejemplo, en su excelen-
+                te análisis de la «democracia madisoniana», sostuvo que «la forma de
+                argumentar madisoniana suministró una satisfactoria y persuasiva ideolo-
+                gía, destinada a proteger a las minorías con riqueza, estatus y poder, que
+                desconfiaban de sus más encarnizados enemigos —los artesanos y granje-
+                ros inferiores en riqueza, estatus y poder— que —según ellos— consti-
+                tuían las mayorías populares».42
+                    Como conclusión, entonces, puede señalarse que la Constitución nor-
+                teamericana no solo resultó sesgada ideológicamente en contra de las
+                mayorías, sino que, además, dicho sesgo tuvo como objetivo la particular
+                protección de un cierto grupo minoritario: el grupo de los socialmente
+                más aventajados.
+
+
+                HACIA EL ESTABLECIMIENTO DE UN «SISTEMA DE FRENOS Y CONTRAPESOS»
+
+                De lo afirmado hasta aquí, sin embargo, no se deriva que la Constitución
+                norteamericana haya tenido por objeto consagrar institucionalmente
+
+                40 Así, por ejemplo, en sus intervenciones en la Convención Federal (véase Farrand, The Records of
+                   the Federal Convention of 1787, 1: 299).
+                41 Ibíd., vol. 1, p. 431.
+                42 Véase Dahl, Robert. A Preface to Democratic Theory, p. 31.
+
+                                                                                                               51
+
+[[PDF p. 18]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 52
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             —digamos— la «dictadura» de una minoría de individuos socialmente
+             privilegiados (aunque sí es cierto que muchos de los convencionales
+             constituyentes abogaron explícitamente por un ordenamiento aristo-
+             crático).
+                 Más bien, los principios políticos dominantes en la época fueron los
+             siguientes: a) evitar las tendencias facciosas de las mayorías; b) posibilitar
+             que tanto el sector mayoritario de la sociedad, como el sector de los
+             socialmente más aventajados, tuvieran igual capacidad de influencia den-
+             tro del sistema político. Así pues, la idea de que la sociedad está fragmen-
+             tada en dos grupos igualmente merecedores de protección institucional
+             resulta un presupuesto esencial de esta concepción.
+                 Confirmando lo dicho, y de acuerdo con la opinión de Madison, la
+             sociedad estaba dividida en diferentes grupos, siendo la más importante
+             de estas divisiones la que existía entre los ricos y los pobres. La más clara
+             presentación que Madison hizo de este tema fue en la Convención
+             Federal, al afirmar que «en todos los países civilizados la gente se divide
+             en diferentes clases [...]. Habrá así [divisiones entre] acreedores y deudo-
+             res, granjeros, mercaderes y fabricantes. Pero particularmente existirá una
+             división entre ricos y pobres».43 En El Federalista, n.º 10, clásicamente,
+             Madison enfatizó en la idea de que, entre todas las divisiones de intereses,
+             ninguna era más importante que la que separaba «a aquellos que tienen,
+             y aquellos que no tienen propiedad [...]. Aquellos que son acreedores, y
+             aquellos que son deudores». De modo similar, Madison se refirió a estas
+             distinciones en su fundamental escrito «Vicios del sistema político», así
+             como en otros importantes discursos presentados en la Convención
+             Federal,44 y en la correspondencia que sostuvo durante todo el período
+             constituyente.45
+                 De todos modos —y según quedó claro, al menos, desde la
+             Convención Constituyente—, todos los principales dirigentes políticos
+             de la época parecían compartir criterios similares a los de Madison. De
+             acuerdo con Alexander Hamilton, por ejemplo, «en cada comunidad [...]
+
+             43 Madison, 26 de junio de 1787 (Farrand, M. The Records of the Federal Convention of 1787, 1: 422-
+                423).
+             44 Por ejemplo, véanse sus discursos del 4 y 6 de junio de 1787.
+             45 Así, por ejemplo, en «Madison to Thomas Jefferson», 24 de octubre de 1787, The Papers of Alexander
+                Hamilton, 10: 213; y «Madison to Thomas Jefferson», 15 de octubre de 1788, ibíd., 11: 287.
+
+             52
+
+[[PDF p. 19]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 53
+
+
+
+
+                                      La falta de legitimidad democrática de la justicia
+
+
+                habrá una división entre una minoría y una mayoría [“the few & the
+                many”]. Por tanto, existirán intereses contrapuestos. Habrá deudores y
+                acreedores...». Pero Hamilton aclaraba algo más —que el resto de la clase
+                dirigente inmediatamente compartió—: cada una de esas dos partes fun-
+                damentales debía contar con igual poder de influencia política. Así —sos-
+                tuvo— «[d]enle todo el poder a la mayoría [“the many”], y ellas oprimi-
+                rán a las minorías [“the few”]. Denle todo el poder a las minorías [“the
+                few”], y ellas oprimirán a las mayorías [“the many”]. Ambas partes, enton-
+                ces, deben contar con el suficiente poder, que les permita a cada una
+                defenderse contra la otra».46 Nuevamente, sin embargo, sería Madison el
+                principal promotor de este punto de vista, según el cual cada una «por-
+                ción igual» de poder político, para evitar así el riesgo de «opresiones
+                mutuas». Madison defendió esta idea mediante el principio de que «los
+                derechos de las personas, y los derechos de la propiedad, deben ser recon-
+                ciliados [en el sistema político]».47
+
+
+                RACIONALIDAD DEL SISTEMA DE «FRENOS Y CONTRAPESOS»
+
+                El medio que se encontró más apropiado para obtener los objetivos antes
+                descritos —básicamente, el de asegurar que los dos sectores más impor-
+                tantes de la sociedad cuenten con igual poder político— lo constituyó el
+                denominado sistema de «frenos y contrapesos». Este sistema, principal-
+                mente, estuvo orientado a establecer diferentes áreas de poder, parcial-
+                mente separadas entre sí y capaces de controlarse entre ellas. La forma de
+                alcanzar este último objetivo consistió en proveer a cada una de las áreas
+                en cuestión (el Ejecutivo, el Judicial, las dos cámaras legislativas) de
+                medios capaces de restringir los posibles excesos de las otras.
+                    Así, entonces, se explican el veto presidencial; la capacidad de cada
+                Cámara para vetar las decisiones de la otra y para sobrepasar (con un
+                esfuerzo mayor) el veto del ejecutivo, o (según veremos) el control judi-
+                cial de las leyes (consagrado definitivamente en forma posterior a la san-
+                ción de la Constitución).
+
+                46 Farrand, M. The Records of the Federal Convention of 1787, 1: 288.
+                47 Véanse, por ejemplo, «Madison to Caleb Wallace», 23 de agosto de 1785, The Papers of Alexander
+                   Hamilton, 8: 350-357; y «Observations on the Draught tor Virginia», ibíd., 11: 285-293.
+
+                                                                                                              53
+
+[[PDF p. 20]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 54
+
+
+
+
+                                                     Roberto Gargarella
+
+
+                 Sin embargo, aún resta saber cuál era la conexión entre a) el hecho de
+             contar con este sistema destinado a asegurar el mutuo control entre las
+             áreas de poder, y b) la finalidad, antes enunciada, de asegurar que ningu-
+             na de «las dos partes más importantes» de la sociedad pueda oprimir a la
+             otra. Para los convencionales constituyentes la conexión entre estas cues-
+             tiones era obvia: el sistema institucional, en sus distintas áreas, tendría
+             representadas, separadamente, las principales partes de la sociedad. De ahí
+             que, si esas diferentes áreas del poder lograban equilibrarse entre sí, luego,
+             y como consecuencia de ello, la sociedad resultaría también equilibrada y
+             los eventuales conflictos sociales institucionalmente contenidos.48
+                 Llegados a este punto, la pregunta que queda pendiente para llegar a
+             comprender la lógica del sistema creado es la siguiente: ¿Es posible (era
+             concebible, al menos) garantizar que cada rama de poder, efectivamente,
+             representase a una parte diferente de la sociedad? Es decir, ¿cómo incor-
+             porar dentro de una rama concreta del gobierno a un cierto sector social,
+             y dentro de otra al sector social opuesto? Nuevamente, estamos frente a
+             una pregunta que en el siglo XVIII pareció encontrar una respuesta sen-
+             cilla. En primer lugar, y de acuerdo con lo que hemos visto aquí, parecía
+             claro que la Cámara de diputados aseguraba la presencia de la «ciudada-
+             nía común» en el Gobierno. De hecho, la esencia de los conflictos insti-
+             tucionales que los «padres fundadores» procuraban combatir tenía su
+             núcleo en dicha presunción: la Legislatura incorporaba a «la mayoría» de
+             la población, a los deudores, a aquellos sin propiedad o con propiedades
+             pequeñas, y por ello tendía a tomar decisiones «apasionadas», favorables a
+             los sectores desposeídos. Este fenómeno —siempre amenazante (al
+             menos, desde la independencia norteamericana)—, hacia 1785 se había
+             convertido a los ojos de la clase dirigente en una trágica realidad.
+                 Ahora bien, aunque esta vinculación entre las «mayorías» y la Cámara
+             de diputados fuera clara, ¿qué ocurría respecto de la «minoría» de la socie-
+             dad? En este caso, también, la clase dirigente política asumía que existían
+             medios institucionales capaces de asegurar la presencia de dicha «minoría»
+
+             48 Resulta notable comprobar el fuerte ascendiente que las (entonces tan discutidas) «constituciones
+                mixtas inglesas» ejercieron en el diseño del sistema de frenos y contrapesos. Sobre todo, en la idea
+                básica de que los sectores más influyentes de la sociedad debían tener «voz» propia dentro del sis-
+                tema político.
+
+             54
+
+[[PDF p. 21]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 55
+
+
+
+
+                                   La falta de legitimidad democrática de la justicia
+
+
+                en el Gobierno. Dos instrumentos, al menos, parecían mágicamente capa-
+                citados para el logro de tal objetivo: las elecciones indirectas y los distritos
+                electorales extensos. En efecto, así como se entendía que a través de las
+                elecciones directas la ciudadanía tendía a dejarse arrastrar por las voces de
+                demagogos y líderes populistas, se presumía que los líderes electos, reuni-
+                dos en cuerpos pequeños y aislados, quedaban liberados de tales nocivas
+                influencias. Por otro lado, se asumía que los distritos extensos iban a
+                impedir la aparición de políticos excesivamente dependientes de sus elec-
+                tores (y, por lo tanto, se iba a prevenir la actuación de políticos excesiva-
+                mente apegados a intereses muy localistas). Requisitos adicionales como
+                los de edad avanzada, la exigencia de determinados estudios o (en los
+                casos más extremos) cierta cantidad mínima de propiedades, acabaron
+                asegurando (según se asumió por entonces) la representación de los «ricos
+                y bien nacidos». Esto es, para la clase dirigente norteamericana era obvio
+                que las dos partes más importantes de la sociedad podían estar represen-
+                tadas en el sistema de Gobierno; así como resultaba claro que dicha posi-
+                bilidad debía tornarse real, a los fines de asegurar un sistema político efi-
+                ciente, y, sobre todo, estable.
+
+
+                3. La consolidación del control judicial en Estados Unidos
+
+                En este apartado voy a concentrar mi atención específicamente en el
+                poder judicial: cómo llegó a obtener la importancia que actualmente tiene
+                y cómo fueron definiéndose sus funciones. Las secciones anteriores, según
+                entiendo, sirven de base para comprender la tarea que hoy cumple la jus-
+                ticia en el control de las leyes. En ellas vimos, por un lado, las razones
+                políticas y sociales que llevaron a prestar especial atención a la organiza-
+                ción de la magistratura, y, por otro, el cuerpo de ideas y presupuestos filo-
+                sóficos que dieron sentido a dicha tarea de organización judicial.
+
+                A) LA CONVENCIÓN CONSTITUYENTE
+
+                Desde el momento en que la convención constituyente comenzó a discu-
+                tir qué rol otorgarle al poder judicial, los convencionales plantearon, al
+
+                                                                                             55
+
+[[PDF p. 22]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 56
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             menos, dos principios fundamentales. Primero, que las asambleas legisla-
+             tivas necesitaban urgentemente de instituciones y mecanismos que les sir-
+             van de «freno». Segundo, que los miembros del poder judicial formaban
+             parte de un grupo selecto y fiable, debido a una pluralidad de razones: sus
+             estudios, el modo en que eran electos, su estabilidad, el aislamiento res-
+             pecto de los procesos electorales, etc. Lo que no resultaba claro, de todos
+             modos, era cuál iba a ser el mejor medio para establecer dichos frenos, y
+             qué rol podían llegar a jugar los jueces en tal proceso.
+                 Apenas comenzados los debates constituyentes, las cuestiones antes
+             mencionadas fueron puestas bajo examen, sobre todo a partir de la dis-
+             cusión del «Plan de Virginia», uno de los dos planes de reforma institu-
+             cional presentados en los debates. La defensa del Plan de Virginia la llevó
+             a cabo Edmund Randolph, y uno de sus puntos centrales justamente, fue
+             el de controlar los previsibles «excesos» del legislativo.49 Los medios pro-
+             puestos al respecto fueron dos: a) un consejo de revisión, que debería
+             estar formado por miembros del poder ejecutivo y del poder judicial, y
+             encargado de una revisión ex ante de las leyes,50 y b) un poder judicial
+             nacional, elegido por la legislatura. Ambas alternativas se propusieron
+             como complementarias, pero la primera, poco a poco, fue perdiendo
+             consenso.
+                 La «caída» de la propuesta del Consejo de Revisión tuvo que ver con
+             la desconfianza de muchos convencionales frente (según temían) a una
+             posible alianza entre el poder judicial y el ejecutivo. Por ejemplo, E.
+             Gerry, resumiendo las críticas de otros convencionales, señaló que era
+             suficiente con que los jueces cumplieran con su misión mediante la
+             interpretación de la ley. Frente a este tipo de observaciones, Edmund
+
+             49 Berger, Raoul. Congress v. The Supreme Court. Cambridge, Mass., Harvard U.P., 1969, p. 50.
+                Farrand, M. The Records of the Federal Convention of 1787, 1: 25.
+             50 El consejo iba a estar formado por el Ejecutivo y una mayoría de jueces nacionales, y tendría la
+                misión de revisar las leyes sancionadas por la Legislatura, antes de su entrada en vigor. Dentro de
+                sus facultades estaba la de vetar dichas leyes, en caso de que fueran contradictorias con los enton-
+                ces vigentes. Artículos de confederación y unión perpetua» La Asamblea Legislativa Nacional
+                podría, sin embargo, dejar sin efecto tal medida, aprobando nuevamente la norma vetada. La
+                mencionada asamblea tenía asignada, también, la función de controlar las leyes sancionadas por
+                las asambleas locales, y anularlas en caso de que fuesen incompatibles con los «Artículos». En este
+                punto intervenía igualmente el consejo de revisión, que podía manifestarse en favor de la entra-
+                da en vigor de la ley local, salvo insistencia de la asamblea por mayoría especial.
+
+
+             56
+
+[[PDF p. 23]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 57
+
+
+
+
+                                        La falta de legitimidad democrática de la justicia
+
+
+                Randolph, principal mentor del Plan de Virginia, propuso algunas
+                correcciones a su propuesta.51 Sin embargo, nuevamente, un alud de crí-
+                ticas llevaron a dejar definitivamente de lado dicha propuesta.52
+                    A pesar del ir y venir registrado por la propuesta del Consejo de
+                Revisión, los debates dejaron en claro las primeras convicciones de los
+                constituyentes: debían limitarse los atropellos legislativos, y el poder judi-
+                cial debía jugar un papel destacado en dicha tarea. Según un conocido
+                estudio de Charles Beard, de los 55 miembros de la Convención, un ter-
+                cio no tomó parte activa en los debates. Sin embargo, no menos de 25 de
+                entre los miembros, de dicho cuerpo se manifestaron directa o indirecta-
+                mente en favor del control judicial sobre la Legislatura.53 En este sentido,
+                por ejemplo, Madison resaltó el papel que podían cumplir los jueces,
+                tanto como «un freno adicional contra la persecución de las medidas
+                injustas y poco sabias [a las que era proclive el Congreso]», como para
+                prevenir los seguros avances del legislativo respecto de los otros poderes.54
+                Governour Morris se refirió a la necesidad de controlar a la Legislatura,
+                ya que «para la libertad pública representaban un mayor riesgo las usur-
+                paciones legislativas, que cualquier otro tipo de usurpaciones».55 Ghorum
+                —y también Masón— ratificaron dichos juicios afirmando que era
+                «esperable que [el Legislativo] propusiera frecuentemente leyes injustas y
+
+                51 Ahora, los estados locales, cuando el Consejo de Revisión les vetara una ley, podrían presentarse
+                   ante la Suprema Corte Federal. Por otra parte, cualquier ciudadano podría apelar ante los jueces
+                   nacionales en caso de una ley que lo afectase, y estos podían dejarla sin aplicación si la juzgaran
+                   contraria a los principios de equidad y justicia.
+                52 Luther Martin argumentó que, con su presencia en el Consejo, los jueces tendrían el privilegio de
+                   un doble poder de revisión. Rutleger, de Carolina del Sur, lo acompañó, afirmando que los jue-
+                   ces no deberían intervenir sino en el ejercicio específico de su poder. C. Pinchney también sugi-
+                   rió que debía evitarse la participación de los jueces en la formación de las leyes. Madison planteó
+                   la alternativa de una revisión preventiva separada (no como en el plan de Virginia) por parte del
+                   poder ejecutivo y un colegio de jueces. El Plan de Nueva Jersey, alternativo del anterior, había
+                   incluido la obligatoriedad de los jueces locales de aplicar las leyes y los tratados nacionales, inclu-
+                   so aunque entraran en contradicción con las leyes estatales. Véase, por ejemplo, Gargarella,
+                   Roberto. «La voluntad de las mayorías frente al control judicial de las leyes. Los casos de la
+                   Argentina y los Estados Unidos». Tesis doctoral. Universidad de Buenos Aires, 1990.
+                53 Berger, Raoul. Congress v. The Supreme Court. p. 48; Beard, Charles. The Supreme Court and the
+                   Constituttion. N.J., Prentice-Hall, 1962.
+                54 Farrand, M. The Records of the Federal Convention of 1787, 2: 74.
+                55 Ibíd., p. 76.
+
+                                                                                                                       57
+
+[[PDF p. 24]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 58
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             perniciosas», y señalando que los jueces debían cumplir una misión pri-
+             mordial en la prevención de tales leyes».56
+
+             B) LAS CONVENCIONES ESTATALES QUE RATIFICARON LA CONSTITUCIÓN
+
+             Durante las convenciones estatales se retomaron y reafirmaron opiniones
+             como las mencionadas en la Convención Nacional y fueron luego convo-
+             cadas a los efectos de ratificar la aprobación del texto constitucional esbo-
+             zado. En muchos de tales debates surgió con claridad la idea de contar
+             con el poder judicial como controlador de los previsibles excesos del legis-
+             lativo. Como testimonios muy explícitos al respecto pueden destacarse los
+             siguientes: a) la Convención de Pennsylvania, donde Thomas McKean
+             (presidente de la Suprema Corte del Estado) sostuvo que la Legislatura
+             debía ser controlada, entre otros, por los jueces, decidiendo en favor de la
+             Constitución. McKean resultó inmediatamente respaldado por James
+             Wilson (exparticipante de los debates constituyentes) quien, a su vez, afir-
+             mó que «el legislativo [debía] ser restringido y mantenido dentro de sus
+             límites, a través de la interposición del departamento judicial»; b) la
+             Convención de Connecticut, donde Oliver Ellsworth (también muy acti-
+             vo exmiembro de la Convención Constitucional) se refirió al departa-
+             mento judicial como principal freno ante posibles extralimitaciones de la
+             Legislatura; c) la Convención de Virginia, donde Patrick Henry elogió la
+             capacidad judicial de oponerse a los actos inconstitucionales de la
+             Legislatura, y John Marshall (futuro juez del caso «Marbury v. Madison»,
+             el más importante en la historia de la revisión judicial de las leyes) ratifi-
+             có el rol de los jueces como guardianes de la Constitución, señalando que
+             no existía, además, otro cuerpo capaz de asumir el rol de protector de la
+             Constitución.57
+
+             C) EL «PRIMER CONGRESO»
+
+             El Primer Congreso legislativo, reunido después del dictado de la
+             Constitución, representó otra excelente «prueba» acerca de qué era lo
+             que se había discutido en aquellos decisivos debates constituyentes, por
+
+             56 Ibíd., pp. 78 y 79.
+             57 Véase, en particular, Berger, Raoul. Congress v. The Supreme Court, cap. 4.
+
+             58
+
+[[PDF p. 25]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 59
+
+
+
+
+                                    La falta de legitimidad democrática de la justicia
+
+
+                ejemplo, en materia judicial. Ello debido a que (entre otras razones), en
+                el «primer Congreso» participaron muchos exmiembros de la
+                Convención Constituyente y de las sucesivas convenciones estatales.
+                    Respecto de la cuestión judicial, hubo fundamentalmente dos debates
+                que resultaron notables. El primero, referido a los alcances de los poderes
+                ejecutivos de «remoción», y el segundo, vinculado con la «Judiciary Act»
+                de 1789. En contra de lo que pudiera pensarse, de todos modos, fue la
+                primera de las dos discusiones la que resultó más clarificadora en cuanto
+                a la función de los jueces.
+                    Entre otros testimonios, Fisher Ames sostuvo que era misión del poder
+                judicial «decidir lo que haga a nuestras leyes; si ellos encuentran esta cláu-
+                sula [sobre los alcances del poder del ejecutivo] inconstitucional, no
+                dudarán en ponerlo de manifiesto»; John Page afirmó que los legisladores
+                debían «dejar la Constitución a sus apropiados expositores», los jueces, y
+                Elbridge Gerry admitió que lo que en el Congreso se dispusiese
+                «quedar[ía] sujeto a la revisión de los jueces».58
+
+                D) EL FEDERALISTA
+
+                De todos modos, seguramente no ha existido testimonio más conocido e
+                influyente respecto de la justicia y los debates constituyentes que el ofre-
+                cido por El Federalista. Dicha obra compila una serie de artículos destina-
+                dos a convencer al electorado de Nueva York acerca de la necesidad de
+                ratificar la Constitución nacional recién redactada; las opiniones acerca de
+                la justicia de Madison y Hamilton, sobre todo, resultaron decisivas.
+                    Madison dejó en claro, en El Federalista, n.° 49, que los jueces en la
+                nueva Constitución iban a ser «conocidos personalmente por una peque-
+                ña fracción del pueblo» (lo cual era visto como una virtud favorable al
+                buen ejercicio de la tarea judicial); y que tanto «por la manera como son
+                nombrados, así como por la naturaleza y duración de su destino, [los jue-
+                ces se iban a encontrar] demasiado lejos del pueblo para participar de sus
+                simpatías».
+                    Hamilton, sin embargo, fue quien escribió las páginas más importan-
+                tes sobre el punto en cuestión. En este sentido, en particular, se destaca
+
+                58 Ibíd., cap. 5.
+
+                                                                                           59
+
+[[PDF p. 26]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 60
+
+
+
+
+                                             Roberto Gargarella
+
+
+             El Federalista, n.° 78 (texto sobre el que volveré más adelante), en donde
+             Hamilton exaltó la independencia judicial como «necesaria para proteger
+             la Constitución y los derechos individuales de los efectos de esos malos
+             humores que las artes de hombres intrigantes o la influencia de coyuntu-
+             ras especiales esparcen a veces entre el pueblo». Concibió a la magistratu-
+             ra como un «cuerpo intermedio» situado entre el pueblo, creador de la
+             Constitución, y la Legislatura, responsable de la normativa más cotidia-
+             na, la obvia función de la justicia parecía ser la de «mantener a [la
+             Legislatura] dentro de los límites asignados a su autoridad».
+
+             E) ANTICIPANDO «MARBURY V. MADISON»
+
+             Si bien las líneas de cómo iba a funcionar el poder judicial quedaron esta-
+             blecidas desde las mencionadas discusiones constitucionales, lo cierto es
+             que también permanecieron muchas dudas al respecto. En particular,
+             seguían estando borrosos los alcances del llamado «control judicial», o
+             revisión judicial de las leyes. Sin embargo, el paso del tiempo, el dictado
+             de nuevas leyes y la práctica judicial fueron dando respuestas a aquellas
+             dudas iniciales. El caso que claramente definió buena parte de la historia
+             de la revisión judicial fue el famoso «Marbury v. Madison». De cualquier
+             forma, antes de revisarlo conviene recordar algunos de los pasos previos a
+             aquella decisión.
+                 En el nuevo Congreso Nacional, al día siguiente de la formación del
+             primer quórum, el Senado designó una comisión para redactar una ley
+             acerca de la Judicatura. La primera ley judicial apareció en 1789, y en ella
+             se crearon los tribunales federales de primera instancia. De este modo,
+             antes que nada, se evitó que los tribunales estatales quedasen a cargo de
+             la resolución de las cuestiones federales. De la misma manera, en aquella
+             ley se otorgó a la Suprema Corte la jurisdicción originaria en cuestiones
+             civiles donde el Estado era parte, así como jurisdicción en lo relativo a
+             causas que involucrasen a diplomáticos extranjeros. También se estableció
+             la competencia de la Suprema Corte en las apelaciones a normas locales
+             contrarias a la Constitución federal.
+                 Dentro de esta nueva etapa de la vida institucional de Estados
+             Unidos, uno de los primeros conflictos en donde se puso en cuestión la
+
+             60
+
+[[PDF p. 27]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 61
+
+
+
+
+                                      La falta de legitimidad democrática de la justicia
+
+
+                constitucionalidad de las leyes fue en el caso Hajburn, de 1792. En dicho
+                caso se discutió la validez de una ley sobre pensiones de guerra que auto-
+                rizaba al secretario de Guerra a modificar las decisiones que al respecto
+                tomasen las cortes del circuito. Sin embargo, el grave conflicto que aquí
+                se insinuaba fue resuelto por el mismo Congreso, que decidió modificar
+                la ley impugnada.
+                    Entre otros casos de importancia, la justicia tuvo un pronunciamien-
+                to relevante en «Vanhorne’s Lessee v. Dorrande»,59 donde el juez Patterson
+                sostuvo que «la Constitución es la suprema ley de la tierra; es soberana
+                con respecto al poder de la Legislatura, y no puede ser revocada o altera-
+                da sino por el poder que la hizo [...] y, por consiguiente, [todos los actos
+                de la Legislatura] deben ser conformes a ella, o serán nulos [...] es deber
+                de la Corte conformarse a la Constitución y declarar el acto [contrario a
+                la misma] nulo e ineficaz». De manera similar, el 8 de marzo de 1796, en
+                el caso «Hylton v. Estados Unidos», la Corte estableció que era su deber
+                decidir en contra de una ley, cada vez que esta fuese encontrada incom-
+                patible con la Constitución. El juez Chase, en dicha ocasión, pronunció
+                su conocida sentencia según la cual solo iba a declarar la inconstituciona-
+                lidad de una ley en caso de que se tratase de un «caso muy claro». En
+                «Ware Administrator v. Hylton», el juez Chase volvió a enfatizar la prima-
+                cía de la Constitución respecto de la ley.
+                    Lo cierto es que, hacia la época en que Marshall elaboró su conocida
+                sentencia, se había extendido ya la idea de la supremacía constitucional.
+                En este sentido, por ejemplo, legislaturas como las de Kentucky y Virginia
+                redactaron, en 1798, sendas resoluciones manifestándose en contra de las
+                Leyes de Extranjeros y de Sedición, y declarando la inconstitucionalidad
+                de normas opuestas a la primera enmienda de la Constitución norteame-
+                ricana. Manifestaron entonces que los estados tenían el deber de interpo-
+                nerse para impedir, dentro de sus respectivos límites, violaciones a los
+                derechos y las libertades. La idea era que si un estado juzgaba inconstitu-
+                cional una ley del Congreso, debía «interponerse» a ella para dejarla sin
+                efecto. Una vez vistos estos antecedentes, vayamos ahora al conocido caso
+                de «Marbury v. Madison».
+
+                59 Véase, por ejemplo, González Calderón, Juan. Derecho constitucional argentino. Buenos Aires,
+                   1930, p. 434.
+
+
+                                                                                                            61
+
+[[PDF p. 28]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 62
+
+
+
+
+                                             Roberto Gargarella
+
+
+             F) «MARBURY V. MADISON»
+
+             En 1800, y después de haberse efectuado las elecciones nacionales, John
+             Adams se vio obligado a dejar la presidencia que hasta entonces había
+             ocupado. Su sucesor iba a ser Thomas Jefferson, quien debía tomar el
+             mando en marzo de 1801. Ahora bien, en esta situación, Adams se deci-
+             dió a no perder, junto con la presidencia, el control de ciertas fundamen-
+             tales herramientas de poder. En particular, el entonces presidente se pre-
+             ocupó por conservar aliados en la ya conflictiva esfera judicial. En este
+             sentido, por ejemplo, debe entenderse la designación del entonces secre-
+             tario de Estado, Marshall, como presidente de la Suprema Corte.
+             Marshall, debe mencionarse, no era abogado ni juez, sino que era, un
+             militar que había combatido en la Guerra de la Independencia, había
+             seguido un breve curso de derecho y había participado, más o menos acti-
+             vamente, en las convenciones de ratificación de la Constitución.
+                 Más allá de la designación de Marshall en la Corte, el 13 de febrero el
+             Congreso aprobó la Circuit Act, que nominó a dieciséis nuevos jueces
+             federales de Segunda Instancia. El 27 del mismo mes se creó un número
+             ilimitado de nuevos cargos judiciales en el distrito de Columbia. El 3 de
+             marzo, un día antes de la asunción de Jefferson, Adams dedicó buena
+             parte de su tiempo a firmar designaciones judiciales. Fue tal el apresura-
+             miento que se produjo en el gobierno saliente, en este sentido, que los
+             nuevos magistrados fueron designados con el mote de midnight judges.
+             Más aún, algunas de las designaciones no pudieron ni siquiera ser notifi-
+             cadas a sus titulares. El encargado de tales notificaciones fue el ahora juez
+             Marshall.
+                 Aprovechando la confusa situación, y una vez asumida la presidencia
+             de la nación, Jefferson decidió no reconocer las designaciones no enviadas
+             por la administración anterior. Marbury fue uno de los jueces de paz pos-
+             teriormente no confirmados, por lo que decidió solicitar ayuda a la Corte
+             Suprema. En este sentido, reclamó que se expidiese un writ of mandamus
+             contra el nuevo secretario de Estado, Madison, ordenándole hacer efecti-
+             vo su nombramiento como juez. Marbury alegó entonces la Judiciary Act,
+             que he mencionado anteriormente, y que autorizaba a la Corte a dictar
+             autos de nombramiento como el que él pretendía obtener.
+
+             62
+
+[[PDF p. 29]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 63
+
+
+
+
+                                     La falta de legitimidad democrática de la justicia
+
+
+                    La situación no se presentaba fácil para Marshall, quien, sin embargo,
+                y como político, supo resolver la misma con elegante maestría. Antes que
+                nada, Marshall sabía que Jefferson, recién llegado al poder y con amplio
+                respaldo popular, iba a desobedecer sus instrucciones de nombrar juez a
+                Marbury. De ahí que Marshall optara por rechazar la petición de manda-
+                mus (con lo cual se aseguraba el respaldo de Jefferson a la sentencia), pero
+                a través de una fundamentación políticamente mucho más incisiva y con-
+                veniente: en ella iba a quedar asentado el derecho de los jueces a negar
+                validez a las leyes nacionales que se interpretasen contrarias a la
+                Constitución.
+                    En uno de los párrafos más sobresalientes de la sentencia, Marshall
+                sostuvo que «hay sólo dos alternativas—demasiado claras para ser discu-
+                tidas—: o la Constitución, controla cualquier ley contraria a aquélla, o la
+                legislatura puede alterar la Constitución mediante una ley ordinaria.
+                Entre tales alternativas no hay términos medios: o la Constitución es la
+                ley suprema, inalterable por medios ordinarios, o se encuentra al mismo
+                nivel que las leyes, y, por lo pronto, como cualquiera de ellas puede refor-
+                marse o dejarse sin efecto siempre que al Congreso le plazca. Si es cierta
+                la primera alternativa, entonces una ley contraria a la Constitución no es
+                ley; pero si en cambio es verdadera la segunda, entonces las constitucio-
+                nes escritas son absurdos intentos del pueblo para limitar un poder ilimi-
+                table por naturaleza...».60
+
+
+
+
+                60 «Marbury v. Madison», 5 U.S. (1 Cranch) 137 (1803).
+
+                                                                                          63
+
+[[PDF p. 30]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 64
+
+[[PDF p. 31]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 65
+
+
+
+
+                                              Capítulo 2
+
+                        El carácter contramayoritario
+                              del poder judicial:
+                         soluciones «conservadoras»
+
+[[PDF p. 32]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 66
+
+[[PDF p. 33]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 67
+
+
+
+
+                El carácter contramayoritario
+                del poder judicial:
+                soluciones «conservadoras»
+
+
+
+
+                Conservadurismo y elitismo
+                         n esta sección voy a ocuparme de lo que denominaré justificacio-
+
+                E        nes «conservadoras» del control de constitucionalidad.
+
+                    La tradición conservadora que aquí me interesa examinar sostenía que
+                para la toma de decisiones políticas correctas o imparciales no era necesario
+                consultar a todos los individuos potencialmente afectados por tales decisiones.
+                En este sentido, esta tradición tendió a vincular la idea de imparcialidad
+                con la reflexión aislada de algún individuo, o de algún reducido número
+                de individuos y no —como propondrían sus rivales teóricos— con algún
+                proceso mayoritario de participación o discusión política.
+                    A continuación, también haré referencia a una vertiente «elitista»,
+                dentro de esta tradición conservadora. La vertiente conservadora elitista,
+                según voy a definirla, no solo entendió que era innecesario «consultar a
+                todos los potencialmente afectados» —para garantizar que la decisión en
+                juego fuera una decisión imparcial— sino que sostuvo que solo la reflexión
+                de algunos individuos especialmente virtuosos o ilustrados podía garantizar
+                las buenas decisiones buscadas.61
+
+                61 La tradición conservadora no elitista queda definida, entonces, por exclusión respecto de la tradi-
+                   ción conservadora elitista. En este sentido, la tradición conservadora no elitista sostendrá que no
+                   es necesario consultar a todos los posibles afectados por una decisión para garantizar la imparcia-
+                   lidad de tal medida, pero rechazará la idea de que solo algunos individuos especialmente virtuo-
+                   sos puedan arribar a tales decisiones correctas.
+
+                                                                                                                   67
+
+[[PDF p. 34]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 68
+
+
+
+
+                                                     Roberto Gargarella
+
+
+                 John Locke, durante algún tiempo, caracterizó el pensamiento conser-
+             vador elitista (sobre todo, en su «primer tratado sobre el gobierno») a tra-
+             vés de la defensa de dos ideas centrales: primera, que existían ciertas «ver-
+             dades morales» cognoscibles por la razón, y segunda, que no todos esta-
+             ban capacitados para acceder a tales verdades. En el siglo XVIII, el pensa-
+             miento político inglés se distinguió por la presencia de esta línea de pen-
+             samiento. El influyente Adam Ferguson, por ejemplo, sostenía que «la
+             esencia de la libertad política» consistía en darle «el poder a los que saben»
+             dado que la ciudadanía común debía ser prevenida frente a «sus propias,
+             torpezas y equivocaciones».62 Pero, sin duda, la figura que simbolizó y
+             defendió más insistentemente este tipo de pensamiento elitista fue el inte-
+             lectual y político inglés Edmund Burke. En sus múltiples escritos, Burke
+             procuró distinguir entre las meras «opiniones» de la gente, y sus verdade-
+             ros «intereses», para decir luego que la mayoría de los ciudadanos —guia-
+             dos por opiniones precipitadas, prejuiciadas, o poco reflexivas— no
+             alcanzaban a reconocer los mejores medios para defender sus propios inte-
+             reses objetivos. La idea era que el «pueblo» tendía a guiarse por su simple
+             voluntad, y no por la razón, por lo cual era necesario que los individuos
+             más ilustrados de la comunidad definieran y defendieran tales «intereses»
+             objetivos. En una metáfora muy ilustrativa de su pensamiento, Burke
+             señaló que los ciudadanos —como pacientes que sufren alguna enferme-
+             dad— debían dar a conocer «los síntomas de sus dolencias», pero que
+             eran otros individuos, más ilustrados —como los médicos, siguiendo con
+             la metáfora— los que debían determinar «el lugar exacto de tales males,
+             y los remedios que debían ser aplicados».63
+                 Los criterios y las instituciones defendidas por los «padres fundadores»
+             norteamericanos parecen insertarse, obviamente, dentro de la más clásica
+             tradición conservadora, antes descrita. Según hemos visto, tanto en su
+
+             62 Ferguson, Adam. «Remarks on a Pamphlet Lately Published by Dr. Price», incluido en Richard
+                Price and the Ethical Foundations of the American Revolution. Duke U.P., 1979, ed. por Bernard
+                Peach, pp. 253-260.
+             63 Véase, por ejemplo, Freeman, Michael. Burke and the Critique of Political Radicalism (Oxford,
+                Blackwell, 1980), p. 124. Véase, también, Pitkin, Hanna. The Concept of Representation
+                (California, University of California Press, California, 1967). Un interesante análisis de este tipo
+                de criterios, también, en Garzón Valdés, Ernesto. «Representación y Democracia», Doxa
+                (Alicante), 6 (1989).
+
+
+             68
+
+[[PDF p. 35]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 69
+
+
+
+
+                                               Soluciones «conservadoras»
+
+
+                teoría acerca de las facciones y el comportamiento mayoritario, como en
+                sus particulares recomendaciones institucionales, aquella impronta con-
+                servadora resultaba notoria. La idea, en todos los casos, era que la impar-
+                cialidad de una decisión no requería de la consulta previa a «todos los
+                posibles afectados»: más aún, se sostenía que la imparcialidad podía llegar
+                a verse perjudicada a través de la apelación a la ciudadanía, dada la ten-
+                dencia de la misma a dejarse guiar por sus pasiones.
+                    De todos modos, entiendo que en las propuestas institucionales de los
+                «padres fundadores» pueden encontrarse, también, algunos rasgos del
+                pensamiento elitista. En mi opinión, los creadores de la Constitución
+                norteamericana confiaban en que algunos de los mecanismos que defen-
+                dían —como, típicamente, los distritos extensos, las elecciones indirectas,
+                las exigencias particulares de edad o determinados estudios para acceder a
+                ciertos cargos— iban a garantizar la elección de individuos especialmen-
+                te «ilustrados», que no participasen de las características más difundidas
+                entre los «ciudadanos comunes». Respecto a esto, por ejemplo, Morton
+                White ha hecho alusión al «elitismo epistemológico» propio de la clase
+                dirigente norteamericana, que les llevó a pensar que la ciudadanía común
+                no estaba capacitada para su autogobierno, y que «sólo aquellos que
+                [podían] superar la ambición, las malas predisposiciones, los prejuicios,
+                los intereses parciales, y los intereses inmediatos del hombre ordinario
+                estar[ían] capacitados para ver cuáles [eran] los verdaderos intereses de la
+                comunidad.64 En sentido similar, Bernard Manin ha tratado de demostrar
+                hasta qué punto era cierto, para los «federalistas» norteamericanos, que
+                «las elecciones conduc[ían] inherentemente a la selección de representan-
+                tes diferentes de —y superiores a— los representados».65
+                    Esta convicción acerca de la necesidad de diferenciar a los funciona-
+                rios públicos respecto de los ciudadanos comunes tuvo su expresión más
+                alta, seguramente, en lo relacionado con los miembros del poder judicial:
+                los jueces no solo debían decidir en última instancia sobre las más funda-
+                mentales cuestiones constitucionales, sino que, además, tenían la posibi-
+                lidad, por medio de sus fallos, de contradecir al Legislativo. Por ello, los
+
+                64 White, Morton. The Philosophy of the American Revolution, p. 216.
+                65 Véase Manin, Bernard. «Elections, Elites and Democracy: On the Aristocratic Character of
+                   Elections». Manuscrito. Universidad de Chicago, 1991.
+
+                                                                                                        69
+
+[[PDF p. 36]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 70
+
+
+
+
+                                             Roberto Gargarella
+
+
+             «padres fundadores» se preocuparon por estructurar el poder judicial, de
+             modo que las decisiones de sus miembros tuvieran las mayores garantías
+             de ser imparciales. Ello requería —conforme a los presupuestos antes
+             mencionados— contar con un cuerpo de jueces a) muy poco numeroso;
+             b) aislado del calor del debate público, y c) formado por individuos espe-
+             cialmente capacitados. Esta opción se correspondía con la tradición con-
+             servadora antes citada, en su presuposición de que las decisiones impar-
+             ciales eran completamente independientes de las decisiones a las que
+             pudiese llegar mediante el debate público. Y, por otro lado, dejaba entre-
+             ver su correspondencia con la —más específica— tradición elitista, en la
+             presuposición de que solo algunos individuos, especialmente ilustrados,
+             estaban en condiciones de determinar qué decisiones eran adecuadamen-
+             te imparciales. De todos modos, según veremos, los «padres fundadores»
+             —y Hamilton, en particular— trataron de dejar claro que el sistema de
+             control judicial que defendían no se vinculaba, en absoluto, con presu-
+             puestos conservadores o (mucho menos) elitistas.
+
+
+             CONSERVADURISMO, ELITISMO Y LA DEFENSA DEL CONTROL JUDICIAL
+             DE CONSTITUCIONALIDAD
+
+
+             La visión de los «padres fundadores» acerca del control judicial de consti-
+             tucionalidad quedó resumida, básicamente, en las consideraciones que
+             Alexander Hamilton hiciera al respecto en El Federalista, n.° 78. Él fue,
+             además, el que advirtió con mayor claridad el tipo de problemas que el
+             control judicial podía llegar a generar. El problema más obvio al que debía
+             enfrentarse, en tal sentido, estaba vinculado a preguntas como las siguien-
+             tes: ¿Cómo puede ser que los jueces —funcionarios que no son elegidos
+             directamente por la ciudadanía, y cuyo mandato tampoco está sujeto al
+             periódico escrutinio popular— tengan la capacidad de revertir decisiones
+             tomadas por el poder legislativo, esto es, por un cuerpo destinado clara-
+             mente a constituirse en «voz» de la ciudadanía? ¿Acaso una sociedad que
+             quiera asentarse en la autoridad del pueblo no debe guiarse por la volun-
+             tad mayoritaria, y no por la voluntad de un grupo de funcionarios supues-
+             tamente ilustrados como son los jueces? ¿Permitir el control judicial de las
+
+             70
+
+[[PDF p. 37]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 71
+
+
+
+
+                                             Soluciones «conservadoras»
+
+
+                leyes, en definitiva, no implica consagrar institucionalmente reprochables
+                criterios conservadores?
+                    Hamilton se apresuró a dar respuesta a tales inquietudes y fue uno de
+                los pioneros en defender la posibilidad de un control judicial de las leyes,
+                negando (lo que hoy denominaríamos) las posibles implicaciones antide-
+                mocráticas de dicho control. El razonamiento de Hamilton fue el siguien-
+                te: en primer lugar, el hecho de que el poder judicial tenga la capacidad
+                de negar la validez de una norma legislativa no implica de ningún modo
+                la superioridad de los jueces respecto de los legisladores. Dicha operación
+                tampoco supone poner en cuestión la «voluntad soberana del pueblo». Al
+                contrario, la decisión de anular una ley viene a reafirmar, justamente, el
+                peso de la voluntad popular. Ello se debe a que, al anular una ley, el poder
+                judicial ratifica la supremacía de la Constitución, que es el documento que
+                más fielmente refleja la voluntad soberana del pueblo. Con palabras de
+                Hamilton: «[mi razonamiento] no supone de ningún modo la superiori-
+                dad del poder judicial sobre el legislativo. Solo significa que el poder del
+                pueblo es superior a ambos, y que donde la voluntad de la Legislatura,
+                declarada en sus leyes, se encuentra en oposición con la del pueblo, decla-
+                rada en la Constitución, los jueces deberán gobernarse por esta última
+                antes que por las primeras. Deberán regular sus decisiones por las normas
+                fundamentales antes que por las que no lo son».66
+                    Con argumentos tan sencillos como los enunciados, Hamilton inver-
+                tía, directamente, las eventuales críticas al poder judicial: el influyente
+                político de Nueva York respondió a la posible impugnación de la capaci-
+                dad judicial para anillar las normas legislativas, diciendo que, justamente,
+                dicha, capacidad resultaba defendible y valiosa como un medio para ase-
+                gurar la protección de la voluntad de las mayorías. El verdadero peligro,
+                la verdadera amenaza a la autoridad suprema del pueblo surgía cuando se
+                le negaba a los jueces su capacidad revisora o —lo que parecía ser lo
+                mismo— si se autorizaba, implícitamente, la promulgación de leyes con-
+                trarias a la Constitución.
+                    La argumentación presentada por Hamilton fue luego retomada por
+                el juez Marshall, en la citada opinión en «Marbury v. Madison» para decir
+
+                66 El Federalista, n.° 78.
+
+
+                                                                                         71
+
+[[PDF p. 38]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 72
+
+
+
+
+                                             Roberto Gargarella
+
+
+             que «hay sólo dos alternativas demasiado claras para ser discutidas, o la
+             Constitución controla cualquier ley contraria a ella, o la Legislatura puede
+             alterar la Constitución mediante una ley ordinaria», y terminar defen-
+             diendo la necesidad del control judicial sobre las leyes inconstitucionales.
+             Este tipo de justificaciones, desde entonces, pasó a constituir una de las
+             más sólidas y difundidas defensas del control judicial, ya que en cualquier
+             país donde se acepta la revisión judicial de las leyes, se recurre a principios
+             similares a los sostenidos por Hamilton, y luego por Marshall, porque
+             cuando se pretende el «autogobierno» del pueblo, y se pretende mantener
+             inviolada la autoridad del pueblo—voluntad enraizada en la
+             Constitución—, se está requiriendo un órgano capacitado para revisar la
+             validez de las leyes.
+
+
+             DEL RENACIMIENTO DE LA CRÍTICA A LA REVISIÓN JUDICIAL DE LAS LEYES
+
+             A pesar de la popularidad de la argumentación dada por Hamilton, y
+             luego por el juez Marshall en defensa del control judicial, corresponde
+             señalar que las objeciones a dicha práctica —en virtud de su carácter con-
+             servador o elitista— fueron retomando su fuerza inicial en los últimos
+             años. En mi opinión, existen hoy al menos tres razones significativas para
+             contradecir la argumentación de Hamilton-Marshall en favor del control
+             judicial.
+                 A) El primer argumento, al que podríamos llamar el argumento histó-
+             rico, procura negar el valor de la premisa inicial del razonamiento de
+             Hamilton-Marshall. Se afirma, en este caso, que no es verdad que la
+             Constitución refleje la «voluntad del pueblo». En el caso particular de los
+             Estados Unidos, ello quedaría demostrado con una simple investigación
+             histórica, que ratificaría lo que ya se sabe: cuando se redactó la
+             Constitución, buena parte del «pueblo» de los Estados Unidos resultó
+             directamente ignorado o excluido, puesto que no se los consideraba «ciu-
+             dadanos»: los esclavos, las personas de color, las mujeres y los que no
+             tenían una posición económica decente no participaron ni directa, ni
+             indirectamente, en el proceso constitucional. Algo similar, aunque con
+             distintos matices, puede constatarse en muchos procesos constitucionales
+
+             72
+
+[[PDF p. 39]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 73
+
+
+
+
+                                            Soluciones «conservadoras»
+
+
+                modernos: normalmente, los constituyentes distan de representar adecua-
+                damente a la ciudadanía, o parecen representarla en un primer momento y
+                luego se distancian de ella, o actúan otorgando una consideración muy
+                limitada a las reivindicaciones mayoritarias, etc.
+                    Obviamente, este argumento es adecuado, sobre todo para refutar
+                ciertos criterios que hoy se presentan como indiscutibles, pero que distan
+                mucho de serlo —por ejemplo, la ampulosa invocación del respeto a la
+                voluntad popular, por parte de los constituyentes, cuando en verdad
+                dicha voluntad puede incluso estar siendo desatendida. Sin embargo, aquí
+                no voy a detenerme más en el argumento histórico, dada la debilidad que
+                en el fondo presenta, puesto que bien puede darse el caso de que nos
+                encontremos frente a un proceso constituyente irreprochable, perfecta-
+                mente respetuoso de la voluntad mayoritaria, y, entonces, este hipotético
+                caso bastaría para anular la crítica de carácter histórico recién esgrimida.
+                Por ello, la impugnación a la «limpieza» o aceptabilidad moral del mismo
+                proceso constituyente solo nos proporciona una herramienta muy débil
+                para criticar el control de constitucionalidad.
+                    B) Un segundo argumento en contra de la defensa de Hamilton-
+                Marshall acerca de la revisión judicial es el llamado argumento intempo-
+                ral. En este caso, se acepta la peculiaridad —el carácter especial y distin-
+                tivo— del proceso de creación constitucional. Se reconoce, pues, que en
+                dicho momento la sociedad se autoconvocó para reflexionar acerca del
+                mejor modo de organizarse, y, además, que tal acontecimiento merece
+                una consideración diferente: no pueden evaluarse como equivalentes una
+                Constitución surgida de la deliberación pública reposada y una ley surgi-
+                da al calor de presiones circunstanciales. En última instancia, este argu-
+                mento parte de la legítima admisión de la supremacía constitucional. Sin
+                embargo —y aquí es donde comienza a desarrollarse el argumento intem-
+                poral—, se afirma lo siguiente: si se valora especialmente ese «primer»
+                momento constitucional, ello se debe a que se valora el consenso popular,
+                profundo y meditado, que distinguió al mismo. Ahora bien, ¿por qué no
+                puede pensarse que, con el paso del tiempo, volvamos a encontrarnos con
+                un consenso popular profundo y meditado? ¿Qué razón vamos a tener, si
+                es que se presenta un caso semejante, para hacer prevalecer la voluntad de
+                unos sujetos tal vez ya muertos hace mucho tiempo, sobre la voluntad
+                actual de la ciudadanía?
+
+                                                                                         73
+
+[[PDF p. 40]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 74
+
+
+
+
+                                             Roberto Gargarella
+
+
+                 En los Estados Unidos este argumento intemporal ha sido desarrolla-
+             do, muy particularmente, por Bruce Ackerman, de quien hablaré más
+             adelante. Sin embargo, tal vez valga la pena mencionar que los defensores
+             del control judicial de las leyes tienen al menos dos réplicas prontas fren-
+             te a tal posible objeción. La primera (que sería rechazada por Ackerman)
+             diría lo siguiente: si es cierto que se cuenta con un consenso tan amplio y
+             profundo ¿por qué no se reforma la Constitución? La segunda réplica (a
+             la que Ackerman, de algún modo, se va a adherir) sería: pues bien, admi-
+             timos el posible surgimiento de nuevos consensos amplios y profundos.
+             No obstante, mantenemos nuestra defensa del control judicial de las
+             leyes, solo que ahora les recomendamos a los jueces que, en vez de con-
+             trolar la validez, de las leyes (exclusivamente) a la luz de la voluntad ori-
+             ginaria de la ciudadanía, realicen dicho análisis a la luz de todos los «acuer-
+             dos fundamentales» alcanzados por la sociedad a lo largo de su historia.
+             Esta línea de argumentación da lugar a problemas bastante complejos
+             que, por el momento, prefiero dejar en este punto, para retomarlos al
+             final de mi trabajo.
+                 C) Quiero añadir una tercera posible crítica, que basaré en el argumen-
+             to sobre la interpretación. En este caso se afirma lo siguiente: cuando
+             Hamilton o Marshall se refieren a la tarea judicial lo hacen presuponien-
+             do el carácter más o menos obvio de la interpretación. Es decir que asu-
+             men la tarea de los jueces frente a la Constitución es una tarea más bien
+             «automática». Al parecer, para conocer qué es lo que dice la Constitución
+             bastaría con tomar el texto fundamental y leerlo. Luego, y dada la aparen-
+             te transparencia de este proceso, podría afirmarse que los jueces no hacen
+             nada más que «leer la Carta Magna a viva voz». Nos hacen saber, simple-
+             mente, qué es lo que decían los constituyentes, y que nosotros, o algunos
+             de entre nosotros, parecemos haber olvidado.
+                 Ocurre, sin embargo, que los jueces hacen mucho más que efectuar
+             una «mera lectura» de la Constitución. En algunos casos, los jueces
+             «incorporan» al texto soluciones normativas que no estaban —al menos
+             explícitamente— incorporadas en el mismo. Así, por ejemplo, considére-
+             se el conflictivo caso del aborto: la mayoría de las constituciones no dicen
+             absolutamente nada acerca del aborto —como no dicen nada acerca de
+             infinidad de otras cuestiones, rehuyendo (razonablemente) el riesgo de
+
+             74
+
+[[PDF p. 41]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 75
+
+
+
+
+                                            Soluciones «conservadoras»
+
+
+                desarrollar una Constitución de una extensión infinita. Sin embargo, la
+                mayoría de los jueces asumen —en ese caso, como en tantos otros— la
+                tarea de «desentrañar» posibles respuestas a tales dilemas, como si ellas
+                residieran, supuestamente, en los intersticios de la Constitución.
+                Obviamente, en este tipo de casos, una defensa como la de Hamilton-
+                Marshall resulta insuficiente: no puede decírsenos que los jueces «simple-
+                mente» nos señalan lo que no habíamos visto, esto es, la voluntad de quie-
+                nes redactaron la Constitución, porque esa voluntad no estaba explicita-
+                da en el texto, y los jueces han asumido una tarea que negaban estar lle-
+                vando a cabo: la de reemplazar a los legisladores —a la voluntad ciudada-
+                na, en general— en la resolución de las cuestiones fundamentales. En el
+                ejemplo en cuestión, una minoría de jueces decide, en nombre y en lugar
+                del resto de la ciudadanía, qué es lo que debe hacerse en materia de polí-
+                tica abortista.
+                    De todos modos, situaciones como las citadas no se presentan exclu-
+                sivamente en los casos en que falta una consideración constitucional
+                explítica acerca de determinados «casos difíciles». Bien pudiera ocurrir,
+                por ejemplo, que la Constitución hiciera una clara referencia a una deter-
+                minada solución normativa, pero ante un caso concreto no supiéramos
+                qué interpretación exacta otorgarle a tal solución. Tomemos, por ejemplo,
+                un caso normalmente recogido en todas las constituciones modernas: la
+                libertad de expresar nuestras ideas a través de la prensa. Cualquier
+                Constitución garantiza del modo más amplio posible el respeto de tal
+                libertad. Pero ¿qué es lo que nos ordena dicho precepto, tan prístinamen-
+                te redactado, en caso de que nos enfrentemos a una proclama terrorista?
+                ¿Y qué nos dice respecto de las publicaciones pornográficas? ¿Y acerca de
+                la revelación de «secretos de Estado» (p. ej., la fórmula para el armamen-
+                to de un artefacto nuclear)? Esto es, aun los artículos más claros de la
+                Constitución se tornan relativamente imprecisos frente a casos concre-
+                tos, y exigen de un complejo proceso interpretativo. Luego, si los jueces
+                quedan legitimados para dar —con carácter final— la interpretación
+                «adecuada» de los textos constitucionales, entonces, imperceptiblemen-
+                te, pasa a sus manos un enorme poder de decisión. Si consideramos los
+                ejemplos citados, nos encontramos con que los jueces, y no los ciudada-
+                nos o sus representantes, estarían decidiendo sobre la posibilidad de que
+
+                                                                                       75
+
+[[PDF p. 42]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 76
+
+
+
+
+                                                Roberto Gargarella
+
+
+             se difundan, o no, ciertas ideas, sobre la posibilidad de que se consuman,
+             o no, publicaciones que —conforme a cierto sector de la población—
+             resultarían inmorales, sobre la posibilidad de que algunos accedan al
+             conocimiento de información potencialmente dañina. Y es este poder
+             extraordinario, que quedaría concedido a los jueces y no al «pueblo», lo
+             que resulta razonablemente cuestionable.
+
+
+             CRÍTICAS AL «CARÁCTER CONTRAMAYORITARIO» DEL PODER
+             JUDICIAL Y ALTERNATIVAS FRENTE A ELLAS
+
+
+             A partir de este tipo de criterios, el jurista Alexander Bickel contribuyó a
+             hacer renacer la crítica a (lo que él denominó) el «carácter contramayori-
+             tario» del poder judicial. Desde las primeras páginas de su famoso libro
+             The Least Dangerous Branch, Bickel negó la validez de los argumentos de
+             Hamilton y Marshall. Ambos presentan argumentos engañosos —afirmó
+             Bickel— porque invocan al pueblo para justificar la revisión judicial
+             cuando, en realidad, lo que hacen es justificar una frustración de «la
+             voluntad de aquellos que efectivamente representa[ban] al pueblo». Los
+             jueces —agregaba— «ejercen un control que no favorece a la mayoría pre-
+             valeciente, sino que va contra ella. Esto [...] es lo que realmente ocurre
+             [...] ésta es la razón por la que se puede acusar al poder de revisión judi-
+             cial de ser antidemocrático».67 En su opinión, la revisión judicial represen-
+             ta «el poder de aplicar y dar forma a la Constitución, en cuestiones de la
+             mayor importancia, contra los deseos de las mayorías legislativas que son, a su
+             vez, incapaces de torcer la decisión-judicial».68 A partir del trabajo de Bickel,
+             en particular, el cuestionamiento a la legitimidad del poder judicial se con-
+             virtió en un tópico común entre los académicos y profesionales del dere-
+             cho. De acuerdo con Lawrence Tribe, tal vez la voz más respetada dentro
+             del derecho constitucional norteamericano, «en una sociedad política que
+             aspira a una democracia representativa o al menos a tener un sistema de
+             representación popular, los ejercicios del poder que no pueden encontrar
+
+             67 Bickel, Alexander. The Least Dangerous Branch. Indianápolis, Bobbs-Merrill Educational
+                Publishing, 1978, p. 17.
+             68 Ibíd., p. 20. La cursiva es mía.
+
+             76
+
+[[PDF p. 43]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 77
+
+
+
+
+                                                Soluciones «conservadoras»
+
+
+                justificación última en el consenso de los gobernados resultan muy difíci-
+                les, cuando no imposibles, de justificar».69 Otros constitucionalistas se
+                preguntaron, en idéntico sentido: si alguno de los poderes de gobierno
+                debe encargarse de interpretar la voluntad popular, ¿por qué no confiar
+                dicha misión a los órganos de representación popular?70
+
+
+
+
+                69 American Constitutional Law. Mineola, Nueva York, The Foundation Press, Inc., 1978, p. 48.
+                70 Véase, por ejemplo, Agresto, John. The Supreme Court and Constitutional Democracy. Cornell
+                   University Press, p. 52.
+
+                                                                                                          77
+
+[[PDF p. 44]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 78
+
+[[PDF p. 45]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 79
+
+
+
+
+                Apéndice al capítulo 2*
+
+
+
+
+                Interpretación de las leyes y control judicial
+
+                       as principales críticas al carácter contramayoritario del poder judicial
+
+                L      nacen, al menos en buena medida, una vez que se abre (lo que
+                       podríamos llamar) la brecha interpretativa. Es decir, si se acusa al
+                poder judicial de adentrarse en campos que deberían corresponder a los
+                ciudadanos, o a sus representantes, ello se debe a que ahora se advierte,
+                algo que antes, por alguna razón, no se advertía claramente: a través de su
+                inevitable tarea interpretativa, los jueces terminan, silenciosamente,
+                tomando el lugar que debería ocupar la voluntad popular. Justamente en
+                razón de este hecho, muchos de los que hoy quieren seguir defendiendo la
+                legitimidad de la tarea de revisión judicial procuran hacerlo, por medio de
+                argumentos capaces de «cerrar» tal «brecha interpretativa».71 La estrategia
+                que se adopta, entonces, es la siguiente: demostrar que existen formas más
+
+                *  Este apartado se encuentra dirigido a complementar el capítulo anterior. El mismo puede ser de
+                   particular interés para juristas o lectores especialmente interesados en profundizar las cuestiones
+                   planteadas en el capítulo 2. El lector que lo considere apropiado, puede continuar directamente
+                   la lectura de los capítulos posteriores, obviando el presente apartado, más técnico.
+                71 Por supuesto, las tareas de desarrollar una teoría interpretativa adecuada y justificar el control
+                   judicial de constitucionalidad no siempre van juntas. Sino que son tareas que han nacido y se han
+                   desarrollado separadamente. De todos modos, y con el mero fin expositivo, aquí las presento de
+                   forma unida, reflejando —de algún modo— una unidad que suele encontrarse en muchos escri-
+                   tos de derecho constitucional, en los que se defiende la revisión judicial, asumiendo, simplemen-
+                   te, la obviedad de alguna teoría interpretativa o la combinación entre algunas de ellas.
+
+
+                                                                                                                   79
+
+[[PDF p. 46]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 80
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             o menos obvias —y no arbitrarias— de interpretar la Constitución y las
+             leyes en general, para luego (volver a) afirmar que los jueces «no gobier-
+             nan» ni reemplazan a los legisladores sino que, «simplemente», dan cuen-
+             ta del significado del texto fundamental.72
+                 En lo que sigue voy a analizar distintos intentos de justificar el control
+             judicial de las leyes, basados en el presupuesto de que las normas tienen
+             un significado relativamente claro —o cognoscible de un modo no arbi-
+             trario—, o en la idea de que los jueces se encuentran en una posición
+             óptima para realizar tal interpretación. Voy a construir mi análisis, funda-
+             mentalmente, a partir de dos tipos de argumentos a los que suele recurrir-
+             se en la defensa del rol interpretativo de los jueces: los argumentos «origi-
+             nalistas» y los argumentos «no originalistas».73
+                 Los argumentos originalistas parten del reconocimiento de que los
+             jueces, en su tarea de «lectura» de la Constitución, se ven permanente-
+             mente forzados a interpretarla. Sin embargo, entienden que dicha tarea
+             no presenta mayores complejidades: solo se requiere estar capacitado para
+             realizar las investigaciones que sean pertinentes en cada casa y para
+             «desentrañar» el sentido que originariamente se le otorgó a la
+             Constitución. El argumento central del originalismo, posiblemente, con-
+             siste en afirmar que «no es necesario ir más allá de la Constitución» para
+             entenderla, sino que lo que se requiere es «adentrarse en ella», hasta
+             encontrar los significados que hoy no nos resultan claros.
+                 Los argumentos no originalistas, en cambio, reconocen que al inter-
+             pretar la Constitución, los jueces deben hacer algo más que «adentrarse»
+             en ella. En muchas ocasiones, se admite, los jueces deben «escapar de las
+             cuatro esquinas de la Constitución», y salir a buscar, en alguna parte, las
+             respuestas que en ella no se encuentran.74 Una vez que se reconoce cuál es
+             la «fuente» externa capaz de proveernos de las respuestas que necesitamos,
+
+             72 La frase según la cual «los jueces gobiernan» pertenece a Jacques Lambert, y surge del título de su
+                libro Le gouvernement des juges. París, 1921. Louis Bodin, en 1932, publicó en Estados Unidos un
+                libro con un título idéntico (Government by Judiciary).
+             73 Un excelente y muy sintético estudio al respecto puede encontrarse en Juan Carlos Bayón, «El
+                debate sobre la interpretación constitucional en la reciente doctrina norteamericana (Dworkin,
+                Ely, Tribe, Barber)». Revista de las Cortes Generales (Madrid), 4 (1985): 137-153.
+             74 Véase, al respecto, Ely, John. Democracy and Distrust. A Theory of Judicial Review. Cambridge,
+                Mass., Harvard U.P., 1980.
+
+             80
+
+[[PDF p. 47]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 81
+
+
+
+
+                                                      Apéndice al capítulo 2
+
+
+                la tarea de los jueces vuelve a convertirse en una tarea (más o menos)
+                indisputable.
+                    A continuación examinaré brevemente la plausibilidad de los argu-
+                mentos originalistas y no originalistas.
+
+
+                A) ARGUMENTOS ORIGINALISTAS
+
+                El originalismo fue uno de los primeros métodos interpretativos propues-
+                tos como un medio capaz de justificar la «neutralidad» de la función de
+                los jueces. El mismo método había sido sugerido por Madison, en su
+                tiempo, quien sostuvo que si no se respetase lo establecido por la
+                Constitución y por las convenciones que la ratificaron, no habría posibi-
+                lidad de asegurar un gobierno estable y consistente. Hamilton se pronun-
+                ció en el mismo sentido y James Wilson, otro activo participante de la
+                Convención Constituyente, se mostró aún más explícito al respecto. En
+                su opinión: «la primera y más importante máxima en la interpretación de
+                un texto legal consiste en descubrir el significado que le dieron aquellos
+                que lo redactaron». Años después, el famoso juez Story también se pro-
+                nunció a favor de este tipo de estándares interpretativos, fijos e inmodifi-
+                cables.75 Más tarde, otro famoso juez, el juez Black, propuso también cier-
+                tas reglas «fijas» para ir en búsqueda de las intenciones de quienes redac-
+                taron la Constitución.76
+                    La idea de recurrir a las intenciones originarias de los autores de los
+                textos legales aparece, en principio, como un modo eficaz para evitar los
+                riesgos de una «tiranía de los jueces». La solución en juego propone que
+
+                75 Véanse estos testimonios en Berger, Raoul. Government by Judiciary. Cambridge, Mass., Harvard
+                   U.P., 1977, cap. 20.
+                76 Mencionaría entonces, básicamente, los anales de los debates constituyentes, los anales que regis-
+                   traron la incorporación del «Bill of Rights» y restantes enmiendas, evidencias de las opiniones pre-
+                   valecientes en los tiempos de aquellos debates, y otras pruebas que testimonien las opiniones de
+                   tales dirigentes y sus allegados, con posterioridad al dictado de tales documentos. En su famosa
+                   disidencia en el caso «Adamson v. California», de 1947, por ejemplo, el juez Black defendió una
+                   particular postura en torno al «Bill of Rights» a partir del «estudio de los eventos históricos que
+                   culminaron en la Enmienda Catorce, las expresiones de aquellos que alentaron y favorecieron la
+                   misma, así como la de quienes se opusieron a su envío y aprobación».
+
+
+                                                                                                                    81
+
+[[PDF p. 48]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 82
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             la justicia se guíe por la «mano muerta del pasado», como medio de esca-
+             par de la indeseable posibilidad contraria (que los jueces traten de «dar
+             vida a la Constitución», a partir de sus propios criterios).
+                 Sin embargo, y pese a los enormes esfuerzos realizados en pos de esta-
+             blecer reglas «fijas» para la interpretación del «pasado», lo cierto es que
+             parece inevitable que sigan existiendo unos amplios márgenes de indeter-
+             minación, que permanecen librados al buen criterio de los jueces. En un
+             lúcido análisis de las posturas originalistas, Ronald Dworkin señaló algu-
+             nos de los problemas que estas suelen dejar abiertos.77 Así, por ejemplo,
+             ¿las intenciones de qué individuos debemos tomar en cuenta para evaluar
+             tales «intenciones originarias»? ¿Acaso se trata de las intenciones de cada
+             uno de los constituyentes que participaron en debates como los mencio-
+             nados?; ¿las de quienes tuvieron un papel más relevante en los mismos?;
+             ¿las intenciones de quienes redactaron cada artículo en particular? ¿Y qué
+             hacer con las intenciones de los grupos de presión más influyentes que
+             estuvieron detrás de la redacción de tales artículos? ¿Y respecto de las
+             motivaciones inconscientes, los temores, o los prejuicios de tales indivi-
+             duos? Por otra parte, y en cuanto a las motivaciones conscientes de los que
+             participaron en la obra constituyente, ¿debemos considerar solo las vin-
+             culadas con el dictado de la Constitución, o debemos admitir también
+             aquellas otras relacionadas, por ejemplo, con su destino personal? (así, por
+             ejemplo, ¿cómo valorar el apoyo dado a un artículo no tanto por convic-
+             ciones teóricas, sino por el interés de ganar prestigio dentro de una deter-
+             minada fracción política?). O, también, ¿qué importancia se debe asignar
+             a los que no corrigieron o no enmendaron la Constitución?78
+                 Para Mark Tushnet, el originalismo implica una abierta contradicción.
+             Por un lado, se recurre al método hermenéutico para analizar la historia
+             evitando arbitrariedades y, por otro, se deja de lado este método a fin de
+             seleccionar e interpretar las intenciones originarias, ya que no solo se nece-
+             sita reconstruir el pasado, sino que además hay que hacerlo creativamente
+
+             77 Dworkin, Ronald. Law’s Empire. Cambridge, Mass., Harvard U.P., 1986.
+             78 Otra pregunta pertinente, también formulada por autores como Dworkin, tiene que ver con el
+                nivel de generalidad con el que se encara la tarea interpretativa. ¿Es que, por ejemplo, se trataba
+                de un «concepto» general, a ser completado en cada tiempo, o de una «concepción» particular,
+                válida para cualquier tiempo? Véase Dworkin. «The Forum of Principle». New York Univ. Law
+                Review, 56 (1981): 469, 490.
+
+             82
+
+[[PDF p. 49]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 83
+
+
+
+
+                                                    Apéndice al capítulo 2
+
+
+                para poder superar el salto entre aquel tiempo y el presente. En definitiva,
+                el originalismo exige a los jueces tomar una multiplicidad de decisiones
+                que subvierten las pretendidas limitaciones impuestas por esta doctrina.
+                Por la puerta trasera, entonces, parece retornar la discrecionalidad judicial
+                que teóricamente se quiere evitar.79
+                    Otras variantes vinculadas al originalismo han naufragado en iguales
+                problemas que el antes citado. Una de estas alternativas ha sido la de
+                tomar en cuenta escenarios contrafácticos con el objeto de resolver posi-
+                bles dudas interpretativas a través de preguntas hipotéticas. Así, por ejem-
+                plo, uno podría preguntarse: ¿Qué respuesta nos daría hoy el legislador
+                constituyente si le preguntásemos acerca de cómo resolver el problema x?
+                Parece claro, en este caso, que cualquiera de nuestras reconstrucciones se
+                encontraría teñida de infinidad de decisiones arbitrarias: jamás podríamos
+                llegar a evaluar adecuadamente todos los factores que, de manera inevita-
+                ble, habrían influido en la decisión de aquél. Nuestra respuesta, entonces,
+                solo sería posible mediante una muy polémica tarea de «recorte y suma»
+                de datos y circunstancias.
+                    Otra posibilidad interpretativa ha sido la de hurgar en las conviccio-
+                nes básicas subyacentes en la Constitución. Lo cierto es que, aun en este
+                caso, se reproducen los problemas que queríamos evitar. ¿Debemos tomar
+                en cuenta las convicciones predominantes en la época?, ¿las de un grupo?,
+                ¿las de algunos individuos en particular? ¿Cómo evaluar, además, las con-
+                vicciones contrapuestas de grupos diferentes? ¿Y cómo las de una misma
+                persona que, a la vez, puede sostener principios contradictorios respecto
+                de cuestiones diferentes?
+
+                B) ARGUMENTOS NO ORIGINALISTAS
+
+                — Tradiciones
+
+                Para otros autores, el recurso a las «tradiciones» permite superar las críti-
+                cas a la función judicial en el control de las leyes. La apelación a las tra-
+                diciones siempre apareció teñida de un cierto conservadurismo. De todos
+
+                79 Tushnet, Mark. Red, White, and Blue. Harvard U.P., 1988, pp. 36 ss.
+
+
+                                                                                          83
+
+[[PDF p. 50]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 84
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             modos, también es cierto que el recurrir a ellas (al menos en teoría) nos
+             puede abrir las puertas al conocimiento de pautas y modos de comporta-
+             miento que la sociedad, al menos tácitamente, parece haber consentido.
+             Las tradiciones nos hablan de prácticas sobre las cuales una comunidad
+             insiste a lo largo del tiempo. Ellas pueden representar, de alguna manera,
+             algo así como una «sabiduría social decantada» y por ello, la propuesta de
+             respetarlas en todo lo posible puede resultar atractiva: lo que se sugiere es
+             aplicar fórmulas que a) se han aplicado con éxito; b) presentan algún tipo
+             de aceptación general; c) prometen (en consecuencia, y de algún modo)
+             estabilidad, y d) al mismo tiempo, generan seguridad en la sociedad, que
+             sabe a qué atenerse en el futuro. La defensa de las tradiciones, por razones
+             como las citadas, encuentra aún consenso en algunos filósofos políticos de
+             nuestra época, que las toman como base para definir los parámetros de la
+             «vida buena» dentro del contexto de cada comunidad particular.80
+                 En el marco de este trabajo resulta especialmente importante tener en
+             cuenta el peso de este tipo de posturas (de defensa de las tradiciones) en
+             los años previos a la Convención Constituyente norteamericana, cuando
+             se sentaron las bases del actual modelo de organización institucional. De
+             dicha época, tal vez nadie se haya destacado tanto en la defensa del valor
+             de las tradiciones como Edmund Burke, político y escritor de gran
+             influencia tanto en Inglaterra como en Estados Unidos. Burke recurrió a
+             la reivindicación de las tradiciones, sobre todo como reacción a una serie
+             de filósofos orientados a la reivindicación de ideas como la del «autogo-
+             bierno» (ideas que en dicha época se expandirían enormemente, paralela-
+             mente a la Revolución francesa). Burke, según veremos, sostuvo una par-
+             ticular polémica en este sentido con el grupo de los «radicales disidentes»
+             de Inglaterra, y muy en especial con Richard Price.81 Respecto de las doc-
+             trinas que apoyaba este último, basadas en la noción del autogobierno,
+             Burke afirmó que eran «destructivas de toda autoridad»,82 y dio a conocer
+             su famosa visión prescriptiva, argumento clave en su conservadurismo,
+
+             80 Véase, por ejemplo, MacIntyte, Alasdair. After Virtue. Duckworth, Londres, 1981.
+             81 Véase, por ejemplo, Richard Price and the Ethical Foundations of the American Revolution.
+                Durham, N. C. Duke U.P. 1979, ed. por Bernard Peach.
+             82 Véase, Burke, carta a «John Farr y John Harris», en Edmund Burke. Selected Writings. Nueva York,
+                Modern Library. 1960.
+
+
+             84
+
+[[PDF p. 51]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 85
+
+
+
+
+                                                      Apéndice al capítulo 2
+
+
+                según la cual se debía una «natural reverencia» a toda institución o prác-
+                tica que hubiese existido en una edad anterior, y que todavía perdurase.83
+                    Sin embargo, muchos de los contemporáneos de Burke se manifesta-
+                ron contra las pretensiones ultraconservadoras de este. Algunos de ellos,
+                en su crítica, esbozaron objeciones que hoy siguen siendo válidas en la
+                confrontación con estas posiciones. Así, por ejemplo, Thomas Paine seña-
+                ló que mediante la apelación a las tradiciones podían encontrarse una
+                infinitud de autoridades diferentes, cada una de ellas contradictoria con
+                las restantes.84
+                    Dentro del ambiente jurídico contemporáneo, la aproximación a las
+                tradiciones revistió diversos matices. Para el famoso juez Oliver W.
+                Holmes, el «único interés en el pasado es el de buscar luces para iluminar
+                el presente». Con una posición moderada, el profesor Terrance Sandalow
+                sostiene que los jueces deberían demostrar que las decisiones que toman
+                expresan valores que la sociedad ha sostenido siempre como fundamenta-
+                les. Una de las principales formas para lograr este cometido sería la de
+                mostrar que los valores citados se encuentran enraizados en la historia,
+                que «no son el mero resultado de los intereses o las pasiones del momen-
+                to».85 La búsqueda, en este caso, no debería orientarse a encontrar el sig-
+                nificado preciso que los constituyentes originarios quisieron darle a algún
+                término, ni debería dirigirse al conocimiento del sistema de valores que
+                aquéllos adoptaron en su momento. Esto es, lo importante no sería el
+                estar en condiciones de deducir de aquel pasado unas ciertas conclusiones
+                para nuestro tiempo, sino utilizar tales antecedentes para una mejor com-
+                prensión de las elecciones que hoy debemos hacer y de los riesgos que
+                pueden aparejarnos algunas soluciones alternativas.
+
+                83 La polémica entre Price y Burke siguió, después de dichas disputas, sobre todo cuando el prime-
+                   ro comenzó a hacer explícita su defensa de los ideales de la Revolución francesa. Fue allí cuando
+                   Burke escribió su «Reflections on the Revolution in France», en donde aconsejó a Price que, si
+                   estaba «ansioso de conocer el espíritu de la Constitución», comenzase a estudiar la historia de la
+                   misma. Propuso entonces una «orgullosa sumisión» frente a las jerarquías, la vuelta a una «obe-
+                   diencia dignificante, a la subordinación del corazón». Véase Kramnick, Isaac. The Rage of Edmund
+                   Burke. Portrait of an Ambivalent Conservative. Nueva York, Basic Books, Inc., 1977, pp. 27-38.
+                84 Véase, por ejemplo, Claeys, Gregory. Thomas Paine. Social and Political Thoughts. Boston, Unwin
+                   Hyman, 1989.
+                85 Sandalow, Terrance. «Constitucional Interpretation». Michigan Law Review, 79 (abril 1981):
+                   1033.
+
+                                                                                                                  85
+
+[[PDF p. 52]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 86
+
+
+
+
+                                                   Roberto Gargarella
+
+
+                 Los defensores de posturas como las mencionadas deben resolver, al
+             menos, un grave problema que trasciende al de la indeterminación «radi-
+             cal» propia de las tradiciones —argumento sugerido, de alguna forma,
+             por Paine en sus críticas a Burke—. El problema en cuestión tiene que ver
+             con una visión no crítica del «consenso» al que se apela. Esto es, las tradi-
+             ciones ganan parte de su valor a partir del relativo consenso que parecen
+             reunir a su alrededor, y que les da «color» de aceptabilidad general y per-
+             manencia. Pero ocurre que ese consenso no siempre es el resultado de
+             adhesiones autónomas o espontáneas; por el contrario, muchas veces las
+             tradiciones se forman a partir de la imposición de algunos pocos y de la
+             aceptación resignada de otros.86 De ahí que uno pueda afirmar que, en
+             todo caso, las tradiciones deben valorarse conforme a su plausibilidad
+             intrínseca, y no al hecho formal de su permanencia. Esto nos exige tomar
+             una actitud de cuestionamiento frente a las tradiciones, que dista mucho
+             del ciego reconocimiento y respeto que algunos autores, como Burke, sue-
+             len concederles.
+                 Por razones como las enunciadas, la apelación a las tradiciones —
+             como forma de legitimar y precisar los alcances del control judicial de las
+             leyes— tampoco ganó un mayor apoyo.
+
+             — Derecho natural
+             En la esfera judicial la utilización del derecho natural también ha sido
+             recurrente, aunque tal circunstancia no siempre se haya hecho explícita.
+                 Según Carlos Nino, el derecho natural puede ser definido a partir de
+             una tesis de filosofía ética, que sostiene la existencia de principios univer-
+             sales válidos y asequibles a la razón humana; y también a partir de una
+             tesis acerca de la definición de lo que es el derecho, que afirma que un sis-
+             tema normativo o una norma no pueden ser considerados «jurídicos» en
+             caso de que contradigan aquellos principios universales.87 Precisamente, la
+             multiplicidad de «principios universales» que han sido invocados en dis-
+             tintos momentos históricos, explica el uso contradictorio que se ha hecho
+             del derecho natural.
+
+             86 Véase en este sentido, por ejemplo, Kymlicka, Will. Contemporary Political Philosophy. Oxford,
+                Clarendon Press, 1990, p. 228.
+             87 Nino, Carlos. Introducción al análisis del derecho. Buenos Aires, ed. Astrea, 1987, cap. 1.
+
+             86
+
+[[PDF p. 53]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 87
+
+
+
+
+                                                     Apéndice al capítulo 2
+
+
+                    Por ejemplo, durante los siglos XVII y XVIII la defensa del «derecho
+                natural» estuvo vinculada al radicalismo filosófico. En buena medida, la
+                apelación al mismo permitía la única defensa posible de valores poco
+                compatibles con las tradiciones sociales dominantes. El grupo radical de
+                los levellers en la Inglaterra del siglo XVII recurrió al derecho natural para
+                criticar el sistema político vigente, exigir el respeto de los derechos indi-
+                viduales, y reivindicar la extensión del sufragio a la mayoría de la pobla-
+                ción.88 Thomas Paine hizo lo mismo para oponerse al conservadurismo de
+                Burke, y proclamar que «todos los hombres han nacido iguales y con
+                iguales derechos naturales».89 En los Estados Unidos, la apelación a los
+                derechos naturales estuvo presente en la confrontación con Inglaterra, en
+                la famosa Declaración de Independencia, y aun en los más duros momen-
+                tos de la lucha antiesclavista. Sin embargo, y según lo anticipado, el dere-
+                cho natural también sirvió a causas menos nobles, como la condena de
+                ciertas prácticas homosexuales,90 el mantenimiento de la subordinación de
+                la mujer, etc.91
+                    En buena medida, fue esta posibilidad de inferir casi cualquier solu-
+                ción a partir de ciertos principios de aparente valor universal lo que restó
+                valor al derecho natural en cuanto herramienta para apoyar el control
+                judicial de las leyes.
+                    En la actualidad, los defensores del derecho natural se han visto redu-
+                cidos en número y en influencia. En los Estados Unidos, uno de los más
+                destacados defensores de este tipo de posturas ha sido el profesor Thomas
+                Grey, quien sostuvo que los creadores de la Constitución norteamericana
+                protegieron un concepto de «ley superior» destinado a defender la idea del
+                «derecho natural no escrito». En la Bill of Rights también fueron eviden-
+                tes las apelaciones al derecho natural. Así, por ejemplo, en enmiendas
+
+                88 Véase, por ejemplo, Frank, Joseph. The Levellers. A History of the Writings of Three Seventeenth-
+                   Century Social Democrats. Cambridge, Mass., Harvard U.P., 1955.
+                89 Kuklick, Bruce, ed. Thomas Paine: Political Writings. Cambridge, Cambridge U.P., 1989.
+                90 Véase, por ejemplo, Lord Devlin. The Enforcement of Morals. Londres, 1965. En polémica con
+                   esta postura, por ejemplo, véase The Wolfenden Report: Home Office Report on Homosexual Offenses
+                   and Prostitution. Londres, 1957, uno de cuyos autores fue el reconocido H. Hart.
+                91 Véase, por ejemplo, el fallo «Bradwell v. Illinois» (83 U.S. 16 Wall. 130, 1873), en donde se le
+                   denegó a una mujer su derecho a ejercer como abogada, sosteniendo que el derecho natural le
+                   reservaba a la mujer el rol de madre y ama de casa.
+
+                                                                                                                 87
+
+[[PDF p. 54]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 88
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             como la n.° 9, que sostiene la permanencia de derechos adquiridos por la
+             ciudadanía, aunque no se encuentren enumerados de un modo explícito.
+             En sentido similar, la famosa enmienda 14 de la Constitución norteame-
+             ricana (surgida después de la guerra civil) estuvo inspirada por iguales
+             principios naturales.92 La postura de Grey recibió numerosas críticas.
+             Primero, porque no estaba claro que, históricamente, el derecho natural
+             hubiese tenido el protagonismo que Grey le asignaba. En segundo lugar,
+             porque no puede inferirse la capacidad de los jueces de dar fuerza al dere-
+             cho natural, por ejemplo, a partir de la aceptación constitucional de la
+             existencia de derechos retenidos por la gente. Tales derechos no cuentan
+             con explícita sanción, ni a nivel federal ni a nivel estatal, y resultaría, por
+             lo tanto, polémico el hecho de que los jueces estén capacitados para
+             ponerlos en práctica.93
+
+             — Principios neutrales
+             Otro modo al que se recurrió a fin de evitar posibles arbitrariedades judi-
+             ciales y fortalecer la legitimidad de los jueces está vinculado con los lla-
+             mados «principios neutrales». Este acercamiento a los principios neutra-
+             les tomó fuerza a partir de una disertación, y un posterior artículo, del
+             profesor Herbert Wechsler, en 1959.94
+                 La posición de Wechsler se opuso a una disertación expuesta en el
+             mismo foro, un año antes, por el juez Hand.95 Para Hand, «nada [podía]
+             encontrarse en la Constitución de los Estados Unidos que [diera] alguna
+             autoridad a la Corte para revisar las decisiones del Congreso». Para
+             Wechsler, en cambio, el poder de la Corte estaba claramente consagrado
+             en la Constitución. Ahora bien, en cuanto al modo como dicho control
+             de las leyes debía ser llevado a cabo, Wechsler sostuvo lo siguiente: existía
+             un camino intermedio entre el abandono de la tarea de control y (la que
+
+             92 Véase, por ejemplo, Grey, Thomas. «Do we Have an Unwritten Constitution?». Stanford Law
+                Review, 27 (1975): 703.
+             93 Criticando la postura de Grey, por ejemplo, véase Berger, Raoul. Government by Judiciary. cap. 21.
+             94 Herbert Wechsler. «Toward Neutral Principles of Constitucional Law». Harvard Law Review, 1
+                (1959): 73
+             95 Se trataba de las Holmes Lectures en la Escuela de Derecho de la Universidad de Harvard. Hand
+                había dictado una conferencia allí en el año 1958.
+
+
+
+             88
+
+[[PDF p. 55]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 89
+
+
+
+
+                                                    Apéndice al capítulo 2
+
+
+                venía a ser la posición objetada por Hand, o sea) la conversión del poder
+                judicial en una «tercera cámara legislativa». Sintéticamente, Wechsler afir-
+                maba que a) la Suprema Corte tenía el deber de decidir en los casos de
+                litigio (ya que no había posibilidad de que los jueces escapasen de esa obli-
+                gación de decidir los casos conforme a la ley, obligación que se encontra-
+                ba establecida en el texto constitucional); b) el deber especial de la Corte
+                era el de fundar sus juicios en principios neutrales.
+                    El último de los puntos mencionados era el más destacado, en la con-
+                cepción de Wechsler. Su idea era la de defender la aplicación de principios
+                generales y neutrales, en todos los casos, para evitar que la justicia se guíe
+                por los meros impulsos o las meras preferencias de los jueces acerca de qué
+                es lo justo o lo conveniente. Tales decisiones, entonces, tenían que tras-
+                cender el caso en cuestión, o las posibles convicciones personales de algún
+                juez, para basarse en principios más abstractos, que trataran de igual
+                modo todos los casos iguales.
+                    De todos modos, esta postura también mostró, prontamente, sus
+                serios problemas. Según se sostiene, aunque es posible discutir la consis-
+                tencia de una decisión con sus precedentes, el requisito de consistencia
+                fracasa por no permitir una suficiente restricción del poder judicial.96
+                Sucede que, en definitiva, no basta con que un principio sea neutral y
+                general para tornarlo aplicable a un caso. Normalmente, para cada pro-
+                blema existen múltiples principios generales y neutrales capaces de ser
+                aplicados. Y es en ese punto donde nuevamente surgen los riesgos de la
+                discrecionalidad judicial.
+
+                — El recurso al consenso
+                Las impugnaciones al papel de los jueces dentro del sistema democrático
+                provocaron, como hemos visto, diversas reacciones de sus protagonistas,
+                que procuraban encontrar argumentos capaces de legitimar su tarea. De
+                todos estos intentos, uno de los más audaces fue el de mostrar a los jue-
+                ces como los encargados de «actualizar» el derecho respecto de los tiem-
+                pos presentes. Una forma de entender esta idea sería la siguiente: contamos
+                con un ordenamiento jurídico compuesto por normas muy antiguas, y esta
+                realidad provoca conflictos con el principio de que las sociedades deben
+
+                96 Tushnet, Mark. Red, White, and Blue, pp. 45 ss.
+
+                                                                                           89
+
+[[PDF p. 56]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 90
+
+
+
+
+                                                 Roberto Gargarella
+
+
+             autogobernarse. No parece correcto, en este sentido, que una sociedad deba
+             verse limitada por la «mano muerta del pasado». No parece correcto que
+             leyes dictadas, digamos, hace un centenar de años, limiten el libre modo de
+             actuar de las actuales generaciones. Una solución a este problema es auto-
+             rizar a los jueces para que se pongan al frente de esta tarea. Los jueces —
+             ayudados por la práctica que tienen en cuestiones jurídicas y por su con-
+             tacto diario con casos concretos— estarían en condiciones óptimas para
+             adecuar el derecho a los tiempos actuales.
+                 Obviamente, una de las principales ventajas de este «poner al día» el
+             derecho parece ser la de recurrir al consenso ciudadano, y, así, evitar los
+             posibles conflictos entre la voluntad popular y la autoridad de los jueces.
+             Esto es, el poder judicial ya no aparecería como contrapuesto a la volun-
+             tad actual de las mayorías, sino como uno sus principales defensores.
+                 Con distintos matices, este tipo de posturas encontraron muchos apo-
+             yos en los ámbitos jurídicos y académicos. En opinión del juez
+             Frankfurter, la alternativa mencionada no necesitaba suponer (como nor-
+             malmente ocurría con otras justificaciones del poder judicial) que «cinco
+             personas, o nueve, son lo suficientemente sabias o buenas como para ejer-
+             cer [tal poder de control] sobre la nación entera». En su famosa opinión
+             concurrente en el caso «Youngstown Sheer Tube Co. v. Sawyer», por ejem-
+             plo, Frankfurter sostuvo que «[representa] una concepción inadmisible-
+             mente estrecha del derecho constitucional [...] la de confinar su conteni-
+             do a las palabras de la Constitución, dejando de tomar en cuenta las glo-
+             sas que la vida ha escrito acerca de ellas».97 Ya antes que él, el famoso juez
+             Holmes había afirmado, en el caso «Missouri v. Holland», que los creado-
+             res de la Constitución habían dado vida a un documento «cuyo desarro-
+             llo no pudieron prever por completo [...] de ahí que el caso [en cuestión]
+             debe ser considerado a la luz de nuestras completas experiencias, y no
+             meramente a partir de lo que fue dicho cien años atrás».98 Lo que debe
+             tomarse en cuenta son «tanto las palabras [de la Constitución] como su
+             línea de crecimiento».99
+                 Ahora bien, este tipo de posturas parecen mostrar una cierta contra-
+             dicción de fondo, que tiende a convertirlas en posturas poco plausibles.
+
+             97 343 U.S., 579 (1952).
+             98 252 U.S. 416 (1920).
+             99 «Gompers v. United States», 233 U.S. 604 (1914).
+
+             90
+
+[[PDF p. 57]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 91
+
+
+
+
+                                                      Apéndice al capítulo 2
+
+
+                Fundamentalmente, por un lado, se está recurriendo al consenso y a la
+                voluntad popular, pero, por otro, se está negando la importancia de esos
+                factores. La idea podría ser plasmada de este modo: si le queremos dar
+                relevancia a la expresión democrática de la ciudadanía debemos consultar
+                expresamente a dicho grupo o (en todo caso) a sus representantes en el
+                Parlamento. No parece lo más adecuado, en tal sentido, recurrir a la jus-
+                ticia para saber qué es lo que la gente prefiere. Como sostiene John Ely, el
+                control judicial de las leyes puede justificarse, «pero no a partir de la teo-
+                ría de que la Corte, y no el Legislativo, es la que realmente puede expre-
+                sar los valores de la población». No puede aceptarse —continúa Ely— «la
+                noción de que los valores genuinos de la ciudadanía pueden ser discerni-
+                dos de modo más fiable a través de una elite no democrática». Si lo que
+                queremos es proteger los derechos de las mayorías, asegurando que la
+                Legislatura refleje sus preferencias, entonces «la legislatura aparece mucho
+                mejor situada que la justicia», a dichos efectos.100
+                    Pero el recurso al consenso social da lugar, al menos, a otra situación
+                paradójica. Sucede que los derechos incorporados en cualquier texto
+                constitucional tienen la misión de proteger a los ciudadanos, justamente,
+                frente a cualquier amenaza mayoritaria (por ejemplo, cualquier persona
+                debe ser protegida en su derecho a expresarse libremente, aun cuando
+                todos los demás tengan la pretensión de privarla de tal derecho). La invo-
+                cación al consenso social resultaría contradictoria con la necesidad —
+                intuitivamente aceptable— de proteger ciertos derechos, haya o no un
+                relativo acuerdo actual en favor de los mismos. En definitiva, el recurso al
+                consenso no sería plausible en líneas generales, pero además, en todo caso,
+                no sería la justicia la institución mejor situada para establecer qué es lo
+                que el mencionado consenso social determina.
+
+                – Principios filosóficos: Bickel y Dworkin
+                Según algunos autores, las cuestiones constitucionales encierran problemas
+                morales para cuya resolución los jueces se encuentran particularmente bien
+
+                100 Véase Ely, John. Democracy and Distrust. A Theory of Judicial Review, pp. 68-69. El principio con-
+                    trario (que afirma que la justicia debe gobernar en este respecto) es conocido como el «principio
+                    del Führer», en alusión al criterio del dictador alemán según el cual él «no [conocía] a ningún
+                    jefe de estado en el mundo con más derecho [que él mismo] para decir que es el representante
+                    de la ciudadanía», ibíd.
+
+                                                                                                                   91
+
+[[PDF p. 58]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 92
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             situados. Ello, fundamentalmente, debido al entrenamiento, al tiempo y al
+             relativo aislamiento que caracterizan a la función judicial.101 Según
+             Alexander Bickel, quien de algún modo representa a los defensores de esta
+             postura, tales condiciones permiten a los jueces «apelar a la mejor esencia
+             del hombre, a sus más profundas aspiraciones, que pueden haber sido deja-
+             das a un lado en los momentos difíciles». De ahí que Bickel considere a la
+             Corte como una institución educadora, capaz, de aportar una visión sose-
+             gada frente a situaciones conflictivas, capaz de ser «la voz de la razón», y
+             la encargada de la tarea creadora de «articular y desarrollar principios
+             duraderos e impersonales». Para autores como el citado, los riesgos del eli-
+             tismo judicial se verían reducidos dada la necesidad que tienen los jueces
+             de verificar y poner a prueba diferentes principios a través de su experien-
+             cia con casos e individuos concretos.
+                 Por otra parte —sostiene el mismo Bickel—, «en la medida en que los
+             principios impuestos por la Corte no son usualmente rígidos, y como la
+             Corte tiene vías para persuadir antes de recurrir a la coerción, y puesto
+             que la opinión sostenida contra los fallos de la Corte puede lograr final-
+             mente su anulación directa o por desuetudo», el control judicial es capaz
+             de permitir un «tolerable acomodamiento [de dicha actividad de control]
+             con la teoría y la práctica de la democracia».102
+                 La tarea realizada por los jueces, además, parecería necesaria como
+             modo de reconocer las dos caras diferentes de todo gobierno democrático.
+             Por un lado, la obligación de atender lo inmediato: el mayor número posi-
+             ble de necesidades ingentes —obligación propia de los legisladores—, y,
+             por otro, la tarea menos visible, o menos apreciada, de preservar intereses
+             más generales y permanentes, y sostener ciertos valores más básicos y dura-
+             deros. Esta última misión, conforme a Bickel, no puede cumplirla ningu-
+             na otra institución sino el poder judicial.103
+
+             101 Véase Bickel, Alexander. The Least Dangerous Branch, cap. 1.
+             102 Ibíd., p. 28.
+             103 En su opinión, tanto el Senado como el presidente, que gozan de mandatos más amplios y son
+                 elegidos indirectamente, se encuentran más comprometidos con la política cotidiana. El poder
+                 judicial, en cambio, tendría condiciones más aptas para custodiar la Constitución. En este
+                 punto, la Corte aparecería desempeñando un fundamental papel como símbolo de la
+                 Constitución. Esta función simbólica (que Bickel considera similar a la que podría jugar la coro-
+                 na en el Reino Unido) desaparecería si la justicia no se ocupase del control de las leyes. Solo por
+                 medio de la Corte se puede reafirmar y renovar la «unidad moral» de la nación. Solo así podría
+                 prevalecer la «voluntad nacional» sobre el «particularismo local», ibíd., p. 31.
+
+
+             92
+
+[[PDF p. 59]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 93
+
+
+
+
+                                               Apéndice al capítulo 2
+
+
+                    Sin embargo, la posición de Bickel conserva los resabios elitistas a los
+                que antes hicimos referencia: los jueces aparecen como sujetos mejor
+                capacitados para conocer y defender tales «valores básicos», aun en rela-
+                ción con los mismos individuos que van a resultar afectados por las con-
+                secuencias de su defensa de dichos valores. Bickel, en este sentido, parece
+                tener una confianza exagerada en la capacidad de los jueces, y en las con-
+                diciones del ejercicio de la función judicial para alcanzar a «sintetizar»
+                adecuadamente el pensamiento de la mayoría, y precisar los contenidos
+                de los «intereses generales de la sociedad». Tal vez uno pueda sostener,
+                plausiblemente, que los jueces son capaces de cumplir una función insti-
+                tucional adecuada, ayudando a que la ciudadanía reconozca cuáles son los
+                valores sociales fundamentales. Sin embargo, decir tal cosa no significa
+                permitir que los jueces decidan, finalmente, cuáles son esos valores y los
+                pongan en práctica. Hay otros datos adicionales que también correspon-
+                de tener en cuenta. En primer lugar, las decisiones del poder judicial sue-
+                len tener una apariencia de irreversibilidad que dificulta el tipo de «diálo-
+                go institucional» entre el poder judicial y los poderes políticos que Bickel
+                pretende defender: revertir una decisión de la justicia puede llevar años.
+                Y, sobre todo, debe recordarse que estamos en una situación en la cual los
+                jueces tienen la capacidad de tomar sus decisiones ejerciendo el poder de
+                «decir la última palabra». Por ello, si en este proclamado debate entre el
+                poder judicial y el legislativo el poder judicial pretende mantenerse firme
+                acerca de una idea que el poder político razonablemente discute, es el pri-
+                mero (el órgano «contramayoritario»), y no el último (el órgano, teórica-
+                mente, más democrático), el que termina imponiendo su voluntad. Este
+                diálogo, entonces, puede tener un final no solo relativamente brusco, sino
+                también difícil de justificar desde el parámetro de la organización demo-
+                crática de la sociedad.
+                    En su trabajo sobre los derechos constitucionales, el filósofo Ronald
+                Dworkin llegaba a conclusiones similares a las de Bickel, aunque por
+                otras vías. Según él, en el ámbito jurídico se debían distinguir dos tipos
+                diferentes de argumentos: los basados en los derechos individuales y los
+                basados en los «objetivos sociales colectivos». Los primeros se caracteriza-
+                rían por ser individualizables y divisibles igualitariamente entre distintos
+                individuos (así, por ejemplo, aquí podrían incluirse las justificaciones
+
+                                                                                          93
+
+[[PDF p. 60]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 94
+
+
+
+
+                                                    Roberto Gargarella
+
+
+             fundadas en el derecho a la vida, a la libertad de expresión, a la libertad
+             de asociación, etc.). Los objetivos sociales colectivos, en cambio, se carac-
+             terizarían por ser de tipo agregativo, ya que toman a los individuos en su
+             conjunto, y no separadamente (justificaciones fundadas en este tipo de
+             objetivos sociales serían, por ejemplo, aquellas que apelan a la seguridad
+             pública, a la mejora del nivel de vida, etc.).
+                 Según Dworkin, esta división es central para entender el alcance que
+             tiene (o que debería tener) el control judicial de las leyes. Según el juris-
+             ta norteamericano, los organismos políticos deben ocuparse de lidiar con
+             los mencionados objetivos colectivos (esto es, de los objetivos orientados
+             a satisfacer las necesidades generales de la sociedad), mientras que los jue-
+             ces tienen que custodiar los derechos individuales para impedir que se lle-
+             ven a cabo políticas públicas que no respeten la autonomía de cada indi-
+             viduo en particular.104
+                 En su tarea, de todos modos, los jueces —representados en el modelo
+             dworkiniano por un juez de capacidades extraordinarias, al que denomi-
+             na «Hércules»— se encontrarían estrictamente limitados. Los límites, en
+             este caso, provendrían de la necesidad de interpretar el derecho como
+             «integridad». Con esta idea, Dworkin quiere significar que las decisiones
+             judiciales deben reflejar que forman parte de un esquema de principios
+             capaces de tornar coherente la práctica jurídica de la comunidad.
+                 Una comparación puede ayudarnos a clarificar la propuesta de
+             Dworkin: del mismo modo que un crítico no puede sentirse absoluta-
+             mente libre una vez enfrentado a la necesidad de realizar, digamos, una
+             crítica literaria, así tampoco el juez puede dejar de sentirse constreñido al
+             interpretar una ley. En ambos casos (el del crítico y el del juez) existen
+             parámetros que deben respetarse: «[e]l crítico [...] debe buscar una lectu-
+             ra [del texto] lo mejor posible para el lector [en ese particular] momento
+             histórico y cultural». Y lo mismo ocurre respecto del juez. El juez debe
+             aplicar, en los casos que se le presenten, los mismos principios justificati-
+             vos que la práctica comunitaria ha venido desarrollando hasta la fecha, en
+             materia de cómo usar la coerción sobre sus miembros. De lo contrario,
+             estaría tratando a tales miembros de un modo arbitrario o caprichoso, a
+
+             104 Dworkin, Ronald. Los derechos en serio. Barcelona, ed. Ariel, 1984.
+
+             94
+
+[[PDF p. 61]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 95
+
+
+
+
+                                                      Apéndice al capítulo 2
+
+
+                la vez que negándoles la posibilidad de prever el modo en que la coerción
+                estatal va a seguir ejerciéndose.105
+                    Conforme con la opinión de Dworkin, la comunidad se personifica a
+                través de la expresión de las leyes, y su integridad, por tanto, está mani-
+                festada en la integridad de la ley. En sus palabras, «la integridad de la ley»
+                expresa la idea de que la comunidad —como un todo— tiene obligacio-
+                nes de imparcialidad hacia sus miembros, y la de que los funcionarios
+                públicos —en tanto agentes de esa comunidad— deben asumir y poner
+                en práctica esa responsabilidad.
+                    Mediante la defensa de este ideario básico (aquí expuesto de modo
+                muy sintético), Dworkin cree resolver una multiplicidad de problemas
+                que típicamente se presentan en el análisis de la justicia. Por un lado, su
+                concepción permite distinguir con relativa claridad la tarea de los jueces
+                y los legisladores en la construcción legislativa. Por otro lado, ella permi-
+                te definir los (estrictos) límites que los jueces deben respetar, a la hora de
+                aplicar las leyes en un caso concreto. Finalmente, la propuesta de
+                Dworkin permitiría superar una habitual y siempre conflictiva disputa
+                jurídica, que tiene que ver con la pregunta de qué papel deben desempe-
+                ñar las tradiciones, las leyes y las decisiones pasadas en el desarrollo coti-
+                diano del derecho. En este sentido, la postura de Dworkin rechazaría las
+                posiciones de corte «realista», que solo utilizan los precedentes judiciales,
+                etc., de un modo estratégico, al igual que las de tipo «convencionalista»,
+                para las que el derecho aparece compuesto, básicamente, de convenciones
+                sociales.106 En el análisis de Dworkin no hay lugar ni para la discreciona-
+                lidad ni para la arbitrariedad judicial: los jueces recurren al pasado, pero
+                desde la perspectiva de principios ideales y coherentes.
+                    Posiciones como la citada han alcanzado una gran reputación acadé-
+                mica. De todos modos, también es cierto que dejan blancos bastante
+                obvios para la crítica. Antes que nada, la división realizada por Dworkin,
+                entre cuestiones de política general y cuestiones de principios, puede ser
+                objetada a causa de la enorme dificultad de distinguir entre derechos indi-
+                viduales y objetivos colectivos. Además, podría decirse, un mismo acto
+
+                105 Dworkin, Ronald. Law’s Empire, 1986.
+                106 Y en donde los jueces tienen libertad para ejercer su «discreción» en el caso de que se carezca de
+                    las mencionadas convenciones.
+
+                                                                                                                   95
+
+[[PDF p. 62]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 96
+
+
+
+
+                                                     Roberto Gargarella
+
+
+             puede llegar a ser descrito apelando a uno u otro tipo de justificativos.
+             Esto implica un amplio margen de discrecionalidad en manos de la justi-
+             cia, consecuencia esta que cualquier concepción sobre el control judicial
+             debería evitar.
+                 Por otra parte, puede decirse que si se deja en manos de los jueces la
+             custodia de los derechos individuales, y dependiendo de qué opinión
+             tenga de los mismos, el sistema democrático puede resultar vacío de con-
+             tenido. Por ejemplo, si se adoptara una visión «robusta» de los derechos
+             individuales (haciendo que estos hagan referencia, por ejemplo, a los lla-
+             mados derechos sociales, etc.), los jueces poseerían el propio control de la
+             organización social, teniendo capacidad, por ejemplo, para ordenar la
+             construcción de viviendas, cambiar los programas de salud, variar los
+             derechos del trabajo, etc. Esto es, concentrar la actividad de los jueces en
+             la protección de derechos no es, precisamente, un modo de restringir su
+             campo de acción. Una visión como esta (formulada a partir de una teoría
+             «robusta» de los derechos) puede llegar a agotar o convertir en inútil el sis-
+             tema democrático y la división de poderes.107
+                 También para el famoso jurista John Ely, las distinciones, como la ela-
+             borada por Dworkin, son criticables ya sea por los márgenes de discrecio-
+             nalidad que dejan, ya sea por resultar «flagrantemente elitistas y antide-
+             mocráticas». Con algo de ironía, Ely sostiene que el reinado de los prin-
+             cipios lleva a que la revisión judicial aparezca sistemáticamente sesgada a
+             favor de los valores de «la clase media alta y de la profesional», a la que
+             jueces, abogados y filósofos morales suelen pertenecer.108
+                 Frank Michelman, de modo similar, se preocupa por destacar de qué
+             manera un modelo de revisión judicial como el defendido por Dworkin
+             representa el paradigma de la muy disputable idea de que un juez en su
+             soledad puede determinar por todos nosotros cuáles son los valores fun-
+             damentales de la sociedad. De acuerdo con Michelman, la propuesta de
+             Dworkin carece de un elemento central como el «diálogo». Para él,
+             «Hércules, el mítico juez de Dworkin, es un solitario. Es demasiado
+
+             107 Véase, por ejemplo, Nino, Carlos. La filosofía del control judicial de constitucionalidad. Madrid,
+                 Centro de Estudios Constitucionales, 1989.
+             108 Ely, John. Democracy and Distrust. A Theory of Judicial Review, pp. 56-60. Según Ely, lo que apa-
+                 rece se asemeja a un reinado de la «New York Review of Books».
+
+
+             96
+
+[[PDF p. 63]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 97
+
+
+
+
+                                                    Apéndice al capítulo 2
+
+
+                heroico. Sus narraciones constructivas son monólogos. El no conversa
+                con nadie, salvo con sus libros. No tiene ningún enfrentamiento. No se
+                encuentra con nadie. Nada lo conmueve. Ningún interlocutor viola la
+                inevitable insularidad de su experiencia y su visión. Hércules es un hom-
+                bre, después de todo. No es la totalidad de la comunidad. Ningún hom-
+                bre o mujer puede serlo». En definitiva —sostiene—, Hércules parece no
+                tomar en cuenta la idea del pluralismo y de la discusión.109 Para Carlos
+                Nino, de modo similar, el suponer que los jueces «por más ilustrados que
+                sean, pueden llegar a conclusiones valorativas correctas en la soledad de
+                sus despachos y bibliotecas, sin participar en el proceso de discusión
+                pública con todos los interesados en una u otra decisión, y sin que su
+                decisión sea revisada en ese proceso de revisión pública» constituye una
+                muestra de «elitismo epistémico inaceptable».110 Asimismo, en un conoci-
+                do trabajo, el filósofo Michael Walzer se refiere a que no es plausible pre-
+                tender arribar a conclusiones valorativas correctas a través de la mera refle-
+                xión individual y sin contar con el debate democrático. Esta pretensión
+                resulta propia de muchos filósofos y teóricos legales norteamericanos,
+                cuya principal aspiración parece ser la de elucidar principios morales que,
+                luego, son ofrecidos a los jueces como guías para sus sentencias.111
+                   Como ocurría en el caso anterior (con la analizada propuesta de
+                Bickel), en posturas como la defendida por Dworkin se le otorga a los jue-
+                ces un poder extraordinario, más allá del hecho de que —magistrados
+                bien intencionados o inspirados por ideales como los definidos por
+                Dworkin— puedan sentirse severamente constreñidos en sus actos.
+
+
+                Conclusión
+
+                Hemos empezado este capítulo examinando el argumento (que hemos
+                denominado) de Hamilton-Marshall, a favor del control judicial de la
+                constitucionalidad. Sostuvimos que dicho argumento se inscribía dentro
+
+                109 Michelman, Frank. «The Supreme Court Forewoed. Traces of Self-Government». Harvard Law
+                    Review, 100. 4 (1986): 76.
+                110 Nino, Carlos. Fundamentos de derecho constitucional, Buenos Aires, Astrea, 1992, p. 685.
+                111 Walzer, Michael. «Philosophy and Democracy». Political Theory, 9. 3 (1981). Citado también en
+                    Carlos Nino, ibíd, p. 685.
+
+                                                                                                              97
+
+[[PDF p. 64]]
+Justicia frente al gobierno COPI_Pensamiento juridico 3 13/02/12 17:27 Página 98
+
+
+
+
+                                             Roberto Gargarella
+
+
+             de una tradición de pensamiento conservador (y, en ocasiones, elitista), y
+             que había razones para considerarlo, en definitiva, un argumento implau-
+             sible. La implausibilidad de dicho argumento se debía, fundamentalmen-
+             te, a lo siguiente: Hamilton y Marshall sostenían que la tarea de revisión
+             judicial no constituía (lo que hoy llamaríamos) una tarea antidemocráti-
+             ca, dado que «lo único» que hacían los jueces era reafirmar la supremacía
+             de la Constitución sobre las leyes ordinarias, para, de ese modo, reafirmar
+             la voluntad de la ciudadanía (incorporada en la Constitución) como auto-
+             ridad soberana, suprema. Sin embargo, según vimos, para defender la
+             supremacía constitucional los jueces se encontraban forzados a interpre-
+             tar la Carta Magna, lo que los llevaba a hacer mucho más que, simple-
+             mente, recitarnos el texto constitucional.
+                 En el resto del capítulo hemos examinado distintas teorías interpreta-
+             tivas utilizadas, en muchos casos, para reparar los «aparentes» problemas
+             antes aludidos. La idea es la siguiente: si se prueba el carácter más o menos
+             obvio del proceso de interpretación constitucional, luego se puede defen-
+             der la revisión judicial como una tarea perfectamente compatible con la
+             vigencia de un adecuado sistema democrático. En otras palabras, si se
+             demuestra que existen formas más o menos obvias y no arbitrarias de
+             interpretar la Constitución, luego se puede afirmar que los jueces «no
+             gobiernan» ni reemplazan a los legisladores, sino que, «simplemente», dan
+             cuenta del significado más o menos obvio del texto fundamental. En mi
+             análisis, de todos modos, he procurado mostrar los problemas de estos
+             intentos por defender el control judicial.
+                 Ahora bien, y para lo que sigue, es importante clarificar algunos pun-
+             tos adicionales. Primero, los problemas de interpretación normativa per-
+             manecen, obviamente, ya que siempre necesitamos alguna teoría que nos
+             diga cómo interpretar las leyes y algún mecanismo institucional destina-
+             do a llevar adelante tal interpretación. Lo dicho hasta aquí, básicamente,
+             estuvo destinado a: 1) demostrar las enormes dificultades que surgen a
+             partir de la necesidad de interpretar las leyes —dificultades que tienden a
+             ser minimizadas, o pasadas por alto, por muchos de los defensores de la
+             tarea de revisión judicial—, y 2) destacar los problemas de justificación
+             que surgen, dentro de un sistema democrático, cuando se le otorga al
+             poder judicial la «última palabra» en la interpretación de las leyes.
+
+             98

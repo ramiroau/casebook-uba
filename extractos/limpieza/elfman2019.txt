@@ -1,0 +1,33 @@
+# elfman2019 (U04). Continuaciones de notas al pie que quedan por encima del
+# primer renglón numerado de la página (el corte de notas no las alcanza).
+^triunfado en la batalla de Pavón en virtud[\s\S]*?Fallos: 2:141\)\.\s*$
+^nacionales en el ejercicio de sus funciones procederán aplicando[\s\S]*?supremacía del sistema normativo federal\.\s*$
+^constitucional”, en Teoría y Crítica del Derecho Constitucional, Gargarella Roberto[\s\S]*?123-148\.\s*$
+^335; “Gomez Diez”, 1999, Fallos: 322:528[\s\S]*?“Thomas”\)\.\s*$
+^de su voto\)\. Bossert y López descartaron[\s\S]*?en la tesis negativa\.\s*$
+^estricto la regla que se extrae del precedente \(Rivera[\s\S]*?LL 2005-F-850\)\.\s*$
+^sino también la interpretación que del mismo ha hecho la Corte Interamericana, intérprete última de la\s*\n\s*Convención” \(“Almonacid Arellano y otros vs\. Chile”, párr\. 126\)\.\s*$
+# elfman2019: llamadas de nota que el patrón general no reconoce (tras comilla
+# de cierre tipográfica, tras dígito o de tres cifras)
+(?<=1853-60)7(?=\.)
+(?<=guardián constitucional”)36(?=\.)
+(?<=Finanzas S\.A\.”)64(?=,)
+(?<=“control de convencionalidad”)65(?=\.)
+(?<=“Luther vs\. Borden”)67(?= )
+(?<=“Backer vs\. Carr”)68(?= )
+(?<=“Roque Pérez”)70(?=\.)
+(?<=dictadas en su consecuencia”)79(?=\.)
+(?<=Chile”)86(?= y “Trabajadores)
+(?<=Aguado Alfaro y otros\) vs\. Perú”)87(?=\.)
+(?<=“Giroldi”)95(?= )
+(?<=“Bramajo”)96(?=,)
+(?<=“Acosta Claudia”)98(?= )
+(?<=“Felicetti”)99(?= )
+(?<=fuerza jurídica vinculante)100(?=\.)
+(?<=“Arancibia Clavel”)101(?=,)
+(?<=\(pauta insoslayable\))102(?=\.)
+(?<=cumplimiento “imperativo”)103(?=\.)
+(?<=en autoridad de cosa juzgada)104(?=\.)
+(?<=Trabajadores Cesados del Congreso”)105(?=\.)
+(?<=Latrubesse”)106(?=\.)
+(?<=independencia del Poder Judicial)61(?=\))

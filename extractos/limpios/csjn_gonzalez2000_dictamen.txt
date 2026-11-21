@@ -1,0 +1,135 @@
+# fuente: csjn.db vol_page (tomo impreso de Fallos 323, vol_id 379), Fallos 323:2659-2703; dictamen del Procurador General
+# modo: ocr
+# paginacion: el marcador de página = página impresa de Fallos
+# paginas incluidas: sólo Fallos 323:2670 (desde el apartado V del dictamen) a 2673 (hasta la firma del dictamen). El resto no se extracta
+# correcciones: hechas sobre la capa de texto del tomo sin imagen disponible (el compendio no reproduce el dictamen y la base no guarda el PDF del tomo). Se corrigieron sólo errores evidentes de reconocimiento («arto» por «art.», «a qua» por «a quo», «NQ» por «Nº», «gobiemo» por «gobierno», «00 lo que» por «En lo que», «Suprem:-» por «Suprema», «{producto» por comillas, «N acianal», «accionan tes», «por.») y se restituyó el orden de las palabras que la capa de texto desordena en la p. 2671 (columnas de palabras sueltas), guiándose por la sintaxis y por la transcripción que hace el propio dictamen del fallo de Cámara y los sumarios oficiales (sumarios 39608-39614). Encabezados y números de página quitados. Ver notas_unidades/U16_fuentes.md
+# revisado: si
+
+[[PDF p. 2670]]
+que asisten a los órganos administrativos para el cumplimiento de sus
+funciones específicas, motivo por el cual su examen escaparía al control judicial.
+
+-V-
+
+Contra dicho pronunciamiento, los actores interpusieron el recurso extraordinario obrante a fs. 269/313, cuya denegatoria por mayoría
+a fs. 330/333 originó la presente queja. Reiteraron, en lo sustancial, los
+argumentos expuestos en la demanda y en su ampliación de fundamentos; sostuvieron la arbitrariedad de la sentencia recurrida por falta de fundamentación, por omisión de tratamiento de cuestiones propuestas y por no ser derivación razonada del derecho vigente. Además, la tacharon de inconstitucional, por no tratar la cuestión federal
+regularmente introducida en el proceso y la invalidez de la Ordenanza
+Nº 2/97, como contraria a la Constitución Nacional, a la Ley Federal
+de Educación, al decreto del Poder Ejecutivo Nacional de febrero de
+1907 y a la Ordenanza del H. Consejo Superior de 1908.
+
+-VI-
+
+A mi modo de ver, el remedio federal intentado es formalmente
+admisible, toda vez que, aun cuando los apelantes afirman que atacan
+la sentencia por arbitrariedad, en el pleito se ha cuestionado una norma federal, emanada de autoridades nacionales universitarias y la
+decisión del superior tribunal de la causa es contraria al derecho que
+los apelantes fundan en ella (v. doctrina de Fallos: 314:1717).
+
+-VII-
+
+En primer lugar, cabe advertir que el tema central a dilucidar en
+el presente litigio es la legitimidad de la Ordenanza Nº 2/97, dictada
+por el H. Consejo Superior de la Universidad de Córdoba, por la que se
+transformó al Colegio Nacional de Monserrat en un establecimiento
+de educación mixta.
+
+Corresponde señalar que los apelantes aducen violación al principio de congruencia por el hecho de que la Cámara no ha tratado los
+agravios referidos a la falta de competencia del Consejo Superior por
+aplicación del decreto del Poder Ejecutivo Nacional de 1907 y de la
+Ordenanza de 1908. La primera de estas normas se refiere a la incor-
+
+[[PDF p. 2671]]
+poración del Colegio a la Universidad y le otorga diversas facultades a
+la Universidad de Córdoba -dependencia y superintendencia- mientras que la segunda regula el procedimiento a seguir en el tratamiento
+de los asuntos relacionados con el Colegio. Sin embargo, de ellas no es
+posible extraer limitación alguna -en una interpretación razonable-
+que le impida al Consejo Superior tomar decisiones relativas a las políticas educativas que considere pertinentes y a cuestiones de superintendencia, aun cuando ellas afecten el régimen interno de dicho establecimiento. Por otra parte, también debe ser tenida en cuenta la autonomía universitaria reconocida expresamente por el art. 75, inc.
+19 de la Constitución Nacional, y las leyes 24.521 y 24.195, de organización y funcionamiento de la educación superior y de estructura del
+sistema educativo nacional, respectivamente.
+
+Estimo que ésta es la postura correcta y la que asume el a quo
+cuando sostiene que la Ordenanza 2/97 "...se enmarca dentro de las
+facultades acordadas por sus Estatutos (arts. 15 inc. 1 y 26) que lo
+habilita para ejercer jurisdicción superior universitaria y dictar ordenanzas y reglamentaciones acordes con los fines de la Universidad
+(inc. 8); también las relativas al gobierno y decisión de los asuntos e
+instituciones sometidas bajo su órbita de competencia, como es el caso
+del Colegio Nacional de Monserrat".
+
+En mi opinión, también resulta adecuado el criterio que exhibe el
+pronunciamiento, en cuanto a que -sentada la competencia del H.
+Consejo Superior para dictar la Ordenanza en crisis- no cabe a los
+tribunales examinar la oportunidad, mérito o conveniencia de los actos administrativos que hacen al gobierno y autonomía universitaria,
+sino que sólo pueden revisarse cuestiones atinentes a su legalidad.
+Los argumentos traídos por los apelantes con relación a este aspecto
+de la cuestión debatida, no bastan para demostrar vicio alguno en los
+elementos del acto que atacan, ni para considerar erróneo el análisis
+efectuado por el tribunal.
+
+En lo que concierne a la pretendida violación de los derechos adquiridos a elegir la educación de sus hijos y a que se mantenga la oferta educativa, así como el régimen de educación humanista orientada a
+varones existente al tiempo de su inscripción en el Colegio alegada por
+los accionantes, entiendo que corresponde precisar si la modificación
+introducida por la Ordenanza Nº 2/97 viola derechos de raigambre
+constitucional.
+
+[[PDF p. 2672]]
+A mi modo de ver, los padres -en cuanto agentes naturales y primarios de la educación de sus hijos, tal como se los define en el art. 44
+inc. a) de la ley 24.195- tienen derecho a elegir "...la institución educativa cuyo ideario responda a sus convicciones filosóficas, éticas o religiosas" y, como integrantes de la comunidad educativa, pueden participar en las actividades de los establecimientos, de manera que no
+parece notoriamente irrazonable que, en tal carácter, tengan intervención en alguna medida, efectuando peticiones o sugerencias relativas a los planes de estudio, contenidos y enfoques pedagógicos.
+
+Sin embargo, resulta evidente que ello en manera alguna implica
+un derecho a definir o conformar el proyecto educativo institucional,
+pues éste es un ámbito propio de competencia de aquéllos que tienen a
+su cargo la dirección de los establecimientos, quienes cuentan con atribuciones bastantes para producir las innovaciones que consideren pertinentes en aspectos que hacen al gobierno de las instituciones de nivel medio que dependen de la Universidad. En tal sentido, la Corte
+Suprema ha establecido -en un fallo reciente- que el derecho de aprender, previsto en el art. 14 de la Constitución Nacional, no comprende
+el interés de los estudiantes a que los planes de estudio permanezcan
+inalterables (-Fallos: 322:270- sentencia del 9 de marzo de 1999, que
+remite a los fundamentos del dictamen de esta Procuración General,
+in re P. 512, L.XXXIII "Padres de alumnos de colegios dependientes de
+la U.N.C. interpone recurso art. 32 de la ley 24.521"); con mayor razón
+resulta imposible sostener que la citada cláusula constitucional otorgue a los padres el derecho a que se mantenga un régimen de educación diferenciada por sexos -cuestión que eminentemente hace a la
+política educativa del establecimiento-, que las autoridades competentes consideran contrario al progreso que debe seguir la institución.
+De lo contrario, bastaría con que cualquiera de los sectores enumerados en el art. 42 de la ley 24.195 se opusiera a efectuar algún cambio
+que considere innecesario o desacertado, para frustrar atribuciones
+propias de los órganos de gobierno universitario reconocidas por las
+normas vigentes en la materia.
+
+Al respecto, cabe recordar la doctrina de la Corte Suprema en el
+sentido de que nadie tiene un derecho adquirido al mantenimiento de
+leyes o reglamentaciones (v. Fallos: 272:229; 308:199; 316:2483;
+318:1237, 1531, entre otros), máxime cuando la normativa anterior no
+contenía disposiciones expresas que vedaran el ingreso de mujeres, sino
+que la inscripción excluyente de estudiantes varones fue "producto de
+una inveterada costumbre mantenida a lo largo de los años en el Cole-
+
+[[PDF p. 2673]]
+gio Nacional de Monserrat", tal como lo señaló el a quo. La Ordenanza
+cuestionada tampoco desconoce a los alumnos varones el derecho a
+formarse en un establecimiento dependiente de la Universidad y a
+acceder a un título habilitante, de todo lo cual se desprende que los
+recurrentes omitieron demostrar cuáles son los perjuicios que la nueva reglamentación les ocasiona y de qué manera, puesto que el plan de
+estudios humanista no sufre afectación alguna por la incorporación de
+mujeres al establecimiento.
+
+A mayor abundamiento, valga señalar que en el precedente del 9
+de marzo de 1999 citado ut supra (Fallos: 322:270), se dijo que "las
+ofertas educativas estatales suponen, no sólo el reconocimiento del derecho de aprender a través de la prestación del servicio educativo, sino
+también un beneficio social, y es en función de tal beneficio que el
+Estado puede legítimamente limitarlas o restringirlas, a través de la
+modificación de los planes de estudio, circunstancia que no altera el
+derecho de educarse de los habitantes, ya que, como sucede en el sub
+examine, respetan la autonomía personal, la promoción del proceso
+democrático y la igualdad de oportunidades sin discriminaciones, de
+conformidad con el inc. 19 del art. 75 de la Constitución Nacional, y los
+demás derechos que la Ley Federal de Educación reconoce expresamente en su art. 43".
+
+Asimismo, V.E. ha establecido que el derecho de aprender que la
+Constitución ampara no sufre mengua alguna por el hecho de que una
+razonable reglamentación condicione su disfrute a la observancia de
+pautas de estudio y de conducta a las que el titular de aquel derecho
+debe someterse (v. Fallos: 310:2085).
+
+Lo hasta aquí expuesto es suficiente, en mi concepto, para hacer
+lugar a esta presentación directa y confirmar la sentencia de fs.
+241/265 en cuanto fue materia de recurso extraordinario. Buenos Aires, 24 de noviembre de 1999. Nicolás Eduardo Becerra.

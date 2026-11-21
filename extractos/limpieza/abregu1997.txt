@@ -1,0 +1,15 @@
+# abregu1997 (U08): llamadas de nota pegadas a cifras o siglas, que MARCA_DE_NOTA no reconoce.
+# Cada patrón está anclado al contexto exacto del renglón.
+(?<=son el art\. 1\.1)16(?= y el art\. 2)
+(?<=y el art\. 2)17(?= de la Convención\s*$)
+(?<=el art\. 2\.2)18(?= del Pacto)
+(?<=el art\. 2\.1)19(?= del Pacto)
+(?<=Culturales, el art\. 2)20(?= de la Convención sobre la)
+(?<=Mujer y el art\. 3)21(?= de la Convención sobre los Derechos del Niño)
+(?<=propia Corte IDH)28(?=–)
+(?<=Guillermo Moncayo)38(?=–)
+(?<=27 de la CN)39(?= o por)
+(?<=alude el art\. 7\.5)51(?= del)
+(?<=^Humanos 1995)53(?=\.)
+(?<=Abramovich y Courtis)56(?=–)
+(?<=militar 1976–1983)59(?=\.)

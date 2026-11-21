@@ -1,0 +1,493 @@
+# fuente: Unidad7/Limanski_2016_La intervención federal.pdf
+# md5_original: 75cd65bbd5b7945b03ea10d7d284e96b
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                        La intervencion federal
+
+                                        Por Leonardo Limanski
+
+La intervención federal y la autonomía de las provincias.
+
+El artículo 6 de la Constitución Nacional, cuya redacción definitiva se impuso en el texto de 1860,
+prevé un supuesto excepcional, para casos de extrema gravedad, en los que el Gobierno Federal
+estará habilitado para afectar en forma casi absoluta la autonomía provincial. Cabe recordar que la
+autonomía provincial, tal como hoy la concebimos, no era tal en la época en que la Constitución
+fue sancionada. Basta mencionar a título ejemplificativo que la Constitución de 1853, en su texto
+original, disponía en su artículo 5 que “Las constituciones provinciales serán revisadas por el
+Congreso antes de su promulgación” o el artículo 97 cuyo texto establecía la competencia de la
+Corte Suprema y los Tribunales Inferiores de entender en “los conflictos entre los diferentes
+poderes públicos de una misma provincia”. Entonces, cabe decir preliminarmente que la
+intervención federal es un instrumento excepcional porque entra en tensión con la autonomía
+provincial, una de las bases con las que fue concebida la Constitución Nacional y muy
+especialmente desde la reforma de la Constitución ocurrida en 1860.
+
+En sentido similar, la intervención federal afecta las instituciones de la Provincia intervenida por
+cuanto habilita al Gobierno Federal a la remoción de las autoridades democráticamente elegidas
+por el pueblo de cada Provincia, imponiendo un interventor federal designado en forma directa
+por el Gobierno Federal.
+
+Por tales razones es que los supuestos de intervención federal deberán ser interpretados en forma
+restrictiva y excepcional y el Gobierno Federal deberá tender a afectar en la menor medida posible
+la autonomía de las provincias.
+
+Intervenciones federales en la historia argentina
+
+El instituto de la intervención federal ha sido utilizado con demasiada laxitud, observándose una
+gran cantidad de declaraciones de intervención federal. Así, desde el año 1854 se han declarado
+171 intervenciones federales, de las cuales 116 han sido declaradas por decreto del Poder
+Ejecutivo Nacional y tan sólo 55 han sido declaradas por Ley del Congreso.1
+
+A continuación se puede apreciar un cuadro con las intervenciones federales declaradas desde el
+regreso de la democracia. Cabe destacar que desde el año 1983 el instituto de la intervención se
+ha comenzado a utilizar con menor frecuencia y, especialmente, a partir de la reforma de 1994 se
+limitaron las intervenciones declaradas por el Poder Ejecutivo Nacional.
+
+Provincia             Instrumento legal       Plazo2               Poderes            Causal
+
+1
+  Serrafero, Mario D., La intervención federal en argentina. Experiencia y jurisprudencia. Disponible en
+http://www.forumfed.org/libdocs/Misc/Arg8_Serrafero%20paper%20Esp.pdf, último acceso 07/12/2015-
+2
+  No se contemplan casos de prórrogas sino que se tienen en cuenta los plazos previstos en los instrumentos
+legales.
+
+[[PDF p. 2]]
+                                                                  intervenidos
+Santiago        del Ley 25.881               180 días             Los 3 poderes      Forma republicana
+Estero                                                                               de gobierno
+Corrientes            Ley 25.236             180 días             Los 3 poderes      Forma republicana
+                                                                                     de gobierno
+Santiago        del Ley 24.306          Se        deberá Los 3 poderes               Forma republicana
+Estero                                  convocar        a                            de gobierno
+                                        elecciones
+                                        dentro del plazo
+                                        de 150 días a
+                                        partir del inicio
+                                        de             la
+                                        intervención
+Corrientes            Decretos 241/92 y No prevé          Poder                      Administración de
+                      1447/92                             Ejecutivo      y           Justicia
+                                                          Poder Judicial
+Catamarca             Decretos 566/91; No prevé           Los 3 poderes3             Forma republicana
+                      572/91 y 712/91                                                de gobierno
+Tucumán               Decreto 103/91    No prevé          Los 3 poderes              Forma republicana
+                                                                                     de gobierno
+Fuente: Elaboración propia
+
+El gobierno federal como garante y las causales de intervención
+
+La norma bajo análisis contiene una garantía del Gobierno Federal hacia los ciudadanos de las
+Provincias, en la que éste se compromete a garantizarles la plena vigencia del sistema republicano.
+Recordemos que el sistema republicano tiene como principales características la división de los
+poderes, la publicidad de los actos de gobierno, la responsabilidad de los gobernantes, la
+soberanía del pueblo, la igualdad ante la ley y la periodicidad de los mandatos.
+
+Asimismo, el artículo 5 de la Constitución le impone condiciones a las Provincias bajo las cuales, el
+Gobierno Federal le garantiza a cada provincia el goce y ejercicio de sus instituciones. Por tanto,
+existe una clara interrelación entre las condiciones impuestas en el artículo 5 y la consecuencia
+prevista en el artículo 6. Ahora bien, la tarea consiste en determinar cuándo podríamos considerar
+que estamos frente a un supuesto que habilita la intervención federal de una provincia.
+
+La causal de intervención más alegada para declarar intervenciones federales es la violación al
+régimen republicano. Sin embargo, cabe hacer mención a diversos casos para comprender que es
+lo que la jurisprudencia entendió sobre violación al régimen republicano. En primer lugar, la Corte
+entendió que es doctrina generalmente aceptada que la dilucidación de la compatibilidad de las
+instituciones provinciales con lo dispuesto en el art. 5° de la Constitución nacional —forma
+
+
+3
+  Por decreto 566/91 se intervino únicamente el Poder Judicial y luego fueron intervenidos el resto de los
+poderes. En los fundamentos del decreto 712/91 se aclara que “Que en un principio fue intención del
+Gobierno Federal, respetuoso de las autonomías provinciales, limitar el remedio federal al Poder Judicial
+local.”
+
+[[PDF p. 3]]
+republicana de gobierno; división de poderes; delegación de los mismos— envuelve una cuestión
+de naturaleza política, y está, como tal, vedada a los tribunales de justicia4. Tampoco consideró la
+Corte una afectación al artículo 5 de la Constitución en la circunstancia de que la creación del
+régimen impositivo municipal de la Ciudad de Tucumán y el presupuesto de gastos, debió ser
+materia de una ordenanza municipal y no de una ley provincial.5
+
+En el año 1991, la Corte ha intervenido en cuestiones electorales de la Provincia de Corrientes,
+luego de producirse un empate en el colegio electoral. En el caso la Corte afirmó que “la Corte
+tiene la delicada misión de –por un lado- no interferir en las autonomías provinciales y -por el
+otro- evitar que las arbitrarias decisiones de poder jurisdiccional local, lesionen instituciones
+fundamentales de los ordenamientos provinciales que hacen al sistema representativo y
+republicano que las provincias se han obligado a asegurar (art. 5º de la Constitución Nacional)”6
+
+Siguiendo un sinuoso camino, la Corte ha afirmado que la cuestión referente a si un tribunal local
+ha ejercido en una causa su ministerio de conformidad con las normas que gobiernan la
+administración de justicia en el ámbito provincial es un punto cuya decisión no le incumbe a la
+Corte Suprema.7 Por último, y en materia de reelección de poderes provinciales la Corte afirmó
+que “desde esta comprensión del doble régimen de poderes y de la recíproca independencia en el
+ejercicio de ellos en los términos señalados, el sistema establecido en el art. 64 de la Constitución
+de la Provincia de Santa Fe no vulnera ninguno de los principios institucionales -relacionados
+anteriormente- que hacen a la estructura del sistema adoptado por la Constitución Nacional, ni las
+garantías individuales, ni los derechos políticos que reconocen a los ciudadanos esta Ley
+Fundamental y los tratados y convenciones sobre derechos humanos que, con igual jerarquía,
+incorpora a la Carta Magna el art. 75, inc. 22, de la reforma introducida en 1994, pues la forma
+republicana de gobierno -susceptible, de por sí, de una amplia gama de alternativas justificadas
+por razones sociales, culturales, institucionales, etc.- no exige necesariamente el reconocimiento
+del derecho de los gobernantes a ser nuevamente electos.”8
+
+Recientemente la Corte ha tenido oportunidad de pronunciarse en el caso Colegio de Abogados de
+Tucumán c/ Honorable Convención Constituyente de Tucumán y otro, en el que se ponían en tela
+de juicio los procedimientos constitucionales de reforma. Allí afirmó que en situaciones “en las
+que se denuncia que han sido lesionadas expresas disposiciones constitucionales que hacen a la
+esencia de la forma republicana de gobierno, poniendo en jaque los pilares de la arquitectura de la
+organización del poder diagramada en la Ley Fundamental la simple condición de ciudadano
+resultaría suficiente para tener por demostrada la existencia de un interés "especial o "directo””.
+Es decir que aquí encontramos un ejemplo de aquello que, según la Corte, lesionaría el sistema
+republicano: la falta de respeto de los procedimientos de reforma constitucional a nivel local.
+
+
+
+4
+  Fallos 187:79 y 154:192
+5
+  Fallos 237:221
+6
+  Fallos 314:1915
+7
+  Fallos 261:103
+8
+  Fallos 317:1195
+
+[[PDF p. 4]]
+Resulta muy compleja la tarea de realizar un catálogo de situaciones en las que al Corte consideró
+violación al sistema republicano de conformidad con el artículo 5 de la Constitución Nacional.
+
+El órgano competente para declarar la intervención federal
+
+Si bien parece de toda lógica que la decisión de mayor gravedad institucional para con la
+autonomía de las Provincia debiera ser una decisión adoptada por el órgano deliberativo por
+excelencia –el Congreso-, la Constitución carecía de una previsión expresa en este sentido y la
+historia argentina demuestra que la gran mayoría de las intervenciones federales se hicieron a
+espaldas del Congreso.
+
+El 8 de noviembre de 1901, el Ministro de! Interior doctor Joaquín V. González fundamenta la
+posición del Poder Ejecutivo de negarse a intervenir la provincia de Santa Fe sin la decisión previa
+del Congreso afirmando que “resolver la intervención en el territorio de una provincia
+corresponde preferentemente al Congreso, porque, aun cuando la Constitución no determina el
+poder que debe intervenir, está hecha la jurisprudencia en las Cortes americanas y en nuestro
+mismo país, reconociendo que corresponde de preferencia al Honorable Congreso, cuando éste
+está en sesiones. Cumple, pues, el Poder Ejecutivo con un deber elemental, si bien es también juez
+subsidiario desde que, si el Honorable Congreso dicta la Ley de Intervención, debe ejecutar con
+toda la amplitud de facultades que la Constitución le concede para hacerla cumplir como Ley de la
+Nación”9
+
+Posteriormente, en el año 1929, en el conocido caso Orfila10, la Corte Suprema tuvo oportunidad
+de afirmar que “este poder del gobierno federal para intervenir en el territorio de las provincias ha
+sido implícitamente conferido al Congreso. Es a éste a quien le corresponde decidir qué género de
+gobierno es el establecido en el estado, si es republicano o no, según las normas de la
+constitución, si está asegurada o bastardeada la administración de justicia, si existe régimen
+municipal, si se imparte la educación primaria para enunciar todas las condiciones generales y
+especiales expresadas en el art. 5°.”
+
+Esta cuestión fue definitivamente saldada por la reforma constitucional de 1994 que estableció en
+el inciso 31 del artículo 75 (competencias del Congreso) el siguiente texto “Disponer la
+intervención federal a una provincia o a la ciudad de Buenos Aires.”11 También debemos decir que
+la reforma constitucional previó en el inciso 20 del artículo 99 (atribuciones del Poder Ejecutivo) la
+facultad de decretar “la intervención federal a una provincia o a la ciudad de Buenos Aires en caso
+de receso del Congreso, y debe convocarlo simultáneamente para su tratamiento.”
+
+
+
+
+9
+  Joaquín V. González: Debates constitucionales. La Plata, 1964, tomo I, pág. 133 citado por Becerra Ferrer,
+Guillermo “La intervención Federal en las provincias en el Derecho Constitucional Argentino” publicado en
+dialnet.unirioja.es/descarga/articulo/2075036.pdf, último acceso 21/11/2015.
+10
+   Fallos 154:192
+11
+   La previsión se encontraba incorporada dentro del “Núcleo de Coincidencias Básicas” previsto en el art. 2
+de la Ley que declaró la necesidad de la reforma constitucional n° 24.309
+
+[[PDF p. 5]]
+A partir de dicha redacción constitucional se declaró la intervención federal a las Provincias de
+Corrientes y Santiago del Estero. En el caso de la Provincia de Corrientes12, el Poder Ejecutivo
+Nacional remitió un proyecto de ley al Congreso a fin de tratar la intervención federal a la
+Provincia, entre otros temas para los cuales se había convocado a sesiones extraordinarias. Sin
+entrar en consideraciones políticas sobre la intervención, resulta adecuado que el Poder Ejecutivo
+haya decidido la convocatoria a sesiones extraordinarias y haya utilizado su facultad de iniciativa
+legislativa para que sea el órgano constitucionalmente habilitado el que declarara la intervención
+federal de la Provincia. Por su parte, la intervención federal a la Provincia de Santiago del Estero
+fue declarada por ley 25.881 y ha sido iniciativa del Poder Ejecutivo Nacional, esta vez, durante las
+sesiones ordinarias del Congreso.
+
+Es decir que, en ambas intervenciones federales ocurridas post reforma de 1994 ha sido el
+Congreso el órgano que ha declarado la intervención federal de las Provincias, aún fuera del
+período de sesiones ordinarias, modificándose entonces una práctica constitucional muy arraigada
+en nuestra historia.
+
+Ahora bien, también vale decir que si bien es el Congreso el órgano competente para declarar la
+intervención federal, y la Constitución nada establece sobre el procedimiento posterior a la
+intervención, históricamente se le ha delegado al Poder Ejecutivo la facultad de designar el
+interventor federal. Por tal razón es que cabe decir que el Presidente también tiene un rol
+fundamental en el proceso de intervención federal por ser el órgano que –históricamente- ha
+designado al interventor. En relación al procedimiento, sus plazos, la posibilidad de intervenir
+parcialmente los poderes provinciales y la revisión judicial de intervenciones declaradas por el
+Presidente haremos mención más abajo.
+
+El caso de la Ciudad Autónoma de Buenos Aires
+
+El estatus de la Ciudad Autónoma de Buenos Aires es muy discutido. En tal sentido se ha afirmado
+que se trata de un “ente autárquico”, “una ciudad autónoma”, “una ciudad estado”, “ciudad
+estado de nivel provincial”, “semiprovincia”, “ciudad con status jurídico excepcional”, “un distrito
+autónomo, con una situación intermedia entre un municipio y una provincia”, una entidad “sui
+generis”, “una persona de derecho público de existencia necesaria”, “un municipio federado”,
+“una ciudad constitucional federada”13. Luego de la reforma de 1994 el texto constitucional no
+deja dudas acerca de que su intervención federal es posible. Sin perjuicio que el artículo 6 sólo
+menciona a las “provincias” y la Corte Suprema ha afirmado en reiteradas oportunidades que la
+Ciudad Autónoma de Buenos Aires no es una provincia14, el artículo 75.31 dispone expresamente
+que el Congreso tiene competencia para “Disponer la intervención federal a una provincia o a la
+ciudad de Buenos Aires”
+
+
+12
+   Declarada por Ley 25.236
+13
+   Abalos, María Gabriela. “Buenos Aires luego de la reforma: ¿Nuevo sujeto del Federalismo?”, en Bidart
+Campos, Germán J. y Gil Dominguez, Andrés (Directores)“Instituciones de la Ciudad Autónoma de Buenos
+Aires” Ed. La Ley, Buenos Aires, 2001, pág 8.
+14
+   Fallos (322:2856); (323:3991); (327:5254) ; (329:2316), entre otros.
+
+[[PDF p. 6]]
+El plazo de la intervención federal
+
+La intervención federal, tratándose de una medida excepcional y que afecta la autonomía de las
+Provincias no puede ser ilimitada en su duración15 sino más bien todo lo contrario: la intervención
+debe durar el tiempo estrictamente necesario para cumplir con la finalidad que le fue asignada.
+Sin embargo se puede apreciar en nuestra historia intervenciones federales de distinta duración.
+Así, dentro de intervenciones de escasa duración se puede mencionar las intervenciones de Salta
+(en 1928) que duró 7 días; Buenos Aires (en 1935) que duró 1 días; Catamarca (en 1928) que duró
+25 días. En intervenciones prolongadas se puede mencionar el caso de Córdoba (1974-1976) de 2
+años de duración.16
+
+Las últimas intervenciones declaradas por el Congreso, como los proyectos de intervención federal
+presentados ante el Congreso Nacional suelen contemplar un plazo de 180 días con posibilidad de
+prórroga.
+
+Las intervenciones parciales y la llamada puesta en comisión.
+
+Como se ha podido apreciar en distintas intervenciones declaradas, y considerando la
+interpretación restrictiva con que debe considerarse la facultad de intervenir federalmente una
+provincia, es constitucionalmente posible intervenir sólo algunos de los poderes constituídos y no
+necesariamente afectar el Poder Ejecutivo, el Poder Legislativo y el Poder Judicial. 17
+
+En relación a la caducidad de los mandatos del Poder Judicial la Corte tuvo oportunidad de
+pronunciarse en el caso Moreno Postigo en el que se alegaba que la sentencia dictada por un juez
+de la justicia ordinaria de la Provincia de San Juan, después de promulgada la ley nacional de
+intervención número 11.323, es nula a causa de que la susodicha ley comportaba la caducidad de
+todos los poderes del estado intervenido.18 En el caso, la Corte Suprema afirmó que mientras el
+Poder Ejecutivo no haga uso de su facultad reglamentaria (art. 86, inc. 2º de la Constitución –
+actualmente artículo 99 de la Constitución Nacional) removiendo total o parcialmente a los
+funcionarios que integran el Poder Judicial del estado intervenido, debe reconocerse plena validez
+a los actos otorgados por ellos.
+
+En textos posteriores, la denominada caducidad de los mandatos del poder judicial19 fue
+reemplazada por la “puesta en comisión” de los miembros del Poder Judicial, solución que implica
+
+
+15
+   En sentido similar, Badeni, Gregorio “Intervención Federal a las Provincias” en Revista Lecciones y Ensayos
+n° 56, Departamento de Publicaciones Facultad de Derecho, UBA, 1992.
+16
+   Sagues, Néstor. Manual de Derecho Constitucional, Editorial Astrea, Buenos Aires, 2007.
+17
+   Así por ejemplo, se han presentado proyectos para declarar la intervención federal de la Provincia de
+Santa Cruz al solo efecto de dar cumplimiento a la sentencia dictada por la Corte Suprema de Justicia de la -
+Nación el 14 de septiembre de 2010 en autos "Sosa, Eduardo Emilio c. Provincia de Santa Cruz" (Expte: 6772-
+D-2010; 6780-D-2010 y 6784-D-2010)
+18
+   Fallos 148:303
+19
+   La Corte ha dicho que “En tal sentido debe interpretarse la ley de intervención federal, en cuanto dispone
+respecto de los miembros del Poder Judicial la mera "declaración en comisión" ello en contraste con la
+inmediata caducidad de los mandatos del Poder Ejecutivo y de los miembros del Poder Legislativo",
+
+[[PDF p. 7]]
+precisamente quitarle la estabilidad y dejarlos sujetos a la remoción por parte del interventor
+federal. Sin perjuicio de ello, continúan en funciones hasta tanto sean efectivamente removidos y
+designados sus reemplazantes. Cabe destacar que la “puesta en comisión” puede ser ejecutada
+únicamente por el interventor federal y no así una vez finalizada la intervención. Luego de los 2
+intervenciones a la Provincia de Santiago del Estero desde el retorno de la democracia y habiendo
+las leyes 24.306 y 25.881 dispuesto la puesta en comisión de los miembros del poder judicial, los
+Gobernadores que reasumieron sus funciones dictaron decretos disponiendo el cese automático
+en el ejercicio de sus funciones de todos los miembros del poder judicial que habían sido puestos
+en comisión20. Basaban su accionar precisamente en que la declaración en comisión de los
+integrantes del poder judicial había hecho desaparecer el presupuesto necesario de la garantían
+de inamovilidad. La Corte, con remisión al dictamen del Procurador General, entendió que la
+facultad de remover a los miembros del poder judicial, a raíz de la puesta en comisión, le
+corresponde en forma exclusiva a la autoridad federal afirmando que al disponer la reorganización
+del poder judicial provincial, el poder ejecutivo local que asumió una vez restauradas las
+instituciones hizo uso de una atribución que le era ajena.21
+
+Por tales razones es que actualmente las normas que disponen la intervención federal prevén la
+caducidad de los mandatos del Poder Ejecutivo y del Legislativo y la puesta en comisión de los
+miembros del Poder Judicial.
+
+El control judicial
+
+En este aspecto debemos diferenciar el control judicial de la declaración de intervención federal
+del control judicial de los actos del interventor. Estos últimos se encuentran sujetos al control
+judicial federal o provincial según el carácter que le sea asignado a sus actos, como se verá en el
+siguiente apartado.
+
+En relación al control judicial de la declaración de intervención nuestra Corte se pronunció en el
+famoso caso Cullen c Llerena en el que afirmó que la intervención es del resorte de los poderes
+políticos y sus decisiones, al respecto, no pueden ser controvertidas por el departamento
+
+
+
+
+diferencia que no puede ser obviada a la luz de la inveterada doctrina conforme a la cual ~la primera pauta
+de interpretación de la ley es dar pleno efecto a la voluntad del legislador, cuya –primera fuente es la letra
+de la ley" (Fallos: 321:2594; 313:1149).” Ver Fallos CSJN Lindow de Anguio, Isabel e/ Gobierno de la
+Provincia de Santiago del Estero s/ recurso contencioso administrativo del 03/03/2015 y Castro de Pujol,
+Maria del Huerto el Gobierno de la Provincia de Santiago del Estero (Decreto Serie A n° 646/95) s/ acción de
+amparo del 03/03/2015.
+20
+   Distinto sería el caso del cese de aquellos miembros del poder judicial que hubieran sido designados por el
+interventor federal. Diversas constituciones provinciales establecen el cese de los magistrados, funcionarios
+y empleados nombrados por una intervención federal (Ver Art. 5 Constitución de la Ciudad Autónoma de
+Buenos Aires; Art. 14 Constitución de Santiago del Estero; Art. 13 Constitución de San Juan)
+21
+   Fallos CSJN Lindow de Anguio, Isabel e/ Gobierno de la Provincia de Santiago del Estero s/ recurso
+contencioso administrativo del 03/03/2015 y Castro de Pujol, Maria del Huerto el Gobierno de la Provincia
+de Santiago del Estero (Decreto Serie A n° 646/95) s/ acción de amparo del 03/03/2015.
+
+[[PDF p. 8]]
+judicial.22 En la misma línea se ha pronunciado la Corte en el año 1962 al afirmar que La
+intervención de una provincia por órgano competente es un acto político no justiciable, que se
+resuelve y ejecuta por los poderes políticos, esto es, por el Congreso y el Poder Ejecutivo.23
+
+Posteriormente, la Corte ha evitado intervenir en forma cautelar para evitar la ampliación de la
+intervención federal –por vía de un decreto- a los poderes legislativo y judicial de la Provincia de
+Corrientes. En el caso la Corte declaró abstracta la medida cautelar solicitada por cuanto, al
+momento de dictarse la sentencia, el Poder Ejecutivo ya había dispuesto la ampliación de la
+intervención con el dictado del decreto 1447/9224. La disidencia consideró que existía mérito
+suficiente para la intervención de la Corte Suprema y evitar, así, que se consumara una ampliación
+de la intervención federal sin una ley del Congreso, reafirmando lo mencionado sobre este punto
+en el caso Orfila. Asimismo, los jueces en disidencia consideraron que la no justiciabilidad de las
+cuestiones atinentes a la intervención federal se limita a la imposibilidad de los órganos judiciales
+de revisar los motivos que hubiesen llevado al Gobierno Federal a declarar una medida de tal
+magnitud pero que resulta totalmente justiciable la cuestión cuando lo que se discute es el órgano
+competente para declararla y no sus motivos.
+
+En sentido similar se resolvió la cuestión en el caso Presidente del Superior Tribunal de Justicia de
+la Pcia. de Corrientes s/deduce acción de amparo25. La mayoría desestimó el caso por defectos
+formales26 sin considerar el planteo por el cual se impugnaba la facultad del Presidente de la
+Nación para ampliar la intervención federal.
+
+Es decir que en aquellos casos en los que la Corte ha tenido oportunidad ha declarado el tema
+como una cuestión política no justiciable la cuestión o bien, ha evitado entrar en la resolución de
+fondo.
+
+El carácter de los actos del interventor federal
+
+El interventor federal es un funcionario designado por el Presidente de la Nación con la finalidad
+de normalizar la Provincia intervenida, cumpliendo con los cometidos y haciendo uso de las
+competencias fijadas en la norma que dispone la intervención. Sin perjuicio de ello, resulta
+relevante determinar cuál es el carácter de los actos del interventor federal a fin de determinar
+
+
+
+22
+   Fallos: 53:420: “La intervención nacional en las provincias -dice- en todos los casos en que la Constitución
+la permite o prescribe, es, como queda dicho un acto político por su naturaleza, cuya verificación
+corresponde exclusivamente a los poderes políticos de la Nación; y así está reconocido en nuestros
+numerosos precedentes al respecto, sin contestación ni oposición de ningún género: todos los casos de
+intervención a las provincias han sido resueltos y ejecutados por el poder político, esto es, por el Congreso y
+el Poder Ejecutivo sin ninguna participación del Poder Judicial” y Gelli, M. A., Constitución de la Nación
+Argentina Comentada y Concordada, La Ley, Buenos Aires, 2007.
+23
+   Fallos: 252:293
+24
+   Fallos 315:2074
+25
+   Fallos 315:1673
+26
+   Se acompañó copia simple del acuerdo extraordinario del Superior Tribunal de la Provincia de Corrientes,
+habiendo sólo reproducido dos de las cinco firmas.
+
+[[PDF p. 9]]
+cuestiones como la competencia de los jueces para resolver impugnaciones a sus actos y la
+responsabilidad del estado provincial o federal en caso de daños y perjuicios.
+
+En diversos casos la Corte Suprema ha tenido oportunidad de pronunciarse sobre este tema y ha
+afirmado que la actuación de los interventores federales, en el orden local, no pierde ese carácter
+por razón de invocarse el origen de su investidura. En consecuencia, la impugnación de los actos
+del interventor como contrarios a normas locales es ajena a la competencia originaria de la justicia
+federal.27 Sin embargo la Corte en su jurisprudencia más reciente ha accedido en forma originaria
+a una pretensión cautelar contra actos del interventor federal afirmando que el interventor
+federal tiene un doble carácter, y, en consecuencia, también lo tienen los actos que realiza.
+Representa al gobierno federal, pero es también un representante promiscuo y necesario de la
+provincia hasta tanto sean reorganizados los poderes locales. Es decir que actúa con una doble
+personalidad y realiza actos que gozan de una u otra naturaleza y que pueden ser calificados de
+diversa manera.28 En dicho caso, la Corte consideró que la declaración de necesidad de reforma de
+una Constitución provincial, es un acto de naturaleza federal y no local y suspendió cautelarmente
+el llamado a elecciones para convencionales constituyentes, dispuesto por la ley local 6667.29
+
+En forma posterior y en sentido similar, la Corte desestimó una queja contra una sentencia que
+condenó al Estado Nacional a pagar los daños y perjuicios derivados de la conducta imputada al
+interventor federal30. El reclamo se fundaba en las declaraciones realizadas por la interventora a
+los diarios "Época" y "El Litoral" entre el 13 y el 15 de agosto de 1992 (en las que manifestó
+públicamente que la justicia local se hallaba integrada por magistrados y funcionarios venales y
+que su tarea como interventora consistiría en la moralización del Poder Judicial, por lo que éstos
+habrían de ser removidos. Se alegaba entonces que la remoción posterior había concretado la
+difamación, que daba origen a un posible reclamo por daños y perjuicios.
+
+La sentencia que la Corte dejó firme hacía responsable al Estado Nacional por los actos de la
+interventora federal31, considerando entonces que su actuación comprometía el patrimonio del
+Gobierno Federal y no de la Provincia.
+
+¿Ley orgánica de la intervención federal?
+
+La Constitución Nacional, luego de aclarar las causales de intervención, los sujetos pasivos de la
+intervención y el órgano competente para declararla, nada más dice sobre la cuestión. Es entonces
+que podríamos preguntarnos: ¿cuánto debe o puede durar una intervención? ¿Quién debe
+designar al interventor? ¿Qué facultades tiene el interventor federal? ¿Qué tipos de intervención
+
+27
+   Fallos 257:229; 270:346; 314:1857; 316:336; 326:1344; 327:5897
+28
+   Fallos 327:3852
+29
+   La cuestión de fondo fue finalmente declarada abstracta en la sentencia CSJN. Zavalía, José Luis c/
+Santiago del Estero, Provincia de y Estado Nacional s/ amparo del 23/05/2006 por haber cesado la
+intervención.
+30
+   Fallos: 330:345
+31
+   Sin perjuicio que la Corte aclaró que “el art. 90 de la Ley de Contabilidad como el art. 130 de la ley 24.156
+de Administración Financiera establecen claramente que todo funcionario que, por su dolo, culpa o
+negligencia, cause un daño al Estado está obligado a reparar a éste los perjuicios de tal modo ocasionados.”
+
+[[PDF p. 10]]
+pueden existir? A lo largo de la historia constitucional argentina se han intentado sancionar leyes
+que regularan las intervenciones federales, sin éxito alguno. Es decir que todas estas cuestiones se
+definieron en forma distinta en cada intervención federal que fue declarada.
+
+Desde el comienzo de la existencia de nuestra República se ha intentado avanzar en una ley
+reglamentaria de la intervención federal. Así se ha sancionado la ley número 318, del 25 de agosto
+de 1869, vetada por el Poder Ejecutivo el 2 de septiembre del mismo año; otros, contaron con
+despacho favorable de la Comisión de Negocios Constitucionales, como el Proyecto de José Nicolás
+Matienzo de 3 de mayo de 1932, y hasta media sanción del Senado Nacional el 24 de septiembre
+del mismo año32. Luego de la reforma constitucional la cantidad de intervenciones federales ha
+disminuido en forma notable y así también el interés en sancionar una ley que reglamente el
+artículo 6 de la Constitución Nacional. Si bien se han presentado proyectos de Ley33, ninguno ha
+tenido tratamiento en las Cámaras del Congreso.
+
+
+
+
+32
+  Becerra Ferrer, Guillermo. Ob. Cit.
+33
+  Expediente 5531-D-2015; 173-D-2013; 6313-D-2010; 4072-D-2010; 0607-S-2009; 2989-D-2008; 1004-D-
+2007; 1349-D-2006; 1071-D-2006

@@ -1,0 +1,3 @@
+# Peralta (U12): encabezado y pie de la impresión web del compendio
+^\s*5/13/2018\s+Fallo Peralta\s*$
+^\s*http://www\.biblioteca\.jus\.gov\.ar/Fallo-PERALTA\.html\s+\d+/31\s*$

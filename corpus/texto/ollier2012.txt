@@ -1,0 +1,517 @@
+# fuente: Unidad11/Ollier_2012_Más allá del presidencialismo y el parlamentarismo – María Matilde Ollier.pdf
+# md5_original: 1f6194e8d7dafde752833be0fa756c3a
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+POSTData 11,
+
+MÁS ALLÁ DEL PRESIDENCIALISMO
+Y DEL PARLAMENTARISMO
+
+                                                          por María Matilde Ollier*
+
+
+
+
+       Instaurado en América Latina al iniciarse la década del noventa, un
+nuevo fenómeno de inestabilidad ha reemplazado a los antiguos golpes de
+Estado encabezados por las fuerzas armadas1. Estas salidas anticipadas de
+presidentes, sin haber cumplido el mandato constitucional, trajo a la luz el
+antiguo debate sobre los “peligros” del presidencialismo y los supuestos be-
+neficios del parlamentarismo para la región. La persistencia de la inestabili-
+dad confiere, sin duda, vigencia a la pregunta sobre sus causas, cuya res-
+puesta todavía constituye una incógnita.
+
+
+Los avances
+
+       Es ampliamente reconocido que Juan Linz, explorando las razones de
+los quiebres democráticos, lanzó el desafío acusador hacia el presidencialismo
+latinoamericano y su escasa compatibilidad con la democracia2. El corazón
+de la impugnación residía en la división e independencia de dos poderes
+(ejecutivo y legislativo) con igual legitimidad y mandato fijo. Esta contex-
+
+*
+    Doctora en Ciencia Política (Universidad de Notre Dame). Profesora/Investigadora de
+    la Escuela de Política y Gobierno de la Universidad Nacional de San Martín. Directora
+    de la Revista Textos. E-mail: Maria.Ollier@unsam.edu.ar.
+1
+    Los estudiosos lo denominaron nuevo patrón de inestabilidad política (Pérez Liñán
+    2002: 177-178), caídas presidenciales (Hochstetler mimeo: 2), crisis con salvataje
+    (Bosoer 2003: 5), presidencias interrumpidas (interrupted presidencies) (Valenzuela
+    2004: 7) e inestabilidad presidencial (Ollier 2004).
+2
+    Linz (1978) argumentó por primera vez las diferencias entre el parlamentarismo y el
+    presidencialismo. En 1984 circuló el artículo “Democracy: Presidential or Parlamentary.
+    Does it Make a Difference?”. En Linz (1990) extendió su difusión y en Linz (1994)
+    incorporó los comentarios producidos desde el inicio.
+
+                             POSTData 11, Abril/2006, ISSN 1515-209X, (págs. 223-233)
+                                                                                  223
+
+[[PDF p. 2]]
+                                                                          María Matilde Ollier
+
+tura de la democracia presidencialista, como se la denominó luego, acarrea-
+ba una serie de inconvenientes que se alimentaban mutuamente. La inde-
+pendencia y legitimidad similar, convertida en pugna de poderes, y la rigi-
+dez, resultante del mandato fijo, conducían al bloqueo (o empate) entre el
+ejecutivo y el legislativo. Ambos rasgos (independencia y naturaleza del
+mandato) promovían una baja tendencia a la cooperación en un doble sen-
+tido. No fomentaba la colaboración entre los poderes, en tanto los legisla-
+dores no ligaban su destino al del presidente y viceversa. Pero tampoco entre
+los partidos. Estos carecían de incentivos para armar coaliciones, pues el
+diseño constitucional impulsaba que el ganador se lleve todo. Frente a seme-
+jantes acechos, la matriz constitutiva del parlamentarismo, definida por la
+mutua dependencia de poderes y la legitimidad del voto popular sólo para
+el parlamento, (en cuyas manos recae el nombramiento y destitución del
+primer ministro), ocasionaba indiscutibles beneficios a favor de la estabili-
+dad. Las ventajas se resumían en dos: flexibilidad e incentivos para la coope-
+ración.
+        La provocación linziana forzó a profundizar en el funcionamiento del
+presidencialismo, que resultó en una importante fuente de conocimiento de
+la política y las instituciones. En un reconocimiento a ellos, no exento de
+críticas teóricas y metodológicas, Munck (2004) realiza una excelente pues-
+ta al día de tales trabajos, tributarios del institucionalismo3. En los dos
+párrafos siguientes expongo, con trazo grueso, esos avances analizados por el
+autor, citando algunos de los textos más representativos a que él alude para
+fundamentar el desarrollo del conocimiento producido. Un punto de llega-
+da novedoso fue el descubrimiento de la existencia de diferentes tipos de
+presidencialismo que impedían hablar en nombre de uno solo. En este cam-
+po, dos líneas de análisis enriquecieron el debate sobre los motivos que
+impactaban en el vínculo ejecutivo-legislativo. Una se centró en los poderes
+constitucionales del presidente, enfatizando una distinción entre los pode-
+res legislativos (veto, decretos e iniciación) y los “no legislativos” (formación
+del gabinete y disolución de la asamblea)4. Dentro de los primeros una
+división entre reactivos (para mantener el status quo) y pro-activos (para
+cambiarlo) (Mainwaring y Shugart 2002), dio lugar a hallazgos que demos-
+traron las diferentes estrategias con que cuenta un presidente frente al par-
+lamento (Cox y Morgenstern 2002).
+3
+      Los institucionalistas sostienen que “that actors make choices in response to institutional
+      incentives” y enfatizan “the causal import of institutions” (Munck 2004: 438).
+4
+      Carey y Shugart (1998), Payne et al. (2002), Shugart y Carey (1992), Mainwaring y
+      Shugart (2002) (versión ampliada de la original publicada en 1997).
+
+224
+
+[[PDF p. 3]]
+POSTData 11, Más allá del presidencialismo y el parlamentarismo
+
+        La otra línea de análisis se centró en los poderes partidarios del presi-
+dente, entendidos como el respaldo legislativo capaz de permitirle pasar las
+leyes que precisa para gobernar (Coppedge 2003, Mainwaring y Shugart
+2002). El conjunto de estos estudios nos permiten concluir que la naturale-
+za del sistema de partidos (al poner en juego su número, la proporción de
+bancas correspondientes a la fuerza del presidente, la proximidad ideológica
+y la disciplina partidaria) establece diferencias en el modo de funciona-
+miento del presidencialismo5. Sin embargo, el resultado arrojado por las
+investigaciones distó de ser unánime, pues diferentes razones explicaron el
+bloqueo. Una tendencia hizo hincapié en los bajos poderes partidarios del
+presidente, deduciendo que la combinación entre multipartidismo fragmen-
+tado y presidencialismo atentaba contra la estabilidad y la democracia. La
+otra, en cambio, subrayó que el empate no sólo era tributario de las prefe-
+rencias partidarias sino de los incentivos institucionales producto del siste-
+ma electoral (Cox y McCubbins 2001, Shugart y Haggard 2001).
+        Si bien descartar la homogeneidad del presidencialismo dio lugar a
+fructíferos aciertos, la idea básica de Linz sobre la naturaleza problemática de
+la democracia presidencialista se mantuvo, aunque, como advierte Munck,
+introdujo dos revisiones: por un lado, des-enfatizó el amplio contraste entre el
+presidencialismo y el parlamentarismo6, y en consecuencia los obstáculos de la
+estabilidad democrática dejaron de ser atribuidos al presidencialismo per se y,
+por el otro, descubrió que al resaltar una variable, la extrema fragmentación
+partidaria, limitó la contribución a un reducido grupo de democracias
+presidencialistas7. De aquí en más los avances han continuado enriqueciendo el
+conocimiento (Cox y Morgenstern 2002), desmintiendo que se dé una tenden-
+cia débil a la formación de gobiernos de mayoría y que exista inhabilidad de los
+gobiernos minoritarios para armar coaliciones legislativas mayoritarias8. Dos
+
+5
+    Alcántara y Freidenberg (2001), Coppedge (1998, 2001 y 2003), Mainwaring
+    (1999), Mainwaring y Scully (1995). Hubo un creciente énfasis en ver la capacidad
+    de los líderes partidarios en el parlamento para conseguir los votos (Carey 2002, 2003,
+    Mainwaring y Shugart 2002, Morgenstern 2003, Shugart y Carey 1992).
+6
+    Más todavía, la desgracia en que había caído el presidencialismo en la consideración
+    académica se ha visto menguada. En una compilación sobre los presidencialismos
+    latinoamericanos, Lanzaro (2003) argumenta cómo se han incrementado las razones a
+    favor del presidencialismo.
+7
+    Según Munck (2004), el primer quiebre con la perspectiva de Linz sobre el impacto de
+    las relaciones ejecutivo-legislativo sobre la performance del legislativo en Brasil en 1995,
+    fue el trabajo de Figuereido y Limongi (2000).
+8
+    Munck ubica como textos claves a Cheibub (2002), Cheibub et al. (2002) y Saiegh (2002).
+
+                                                                                            225
+
+[[PDF p. 4]]
+                                                                     María Matilde Ollier
+
+defectos atribuidos al presidencialismo, gran número de gobiernos minorita-
+rios y escasas concertaciones inter partidarias, no se sustentaban en los datos.
+        Ahora bien, si tomamos los componentes mencionados que intervie-
+nen en el funcionamiento del presidencialismo y observamos la inestabili-
+dad acaecida desde los noventa, encontramos la presencia de las combina-
+ciones más diversas antes que un único patrón. Han padecido la nueva ines-
+tabilidad naciones con disímiles configuraciones partidarias (desde el hege-
+mónico Partido Colorado paraguayo hasta el multipartidismo brasileño),
+con distintos poderes constitucionales y partidarios del presidente (Argen-
+tina, Perú, Brasil, Bolivia, Venezuela y Paraguay) y con una desigual partici-
+pación de las fuerzas armadas. Así mientras en la Argentina (2001), Brasil
+(1992) y Bolivia (2003) los militares no jugaron ningún rol, en cambio se
+vieron involucrados en el proceso que terminó en el alejamiento de Cubas
+Grau en Paraguay (1999). En Venezuela contribuyeron a desestabilizar al
+Presidente Pérez y en Perú respaldaron a Fujimori en su golpe contra el
+poder legislativo y en cambio nada hicieron cuando éste fue desalojado del
+gobierno9. También resultaron víctimas de la inestabilidad las soñadas coa-
+liciones (Argentina, Bolivia, Brasil). Si cada caso encuentra un “pero” es
+preciso revisar algunos supuestos.
+
+
+Las advertencias
+
+       Las polémicas fructíferas como éstas dejan algunas advertencias a te-
+ner en cuenta. La primera aconseja, una vez más, sobre los riesgos de cierto
+tipo de comparaciones cuando, además, no se fundan en suficientes y con-
+sistentes relevamientos empíricos. Partiendo, como lo hacen, del punto de
+referencia del investigador/a pueden confundir la relevancia ó el desempeño
+de las variables puestas en juego. Varios analistas critican que se juzgó al
+presidencialismo vernáculo en comparación con el estadounidense, que a su
+vez se estudió en paralelo con el parlamentarismo inglés. El hecho descubre
+un nexo entre la formulación del problema y el contexto político-institucional
+y académico de los investigadores. El vínculo existente entre subjetividad
+académica y realidad política debe servir para evaluar previamente la perti-
+nencia de los puntos de partida y sus posibles sesgos así como la “objetivi-
+
+9
+      Perez Liñán (2002: 183) tipifica la diferente participación militar en nueve crisis
+      presidenciales en los años noventa y Valenzuela (2004: 8-9) en 14 casos entre 1985 y
+      2004.
+
+226
+
+[[PDF p. 5]]
+POSTData 11, Más allá del presidencialismo y el parlamentarismo
+
+dad” de nuestra disciplina. Si el punto de mira es prejuicioso todos los
+números se incluirán en él10.
+        Llega entonces la segunda advertencia. Aparte de basarse en una com-
+paración hipotética —en América Latina no se desarrolló el parlamentaris-
+mo— dos supuestos que legitiman la preferencia por el parlamentarismo
+son “hipotéticamente” discutibles. El primero es la creencia en la estabili-
+dad del preferido, puesta en duda e incluso refutada (Cheibub 2005, Lanzaro
+2003)11. El segundo, las bondades de la flexibilidad que significaría el cam-
+bio hacia el parlamentarismo, no evalúa el impacto de una mayor elastici-
+dad en relación a uno de los meollos de la política doméstica: el desapego a
+la ley. Los países de la región necesitan acostumbrarse a funcionar conforme
+a reglas. Una mayor flexibilidad lejos de convertirse en un beneficio puede
+encerrar la tentación de ceder a permanentes variaciones normativas y lega-
+les capaces de llevar a las instituciones a una invalidación y descreimiento
+mayores. La “contraproducente” rigidez quizás impone un límite a la viola-
+ción de la norma. El punto merece alguna especulación al menos.
+        La tercera advertencia plantea los riesgos de un nuevo determinismo.
+Dada la larga tradición que padecemos de hallar soluciones sencillas para pro-
+blemas que se pretenden complejos, vale la pena preguntarse ¿son las institu-
+ciones per se determinantes de la inestabilidad? Si las instituciones distan mucho
+de funcionar como tales, es decir conforme a reglas, y son fácilmente
+manipulables por los actores políticos, ¿pueden constituir la variable inde-
+pendiente? Resulta atinado entonces esperar que sea la dinámica política cen-
+trada en las disputas de poder la que defina su funcionamiento12. En contex-
+tos de baja institucionalización, cualquier lectura sobre conflictos entre el
+ejecutivo y el legislativo no puede pasar por alto este hecho, nada menor, si
+pretendemos conferirle tal capacidad explicativa a las instituciones.
+10
+     Huneeus y Berríos (2005), en un estudio sobre el congreso chileno (con comparaciones
+     con el argentino y el brasileño), explicitan la necesidad de estudiar el tema desde la
+     realidad latinoamericana, considerando que los congresos latinoamericanos han recibido
+     poca atención y no han sido comprendidos (ver también Morgenstern y Nacif 2005).
+11
+     Bolivia ingresó en 1989 en una modalidad de “presidencialismo parlamentarizado” don-
+     de el congreso nombra al presidente entre los dos candidatos más votados en las urnas
+     “con la libertad efectiva de no nombrar al que salió primero en la consulta ciudadana
+     directa” (Lanzaro 2003: 33). Sin embargo, la inestabilidad presidencial azotó al país entre
+     el 2003 y 2005 de manera clara (destituciones de Sánchez de Losada y de Mesa).
+12
+     En el caso argentino, no fue la Corte Suprema y la norma imperante la que impidió que
+     Menem se saliera con la suya para ser candidato del PJ para un tercer período sino la derrota
+     que sufriera a manos de su principal adversario interno, Eduardo Duhalde, en el congreso
+     partidario. La decisión de la Corte siguió al resultado de la disputa política (Ollier 2001).
+
+                                                                                              227
+
+[[PDF p. 6]]
+                                                           María Matilde Ollier
+
+       Esta advertencia se ve sustentada en el análisis realizado por Perez
+Liñán (2003a) que incluye 45 crisis presidenciales (definidas como el mu-
+tuo desconocimiento de legitimidad entre los dos poderes y la apelación a
+los militares de uno contra el otro) en 18 países latinoamericanos entre
+1950 y 2000. Luego de analizar distintos resultados, el autor destaca que
+los críticos del presidencialismo han permanecido ciegos frente a la inver-
+sión del flujo causal entre inestabilidad y bloqueo; pues abundan los ejem-
+plos en los que la crisis de régimen detonó en pugna de poderes y no a la
+inversa: Argentina en 1976 (Serrafero 1997), Brasil en 1955 (Dulles 1970),
+Paraguay en 1954 (Seiferheld 1987). Cheibub (2005) atribuye la inestabi-
+lidad latinoamericana a la preponderante influencia militar en la región.
+       El tener en cuenta la debilidad institucional debe extenderse a los
+partidos políticos. Pues su rol, sin duda central, en relación al presidente y
+al congreso obliga a incorporar dos cuestiones. Una, en buena parte de nues-
+tras democracias los partidos distan de ajustarse a un funcionamiento
+institucionalizado (Mainwaring y Scully 1995, Cavarozzi y Abal Medina
+2002); más aún, probablemente se hallen en un proceso de cambio, pro-
+ducto de la metamorfosis que sufre la representación en todo el mundo
+(Manin 1992). Dos, diferentes instituciones y actores (los gobernadores en
+los países federales, los sindicatos, los militares y los indígenas, para nom-
+brar algunos) poseen capacidad para inclinar la disputa política a favor de
+uno u otro partido o facción.
+       La presencia de “fuentes extrapartidarias” del poder partidario ocasio-
+na una cuarta advertencia. El supuesto descalificador según el cual el
+presidencialismo no fomenta la cooperación (un juego de suma cero donde
+el ganador se lleva todo) ha sido parcialmente refutado por un hallazgo: la
+existencia del federalismo acota el poder presidencial (Mainwaring y Shugart
+2002). Sin embargo, la política latinoamericana no siempre se atiene a lo
+esperable, planteando una paradoja: cuando hay más de un ganador no
+suele primar la cooperación sino el conflicto. El federalismo otorga poder a
+otros actores (los gobernadores) capaces de jaquear ó condicionar al presi-
+dente. La quinta advertencia la formulan los estudios sobre la calidad demo-
+crática que, quizás sin proponérselo, cuestionaron algunas presunciones.
+Gobiernos estables pueden serlo a expensas de la calidad democrática. Un
+presidente que pasa leyes a cualquier precio da lugar a una democracia
+delegativa (O’Donnell 1994) ó a una insuficiente rendición de cuentas
+(Mainwaring y Shugart 2002), aun cuando sea estable. Pero además, el uso
+abusivo de tales poderes —contradiciendo las predicciones— no necesaria-
+mente favorece la estabilidad, como lo prueban las caídas de Collor y De la
+
+228
+
+[[PDF p. 7]]
+POSTData 11, Más allá del presidencialismo y el parlamentarismo
+
+Rúa13. Por lo tanto, tal vez debamos ir a la búsqueda de una definición para
+la expresión “estabilidad democrática”. En una palabra, al haberse ensan-
+chado el campo de análisis, introduciendo diferentes componentes que in-
+ciden en la pugna de poderes, lejos de alcanzarse una respuesta única al
+problema, éste se ha complejizado. He aquí uno de sus mayores méritos.
+
+
+Las deudas
+
+       Un camino para continuar con esfuerzos tan fructíferos podría pasar por
+colocar las instituciones en las dinámicas políticas —centradas en las disputas
+por el ejercicio del poder— que las atraviesan. Allí aparecen otras dimensiones
+concurrentes que nos advierten sobre las deudas pendientes. Valenzuela (2004)
+propone investigar la presencia de dos dinámicas —una de naturaleza económi-
+co-social y otra de índole política— que estarían conduciendo a las partidas
+anticipadas de varios presidentes latinoamericanos desde mediados de los años
+ochenta14. Los trabajos de Pérez Liñán (2002, 2003a, 2003b), que recogen las
+investigaciones de diferentes autores en varios episodios de inestabilidad, invi-
+tan a explorar el vacío explicativo para dos fenómenos que se reiteran ante cada
+salida presidencial: los escándalos mediáticos y las movilizaciones sociales15.
+       Surge entonces la primera deuda: la protesta social necesita una in-
+terpretación que vaya más allá del hartazgo ó del espontaneísmo. Necesita-
+mos lecturas capaces de dar cuenta del nexo entre los actores sociales que
+protagonizan la indignación popular, los partidos y los medios. Una segun-
+da deuda podría ligarse a ésta. Sería conveniente considerar la doble pre-
+sión, interna (las demandas ciudadanas) y externa (las ligazones con los
+organismos multilaterales de crédito, y su monitoreo constante), en el dise-
+ño y el manejo de la política económica, y en consecuencia, su incidencia en
+
+13
+     Respecto al uso de los poderes legislativos de Collor, ver Mainwaring (2002), y de De
+     la Rúa, ver Mustapic (2005).
+14
+     Ollier (2003) al estudiar la salida anticipada de De la Rúa, encuentra la convergencia
+     de dos razones: la fragmentación del sistema político-institucional y la extrema depen-
+     dencia de la economía del crédito externo.
+15
+     “Al menos en el corto plazo, el principal desafío para la gobernabilidad latinoamericana
+     no parece estar dado por la pugna entre el Ejecutivo y el Legislativo, sino por la
+     amenaza del alzamiento popular en un contexto de insatisfacción con el funciona-
+     miento de las nuevas democracias” (Pérez Liñán 2003b). Hochstetler (mimeo) sostiene
+     que el factor más importante en determinar las caídas presidenciales desde 1978 en
+     América del Sur fue la protesta callejera.
+
+                                                                                         229
+
+[[PDF p. 8]]
+                                                                        María Matilde Ollier
+
+el funcionamiento de las instituciones económicas locales. Varias destitu-
+ciones presidenciales fueron precedidas por la insatisfacción ciudadana ante
+la falta de respuesta a los reclamos económico-sociales, insatisfacción refleja-
+da en la pérdida de popularidad del presidente.
+        Llegamos entonces a la tercera deuda: la carencia de estudios sistemá-
+ticos sobre los liderazgos presidenciales latinoamericanos. Del texto de Cox
+y Morgenstern (2002) se desprende que el presidente cuenta con opciones
+frente a los diferentes tipos de legislatura. Se abre allí un camino que debe
+seguir explorándose. Países con tradición presidencialista y autoritaria re-
+quieren formalizar instrumentos para analizar y contextualizar la figura pre-
+sidencial. El bajo nivel de institucionalización confiere al presidente un an-
+cho margen para definir la dinámica política. Por lo tanto, liderazgos demo-
+cráticos y con capacidad de ejercer el poder pueden constituir un recurso
+capaz de ayudar a institucionalizar la democracia.
+        El avance político ocurrido —esto es, el recambio presidencial en reem-
+plazo del antiguo colapso de régimen— se dio en el marco de los presidencialismos
+realmente existentes. Por lo tanto, no radicaba en ellos el componente intrínseco
+que conducía al quiebre de la democracia. Quedan, sin duda, por ver sus forta-
+lezas y desventajas para la nueva inestabilidad regional. Pero ambas deben pen-
+sarse e investigarse junto a las otras problemáticas que afectan a la democracia
+latinoamericana (calidad, representatividad, accountability).
+
+
+Bibliografía
+
+Alcántara Sáez, Manuel y Flavia Freidenberg (2001) Partidos políticos en América Latina,
+        Salamanca, Editorial Universidad de Salamanca.
+Bosoer, Fabián (2003) “1999-2003: del colapso al ‘auto-rescate’ de las democracias. Una
+        revisión (auto) crítica de las teorías sobre transición y reformas”, en Textos, Año 2,
+        Nº 3, Buenos Aires.
+Carey, John M. (2002) “Getting their Way, or Getting in the Way? Presidents and Party
+        Unity in Legislative Voting”, Trabajo presentado en el Annual Meeting de la
+        American Political Science Association, Boston.
+Carey, John .M. (2003) “Discipline, Accountability, and Legislative Voting in Latin
+        America”, en Comparative Politics, Nº 35.
+Carey, John M. y Mattthew S. Shugart (1998) Executive Decree Authority, Nueva York,
+        Cambridge University Press.
+Cavarozzi, Marcelo y Juan Manuel Abal Medina (comps.) (2002) El asedio a la política.
+        Los partidos latinoamericanos en la era neoliberal, Rosario, Homo Sapiens.
+
+230
+
+[[PDF p. 9]]
+POSTData 11, Más allá del presidencialismo y el parlamentarismo
+
+Coppedge, Michael (1998) “The Dynamic Diversity of Latin American Party System”, en
+        Party Politics, Nº 4 (Versión castellana: “La diversidad dinámica de los sistemas de
+        partidos latinoamericanos”, en POSTData, Nº 6, Buenos Aires, julio de 2000).
+Coppedge, Michael (2001) “Latin American Parties: Political Darwinism in the Lost
+        Decade”, en Diamond, Larry y R. Gunthe, Political Parties and Democracy,
+        Baltimore, Johns Hopkins University Press.
+Coppedge, Michael (2003) “Party Systems, Governability, and the Quality of Democracy
+        in Latin America”, en la Conferencia Diagnosting Democracy: Methods of Analysis,
+        Findings and Remedies, Santiago de Chile.
+Cox, Gary W. y M. D. McCubbins (2001) “The Institutional Determinants of Economic
+        Policy Outcomes”, en Haggard, S. y M. D. McCubbins, The Political Economy of
+        Democratic Transitions, Nueva York, Cambridge University Press.
+Cox Gary W. y Scott Morgenstern (2002) “Epilogue: Latin America’s Reactive Assemblies
+        and Proactive Presidents”, en Morgenstern, Scott y B. Nacif, Legislative Politics in
+        Latin America, Cambridge, Cambridge University Press.
+Cheibub, José A. (2005) “Why are Presidential Democracies Fragile?”, Yale University, mimeo.
+Cheibub, José A. (2002) “Minority Governments, Deadlock Situations, and the Survival
+        of Presidential Democracies”, en Comparative Political Studies, Nº 35.
+Cheibub, José A., Adam Przeworski y Sebastián Saiegh (2002) ”Governos de coalizao nas
+        democracias presidencialistas e parlamentaristas”, en Dados, Nº45, Rio de Janeiro.
+Dulles, J.W.F. (1970) Unrest in Brazil: Political-Military Crises, 1955-1964, Austin,
+        University of Texas.
+Figuereido, Angelina C. y Fernando Limongi (2000) “Constitutional Change, Legislative
+        Performance and Institutional Consolidation”, en Brazil Review of Social Science, Nº 1.
+Huneeus, Carlos y Fabiola Berríos (2005) “El Congreso en el presidencialismo. El caso de
+        Chile”, en Revista SAAP, Publicación de Ciencia Política de la Sociedad Argentina de
+        Análisis Político, Vol. 2, Nº 2, septiembre.
+Hochstetler, K. (mimeo) “Rethinking Presidentialism: Challengers and Presidential Falls
+        in South America”, Political Science Department, Colorado State University.
+Lanzaro, Jorge (comp.) (2003) Tipos de presidencialismo y coaliciones políticas en América
+        Latina, Buenos Aires, CLACSO.
+Linz, Juan J. (1978) The Breakdown of Democratic Regimes, Crisis, Breakdown, and
+        Reequilibration, Baltimore, The John Hopkins University Press.
+Linz, Juan J. (1990) “Perils of Presidentialism”, en Journal of Democracy, Vol. 1, Nº 1.
+Linz, Juan J. (1994) “Presidential or Parliamentary Democracy: Does it Make any Difference?”,
+        en Linz, Juan J. y Arturo Valenzuela, The Failure of Presidential Democracy, Vol. 2
+        (The Case of Latin America), Baltimore, Johns Hopkins University Press.
+Mainwaring, Scott (1999) Rethinking Party Systems in the Third Wave of Democratization.
+        The Case of Brazil, Stanford, Stanford University Press.
+
+                                                                                           231
+
+[[PDF p. 10]]
+                                                                        María Matilde Ollier
+
+Mainwaring, Scott y Timothy Scully (1995) Building Democratic Institutions: Party Systems
+        in Latin America, Stanford, Stanford University Press.
+Mainwaring, Scott y Matthew Shugart (2002) Presidencialismo y democracia en América
+        Latina, Buenos Aires, Paidós.
+Manin, Bernard (1992) “La metamorfosis de la representación”, en Dos Santos, Mario
+        (coord.) ¿Qué queda de la representación política?, Caracas, Nueva Sociedad.
+Morgenstern, Scott (2003) Patterns of Legislative Politics: An Exploration of Roll Call
+        Voting in the United States and Latin America’s Southern Cone, Nueva York,
+        Cambridge University Press.
+Morgenstern, Scott y B. Nacif (2002) Legislative Politics in Latin America, Cambridge,
+        Cambridge University Press.
+Munck, Gerardo (2004) “Democratic Politics in Latin America: New Debates and Research
+        Frontiers”, en Annuual Review of Political Science, Nº 7.
+Mustapic, Ana María (2005) “Inestabilidad sin colapso. La renuncia de los presidentes:
+        Argentina el año 2001”, en Desarrollo Económico, Vol. 45, Nº 178.
+O’Donnell, Guillermo (1994) “Delegative Democracy?”, en Journal of Democracy, Vol. 5 Nº 1.
+Ollier, María Matilde (2001) Las coaliciones políticas en la Argentina. El caso de la Alianza,
+        Buenos Aires, Fondo de Cultura Económica.
+Ollier, María Matilde (2003) “Argentina: Up a Blind Alley Once Again”, en Bulletin of
+        Latin America Research, Vol. 22, Nº 2.
+Ollier, María Matilde (2004) “Hacia un patrón argentino de inestabilidad presidencial”,
+        en Estudios sociales, Nº 27, año XIV, Santa Fe, Universidad Nacional del Litoral.
+Payne, J. M., D. Zovatto, F. F. Carillo y A. Allamand Zabala (2002) “Democracies in
+        Development. Politics and Reform in Latin America”, Inter-American Development
+        Bank e IDEA, Washington D.C.
+Perez Liñán, Aníbal (2003a) “Presidential Crises and Democratic Accountability in Latin
+        America (1990-1999)”, en Eckstein, S. y T. Wickham-Crowley (eds.) What Justice?
+        Whose Justice? Fighting for Fairness in Latin America, Berkeley, University of
+        California Press.
+Perez Liñán, Aníbal (2003b) “Pugna de poderes y crisis de gobernabilidad: ¿Hacia un
+        nuevo presidencialismo?”, en Latin American Research Review, Vol. 38, Nº 3,
+        octubre.
+Perez Liñán, Aníbal (2002) “Argentina y el nuevo patrón de inestabilidad política en
+        América Latina”, en Revista SAAP, Publicación de Ciencia Política de la Sociedad
+        Argentina de Análisis Político, Vol. 1, Nº 1, octubre.
+Saiegh, Sebastián (2002) “Government Defeat: Voting Coalitions, Constituency Influence
+        and Legislative Success” (www.nyu.edu).
+Seiferheld, A. (1987) La caída de Federico Chávez –una visión documental norteamericana,
+        Asunción, Editorial Histórica.
+
+232
+
+[[PDF p. 11]]
+POSTData 11, Más allá del presidencialismo y el parlamentarismo
+
+Serrafero, Mario D. (1997) “Juicio político y derrumbe institucional en la Argentina,
+       1976”, en Estudios Interdisciplinarios de América Latina y el Caribe, Vol. 8, Nº 2.
+Shugart, Matthew S. y John .M. Carey (1992) Presidents and Assemblies: Constitutional
+       Design and Electoral Dynamics, Nueva York, Cambridge University Press.
+Shugart, Matthew .S. y S. Haggard (2001) “Institutions and Public Policy in Presidential
+       Systems”, en Haggard, S. y M. D. McCubbins, The Political Economy of Democratic
+       Transitions, Nueva York, Cambridge University Press.
+Valenzuela, Arturo (2004) “Latin American Presidencies Interrupted”, en Journal of
+       Democracy, Vol. 15, Nº 4.
+
+
+                                         Resumen
+
+Luego de presentar, de manera escueta, los       no a esta polémica, discutiendo sus supues-
+avances de la polémica en torno a los peligros   tos y planteando sus deudas en la explica-
+del presidencialismo y los supuestos benefi-     ción de la inestabilidad presidencial recien-
+cios del parlamentarismo para la región, estas   te. La reflexión apunta a alertar sobre los ries-
+notas formulan algunas advertencias en tor-      gos de un nuevo determinismo.
+
+
+                                     Palabras clave
+
+instituciones - presidencialismo - parlamentarismo - determinismo - inestabilidad presidencial
+
+
+                                         Abstract
+
+This report begins by describing the             the controversy, discussing their proponents’
+development of the controversy surrounding       assumptions and findings. Furthermore, the
+the dangers posed to the region by               author points out faults in these explanations
+presidentialism, as well as the supposed         of the region’s recent presidential instability.
+benefits of parliamentarism. The author goes     These reflections aim to warn against the
+on to describe the ideas among both sides of     risks of a new determinism.
+
+
+                                        Key words
+
+institutions - presidentialism - parlamentarism - determinism - presidential instability
+
+
+                                                                                             233

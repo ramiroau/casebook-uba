@@ -1,0 +1,8 @@
+# csjn_gonzalez2000 (U16). Carátula repetida en las páginas impares del PDF.
+^\s*G\. 653\. XXXIII\.\s*$
+^\s*RECURSO DE HECHO\s*$
+^\s*González de Delgado, Cristina y otros c/\s*$
+^\s{20,}Universidad Nacional de Córdoba\.\s*$
+^\s*ES COPIA\s*$
+# csjn_gonzalez2000: continuación de la nota 5 del voto de Petracchi (PDF p. 19)
+^\s*mujer una femineidad que no es la suya\.\s*$

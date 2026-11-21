@@ -1,0 +1,4 @@
+# U07 — carátula de las páginas impares de «Confederación Frente Amplio Formoseño» (Fallos 347:2044)
+^\s{20,}Confederación\s+Frente\s+Amplio\s*$
+^\s{20,}Formoseño c/ Formosa, Provincia de s/\s*$
+^\s{20,}amparo\.\s*$

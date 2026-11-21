@@ -1,0 +1,9 @@
+# Gargarella, «De la alquimia interpretativa al maltrato constitucional» (U05).
+# Llamadas de nota pegadas a puntuación (MARCA_DE_NOTA no las toma)
+(?<=el profesor Néstor Sagués\.)1(?= En el mismo)
+(?<=discrecionalidad judicial\)\.)2(?= El trabajo)
+(?<=nuestros hábiles jueces\.)5(?= Por fortuna)
+(?<=compromiso con la regla mayoritaria\.)6(?= Quedamos)
+# Continuación de la nota 3 al pie de PDF p. 2 (sin número propio)
+^un modo más apropiado la presentación de los mismos\. Siguiendo al autor, no haré aquí distinciones entre\s*$
+^interpretaciones de distintos niveles de normas\.\s*$

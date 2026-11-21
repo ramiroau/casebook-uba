@@ -1,0 +1,4 @@
+# U07 — carátula de las páginas impares de «Evolución Liberal» (Fallos 346:543)
+^\s{20,}ORIGINARIO\s*$
+^\s{20,}Evolución\s+Liberal\s+y\s+otro\s+c/\s+San\s+Juan,\s*$
+^\s{20,}Provincia de s/ amparo\.\s*$

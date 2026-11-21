@@ -1,0 +1,1209 @@
+# fuente: Unidad8/Hitters_2009_Control de constitucionalidad y control de convencionalidad.pdf
+# md5_original: 72fe6b2e95f738749301add7278619fa
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+              Estudios
+               Control de
+                        Constitucionales,
+                            constitucionalidad
+                                            Año y7,control
+                                                    N° 2, 2009,
+                                                           de convencionalidad.
+                                                                pp. 109-128, ISSN
+                                                                                Comparación
+                                                                                   0718-0195
+                   (Criterios
+                    Centro defijados
+                                Estudios
+                                     por Constitucionales
+                                          la Corte Interamericana
+                                                            de Chile,
+                                                                   deUniversidad
+                                                                      Derechos Humanos)
+                                                                                 de Talca
+              “Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)”
+                                              Juan Carlos Hitters
+
+
+
+
+        CONTROL DE CONSTITUCIONALIDAD Y CONTROL
+           DE CONVENCIONALIDAD. COMPARACIÓN
+         (Criterios fijados por la Corte Interamericana de
+                         Derechos Humanos)
+
+        Constitutional control and conventional control. comparison
+    (Criteria established by the Inter-American Court of Human Rights)
+
+                                                                               Juan Carlos Hitters1
+                                                                          Profesor de Derecho Procesal,
+                                                                      Universidad de La Plata, Argentina
+                                                                                     hitters@scba.gov.ar
+
+
+
+    RESUMEN: El ‘control de convencionalidad’ es un mecanismo que debe ser lleva-
+do a cabo, primero por los cuerpos judiciales domésticos, haciendo una ‘comparación’
+entre el derecho local y el supranacional, a fin de velar por el efecto útil de los instru-
+mentos internacionales, sea que surja de los tratados, del ius cogens o de la jurispru-
+dencia de la Corte Interamericana de Derechos Humanos; y luego esa tarea debe ser
+ejercida por la Corte Interamericana de Derechos Humanos si es que el caso llega a sus
+estrados.
+
+   PALABRAS CLAVE: Corte Interamericana de Derechos Humanos. Control de con-
+vencionalidad. La efectividad de los instrumentos internacionales.
+
+     ABSTRACT: The conventionality ‘control’ is a mechanism that should be carried out
+first by the domestic judiciary, making a ‘comparison’ between local and supranational
+law, to ensure the effectiveness of international instruments, is arising from treaties,
+the jus cogens or the jurisprudence of the Inter-American Court of Human Rights, and
+then that task should be exercised by the Interamerican Human Rights Court if the
+case goes to his courtroom.
+
+    KEY WORDS: Inter-American Court of Human Rights. Conventionality control. The
+effectiveness of international instruments
+
+
+1   El autor es Profesor de Derecho Procesal de la Universidad de La Plata y Ministro de la Corte Suprema
+    de La Plata. Artículo recibido el 23 de junio de 2009 y aprobado el 22 de octubre de 2009.
+
+
+
+
+                      Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                             109
+
+[[PDF p. 2]]
+                                                  Juan Carlos Hitters
+
+
+
+
+      I. INTRODUCCIÓN
+
+      A. Control de convencionalidad
+
+          1. Orígenes
+
+         Los órganos jurisdiccionales locales –y los Tribunales Constitucionales que en de-
+      terminados países no dependen del Poder Jurisdiccional– ejercitan el llamado control
+      de constitucionalidad que importa una comparación, entre su Carta Magna y las nor-
+      mas que por su rango están por debajo de ella, debiendo darle prioridad a la primera.
+      Podemos hablar entonces de un contralor concentrado, típico de algunas Constitucio-
+      nes Europeas, a partir de la Austriaca de 1946, donde la revisión es hecha exclusiva-
+      mente por un único cuerpo diseñado para tales fines; o en su caso –como es por
+      demás sabido–, del control difuso que debe ser llevado a cabo, como en Estados
+      Unidos y en Argentina, por todos y cada uno de los magistrados judiciales.
+
+          Pero como lo vienen sosteniendo desde hace no mucho tiempo algunos de los
+      Magistrados de la Corte Interamericana, dicho cuerpo ejercita lo que ha dado en lla-
+      mar a partir del caso Myrna Mack Chang2 el “Control de Convencionalidad”, lo que
+      obviamente significa una comparación entre el Pacto de San José de Costa Rica y otras
+      convenciones a las que nuestro país se ha plegado, como luego veremos, y las dispo-
+      siciones del derecho interno de las naciones adheridas al modelo.
+
+          En tal sentido se expresó la Corte en el caso Trabajadores Cesados3 al sostener que
+      “…cuando un Estado ha ratificado un tratado internacional como la Convención Ame-
+      ricana, sus jueces también están sometidos a ella, lo que les obliga a velar porque el
+      efecto útil de la Convención no se vea mermado o anulado por la aplicación de leyes
+      contrarias a sus disposiciones, objeto y fin. En otras palabras, los órganos del Poder
+      Judicial deben ejercer no sólo un control de constitucionalidad, sino también ‘de con-
+      vencionalidad’ ex officio entre las normas internas y la Convención Americana ...”.4
+
+         Claro está que cuando se utiliza la terminología de “control de convencionalidad”,
+      no se quiere decir que recién a partir del citado asunto la Corte IDH haya ejercido tal
+      potestad, porque desde siempre el cuerpo hace una comparación entre ambos esque-
+
+
+      2   Corte IDH, Caso Myrna Mack Chang Vs. Guatemala, Sentencia de 25 de noviembre de 2003, Serie C
+          No. 101, Voto Concurrente Razonado del Juez Sergio García Ramírez.
+      3   Corte IDH, Caso Trabajadores Cesados del Congreso (Aguado Alfaro y otros) Vs. Perú, Sentencia de 24
+          de noviembre de 2006, Serie C No. 158, párr. 128. Ídem Corte IDH, Caso Almonacid Arellano y otros
+          Vs. Chile, Sentencia de 26 de septiembre de 2006, Serie C No. 154, párr. 124.
+      4   Corte IDH, Caso Trabajadores Cesados del Congreso, cit., párr. 128; cfr. Caso Almonacid Arellano, cit.,
+          párr. 124. Véase LOIANO, Adelina, El marco conceptual del control de convencionalidad en algunos
+          fallos de la Corte Suprema Argentina, “Arancibia Clavel”, “Simón”, “Mazzeo”, en ALBANESE, Susana,
+          Coordinadora, El control de convencionalidad, Editorial Ediar, Buenos Aires, 2008, pp. 114 a 117.
+          Véase también SAGÜÉS, Néstor, El control de convencionalidad. En particular sobre las Constituciones
+          Nacionales, La Ley, 2009-B, p. 761.
+
+
+
+
+110                         Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 3]]
+                Control de constitucionalidad y control de convencionalidad. Comparación
+                   (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+mas, destacando por supuesto la prioridad de la regla supranacional; lo que en verdad
+ha sucedido es que desde ese momento se utiliza tal fraseología.
+
+   Dicho órgano interamericano ha dejado en claro siempre que, en principio, no se
+ocupa en sí de las cuestiones locales sino que su tarea es la de inspeccionar si los
+países han violado o no las convenciones sujetas a su competencia.5
+
+    Por ello ha establecido –sin entrometerse en las jurisdicciones locales– que una
+sentencia con carácter de cosa juzgada de los jueces domésticos “...tiene que ser
+necesariamente cumplida debido a que en ella se adopta una decisión de forma defi-
+nitiva, otorgando certeza sobre el derecho o controversia discutida en el caso concre-
+to, y tiene como uno de sus efectos la obligatoriedad. Ante este tribunal [agregó],
+eventualmente puede discutirse la autoridad de cosa juzgada de una decisión cuando
+ésta afecta derechos de individuos protegidos por la convención y se demuestra que
+existe una causal de cuestionamiento de la cosa juzgada”.6 En ese mismo sentido ha
+añadido –repetimos– que sólo circunstancias excepcionales pueden conducir a que el
+cuerpo supranacional “...deba ocuparse de examinar los respectivos procesos internos”.7
+
+    Esa doctrina que ‘indirectamente’ tolera la fiscalización de la actividad jurisdiccio-
+nal doméstica ha sido recibida por la Corte Suprema de la Nación Argentina con cierta
+cautela y con algunas idas y vueltas,8 aunque en los últimos tiempos fue acatada in
+totum, con algunas disidencias.9
+
+
+
+
+5   Como bien apuntan Albar y Cançado Trindade, no se trata en verdad de “revisar” las sentencias de los
+    tribunales domésticos, sino de una función más importante e imprescindible dentro de un mecanismo
+    que se jacta de ser protector de los derechos humanos, puesto que la Comisión y la Corte como únicos
+    órganos de supervisión, pueden y deben determinar la compatibilidad o no con el Pacto de San José de
+    cualquier acto u omisión en que incurran los Estados, a través de algunos de sus poderes, órganos o
+    agentes (GERMÁN, Albar y CANÇADO TRINDADE, Antonio, Reflexiones sobre el futuro del sistema interame-
+    ricano de derechos humanos, en El futuro del sistema interamericano de protección de los derechos
+    humanos, Cox Editores, 1998, Costa Rica, p. 584).
+6   Corte IDH, Caso Acevedo Jaramillo y otros vs. Perú, Sentencia de 7 de febrero de 2006, Serie C No.144,
+    párr.167, entre muchos otros.
+7   Corte IDH, Caso de la Masacre de Mapiripán vs. Colombia, Sentencia de 15 de septiembre de 2005,
+    Serie C No. 13, párr. 198; Corte IDH, Caso Palamara Iribarne vs. Chile, Sentencia de 22 de noviembre de
+    2005, Serie C No. 135, párr. 121, etc.
+8   HITTERS, Juan Carlos, Criterios establecidos por los órganos jurisdiccionales de los sistemas interamerica-
+    no y europeos, La Ley, Buenos Aires, 2003-D, p. 1373.
+9   Recientemente uno de los Ministros del más Alto Tribunal Nacional Argentino ha expresado que “La
+    salvaguarda de los derechos y libertades del menor y la protección especial a que éste es acreedor, con
+    arreglo a la Convención sobre los Derechos del Niño y a la ley 26.061, requiere que los tribunales atien-
+    dan al interés superior de aquél, llevando a cabo una supervisión adecuada, lo cual comprende el ejercicio
+    del control de convencionalidad entre las normas jurídicas internas aplicables in concreto y los tratados
+    internacionales enunciados en el art. 75, inciso 22, de la Constitución Nacional, siendo función elemental
+    y notoria de los jueces hacer cesar, con la urgencia del caso, todo eventual menoscabo que sufra el menor,
+    para lo cual dicha supervisión implica una permanente y puntual actividad de oficio” (CNS. GARCÍA MÉNDEZ,
+    Emilio y Musa, María Laura s/causa Nº 7537. Voto del Dr. Enrique Santiago Petracchi).
+
+
+
+
+                       Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                  111
+
+[[PDF p. 4]]
+                                                  Juan Carlos Hitters
+
+
+
+
+         Hemos querido adelantar a modo propedéutico que ese Tribunal internacional ha
+      sentado la postura en el sentido de que por regla, él no se ocupa de modificar en
+      forma directa el derecho interno, ya que su misión consiste en ‘controlar’ si las normas
+      locales acatan –o no– las convenciones internacionales; y por ende no se convierte en
+      una ‘cuarta instancia’ que deja sin efecto las leyes de los países.10
+
+          Surge de lo antedicho que la misión prístina de la Corte IDH está en llevar a cabo
+      una inspección de convencionalidad ‘comparando’ la norma del derecho interno11 en
+      relación a la convención y desentrañar si aquélla violenta a ésta. Conjugando las ideas
+      hasta ahora expuestas podemos decir –con algunas aclaraciones que luego haremos–
+      que del postulado liminar antedicho surge que la Corte regional no se ocupa –por
+      principio– de la legislación doméstica, sólo escruta si la misma transgrede la Conven-
+      ción Americana sobre Derechos Humanos (y otros tratados), y si advierte esa falencia,
+      así se lo hace saber al país infractor para que modifique los actos ejecutados por cual-
+      quiera de sus tres poderes. Ello a fin de evitar que el mismo incurra en responsabilidad
+      estatal (arts. 1.1 y 2 del Pacto aludido).12
+
+         Conviene alertar sobre la importancia de tal tarea que lleva a cabo la Corte a través de
+      este contralor heterónomo,13 que importa de alguna manera una especie de ‘casación
+      regional’ que sirve para unificar la interpretación jurídica de los países plegados al modelo,
+      que abarca en el ámbito interamericano más de trescientos millones de habitantes.14
+
+         Lo cierto es que este ‘control de convencionalidad’ no sólo se ejercita en el sistema
+      regional correspondiente al área de los derechos humanos, sino también que dicha
+
+
+
+      10 HITTERS, Juan Carlos, ¿Son vinculantes los pronunciamientos de la Comisión y de la Corte Interamericana
+         de Derechos Humanos?, La Ley 2008-E, p. 1169.
+      11 Para esclarecer si el Estado ha violado o no sus obligaciones internacionales, por las actuaciones de
+
+         órganos judiciales, puede conducir a que la Corte deba ocuparse de examinar los procesos internos.
+         (Corte IDH, Caso Palamara Iribarne Vs. Chile, Sentencia de 22 de noviembre de 2005, Serie C No. 135,
+         párr. 121). En el Caso Acevedo Jaramillo (Corte IDH, Caso Acevedo Jaramillo y otros Vs. Perú, Sentencia
+         de 7 de febrero de 2006, Serie C No. 144, par. 167) la Corte señaló que “…eventualmente puede
+         discutirse la autoridad de cosa juzgada de una decisión cuando ésta afecta derechos de individuos
+         protegidos por la Convención y se demuestra que existe una causal de cuestionamiento de la cosa
+         juzgada, lo cual no ha ocurrido en el presente caso …” (Cfr. Caso Gutiérrez Soler. Sentencia de 12 de
+         septiembre de 2005. Serie C No. 132, párr. 98; Caso Carpio Nicolle y otros. Sentencia de 22 de no-
+         viembre de 2004. Ser ie C No. 117, párr. 131; y Caso Genie Lacayo. Solicitud de Revisión de la Senten-
+         cia de 29 de enero de 1997. Resolución de la Corte de 13 de septiembre de 1997. Serie C No. 45,
+         párrs. 10 a 12).
+      12 HITTERS, Juan Carlos, Responsabilidad del Estado por violación de Tratados Internacionales, La Ley 2007-
+
+         C, p. 875.
+      13 Cuando decimos heterónomo, no estamos hablando de una inspección hecha por cuerpos extranjeros,
+
+         ya que tanto la Comisión IDH como la Corte IDH forman parte del Sistema Interamericano, por lo que
+         obviamente no pueden entenderse como extraños a nuestro sistema regional.
+      14 El último protocolo de la versión Consolidada del Tratado de la Unión Europea regula en su artículo 56
+
+         un ‘recurso de casación’ ante el Tribunal de Luxemburgo, contra las sentencias dictadas por el órgano
+         jurisdiccional de Primera Instancia de dicha Comunidad.
+
+
+
+
+112                        Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 5]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+inspección se cumple desde antiguo en el derecho comunitario,15 sea por los jueces
+nacionales como por el propio Tribunal de Luxemburgo.16
+
+   En efecto, desde la famosa sentencia “Costa vs. ENEL” dictada por este cuerpo
+judicial internacional, en el año 1964,17 el mismo sostuvo que las leyes comunitarias,
+tanto primarias como secundarias, han sido consistentemente proclamadas por ese
+organismo como preeminentes tanto frente a las leyes internas anteriores, como a las
+posteriores (incluyendo las leyes constitucionales nacionales).18
+
+   Estos criterios han quedado firmes en la versión consolidada del Tratado de la
+Unión Europea y en sus Protocolos.
+
+
+     2. Desarrollo de la institución. Progresividad
+
+   Como vimos, la terminología utilizada, esto es “control de convencionalidad”, fue
+manejada por primera vez, en el mencionado caso Myrna Mack Chang, en el año
+2003, a través del voto razonado del Juez Sergio García Ramírez.19
+
+    El 7 de diciembre de 2004 en el caso Tibi,20 dicho magistrado volvió a poner la Pica
+en Flandes sobre esta problemática, sosteniendo, con buen tino, que la tarea de los
+jueces trasnacionales se asemeja a la de los Tribunales Constitucionales, ya que estos
+últimos inspeccionan los actos impugnados –disposiciones de alcance general– a la
+luz de las reglas, los principios y valores de las leyes fundamentales, “La Corte Intera-
+mericana, por su parte, analiza los actos que llegan a su conocimiento en relación con
+normas, principios y valores de los tratados en los que funda su competencia conten-
+ciosa. Dicho de otra manera, si los tribunales constitucionales controlan la ‘constitucio-
+nalidad’, el tribunal internacional de derechos humanos resuelve acerca de la ‘con-
+vencionalidad’ de esos actos. A través del control de constitucionalidad, los órganos
+
+
+15 HITTERS, Juan Carlos, Legitimación democrática del Poder Judicial y Control de Constitucionalidad, en
+   Justicia: Revista de Derecho Procesal, ISSN 0211-7754, Nº2, 1987, pp. 421-434. Ídem mismo autor,
+   Solución de controversias en el ámbito del Mercosur - Hacia un derecho comunitario, La Ley, 1997-C,
+   p. 1406, véase punto “C” y nota 17. Conf. mismo autor, Derecho Internacional de los Derechos Huma-
+   nos, Editorial Ediar, Buenos Aires, 1991, Tomo 1, pp. 29 y ss.; ídem HITTERS, Juan Carlos y FAPPIANO,
+   Oscar, Derecho Internacional de los Derechos Humanos, 2º edición, Editorial Ediar, Buenos Aires, 2007,
+   Tomo 1, Volumen 1, pp. 79 y ss.
+16 CAPPELLETTI, Mauro, El «formidable problema» del control judicial y la contribución del análisis compara-
+
+   do, en Revista de Estudios Políticos, ISSN 0048-7694, Nº 13, 1980, Traducción de Faustino González,
+   pp. 61-104.
+17 Tribunal de Justicia de las Comunidades Europeas, Caso 6/64, “Costa vs. ENEL”, en E.C.R., 1964, p. 585.
+18 El principio de autonomía quedó perfectamente dibujado hace ya tiempo en el caso “Van Gen en Loos”,
+
+   donde ese tribunal expresó que el Derecho comunitario es un nuevo orden jurídico, en cuyo beneficio los
+   Estados signatarios han limitado ciertas esferas de su soberanía. A su vez en el leadin case “Costa vs.
+   ENEL”, dejó sentada la doctrina de la supremacía de las disposiciones normativas de la Comunidad.
+19 Corte IDH, Caso Myrna Mack Chang, cit.
+20 Corte IDH, Caso Tibi Vs. Ecuador, Sentencia de 7 de septiembre de 2004, Serie C No. 114.
+
+
+
+
+                      Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                113
+
+[[PDF p. 6]]
+                                                Juan Carlos Hitters
+
+
+
+
+      internos procuran conformar la actividad del poder público –y, eventualmente, de
+      otros agentes sociales– al orden que entraña el Estado de Derecho en una sociedad
+      democrática. El tribunal interamericano, por su parte, pretende conformar esa activi-
+      dad al orden internacional acogido en la convención fundadora de la jurisdicción inte-
+      ramericana y aceptado por los Estados partes en ejercicio de su soberanía”.21
+
+          Aclara allí el citado jurista mexicano que del mismo modo que un Tribunal Consti-
+      tucional no puede, ni lo debe pretender, traer ante sí todos los casos en que se cues-
+      tione la supralegalidad de actos y normas; “un tribunal internacional de derechos
+      humanos no aspira –mucho menos todavía que el órgano nacional– a resolver un gran
+      número de litigios en los que se reproduzcan violaciones previamente sometidas a su
+      jurisdicción y acerca de cuyos temas esenciales ya ha dictado sentencias que expresan
+      su criterio como intérprete natural de las normas que está llamado a aplicar, esto es,
+      las disposiciones del tratado internacional que invocan los litigantes. Este designio,
+      que pone de manifiesto una función de la Corte, sugiere también las características
+      que pueden tener los asuntos llevados a su conocimiento”.22
+
+          Lo expresado significa –en definitiva– que en el ámbito regional, el país debe tener
+      en cuenta “la jurisprudencia” de ese órgano supranacional y poner en marcha tales
+      criterios en el campo doméstico.
+
+          En el caso Raxcacó Reyes23 la Corte IDH, llevando a cabo el “control de convencio-
+      nalidad”,24 entre el Pacto de San José y el Código Penal guatemalteco, consideró que
+      este último infringía los postulados de aquél, por lo que dispuso que el país debería
+      modificar esta norma punitiva, que permite la pena de muerte en determinadas cir-
+      cunstancias, y que mientras que no se cumpla con tal mandato jurisdiccional “El Esta-
+      do deberá abstenerse de dictar la pena de muerte y ejecutar a los condenados por el
+      delito de plagio y secuestro…”.25
+
+          En el año 2006 en el asunto López Álvarez26 el juez García Ramírez, volvió sobre
+      esta temática cuando le tocó analizar el ‘plazo razonable’ (arts. 7.5 y 8.1 del Pacto),
+      sosteniendo que “…el ‘control de convencionalidad’ debe explorar las circunstancias
+      de jure y de facto del caso. Es posible que el análisis jurídico sea relativamente senci-
+      llo, una vez establecidos los hechos acerca de los cuales se ha producido el litigio,
+      pero éstos pueden ser extraordinariamente complejos y hallarse sujetos a pruebas
+
+
+      21 Corte IDH, Caso Tibi, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 3.
+      22 Corte IDH, Caso Tibi, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 4.
+      23 Corte IDH, Caso Raxcacó Reyes Vs. Guatemala, Sentencia de 15 de septiembre de 2005, Serie C No. 133.
+      24 En este caso no se utilizó expresamente la frase ‘control de convencionalidad’.
+      25 Corte IDH, Caso Raxcacó Reyes, cit., párr. 145, subpuntos 5, 6, 7 y 8. Se le había impuesto al señor
+
+         Roland Raxcacó Reyes la pena de muerte por la comisión del delito de plagio y secuestro, pese a que
+         dicha sanción no se encontraba prevista en la ley al momento que Guatemala ratificó la Convención
+         Americana, sólo se admitía cuando como consecuencia de tales hechos, falleciera la persona secuestra-
+         da, que no era el caso juzgado.
+      26 Corte IDH, Caso López Álvarez Vs. Honduras, Sentencia de 1 de febrero de 2006, Serie C No. 141.
+
+
+
+
+114                        Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 7]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+difíciles, necesariamente prolongadas o de complicada, costosa, azarosa o tardía re-
+caudación. También puede suceder lo contrario: relativa claridad y sencillez de los
+hechos, en contraste con problemas severos en la apreciación jurídica o en la califica-
+ción de aquéllos: pareceres encontrados, jurisprudencia cambiante, legislación incier-
+ta, razones atendibles en sentidos diferentes o discrepantes”.27
+
+    En el caso Almonacid Arellano28 –ahora– la Corte ‘en pleno’ se ocupó de tal proble-
+mática –refiriéndose a delitos de lesa humanidad–, sosteniendo que es consciente que
+los jueces y tribunales internos están sujetos al imperio de la ley, y obligados por ende a
+aplicar las normas vigentes en el ordenamiento jurídico. Pero cuando el Estado ha ratifi-
+cado un Tratado, como el Pacto de San José, ‘sus jueces’ “como parte del aparato Estatal,
+también están sometidos a ella”,29 lo que les obliga a velar para que los efectos de la
+Convención no se vean mermados por la aplicación de normas jurídicas contrarias a su
+objeto y fin. En otras palabras “el Poder Judicial debe ejercer una especie30 de ‘control
+de convencionalidad’ entre las normas jurídicas internas, que aplican a los casos concre-
+tos y la Convención Americana sobre Derechos Humanos. En esta tarea el Poder Judicial
+debe tener en cuenta no solamente el Tratado sino también la interpretación que del
+mismo ha hecho la Corte IDH, intérprete última de la Convención”31 (énfasis añadido).
+
+   Repárese que en el asunto referido el Tribunal Interamericano –en pleno– utilizó
+por primera vez la frase ‘control de convencionalidad’.
+
+   En el caso Vargas Areco32 fallado en septiembre de 2006, nuevamente el Juez
+Sergio García Ramírez en su Voto Razonado trabajó sobre esta álgida cuestión hablan-
+do de ‘control de convencionalidad’.33
+
+    Tales expresiones del Magistrado aludido apuntan a noticiar que la Corte IDH debe
+confrontar las circunstancias internas, tales como actos administrativos, leyes, resolu-
+ciones judiciales, etc.; con las normas de la Convención y resolver si existe congruen-
+cia –examen de compatibilidad– entre aquéllos y éstas.34
+
+    Desde esa vertiente, no debemos olvidar que la lógica del modelo tutelar del Pacto
+de Costa Rica, reside en la necesidad de apreciar la racionalidad, oportunidad, necesi-
+dad, pertinencia y proporcionalidad de determinados hechos desde la perspectiva de
+los derechos humanos “… esto es evidente y de ello se ha ocupado la jurisprudencia
+de la Corte Interamericana, cuando se trata de considerar los límites y restricciones
+
+
+
+27 Corte IDH, Caso López Álvarez, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 30
+28 Corte IDH, Caso Almonacid Arellano, cit.
+29 Corte IDH, Caso Almonacid Arellano, cit., párr. 124.
+30 SAGÜÉS, Néstor, El control de convencionalidad, ob. cit.
+31 Corte IDH, Caso Almonacid Arellano, cit., párr. 124.
+32 Corte IDH, Caso Vargas Areco Vs. Paraguay, Sentencia de 26 de septiembre de 2006, Serie C No. 155.
+33 Corte IDH, Caso Vargas Areco, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 6.
+34 Corte IDH, Caso Vargas Areco, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 7.
+
+
+
+
+                     Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                               115
+
+[[PDF p. 8]]
+                                                    Juan Carlos Hitters
+
+
+
+
+      para el ejercicio de los derechos o la suspensión de las obligaciones del Estado en esta
+      materia. Cabe decir otro tanto del régimen de garantía establecido por la Convención
+      –e inherente a las obligaciones naturales de un Estado en este ámbito–, al que también
+      se pueden y deben aplicar aquellos patrones de apreciación para estimar su existencia
+      y eficacia, y en este sentido, su correspondencia con la propia Convención”.35
+
+         El 24 de noviembre de 2006, el Tribunal de marras en el caso de los Trabajadores
+      Cesados,36 todos los jueces abordaron esta cuestión de control de convencionalidad.37
+      Posteriormente el Juez Cançado Trindade añadió conceptos en el mismo asunto aunque
+      ahora en el año 2007, cuando se ocupó de la solicitud de interpretación de la sentencia.38
+
+         Conviene reiterar que en el citado caso del año 2006 la Corte no habló ya de ‘una
+      especie’ de control, sino que directamente lo calificó como ‘control de convencionali-
+      dad’, lo que hace presumir que dicha terminología quedó a partir de ese momento
+      anclada en los andariveles de ese cuerpo.
+
+          En el segundo de los expedientes citados (Solicitud de Interpretación),39 el Juez Cança-
+      do Trinidade40 en su Voto Disidente, hizo un excelente análisis de la institución que
+      venimos abordando, hablando –con cita de Cappelletti41– de la dimensión constitucio-
+      nal y de la dimensión supranacional del derecho (tema del que nos hemos ocupado en
+      varios trabajos anteriores).42 Puso énfasis en sostener –y esto parécenos de mucha im-
+      portancia– que la necesidad de agotamiento de los recursos efectivos del derecho inter-
+      no43 (artículo 46.1.a de la CADH) integra la propia protección internacional de los dere-
+      chos humanos (aquí vuelve a su voto del 2006 en el Caso de Trabajadores Cesados).44
+
+
+
+      35 Corte IDH, Caso Vargas Areco, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 8.
+      36 Corte IDH, Caso Trabajadores Cesados del Congreso, cit.
+      37 Corte IDH, Caso Trabajadores Cesados del Congreso, cit., párr. 128.
+      38 Corte IDH, Caso Trabajadores Cesados del Congreso (Aguado Alfaro y otros). Vs. Perú, Solicitud de
+
+         Interpretación de la Sentencia, Sentencia de 30 de noviembre de 2007, Serie C No. 174, Voto Disidente
+         del mencionado Juez.
+      39 Corte IDH, Caso Trabajadores Cesados del Congreso, Solicitud de Interpretación de la Sentencia, cit.
+      40 Corte IDH, Caso Trabajadores Cesados del Congreso, Solicitud de Interpretación de la Sentencia, cit.,
+
+         voto concurrente razonado del Juez Cançado Trindade.
+      41 CAPPELLETTI, Mauro, La Justicia Constitucional (Estudios de Derecho Comparado), México, UNAM, 1987,
+
+         p. 239. Ídem mismo autor, El «formidable problema» del control judicial y la contribución del análisis
+         comparado, ob. cit.
+      42 Véase, HITTERS, Juan Carlos, Derecho Internacional de los Derechos Humanos, 1991, ob. cit., Tomo 1,
+
+         p. 29, párr. 9, punto III, nota 33; ídem Hitters, Juan Carlos y Fappiano, Óscar, Derecho Internacional de los
+         Derechos Humanos, 2º edición, 2007, ob. cit., Tomo 1, Volumen 1, p. 79, párr. 9, punto III, nota 102
+         [HITTERS, Juan Carlos, El Derecho Procesal Constitucional, en Revista El Derecho, T. 121, p. 881; ídem en
+         Estudios de Derecho Constitucional Panameño, Compilador Jorge Fabrega, Panamá, 1987, p. 865]. Ídem
+         CAPPELLETTI, Mauro, Acceso a la Justicia, Revista del Colegio de Abogados de La Plata, Año XXIII, Nº 41.
+         Ídem Giustizia Costituzionale Soprannazionale, en Rivista Di Diritto Processual, anno XXXIII, T. II, 1978.
+      43 HITTERS, Juan Carlos, Derecho Internacional de los Derechos Humanos, 1991, ob. cit., Tomo II, pp. 348 y ss.
+      44 Corte IDH, Caso Trabajadores Cesados del Congreso, Solicitud de Interpretación de la Sentencia, cit.,
+
+         voto concurrente razonado del Juez Cançado Trindade, párr. 11.
+
+
+
+
+116                         Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 9]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+   Sostiene allí el Juez de marras que el art. 2 del Pacto al imponer esa obligación de
+‘armonización’ entre el derecho nacional y el internacional se abre el camino para una
+‘constitucionalización’ de una convención supranacional.45
+
+    El 20 de septiembre de 2007, en el caso Boyce,46 la Corte se ocupó nuevamente de
+esta temática,47 observando que en la jurisdicción interna se había hecho un análisis
+puramente constitucional de la cuestión litigiosa en la cual no se tuvieron en cuenta
+las obligaciones que tiene el Estado conforme al Pacto de San José. Se dijo allí que de
+acuerdo con la Convención de Viena sobre los Tratados (art. 26), el Estado debió cum-
+plir de buena fe con sus obligaciones convencionales, “…y no podrá invocar disposi-
+ciones de su derecho interno como justificación para el incumplimiento de dichas
+obligaciones convencionales…”.48
+
+    Ejemplificando, y con un tono docente se señaló allí que la jurisdicción interna no
+se debió limitar a evaluar si la norma local era constitucional o no, ya que la Corte de
+Justicia del Caribe (último órgano doméstico), debió también decidir si la ley de Barba-
+dos, esgrimida en las sentencias locales, violó o no la Convención 49 (énfasis añadido).
+
+   En el Caso Heliodoro Portugal,50 en un asunto referido a la desaparición forzada de
+personas, el Tribunal de cita adunó que a través de lo que se denomina ‘control de
+
+45 En el caso Penal Castro Castro (Corte IDH, Caso del Penal Miguel Castro Castro Vs. Perú, Sentencia de 25
+   de noviembre de 2006, Serie C No. 160), en su voto razonado, el Juez García Ramírez volvió a hacer
+   referencia al tema que nos ocupa, sosteniendo que a través del ‘control de convencionalidad’ la Corte IDH
+   explora “…en el universo normativo al que debe disciplinar su desempeño las disposiciones que le
+   confieren o le niegan atribuciones para conocer de ciertas contiendas. Esta es la primera cuestión que
+   analiza y resuelve el órgano jurisdiccional que recibe una demanda de justicia. El punto no reviste mayor
+   complicación cuando existe una norma clara, enfática, que de manera directa y explícita confiere esas
+   atribuciones. Obviamente, tampoco la hay cuando la norma niega semejante posibilidad o la concede a
+   un órgano diferente de aquel que está analizando y resolviendo sobre su propia competencia…” (Corte
+   IDH, Caso del Penal Miguel Castro Castro, cit., voto concurrente razonado del Juez Sergio García Ramírez,
+   párr. 16), agregando que “…Existe una tercera situación, que se plantea cuando las disposiciones del
+   ordenamiento sobre derechos humanos contienen algún régimen sobre el control de la materia por parte
+   de los órganos internacionales de protección, pero la fórmula que utilizan no es por sí misma, prima facie,
+   suficientemente explícita o unívoca, o difiere de la utilizada en otros casos. En esta hipótesis, el tribunal
+   debe interpretar la disposición y hallar su significado. No digo, por supuesto, que debe ‘integrar’ el
+   ordenamiento y crear, a partir de su voluntad o de su imaginación, una competencia que no se encuentra
+   recogida, en lo absoluto, en la norma sobre control de convencionalidad de los actos del Estado. Su
+   poder no llega tan lejos: sólo debe desentrañar el sentido de la disposición oscura o elusiva y establecer,
+   a través de ese proceso lógico-jurídico, su sentido y alcance. Es esto lo que ha hecho la Corte Interamericana
+   a propósito de la Convención de Belém do Pará, y su aplicabilidad al presente caso…” (Corte IDH, Caso del
+   Penal Miguel Castro Castro, cit., voto concurrente razonado del Juez Sergio García Ramírez, párr. 17).
+46 Corte IDH, Caso Boyce y otros Vs. Barbados, Sentencia de 20 de noviembre de 2007, Serie C No. 169.
+47 Se trataba de una sentencia que dispuso la pena de muerte de dos personas y una norma del derecho
+
+   interno de Barbados no permitia a los Tribunales que declaren la inconstitucionalidad dicha máxima
+   sentencia.
+48 Corte IDH, Caso Boyce, cit., párr. 77. Véase SAGÜÉS, Nestor, ob. cit.
+49 Corte IDH, Caso Boyce, cit., párr. 78.
+50 Corte IDH. Caso Heliodoro Portugal Vs. Panamá. Excepciones Preliminares, Fondo, Reparaciones y
+
+   Costas. Sentencia de 12 de agosto de 2008. Serie C No. 186, párrs. 180-181.
+
+
+
+
+                       Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                    117
+
+[[PDF p. 10]]
+                                                Juan Carlos Hitters
+
+
+
+
+      convencionalidad’, cada juzgador debe velar por el efecto útil de los instrumentos
+      internacionales, por ende, el derecho doméstico –tal cual ya lo dijimos– debe adecuar
+      sus normas al Pacto de San José.
+
+          La Corte ha interpretado que la ‘adecuación’ de los preceptos locales “… implica la
+      adopción de medidas en dos vertientes, a saber: i) la supresión de las normas y prác-
+      ticas de cualquier naturaleza que entrañen violación a las garantías previstas en la
+      Convención o que desconozcan los derechos allí reconocidos u obstaculicen su ejerci-
+      cio; y ii) la expedición de normas y el desarrollo de prácticas conducentes a la efectiva
+      observancia de dichas garantías”,51 criterio que ya había sido fijado con anterioridad.
+
+           3. Control de convencionalidad en abstracto
+
+         Conviene poner de resalto que en los primeros tiempos tal Tribunal Interamericano
+      sostenía que era improcedente la revisión supranacional si el precepto atacado no había
+      sido aplicado. Empero últimamente el órgano aludido cambió de tornas destacando su
+      potestad de controlar la convencionalidad de las normas locales, aún en abstracto.52
+
+          En efecto, el 27 de enero de 1995 en el caso Genie Lacayo53 había expresado que
+      “...La competencia contenciosa de la Corte no tiene por objeto la revisión de las legis-
+      laciones nacionales en abstracto sino que es ejercida para resolver casos concretos en
+      que se alegue que un acto del Estado, ejecutado contra personas determinadas, es
+      contrario a la Convención...”; concluyendo que no tiene aptitud para activar ex officio
+      ‘en abstracto’ el contralor de convencionalidad, criterio que mantuvo a rajatabla en el
+      mismo asunto el 29 de enero de 1997 en la sentencia sobre el fondo.54
+
+          Tal pauta fue criticada en estas últimas actuaciones por el entonces Juez Cançado
+      Trindade en su Voto Disidente, quien abriendo una brecha en la sólida jurisprudencia
+      precedente, dejó en claro que la infracción convencional se produce por el solo hecho
+      de que la norma doméstica esté vigente (aunque no haya sido aplicada); añadiendo
+      luego en el caso “El Amparo” que para que exista maltrato a la CADH “...no me
+      parece necesario esperar la ocurrencia de un daño....”.55
+
+
+
+
+      51 Corte IDH. Caso Heliodoro Portugal, cit., párr. 180.
+      52 Sobre el particular puede verse el importante libro del profesor colombiano Ernesto Rey Cantor, a
+         donde nos remitimos brevitatis causa, dado que lleva ahí análisis pormenorizado de la temática (Con-
+         trol de Convencionalidad de las Leyes y Derechos Humanos, Editorial Porrúa, México, 2008, pp. 68,
+         69, 70, 71 y ss.).
+      53 Corte IDH, Caso Genie Lacayo Vs. Nicaragua, Excepciones Preliminares, Serie C No. 21, párr. 50.
+      54 Corte IDH, Caso Genie Lacayo Vs. Nicaragua, Fondo, Serie C No. 30, párr. 91.
+      55 Corte IDH, Caso El Amparo Vs. Venezuela, Sentencia de 14 de septiembre de 1996, Serie C No. 28,
+
+         Voto Disidente del Juez Cançado Trindade, párr. 3. Agregó dicho magistrado que “...un individuo pue-
+         de, bajo determinadas condiciones, reivindicar ser víctima de una violación de derechos humanos
+         perpetrada por la simple existencia de medidas permitidas por la legislación, sin que hayan sido a él
+         aplicadas...” (párr. 5).
+
+
+
+
+118                        Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 11]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+   En una segunda etapa –como puntualiza Rey Cantor56– se muestra un cierto cam-
+bio en la jurisprudencia aludida, al sostener la Corte IDH en el caso Suárez Rosero57 y
+posteriormente en Castillo Petruzzi58 entre otros, que puede haber infracción al Pacto
+de San José aún cuando el dispositivo normativo doméstico no haya sido aplicado en
+un asunto concreto.
+
+   En una apretada síntesis podemos decir que en las últimas épocas ese Tribunal
+efectuó como siempre el control de convencionalidad de los preceptos del derecho
+doméstico aplicados al caso concreto; y también de aquellas reglas que habiendo sido
+sancionadas –y vigentes– no hubieran sido utilizadas en una causa determinada.59
+
+
+II. PARTICULARIDADES
+
+A. ¿Quiénes ejercen este control?
+
+    Quedó remarcada, en el caso Almonacid Arellano60 –entre otros–, la pauta a la que
+antes hemos hecho referencia, en el sentido de que no sólo el Tribunal Interamericano
+debe llevar a cabo el contralor de marras, sino también que previamente los jueces
+locales pueden y deben ejercitar esta tarea, obviamente antes que el pleito llegue a la
+instancia internacional. Ello así porque –reiteramos– la intervención de los cuerpos su-
+pranacionales es subsidiaria y las actuaciones –por regla– deben ser analizadas en la
+instancia doméstica sin perjuicio del eventual “salto” a los andariveles interamericanos.
+De ahí que el Pacto impone la necesidad de “agotar los derechos internos” (art. 46.1.a).
+
+    Como expresamos, se trata de aplicar primero el ‘control de constitucionalidad’ a
+través del juez local, quien debe también llevar a cabo la inspección de ‘convenciona-
+lidad’, sucede algo similar a lo que acaece en el orden interno con la cuestión federal,
+ya que según la clásica jurisprudencia de Corte Suprema de Justicia de la Nación, la
+norma debe ser analizada primero por los cuerpos judiciales provinciales y luego, si
+subsiste el agravio, por el más alto cuerpo de justicia del país.
+
+
+
+
+56 REY CANTOR, Ernesto. Control de Convencionalidad de las Leyes y Derechos Humanos, ob. cit., pp. 81 a 93.
+57 Corte IDH, Caso Suárez Rosero Vs. Ecuador, Sentencia de 12 de noviembre de 1997, Serie C No. 35,
+   párr. 98; apuntalando ese criterio véase también el Voto Razonado del Juez Cançado Trindade en el caso
+   “La Última Tentación de Cristo” (Corte IDH, Caso “La Última Tentación de Cristo” [Olmedo Bustos y
+   otros] Vs. Chile, Sentencia de 5 de febrero de 2001, Serie C No. 73, párr. 13.
+58 Corte IDH, Caso Castillo Petruzzi y otros Vs. Perú, Sentencia de 30 de mayo de 1999, Serie C No. 52.
+59 En definitiva esta inspección de compatibilidad puede ejercitarse preventivamente, como en el caso de
+
+   algunos Tribunales Constitucionales Europeos (de jurisdicción concentrada). En la Provincia de Buenos Aires
+   el Código Procesal Civil y Comercial regula esta posibilidad en los arts. 686 a 688 (conforme art. 161.1 de la
+   Constitución Provincial bonaerense) que tramita directamente ante la Suprema Corte de dicho Estado.
+60 Corte IDH, Caso Almonacid Arellano, cit.
+
+
+
+
+                       Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                    119
+
+[[PDF p. 12]]
+                                                  Juan Carlos Hitters
+
+
+
+
+      B. ¿Sobre qué normas supranacionales se
+      debe ejercitar el control de convencionalidad?
+
+          Tal cual ya lo hemos expresado repetidamente, tanto los judicantes domésticos
+      como los de la Corte IDH, deben buscar la ‘compatibilidad’ entre las normas locales y
+      las supranacionales. En este aspecto cabe repetir, que cuando hablamos de estas últi-
+      mas no nos referimos sólo al Pacto de San José, sino a otros Tratados Internacionales
+      ratificados por la Argentina, al ius cogens y a la jurisprudencia de la Corte IDH.
+
+          Al aludir a las normas internacionales se pueden citar: el Protocolo de San Salvador;
+      el Protocolo Relativo a la Abolición de la Pena de Muerte; la Convención para Prevenir y
+      Sancionar la Tortura; la Convención de Belém do Pará para la Erradicación de la Violencia
+      contra la Mujer, la Convención sobre Desaparición Forzada, etcétera; que integran el
+      copus iuris convencional de los derechos humanos,61 tal cual quedó dicho.
+
+      C. ¿Sobre qué normas nacionales
+      se debe ejercer la ‘comparación’?
+
+          Tal cual hemos visto, una consecuencia de la violación de las disposiciones supra-
+      nacionales es la necesidad de ‘adecuar’ o, lo que es lo mismo, ‘amoldar’ o ‘adaptar’,
+      las reglas del derecho interno a los Tratados. Esto implica que si los preceptos domés-
+      ticos –sean legislativos o de cualquier otro carácter–, y las prácticas estaduales de
+      cualquiera de los tres poderes, no protegen debidamente las libertades fundamenta-
+      les enunciadas por el derecho internacional, la nación debe adecuarlas, y, en su caso,
+      suprimir aquellas que desbordan el esquema, o crear las que corresponda. Estamos
+      hablando del deber general del Estado de ‘adecuación’ de las reglas domésticas (arts.
+      1.2 y 2 de la Convención).62
+
+          Vale la pena reiterar, entonces, que el control de convencionalidad tiene que ha-
+      cerse a través de una ‘comparación’ –que deben cumplir los judicantes del país– entre
+      las reglas internas de esencia legislativa, administrativa o de cualquier otro carácter,63
+      por un lado; y los Tratados aludidos, la jurisprudencia de la Corte IDH y el ius cogens,
+      por el otro.
+
+         En puridad de verdad, la Corte no ha hecho una descripción de qué tipo de precep-
+      tos locales deben ser controlados, por lo que consideramos que cualquier regla de
+      alcance general y abstracto mal aplicada (ley, decreto, ordenanza, actos administrati-
+
+
+      61 Corte IDH, Caso Trabajadores Cesados del Congreso, noviembre de 2006, cit., Voto Concurrente razo-
+         nado del Juez Sergio García Ramírez, párr. 2
+      62 Caso «Instituto de Reeducación del Menor», Sentencia de 2 de septiembre de 2004, Serie C N° 112,
+
+         nota 135, HITTERS, Juan Carlos, Responsabilidad del Estado por violación de Tratados Internacionales, La
+         Ley 2007-C, p. 875, nota 23.
+      63 HITTERS, Juan Carlos, Técnica de los Recursos Extraordinarios, Librería Editora Platense, Buenos Aires, 2ª
+
+         edición, p. 259.
+
+
+
+
+120                         Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 13]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+vos, constituciones provinciales y nacional), tiene que estar incluida en el concepto
+aludido.64
+
+    Como bien se ha expresado, en los países donde la doctrina jurisprudencial fijada
+por el Tribunal Constitucional o por la Corte Suprema es obligatoria para los tribunales
+inferiores, ella reviste el carácter de ‘norma’ o ‘ley’ y por ende puede y debe ser
+incluida en el contralor al que nos venimos refiriendo.65
+
+D. Control de oficio.
+
+    En nuestro país y en algunos otros –depende de la normativa vigente– se discute si
+el control de constitucionalidad debe ser llevado a cabo a pedido de parte o de oficio.66
+
+   Sin perjuicio de lo que en definitiva resuelven los tribunales locales, reiteramos que
+según la interpretación de la Corte IDH “…los órganos del Poder Judicial deben ejercer
+no sólo un control de constitucionalidad, sino también ‘de convencionalidad’67 ex offi-
+cio entre las normas locales y la Convención Americana, evidentemente en el marco de
+sus respectivas competencias y de las regulaciones procesales correspondientes.68 Esta
+
+64 En el Caso Yatama Vs. Nicaragua, Sentencia de 23 de junio de 2005, Serie C No. 127, párr. 7, se trataba de
+   “leyes electorales” que impedían a los indígenas participar como candidatos electivos. Véase también el
+   caso Comunidad Indígena Sawhoyamaxa, en el que la Corte señaló el deber de “…adoptar en su derecho
+   interno las medidas legislativas, administrativas y de cualquier otro carácter que sean necesarias para
+   crear un mecanismo judicial que haga efectivo el derecho de los pueblos indígenas de Paraguay al dere-
+   cho de propiedad de su hábitat tradicional o tierras ancestrales…” (Corte IDH, Comunidad Indígena Sawho-
+   yamaxa Vs. Paraguay, Sentencia de 29 de marzo de 2006, Serie C No. 146, párr. 201, punto i).
+65 Señala Sagüés que “…cualquier regla jurídica doméstica (ley, decreto, reglamento, ordenanza, resolu-
+
+   ción, etc.) está sometida al control de convencionalidad. En Estados donde la doctrina jurisprudencial
+   establecida por la Corte Suprema o el Tribunal Constitucional es obligatoria para los tribunales inferiores,
+   ella también reviste materialmente condición de norma, y por ende, está captada por dicho control.
+   Incluso, la constitución nacional no exceptuada en los veredictos aludidos. En este tramo tan importan-
+   te de la doctrina que referimos, se parte tácitamente del supuesto de que el Pacto de San José se
+   encuentra por encima de todo el ordenamiento jurídico del Estado, sin omitir a la propia Constitución.
+   El Pacto asume así condición de supraconstitucionalidad. Por ello, como en el caso de ‘La Última
+   Tentación de Cristo’, cit., por ejemplo, la Corte Interamericana de Derechos Humanos reclamó a Chile
+   modificar una cláusula de la Constitución local opuesta al Pacto, como efectivamente se hizo des-
+   pués…” (SAGÜÉS, Néstor, El control de convencionalidad, ob. cit., punto 5).
+66 En el caso de la Provincia de Buenos Aires, la Suprema Corte de Justicia, con ciertas variantes, se ha
+
+   pronunciado por la procedencia del control oficioso de constitucionalidad (v. causas L. 69.523, “Baro-
+   ne”, sent. del 01-04-2003, L. 76.279, “Castillo”, sent. del 1-10-2003; L. 80.156, “Martínez”, sent. del
+   31-3-2004; L. 72.336, “Iommi”, sent. del 14-4-2004; L. 78.008, “Pereyra”, sent. del 14-04-2004)
+   (Ídem causas L. 83.781 “Zaniratto”, sent. del 22-XII-2004; L. 74.311 “Benitez”, sent. del 29-XII-2004;
+   L. 84.131 “Barreto”, sent. del 8-VI-2005; L. 81.577 “Guzman”, sent. del 8-VI-2005; L. 84.880 “Casti-
+   llo”, sent. del 27-VI-2007; Ac. 88.847 “Peters”, sent. del 12-IX-2007, entre otras).
+67 Caso Almonacid Arellano y otros, cit., supra nota 3, párr. 124. Véase Gialdino, Rolando, Control de
+
+   constitucionalidad y de convencionalidad de oficio. Aportes del Derecho Internacional de los derechos
+   humanos, en La Ley, 2008-C, p. 1295. Ídem Derecho Constitucional - Doctrinas Esenciales, Tomo I, p. 369.
+68 Véase, Albar, Germán y Cançado Trinidades, Antonio, Reflexiones sobre el futuro del sistema interame-
+
+   ricano de derechos humanos, en El futuro del sistema interamericano de protección de los derechos
+   humano, ob. cit., p. 584.
+
+
+
+
+                      Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                   121
+
+[[PDF p. 14]]
+                                                 Juan Carlos Hitters
+
+
+
+
+      función no debe quedar limitada exclusivamente por las manifestaciones o actos de los
+      accionantes en cada caso concreto, aunque tampoco implica que esa revisión deba
+      ejercerse siempre, sin considerar otros presupuestos formales y materiales de admisibi-
+      lidad y procedencia de ese tipo de acciones”.69
+
+          Vista ahora la problemática no ya desde del derecho doméstico, sino del supranacio-
+      nal, lo cierto es que cuando las actuaciones llegan a la Corte regional, ella realiza –sin
+      duda– esta verificación, aun de oficio, considerando que es la última intérprete de la
+      normativa interamericana y que por una cuestión meramente procesal no puede per-
+      mitir que el Estado infrinja, en este caso la Convención.
+
+          En ese orden de ideas téngase en cuenta que estamos hablando de un control
+      normativo, no obstante, y como módulo para interpretar lo que venimos analizando,
+      debe tenerse presente que el férreo principio de congruencia utilizado en el campo
+      interno –por lo menos en los pleitos de marcadas esencia dispositiva–, ha sido mori-
+      gerado por el tribunal aludido que aplicando el principio de iuria curia novit en verdad
+      dilata en forma indirecta aquel postulado.70 Ha dicho en este sentido ese cuerpo judi-
+      cial que “…en el procedimiento ante un tribunal internacional una parte puede modi-
+      ficar su petición siempre que la contraparte tenga la oportunidad procesal de emitir su
+      opinión al respecto…”.71
+
+      E. ¿Qué consecuencias derivan del control de
+      convencionalidad hecho por la Corte IDH?
+
+          Cuando dicho cuerpo jurisdiccional –luego de hacer el control de marras–, dispone
+      que en el caso concreto se violó la convención,72 tal pronunciamiento es vinculante73
+      (arts. 62.3 y 68.1 del Pacto), y el Estado –tal cual vimos–, tiene la obligación de adap-
+      tar y en su caso modificar el derecho interno, incluyendo la propia Constitución como
+      ocurrió en el caso de La Ultima Tentación de Cristo,74 bajo apercibimiento de incurrir
+      en Responsabilidad Estatal.
+
+      69 Corte IDH, Caso Trabajadores Cesados del Congreso (Aguado Alfaro y otros) Vs. Perú, Sentencia de 24
+         de noviembre de 2006, párr. 128.
+      70 HITTERS, Juan Carlos. 2006. Los Tribunales Supranacionales, La Ley, Buenos Aires, 2006-E, p. 818. En
+
+         efecto, con buen tino ha dicho en el caso Fermín Ramírez, que tanto las víctimas como sus familiares o
+         representantes pueden invocar derechos distintos de los comprometidos en la demanda de la Comi-
+         sión. Corte IDH, Caso Fermín Ramírez Vs. Guatemala, Sentencia de 20 de junio de 2005, Serie C No.
+         126, párr. 116.
+      71 Corte IDH, Caso Aloeboetoe y otros Vs. Surinam, Reparaciones y Costas, Sentencia de 10 de septiem-
+
+         bre de 1993, Serie C No. 15, párr 81; ídem Corte IDH, Caso Las Palmeras Vs. Colombia, Excepciones
+         Preliminares, Sentencia de 4 de febrero de 2000, Serie C No. 67, párr. 31.
+      72 Corte IDH, Caso Yatama Vs. Nicaragua (cit.); Corte IDH, Caso La Cantuta Vs. Perú, Sentencia de 29 de
+
+         noviembre de 2006, Serie C No. 162; Corte IDH, Caso Almonacid Arellano y otros Vs. Chile, Sentencia
+         de 26 de septiembre de 2006, Serie C No. 154. Véase también HITTERS, JUAN CARLOS, Los Tribunales
+         Supranacionales, ob. cit.
+      73 De este tema ya nos hemos referido in extenso en el trabajo Hitters, Juan Carlos, ¿Son vinculantes los
+
+         pronunciamientos…?, ob. cit.
+      74 Corte IDH, Caso “La Última Tentación de Cristo”, cit.
+
+
+
+
+122                        Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 15]]
+               Control de constitucionalidad y control de convencionalidad. Comparación
+                  (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+   Esto quiere significar que desde esta vertiente la decisión interamericana no impli-
+ca una abrogación automática del precepto local, pues es el país quien debe cumplir
+con el pronunciamiento regional.
+
+  Tal criterio también es aplicable, con ciertas particularidades, en los casos de las
+Opiniones Consultivas.75
+
+    Sin embargo en los delitos de lesa humanidad la cosa parece tener un matiz dife-
+renciado ya que a nuestro criterio, en tales circunstancias, por ejemplo en los casos
+“Barrios Altos”;76 “Tribunal Constitucional de Perú”77 y “La Cantuta”78 la Corte IDH se
+comportó como un verdadero Tribunal Constitucional declarando inaplicables en todo
+el país y con efecto erga omnes79 las leyes de amnistía dictadas en Perú.80
+
+
+III. CONCLUSIONES
+
+    Hemos tratado de esbozar en forma sintética, lo que se ha dado en llamar en los
+últimos tiempos ‘control de convencionalidad’ mecanismo que debe ser llevado a
+
+
+75 HITTERS, Juan Carlos, ¿Son vinculantes los pronunciamientos…?, ob. cit., párr. 4.
+76 Corte IDH, Caso Barrios Altos Vs. Perú, Sentencia de 14 de marzo de 2001, Serie C No. 75.
+77 Corte IDH, Caso del Tribunal Constitucional Vs. Perú, Sentencia de 31 de enero de 2001, Serie C No. 71.
+78 En efecto la Corte IDH en el Caso La Cantuta ha expresado que “…De las normas y jurisprudencia de
+
+   derecho interno analizadas, se concluye que las decisiones de esta Corte tienen efectos inmediatos y
+   vinculantes y que, por ende, la sentencia dictada en el caso Barrios Altos está plenamente incorporada
+   a nivel normativo interno. Si esa Sentencia fue determinante en que lo allí dispuesto tiene efectos
+   generales, esa declaración conforma ipso iure parte del derecho interno peruano, lo cual se refleja en
+   las medidas y decisiones de los órganos estatales que han aplicado e interpretado esa Sentencia” (Caso
+   La Cantuta Vs. Perú, cit., párr. 186).
+79 El distinguido constitucionalista Néstor Pedro Sagüés en el trabajo que ya hemos citado (párr. 2), ha-
+
+   ciendo referencia a nuestra opinión cuando hablamos de la eventual anulación de las normas nacionales
+   en los casos de Perú (HITTERS, Juan Carlos, ¿Son vinculantes los pronunciamientos…?, ob. cit., nota 67),
+   desde otra mirada sostiene que “…una cosa es que la Corte Interamericana repute jurídicamente invá-
+   lidos esos preceptos y resuelva inaplicarlos por infligir el Pacto y otra es que esté habilitada para abolir-
+   los…”. Consideramos que desde el punto de vista estrictamente técnico la crítica es acertada porque en
+   verdad no se produce una verdadera ‘anulación’ sino que la Corte le veda a Perú aplicar normas de
+   impunidad en la totalidad de su territorio. Se ha dicho que los considerandos de tales pronunciamientos
+   son vinculantes para todo el poder público peruano, incluso en aquellos en los que el Estado no haya
+   sido parte. (Véase Tribunal Constitucional en el caso Arturo Castillo Chirinos, Expediente N° 2730-06-
+   PA/TC, del 21 de julio de 2006, párrs. 12 y 13). Rescatamos la opinión del citado publicista ya que en
+   verdad no ha habido ‘abolición’ sino una declaración de inaplicabilidad de las leyes de impunidad, con
+   efecto erga omnes, que produce un efecto similar.
+80 Si bien en este artículo no nos ocupamos de la permeabilidad de las sentencias de la Corte IDH en el
+
+   derecho interno, ni -por ende- de la recepción que tuvo la jurisprudencia interamericana por el más alto
+   tribunal de ese país, cuestión ya abordada, como dijimos, en el trabajo ¿Son vinculantes los pronuncia-
+   mientos…?, ob. cit.; repárese que por ejemplo en el caso “Simón” (“Simón, Julio H., y otros”, sent. 14
+   de junio 2005, revista La Ley Buenos Aires, 29 de junio de 2005), entre otros la Corte Suprema de
+   Justicia de la Nación Argentina, siguiendo la Corte Interamericana produjo la anulación de las leyes de
+   obediencia de vida (ley 23.521) y punto final (ley 23.492).
+
+
+
+
+                      Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                                    123
+
+[[PDF p. 16]]
+                                                 Juan Carlos Hitters
+
+
+
+
+      cabo, primero por los cuerpos judiciales domésticos, haciendo una ‘comparación’ en-
+      tre el derecho local y el supranacional, a fin de velar por el efecto útil de los instrumen-
+      tos internacionales, sea que surja de los tratados, del ius cogens o de la jurisprudencia
+      de la Corte IDH; y luego esa tarea debe ser ejercida por el Tribunal regional si es que el
+      caso llega a sus estrados.
+
+          Lo cierto es que los organismos judiciales internos antes que nada –y esto es ob-
+      vio– deben cumplir una inspección de constitucionalidad, para evitar que en sus fallos
+      se infrinja la carta suprema del país y en paralelo, ver si tales decisorios se acomodan
+      con las convenciones internacionales ratificadas por la Argentina (arts. 1.1 y 2 CAHD).81
+
+         No será ocioso repetir que el Tribunal Interamericano desde siempre viene haciendo
+      esta revisión. Aunque la terminología aludida, esto es ‘control de convencionalidad’ ha
+      sido utilizada en los últimos tiempos a partir de los asuntos que ya hemos citado.
+
+          Con respecto al contralor de marras la Corte del Pacto de San José hace referencia
+      a las reglas legislativas, administrativas y de cualquier otro carácter, lo que implica,
+      como vimos, que la inspección de ‘compatibilidad’ con la convención se efectúe sobre
+      todo el material normativo del país. Ha establecido ese cuerpo que los pronuncia-
+      mientos locales tienen que ser acatados y sólo en circunstancias excepcionales puede
+      la Corte IDH ocuparse de examinar los respectivos procesos internos habida cuenta
+      que élla no lleva a cabo una tercera o cuarta instancia. En ese aspecto ha sostenido que
+      los jueces y tribunales domésticos están sujetos al imperio de la ley y obligados a
+      aplicarla, pero cuando el Estado ha ratificado un tratado como el Pacto de San José ‘sus
+      jueces’ como parte del aparato estatal, también están sometidos a él, lo que les obliga
+      a velar para que sus efectos no sean mermados por la aplicación de normas jurídicas
+      contrarios a su objeto y fin.
+
+          Esta verificación de convencionalidad tiene un carácter difuso ya que cada uno de
+      los magistrados locales puede y debe cumplir la tarea, sin perjuicio de la postrera
+      intervención de la Corte Interamericana.
+
+          Como consecuencia de lo expresado, va de suyo, que no sólo el Poder Judicial debe
+      cumplir con las disposiciones del derecho supranacional, sino también el Ejecutivo y el
+      Legislativo, tanto en el orden nacional, como provincial y municipal, bajo apercibimien-
+      to de generar responsabilidad internacional del Estado (arts. 1.1 y 2 de la CADH).
+
+         Cuando hacemos referencia a la ‘revisión de oficio’ queremos poner de relieve
+      –obviamente– que en esas circunstancias la Corte está potenciada para hacerla aún
+      cuando determinados planteos de convencionalidad no le sean articulados en forma
+      expresa. Es decir que si una actuación arriba a sus estrados por la violación de deter-
+
+
+
+      81   Sobre este tema véase el excelente trabajo de Héctor FIX ZAMUDIO y Eduardo FERRER MAC-GREGOR, Las
+           sentencias de los Tribunales Constitucionales, Editorial UNAM – Porrúa, México, 2009, p. 79.
+
+
+
+
+124                         Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 17]]
+            Control de constitucionalidad y control de convencionalidad. Comparación
+               (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+minado derecho –por ejemplo el derecho a la vida–, ella puede ocuparse –digamos–
+de la infracción al debido proceso legal.
+
+   Vale reiterar que tanto los judicantes nacionales como los de la Corte IDH deben
+buscar la ‘compatibilidad’ entre las normas locales –como reiteradamente lo hemos
+apuntado– y las reglas de los demás instrumentos internacionales a los que el país ha
+adherido, Tratados, Convenciones, Resoluciones, Declaraciones, Informes, etc., tales
+como el Protocolo de San Salvador; el Protocolo relativo a la Abolición de la Pena de
+Muerte; la Convención para Prevenir y Sancionar la Tortura; la Convención de Belém
+do Pará para la Erradicación de la Violencia contra la Mujer; la Convención sobre Des-
+aparición Forzada; etcétera; que integran el corpus iuris convencional de los derechos
+humanos. Para esto también se debe tener en cuenta la ‘jurisprudencia’ de la Corte
+regional.
+
+    Por último parécenos necesario repetir que si ese cuerpo declara no convencional
+un determinado precepto doméstico –que haya sido aplicado o no– el país debe in-
+mediatamente ‘adaptar’ la legislación interna –incluyendo su propia Constitución, como
+lo ha hecho Chile en el asunto ya citado– bajo apercibimiento de incurrir en responsa-
+bilidad estatal (arts. 1.1 y 2 de la CADH), y el ius cogens.
+
+
+BIBLIOGRAFÍA CITADA
+
+CAPPELLETTI, Mauro, Acceso a la Justicia, Revista del Colegio de Abogados de La Plata,
+    Año XXIII, Nº 41.
+CAPPELLETTI, Mauro (1980). El «formidable problema» del control judicial y la contribu-
+    ción del análisis comparado, en Revista de Estudios Políticos, ISSN 0048-7694,
+    Nº 13, Traducción de Faustino González.
+CAPPELLETTI, Mauro. (1978). Giustizia Costituzionale Soprannazionale, en Rivista Di Di-
+    ritto Processual, anno XXXIII, T. II,
+CAPPELLETTI, Mauro (1987). La Justicia Constitucional (Estudios de Derecho Comparado),
+    (México, UNAM).
+FIX ZAMUDIO, Héctor y FERRER MAC-GREGOR, Eduardo. (2009). Las sentencias de los Tribu-
+    nales Constitucionales, (México, Editorial UNAM – Porrúa).
+GERMÁN, Albar y CANÇADO TRINDADE, Antonio (1998). Reflexiones sobre el futuro del sis-
+    tema interamericano de derechos humanos, en El futuro del sistema interamerica-
+    no de protección de los derechos humanos, (Costa Rica, Cox Editores).
+GIALDINO, Rolando (2008). Control de constitucionalidad y de convencionalidad de oficio.
+    Aportes del Derecho Internacional de los derechos humanos, en La Ley, 2008-C,
+HITTERS, Juan Carlos (2008). ¿Son vinculantes los pronunciamientos de la Comisión y de
+    la Corte Interamericana de Derechos Humanos?, La Ley 2008-E.
+HITTERS, Juan Carlos (2003). Criterios establecidos por los órganos jurisdiccionales de
+    los sistemas interamericano y europeos (Buenos Aires, La Ley), 2003-D.
+HITTERS, Juan Carlos (1991). Derecho Internacional de los Derechos Humanos, (Buenos
+    Aires, Editorial Ediar).
+
+
+
+
+                  Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                125
+
+[[PDF p. 18]]
+                                            Juan Carlos Hitters
+
+
+
+
+      HITTERS, Juan Carlos y FAPPIANO, Óscar (2007). Derecho Internacional de los Derechos
+          Humanos, 2ª edición, Buenos Aires, Editorial Ediar.
+      HITTERS, Juan Carlos, El Derecho Procesal Constitucional, en Revista El Derecho, T. 121.
+      HITTERS, Juan Carlos (1987). Estudios de Derecho Constitucional Panameño, Compila-
+          dor Jorge Fabrega, Panamá.
+      HITTERS, Juan Carlos (1987). Legitimación democrática del Poder Judicial y Control de
+          Constitucionalidad, en Justicia: Revista de Derecho Procesal, ISSN 0211-7754, Nº 2,
+      HITTERS, Juan Carlos (2007), Los Tribunales Supranacionales, La Ley, Buenos Aires, 2006-E.
+      HITTERS, Juan Carlos (2007), Responsabilidad del Estado por violación de Tratados Inter-
+          nacionales, La Ley, 2007-C.
+      HITTERS, Juan Carlos (1997), Solución de controversias en el ámbito del Mercosur -
+          Hacia un derecho comunitario, La Ley, 1997-C.
+      HITTERS, Juan Carlos. Técnica de los Recursos Extraordinarios, Librería Editora Platense,
+          Buenos Aires, 2ª edición.
+      LOIANO, Adelina (2008). El marco conceptual del control de convencionalidad en algu-
+          nos fallos de la Corte Suprema Argentina, “Arancibia Clavel”, “Simón”, “Mazzeo”,
+          en Albanese, Susana, Coordinadora, El control de convencionalidad, (Buenos Ai-
+          res, Editorial Ediar).
+      REY CANTOR, Ernesto (2008). Control de Convencionalidad de las Leyes y Derechos
+          Humanos, (México, Editorial Porrúa).
+      SAGÜÉS, Néstor (2009), El control de convencionalidad. En particular sobre las Constitu-
+          ciones Nacionales, La Ley, 2009-B.
+
+      Fallos y Casos Citados:
+
+      • CNS, “García Méndez, Emilio y Musa, María Laura s/causa Nº 7537”. Voto del Dr.
+        Enrique Santiago Petracchi.
+      • CSN, “Simón, Julio H., y otros”, sent. 14 de junio 2005, revista La Ley, Buenos Aires,
+        29 de junio de 2005.
+      • Corte IDH, Caso «Instituto de Reeducación del Menor», Sentencia de 2 de septiem-
+        bre de 2004, Serie C N° 112.
+      • Corte IDH, Caso “La Última Tentación de Cristo” [Olmedo Bustos y otros] Vs. Chile,
+        Sentencia de 5 de febrero de 2001, Serie C No. 73.
+      • Corte IDH, Caso Acevedo Jaramillo y otros vs. Perú, Sentencia de 7 de febrero de
+        2006, Serie C No.144.
+      • Corte IDH, Caso Almonacid Arellano y otros Vs. Chile, Sentencia de 26 de septiem-
+        bre de 2006, Serie C No. 154.
+      • Corte IDH, Caso Aloeboetoe y otros Vs. Surinam, Reparaciones y Costas, Sentencia
+        de 10 de septiembre de 1993, Serie C No. 15.
+      • Corte IDH, Caso Barrios Altos Vs. Perú, Sentencia de 14 de marzo de 2001, Serie C
+        No. 75.
+      • Corte IDH, Caso Boyce y otros Vs. Barbados, Sentencia de 20 de noviembre de
+        2007, Serie C No. 169.
+      • Corte IDH, Caso Carpio Nicolle y otros. Sentencia de 22 de noviembre de 2004.
+        Serie C No. 117.
+
+
+
+
+126                     Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128
+
+[[PDF p. 19]]
+            Control de constitucionalidad y control de convencionalidad. Comparación
+               (Criterios fijados por la Corte Interamericana de Derechos Humanos)
+
+
+
+
+• Corte IDH, Caso Castillo Petruzzi y otros Vs. Perú, Sentencia de 30 de mayo de 1999,
+  Serie C No. 52.
+• Corte IDH, Caso de la Masacre de Mapiripán vs. Colombia, Sentencia de 15 de sep-
+  tiembre de 2005, Serie C No. 13.
+• Corte IDH, Caso del Penal Miguel Castro Castro Vs. Perú, Sentencia de 25 de no-
+  viembre de 2006, Serie C No. 160.
+• Corte IDH, Caso del Tribunal Constitucional Vs. Perú, Sentencia de 31 de enero de
+  2001, Serie C No. 71.
+• Corte IDH, Caso El Amparo Vs. Venezuela, Sentencia de 14 de septiembre de 1996,
+  Serie C No. 28
+• Corte IDH, Caso Fermín Ramírez Vs. Guatemala, Sentencia de 20 de junio de 2005,
+  Serie C No. 126.
+• Corte IDH, Caso Gutiérrez Soler. Sentencia de 12 de septiembre de 2005. Serie C No. 132.
+• Corte IDH, Caso La Cantuta Vs. Perú, Sentencia de 29 de noviembre de 2006, Serie
+  C No. 162.
+• Corte IDH, Caso Las Palmeras Vs. Colombia, Excepciones Preliminares, Sentencia de
+  4 de febrero de 2000, Serie C No. 67.
+• Corte IDH, Caso López Álvarez Vs. Honduras, Sentencia de 1 de febrero de 2006,
+  Serie C No. 141.
+• Corte IDH, Caso Myrna Mack Chang Vs. Guatemala, Sentencia de 25 de noviembre
+  de 2003, Serie C No. 101.
+• Corte IDH, Caso Palamara Iribarne vs. Chile, Sentencia de 22 de noviembre de 2005,
+  Serie C No. 135.
+• Corte IDH, Caso Raxcacó Reyes Vs. Guatemala, Sentencia de 15 de septiembre de
+  2005, Serie C No. 133.
+• Corte IDH, Caso Suárez Rosero Vs. Ecuador, Sentencia de 12 de noviembre de 1997,
+  Serie C No. 35.
+• Corte IDH, Caso Tibi Vs. Ecuador, Sentencia de 7 de septiembre de 2004, Serie C
+  No. 114.
+• Corte IDH, Caso Trabajadores Cesados del Congreso (Aguado Alfaro y otros) Vs.
+  Perú, Sentencia de 24 de noviembre de 2006, Serie C No. 158.
+• Corte IDH, Caso Trabajadores Cesados del Congreso (Aguado Alfaro y otros). Vs.
+  Perú, Solicitud de Interpretación de la Sentencia, Sentencia de 30 de noviembre de
+  2007, Serie C No. 174.
+• Corte IDH, Caso Vargas Areco Vs. Paraguay, Sentencia de 26 de septiembre de 2006,
+  Serie C No. 155.
+• Corte IDH, Caso Yatama Vs. Nicaragua, Sentencia de 23 de junio de 2005, Serie C
+  No. 127.
+• Corte IDH, Comunidad Indígena Sawhoyamaxa Vs. Paraguay, Sentencia de 29 de
+  marzo de 2006, Serie C No. 146.
+• Corte IDH, Caso Genie Lacayo Vs. Nicaragua, Excepciones Preliminares, Serie C No. 21.
+• Corte IDH, Caso Genie Lacayo. Solicitud de Revisión de la Sentencia de 29 de enero
+  de 1997. Resolución de la Corte de 13 de septiembre de 1997. Serie C No. 45.
+• Corte IDH. Caso Heliodoro Portugal Vs. Panamá. Excepciones Preliminares, Fondo,
+  Reparaciones y Costas. Sentencia de 12 de agosto de 2008. Serie C No. 186.
+
+
+
+
+                  Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128                  127
+
+[[PDF p. 20]]
+                                           Juan Carlos Hitters
+
+
+
+
+      • Suprema Corte de Justicia Provincia de Buenos Aires causas L. 69.523, “Barone”,
+        sent. del 01-04-2003, L. 76.279, “Castillo”, sent. del 1-10-2003; L. 80.156, “Martí-
+        nez”, sent. del 31-3-2004; L. 72.336, “Iommi”, sent. del 14-4-2004; L. 78.008, “Pe-
+        reyra”, sent. del 14-04-2004; causas L. 83.781 “Zaniratto”, sent. del 22-XII-2004;
+        L. 74.311 “Benitez”, sent. del 29-XII-2004; L. 84.131 “Barreto”, sent. del 8-VI-2005;
+        L. 81.577 “Guzman”, sent. del 8-VI-2005; L. 84.880 “Castillo”, sent. del 27-VI-2007;
+        Ac. 88.847 “Peters”, sent. del 12-IX-2007.
+      • Tribunal Constitucional de Perú, Caso Arturo Castillo Chirinos, Expediente N° 2730-
+        06-PA/TC, del 21 de julio de 2006.
+      • Tribunal de Justicia de las Comunidades Europeas, Caso 6/64, “Costa vs. ENEL”, en
+        E.C.R., 1964.
+
+
+
+
+128                    Estudios Constitucionales, Año 7, Nº 2, 2009, pp. 109-128

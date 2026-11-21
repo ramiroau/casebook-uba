@@ -1,0 +1,675 @@
+# fuente: Unidad6/2_Bouzat_2013_El principio de razonabilidad como límite sustantivo a las atribuciones del.pdf
+# modo: texto
+# paginas: 13
+# copiado sin cambios de corpus/texto/bouzat2013.txt. Sin paginación impresa: citar por sección (I-VII).
+
+[[PDF p. 1]]
+              EL PRINCIPIO DE RAZONABILIDAD COMO UN LÍMITE SUSTANTIVO
+
+                             A LAS ATRIBUCIONES DEL CONGRESO
+
+                                                                          Gabriel Bouzat
+
+I. El propósito de este trabajo es realizar una evaluación crítica de la manera en que se aplica el
+principio de razonabilidad de las leyes en el derecho argentino. En primer lugar analizaré los
+fundamentos constitucionales del principio de razonabilidad. En segundo lugar revisaré el
+derecho comparado haciendo hincapié en el principio de proporcionalidad del derecho
+europeo y en el principio del debido proceso sustantivo del derecho norteamericano. Por
+último analizaré la manera en que el Congreso de la Nación al legislar y la Corte Suprema de
+Justicia de la Nación al ejercer el control de constitucionalidad aplican el principio de
+razonabilidad.
+
+La tesis que desarrollaré es que el principio de razonabilidad de las leyes constituye un límite
+sustantivo a las atribuciones del Congreso. La idea es demostrar que la Constitución Nacional
+limita la facultad del Congreso de reglamentar los derechos constitucionales disponiendo que
+dicha reglamentación debe ejercerse utilizando medios adecuados y proporcionados para
+promover el interés público buscado. Ello significa defender la postura que las atribuciones
+que la Constitución le otorga al Congreso para reglamentar los derechos se encuentran
+limitadas y deben afectar de la menor manera posible los derechos constitucionales en juego.
+La conclusión que defenderé es que el Congreso cuando legisla y la Corte Suprema cuando se
+expide sobre la constitucionalidad de las leyes no le prestan debida atención a los alcances de
+este principio en la protección de los derechos constitucionales.
+
+II. El Art. 14 de la Constitución establece que los derechos reconocidos a los habitantes serán
+ejercidos conforme a las leyes que los reglamenten. Una fórmula similar utiliza el Art. 14 bis
+con relación a los derechos de los trabajadores. Por su parte, el Art. 28 de la Constitución
+dispone que los principios, garantías y derechos no podrán ser alterados por las leyes que
+reglamenten su ejercicio. La incorporación de este artículo, inspirado en las ideas de Alberdi,
+tuvo el propósito de evitar que las declaraciones y derechos de la Constitución terminen
+siendo limitados por las leyes que los reglamenten.
+
+El juego de estas cláusulas constitucionales plantea la compleja tensión entre autoridad y
+derechos. Por un lado, cuál es el alcance de la autoridad del Congreso en la reglamentación de
+los derechos y, por el otro lado, cuál es el límite que la Constitución le impone a esa atribución
+legislativa con fundamento en los derechos constitucionales objeto de la reglamentación. Se
+trata de las dos caras de una misma moneda.
+
+La cuestión a dilucidar es la de cuál es el criterio o estándar al que debe recurrirse para
+determinar que un derecho constitucional ha sido alterado por su reglamentación y, en
+consecuencia, demostrar que el Congreso se ha excedido en sus atribuciones reglamentarias.
+El principio regulativo que debe orientar el tratamiento de esta cuestión es el de la prioridad
+de los derechos frente al arbitrio del legislador. La circunstancia de que Art. 28 de la
+Constitución esté dirigido al Congreso determina que el mismo le impone un límite sustantivo
+al arbitrio legislativo. No estamos frente a una limitación de la autoridad democrática del
+
+[[PDF p. 2]]
+Congreso sino ante un principio regulativo que establece que esa autoridad debe tender a
+ampliar los derechos constitucionales y no a restringirlos.
+
+III. Una manera de abordar esta cuestión es mediante una teoría de la interpretación
+constitucional. Ello exige tomar posición en controvertidos problemas filosóficos, políticos y
+jurídicos. Para señalar solo uno, una teoría satisfactoria de la interpretación constitucional debe
+dar cuenta de cuál es el legítimo alcance de la actuación de los jueces en una democracia. Esto es
+así porque el control de constitucionalidad implica mucho más que resolver un problema de
+correspondencia lógica entre las normas constitucionales y las legales. Salvo en contadas
+excepciones, una contradicción clara entre la Constitución y la ley es difícil de identificar.
+
+Diversas circunstancias explican esta afirmación. La Constitución se caracteriza por contar con
+cláusulas y declaraciones muy generales e imprecisas y las cláusulas constitucionales contienen
+conceptos normativos –libertad, igualdad, moral pública- que se prestan a diferentes
+interpretaciones. Por último, pueden plantearse conflictos entre derechos constitucionales.
+
+Ahora bien, para precisar el sentido y alcance de las normas constitucionales la Corte Suprema
+recurre -a veces conjunta y otras veces exclusivamente- a diversos criterios de interpretación. En
+ciertos casos apela al significado "literal" del texto constitucional1. En otros a la intención
+"histórica" del constituyente. También apela a la llamada intención "presunta" o "dinámica" del
+constituyente, es decir a como hubiese legislado si hubiese previsto las nuevas circunstancias
+sociales2. En este sentido la Corte Suprema ha ofrecido estándares tan imprecisos como sostener
+que el valor de la Constitución no está en su texto escrito sino en su obra práctica, realista, de
+conciliación de intereses que exige, para que se la siga cumpliendo, una interpretación flexible y
+elástica, a fin de adaptarla a las nuevas ideas y circunstancias3.
+
+En muchos casos apela a valores o principios "implícitos" en la Constitución, o a "valores
+sociales", o cierta idea de lo que se entiende por el "bien común". Recurre también a valores
+ideales o morales o a la manera en que considera que las distintas alternativas interpretativas
+pueden influir en la vida social y económica del país4. En los últimos años invoca a los tratados
+internacionales sobre derechos humanos y a la jurisprudencia de cortes internacionales para
+precisar el alcance de las normas constitucionales.
+
+Adicionalmente, existen ciertos tecnicismos jurídicos –el stare decisis, la deferencia al legislador, la
+teoría de la arbitrariedad – que son también utilizados, generalmente en forma complementaria,
+como criterios de interpretación.
+
+La apelación a tan diversos criterios de interpretación lleva inevitablemente a diferentes
+soluciones -sobre la constitucionalidad o no de las leyes- según sea el criterio que se utilice o
+cómo se los pondere.
+
+A pesar de la relevancia que para la solución de los casos constitucionales tienen los criterios de
+interpretación, la determinación del criterio correcto de interpretación constitucional no ha
+
+ 1
+    Ver casos "Gedes Hnos" CSJN, Fallos, 95:334; "Mórtola y Cía.", CSJN, Fallos, 120:399; "Piccardo", CSJN,
+Fallos, 200:176;
+"Bergamino", Fallos, 213:413.
+
+ 2
+     Esta posición se la denomina también interpretación dinámica de la Constitución.
+
+ 3
+     Ver caso "Bressani", Fallos, 178:22.
+
+ 4
+     Ver caso "Cocchia, Jorge c/ Estado Nacional s/ acción de amparo", C 802 XXIV.
+
+[[PDF p. 3]]
+preocupado demasiado a los juristas ni a los jueces argentinos. Da la impresión que en la
+Argentina no se tiene conciencia clara de la importancia jurídica ni de la relevancia institucional de
+la interpretación de la Constitución.
+
+Sin embargo esta es una cuestión fundamental que hace a la función institucional que deben
+cumplir los jueces en nuestro sistema de separación de poderes. Si se obvia el problema, o se llega
+a la conclusión que los jueces pueden apelar discrecionalmente al criterio interpretativo que
+consideren conveniente, la interpretación constitucional carecería de todo criterio objetivo.
+Tendrían entonces razón aquellos "realistas" que consideran que el "razonamiento jurídico" es
+una mera racionalización que pretende justificar decisiones que los jueces adoptan por motivos
+personales5. Ello traería como consecuencia la imprevisibilidad del alcance de los derechos
+constitucionales y la distorsión del sistema de separación de poderes porque se admitiría que los
+jueces interpreten la constitución con tanta libertad como para imponer su voluntad sobre la
+voluntad del legislador.
+
+Cuando los jueces o juristas no coinciden acerca de la interpretación de una norma constitucional
+generalmente están en desacuerdo acerca del principio interpretativo al que debe recurrirse para
+precisar el sentido de la norma en cuestión. Son muchas menos las veces que no coinciden en cuál
+es la consecuencia de interpretar una norma en función de un determinado principio. Ello hace
+necesario construir principios de interpretación compatibles con los valores constitucionales.
+
+III. Las dificultades y complejidades que plantea la interpretación constitucional pueden ser en
+buena medida superadas mediante la apelación al principio de razonabilidad. Esto no quiere decir
+que el principio de razonabilidad resuelva el problema de la interpretación de la Constitución sino
+que brinda un estándar más preciso a legisladores y jueces para determinar el límite a la
+reglamentación de los derechos constitucionales establecido en el Art. 28.
+
+El principio de razonabilidad constituye una garantía constitucional que exige que las leyes
+guarden una adecuada proporcionalidad entre el medio escogido y el fin que se propone
+alcanzar. Este principio es una creación jurisprudencial y doctrinaria que si bien está inspirado
+en el principio del debido proceso legal sustantivo del derecho constitucional norteamericano
+se identifica más con el principio de proporcionalidad del derecho constitucional alemán y
+español.
+
+La circunstancia de que la proporcionalidad sea la medida de la razonabilidad determina que la
+evaluación de la constitucionalidad de una ley incorpore consideraciones pragmáticas y el
+análisis de relaciones de causalidad para establecer si el medio utilizado por el legislador es
+adecuado para obtener el fin buscado. La proyección práctica del principio de razonabilidad
+evita incurrir en razonamientos circulares en el que las cuestiones constitucionales son
+resueltas apelando exclusivamente a conceptos jurídicos sin mayor vinculación con la realidad
+social que se pretende regular. Mediante el análisis de proporcionalidad se le otorga a la
+interpretación constitucional una proyección funcional que permite superar las disquisiciones
+puramente dogmáticas y normativas al incorporar la evaluación de las consecuencias prácticas
+en la determinación del alcance de los derechos constitucionales. La idea que subyace es que
+los derechos no deben ser concebidos como títulos o declamaciones puramente normativas
+sino como bienes que deben efectivizarse en la realidad de los hechos.
+
+
+ 5
+   Como bien explica Genaro Carrió, (ver Notas sobre derecho y lenguaje, Abeledo Perrot, 1990), "muchos
+de ellos (los realistas) confundieron sistemáticamente los problemas psicológicos implicados en la génesis o
+motivación de las decisiones judiciales y los problemas de un tipo completamente distinto vinculados a la
+justificación de ellas".
+
+[[PDF p. 4]]
+Los estándares de proporcionalidad que utilizan los tribunales constitucionales europeos y que
+han sido aceptados en forma parcial por nuestra Corte Suprema brindan criterios
+relativamente claros a los que puede recurrir el Congreso a la hora de legislar y los jueces al
+interpretar la constitucionalidad de las leyes.
+
+Estos estándares consisten en ciertos test o pasos que deberían seguirse para determinar si la
+ley viola el principio de proporcionalidad.
+
+El primer paso o test a evaluar es el de si el interés público comprometido en la norma es
+genuino y constitucional. Mediante este test lo que se evalúa es la finalidad de la norma y si
+esa finalidad se corresponde con un interés público relevante.
+
+El segundo paso o test es si la ley que cuya constitucionalidad está siendo cuestionada
+constituye un medio adecuado para obtener el objetivo o finalidad que se propone cumplir.
+Con relación a este test los tribunales europeos suelen otorgarle cierta deferencia al legislador
+por entender que está en una mejor posición para evaluar si la ley es adecuada con el objetivo
+buscado. En general se considera que es adecuada cuando hay una probabilidad cierta de que
+la ley cumpla con su objetivo. En este test muchas veces deben analizarse cuestiones fácticas o
+técnicas para demostrar que la ley constituye un medio adecuado.
+
+El tercer paso que debe evaluarse es si la ley es necesaria y, de existir otras alternativas, debe
+elegirse la menos restrictiva y la que menos afecte derechos constitucionales fundamentales.
+En virtud de este test una ley puede ser considerada inconstitucional si existen alternativas
+menos restrictivas de los derechos para conseguir el fin propuesto por el legislador. Este test
+es fundamental porque obliga al Congreso a elegir los medios más eficientes disponibles para
+promover el interés público buscado y, en general, es utilizado cuando están en juego
+derechos fundamentales. Muchas veces este test exige realizar alguna comparación entre los
+medios disponibles para determinar cuál es la alternativa más eficiente.
+
+El cuarto paso que debe analizarse es si la ley es proporcional en sentido estricto. Es decir, si
+los beneficios que la ley ofrece compensan la disminución del derecho que afecta o limita. Es
+lo que se ha llamado la regla del equilibrio conveniente o de racionalidad que exige que los
+beneficios que causa el interés público perseguido justifiquen las cargas que la ley impone.
+Dicho balance tiene un límite fundado en el principio de dignidad que prohíbe utilizar a las
+personas como medios para satisfacer los intereses de otras.
+
+IV. Si bien el principio de razonabilidad puede ser considerado como un tecnicismo jurídico
+en verdad se trata de un principio normativo que presupone una concepción constitucional,
+política y moral sobre la protección de los derechos fundamentales y los límites
+reglamentarios del Congreso. Esta concepción se basa en la prioridad de los derechos
+fundamentales en virtud de que los mismos protegen la dignidad e inviolabilidad de las
+personas.
+
+Siguiendo a Dworkin6 podría sostenerse que cuando el legislador reglamenta derechos
+constitucionales con el propósito de promover algún interés público estaría desarrollando
+políticas. Las políticas para Dworkin son fundamentalmente agregativas, tienden a no
+distinguir entre personas y encuentran un límite cuando afectan derechos constitucionales.
+Cuando ello ocurre se violan principios que son distributivos y que prohíben que se afecten los
+derechos constitucionales de alguna persona en pos de un interés público. Esta postura parte
+
+6
+    Dworkin, R. (1985), A Matter of Principle, Cambridge, Mass.: Harvard University Press.
+
+[[PDF p. 5]]
+de una posición metodológica que tiene por eje el respeto de cada persona y sus derechos y se
+contrapone con las posiciones que tienden a disolver los derechos de las personas en la
+búsqueda de un supuesto “bienestar general”.
+
+El principio de razonabilidad está inspirado en el principio del debido proceso legal del derecho
+constitucional norteamericano cuyo propósito es evitar que el estado sancione normas que
+limiten o restrinjan derechos fundamentales. Este principio está reconocido en las enmiendas
+V y XIV de la Constitución norteamericana y tiene dos concepciones: la procesal o adjetiva y la
+sustantiva.
+
+El debido proceso legal adjetivo consiste en las formas procesales de carácter legislativo,
+administrativo y judicial que deben cumplirse para que una ley, resolución o sentencia que
+limite derechos constitucionales sea formalmente válida.
+
+El debido proceso legal sustantivo presupone la existencia de una norma formalmente válida y
+lo que promueve es que no afecte indebidamente derechos constitucionales. Se trata de un
+principio normativo que exige, mediante la aplicación de ciertos estándares, que exista una
+relación sustancial y razonable entre los intereses públicos perseguidos por el legislador y los
+derechos constitucionales. El propósito es que los derechos fundamentales sean
+especialmente protegidos de la intervención estatal. En los casos en los que el derecho
+fundamental en juego es el de la igualdad, cuando la ley establece clasificaciones o categorías
+mediante las cuales se regula de manera diferente los derechos de distintas personas, se aplica
+el principio de igualdad (equal protection).
+
+La Corte Suprema de los Estados Unidos estableció diferentes tipos de escrutinio para evaluar
+la existencia o no de una relación razonable entre los intereses públicos comprometidos y los
+derechos constitucionales afectados.
+
+El primero de los escrutinios es el estricto que se aplica cuando está en juego un derecho
+fundamental o una libertad preferida, como puede ser la libertad de prensa o la igualdad. El
+escrutinio estricto exige que el estado demuestre que la norma cuestionada se dictó con el
+propósito de promover un interés público imperioso o muy importante, que sea necesaria para
+promover dicho interés y que sea “confeccionada a medida”. Esto último significa que la
+norma sancionada sea la menos restrictiva entre las alternativas posibles para conseguir el fin
+que se propuso. Es decir, que sea eficiente y efectiva para alcanzar la finalidad buscada. Si el
+Estado no logra probar esos requisitos, la ley debería ser declarada inconstitucional por la
+Corte Suprema.
+
+El segundo escrutinio es el intermedio. Este escrutinio se aplica cuando no están en juego
+libertades preferidas y el interés público comprometido no sea imperioso sino importante. En
+este caso el estado también tiene que probar que existe una relación razonable entre la
+finalidad buscada y el medio utilizado, y que éste sea eficiente para obtener esa finalidad. La
+diferencia con el escrutinio estricto es solo de grado y reside en que en este caso no es
+necesario demostrar que sea la menos restrictiva siempre y cuando no sea discriminatoria.
+
+
+El tercer escrutinio se limita al control de la existencia de una relación razonable entre el
+medio utilizado y el fin buscado. Se usa generalmente en casos de contenido patrimonial y, a
+diferencia de lo que sucede con los dos primeros escrutinios, se parte de la presunción de
+constitucionalidad de la ley en cuestión.
+
+[[PDF p. 6]]
+V. Los derechos constitucionales protegen bienes fundamentales de las personas con
+fundamento en el principio de la dignidad humana. Se tratan de derechos morales que son
+constitucionalizados para que las autoridades los protejan mediante el aparto coactivo del
+estado. La protección de los derechos es una tarea institucional que no atañe solo a los jueces
+sino también al legislador. La Constitución establece una serie de procedimientos e instituciones
+con el propósito de promover principios sustantivos y el bienestar general. Ello exige un complejo
+equilibrio entre fines y valores por un lado, y medios y procedimientos, por el otro lado.
+
+La relación entre derechos constitucionales y autoridad democrática es compleja. Los derechos
+imponen límites a la autoridad democrática pero a su vez son reglamentados democráticamente.
+Esta relación debe llevarnos a reflexionar sobre los procesos institucionales mediante los cuales se
+protegen y promueven los derechos en condiciones de pluralismo y disensos. Como explica
+Michelman7, los derechos son proposiciones públicas que conllevan obligaciones recíprocas y
+constituyen una forma de cooperación social organizada.
+
+En este sentido, el principio de razonabilidad puede ser visto como un principio de carácter
+procedimental. Lo que establece es un método que debería orientar el debate legislativo a la hora
+de reglamentar los derechos constitucionales. Los test que incorpora el principio de razonabilidad
+pueden ser concebidos como pasos de una idea regulativa o proceso regulador que apunta a
+favorecer la más amplia protección de los derechos por parte del Congreso.
+
+Si uno analiza los distintos test y escrutinios que conforman el principio de razonabilidad puede
+mostrar la manera en que los mismos contribuyen a una mejor protección de los derechos
+constitucionales. De ninguna manera restringen el debate público sino que lo ordenan en pos de
+la ampliación de los derechos.
+
+El primer test es el de si el interés público comprometido en la norma es relevante y
+constitucional. Mediante este test se pretende asegurar que la legislación promueva un interés
+público genuino que debe ser debidamente identificado en función de los fines buscados, de
+los resultados que se esperan y de los problemas que pretenden solucionarse. La identificación
+e importancia del interés público en juego debería constituir el primer paso del debate
+legislativo. La demostración de que la legislación en cuestión tiene el propósito de promover
+una finalidad significativa asegura que no se restrinjan los derechos constitucionales sin
+motivos sustanciales, por causas banales y sin razón que lo justifique.
+
+El segundo test es si la norma que se pretende sancionar constituye un medio adecuado para
+obtener el fin o interés público buscado. Mediante este test se asegura que la norma a
+sancionar no constituya un medio inútil o ineficiente para promover la finalidad perseguida.
+Para ello es necesario demostrar que existe una probabilidad cierta de que la ley cumpla con
+su objetivo. Ello puede exigir analizar relaciones de causalidad, cuestiones empíricas o técnicas
+y evaluar las consecuencias prácticas esperables de la norma en cuestión. Mediante este paso
+pretende asegurarse que los derechos constitucionales no terminen siendo restringidos en
+vano mediante leyes inconducentes o inadecuadas para promover el fin buscado. De esta
+manera se garantiza que los derechos no sean limitados por medidas carentes de toda eficacia
+o incluso contrarias a los fines que se pretende promover.
+
+El tercer test es si la ley es necesaria y constituye la alternativa menos restrictiva de los
+derechos constitucionales en juego. En virtud de este test el Congreso estaría obligado no solo
+a utilizar un medio adecuado sino el más eficiente para limitar de la menor manera posible los
+
+7
+ F. Michelman, “Justification (and Justifiability) of Law in Contradictory Word," en J.R. Pennock and J.W.
+Chapman, eds., Justification, Nomos vol. 18, (New York), 1986.
+
+[[PDF p. 7]]
+derechos involucrados. Este test resulta aplicable cuando la ley impacta sobre derechos
+fundamentales o libertades preferidas, como la libertad de expresión y la igualdad. Cuando no
+están en juego derechos fundamentales la deferencia al legislador determina que sólo resulte
+exigible que el medio sea proporcionado pero no el más eficiente. Este test favorece una sobre
+protección de los derechos fundamentales estableciendo requisitos más estrictos en la
+reglamentación de los mismos.
+
+El cuarto test consiste en determinar si los beneficios que la ley presumiblemente causará
+compensan la disminución del derecho que afecta o limita. Mediante este test se busca que los
+beneficios que causa el interés público perseguido justifiquen las cargas que la ley impone. En
+cualquier caso el Congreso nunca estará constitucionalmente autorizado para restringir los
+derechos constitucionales fundamentales de una persona en aras de satisfacer los intereses de
+otras.
+
+Concebir al principio de razonabilidad como un límite sustancial al arbitrio del legislador no
+constituye ninguna limitación contra mayoritaria.
+
+En primer lugar el Art. 28 de la Constitución está dirigido al Congreso al prohibirle que en la
+reglamentación de los derechos los altere.
+
+En segundo lugar, la práctica democrática es una compleja combinación de voluntad y razón, de
+preferencias y principios, que se desarrolla en una atmósfera de libertad y pluralismo donde se da
+por sentado que no es posible proveer una justificación suficiente de las decisiones políticas
+apelando solamente a la voluntad de alguien, aunque sea a la voluntad de la mayoría. La
+democracia se identifica con el gobierno a través de la discusión y las decisiones democráticas
+deben ser vistas como el resultado de esos debates públicos en los que se obtiene un consenso
+mayoritario a partir de la expresión y discusión de ideas y opiniones encontradas. En esta
+concepción el principio de razonabilidad puede ser visto como un esquema de razonamiento que
+puede perfectamente formar parte del debate democrático. En este sentido puede considerarse
+que los test y escrutinios que lo definen constituyen un principio ordenador del debate legislativo
+cuando se discuten cuestiones constitucionales.
+
+Por último, el principio de razonabilidad ofrece un método para abordar la reglamentación de los
+derechos constitucionales que deja un margen relativamente amplio a la deliberación legislativa.
+No estamos frente un razonamiento algorítmico que deduce una única solución a la cuestión
+planteada sino ante un esquema abierto a la ponderación y el intercambio de ideas. Los
+conceptos de interés público, adecuación entre medios y fines, necesariedad, eficiencia y
+proporcionalidad son abiertos y normativos y por ende interpretativos. Ello no implica vaciarlos de
+contenido sino mostrar sus límites y complejidad. El derecho no es una ciencia exacta y los
+estándares que utiliza deben ser debidamente ponderados.
+
+VI. Si bien el Art. 28 se dirige al Congreso las discusiones parlamentarias no toman generalmente
+en cuenta los test que exige el principio de razonabilidad.
+
+En la Argentina el principio de razonabilidad es una creación jurisprudencial utilizada por los
+jueces para expedirse sobre la constitucionalidad de las leyes. Un análisis exhaustivo de la
+jurisprudencia de la Corte Suprema sobre la aplicación del principio de razonabilidad excede los
+límites de este trabajo. Existe una enorme casuística y el principio no ha sido precisado
+debidamente por la Corte.
+
+A continuación efectuaré un breve comentario de los fallos que toda investigación en la materia
+no puede soslayar a los efectos de evaluar los alcances de la aplicación del principio de
+razonabilidad.
+
+[[PDF p. 8]]
+En el fallo “Hileret”8 del año 1903 se demandó la inconstitucionalidad de un impuesto adicional a
+la producción de azúcar. Se había producido una situación de sobreproducción de azúcar y la
+finalidad buscada por la ley era indemnizar con el producido del impuesto a los productores de
+caña que no pudieron vender la cosecha y que debían destruir los plantíos para recibir el beneficio
+legal. El propósito de la ley, a pesar de ser un impuesto, no era recaudatorio sino de política
+económica porque lo que se buscaba era distribuir los costos de la superproducción de azúcar. La
+Corte, si bien sostuvo que no le competía analizar los aspectos económicos de la ley, adujo que la
+provincia no probó los supuestos beneficios que causaría la ley y, por el contrario, que existían
+elementos que demostraban que generaba efectos perjudiciales. En virtud de ello y con
+fundamento en el Art. 28 sostuvo que la ley violaba el Art. 14 (derechos de trabajar, ejercer
+industria lícita y comerciar). Aunque la Corte no fue del todo expresa al respecto, la
+inconstitucionalidad estaba dada porque la ley restringía estos derechos sin que se probara que
+promovía algún fin útil.
+
+En el caso “Canale”9 del año 1913 se discutió la constitucionalidad de una ley de la Ciudad de
+Mendoza que prohibió la instalación de hospitales en esa ciudad y obligó a los ya instalados a
+trasladarse en el plazo de 30 días. El fin buscado era la protección de la salud originado en el
+temor de que se propalen enfermedades contagiosas. En este fallo la Corte sentó el principio, que
+ha repetido reiteradamente, que los tribunales no tienen atribuciones para expedirse sobre la
+oportunidad o conveniencia de las medidas legislativas. No obstante ello, la Corte admitió que en
+circunstancias extraordinarias, cuando se da un manifiesto conflicto entre la ley y la Constitución y
+el medio utilizado por el legislador no guarda una adecuada relación con los fines aparentes de la
+legislación la misma puede ser declarada inconstitucional. En este caso la Corte esboza el test de
+adecuación pero otorgándole al mismo una interpretación restrictiva.
+
+En el fallo “Ercolano”10 del año 1922 la Corte Suprema se expidió sobre la constitucionalidad de
+una ley que congeló por dos años el precio de los alquileres de casas y piezas destinadas a
+habitación. El voto de la mayoría es una clara muestra de que la falta de evidencia empírica y un
+razonamiento jurídico confuso constituyen un obstáculo insalvable para la debida aplicación del
+principio de razonabilidad. La Corte, en lugar de razonar a partir de alguna prueba concreta sobre
+el comportamiento de la oferta y la demanda de alquileres para determinar si el medio utilizado
+por el legislador era adecuado, apeló a categorías imprecisas y a adjetivaciones que privan al
+argumento de toda sustancia. Las referencias a “opresiones o tiranías de orden económico”,
+“exacciones bajo el nombre de precios”, “monopolio virtual”, “a merced de la avidez o del
+capricho de los que detentan los factores de un servicio de vital necesidad” resultan fórmulas
+imprecisas y dogmáticas porque no se apoyan en fundamentos fácticos demostrados. La
+sentencia asimila lo que es un servicio que se presta en condiciones monopólicas, como lo eran
+los elevadores de granos en la ciudad de Chicago, con la oferta de viviendas en la Argentina de
+los años veinte donde existían miles de oferentes diferentes. Asimismo, sin prueba alguna que
+lo demuestre, da por sentado la existencia de un abuso de derecho generalizado por parte de
+todos los locadores. A partir de estas consideraciones y supuestos la sentencia concluye que el
+congelamiento del precio de los alquileres constituye una medida adecuada para obtener el fin
+buscado. Finaliza el razonamiento sosteniendo que no es del resorte del poder judicial decidir
+del acierto de los otros poderes públicos en la elección del medio empleado para conjurar esa
+situación crítica, ni de las consecuencias de orden económico puedan derivar de la aplicación
+de la ley.
+
+El razonamiento del fallo muestra que la correcta aplicación del principio de razonabilidad no
+sólo exige una adecuada evaluación del interés público comprometido sino también una
+
+8
+  Fallos 98:20.
+9
+  Fallos 128:278
+10
+   Fallos 136:161
+
+[[PDF p. 9]]
+correcta evaluación de los presupuestos fácticos y de la relación de causalidad entre el
+problema planteado y el fin buscado. Si la sentencia omite toda evaluación empírica,
+caracteriza incorrectamente a los hechos haciendo referencia a un monopolio inexistente,
+razona mediante adjetivaciones dogmáticas y se desentiende de las consecuencias económicas
+de la decisión se incumplen todos los presupuestos exigidos para una correcta aplicación del
+principio de razonabilidad. Ello no quiere decir que si se da una situación de emergencia o
+estado de necesidad un congelamiento de alquileres no pueda resultar constitucional. Lo que
+resulta cuestionable son los argumentos utilizados por la Corte.
+
+En el caso “Avico de la Pesa”11 del año 1934 la Corte Suprema se expidió a favor de la
+constitucionalidad de una ley que limitó los intereses de las hipotecas al 6% anual y prorrogó
+sus vencimientos por tres años. El Congreso invocó una situación de emergencia económica
+que fue avalada por la Corte Suprema. El fallo está en buena medida inspirado en el caso
+“Home Building vs. Blaisdell”12 en el que la Corte Suprema Norteamericana desarrolla los
+estándares utilizados para justificar la limitación de derechos constitucionales de naturaleza
+patrimonial en circunstancias de emergencia económica. Ellos son (i) que exista una situación
+de emergencia que exija el ejercicio de poderes a fin de proteger los intereses vitales de la
+comunidad; (ii) que la ley sea dirigida a un fin legítimo y que no otorgue meras ventajas
+particular a los individuos sino que tenga por finalidad la protección de un interés fundamental
+de la sociedad; y (iii) que la limitación de los derechos sea razonable y temporaria.
+
+En los casos de emergencia el interés público comprometido que ha identificado la Corte
+Suprema para justificar la limitación de derechos constitucionales es la estructura económica
+(“Avico”) e incluso en el caso “Peralta”13 la supervivencia de la unión nacional y del mismo
+estado. Frente a la invocación de este tipo de intereses la Corte ha actuado con una gran
+deferencia hacia el legislador y ha evaluado muy livianamente la adecuación de las medidas
+dispuestas para obtener el fin perseguido sin la necesidad de contar con ninguna evidencia
+empírica de la eficacia del medio utilizado.
+
+En el caso “Cine Callao”14 del año 1960 la Corte Suprema se expidió a favor de la
+constitucionalidad de una ley que declaró obligatoria la inclusión de espectáculos de
+variedades en todas las salas de cine del país. Este caso muestra cómo los principios
+constitucionales comienzan desconociéndose mediante desviaciones menores que terminan
+normalizándose y justificando mayores desconocimientos ulteriores. Resulta indiscutible que
+la ley cuestionada afectaba el derecho de propiedad y de comerciar en virtud de que le
+imponía a los cines una obligación de contratar que acarreaba gastos e inversiones que no
+generaban renta ni podían ser amortizadas. Lo criticable de este fallo es que la Corte Suprema
+considera un argumento válido para restringir derechos constitucionales la invocación de
+supuestos intereses públicos totalmente genéricos e imprecisos como la defensa y promoción
+de los intereses económicos de la colectividad. Cuando el fin buscado es tan general resulta
+prácticamente imposible determinar la adecuación y proporcionalidad del medio utilizado por
+el legislador. La generalidad e imprecisión de los fines impiden la evaluación correcta de la
+proporcionalidad del medio. La Corte desconoció esta imposibilidad y sin prueba alguna y
+esgrimiendo argumentos retóricos tuvo por acreditada la razonabilidad de la ley.
+
+Si bien la Corte reconoció que a ella sólo le está permitido analizar la razonabilidad de los
+medios previstos por el legislador, o sea el grado de adecuación existente entre las
+obligaciones que la ley impone y los fines cuya realización procura, dicha referencia no fue más
+
+11
+   Fallos 172:21
+12
+   290 US 384 del año 1934.
+13
+    LA LEY 1991-C, 158.
+14
+   Fallos 247:121 (1960).
+
+[[PDF p. 10]]
+que un artilugio retórico porque en ningún momento se tomó el trabajo de evaluar y menos
+demostrar dicha adecuación. En este punto la sentencia termina siendo contradictoria porque
+reconoce que el análisis del mérito o eficacia de los medios arbitrados para alcanzar los fines
+propuestos es ajena a la competencia de la Corte. La contradicción reside en la circunstancia
+de que si no se evalúa la eficacia del medio utilizado resulta imposible determinar la
+razonabilidad del mismo.
+
+En el caso “Massa”15 en el que se juzgó la constitucionalidad de la pesificación de los plazos
+fijos dispuestos en el marco de la emergencia económica causada por la traumática salida del
+régimen de convertibilidad la Corte se abstuvo de evaluar la razonabilidad de las medidas
+utilizadas y las convalidó en función del resultado que las mismas determinaron al momento
+de dictar la sentencia. Dichas medidas habían sido dispuestas mediante un decreto de
+necesidad y urgencia que la propia Constitución presume inconstitucional. No obstante ello, la
+Corte no presumió ninguna inconstitucionalidad y entendió que las medidas no afectaban el
+derecho de propiedad porque la aplicación de las mismas no generaba una disminución
+sustancial del valor adquisitivo de los depósitos bancarios.
+
+En materia de igualdad la Corte ha sido más estricta al aplicar el principio de razonabilidad. En
+el caso “Repetto”16 en el que se cuestionó la constitucionalidad de una norma que prohibía a
+los extranjeros ejercer la docencia, mediante el voto de los Drs. Petracchi y Bacqué, sostuvo
+que aquél que sostenga la legitimidad de la citada distinción debe acreditar la existencia de un
+"interés estatal urgente" para justificar aquélla, y no es suficiente, a tal efecto, que la medida
+adoptada sea "razonable". En el caso “Hooft”17 se cuestionó la constitucionalidad de un
+artículo de la Constitución de la Provincia de Buenos Aires que establecía que para ser juez se
+necesitaba ser argentino nativo o ser hijo de argentino nativo si se nació en el extranjero. La
+Corte sostuvo que la distinción entre argentinos nativos y por opción que establece la norma
+cuestionada debe presumirse inconstitucional. Agrega que dicha presunción solo podría ser
+remontada si se demostrase que existe un interés provincial sustancial que justifique el trato
+desigual y se probara que el medio utilizado no solo es adecuado sino que es efectivo y que no
+existen otros medios alternativos menos restrictivos de los derechos.
+
+En estos casos la Corte aplicó un escrutinio estricto, presumió la inconstitucionalidad del trato
+diferente y exigió superar el test de adecuación y necesidad de la medida restrictiva. También
+aplicó un escrutinio estricto en casos en los que están en juego derecho personalísimos como
+la inviolabilidad de la correspondencia (fallos 318:1894) o del domicilio (fallos 306:1752).
+
+En materia de libertad de expresión la Corte no ha sido demasiado clara respecto de la
+aplicación del principio de razonabilidad. En el caso “Asociación de Teleradiodifusoras
+Argentinas”18 defendió un escrutinio estricto cuando las restricciones a la libertad de expresión
+están basadas en el contenido del mensaje lo que exige que quién dictó la restricción pruebe
+mucho más que la mera razonabilidad de la norma. En el caso “Río Negro” sobre
+discriminación en la publicidad oficial sostuvo que la provincia de Neuquén debió probar la
+existencia de motivos razonables para justificar la suspensión de la publicidad en un diario y
+que dicha suspensión implicaba un ejercicio irrazonable de facultades discrecionales. Aunque
+no se expidió expresamente sobre el principio de razonabilidad el argumento de la sentencia
+se funda en la irrazonabilidad de la actuación estatal.
+
+
+15
+   CSJN, 27/12/2006, M. 2771. XLI
+16
+   Fallos 311:2272
+17
+   Fallos 327:5118.
+18
+   Fallos 328:1825. Voto jueces Petracchi y Belluscio.
+
+[[PDF p. 11]]
+En el caso “Clarín” la Corte Suprema se expidió sobre la constitucionalidad del régimen de
+multiplicidad de licencias dispuesto por la Ley Nº 26.522 y su aplicación a las licencias vigentes.
+Los derechos constitucionales en juego eran la libertad de expresión y el derecho de propiedad
+que se veían afectados por la obligación de desprenderse forzadamente de numerosas
+licencias de radiodifusión y señales de programación.
+
+El voto de los Drs. Higthon de Nolasco y Lorenzetti hace hincapié en las distintas formas que el
+estado puede elegir para garantizar la libertad de expresión en su faz colectiva y evalúa si la
+normativa cuestionada afecta la libertad de expresión de Grupo Clarín siguiendo los criterios
+utilizados en el caso “Río Negro”. Afirma que la faz colectiva de la libertad de expresión exige
+una protección activa por parte del Estado y que éste puede optar por la forma que estime
+adecuada para promover las oportunidades reales de expresión y robustecer el debate
+público. Esta última afirmación demuestra que aunque en el caso estaba en juego una libertad
+preferida como lo es la libertad de expresión la Corte no aplicó el escrutinio estricto porque no
+evaluó si el medio utilizado por el legislador era el necesario y el menos restrictivo de los
+derechos en juego. La circunstancia de que a diferencia del caso “Río Negro” no se estaba
+frente a una discriminación sino ante una norma general fue el motivo esgrimido para no
+aplicar el escrutinio estricto, ello más allá de que estaba en juego la libertad de expresión.
+
+El voto sostiene que si bien se había probado que la ley causaba perjuicios económicos al
+Grupo Clarín no se habría demostrado que estaba en juego su sustentabilidad por lo que no se
+encontraría afectada su libertad de expresión. La circunstancia de que el régimen legal en
+cuestión obliga al Grupo Clarín a desprenderse de licencias y señales a través de los cuales
+ejerce su libertad de expresión ni siquiera fue considerada como una limitación a esa libertad
+preferida. Cabe destacar que Grupo Clarín se encontraba obligado a desprenderse de Canal 13
+o Cablevisión en la Ciudad de Buenos Aires, lo mismo sucede con otros canales de televisión
+abierta en el interior del país, y a transferir a terceros varias señales de programación. Fuera
+de la referencia a que no estaría en juego su sustentabilidad económica el fallo no evaluó el
+impacto de la ley en la libertad de expresión en su faz individual del Grupo Clarín. Tampoco
+evaluó si la obligación de desprenderse de esos medios de comunicación era un medio
+razonable, proporcionado y necesario para conseguir el fin buscado por el legislador.
+
+El único análisis de razonabilidad que hizo el voto es si el régimen de licencias resulta
+adecuado para obtener el fin buscado por el legislador. Dicho análisis fue efectuado en
+abstracto sin analizar cómo el mismo impactaba en los medios del Grupo Clarín y si ese
+impacto afectaba o no la libertad de expresión.
+
+Por último, con relación a los derechos de propiedad el voto se limitó a afirmar, sin ninguna
+evidencia que lo justifique, que las restricciones patrimoniales que causa la ley no son
+desproporcionadas frente al peso institucional de los objetivos de la ley. Respecto de los
+derechos adquiridos sostuvo que los mismos son susceptibles de modificación porque de lo
+contrario implicaría sobreponer el interés privado de un particular por encima del interés de la
+comunidad a pesar de que considera que las licencias integran el concepto constitucional de
+propiedad. Para resolver esta inconsistencia sostuvo que el menoscabo económico podría ser
+indemnizado para restaurar la garantía constitucional vulnerada de la inviolabilidad de la
+propiedad. En otras palabras, considera que el derecho de propiedad puede ser vulnerado sin
+ninguna limitación siempre y cuando se indemnice el daño causado por la “responsabilidad del
+Estado por su actividad lícita”. Adicionalmente el voto confunde el concepto de derecho
+adquirido con el derecho al mantenimiento de las leyes al reconocer que la ley se aplica
+retroactivamente. En este punto el voto desconoce que no estamos frente a un problema de
+cambio de leyes sino de aplicación retroactiva de la ley que vulnera derechos adquiridos.
+
+[[PDF p. 12]]
+El voto del Dr. Petracchi parte de la premisa que el mercado de servicios audiovisuales se
+encuentra altamente concentrado y que ello afecta la diversidad y el pluralismo de voces. Esta
+premisa es aceptada sin evidencia empírica que la avale tanto en lo que respecta a la
+concentración como a la afectación del pluralismo. Sobre la base de esta premisa considera
+que las limitaciones a la propiedad de los medios se encuentran adecuadamente justificadas.
+En lo que respecta al principio de razonabilidad el voto expresa que el control de
+constitucionalidad no consiste en examinar el mérito de los medios utilizados por el legislador
+ni si la ley se adecua a los avances tecnológicos o si es obsoleta o inconveniente. En este punto
+el voto desconoce palmariamente el principio de razonabilidad que exige determinar si los
+medios utilizados por el legislador son útiles, proporcionados y necesarios para lograr el fin
+buscado.
+
+La interpretación del principio de razonabilidad efectuada en el caso “Clarín” contrasta con la
+sostenida por la misma Corte en el caso “Diócesis de San Martín” en la que se discutió la
+constitucionalidad de la ley de farmacias de la provincia de Buenos Aires que prohíbe a
+personas que no sean farmacéuticos a ser propietaria de farmacias. En este caso la Corte,
+adhiriendo al dictamen del procurador fiscal, dispuso la inconstitucionalidad de la norma
+sosteniendo que la restricción debía sustentarse en una cuidadosa prueba de los fines que
+habían intentado resguardarse y sobre los medios utilizados al efecto. En este caso el control
+de razonabilidad fue estricto y la Corte sostuvo que los fines buscados deben ser sustanciales y
+no meramente convenientes y, con relación a los medios, que es insuficiente una genérica
+adecuación a los fines sino que debe juzgarse si los promueven efectivamente y si no existen
+otras alternativas menos restrictivas para los derechos en juego que las impuestas por la
+regulación cuestionada.
+
+Por último, en el fallo “ADEBA”, dictado en el marco del tratamiento de una medida cautelar
+con posterioridad al fallo “Clarín”, la Corte sostuvo que las empresas periodísticas ejercen
+funciones de interés social por lo que toda medida proveniente del Estado que no supere el
+examen de razonabilidad más estricto debe ser rechazada.
+
+VII. Tomarse los derechos en serio como postulaba Dworkin implica tomarse en serio la
+limitación dispuesta en el Art. 28 de la Constitución Nacional. La plena vigencia del principio
+que establece que los derechos constitucionales no pueden ser alterados por las leyes que
+reglamentan su ejercicio exige contar con un estándar o criterio para establecer cuando son
+alterados. En nuestro derecho constitucional el principio de razonabilidad constituye el
+estándar utilizado para determinar si las leyes alteran los derechos constitucionales.
+
+Dado que la proporcionalidad entre medios y fines es la medida de la razonabilidad la
+aplicación de este principio no puede efectuarse desvinculada de la realidad social y los
+presupuestos fácticos del caso. No debe confundirse la protección genuina de los derechos con
+declamaciones sobre éstos. Los test o escrutinios del principio de razonabilidad permiten que
+la determinación del alcance de los derechos constitucionales no sea una cuestión puramente
+de análisis normativo sino que se vincule directamente con lo que ocurre en la realidad de los
+hechos. La evaluación seria de la adecuación de los medios utilizados con los fines buscados
+exige partir de lo que sucede en la realidad social, analizar las relaciones de causalidad en
+juego y ponderar la efectividad de los medios utilizados para conseguir el fin buscado.
+Asimismo, cuando estamos frente a derechos fundamentales, demostrar que el medio
+utilizado es el más eficiente y que no existan otros que logren el mismo resultado sin restringir
+derechos.
+
+[[PDF p. 13]]
+Tanto el legislador como la Corte Suprema han generalmente obviado este tipo de
+evaluaciones. Los análisis de las relaciones de causalidad involucradas, las cuestiones empíricas
+o técnicas y las consecuencias prácticas esperables de la norma en cuestión resultan muchas
+veces ajenas al debate legislativo y al control de constitucionalidad. La falta de rigor en estas
+evaluaciones puede permitir que los derechos constitucionales terminen siendo restringidos
+mediante leyes inconducentes o inadecuadas para promover el fin buscado. La excepción
+encomiable de la jurisprudencia de la Corte se ha dado los casos de discriminación en los que
+ha aplicado el escrutinio estricto. El problema no reside en lo que la Corte decide sino en la
+estructura del razonamiento que utiliza para decidir. En la medida en que se obvie la
+evaluación seria de los test exigidos por el principio de razonabilidad será difícil construir una
+tradición constitucional coherente y previsible.

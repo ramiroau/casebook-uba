@@ -1,0 +1,1952 @@
+# fuente: Unidad16/2_Treacy - 2011 - Categorías sospechosas y control de constitucional.pdf
+# modo: texto
+# origen: copia de corpus/texto/treacy2011.txt (texto nativo, nivel A), sin cambios
+# paginacion: impresa = PDF + 180 (Lecciones y Ensayos 89, pp. 181-216)
+# limpieza: encabezados, pies, notas al pie y llamadas de nota en extractos/limpieza/treacy2011.txt
+
+[[PDF p. 1]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                                          181
+
+
+
+
+                                Categorías sospechosas y control
+                                     de constitucionalidad
+
+                                                                                                           Guillermo F. Treacy*
+
+
+                       Resumen: El trabajo se refiere a los criterios utilizados por la CSJN en los casos en
+                       los que se interpreta el derecho de igualdad, mostrando las reglas que subyacen en la
+                       jurisprudencia de nuestro alto tribunal. Para ello, el autor aborda los distintos tipos de
+                       análisis de constitucionalidad que se han aplicado y sus diversos grados de intensidad.
+                       Afirma que la consagración constitucional del derecho de igualdad y la incorporación
+                       de los tratados internacionales sobre derechos humanos permiten sostener criterios
+                       de análisis más exigentes en los casos en que existe una transgresión a este derecho.
+                       El autor examina las denominadas categorías sospechosas y, en particular, se refiere
+                       a los casos judiciales relativos al tratamiento desigual de los extranjeros frente a los
+                       nacionales, con el fin de demostrar cómo el escrutinio estricto constituye un método de
+                       análisis que garantiza la efectiva realización del derecho de igualdad.
+
+                       Palabras clave: Derecho de igualdad – Análisis de constitucionalidad – Principio de
+                       razonabilidad – Escrutinio estricto – Categorías sospechosas
+
+                       Abstract: This work refers to the criteria applied by the Argentine Supreme Court of
+                       Justice in cases in which the right to equality is at stake and shows the rules underlying
+                       the current case law. To that effect, the author considers the different methods of cons-
+                       titutional analysis that have been used, each of which has a different degree of intensi-
+                       ty. According to the author, the constitutional position of the right to equality and the
+                       incorporation of Human Rights treaties allow courts to apply a more intense level of
+                       scrutiny when there is an allegation that this right has been violated. He also refers to
+                       the so called suspect categories and focuses on the case law dealing with situations of
+                       unequal treatment towards aliens, in order to show how the strict scrutiny method of
+                       analysis can ensure the effective enforcement of this right.
+
+                       Key words: Right to equality – Judicial review – Rational basis test – Strict scrutiny
+                       test – Suspect categories
+
+
+
+
+               *
+                Profesor Adjunto regular de Derecho Constitucional (Facultad de Derecho-UBA). Master
+               of Laws (Harvard Law School). Abogado Especialista en Derecho Administrativo y
+               Administración Pública (Facultad de Derecho-UBA).
+
+
+
+
+Lecciones y ensayos 89.indd 181                                                                                              22/03/2013 14:34:03
+
+[[PDF p. 2]]
+               182                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               I. Introducción
+
+                     El propósito de este trabajo es reconstruir algunas reglas utilizadas por la Cor-
+               te Suprema de Justicia de la Nación en casos en los que aparece en juego el derecho
+               constitucional de igualdad y examinar sus modalidades de aplicación.
+                     En buena medida, puede sostenerse que la igualdad ocupa un papel transversal
+               en relación con otros derechos, de modo que los casos que examinaremos a menudo
+               no presentan la igualdad en estado “puro”, sino vinculada con otros derechos. En
+               cierto modo la Ley Antidiscriminatoria N° 23.592 recoge esta idea, al referirse en
+               su artículo 1° al “pleno ejercicio sobre bases igualitarias de los derechos y garan-
+               tías fundamentales reconocidos en la Constitución”, para luego referirse a ciertos
+               motivos especialmente prohibidos de discriminación. Es decir, los casos jurispru-
+               denciales a menudo presentan al derecho de igualdad junto a otros derechos, cuyo
+               ejercicio se ve amenazado o lesionado por conductas del Estado o de particulares.
+                     La Constitución Nacional ha consagrado este derecho bajo diferentes mani-
+               festaciones (igualdad ante la ley, prohibición de fueros personales, igualdad entre
+               nacionales y extranjeros, etc.). Tal consagración se ha visto enriquecida con la in-
+               corporación de instrumentos internacionales de derechos humanos (art. 75 inc. 22
+               CN), que, con diversas formulaciones, permiten sostener criterios más exigentes de
+               análisis en casos en que se alega una violación de este derecho.
+                     En lo que sigue, examinaremos la formulación del derecho en el plano cons-
+               titucional y el abordaje que se ha hecho de él por parte de los tribunales, mostrando
+               los distintos tipos de análisis que ha empleado la Corte Suprema de Justicia de la
+               Nación para decidir cuándo se verifica una transgresión del derecho de igualdad
+               constitucional. Al respecto se observa que, partir de una situación de trato desigual
+               concreto (la de los extranjeros, frente a los nacionales), la Corte ha elaborado –o,
+               tal vez, adaptado–1 un método de análisis más estricto (o intenso) que permite una
+               protección más eficaz de los grupos vulnerables dentro de la sociedad.2 Sobre esa
+               base intentaremos reconstruir tales métodos de análisis y examinar algunas de sus
+
+
+
+               1. En rigor, la jurisprudencia de la Corte Suprema de EE.UU. reconoce un tipo de análisis que
+               denomina “escrutinio estricto”, elaborado a partir de la interpretación de la Enmienda XIV de la
+               Constitución de aquel país, que consagra la “igual protección de las leyes”. El análisis aplicado
+               por la Corte argentina presenta similitudes con este último. Sin embargo, en el caso “Hooft” se
+               menciona como antecedente a la jurisprudencia europea relativa a la interpretación del artículo 14
+               del Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales,
+               suscripto bajo los auspicios del Consejo de Europa.
+               2. En rigor, los problemas derivados de la discriminación exceden de un abordaje exclusivamente
+               jurídico; a menudo están involucrados prejuicios y estereotipos difíciles de erradicar. Sin embargo,
+               el Derecho puede, aun con limitaciones, aportar mecanismos para avanzar en la construcción de
+               una sociedad igualitaria.
+
+
+
+
+Lecciones y ensayos 89.indd 182                                                                                                     22/03/2013 14:34:03
+
+[[PDF p. 3]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           183
+
+
+
+               implicancias y problemas, a la luz de los desafíos que presenta la efectiva realiza-
+               ción del derecho de igualdad.
+
+
+               II. El derecho de igualdad en el bloque de constitucionalidad federal
+
+                      El artículo 16 de la Constitución Nacional consagra un principio general: “to-
+               dos son iguales ante la ley”. Teniendo en cuenta la doctrina de la Corte Suprema, el
+               principio puede formularse del siguiente modo: la ley debe ser para los iguales en
+               igualdad de circunstancias.3 La cuestión, así planteada, obliga a ciertas disquisicio-
+               nes en torno a los alcances de este derecho: ¿quiénes son “iguales”? ¿cuándo se ve-
+               rifica una “igualdad de circunstancias”?4 La elaboración de un estándar de análisis
+               de constitucionalidad claro es importante, ya que siempre es posible encontrar una
+               diferencia fáctica entre personas o entre situaciones. De este modo, si se aceptara
+               cualquier justificación –sin tomar en cuenta la relevancia de la distinción–, podría
+               vaciarse de contenido el derecho de igualdad. Ello conduce el problema a establecer
+               cuándo una distinción es relevante.
+                      Antes de ingresar a los diferentes estándares de análisis de constitucionalidad
+               en esta materia, conviene referirse a las normas, tanto de fuente interna como inter-
+               nacional, que se refieren al derecho de igualdad.
+                      Además del mencionado artículo 16 de la Ley Fundamental, el derecho in-
+               ternacional de los derechos humanos ha profundizado los alcances del principio de
+               igualdad y no discriminación. Tales desarrollos son insoslayables en nuestro derecho
+               interno, atento a la jerarquía constitucional que poseen los principales instrumentos
+               de derechos humanos (art. 75 inc. 22 segundo párrafo CN). En tal sentido merecen
+               mencionarse la Declaración Americana de Derechos y Deberes del Hombre (art. II),
+               la Declaración Universal de Derechos Humanos (arts. 2° y 7°); el Pacto Internacio-
+               nal de Derechos Civiles y Políticos (arts. 2.1 y 26), el Pacto Internacional de Dere-
+               chos Económicos, Sociales y Culturales (arts. 2° y 3°) y la Convención Americana
+               sobre Derechos Humanos (arts. 1.1 y 24). Además, tienen pertinencia para este tema
+               una serie de instrumentos que abordan la problemática en campos específicos, como
+               la Convención sobre la Eliminación de todas las Formas de Discriminación Racial;
+               la Convención sobre la Eliminación de todas las Formas de Discriminación contra
+               la Mujer (arts. 2°, 3°, 5° a 16) y la Convención sobre los Derechos del Niño (art.
+               2°). Otros instrumentos internacionales, de jerarquía supralegal en virtud del artí-
+
+
+
+               3. GELLI, María Angélica, Constitución de la Nación Argentina. Comentada y concordada, Tomo
+               I, Buenos Aires, La Ley, pág. 232.
+               4. Ver BOBBIO, Norberto, Igualdad y libertad, Barcelona, Paidós Ibérica, 1993, pp. 53-56, donde
+               aborda algunos problemas conceptuales en la caracterización general de la igualdad.
+
+
+
+
+Lecciones y ensayos 89.indd 183                                                                             22/03/2013 14:34:03
+
+[[PDF p. 4]]
+               184                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               culo 75 inciso 22 primer párrafo CN, también consagran este principio en ámbitos
+               específicos, tales como la Convención relativa a la Lucha contra la Discriminación
+               en la Esfera de la Enseñanza (adoptada bajo los auspicios de la UNESCO, 1960), el
+               Protocolo en Materia de Derechos Económicos, Sociales y Culturales Adicional a la
+               Convención Americana sobre Derechos Humanos (Protocolo de San Salvador; art.
+               3°), la Convención Internacional sobre la Represión y Castigo del Crimen de Apar-
+               theid (1973), la Convención Interamericana para Prevenir, Sancionar y Erradicar la
+               Violencia contra la Mujer (Convención de Belem do Pará, art. 6°.a) y la Convención
+               Interamericana para la Eliminación de todas las Formas de Discriminación contra
+               las Personas con Discapacidad.
+                      Sobre la base de este conjunto normativo, puede postularse el paso desde un
+               concepto formal de igualdad a un concepto material, entendida como la necesidad
+               de que el Estado adopte medidas tendientes a remover los obstáculos que impi-
+               dan de hecho la igualdad. El constituyente ha evolucionado desde una concepción
+               más formal, hacia una igualdad fáctica o real que obliga a tomar en cuenta los
+               condicionantes que impiden un efectivo goce de los derechos. Se puede así hablar
+               de un cambio en el paradigma, ya que la visión tradicional de la igualdad se ve
+               complementada (y a veces, en tensión) con otra más moderna que advierte que la
+               mera supresión de ciertos obstáculos normativos no se traduce necesariamente en
+               un resultado igualitario, sino que es necesario realizar acciones positivas a fin de
+               asegurar la igualdad real.
+                      En cuanto a la igualdad en sentido formal, la Corte Suprema ha empleado di-
+               versas fórmulas tendientes a caracterizarla. Así ha señalado: “La verdadera igualdad
+               consiste en aplicar la ley a los casos ocurrentes según las diferencias constitutivas
+               de ellos” (Fallos 16:118; 101:401; 123:106; 124:122; 126:280).
+
+                       “Es un derecho a que no se establezcan excepciones y privilegios que excluyan a unos
+                       de lo que se concede a otros en iguales circunstancias” (Fallos 124:122; 126:280;
+                       127:118; 151:359; 157:28; 184:592).
+
+                       “La garantía de igualdad no impide que se contemplen en forma distinta, situaciones
+                       que se consideran diferentes, siempre que la discriminación no sea arbitraria, ni res-
+                       ponda a un propósito de hostilidad contra determinada persona o grupo de personas, o
+                       importe indebido favor o privilegio personal o de grupo”.
+
+                       “La garantía del artículo 16 de la Constitución Nacional no impone una rígida igual-
+                       dad, pues entrega a la discreción y sabiduría del poder legislativo una amplia latitud
+                       para ordenar y agrupar, distinguiendo y clasificando los objetos de la legislación, siem-
+                       pre que las distinciones o clasificaciones se basen en diferencias razonables y no en
+                       propósitos de hostilidad contra determinadas clases o personas” (Fallos 315:1190).
+
+
+
+
+Lecciones y ensayos 89.indd 184                                                                                                      22/03/2013 14:34:03
+
+[[PDF p. 5]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           185
+
+
+
+                     Estas fórmulas han sido utilizadas a menudo en forma negativa, es decir, para
+               concluir que en el caso concreto no se verificaba una lesión al derecho de igualdad.
+               Sin embargo, la reforma constitucional de 1994 ha incorporado otras dimensiones
+               de este derecho, que obligan a superar la concepción formal de la igualdad. Ejemplo
+               de ello son disposiciones como la del artículo 75 inciso 23 CN, en tanto faculta al
+               Congreso a legislar en materia de medidas de acción positiva, identificando algunos
+               grupos desaventajados como posibles beneficiarios de este tipo de tutela (mujeres,
+               niños, ancianos, personas con discapacidad), o el artículo 43 segundo párrafo de
+               la Ley Fundamental, en tanto prevé la acción de amparo colectivo como vía para
+               remediar situaciones de discriminación. La jerarquización de este derecho a la no
+               discriminación patentiza un cambio de paradigma, en el sentido de que no se limita
+               a enfocar los problemas de igualdad desde el punto individual, sino que también
+               ofrece una base normativa para postular que el constituyente se ha interesado en las
+               situaciones de desigualdad estructural y en la necesidad de superarlas a través de
+               políticas adecuadas.
+                     Con sus limitaciones, el principio de razonabilidad permite hallar un límite a
+               cierto tipo de argumentaciones que, sobre la base de que las personas son desiguales
+               en alguna característica, intentan, por esa sola razón, justificar diferencias de trato
+               entre ellas. El análisis de mera razonabilidad –una de las formas que puede asumir
+               el análisis de razonabilidad– parece estar vinculado a este concepto de igualdad
+               formal, al menos en cuanto a que, debido a la deferencia al criterio del legislador,
+               muchas veces llevaba a justificar la distinción efectuada.
+                     Sin embargo, la Corte ha ido elaborando pautas de análisis algo más exigen-
+               tes, para establecer que determinadas categorías resultan incompatibles con la vi-
+               gencia igualitaria de los derechos. En general, se ha tratado de discriminaciones
+               de iure, esto es, explícitamente consagradas en las normas, ya que a criterio del
+               Alto Tribunal, la desigualdad debe provenir del texto mismo de la ley, y no de la
+               interpretación que le haya dado la autoridad encargada de hacerla cumplir (Fallos
+               294:87; entre otros).5
+
+
+               III. Un panorama de los tipos de análisis de constitucionalidad
+
+                    Frente al hecho de que el legislador (en sentido amplio) realiza distinciones,
+               colocando a las personas en diferente posición frente a la adquisición de un derecho,
+               una exención o una obligación, corresponde establecer cuándo tal distinción puede
+               superar el test de constitucionalidad. En tal sentido, el artículo 28 de la Constitu-
+
+
+
+               5. Esta regla tiene, sin embargo, algunas excepciones, cuyo análisis puede verse en: GARAY,
+               Alberto F., La igualdad ante la ley, Buenos Aires, Abeledo-Perrot, 1989, esp. Cap. III.
+
+
+
+
+Lecciones y ensayos 89.indd 185                                                                             22/03/2013 14:34:04
+
+[[PDF p. 6]]
+               186                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               ción Nacional consagra el principio de razonabilidad, que constituye un estándar
+               genérico para establecer cuándo una restricción a un derecho resulta compatible
+               con la Ley Fundamental. Con arreglo a este principio, los principios, garantías y
+               derechos constitucionales “no podrán ser alterados por las leyes que reglamenten
+               su ejercicio”.6
+                     Desde el punto de vista terminológico, cabe aclarar que, bajo la denominación
+               común de “razonabilidad” se pueden presentar diferentes tipos de análisis, que po-
+               seen diversos grados de intensidad o, si se prefiere, de deferencia hacia el criterio
+               del legislador y correlativamente, se coloca el peso de la argumentación en mayor
+               grado sobre el impugnante de la norma.
+                     En lo que sigue, procuraremos ver cómo funciona este estándar frente a deter-
+               minadas clasificaciones que realiza el legislador. Creemos que una suerte de “caso
+               testigo” lo ofrecen las normas en que, por alguna razón, el legislador ha dispensado
+               un tratamiento diferente a los nacionales y extranjeros, permitiendo a aquellos acce-
+               der a determinados derechos que deniega a estos. Del mismo modo nuestros tribu-
+               nales han abordado el caso de normas que distinguen según la forma de adquisición
+               de la ciudadanía, colocando en diferente posición a los argentinos nativos (o por
+               opción) y a los argentinos naturalizados. Más allá de estas clasificaciones, creemos
+               que el tipo de análisis realizado en esos casos se puede extender a otras situaciones,
+               aún no abordadas por la jurisprudencia.
+
+               III.a. El estándar débil de revisión judicial
+
+                     La Corte Suprema se ha referido tradicionalmente al control de razonabilidad,
+               que deben superar las normas cuando se controvierte su compatibilidad con la Ley
+               Fundamental. Un nivel de análisis (o escrutinio) judicial lo ofrece el llamado “test de
+               mera razonabilidad”. Sólo en épocas relativamente recientes la Corte ha denominado
+               de este modo a este análisis (mera razonabilidad), para contraponerlo a otro tipo de
+               examen más riguroso (o estricto o intensivo), que veremos en el siguiente apartado.
+
+
+
+               6. El principio, así enunciado, se refiere a la relación que debe existir entre los derechos
+               constitucionales y las leyes que los reglamentan. Una emanación del mismo principio aparece en
+               el artículo 99 inciso 2 CN, para referirse a la relación entre las leyes y los decretos reglamentarios,
+               en tanto establece que éstos deben dictarse “cuidando de no alterar su espíritu [el de las leyes]
+               con excepciones reglamentarias”. Por su parte, el elemento finalidad de los actos administrativos
+               (art. 7° inc. f) de la Ley Nacional de Procedimientos Administrativos permite realizar un control
+               de razonabilidad sobre éstos, en tanto establece que el acto debe cumplir “con la finalidad que
+               resulte de las normas que otorgan las facultades pertinentes al órgano emisor, sin poder perseguir
+               encubiertamente otros fines, públicos o privados, distintos de los que justifican el acto, su causa
+               y objeto. Las medidas que el acto involucre deben ser proporcionalmente adecuadas a aquella
+               finalidad” (lo destacado no es del original).
+
+
+
+
+Lecciones y ensayos 89.indd 186                                                                                                      22/03/2013 14:34:04
+
+[[PDF p. 7]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           187
+
+
+
+                     Como aproximación general, puede sostenerse que el test de mera razonabi-
+               lidad se caracteriza por la mayor deferencia de los tribunales hacia la validez de la
+               norma cuya constitucionalidad se cuestiona. El análisis puede presentarse a partir
+               de la dicotomía entre fines y medios: ambos elementos son valorados en principio
+               desde una perspectiva favorable al criterio del legislador.
+                     A fin de presentar una reconstrucción de esta regla, nos serviremos de la ar-
+               gumentación constitucional empleada por la mayoría del Alto Tribunal en el caso
+               “Cine Callao” de 1960 (Fallos 247:121). Cabe observar que el punto de partida es
+               la validez constitucional de la norma, presunción que puede ser revertida por el
+               impugnante.7 En otras palabras, este tipo de análisis exige que quien cuestione la va-
+               lidez constitucional de una norma acredite su irrazonabilidad, ya que, de otro modo,
+               prevalece la posición a favor de la validez de aquélla.8 Para ello “la repugnancia con
+               la cláusula constitucional que se invoca [debe ser] manifiesta y la incompatibilidad
+               inconciliable, debiendo resolverse cualquier duda a favor de la constitucionalidad,
+               máxime si ello es posible sin violación de los textos” (considerando XIII último
+               párrafo del fallo citado).
+                     Establecido ese punto de partida, veamos qué debe demostrar –o sobre qué
+               aspectos debe argumentar– quien cuestiona la constitucionalidad de la norma.
+                     El primer aspecto es el relativo a los fines de la ley (o, más ampliamente, de
+               la norma que se cuestiona). En el precedente analizado, el Alto Tribunal dio rele-
+               vancia al hecho de que, teniendo en cuenta la “naturaleza y propósitos que le dan
+               contenido”, la norma cuestionada perseguía un objeto “de carácter inequívocamente
+               público o general”, en contraposición con normas que persiguen “el provecho de
+               un grupo de personas obtenido merced al sacrificio patrimonial de otro grupo”.
+               Este fin se relaciona con los propósitos del poder de policía, en un sentido amplio:
+               puede comprender no sólo la seguridad, la moralidad y la salubridad pública, sino
+               también, la defensa y promoción de los intereses económicos de la colectividad.
+               Por consiguiente, en la evaluación de la razonabilidad de una norma, deben consi-
+               derarse en primer lugar los fines específicos perseguidos por ésta, los cuales deben
+               conectarse con los propósitos más generales que justifican el dictado de normas de
+               policía, que siempre serán fines de carácter público.
+
+
+
+               7. En el precedente mencionado, la Corte Suprema se refirió al principio de constitucionalidad de
+               las leyes, “lo que, naturalmente supone la de su razonabilidad” (considerando XIX). En el Derecho
+               Administrativo suele hablarse del principio de presunción de legitimidad del acto administrativo
+               (recogido por el art. 12 de la Ley Nacional de Procedimientos Administrativos), el cual es una
+               emanación del principio más general de presunción de validez de los actos estatales.
+               8. Así, se sostuvo que “[c]orrespondía al impugnante…evidenciar de modo concreto y categórico
+               la irrazonabilidad de la ley […] en su relación con las modalidades del caso; y de conformidad con
+               las consideraciones que anteceden, es obvio que no ha dado cumplimiento a ese deber procesal”
+               (considerando XX).
+
+
+
+
+Lecciones y ensayos 89.indd 187                                                                                22/03/2013 14:34:04
+
+[[PDF p. 8]]
+               188                                                                                  Lecciones y Ensayos, nro. 89, 2011
+                                            Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+                     El otro aspecto del análisis de mera razonabilidad se vincula con los medios
+               elegidos por el legislador para alcanzar el fin perseguido. En el caso, la Corte consi-
+               deró que cuando se trata del desarrollo del país –un fin permisible bajo la óptica del
+               artículo 67 inciso 16 (actual art. 75 inc. 19) CN–, el legislador está habilitado para
+               elegir los “recursos o técnicas” que resulten aptos para impulsarlos, dentro de los
+               límites constitucionales. La Corte expresa que las restricciones a los derechos (esto
+               es, los medios escogidos por el legislador) deben ser adecuadas a las necesidades y
+               fines públicos que las justifican, de manera que no aparezcan infundadas o arbitra-
+               rias. Es decir, la aptitud o idoneidad de los medios para alcanzar el fin perseguido
+               constituye un aspecto a considerar en este análisis.
+                     Ahora bien, existen algunos lineamientos para evaluar esa aptitud. Por un
+               lado, está la afirmación de que los medios deben ser adoptados “con sujeción a
+               los límites fijados por la propia Constitución” (considerando VIII). Por lo tanto,
+               un requisito que, aunque evidente, no puede omitirse, es que los medios no estén
+               prohibidos por la Ley Fundamental.
+                     En este orden de ideas, uno de esos límites constitucionales consiste en la no
+               afectación de la sustancia de los derechos en juego (considerando XIV), recaudo
+               que puede conectarse con la “prohibición de alterar” los derechos por medio de su
+               reglamentación (art. 28 CN) o, en el caso de los reglamentos, de “alterar el espíritu”
+               de las leyes al reglamentarlas (art. 99 inc. 2 CN). Posiblemente, la alteración más
+               grave, en cuyo caso no habría dudas de su irrazonabilidad, sería el caso en que la
+               restricción tiene tal entidad que equivale a la supresión de un derecho.9
+                     Señalado ello, aparece una limitación, ya no dirigida al legislador, sino a los
+               tribunales y radica en que en este juicio de aptitud (del medio para alcanzar el fin
+               perseguido) “el análisis del mérito o eficacia de los medios arbitrados para alcanzar
+               los fines propuestos, la cuestión de saber si debieron elegirse los de la ley […] u
+               otros procedimientos, son ajenos a la competencia de esta Corte, a la que sólo in-
+               cumbe pronunciarse acerca de la razonabilidad de los medios elegidos por el Con-
+               greso, es decir, que sólo debe examinar si son o no proporcionados a los fines que
+               el legislador se propuso conseguir y en consecuencia decidir si es o no admisible
+               la consiguiente restricción de los derechos individuales afectados” (considerando
+               XIII; lo destacado no es del original).
+                     Esta última precisión es importante, dado que en principio parece excluir del
+               análisis de los tribunales la cuestión de si podrían existir medios alternativos, me-
+               nos restrictivos del derecho, para alcanzar los fines perseguidos. En efecto, la Corte
+
+
+               9. Esta idea queda ejemplificada con el temperamento adoptado en materia de restricciones a
+               derechos en situaciones de emergencia: una postergación en el tiempo del ejercicio de un derecho
+               no resulta inconstitucional (siempre que se verifique una efectiva situación de emergencia) (v.
+               gr., “Avico c/ De la Pesa”, Fallos 172:21; “Iachemet c/ Armada Argentina”, Fallos 316:779; entre
+               muchos otros).
+
+
+
+
+Lecciones y ensayos 89.indd 188                                                                                                    22/03/2013 14:34:04
+
+[[PDF p. 9]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                             189
+
+
+
+               hace referencia a que “la cuestión de saber si debieron elegirse los [medios] de la
+               ley […] u otros procedimientos” es ajena a la competencia judicial. Más adelante,
+               expresa que “el tribunal nunca ha entendido que pueda sustituir su criterio de con-
+               veniencia o eficacia económica o social al del Congreso de la Nación, para pronun-
+               ciarse sobre la validez constitucional de las leyes”. Precisamente esta prescindencia
+               del análisis respecto de la posible existencia de otros medios alternativos, lleva
+               a que resulten tolerables categorías sobreinclusivas y subinclusivas: el análisis de
+               mera razonabilidad no permite descartar supuestos en que la categoría establecida
+               por el legislador abarca más casos de los que debería o menos, ya que puede tratarse
+               de razonables opciones legislativas.10 En casos en que se aducía una violación del
+               derecho de igualdad, la Corte recordó su doctrina tradicional, señalando que tal
+               garantía “no resulta afectada cuando se confiere un trato diferente a personas que se
+               encuentran en situaciones distintas, con tal que la discriminación no sea arbitraria
+               u obedezca a razones de indebido privilegio de personas o grupos de personas o
+               se traduzca en ilegítima persecución, aunque su fundamento sea opinable” (Fallos
+               315:135; 323:2054; 329:5567; entre muchos otros; lo destacado no es del original).
+               Ello significa que la configuración de la categoría por parte del legislador no nece-
+               sita ser, al menos bajo este estándar de análisis, estrictamente ajustada a la situación
+               fáctica. Quien alega haber sido excluido de una categoría debería acreditar sus cir-
+               cunstancias de una manera que vaya más allá de lo meramente opinable.
+                      Las consideraciones precedentes, que se extraen del precedente “Cine Callao”
+               representan una formulación clásica y creemos que, en general, es válida respecto
+               de aquellos casos en que se alega una restricción de derechos de contenido eco-
+               nómico. En efecto, la Corte parece ser más deferente hacia la validez de normas
+               que “regulan trabajos, comercios o industrias con fines de policía” –como las que
+               estaban en juego en dicho precedente– o de las que establecen impuestos o tasas (v.
+               considerando XIII, primer párrafo).
+                      Posiblemente, el análisis exhiba una mayor intensidad, en cuanto a la eva-
+               luación de medios alternativos, cuando los derechos que están en juego no son de
+               naturaleza económica (v.gr. derecho de enseñar y aprender, derecho a la igualdad,
+
+
+
+               10. Un ejemplo es aquél en que se establecen requisitos mínimos de edad: v. gr. para obtener la
+               licencia para conducir vehículos o para el derecho de voto. Aun cuando una persona menor de esas
+               edades pudiera demostrar la aptitud suficiente, el legislador puede (creemos) válidamente establecer
+               esas edades, en la medida en que no se frustra el derecho, sino que importa una postergación
+               temporal, cuya arbitrariedad no parece manifiesta. Una situación semejante se verifica cuando
+               una norma impositiva distingue contribuyentes desde el punto de vista de sus ingresos, a fin de
+               determinar las distintas alícuotas. El límite entre una categoría de ingresos y otra no siempre será
+               justificable con precisión, pero quien alegue su inconstitucionalidad deberá argumentar que la
+               distinción adolece de algún tipo de arbitrariedad manifiesta, ya que de otro modo prevalecerá la
+               presunción favorable a su validez.
+
+
+
+
+Lecciones y ensayos 89.indd 189                                                                                  22/03/2013 14:34:04
+
+[[PDF p. 10]]
+               190                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               derechos derivados de la autonomía personal), los tribunales aparecen más dispues-
+               tos a revisar si los medios realmente guardan conexión con los fines perseguidos por
+               el legislador, y si existen otras alternativas.11
+                      A la luz de lo expuesto, podemos sistematizar el análisis de mera razonabili-
+               dad, señalando que la argumentación debe versar sobre los siguientes aspectos: a)
+               fines compatibles con la Constitución; b) medios que sean: b1) adecuados: es decir,
+               aptos o idóneos para el fin (sin evaluar medios alternativos) y b2) proporcionales:
+               es decir, que no desnaturalicen el derecho, debido a la intensidad de la restricción.
+               De este modo, en esta reconstrucción del análisis, podemos decir que la adecua-
+               ción apunta a un aspecto cualitativo (aunque de alcances limitados), mientras que
+               la proporción se refiere a un aspecto cuantitativo (la medida en que se restringe el
+               derecho).12 Por último, cabe señalar que el análisis de mera razonabilidad involucra
+               una regla epistémica: en caso de que, al final del proceso argumentativo, subsistan
+               las dudas, debe estarse a favor de la validez constitucional de la norma cuestionada.
+                      Aunque otros fallos pueden aportar algunas precisiones, la descripción prece-
+               dente es suficiente a nuestros fines. Más adelante veremos el funcionamiento de este
+               examen en relación con el derecho de igualdad constitucional que fueron abordados
+               desde esta óptica.
+
+               III.b. Un estándar exigente de revisión judicial
+
+                     La Corte Suprema de Justicia de la Nación ha venido desarrollando un están-
+               dar de revisión exigente cuando el derecho en juego es el derecho de igualdad y las
+               personas son tratadas de manera desigual a partir de determinadas características.
+               Aunque los precedentes se refieren a la garantía de igualdad, se trata de un criterio
+               de análisis en evolución, con lo que cabe plantearse la posibilidad de extensión de
+               este análisis a otras hipótesis que involucran la restricción de derechos.13
+
+
+
+               11. Veamos algunos ejemplos. En el caso “Bazterrica” (Fallos 308:1412) la Corte sostuvo que
+               existían medios alternativos a la criminalización de la tenencia de estupefacientes para consumo
+               personal (como lo son los tratamientos de rehabilitación), con el fin de tutelar la salud pública,
+               sin vulnerar el principio de autonomía personal; en “Dessy” (Fallos 318:1894) se declaró
+               inconstitucional la ley penitenciaria entonces vigente, en tanto los medios cuestionados (la censura
+               de correspondencia de las personas detenidas) no guardaba una vinculación razonable con los
+               objetivos perseguidos por la ley (la seguridad de los internos y su readaptación social).
+               12. Optamos por diferenciar de este modo la adecuación, por un lado, y la proporción por otro,
+               aunque en el considerando XIV parece mezclar ambos conceptos, al referirse a “la adecuación de las
+               restricciones que se les impone [a los derechos] a las necesidades y fines públicos que los justifican,
+               de manera que no aparezcan infundadas o arbitrarias, sino razonables, esto es, proporcionadas a las
+               circunstancias que las originan y a los fines que se procura alcanzar con ellas”.
+               13. En el caso “Massa” (Fallos 329:5913) la ministra Argibay desarrolla un criterio semejante
+
+
+
+
+Lecciones y ensayos 89.indd 190                                                                                                      22/03/2013 14:34:04
+
+[[PDF p. 11]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                                191
+
+
+
+               III.b.1.- El nacimiento del test
+
+                     Si bien podrían hallarse antecedentes en la jurisprudencia de la Corte Suprema
+               de los Estados Unidos, este estándar de análisis se ha venido desarrollando en al-
+               gunos casos de la Corte argentina con matices propios, particularmente en casos en
+               que las personas recibían un trato desigual en virtud de su origen nacional.14
+                     El primer antecedente lo hallamos en un voto en concurrencia emitido por los
+               ministros Petracchi y Bacqué en el precedente de Fallos 311:2272.15 En esa oportu-
+               nidad se estableció que “ante los categóricos términos del art. 20 de la Constitución
+               Nacional (…) toda distinción entre nacionales y extranjeros, en lo que respecta al
+               goce de los derechos reconocidos en la Ley Fundamental, se halla afectada por una
+               presunción de inconstitucionalidad”. Sobre esa premisa, en este voto se señaló que
+               “aquél que sostenga la legitimidad de la citada distinción debe acreditar la exis-
+               tencia de un ‘interés estatal urgente’ para justificar aquélla, y no es suficiente, a tal
+               efecto, que la medida adoptada sea ‘razonable’” (considerando 7°).
+
+
+
+
+               cuando se trata de evaluar la validez constitucional de un decreto de necesidad y urgencia. Al
+               respecto, sostuvo que la prohibición de emitir disposiciones de carácter legislativo (contenida en
+               el art. 99 inc. 3 primer párrafo CN) importa que “[c]ualquier disposición de carácter legislativo
+               emitida por el Poder Ejecutivo debe reputarse prima facie inconstitucional, presunción esta que
+               sólo puede ser abatida por quien demuestre que se han reunido las condiciones para aplicar la única
+               excepción admitida en la Constitución a la prohibición general antes sentada, a saber, la descripta
+               en los dos párrafos siguientes del art. 99 inc. 3 […]” (considerando 3 del voto mencionado).
+               14. Bajo esta categoría se podrían englobar dos grupos de casos: a) aquellos en que la norma daba
+               un trato desigual a ciudadanos argentinos y a extranjeros; y b) aquéllos en que se distinguía entre
+               argentinos nativos (o por opción), por un lado, y argentinos naturalizados, por el otro.
+               15. In re “Repetto, Inés María c/ Buenos Aires, provincia de s/ inconstitucionalidad de normas
+               legales”, del 8/11/1988. En el caso se debatía la validez constitucional (en particular, frente al art.
+               20 CN) de una norma provincial que ponía como requisito la nacionalidad argentina para acceder
+               a un cargo docente en la enseñanza preescolar en un instituto particular.
+
+
+
+
+Lecciones y ensayos 89.indd 191                                                                                     22/03/2013 14:34:04
+
+[[PDF p. 12]]
+               192                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+                     Este voto pone de relieve el nacimiento de un tipo de test de razonabilidad
+               distinto del que venía aplicando la Corte argentina. Al menos, aquí aparece en forma
+               explícita la contraposición entre dos tipos de análisis: uno, en el que se presume la
+               inconstitucionalidad de la norma y otro, en el que no rige tal presunción y exami-
+               na, simplemente, la razonabilidad de la medida cuestionada. Respecto del “nuevo”
+               estándar, no se explicita en el voto en qué casos se considera que existe un “interés
+               estatal urgente”, o “interés estatal insoslayable”, como se lo denomina en otra parte
+               del voto.16 Este tipo de examen resulta comparable al que en la jurisprudencia nor-
+               teamericana se denomina “escrutinio estricto”.17
+
+
+
+
+               16. Dicha expresión es una traducción literal de la expresión “compelling (u overriding) state
+               interest”, que emplea la jurisprudencia norteamericana al referirse al escrutinio estricto. En cuanto
+               al voto suscripto por los ministros Caballero y Belluscio, cabe señalar que había llegado a una
+               conclusión similar, pero parte de un análisis distinto (el de razonabilidad). En el considerando
+               5°) de ese voto, tras reconocer el principio de que los derechos constitucionales (entre ellos, el
+               desempeño por parte de los extranjeros de su empleo, industria o profesión, contemplado en el art.
+               20 CN) no son absolutos, sino susceptibles de reglamentación, se señala que “esa reglamentación,
+               en lo que hace a los derechos civiles, no puede ser dictada, reglamentando entre argentinos y
+               extranjeros, pues entonces no constituiría un ejercicio legítimo de la facultad reglamentaria,
+               porque entraría en pugna con una norma de igual rango que la reglamentada, y no puede constituir
+               criterio interpretativo válido el de anular unas normas constitucionales por aplicación de otras, sino
+               que debe analizarse el conjunto como un todo armónico, dentro del cual cada disposición ha de
+               interpretarse de acuerdo con el contenido de las demás [citas omitidas]. En efecto, si se prohibiese
+               a los extranjeros el ejercicio el derecho a enseñar –no sólo en el ámbito estatal, sino también en
+               el de la privada– ese derecho, o sea, el ejercicio de la profesión de maestro, les estaría totalmente
+               vedado, lo que implicaría privar de todo efecto al art. 20 de la Constitución en cuanto les asegura
+               los mismos derechos civiles que a los argentinos, y, en el caso, el ejercicio de la profesión de
+               maestra con título reconocido por la autoridad competente”. En los términos expuestos en el punto
+               anterior, puede decirse que este voto considera que la restricción cuestionada era irrazonable por
+               ser desproporcionada, al privar de contenido el derecho asegurado por el art. 20 CN.
+               17. En “Korematsu v. United States” 323 US 214 (1944), la Corte norteamericana aplicó este tipo
+               de análisis en un caso vinculado con clasificaciones basadas en la raza y el origen nacional (se
+               trataba de la reubicación de personas de origen japonés en otros centros durante la Segunda Guerra
+               Mundial). Paradójicamente, se concluyó que la medida cuestionada era constitucional, aunque
+               la formulación de principio parecía sugerir una respuesta diferente: “Todas las restricciones que
+               retacean los derechos civiles de un grupo racial son inmediatamente sospechosas. Eso no significa
+               que todas ellas sean inconstitucionales. Significa que los tribunales deben someterlas al escrutinio
+               más estricto. Una necesidad pública imperiosa puede a veces justificar la existencia de tales
+               restricciones; el antagonismo racial nunca puede justificarlas”.
+
+
+
+
+Lecciones y ensayos 89.indd 192                                                                                                      22/03/2013 14:34:04
+
+[[PDF p. 13]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                              193
+
+
+
+               III.b.2.- El desarrollo del análisis estricto de constitucionalidad
+
+                     La Corte argentina tuvo oportunidad de revisitar este test, al aplicarlo, en dife-
+               rentes composiciones del tribunal, a otros casos en que estaba en juego el derecho de
+               igualdad. Paulatinamente ha ido estableciendo los elementos que debe justificar quien
+               defiende la constitucionalidad de una norma (se trate de una ley o cualquier otro tipo
+               de norma general18). Antes de explicar el funcionamiento del análisis, conviene refe-
+               renciar los casos en que la Corte ha venido haciendo aplicación de este tipo de examen.
+                     El primer caso posterior a “Repetto” donde se aplicó un examen más estricto de
+               constitucionalidad es “Calvo y Pesini”19 en que se confrontó la validez constitucional
+               de una norma provincial que exigía la nacionalidad argentina para ingresar a trabajar
+               como psicóloga en un hospital público de la provincia de Córdoba. Aquí el Alto Tribu-
+               nal consideró que la restricción era inconstitucional, en tanto la provincia demandada
+               no había dado una “justificación suficiente” de la restricción contenida en la ley. En
+               cambio, se advirtió que la provincia se había “limitado a una dogmática afirmación de
+               su postura que excluye la acreditación de su razonabilidad o del interés estatal que la
+               ampare” (considerando 9°). De ello se infiere que quien está interesado en defender
+               la constitucionalidad de la medida debía acreditar su razonabilidad o bien el interés
+               estatal que la justificaba. Hasta ese momento el Tribunal no proporcionó más detalles
+               acerca del nuevo test, aunque era claro que se estaba dejando de lado la habitual pre-
+               sunción de constitucionalidad.
+                     En “Hooft”20 se cuestionaba una norma de la Constitución de la provincia de
+               Buenos Aires que establecía que, para ser juez de cámara, era necesario ser ciudada-
+               no argentino, nativo o por opción, excluyendo de este modo a los naturalizados. La
+               posición mayoritaria de la Corte fue la de exigir una “justificación suficiente” a la
+               provincia, que tampoco cumplió dicha carga en este caso. En esta oportunidad, pro-
+               porcionó algunos elementos adicionales para estructurar una argumentación que tome
+               en cuenta este estándar estricto de análisis constitucional. Más adelante se volverá
+               sobre el punto.
+
+
+
+               18. Puede tratarse de una norma reglamentaria emanada del poder administrador (“Repetto”), de
+               una ley provincial (“Calvo y Pesini”), de una norma constitucional (“Hooft”), de una disposición
+               reglamentaria del Poder Judicial (“Gottschau”, “Mantecón Valdez”), de una ley nacional (“Reyes
+               Aguilera”).
+               19. In re “Calvo y Pesini, Rocío c/ Córdoba, Provincia de s/ amparo” del 24/02/1998 (Fallos
+               321:194). El valor del caso radica en que ya no se trató de un voto en concurrencia, sino del voto
+               unánime de la Corte en su integración de ese momento.
+               20. In re “Hooft, Pedro Cornelio Federico c/ Buenos Aires, Provincia de s/ acción declarativa
+               de inconstitucionalidad” del 16/11/2004 (Fallos 327:5118). Nos hemos referido a este caso en el
+               artículo: “El principio de igualdad y las personas nacidas en el exterior: problemas y perspectivas”,
+               JA 2005-IV-517.
+
+
+
+
+Lecciones y ensayos 89.indd 193                                                                                   22/03/2013 14:34:04
+
+[[PDF p. 14]]
+               194                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+                      El siguiente caso fue “Gottschau”,21 donde estaba en juego la validez de una
+               disposición del Consejo de la Magistratura de la Ciudad Autónoma de Buenos Ai-
+               res, que exigía la nacionalidad argentina para poder concursar como secretario de
+               un juzgado de primera instancia. La actora, de nacionalidad alemana, cuestionó la
+               validez del requisito. Al llegar a la Corte Suprema, el tribunal consideró aplicable
+               el “test de Hooft”, exigiendo al Estado local que justificara las razones de la restric-
+               ción, carga procesal que no había cumplido, por lo que la restricción cuestionada
+               fue reputada inconstitucional.
+                      En esta familia de precedentes, el siguiente caso es “Reyes Aguilera”,22 donde,
+               además de una distinción normativa entre nacionales y extranjeros, estaban en juego
+               otras características: la actora, además de extranjera (aunque con residencia en el
+               país) era discapacitada y estaba en una situación de extrema pobreza, de modo que
+               se presentaba una situación de vulnerabilidad que podía justificar el análisis estricto.
+               Por ahora, nos interesa resaltar que en el voto de los ministros Petracchi y Argibay,
+               luego de advertir que la norma en juego establecía requisitos diferentes para acceder
+               a un beneficio de la seguridad social, según el peticionario fuera nacional o extran-
+               jero, hizo aplicación del escrutinio estricto. Ante ello, se consideró que la demanda-
+               da no había podido revertir la presunción de inconstitucionalidad que pesaba sobre
+               la norma cuestionada. En “Mantecón Valdez”23 se discutía la validez del requisito
+               de nacionalidad argentina para concursar para el cargo de Auxiliar en la Biblioteca
+               de la Corte Suprema de Justicia de la Nación, establecido en una resolución del Alto
+               Tribunal y en el artículo 11 del Reglamento para la Justicia Nacional. En este punto,
+               el fallo consideró que tal requisito era inconstitucional, por remisión al dictamen del
+               Procurador General de la Nación, que hacía explícita aplicación del criterio sosteni-
+               do en “Hooft” y “Gottschau”.
+
+
+
+
+               21. In re “Gottschau, Evelyn Patrizia c/ Consejo de la Magistratura de la Ciudad Autónoma de
+               Buenos Aires s/ amparo” del 8/08/2006 (Fallos 329:2986). Hemos abordado este caso en: “La
+               utilización de categorías sospechosas como técnica para controlar la discriminación hacia los
+               extranjeros”, JA 2006-IV-603.
+               22. In re “R.A., D. c/ Estado Nacional” del 4/09/2007 (Fallos 330:3853).
+               23. In re “Mantecón Valdés, Julio c/ Estado Nacional – Poder Judicial de la Nación – Corte
+               Suprema de Justicia de la Nación – resol 13/IX/04 (concurso biblioteca)” del 12/08/2008 (Fallos
+               331:1715). El voto mayoritario de la Corte se remitió al dictamen del Procurador General de la
+               Nación, en cuanto analizó la constitucionalidad del requisito de nacionalidad argentina, aplicando
+               los estándares de “Hooft” y “Gottschau”.
+
+
+
+
+Lecciones y ensayos 89.indd 194                                                                                                     22/03/2013 14:34:04
+
+[[PDF p. 15]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                             195
+
+
+
+               III.b.3.- El funcionamiento del examen estricto de constitucionalidad
+
+                     Tal vez en “Hooft” es donde aparecen con mayor nitidez los alcances de este
+               tipo de análisis. Como hemos visto, las normas infraconstitucionales que distinguen
+               entre nacionales y extranjeros o entre ciudadanos nativos (o por opción) y naturali-
+               zados, están afectadas por una presunción de inconstitucionalidad, a menos que la
+               parte interesada en defender su validez constitucional proporcione una “justifica-
+               ción suficiente”.
+                     Ello obliga a una argumentación de tres pasos, que se refieren a los siguientes
+               aspectos:
+
+                       a)         la existencia de fines sustanciales (y no meramente convenientes)
+                       b)         la existencia de medios que promueven efectivamente esos fines
+                       c)         la inexistencia de medios alternativos, menos restrictivos de los derechos
+                                  en juego.
+
+                     Resulta difícil definir a priori algunos de los conceptos que entraña la apli-
+               cación de este tipo de examen, ya que, en los casos reseñados, las autoridades pú-
+               blicas demandadas han omitido satisfacer la carga argumental que se les imponía.
+               Tal vez sea posible interpretar que la locución fines sustanciales es equivalente a
+               la de interés estatal urgente (o insoslayable) que se empleó en algunos precedentes
+               como “Repetto”, pero se trata de un concepto que puede resultar oscuro, ya que de-
+               terminar si el fin es sustancial o meramente conveniente será una cuestión a evaluar
+               en concreto.24 Tampoco resulta claro en qué medida la Corte se sentirá satisfecha
+               respecto de si un fin es o no sustancial.
+                     Los recaudos relativos a los medios empleados resultan algo más simples de
+               explicar, al menos en teoría. De todos modos su mera enunciación revela las di-
+               ferencias con el tipo de análisis que exigía el examen de mera razonabilidad: el
+               examen no se satisface con una simple apariencia de que el medio guarda alguna
+               relación con el fin perseguido. Por otra parte, la evaluación de medios alternativos
+               es en principio ajena al análisis de mera razonabilidad, como se ha visto más arriba.
+                     Lo cierto es que este tipo de análisis conlleva una exigencia muy difícil de le-
+               vantar por parte del Estado (o de quien sostenga la constitucionalidad de la norma).
+
+
+
+               24. A partir de ciertas consideraciones efectuadas por la Corte en los precedentes mencionados en el
+               texto, puede considerarse fines sustanciales: el ejercicio de la jurisdicción (como en “Gottschau”),
+               la promoción de políticas antidiscriminatorias (“Partido Nuevo”) o el “interés superior del Estado
+               en la educación” (“Repetto”). Sin embargo, debe recordarse que la existencia de un fin sustancial
+               no necesariamente llevará a convalidar la distinción, toda vez que se trata de solo uno de los
+               elementos que es necesario acreditar en cada caso.
+
+
+
+
+Lecciones y ensayos 89.indd 195                                                                                  22/03/2013 14:34:04
+
+[[PDF p. 16]]
+               196                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               En tal caso, debe recordarse que la regla epistémica es que, si luego de la argumen-
+               tación, subsisten las dudas acerca de la validez de la norma, prevalece la presunción
+               de que ésta es inconstitucional.
+
+               III.c. ¿Un estándar intermedio?
+
+                      El examen de razonabilidad en su aplicación práctica presenta varios matices,
+               y más allá de que importa una presunción favorable a la validez constitucional de
+               la norma aplicada, en algunos casos este examen ha exhibido cierta vitalidad en
+               cuanto a realizar un control más eficaz sobre normas cuestionadas como inconsti-
+               tucionales. Ello ha sido así, en especial, cuando no estaban en juego derechos de
+               contenido económico.
+                      Ahora bien, en materia de igualdad, resulta de interés rescatar en el caso
+               “Gottschau” el voto en concurrencia suscripto por los ministros Maqueda y Highton
+               de Nolasco, ya que parece marcar algunos matices respecto del análisis a aplicar
+               cuando existe un trato desigual de extranjeros. Sería prematuro indicar si el análisis
+               allí realizado puede ser extendido a otras hipótesis de clasificaciones sospechosas,
+               ya que las referencias normativas del voto parecen estar ligadas íntimamente a la
+               distinción entre nacionales y extranjeros, cuando no están en juego derechos civiles.
+               Ello, en tanto en el caso no estaba regido por el artículo 20 CN, donde la equipara-
+               ción entre ambos grupos en cuanto ese tipo de derechos parece ser completa, sino
+               por el artículo 16 CN, que consagra el derecho de todos los habitantes de ser admi-
+               tidos en los empleos sin otra condición que la idoneidad. En este voto se reconoce
+               explícitamente que en materia de igualdad se debe aplicar un estándar intenso de
+               control, y se aclara que éste no es coincidente con el efectuado en el caso “Hooft”.
+                      Según este voto, sólo la distinción entre ciudadanos argentinos, por los orí-
+               genes de su nacionalidad (es decir, según sean nativos o naturalizados) acarrea la
+               presunción de inconstitucionalidad, tal como había sido aplicada en el caso “Ho-
+               oft”. En cambio, la distinción entre extranjeros y nacionales para el acceso a cargos
+               públicos es, en principio, constitucional, de modo que el legislador está habilitado a
+               emplearla, siempre que el criterio de ponderación entre el medio elegido y los fines
+               específicos que se persiguen con la distinción supere el test de constitucionalidad.25
+               Sobre esta premisa, la cuestión a analizar se planteó en los siguientes términos: si
+               la condición de argentino –ciudadanía que no están obligados a admitir los extran-
+               jeros, conforme al art. 20 de la Ley Fundamental– supone un requisito de idoneidad
+               en relación directa con las funciones del cargo al que se pretende acceder, con jus-
+
+
+
+               25. El ministro Maqueda reitera esta concepción, en el sentido de que son en principio admisibles
+               ciertas distinciones entre nacionales y extranjeros, en su voto en concurrencia en el caso “Reyes
+               Aguilera”, al que nos referimos más adelante en el texto.
+
+
+
+
+Lecciones y ensayos 89.indd 196                                                                                                     22/03/2013 14:34:04
+
+[[PDF p. 17]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           197
+
+
+
+               tificación suficiente entre el medio elegido –requisito de nacionalidad argentina– y
+               el fin perseguido por la norma (considerando 6°).
+                      De este modo, el análisis aplicado en este voto particular exige:
+
+                       a)         que el fin perseguido por la norma represente algún interés estatal razo-
+                                  nable
+
+                       b)         que se expongan las razones por las cuales resulta conveniente exigir ese
+                                  requisito (la nacionalidad argentina) para alcanzar el fin perseguido.
+
+                       c)         la demandada es la que debe probar dicha relación (en el caso, acreditar
+                                  las razones por las cuales es conveniente que dicho cargo sea desempe-
+                                  ñado por argentinos).
+
+                     Como puede verse, se trata de un examen intermedio entre el de mera razo-
+               nabilidad y el escrutinio estricto. Se aproxima al primero en cuanto a que el punto
+               de partida es la constitucionalidad de la medida (esto es, no se presume su incons-
+               titucionalidad), pero se exige la acreditación de las razones por las cuales el medio
+               empleado es conveniente para alcanzar el fin perseguido. De esta descripción del
+               análisis, puede aparecer como dudoso el punto de partida: si bien no se presume la
+               inconstitucionalidad de la medida, lo cierto es que en el voto se exige que sea la
+               demandada quien acredite la razonabilidad. Si es así, parece que existe, al igual que
+               en el caso del análisis anterior, una inversión de la carga de la argumentación.
+
+
+               IV. Las condiciones de aplicación del examen estricto
+
+                     ¿En qué casos se aplica el examen estricto de constitucionalidad? En la ar-
+               gumentación de la Corte ha sido clave el hecho de que el actor perteneciera a una
+               categoría o grupo que recibía un trato diferente y ese trato provenía de una norma
+               general.
+                     Teniendo en cuenta los precedentes, el tratamiento diferencial entre naciona-
+               les y extranjeros (como en “Repetto”, “Gottschau”, “Mantecón Valdés” o “Reyes
+               Aguilera”), o bien entre distintos tipos de ciudadanos argentinos (nativos o naturali-
+               zados) (como en “Hooft”) parece dar lugar a la aplicación de este examen.
+                     Queda abierto el interrogante acerca de qué otras distinciones (o categorías)
+               pueden merecer una presunción de inconstitucionalidad, que invierta la carga de
+               la argumentación –o coloque una carga de argumentación agravada– en cabeza de
+               aquel que defiende la norma.
+                     En el caso “Hooft” la Corte vinculó la aplicación de esta presunción a los mo-
+               tivos expresamente prohibidos de discriminación contenidos en instrumentos inter-
+
+
+
+
+Lecciones y ensayos 89.indd 197                                                                             22/03/2013 14:34:05
+
+[[PDF p. 18]]
+               198                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               nacionales de derechos humanos con jerarquía constitucional (art. 75 inc. 22 CN),
+               refiriéndose puntualmente al artículo 1.1 de la Convención Americana de Derechos
+               Humanos y al artículo 26 del Pacto Internacional de Derechos Civiles y Políticos.
+               Ello, en tanto el “origen nacional” aparece mencionado expresamente en tales dis-
+               posiciones.
+                      Ahora bien, las disposiciones internacionales citadas mencionan otros crite-
+               rios de distinción especialmente prohibidos, respecto de los cuales podría postularse
+               la aplicación del análisis estricto. En ellas se mencionan: raza, color, sexo, idioma,
+               religión, opinión política o de cualquier otra índole, origen nacional o social, posi-
+               ción económica, nacimiento o cualquier otra condición social. Esta enumeración no
+               es taxativa, sino que contiene una cláusula de apertura (“cualquier otra condición
+               social”), que permite abarcar situaciones análogas.26 La prohibición de determi-
+               nadas categorías aparece reforzada por la inclusión, dentro del artículo 75 inciso
+               22 CN de ciertos tratados internacionales específicamente diseñados para proteger
+               contra determinados tipos de discriminación. Tal es el caso de la Convención In-
+               ternacional sobre Eliminación de todas las formas de Discriminación Racial o la
+               Convención sobre la Eliminación de todas las Formas de Discriminación contra
+               la Mujer. Por otra parte, ciertas cláusulas constitucionales han sido tomadas por la
+               Corte para justificar la fuerte presunción en contra de la validez de ciertas distincio-
+               nes, como lo es el artículo 20 CN respecto de los extranjeros y su equiparación a los
+               nacionales a los fines de los derechos civiles.27
+
+
+
+               26. Otros instrumentos internacionales de derechos humanos, también dotados de jerarquía
+               constitucional, también contemplan un listado (no taxativo) de motivos prohibidos de
+               discriminación, en general coincidentes con los mencionados precedentemente. Tal es el caso de
+               la Declaración Americana de los Derechos y Deberes del Hombre (cuyo art. II se refiere a la
+               raza, el sexo, idioma, credo ni otra distinción), la Declaración Universal de Derechos Humanos
+               (cuyo art. 2.1 se refiere a: raza, color, sexo, idioma, religión, opinión política o de cualquier otra
+               índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición),
+               el Pacto Internacional de Derechos Económicos, Sociales y Culturales (cuyo art. 2.2 contiene
+               una enumeración semejante a la del Pacto Internacional de Derechos Civiles y Políticos). En la
+               Convención sobre los Derechos del Niño se mencionan los siguientes motivos prohibidos: raza,
+               color, sexo, idioma, religión, opinión política o de otra índole, origen nacional, étnico o social, la
+               posición económica, los impedimentos físicos, el nacimiento o cualquier otra condición del niño,
+               de sus padres o de sus representantes legales. En España se ha entendido que los motivos expresos
+               contemplados en el artículo 14 de la Convención Europea en la materia no son exhaustivos, ya
+               que el criterio ha sido no dejar afuera ninguna discriminación presente o futura. En función de ello
+               el Tribunal Constitucional ha considerado incluidas entre las causas de discriminación a la edad
+               o la discapacidad (FERNÁNDEZ, Encarnación, Igualdad y Derechos Humanos, Madrid, Tecnos,
+               2003, pp. 88-89).
+               27. Esta cláusula aparece mencionada explícitamente en “Repetto” y en “Calvo y Pesini”, donde
+               las actoras eran extranjeras y aspiraban a ejercer su profesión (una, como maestra; la otra, como
+
+
+
+
+Lecciones y ensayos 89.indd 198                                                                                                      22/03/2013 14:34:05
+
+[[PDF p. 19]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           199
+
+
+
+                     Antes de avanzar con el examen de las categorías sospechosas, cabe pregun-
+               tarse cuál es la nota común a todas ellas, ya que ello permitirá reconocer situaciones
+               en las que es factible aplicar este análisis, máxime teniendo en cuenta que las nor-
+               mas internacionales de derechos humanos contienen una cláusula de apertura que
+               permite contemplar situaciones análogas. En general, puede sostenerse que la nota
+               común es que estas categorías se refieren a un grupo vulnerable o desaventajado,
+               en tanto encuentran especiales dificultades para ejercitar con plenitud los derechos
+               reconocidos por el ordenamiento jurídico, en razón de circunstancias sociales, eco-
+               nómicas, étnicas o culturales, o bien en razón de su edad, género, estado físico o
+               mental. En el caso de los motivos de discriminación especialmente prohibidos en
+               los instrumentos internacionales de derechos humanos, existe una presunción de
+               que quienes pertenecen a alguna de las categorías así definidas se encuentran en una
+               situación vulnerable.
+                     El examen estricto, con su exigencia agravada de justificación, permite que a
+               través del control judicial se detecte si la distinción efectuada carece de justificación
+               racional, por obedecer a prejuicios o estereotipos. En rigor, ello no necesariamente
+               debería llevar a concluir que siempre una medida que distinga entre nacionales o ex-
+               tranjeros será inexorablemente inconstitucional. En tal sentido, la fuerte presunción
+               establecida por la Corte con base en el artículo 20 CN permite vincular este análisis
+               con la finalidad de esa cláusula, que se relacionaba con una política de fomento de
+               la inmigración. Teniendo en cuenta que los migrantes suelen padecer situaciones
+               de discriminación en el acceso a los derechos, este tipo de análisis puede constituir
+               una respuesta jurídica frente a las condiciones de discriminación que suelen afectar
+               a estos grupos. Recientemente la Corte Interamericana de Derechos Humanos se ha
+               referido a la situación de los migrantes indocumentados, que es un grupo de extran-
+               jeros en condiciones particularmente vulnerables.28
+                     Veamos algunas de los criterios que permiten definir categorías sospechosas
+               de inconstitucionalidad y el abordaje de la cuestión que ha realizado la Corte Supre-
+               ma de Justicia de la Nación.29
+
+
+
+
+               psicóloga), derecho que les era reconocido por el artículo 20 CN y que era restringido por las
+               normas impugnadas.
+               28. Corte Interamericana de Derechos Humanos, Opinión Consultiva OC-18/03 del 17/09/2003
+               sobre “Condición Jurídica y Derechos de los Migrantes Indocumentados”.
+               29. Debe señalarse que en el panorama de casos que sigue se pone el énfasis en el criterio de
+               distinción empleado, aun cuando no siempre la solución judicial utilizó el argumento igualitario
+               en su análisis. También debe tomarse en cuenta el momento histórico en que los fallos se dictaron,
+               ya que el problema de la discriminación o la promoción de la igualdad, que podrían haber llevado
+               a otro tipo de argumentos, constituyen una preocupación más reciente en la jurisprudencia del
+               Tribunal, que comenzó a manifestarse con más fuerza luego de la reforma constitucional de 1994.
+
+
+
+
+Lecciones y ensayos 89.indd 199                                                                                22/03/2013 14:34:05
+
+[[PDF p. 20]]
+               200                                                                                  Lecciones y Ensayos, nro. 89, 2011
+                                            Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               a) Sexo
+
+                      La distinción en razón del sexo, cuando es explícita, trasunta el acogimiento
+               de estereotipos o prejuicios que tornan atendible la pretensión de considerar que las
+               normas que la contengan resultan prima facie “sospechosas” de inconstitucionalidad.
+                      En los casos en que ha sido puesta de relieve una discriminación en razón
+               del sexo, la Corte ha acudido al análisis de mera razonabilidad. Un ejemplo de ello
+               es el caso “Carballo”,30 en que la Corte confrontó la validez constitucional de una
+               norma que distinguía entre el personal masculino y el femenino de la Prefectura
+               Naval, permitiendo a aquel optar por mantener el estado policial o bien pasar a re-
+               vistar como personal civil. Tal opción se denegaba al personal femenino, que debía
+               pasar obligatoriamente a revistar como personal civil. El tribunal, sobre la base
+               de informes agregados al expediente, consideró que la norma “carece de base que
+               la sustente”, pues “no existía razón valedera alguna que autorizara a suponer que
+               el personal femenino, sólo por ser tal, se encontraba impedido de desempeñar sus
+               funciones conservando aquel estado policial” (considerando 7°).
+                      En cambio, en un voto en concurrencia en el caso “González de Delgado”, en
+               que un grupo de padres impugnaban una resolución de la Universidad Nacional de
+               Córdoba que convertía al Colegio Nacional de Monserrat en un colegio mixto, el
+               ministro Petracchi presenta un estándar de análisis que resulta traspolable a situa-
+               ciones en las que el sexo resulta la característica diferencial, que lleva a tratar en
+               forma diferente entre mujeres y varones.31 En ese voto, cuyo principal fundamento
+               normativo reposa en la Convención sobre la Eliminación de Todas las Formas de
+               Discriminación contra la Mujer, de jerarquía constitucional (art. 75 inc. 22 CN),
+               se introducen consideraciones valiosas acerca de la forma de controlar la compa-
+               tibilidad constitucional de disposiciones que discriminan en contra de las muje-
+               res, acudiendo al derecho comparado. En este punto se refiere a la jurisprudencia
+               europea, conforme a la cual una exclusión en el goce de un derecho fundada en
+               alguna de las categorías prohibidas en el artículo 14 de la Convención Europea de
+               los Derechos del Hombre, da lugar a una presunción de ilegitimidad que tiene por
+               efecto el desplazamiento de la carga de la prueba. Asimismo, se refiere a la jurispru-
+               dencia norteamericana que establece un exigente estándar de revisión para juzgar
+               las clasificaciones basadas en el sexo. Conforme a este estándar, aun cuando tales
+
+
+
+               30. “Carballo, María Isabel y otros c/ Nación Argentina (Prefectura Nacional Marítima) s/
+               contenciosoadministrativo”, Fallos 287:42 (1973).
+               31. “González de Delgado, Cristina y otros c/ Universidad Nacional de Córdoba”, del 19/09/2000,
+               Fallos 323:2659 (2000). La pretensión fue rechazada, pero la postura mayoritaria lo hizo en base
+               a fundamentos que no se vinculaban con la igualdad, sino con la competencia de la demandada
+               para dictar esa norma.
+
+
+
+
+Lecciones y ensayos 89.indd 200                                                                                                    22/03/2013 14:34:05
+
+[[PDF p. 21]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           201
+
+
+
+               clasificaciones no están proscriptas, no podrían utilizarse para crear o perpetuar la
+               inferioridad legal, social o económica de la mujer.
+
+               b) Religión
+
+                     Varios de los casos abordados por la Corte en esta materia se vinculan con los
+               testigos de Jehová y la vulneración de derechos como la educación (en el caso de
+               niños por no reverenciar símbolos patrios) y la autonomía personal (en el caso de
+               objeciones de conciencia al servicio militar). Estos casos fueron evaluados bajo el
+               prisma de la mera razonabilidad que, debido a la índole de los derechos involucra-
+               dos, llevaron en algunos casos a soluciones favorables a la posición de los actores.
+               En “Carrizo Coito”, por ejemplo, en que se había denegado la radicación definitiva
+               en el país de un extranjero, en razón de ser testigo de Jehová, la cuestión fue abor-
+               dada desde la perspectiva de las “acciones privadas de los hombres” (art. 19 CN) y
+               de la violación del derecho de entrar, permanecer y salir del territorio argentino.32
+                     En “Lopardo”, en cambio, el resultado no fue favorable a la pretensión de
+               quien, perteneciendo a aquella confesión religiosa, alegaba la inconstitucionalidad
+               de normas que lo obligaban a realizar el servicio militar. Aquí el enfoque se basó en
+               una compatibilización del deber contemplado en el artículo 21 CN y el derecho de
+               profesar libremente el culto. En este balanceo de derechos la Corte dio preeminen-
+               cia a aquel deber, omitiendo toda consideración respecto de la autonomía personal
+               en juego.33
+                     En fechas más recientes, con motivo del reconocimiento de un partido políti-
+               co, la Corte efectuó un análisis en términos de la alegada violación del derecho de
+               igualdad y no discriminación.34 En esa oportunidad, al denegar el reconocimiento
+               al Partido Nuevo Triunfo, el Alto Tribunal observó que tal decisión –tomada por la
+               justicia electoral– superaba los cuestionamientos basados en el derecho de igualdad,
+               “tanto desde el punto de vista del criterio amplio como del más estricto impues-
+               to por las cláusulas antisdiscriminatorias”. En tal sentido, observó que la Ley de
+               Partidos Políticos diferenciaba a aquellas organizaciones cuyo programa político
+               incluía la promoción del desprecio u odio racial, religioso o nacional, respecto de
+               las demás. En función del escrutinio estricto, advirtió que ese distingo respondía a
+               “una finalidad sustantiva que el Estado no puede en modo alguno soslayar ni demo-
+               rar”. Dicha finalidad se conectaba con una política estatal destinada a desalentar y
+
+
+
+
+               32. “Carrizo Coito, Sergio c/ Dirección Nacional de Migraciones”, Fallos 302:604 (1980).
+               33. “Lopardo, Fernando Gabriel”, Fallos 304:1524 (1982).
+               34. “Partido Nuevo Triunfo s/ reconocimiento – Distrito Federal” del 17/03/2009, Fallos 332:433.
+
+
+
+
+Lecciones y ensayos 89.indd 201                                                                              22/03/2013 14:34:05
+
+[[PDF p. 22]]
+               202                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               contrarrestar el odio racial o religioso.35 De este modo, entendió que la distinción
+               realizada era constitucionalmente válida, pues no sólo era “conveniente, sino impe-
+               rativo” la adopción de políticas orientadas a impedir el proselitismo de este tipo de
+               organizaciones.
+                     En este último caso, entonces, la Corte volvió sobre el escrutinio estricto, al
+               enfocar la cuestión desde la perspectiva del principio de igualdad, entre otros argu-
+               mentos. La aplicación de esta modalidad de análisis constitucional fue en este caso
+               favorable a la validez constitucional de la norma, toda vez que ella se vinculaba en
+               forma necesaria con un fin sustancial del Estado. En otras palabras, no obstante la
+               presunción de inconstitucionalidad de la que se parte, la existencia de un fin de la
+               mayor relevancia permitía justificar la restricción que se imponía.
+
+               c) Edad
+
+                     La Corte Suprema ha abordado casos en los que se establecían límites máxi-
+               mos de edad para ejercer una actividad. En ellos no se consideró que se tratara de
+               un grupo vulnerable, al menos en lo que se refería al derecho que estaba en juego y
+               aplicó un examen de razonabilidad, con resultados variables.
+                     Tal vez una precisión pueda hacerse en lo relativo al derecho que se encuentra
+               en juego. Los ancianos pueden experimentar dificultades de acceso a determinados
+               derechos de prestación (el derecho a la salud o a beneficios previsionales) y en tales
+               casos podrían ser pensados como una categoría vulnerable, que exige un estándar
+               más exigente de análisis que el de mera razonabilidad. Cabe señalar que el constitu-
+               yente identificó a este colectivo como digno de una mayor protección, al punto que
+               los menciona como posibles beneficiarios de medidas de acción afirmativa (art. 75
+               inc. 23). Algunos ordenamientos locales incluyen a la edad como motivo especial-
+               mente prohibido de discriminación.36
+                     En el caso “Domínguez”,37 en que se discutía la constitucionalidad de la nor-
+
+
+               35. Específicamente, señaló que “[u]n fin que debe necesariamente alcanzar el Estado es, entonces,
+               desalentar y contrarrestar el desarrollo de prácticas que promuevan el odio racial o religioso, y la
+               sujeción o eliminación de personas por el hecho de pertenecer a un grupo definido por algunas de
+               las características mencionadas” (esto es, los grupos nacionales o religiosos perseguidos por el
+               nazismo) (v. considerando 7°).
+               36. Tal es el caso del artículo 11 de la Constitución de la Ciudad Autónoma de Buenos Aires. El
+               Tribunal Superior de Justicia de la Ciudad tuvo oportunidad de referirse a la edad, fijada como
+               requisito restrictivo de derechos, en el caso “Salgado, Graciela B. c/ GCBA” del 21/11/2001
+               (disponible en www.tsjbaires.gov.ar). Para una crítica de la aplicación de este análisis a las
+               distinciones por edad, véase: SCHVARTZMAN, Sebastián, “¿Debe ser la edad considerada una
+               categoría sospechosa?”, La Ley 2002-F-455.
+               37. In re “Domínguez, Alberto Roberto c/ U.N.R. s/ recurso de amparo” del 15/10/1985 (Fallos
+
+
+
+
+Lecciones y ensayos 89.indd 202                                                                                                     22/03/2013 14:34:05
+
+[[PDF p. 23]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           203
+
+
+
+               ma que impone el cese de los docentes universitarios al cumplir 65 años de edad, la
+               Procuración General de la Nación –a cuyos fundamentos se remitió la Corte– sostu-
+               vo que “se trata de una limitación que se impone sobre la generalidad unánime del
+               claustro, sin atender a diferencias personales de especie alguna y no obedece a áni-
+               mo persecutorio de ninguna índole, sino que está concebida al margen de su even-
+               tual grado de acierto, que no cabe aquí analizar, únicamente como una pauta no irra-
+               zonable de organización de la carrera docente universitaria”. En esta oportunidad,
+               el Tribunal siguió un estándar leve de escrutinio, deferente al criterio legislativo.
+                     Pareció ir hacia un análisis algo más intenso –aunque sin abandonar el exa-
+               men de mera razonabilidad– en el caso “Franco”.38 En esa oportunidad se discutía
+               la validez constitucional de la normativa que exigía el retiro de los escribanos de la
+               provincia de Buenos Aires que alcanzaran los 75 años de edad. La Corte enuncia
+               que el estándar que aplicará es que una reglamentación es válida en cuanto guarde
+               adecuada proporción con la necesidad de tutelar el interés público comprometido,
+               y no desnaturalice el derecho constitucional en juego (en el caso, el derecho de tra-
+               bajar). En el caso, la Corte entendió que la norma provincial cuestionada estableció
+               una suerte de presunción iuris et de iure de que quienes alcanzaban esa edad esta-
+               ban imposibilitados para ejercer la función notarial y que, por esa razón, resultaba
+               arbitraria debido a su generalidad y falta de sustento racional, además de vulnerar
+               el derecho de trabajar y el de igualdad ante la ley, consagrados en la Constitución
+               Nacional y en tratados internacionales de jerarquía constitucional. Según la Corte,
+               tal arbitrariedad radicaba en que la limitación temporal para el ejercicio de la pro-
+               fesión de escribano no guardaba adecuada proporción con la necesidad de tutelar
+               el interés público comprometido, pues se entendió que el solo hecho de alcanzar
+               los 75 años de edad no revela ausencia de condiciones para cumplir dicha función;
+               además, la propia ley que regulaba el notariado preveía mecanismos para separar
+               a los escribanos que eran inhábiles para desempeñar la profesión. Por tal razón, la
+               Corte estimó irrazonable la existencia de un requisito de edad máxima para ejercer
+               la actividad. Posiblemente ello fuera así porque, aun dentro de las limitaciones del
+               análisis de mera razonabilidad, se consideró que la restricción cuestionada traía
+               aparejada la total supresión del derecho, lo cual importa un umbral que, de no ser
+               superado, acarrea la inconstitucionalidad de la restricción.
+                     Ahora bien, en estos casos la Corte aplicó un examen de mera razonabilidad,
+               aunque con resultados diferentes. No hizo falta acudir a un test que contemplara
+               categorías sospechosas con la carga agravada que significa. Ello es así, en tanto la
+
+
+
+               307:1963).
+               38. Un comentario crítico al fallo puede verse en: CLÉRICO, Laura, “Las ausencias argumentativas
+               de la Corte Suprema en el caso ‘Franco’: sobre las limitaciones a las concesiones de los registros
+               públicos notariales provinciales”, JA 2003-II-467.
+
+
+
+
+Lecciones y ensayos 89.indd 203                                                                                22/03/2013 14:34:06
+
+[[PDF p. 24]]
+               204                                                                                  Lecciones y Ensayos, nro. 89, 2011
+                                            Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               edad no necesariamente implica la consagración de un estereotipo o la existencia de
+               una situación de vulnerabilidad social. Ello puede ocurrir, sin embargo, en relación
+               con el acceso a ciertos derechos, donde ciertos grupos etarios (en particular, perso-
+               nas mayores o niños y adolescentes) pueden verse en situación de desprotección.
+               Ello es particularmente así en el caso del derecho a la salud o en el derecho a la
+               educación, donde la existencia de barreras de hecho para su ejercicio por parte de
+               esos colectivos podría justificar el empleo de un test más exigente.
+                     Cabe agregar que, a partir de la previsión del artículo 75 inciso 23 CN, que
+               menciona a los niños y ancianos, podría construirse la noción de que estos colec-
+               tivos se encuentran en situación de vulnerabilidad y deberían conducir a la apli-
+               cación, frente a determinado tipo de derechos necesarios para el desarrollo de su
+               personalidad, de un escrutinio estricto.
+
+               d) Pueblos originarios
+
+                     Aunque no existen casos que aborden la situación de este colectivo desde el
+               punto de vista de la igualdad, existen fuertes razones constitucionales para consi-
+               derarlos un grupo vulnerable y necesitado de especial protección desde el sistema
+               jurídico.
+                     En rigor, algunos precedentes recientes abordan la situación de este colecti-
+               vo desde la perspectiva de sus derechos más esenciales, que son desconocidos en
+               forma sistemática. En un caso reciente, la Corte Suprema concedió una medida
+               cautelar, ordenando al Estado nacional y a la provincia del Chaco la provisión de
+               agua potable y alimentos a comunidades de pueblos originarios que habitaban una
+               región de esa provincia afectada por una emergencia extrema, así como la provisión
+               de medios de transporte y comunicación adecuados hacia los puestos sanitarios.39
+               Aunque se trataba de una medida cautelar, la decisión toma en cuenta la particular
+               vulnerabilidad de este grupo, que por sus características puede constituir una ca-
+               tegoría sospechosa de discriminación, en tanto existe una situación de omisión o
+               acción insuficiente por parte de los poderes públicos. Tal conducta estatal debería
+               ser evaluada a la luz del escrutinio estricto.
+                     Este criterio de análisis constitucional se justifica tanto más cuanto que la
+               situación de estos pueblos ha sido objeto de especial atención por parte del cons-
+               tituyente. En efecto, el artículo 75 inciso 17 CN reconoce la preexistencia étnica y
+               cultural de los pueblos indígenas argentinos y consagra una serie de derechos espe-
+               cíficos, tales como el respeto de su identidad, la educación bilingüe e intercultural,
+               la personería jurídica de sus comunidades, la propiedad comunitaria de sus tierras,
+
+
+
+               39. “Defensor del Pueblo de la Nación c/ Estado Nacional y otra (Provincia del Chaco) s/ proceso
+               de conocimiento”, del 18/09/2007, Fallos 330:134.
+
+
+
+
+Lecciones y ensayos 89.indd 204                                                                                                    22/03/2013 14:34:06
+
+[[PDF p. 25]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                            205
+
+
+
+               así como su participación en la gestión de sus recursos naturales. El reconocimiento
+               constitucional se complementa con las disposiciones de los instrumentos interna-
+               cionales de derechos humanos, que específicamente mencionan al origen étnico o
+               racial como motivos expresamente prohibidos de discriminación.
+
+               e) Personas con discapacidad
+
+                      En general, el abordaje de esta problemática resulta susceptible de ser ana-
+               lizado bajo los cánones del escrutinio estricto. Existen fundamentos que pueden
+               extraerse tanto de la Constitución como de los tratados de derechos humanos. En
+               cuanto a la primera, podría sostenerse que el constituyente considera que se trata de
+               un grupo vulnerable, que ve seriamente dificultada su participación plena en la vida
+               económica, social y cultural. En función de ello, se habilita al legislador a adoptar
+               medidas de acción afirmativa a su respecto (art. 75 inc. 23 CN). Por otra parte,
+               también puede construirse, a partir de la interpretación de los instrumentos interna-
+               cionales, que la discapacidad constituye un motivo prohibido de discriminación40.
+               Además, en el plano infraconstitucional, la situación de las personas con discapa-
+               cidad puede vincularse con la prohibición de discriminación por caracteres físicos,
+               que están previstos como motivos de discriminación explícitamente prohibidos en
+               el artículo 1° de la Ley N° 23.592.
+                      La situación de este colectivo justifica la utilización de un análisis más inten-
+               sivo ante distinciones que los desfavorecen. La Corte, sin embargo, ha utilizado un
+               criterio de mera razonabilidad que, en su aplicación al caso concreto, no impidió
+               llegar a una solución favorable a las personas que sufrían algún tipo de restricción a
+               sus derechos derivada de sus condiciones físicas.
+                      El primer caso sobre el cual interesa detenerse es “Almirón”,41 en el que se
+               cuestionaba la denegatoria de un certificado de aptitud psicofísica exigido por una
+               resolución ministerial, a fin de ingresar al profesorado de geografía, en razón de
+               que la aspirante carecía completamente de visión en un ojo. La Corte aplicó un
+               análisis de mera razonabilidad, y sostuvo que “la exigencia de visión en los dos
+
+
+
+               40. En tal sentido, el Comité de Derechos Económicos, Sociales y Culturales en su Observación
+               General N° 5, se refirió a las personas con discapacidad y entendió que estaban implícitamente
+               protegidas por la Declaración Universal de Derechos Humanos (que sienta el principio de que
+               todas las personas son iguales en dignidad y derechos) o el Pacto Internacional de Derechos
+               Económicos Sociales y Culturales en su art. 2.2, al referirse a “cualquier otra condición social”
+               permite extender sus disposiciones a este grupo de personas (v. párrafo 5). En el plano supralegal,
+               la Convención Interamericana para la Eliminación de Todas las Formas de Discriminación contra
+               las Personas con Discapacidad, está en consonancia con esta comprensión del tema.
+               41. In re “Almirón, Gregoria c/ Nación Argentina”, Fallos 305:1489 (1983).
+
+
+
+
+Lecciones y ensayos 89.indd 205                                                                                 22/03/2013 14:34:07
+
+[[PDF p. 26]]
+               206                                                                                  Lecciones y Ensayos, nro. 89, 2011
+                                            Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               ojos no guarda relación de proporción con el objetivo de estudiar el profesorado de
+               geografía, y por el contrario, significa un atentado, en el caso, al pleno ejercicio de
+               los derechos de aprender y enseñar consagrados por el artículo 14 de la Constitución
+               Nacional” (considerando 6°; lo destacado no es del original), añadiendo que “ello
+               se agrava aun más cuando, como surge del escrito del recurso [presentado por la
+               dependencia estatal demandada], no se presentan argumentos que justifiquen un
+               mayor debate sobre el tema y las razones que se esgrimen para avalar la prohibición
+               son inconsistentes –presunta dificultad para distinguir una maqueta de relieve– e
+               irrelevantes –eventual ceguera por la entrada de un cuerpo extraño en el ojo sano
+               o irritación del mismo debido al polvo que se desprende del pizarrón al borrar–”
+               (considerando 7°).
+                      Al respecto, debe hacerse un señalamiento en cuanto a que el caso no fue
+               abordado como una hipótesis de violación de la igualdad, sino como una restricción
+               irrazonable del derecho de enseñar y aprender. Sin embargo, la solución puede ser
+               construida como una restricción a la igualdad, en tanto se restringe el acceso sobre
+               bases igualitarias del derecho de aprender en perjuicio de una persona que padece
+               una discapacidad. En tal contexto, debe advertirse que, aun aplicando el examen
+               de razonabilidad –todavía faltaban años para que la Corte desarrollara el escruti-
+               nio estricto como método de análisis– el Alto Tribunal pudo extraer la conclusión
+               contraria a la validez de la reglamentación estatal, no obstante la regla epistémica
+               que establece que, en caso de dudas, prevalece la presunción de constitucionalidad.
+                      Otro caso que puede resultar ilustrativo presenta puntos de contacto con el
+               anterior, en tanto se cuestionaba la misma norma general (la resolución ministe-
+               rial que establecía requisitos de aptitud psicofísica para estudiar el profesorado), es
+               “Arenzon”.42 Aquí el requisito cuestionado era la exigencia de una altura mínima
+               para obtener el certificado pertinente. Nuevamente, aparece aquí un requisito que
+               puede ser considerado como discriminatorio –en razón de los caracteres físicos–,
+               en tanto impedía al actor el goce de un derecho constitucional. Al respecto, la Corte
+               siguió un razonamiento parecido al del caso anterior, pues sostuvo que “la negativa
+               de extender el certificado de aptitud psicofísica, fundada exclusivamente en la esta-
+               tura del actor –1,48 m– no guarda razonable relación con el objetivo de estudiar el
+               profesorado de matemáticas y astronomía e importa una limitación arbitraria de los
+               derechos de enseñar y aprender, contemplados en el artículo 14 de la Ley Funda-
+               mental, que excede la facultad reglamentaria de la Administración” (considerando
+               5°; lo destacado no es del original). También aquí se emplea un análisis de razona-
+               bilidad y se añade que “la recurrente no puso de manifiesto a lo largo del proceso los
+               estudios y fundamentos técnicos que invoca y que justificarían una mayor amplitud
+               de debate o de prueba” y observó que las razones aportadas por la Administración
+
+
+
+               42. In re “Arenzon, Gabriel Darío c/ Nación Argentina”, Fallos 306:400 (1984).
+
+
+
+
+Lecciones y ensayos 89.indd 206                                                                                                    22/03/2013 14:34:07
+
+[[PDF p. 27]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                              207
+
+
+
+               eran insustanciales. Aunque el caso podría ser leído en clave de violación del dere-
+               cho de igualdad, nos interesa observar que el análisis de razonabilidad no prescinde
+               de evaluar las razones que puedan justificar la medida, y que la ausencia de tales
+               razones puede llevar a sostener que ella es inconstitucional.
+
+               f) Motivos gremiales
+
+                     En fecha reciente la Corte Suprema tuvo oportunidad de referirse a un supuesto
+               de discriminación basado en motivos gremiales. En el caso “Alvarez”43 el Tribunal
+               se refirió a los fundamentos del principio de igualdad y no discriminación, de con-
+               formidad con la Constitución Nacional y el derecho internacional de los derechos
+               humanos. Dado que desde el punto de vista fáctico se consideró demostrado que la
+               empleadora había despedido a un grupo de trabajadores en razón de su pertenencia
+               a una entidad gremial, la cuestión se orientó hacia la aplicación de la Ley N° 23.592
+               al ámbito de las relaciones laborales. Dicha ley prevé como remedio, frente al acto
+               discriminatorio, que los tribunales dispongan el cese de dicha conducta. Parte de la
+               fundamentación del fallo radicó en establecer que era admisible la reincorporación
+               del trabajador como remedio frente a un despido basado en causas discriminatorias.
+               Sin embargo, en el caso no fue necesario acudir al escrutinio estricto: ante la com-
+               probación de que la demandada había incurrido en discriminación, la cuestión se
+               redujo a establecer cuál debía ser el remedio adecuado: la reinstalación en el puesto
+               de trabajo –criterio que sostuvo la mayoría– o una indemnización agravada –criterio
+               que sostuvo la disidencia.
+
+               g) Orientación sexual
+
+                      En lo relativo a la orientación sexual, algunos han postulado que podría consi-
+               derarse que las normas que desfavorecen a minorías sexuales deben ser valoradas a
+               la luz del escrutinio estricto. Un fundamento normativo para ello podría extraerse de
+               las normas internacionales que, al referirse a los motivos especialmente prohibidos
+               de discriminación, se refieren a “cualquier otra condición social”.44 Tal posición
+               resulta plausible, pues se verifica respecto de estos grupos una situación de vulne-
+
+
+
+               43. In re “Alvarez, Maximiliano y otros c/ CENCOSUD S.A. s/ acción de amparo”, del 7/12/2010.
+               44. Art. 1.1 de la Convención Americana de Derechos Humanos y art. 26 del Pacto Internacional
+               de Derechos Civiles y Políticos. Sostiene esta interpretación, por la que la orientación sexual
+               podría ser incluida en dicha prohibición, Clérico, Laura, “El matrimonio igualitario y los principios
+               constitucionales estructurantes de igualdad y/o autonomía” en ALDAO, Martín y CLÉRICO,
+               Laura (coordinadores), Matrimonio Igualitario. Perspectivas sociales, políticas y jurídicas,
+               Buenos Aires, Eudeba, 2010, p. 145, esp. p. 159.
+
+
+
+
+Lecciones y ensayos 89.indd 207                                                                                   22/03/2013 14:34:07
+
+[[PDF p. 28]]
+               208                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               rabilidad como resultado de prejuicios y estereotipos que impiden el pleno ejercicio
+               de sus derechos.
+                     El argumento igualitario jugó un papel sustancial en los debates acerca de la in-
+               constitucionalidad de las normas civiles que impedían el matrimonio entre personas
+               del mismo sexo. Buena parte de los argumentos de quienes defendían esa restricción
+               se basaban en prejuicios o estereotipos respecto de las minorías sexuales que no po-
+               dían ejercer su derecho a contraer matrimonio. Aunque el tema no llegó a debatirse
+               en la Corte Suprema,45 algunos fallos de instancias anteriores utilizaron un análisis
+               estricto a fin de examinar la validez constitucional de las normas impugnadas.46
+
+               h) Pobreza
+
+                     Existen buenos fundamentos normativos para sostener que la pobreza puede
+               constituir una categoría sospechosa. En tal sentido, entre los motivos especialmente
+               prohibidos de discriminación previstos en diversos instrumentos internacionales de
+               derechos humanos, aparece la “posición económica”. Esta categoría suele aparecer
+               más en supuestos de discriminaciones de facto, en los que el acceso a ciertos dere-
+               chos por parte de ciertos sectores de la población puede verse excluido por razones
+               socioeconómicas.47 Una hipótesis común es la del acceso a la justicia, derecho que
+               a la vez es la puerta para reclamar por otros derechos: la inexistencia de servicios
+               legales gratuitos puede ser determinante de la imposibilidad de acceder a ciertos
+               derechos.48
+
+
+
+               45. Existían dos casos pendientes de tratamiento ante el Alto Tribunal: “Rachid, María de la Cruz
+               y otro c/ Registro Nacional de Estado Civil y Capacidad de las Personas s/ medidas precautorias”
+               (Fallos 333:1474) y “Vannelli, Alejandro Jorge y otro c/ Registro Nacional de Estado Civil y
+               Capacidad de las Personas s/ medidas precautorias”. Ante el dictado de la Ley N° 26.618 (que
+               consagró el matrimonio igualitario) la Corte declaró inoficioso el pronunciamiento sobre la
+               cuestión federal planteada (sentencias del 24/08/2010).
+               46. Juzgado de Primera Instancia en lo Contencioso Administrativo y Tributario N° 15 de la
+               Ciudad Autónoma de Buenos Aires, a cargo de la Dra. Gabriela Seijas, autos “Freyre, A. c/ GCBA
+               s/ amparo (art. 14 CCABA)”, del 10/11/2009.
+               47. Argumenta a favor de considerar a la pobreza como categoría sospechosa: Maurino, Gustavo,
+               “Pobreza y discriminación: la protección constitucional para los más humildes”, en ALEGRE,
+               Marcelo y GARGARELLA, Roberto (coords.), El Derecho a la Igualdad. Aportes para un
+               constitucionalismo igualitario, Buenos Aires, LexisNexis, 2007, p. 313.
+               48. Este enfoque está presente en las Reglas de Brasilia sobre Acceso a la Justicia de las Personas
+               en condición de Vulnerabilidad, adoptadas por la XIV Cumbre Judicial Iberoamericana (2008),
+               donde no sólo se menciona a la pobreza como limitante del acceso a la justicia, sino también a
+               categorías de personas vulnerables de acuerdo con los criterios de edad, discapacidad, pertenencia
+               a comunidades indígenas, víctimas de delitos, migrantes, género, pertenencia a minorías y privados
+
+
+
+
+Lecciones y ensayos 89.indd 208                                                                                                     22/03/2013 14:34:07
+
+[[PDF p. 29]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           209
+
+
+
+                     Las situaciones de pobreza plantean una cuestión de estrategia: podrían abor-
+               darse desde la perspectiva del derecho de igualdad (y construir a partir de ahí la
+               existencia de una categoría sospechosa) o bien la cuestión puede ser analizada desde
+               la perspectiva del otro derecho en juego. Así, en “Reyes Aguilera” el voto de los
+               ministros Zaffaroni y Fayt abordó la cuestión desde el punto de vista del derecho
+               a la seguridad social (intrínsecamente vinculado al derecho a la vida), donde tra-
+               dicionalmente se ha sostenido un criterio amplio, a fin de evitar que el rigor de los
+               razonamientos pueda llevar al desconocimiento de algún derecho. En tal sentido, el
+               análisis de razonabilidad del requisito que se ponía en tela de juicio (la residencia
+               en el país durante 20 años) fue considerado equivalente a la supresión del derecho,
+               sin referirse a la cuestión como un problema de igualdad.
+
+
+               V. Algunas cuestiones procesales en los análisis de constitucionalidad
+
+
+               V.a. Argumentación constitucional y carga de la prueba
+
+                     En aquellos casos en que se aplicó el escrutinio estricto la Corte habló de una
+               inversión de la carga de la prueba (o, lo que es lo mismo, del onus probandi). Tal
+               vez sea más apropiado hablar de carga de la argumentación, en la medida en que lo
+               que se exige de quien defiende la validez de la norma es que proporcione las razones
+               que la justifican. Ello es, en realidad, una cuestión de derecho49, que los tribunales
+               pueden suplir a través de los métodos habituales de interpretación jurídica, en par-
+               ticular, el análisis de las fuentes de la norma o de los propósitos del legislador que
+               resulten de los debates parlamentarios, o bien de la motivación en el caso de actos
+               de alcance general.
+                     Al referirse a la carga de la prueba en el proceso administrativo, observa Hut-
+               chinson que el principio de presunción de legitimidad del acto administrativo no
+               altera la obligación de probar a cargo de quien alega hechos constitutivos o los
+               impeditivos, extintivos y excluyentes. Por ello, si el particular afirma un hecho o
+               alega la existencia de vicios en el acto administrativo, es a él a quien corresponderá
+               demostrarlo. Del mismo modo, si la Administración alega un hecho (por ej. que un
+               empleado incurrió en una falta disciplinaria), también debe demostrarlo,50 lo que
+
+
+
+               de la libertad.
+               49. Ver en este sentido, la posición de Ibarlucía, Emilio, “Acerca de los nuevos escrutinios de
+               control de constitucionalidad”, ED 2006-434.
+               50. HUTCHINSON, Tomás, Derecho Procesal Administrativo, Tomo III, Santa Fe, Rubinzal-
+               Culzoni, 2009, pp. 57-61.
+
+
+
+
+Lecciones y ensayos 89.indd 209                                                                             22/03/2013 14:34:07
+
+[[PDF p. 30]]
+               210                                                                                    Lecciones y Ensayos, nro. 89, 2011
+                                              Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               generalmente ocurrirá a través del expediente administrativo donde se debía recabar
+               la prueba pertinente que daba sustento a su accionar.
+                     Precisamente, en “Arenzón”, en que la Administración demandada alegaba
+               la existencia de “estudios y fundamentos técnicos” que justificaban la exigencia
+               reglamentaria de una altura mínima en los aspirantes a estudiar un profesorado de
+               matemática, la Corte puso de relieve que aquélla no los había puesto de manifiesto
+               a lo largo del proceso. Tal omisión fue fatal para la suerte del recurso interpuesto
+               por el Estado.
+                     En este orden de consideraciones, resulta ilustrativo el dictamen del Procu-
+               rador General de la Nación en el antes mencionado caso “Almirón”. Allí puso de
+               relieve que “el Ministerio demandado debió acreditar de manera fehaciente, contra
+               la decisión del a quo de estimarla irrazonable, la razonabilidad de la medida en
+               cuestión” (lo destacado no es del original). Añadió que “debe distinguirse entre la
+               potestad excluyente del poder administrador de fijar las pautas reglamentarias en las
+               materias de su incumbencia, de la necesidad insoslayable que tiene de fundar, ante
+               los estrados de la justicia, adonde ha sido llevado a pleito, las razones tenidas en
+               cuenta al fijar tales pautas, a fin de que el juzgador pueda valorarlas en el ejercicio
+               de su contralor” (lo destacado no es del original). Aunque la Corte no lo expresa con
+               igual contundencia, sí señaló que los argumentos expuestos por la demandada eran
+               insuficientes para justificar la restricción impuesta, ya fuera por ser inconsistentes
+               o irrelevantes.
+                     En otras palabras, tanto en el análisis de mera razonabilidad como en el de-
+               nominado escrutinio estricto, existe una carga de argumentar que estará a cargo
+               de la Administración en la medida en que sea ésta quien se encuentre en mejores
+               condiciones de brindar las razones que justifiquen su accionar. Sin embargo, no sólo
+               las razones expuestas en el juicio tendrán relevancia, ya que, tratándose de leyes,
+               los antecedentes parlamentarios constituyen una fuente de interpretación valiosa a
+               fin de conocer la intención legislativa (doctrina de Fallos 325:2386; 328:2627; entre
+               otros). En el caso de un reglamento, la motivación del acto constituirá un elemento
+               de la mayor importancia a fin de establecer si los medios previstos resultan “propor-
+               cionalmente adecuados” a su finalidad.51 Ello es particularmente así cuando están
+               en tela de juicio normas que imponen restricciones a los derechos constitucionales.
+
+
+
+               51. El artículo 7° inciso e) de la Ley Nacional de Procedimientos Administrativos, aplicable
+               tanto a los actos administrativos de alcance general como particular, se refiere a la motivación
+               como la expresión concreta de las razones que inducen a emitir el acto, así como de los hechos
+               y antecedentes que sirven de causa y el derecho aplicable. Además, el artículo 7° inciso f) de
+               dicho cuerpo legal señala que el acto debe cumplir “con la finalidad que resulte de las normas que
+               otorgan las facultades pertinentes del órgano emisor, sin poder perseguir encubiertamente otros
+               fines, públicos o privados, distintos de los que justifican el acto, su causa y objeto. Las medidas que
+               el acto involucre deben ser proporcionalmente adecuadas a aquella finalidad”.
+
+
+
+
+Lecciones y ensayos 89.indd 210                                                                                                      22/03/2013 14:34:07
+
+[[PDF p. 31]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           211
+
+
+
+               Lo que variará es la mayor o menor deferencia que tendrán los tribunales hacia las
+               razones que surjan del desarrollo argumental que tenga lugar en el proceso. En un
+               test de mera razonabilidad, razones de conveniencia administrativa pueden desem-
+               peñar algún papel relevante, mientras que en el caso del escrutinio estricto, la carga
+               de justificación resulta particularmente agravada.
+                     En realidad, los dos tipos de análisis brindan cada uno una regla epistémica
+               diferente. En el escrutinio estricto, si luego de la argumentación subsisten las dudas,
+               la regla es que la norma es inconstitucional. En cambio, en los supuestos en que se
+               aplica un test de mera razonabilidad, la regla es la inversa: la duda es a favor de la
+               validez de la norma que realiza la distinción.
+
+               V.b. El objeto de la argumentación
+
+                      Al presentar el análisis estricto de constitucionalidad, la Corte Suprema indica
+               una forma de estructurar el debate constitucional cuando se alega una inconstitu-
+               cionalidad.
+                      El debate gira en torno a los fines de la medida cuya razonabilidad se cues-
+               tiona y la validez de los medios empleados para alcanzarlos. En el análisis de mera
+               razonabilidad, los fines pueden ser convenientes, lo cual supone un examen leve o
+               deferente, y los medios deben tener una relación adecuada con la consecución de
+               este fin. En relación con esto último, las clasificaciones no prohibidas, aunque sean
+               opinables, resisten el examen de mera razonabilidad. En estos casos, el juzgador
+               puede desentenderse de que las categorías resulten sobreinclusivas o subinclusivas.
+                      En el escrutinio estricto el test presenta mayores exigencias. Se exige un fin
+               sustancial y medios que promuevan el fin perseguido y que no existan maneras
+               menos restrictivas de alcanzarlo. Tal examen conlleva una presunción de inconsti-
+               tucionalidad que es casi irrefutable.
+                      Aunque no siempre quienes defendían la postura del Estado presentaron una
+               argumentación que considerara los distintos extremos señalados por la Corte, lo
+               cierto es que el planteo efectuado por el Tribunal en precedentes como “Hooft”
+               y “Gottschau” permite encauzar el debate constitucional a partir de ciertas pautas
+               imparciales. Es oportuno recordar, con el Tribunal Constitucional alemán, que “la
+               interpretación, en particular del derecho constitucional, … [tiene] el carácter de un
+               discurso, en el que se hacen valer argumentos a los que se contraponen otros argu-
+               mentos, debiendo darse finalmente predominio a los mejores argumentos”.52
+                      En este plano de la argumentación jurídica, el planteamiento de los dos tipos
+               de análisis –que pueden ser vistos como los extremos de un continuo, en que la
+
+
+
+               52. ALEXY, Robert, Teoría del Discurso y Derechos Humanos, Bogotá, Universidad Externado de
+               Colombia, 1995, p. 35, donde se cita del precedente BVerfGE 82, 30 (p. 38 ss.).
+
+
+
+
+Lecciones y ensayos 89.indd 211                                                                             22/03/2013 14:34:07
+
+[[PDF p. 32]]
+               212                                                                                  Lecciones y Ensayos, nro. 89, 2011
+                                            Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               intensidad de la revisión judicial varía según los derechos en juego– permite a las
+               partes de un proceso conocer de qué modo deben presentar las razones en que basan
+               las respectivas posiciones.
+
+
+               VI. Algunas perspectivas del escrutinio estricto
+
+
+               VI.a. Las desigualdades de iure y de facto
+
+                      Ahora bien, los casos a los que nos hemos referido plantean la existencia de
+               una clasificación que proviene del texto de la norma. Es ésta, al imponer determina-
+               dos requisitos, la que crea una distinción entre quienes lo poseen y quienes carecen
+               de él, generando así una clasificación que, en ciertos casos especialmente previstos,
+               puede ser considerada sospechosa de inconstitucionalidad.
+                      Un desafío para una agenda igualitaria es combatir la discriminación que re-
+               sulta de estereotipos, prejuicios o prácticas sociales, que no están expresadas en una
+               norma. En otras palabras, cuando la norma es neutral, pero su aplicación conduce a
+               resultados desiguales, afectando en forma desproporcionada a algún grupo desaven-
+               tajado. El legislador ha procurado identificar algunos de estos ámbitos establecien-
+               do medidas de acción afirmativa, que ahora tienen una base constitucional expresa
+               en el artículo 75 inciso 23 CN.
+                      Aquí la jurisprudencia de la Corte presenta alguna deficiencia, al menos cuan-
+               do se trata de desigualdades en que incurre la autoridad administrativa, ya que en
+               diversos casos ha adoptado un principio restrictivo, que sólo examina violaciones
+               a la igualdad que surgen del texto de la norma (esto es desigualdades de iure).53 En
+               cambio, tratándose de particulares, la existencia del trato desigual debe ser proba-
+               da. En caso de que se verifique alguno de los motivos explícitamente prohibidos,
+               corresponderá aplicar el análisis estricto, con la carga de justificación agravada que
+               trae aparejada. Sin embargo, es necesario que se demuestre el trato desigual, fun-
+               dado en alguno de esos motivos; no basta la alegación de discriminación para que
+               opere el escrutinio estricto.
+                      Un caso reciente de la Corte puede ilustrar el punto. En “Alvarez, Maximilia-
+               no”, ya citado, se consideró probado –o, al menos, se consideró que ello estaba fir-
+               me– el hecho de que el despido del trabajador por una empresa privada había tenido
+               su origen en motivos gremiales. En un caso con alguna arista similar –“Pellejero”–54
+
+
+
+
+               53. Ver GARAY, op. cit. en nota 5.
+               54. “Pellejero, María Mabel s/ amparo s/ apelación”, del 7/12/2010.
+
+
+
+
+Lecciones y ensayos 89.indd 212                                                                                                    22/03/2013 14:34:07
+
+[[PDF p. 33]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           213
+
+
+
+               el Alto Tribunal advirtió que la interpretación de normas federales estaba unida a
+               la valoración de determinados extremos fácticos, por lo que consideró necesario
+               examinar estos últimos. En función de ello, se señaló que “en ningún tramo del fallo
+               se explica de qué modo o mediante qué hechos o circunstancias concretas habría
+               quedado patentizado la conducta discriminatoria de la empleadora. Tampoco se in-
+               dividualizan los elementos de juicio incorporados al expediente cuya ponderación
+               podría conducir a tener por probado ese extremo”.55
+                     En otras palabras, si bien la aplicación del escrutinio estricto importa una
+               carga difícil de revertir por parte de quien defiende la validez de una clasificación,
+               lo cierto es que, antes de llegar a su aplicación, es menester que quien alegue una
+               situación de discriminación la demuestre fehacientemente. Sólo si tiene éxito en tal
+               cometido, podrá exigirse a su contraria una “justificación suficiente”.
+                     En este punto, es interesante advertir que la Convención sobre Eliminación
+               de Todas las Formas de Discriminación contra la Mujer define la discriminación
+               como “toda distinción, exclusión o restricción, basada en el sexo, que tenga por
+               objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por
+               la mujer, independientemente de su estado civil, sobre la base de la igualdad del
+               hombre y la mujer, de los derechos humanos y las libertades fundamentales en las
+               esferas política, económica, social, cultural y civil o en cualquier otra esfera” (art.
+               1°; lo destacado no es del original). La definición da cuenta de que la distinción,
+               que puede provenir de una norma o de patrones socioculturales de conducta, puede
+               tener una finalidad o, simplemente, tener un impacto discriminatorio. El planteo que
+               realiza la Convención, y que podría extenderse a otros grupos desaventajados, pone
+               el énfasis en remediar situaciones de discriminación, no sólo jurídica sino también,
+               y especialmente, fáctica. En este último caso, la discriminación se considera confi-
+               gurada aun cuando no pueda acreditarse que los autores del acto discriminatorio ha-
+               yan tenido la intención de discriminar. En consecuencia, a la luz de la Convención,
+               no es exigible, ante un planteo de discriminación, que se demuestre la finalidad de
+               discriminar a un grupo determinado, siempre que se acredite que la medida tiene un
+               impacto discriminatorio. En este sentido, el caso “Fundación Mujeres en Igualdad
+               c/ Freddo S.A.”56 resulta paradigmático en cuanto al reconocimiento de un grupo
+               en situación de desventaja (en este caso, por una política empresarial que excluía a
+
+
+
+
+               55. Añadió la Corte que “la falta de solidez de la imputación de discriminación que se efectuó
+               en la demanda ha quedado claramente en evidencia en la audiencia celebrada ante el Tribunal,
+               especialmente a través de las respuestas dadas por el representante de la actora a las diversas
+               preguntas que le fueron realizadas”.
+               56. Cámara Nacional de Apelaciones en lo Civil, Sala H, del 16/12/2002. Publicado en La Ley
+               2003-B-970.
+
+
+
+
+Lecciones y ensayos 89.indd 213                                                                             22/03/2013 14:34:08
+
+[[PDF p. 34]]
+               214                                                                                   Lecciones y Ensayos, nro. 89, 2011
+                                             Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               las mujeres en la contratación de personal).57 Ante la evidencia de una situación de
+               desigualdad, el tribunal actuante exigió que fuera el demandado el que acreditara
+               “con argumentos razonables” su conducta. La omisión de hacerlo llevó a que la sen-
+               tencia impusiera a la demandada una modificación de sus criterios de contratación
+               de personal.
+                     Aquí interesa destacar que, frente a una distinción, sea ésta de iure o de facto,
+               que se base en alguna de las categorías sospechosas, será posible la aplicación del
+               examen estricto. Desde luego, las dificultades probatorias pueden ser mayores en
+               el caso de las desigualdades de facto, pero el precedente mencionado revela que tal
+               prueba no es de imposible producción. Por lo demás, cabe postular que, las medidas
+               o prácticas que tengan como efecto perjudicar un grupo desaventajado –cualquiera
+               fuera la intención del autor– deberían ser abordadas a la luz de este examen más
+               exigente de constitucionalidad.
+
+               VI.b. La aplicación del análisis estricto en las relaciones privadas
+
+                     En nuestro país, los derechos constitucionales tienen como característica ser
+               bifrontes: son exigibles no sólo frente a la autoridad, sino también frente a las de-
+               más personas. La Constitución Nacional se refiere en su artículo 43 al amparo como
+               vía procesal para remediar violaciones de derechos, tanto por parte de autoridades
+               públicas como de particulares. Tal posición frente a los derechos había sido firme-
+               mente establecida en el caso “Kot” (Fallos 241:291), donde se sostuvo que “[n]ada
+               hay, ni en la letra ni en el espíritu de la Constitución, que permita afirmar que la
+               protección de los llamados ‘derechos humanos’ –porque son los derechos esenciales
+               del hombre– esté circunscripta a los ataques que provengan sólo de la autoridad.
+               Nada hay, tampoco, que autorice la afirmación de que el ataque ilegítimo, grave y
+               manifiesto contra cualquiera de los derechos que integran la libertad, lato sensu,
+               carezca de la protección constitucional adecuada […] por la sola circunstancia de
+               que ese ataque emane de otros particulares o de grupos organizados de individuos”.
+                     En el derecho internacional de los derechos humanos se reconoce que los
+               Estados tienen una obligación de garantizar el goce y pleno ejercicio de los dere-
+               chos humanos. Tal obligación es entendida en el sentido de que los Estados tienen
+
+
+               57. El tribunal interviniente advirtió que en el caso sometido a su consideración “la discriminación
+               no se encuentra en las normas sino en los hechos, esto es, en la conducta desplegada durante
+               años por la demandada, prefiriendo la contratación de empleados de sexo masculino, en una
+               proporción tan considerable que torna irrazonable el margen de discrecionalidad que cabe
+               concederle al empleador en la selección de su personal. Más aún si se tiene presente la presunción
+               de discriminación referida precedentemente, que se produce cuando quienes se encuentran en
+               la situación desigual pertenecen a grupos que históricamente se encontraron en desventaja” (lo
+               destacado no es del original).
+
+
+
+
+Lecciones y ensayos 89.indd 214                                                                                                     22/03/2013 14:34:08
+
+[[PDF p. 35]]
+               Lecciones y Ensayos, nro. 89, 2011
+               Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+                                                                                                           215
+
+
+
+               el deber de “organizar todo el aparato gubernamental y, en general, de todas las
+               estructuras a través de las cuales se manifiesta el ejercicio del poder público, de
+               manera tal que sean capaces de asegurar jurídicamente el libre y pleno ejercicio de
+               los derechos humanos. Como consecuencia de esta obligación los Estados deben
+               prevenir, investigar y sancionar toda violación de los derechos reconocidos por la
+               Convención y procurar, además, si es posible, el restablecimiento del derecho con-
+               culcado y, en su caso, la reparación de los daños producidos por la violación de
+               derechos humanos”.58
+                      Es posible interpretar que, en un sentido convergente con la interpretación
+               de la Corte Suprema, que esta obligación de garantizar los derechos exige del Es-
+               tado una conducta atenta en cuanto a la prevención y sanción de violaciones a los
+               derechos (entre los cuales se encuentra, obviamente, el derecho de igualdad y no
+               discriminación), sea que tal violación provenga del Estado o de particulares.
+                      En el caso “Alvarez”, ya mencionado a propósito de la discriminación por
+               motivos gremiales, se planteó la aplicación de las normas antidiscriminatorias al
+               ámbito de las relaciones laborales privadas. En tal oportunidad, luego de recordar
+               que el principio de igualdad y no discriminación pertenece al ius cogens, de carácter
+               imperativo para los Estados, acarrea para éstos entre otras obligaciones, “el ejerci-
+               cio de un ‘deber especial’ de protección con respecto a actuaciones y prácticas de
+               terceros que, bajo su tolerancia o aquiescencia, creen, mantengan o favorezcan las
+               situaciones discriminatorias” (considerando 4° del voto mayoritario).
+                      Ello abre la perspectiva de que, frente a una situación de discriminación en
+               el ámbito privado, se pueda aplicar no sólo el examen de mera razonabilidad, sino
+               también, y muy especialmente, el escrutinio estricto, con su carga agravada de jus-
+               tificación.
+
+
+               VII. Consideraciones finales
+
+                     La construcción jurisprudencial del escrutinio estricto, como una forma más
+               exigente de análisis judicial, se alinea con una concepción más robusta de los de-
+               rechos y con un papel más activo de los jueces en la solución de problemas de
+               discriminación.
+                     Hasta ahora, los casos en que fue empleado este tipo de análisis partían de una
+               concepción individualista de la igualdad, en la que una persona, como integrante de
+               uno de los grupos sospechosos, recibía un trato desigual frente a otras personas que
+               no compartían esa característica. Sin embargo, este tipo de análisis tiene un poten-
+
+
+
+               58. Corte Interamericana de Derechos Humanos, caso “Velásquez Rodríguez”, sentencia del
+               29/07/1988, párrafo 166.
+
+
+
+
+Lecciones y ensayos 89.indd 215                                                                             22/03/2013 14:34:08
+
+[[PDF p. 36]]
+               216                                                                              Lecciones y Ensayos, nro. 89, 2011
+                                        Treacy, Guillermo F., Categorías sospechosas y control de constitucionalidad, ps. 181-216
+
+
+
+
+               cial valioso como una forma de combatir situaciones de desigualdad estructural, en
+               que son grupos de personas que, en razón de su nacionalidad, sexo, origen nacional
+               o condición económica (o, a menudo, todas ellas combinadas), padecen situaciones
+               discriminatorias.
+                     Una expansión posible del escrutinio estricto puede orientarse hacia la re-
+               moción de obstáculos fácticos que impidan el pleno goce de los derechos, en par-
+               ticular debido a la existencia de prácticas, prejuicios o estereotipos. Otro ámbito
+               de aplicación de este test puede referirse a las relaciones privadas, en donde la
+               desigualdad asume contornos más ambiguos. En estos casos será esencial la labor
+               de los operadores jurídicos, en especial los litigantes, en cuanto a la presentación
+               de casos que permitan avanzar una agenda igualitaria en línea con el mandato de no
+               discriminación que es una exigencia no sólo constitucional sino también del dere-
+               cho internacional de los derechos humanos.
+
+
+
+
+Lecciones y ensayos 89.indd 216                                                                                                22/03/2013 14:34:08

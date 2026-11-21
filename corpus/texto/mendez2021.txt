@@ -1,0 +1,842 @@
+# fuente: Unidad7/2_Méndez Montenegro_Vitaliani_2021_Haz lo que yo digo, pero no lo que yo hago.pdf
+# md5_original: a594318e440a01724fed3298791a10be
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Haz lo que yo digo,
+pero no lo que yo hago
+La Corte Suprema como contralor
+del republicanismo provincial
+                                                                     Patricio Méndez Montenegro
+                                                                                Emiliano Vitaliani
+              Sumario: I. Introducción.— II. Las cuestiones políticas provinciales:
+              se miran y no se tocan.— III. Los fallos.— IV. El devenir del estándar
+              de “Santiago”.— V. El alcance de la garantía republicana de gobierno.—
+              VI. Conclusión.
+
+
+
+  I. Introducción                                        Desentrañar cuáles son los elementos míni-
+                                                      mos que hacen al principio republicano ha sido
+   Treinta años de guerra civil y siete de secesión   una tarea difícil dado el nivel de autonomía que
+de la provincia de Buenos Aires dieron lugar, en      cada provincia tiene para decidir sobre su polí-
+1860, a una Constitución nacional mixta. Por un       tica interna. Históricamente la Corte Suprema
+lado, se creó un Estado federal fuerte, con am-       entendió que las decisiones sobre la organiza-
+plias atribuciones para resolver los grandes dra-     ción política interna recaían dentro de la vieja
+mas que Juan Bautista Alberdi había detectado         doctrina de las cuestiones políticas no justicia-
+en las Bases. Por otro, las provincias retuvieron     bles, lo que le impedía intervenir en ellas.
+una serie de competencias sobre las cuales iban
+a tener exclusividad absoluta.                          A lo largo de esta década, la Corte Suprema
+                                                      de Justicia de la Nación ha publicado una se-
+  De ese modo, el art. 1º de la CN estableció         rie de sentencias que revirtió esa jurispruden-
+que nuestro país se iba a organizar en torno a        cia y estableció hacía a sus funciones delimitar
+los principios republicano, representativo y fe-      esos contenidos mínimos que todas las provin-
+deral. Esto implicó el diseño de un Estado con        cias deben seguir. Los fallos relativos a Santia-
+tres ramas de gobierno y un sistema de frenos y       go del Estero (1) (2), La Rioja (3), Río Negro (4)
+contrapesos limitados por una amplia gama de          y Santa Cruz (5) han sacado al derecho públi-
+derechos civiles.                                     co provincial del cajón de los temas ignorados
+                                                      por el derecho constitucional y lo han puesto en
+  Al mismo tiempo, el sistema federal estableció      el centro de la escena, demostrando el rol que
+un amplio grado de autonomía para que las pro-
+vincias diseñarán sus instituciones de la forma
+                                                        (1) CS, Fallos 336:1756.
+en que sus autoridades considerasen correcta.
+Esto significó que las provincias no tenían por-        (2) CS, Fallos 336:2248.
+qué imitar el diseño institucional de la Constitu-      (3) CS, Fallos 342:235.
+ción nacional, sino que el federalismo permitía
+y propiciaba un sistema propio, siempre que se          (4) CS, Fallos 342:235.
+atuviesen al principio republicano.                     (5) CS, Fallos 341:1869.
+
+
+                                                                           JA 2021 - III, fasc. 8, 18/08/2021 • 53
+
+[[PDF p. 2]]
+Haz lo que yo digo, pero no lo que yo hago
+
+tiene la Corte Suprema a la hora de controlar la              dad en lo relativo a sus respectivas competen-
+compatibilidad entre los sistemas políticos elec-             cias y que en un sistema federal no se debería
+torales de las provincias con la garantía republi-            permitir ningún tipo de sometimiento de los
+cana de gobierno.                                             poderes provinciales a lo establecido por el go-
+                                                              bierno nacional. En consonancia, el máximo tri-
+   En este artículo nos proponemos analizar la                bunal también adujo que las provincias tienen
+línea jurisprudencial nacida en el caso “UCR c.               derecho a ejercer sus atribuciones con absolu-
+Santiago del Estero” y que parece haber dado                  ta discreción siempre que no se comprometa
+ya sus primeros pasos, aunque veremos que de                  el deslinde de competencias con el Estado na-
+una forma un tanto errática. Para ello comenza-               cional. En el fallo “Plaza de Toros”, la corte sos-
+remos por describir la situación previa a “San-               tuvo: “Las provincias conservan su soberanía,
+tiago”, así como las bases teóricas sobre la que              en todos los poderes no delegados a la Nación,
+ella se sustentaba. Una vez hecho esto, recons-               como lo reconoce el art. 104 de la carta Funda-
+truiremos brevemente los casos bajo análisis                  mental” (7). En el fallo “Resoagli” profundizan:
+a los fines de poder extraer conclusiones más                 “Las provincias, según el art. 105 de la CN, tie-
+adelante.                                                     nen derecho a regirse por sus propias institu-
+                                                              ciones y elige por sí mismas sus gobernadores,
+   En la tercera parte de este trabajo nos propo-             legislaturas y demás empleados; es decir, que
+nemos analizar el estándar que surge de “San-                 conservan su soberanía absoluta en todo lo rela-
+tiago”, así como como la forma en la que fue                  tivo a los poderes no delegados a la Nación” (8).
+aplicado. Más tarde pondremos en cuestión al-                 Esta es la tesis a la que Antonio María Hernán-
+gunas de las vías argumentativas de la Corte, es              dez denomino como “soberanista” (9).
+decir, los conceptos y presupuestos que le per-
+mitieron llegar a las decisiones que constitu-                  En lo que hace al art. 5º, la Corte fue aún más
+yen nuestro objeto de estudio. En particular nos              auto restrictiva e hizo uso de la famosa doctri-
+concentraremos en el contenido que la Corte da                na de las cuestiones políticas no justiciables
+a la garantía de gobierno republicano y a la for-             (10). En el caso Costes de 1940 sostuvo: “La di-
+ma en la que este tribunal ejerce el control de               lucidación de la compatibilidad de las institu-
+constitucionalidad, poniendo el foco en el con-               ciones provinciales con lo dispuesto por el art.
+traste entre control procedimental y de fondo.                5º de la CN, envuelve una cuestión de naturale-
+                                                              za política, vedada como tal a los tribunales de
+ II. Las cuestiones políticas provinciales: se                justicia” (11).
+miran y no se tocan
+                                                                En este mismo sentido, Germán Bidart Cam-
+   La jurisprudencia pasada de la Corte en esta               pos sostuvo que la compatibilidad entre las
+materia es relativamente escueta. Cuesta pensar               leyes y conductas provinciales y la garantía re-
+en fallos en que la Corte Suprema se haya aden-               publicana era una cuestión propia del derecho
+trado a decidir pleitos de tan alta incidencia po-            y la política local, que era ajena a la actividad
+lítica en materia provincial.                                 de los magistrados federales. En cualquier caso,
+                                                              esta labor recae en el poder legislativo, que tiene
+   En general, se puede decir que la Corte se li-             a mano la herramienta de la intervención fede-
+mitó a analizar cuestiones de distribución de
+competencias, pero nunca a analizar casos don-                  (7) CS, Fallos 3:331.
+de se tratasen las facultades reservadas de las                 (8) CS, Fallos 7:737.
+provincias (6). En este sentido, en las primeras
+décadas de vigencia de la Constitución nacional                  (9) HERNÁNDEZ, A, "Soberanía y autonomía provin-
+                                                              ciales en la doctrina y en la jurisprudencia de la Corte
+la Corte emitió fallos que sostuvieron la idea de             Suprema de Justicia de la Nación Argentina", Cuestiones
+que las provincias ostentan la máxima autori-                 Constitucionales, nro. 31, México, 2014.
+                                                                (10) HARO, R., "El control jurisdiccional y las 'cuestio-
+    (6) SPOTA, A., "Aproximación a la autonomía provin-       nes políticas': nuevas perspectivas", Academia Nacional
+cial a través de la jurisprudencia de la Corte Suprema de     de Derecho y Ciencias Sociales de Córdoba.
+Justicia de la Nación", Sesión privada del Instituto de Po-
+lítica Constitucional del 5 de noviembre de 2008, p. 347.       (11) CS, Fallos 187:79.
+
+
+54 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 3]]
+                                                             Patricio Méndez Montenegro - Emiliano Vitaliani
+
+ral para remediar cualquier ataque a la vigencia             te de la Corte Suprema respecto a los gobiernos
+del Estado de derecho en las provincias (12).                provinciales.
+
+  Como en casi todas las cuestiones histórica-                  Luego de la intervención federal dispuesta en
+mente catalogadas como políticas no justicia-                el año 2004 por el Congreso de la Nación, se dio
+bles, la Corte fue, con el retorno a la democracia           lugar a la elección popular de sus autoridades
+constitucional, pavimentando el camino para                  a través de la cual se eligió a Gerardo Zamora
+tomar decisiones de un corte más activista (13).             como gobernador de la provincia por 4 años. En
+De esa manera, en el precedente “Sueldo de                   el medio del proceso de reforma institucional se
+Posleman” la Corte sostuvo que “la interven-                 modificó la Constitución provincial para poner
+ción del tribunal no avasalla las autonomías                 un límite a la reelección indefinida del cargo de
+provincias, sino que procura la perfección de                Gobernador y se introdujo como cláusula tran-
+su funcionamiento, asegurando el acatamien-                  sitoria sexta (17) la salvaguarda de que dicho
+to a aquellos principios superiores que las pro-             mandato (2005-2009) se iba a contabilizar como
+vincias han acordado respetar al concurrir al                el primero de los dos mandatos posibles.
+establecimiento de la Constitución Nacional”
+(14). En otro considerando, la Corte agregó: “En               En las siguientes elecciones provinciales Za-
+la República Argentina está obligado el gobier-              mora ganó holgadamente la reelección y co-
+                                                             menzó su segundo periodo a cargo de la máxima
+no federal a amparar a las provincias cuando la
+                                                             magistratura provincial para el término 2009-
+forma republicana ha sido corrompida, es decir,
+                                                             2013. En 2013 Zamora intentó presentarse una
+cuando ha sido interrumpido el ejercicio regu-
+                                                             vez más, arguyendo que la cláusula transitoria
+lar de las instituciones cuyo goce efectivo se ga-
+                                                             sexta era inconstitucional dado que limitaba sus
+rantiza” (15).
+                                                             derechos políticos de presentarse a elecciones.
+  Unos pocos años después, en la causa “apo-                 Esto fue convalidado por el Superior Tribunal
+derados” la Corte introduce el estándar según                de Justicia de Santiago del Estero, pero impug-
+el cual su intervención debe limitarse a casos               nado por la Unión Cívica Radical ante la Corte
+en los que se verifique “un ostensible aparta-               Suprema de Justicia de la Nación.
+miento del inequívoco sentido que corresponde                  El 22 de octubre de 2013 la Corte, ante la
+atribuir a las normas de derecho público local               proximidad de las elecciones provinciales y ante
+aplicables”(16). Estas eran, entonces, las líneas            la posibilidad inminente de que se consagrase
+jurisprudenciales que la Corte tuvo a mano a la              una reelección inconstitucional intervino en la
+hora de crear el estándar del caso Santiago del              causa y dictó una medida cautelar para evitar
+Estero.                                                      que Gerardo Zamora se presentase nuevamente
+                                                             como candidato a gobernador.
+  III. Los fallos
+                                                               A pesar de que se trataba de un pleito regi-
+  III.1. Santiago del Estero                                 do enteramente por el derecho público local
+                                                             y que recae en las competencias reservadas a
+  El fallo “UCR contra Santiago del Estero” mar-
+                                                             las provincias tal como se estableció en el dic-
+có un quiebre con la jurisprudencia anterior-
+                                                             tamen de la Procuradora, la Corte, con el voto
+mente mencionada y abrió las puertas para una
+                                                             de los jueces Maqueda, Lorenzetti y Petracchi,
+actitud más activista y menos deferente por par-
+                                                             intenta otro camino argumentativo. El fallo co-
+                                                             mienza por admitir la existencia de dos órdenes
+   (12) BIDART CAMPOS, G. J., "Manual de la Constitu-        jurídicos, el provincial y el nacional, recono-
+ción reformada", Ediar, Buenos Aires, 2009, t. I. ps. 367.
+y ps. 386-387.                                               ciendo la autonomía establecida en la Consti-
+                                                             tución nacional. Sin embargo, afirma que esta
+  (13) SPOTA, A., ob. cit., p. 354.                          autonomía no es plena, sino que está sujeta a las
+  (14) CS, Fallos 310:804.
+  (15) Ídem.                                                   (17) Sexta. El mandato del Gobernador de la Provincia,
+                                                             en ejercicio al momento de sancionarse esta reforma, de-
+  (16) CS, Fallos 314:1915.                                  berá ser considerado como primer período.
+
+
+                                                                                 JA 2021 - III, fasc. 8, 18/08/2021 • 55
+
+[[PDF p. 4]]
+Haz lo que yo digo, pero no lo que yo hago
+
+condiciones que la Constitución establece a lo        modo, la garantía republicana tiene supremacía
+largo de su texto, entre las cuales se menciona el    sobre las constituciones y leyes provinciales.
+sistema representativo y republicano de gobier-
+no. Es por esta razón que la Corte entiende que         Sin embargo, en respeto del sistema federal
+hay una cuestión federal suficiente que habili-       que la CN establece, la intervención de la Corte
+ta la instancia originaria de la Corte en tanto ór-   debe estar restringida a “los casos en que fren-
+gano a cargo de interpretar la CN y asegurar su       te a un evidente y ostensible apartamiento del
+supremacía. Según el razonamiento de la Cor-          inequívoco sentido que corresponde atribuir
+te, su intervención en el caso no es una inter-       nada más ni nada menos que a la Carta Mag-
+ferencia en las competencias provinciales sino        na [provincial] queden lesionadas instituciones
+el sostenimiento de los pilares sobre los cuales      fundamentales de los ordenamientos provin-
+se edifica la Constitución que las provincias se      ciales que hacen a la esencia del sistema repre-
+obligaron a cumplir.                                  sentativo republicano que las provincias se han
+                                                      obligado a asegurar”.
+   La Corte señala que la interpretación literal de
+la norma veda la presentación del gobernador             Cabe aclarar que la Corte no niega la diver-
+Zamora para un tercer mandato. Tanto el art. 152      sidad de regulaciones electorales posibles bajo
+como la cláusula transitoria sexta son claras a la    el principio de autonomía provincial ni niega
+hora de imposibilitar dicha presentación. Es por      la reelección indefinida pero sí niega que dicha
+esto por lo que el fallo del Tribunal provincial      autorización se realice en contradicción con la
+importa una modificación ilegal del contenido         literalidad de lo establecido por la propia cons-
+expreso de la Constitución provincial. La Corte       titución provincial.
+señala que la soberanía popular es un principio
+fundamental del sistema republicano y demo-              La doctrina que la Corte crea en estas dos de-
+crático, pero que ella está sujeta a los proce-       cisiones parece indicar que ella podrá interve-
+dimientos establecidos para su manifestación, a       nir siempre que se alegue una violación al texto
+través del “Estado de Derecho y el imperio de la      constitucional provincial, es decir, que las auto-
+ley”. La Corte entiende que la interpretación rea-    ridades constituidas contraríen lo dispuesto por
+lizada en el fuero provincial importó el desco-       el poder constituyente provincial. Esta violación
+nocimiento del texto de la Constitución y, a final    de la soberanía popular constituye una viola-
+de cuentas, un desconocimiento de la soberanía        ción al Estado de derecho y el imperio de la ley,
+popular expresada en ese texto.                       principios inherentes a la garantía republicana
+                                                      establecida en el art. 5º de la CN. Sin embargo, la
+   La conclusión de la Corte es que esta abierta y    intervención de la Corte debe ser circunspecta
+flagrante violación de la letra de la constitución    y limitada a la constatación de un apartamien-
+provincial importa un menoscabo al régimen            to claro y evidente de la interpretación literal
+republicano de gobierno que las provincias se         y obvia del texto constitucional provincial. De
+obligaron a respetar y que es un principio fun-       esta manera la Corte parece intentar conciliar
+dante del federalismo argentino. En el consi-         los fundamentos de un estado democrático re-
+derando 14 del fallo la Corte establece que “los      publicano con la deferencia que la organización
+principios republicanos que establece la Cons-        federal de gobierno pide por parte de las autori-
+titución Nacional impregnan las competencias          dades federales sobre las políticas provinciales.
+reservadas por cada una de las provincias para
+el ejercicio de su poder constituyente”.                III.2. Santa Cruz
+
+   El fallo cautelar de la corte es complementa-        En el fallo “Unión Cívica Radical de la Provin-
+do en su razonamiento por el fallo que analiza        cia de Santa Cruz contra Estado de la Provincia
+en fondo de la cuestión unos meses después.           de Santa Cruz” se tramita un amparo en el cual
+La Corte repite con más fuerza aún que la au-         se aduce la inconstitucionalidad de la ley 3415
+tonomía provincial en materias reservadas no          que establece el sistema de doble voto simultá-
+es absoluta, sino que puede ser revisada por la       neo (ley de lemas) para la elección del goberna-
+ella, toda vez que se “verifique un evidente me-      dor y vicegobernador que fue denegado por la
+noscabo del derecho federal en debate”. De este       Cámara de Apelaciones en lo Civil, Comercial,
+
+56 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 5]]
+                                                             Patricio Méndez Montenegro - Emiliano Vitaliani
+
+Laboral y de Minas de la provincia. El amparo                tanto órgano encargado de hacer respetar la CN,
+sostuvo que la ley de lemas constituía una viola-            la Corte debe mantener el equilibrio entre la es-
+ción del art. 114 (18) de la Constitución provin-            fera provincial y la nacional, evitando acrecen-
+cial, lo que, a su vez, según la doctrina del caso           tar el poder de uno sobre el otro.
+Santiago del Estero, vulnera el art. 5º de la Cons-
+titución provincial (19).                                      En este sentido, la Corte argumenta que el
+                                                             federalismo establece que la revisión judicial
+   Para sostener esto, la parte actora argumentó             de las leyes provinciales debe ser ejercido “con
+que la ley de lemas es incompatible con la “sim-             máxima prudencia” quedando habilitada sola-
+ple pluralidad de sufragios”, requisito estableci-           mente para revisar los casos más graves. En este
+do en el art. 114 de la constitución provincial,             sentido, la Corte vuelve a mencionar el estándar
+en tanto que permite que se alce con el triun-               del “evidente y ostensible apartamiento del in-
+fo quien de forma individual no es el candidato              equívoco sentido de las normas de derecho pú-
+más votado. A su vez, al permitir que se vote pri-           blico local”.
+mero a un lema y luego un sublema, violenta la
+disposición constitucional provincial que indica                Con base en el mencionado razonamiento ju-
+que el binomio debe ser “elegido directamente                rídico la Corte entiende que la ley de lemas no
+por el pueblo”. En segundo lugar, argumenta que              viola el art. 114 de la Constitución provincial. En
+la ley viola el art. 37 de la Constitución nacional          primer lugar, sostiene que se trata de una com-
+que establece la igualdad de voto, que debe ser              petencia eminentemente local y regida por ese
+sostenida desde su emisión hasta el escrutinio               ordenamiento jurídico. En segundo lugar, sos-
+como expresión de la inequívoca voluntad de                  tiene que no se acreditó la existencia de una
+optar por un candidato y no por otro. Por últi-              cuestión federal suficiente. La interpretación
+mo, sostiene que la decisión de la Cámara pro-               que el Superior Tribunal local realizó, enten-
+vincial se basa en una interpretación arbitraria             diendo que la ley de lemas es una aplicación
+de la Constitución provincial y nacional. En este            posible y razonable del texto constitucional
+ensayo nos vamos a concentrar en el primero de               provincial, es una interpretación acorde a la
+los argumentos vertidos en tanto es el único que             jurisprudencia pasada del tribunal. Se trata de
+hace al objeto de este artículo.                             una sentencia posible de acuerdo con el texto
+                                                             de la Constitución provincial. En tanto sea una
+   A la hora de analizar este argumento, la Cor-             lectura posible que no se aparte del sentido in-
+te (20) recurre a una línea de razonamiento si-              equívoco del texto, no se puede asegurar que
+milar a la utilizada en el caso “UCR c. Santiago             haya existido una vulneración del principio re-
+del Estero”. En esta línea, la Corte recuerda que            publicano de gobierno contenido en la CN en
+la CN estableció un marcado deslinde de com-                 su art. 5º.
+petencias entre la esfera nacional y la provincial
+a través de un sistema federal de gobierno. Esto                Queda claro en el considerando 11 del voto de
+implica que, dentro de un marco determinado,                 los jueces Lorenzetti y Maqueda, que la Corte no
+las provincias gozan del más amplio margen de                admite analizar si la ley de lemas es contraria al
+maniobra para organizar sus instituciones. En                sistema republicano establecido a nivel nacio-
+                                                             nal, sino que lo que debe probarse es que la ley
+                                                             de lemas es contraria al texto de la constitución
+  (18) Art. 114. El Gobernador y el Vicegobernador se-
+rán elegidos directamente por el pueblo de la Provincia a
+                                                             provincial. En este sentido, la Corte parece in-
+simple pluralidad de sufragios. Podrán ser reelectos.        dicar que su rol no es juzgar los textos constitu-
+                                                             cionales de cada provincia, sino que estos sean
+  (19) Art. 5º. No se admitirán otras inhabilitaciones       efectivamente aplicados por las autoridades
+para el ejercicio de la función pública o gremial, que las
+que surjan de esta Constitución y las que se funden en       provinciales. La Corte explícitamente entiende
+sentencia judicial.                                          al sistema adoptado por los constituyentes pro-
+                                                             vinciales como uno que no fomenta las virtudes
+   (20) En este apartado, cuando se hable de "la Corte" se
+va a entender a los argumentos compartidos por los 4 vo-
+                                                             cívicas, pero entiende que la inconveniencia del
+tos concurrentes, en tanto no hay una posición que haya      sistema y la existencia de alternativas superio-
+alcanzado una mayoría. Para argumentos particulares se       res quedan por fuera del escrutinio débil que
+mencionará a los jueces por su apellido.                     establece como estándar en los restantes casos.
+
+                                                                                JA 2021 - III, fasc. 8, 18/08/2021 • 57
+
+[[PDF p. 6]]
+Haz lo que yo digo, pero no lo que yo hago
+
+Mientras se mantengan dentro de los principios        dades provinciales, admitiéndose una gran va-
+de legalidad y razonabilidad propios de la de-        riedad y diversidad de formas institucionales.
+mocracia representativa, las provincias podrán
+optar por distintos diseños electorales e institu-      Rosatti recurre a la incipiente doctrina que
+cionales.                                             empezó a delinear en su voto concurrente en el
+                                                      fallo “Castillo” que denominó “margen de apre-
+  Como consecuencia del escrutinio débil que          ciación local”, según la cual las provincias tienen
+utiliza, la Corte, afirma que las decisiones pro-     un amplio grado de discrecionalidad para or-
+vinciales gozan de una presunción de razona-          ganizar sus sistemas políticos, sus cartas de de-
+bilidad. Según el tribunal, este sistema electoral    rechos y sus políticas públicas. Esta diversidad,
+está amparado bajo el texto de la Constitución        según el juez Rosatti, se constata en el caso de
+provincial toda vez que establece que dichos          la organización de las elecciones en las provin-
+cargos serán elegidos “a simple pluralidad de         cias. Ante esta pluralidad, la Corte solo debe in-
+sufragios”. Para la Corte, la cláusula constitucio-   miscuirse cuando haya una “eventual violación
+nal excluye la elección por mayoría absoluta y        ostensible de un derecho federal”, recogiendo la
+sostiene la constitucionalidad de la norma en         doctrina mayoritaria de la Corte.
+tanto interpretación posible del texto constitu-        III.3. Río Negro
+cional.
+                                                         El 25 de septiembre de 2011 la fórmula Soria-
+   El voto del juez Rosenkrantz hace hincapié en      Weretilneck fue elegida para ocupar los cargos
+que la parte actora no logró demostrar que la in-     de gobernador y vicegobernador de la provincia
+terpretación de los tribunales locales no cons-       de Río Negro. Tres semanas después de asumir,
+tituye una interpretación posible de la norma         el gobernador Soria fue asesinado y Alberto We-
+constitucional local ni que las leyes impugnadas      retilneck asumió en el cargo de gobernador. Las
+favorezcan a un partido determinado con el ob-        elecciones de 2015 ratificaron a Weretilneck en
+jeto de perpetuarse en el poder. Este voto parece     la gobernación de Río Negro junto con Pedro
+abrir la posibilidad de que en el futuro las partes   Pesatti en la vicegobernación.
+puedan impugnar la norma o la interpretación
+judicial local de estas si logran demostrar que          Cuatro años más tarde, el gobernador Were-
+“tienen un efecto sistemático de impedir o difi-      tilneck buscó su reelección, lo que dio lugar a la
+cultar sustancialmente que el electorado ejerza       presentación judicial del Frente Para la Victoria
+su derecho inalienable a seguir en el ejercicio       de Río Negro y Cambiemos, quienes afirmaban
+del poder a las personas que lo han venido ejer-      que el gobernador no se encontraba habilitado
+ciendo en el pasado”.                                 para ser candidato en los términos del art. 175
+                                                      de la Constitución provincial (21). Ellos soste-
+  El voto de la jueza Highton de Nolasco parece       nían que la Constitución provincial permite una
+tener cierta reminiscencia a la tesis soberanis-      sola reelección en los cargos de gobernador o vi-
+ta sostenida por la corte hasta el fallo “UCR c.      cegobernador, por lo que al haberse presentado
+Santiago del Estero” y que el dictamen de la fis-     para uno de estos cargos tanto en las elecciones
+cal Monti retoma. Aquí la jueza sostiene que se       del 2011 como en las del 2015, Weretilneck esta-
+trata de cuestiones regidas por el derecho públi-     ba inhabilitado para ser candidato a alguno de
+co provincial, privativas de los tribunales locales   estos cargos en el 2019.
+que no plantean cuestión federal y que no existe
+arbitrariedad en la sentencia.                          El STJ rionegrino falló a favor del entonces go-
+                                                      bernador, afirmando que estaba habilitado para
+  Por su parte el juez Rosatti parte de la regla      ser candidato una vez más. En un fallo dividido,
+de que la regla en nuestra CN es la retención de
+competencias y la excepción es la delegación.            (21) Art. 175. El gobernador y el vicegobernador pue-
+En ese sentido, cada provincia tiene la potestad      den ser reelectos o sucederse recíprocamente por un
+                                                      nuevo período y por una sola vez. Si han sido reelectos o
+de dictar su propia constitución y darse sus pro-     se han sucedido recíprocamente, no pueden ser elegidos
+pias instituciones. Esto previene toda injerencia     para ninguno de ambos cargos sino con un período de
+del poder central sobre la elección de las autori-    intervalo
+
+
+58 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 7]]
+                                                       Patricio Méndez Montenegro - Emiliano Vitaliani
+
+la Corte resolvió hacer lugar al reclamo de Cam-          Puesta a decidir entre estas dos alternativas,
+biemos y el FpV.                                       la Corte afirma que, si un candidato fue elegido
+                                                       de forma consecutiva en los dos cargos del bino-
+   El voto de la mayoría se inscribe, a priori, en     mio gubernamental, entonces, él está inhabili-
+la tradición iniciada en “UCR c. Santiago del Es-      tado para ser candidato en cualquiera de los dos
+tero”. Aquí la intervención de la Corte se justifica   lugares en la elección que define a su sucesor. El
+en el principio republicano de gobierno que se-        tribunal funda esta decisión en la jurispruden-
+gún el art. 5º de la CN todas las provincias deben     cia sentada en “Santiago”. Sin embargo, al volver
+respetar. Así, este principio funciona como lími-      a este fallo encontramos que no existe allí mayor
+te a la autonomía provincial en su facultad cons-      justificación para la afirmación de que la suce-
+titucional de darse sus propias instituciones.         sión recíproca refiere a la interpretación b2, sino
+                                                       que la Corte afirma que esta es la consecuencia
+  Al precisar el contenido de la garantía de go-       de interpretar una cláusula similar “en el senti-
+bierno republicano, la Corte afirma que ella           do más obvio del entendimiento común”.
+incluye al respeto al derecho como forma de ga-
+rantizar el principio de soberanía popular. Dado         Asimismo, la Corte sostiene que dado que la
+que la voluntad popular se manifiesta en el po-        interpretación b1 habilitaría que una persona
+der constituyente, limitando a través del tex-         sea electa como gobernador y vicegobernador
+to constitucional a los poderes constituidos, la       de forma sucesiva siempre que no ejerza nin-
+garantía de gobierno republicano nos exige no          guno de estos cargos por más de dos periodos
+modificar la Constitución por vía interpretativa.      y que su compañero de fórmula cambie, lo que
+                                                       sería de “difícil consonancia con la pauta repu-
+  Una vez aclarada la forma en la que el tribunal      blicana”.
+debe intervenir, el fallo pasa a analizar la nor-
+ma de la Constitución provincial en cuestión.             Dado lo dicho hasta aquí, el voto de mayoría
+Así, afirma que el texto constitucional establece      interpreta a la sucesión recíproca como aquel
+dos supuestos en los que un ciudadano no pue-          caso en el que un candidato ocupa de forma
+de ser candidato a gobernador o vicegoberna-           consecutiva los dos cargos del binomio en cues-
+dor. El primero de ellos es aquel en el que una        tión. Dado que Alberto Weretilneck fue primero
+persona ha sido reelegida para uno de estos car-       electo vicegobernador en la siguiente elección
+gos y desea ser candidata para este una vez más.       gobernador, resulta evidente que su caso está
+La demarcación de este supuesto es tan sencilla        abarcado por esta regla y que, por lo tanto, la
+como poco útil, dado que resulta evidente que          violación del texto constitucional provincial
+no se trata del caso de Alberto Weretilneck.           es evidente. Por lo tanto, la Corte decide hacer
+                                                       lugar a la demanda e inhabilita a Weretilneck
+  El segundo de los supuestos, el que nos inte-        como candidato a gobernador.
+resa aquí, es más espinoso. Lo que la Corte in-
+tenta desentrañar al tratarlo en el considerando          La disidencia de Rosenkrantz, al igual que el
+24 es qué significa “sucederse recíprocamente”.        voto de mayoría, parte del estándar de UCR c.
+La conclusión a la que llega el tribunal es que        Santiago del Estero. En los considerandos 7 y
+existen dos interpretaciones posibles para esta        8 de su voto, el juez precisa el contenido de la
+construcción. La primera (b1) es aquel caso en         doctrina de “Santiago”, al afirmar que solamente
+el que un par de personas son electas por se-          frente a una situación ante la cual la interven-
+gunda vez para los cargos de gobernador y vi-          ción de la Corte sea necesaria para garantizar el
+cegobernador, pero de forma cruzada, es decir,         sistema republicano de gobierno ella estaría ha-
+ocupando el cargo que antes ocupaba la otra. La        bilitada. Así, afirma que “el estándar determina
+segunda de las acepciones (b2) a la que la su-         que esta Corte no puede intervenir en aquellos
+cesión recíproca alude según la Corte es aquel         casos donde está en juego la elección de las au-
+caso en el que “un miembro del binomio fue             toridades de provincia si las decisiones que cau-
+electo para el segundo período en el cargo di-         san agravios al demandante pueden justificarse
+verso del que fue elegido en el primer período,        mediante alguna (22) lectura o interpretación
+independientemente de la persona que haya
+sido elegida para el otro cargo”.                        (22) El destacado es propio.
+
+
+                                                                           JA 2021 - III, fasc. 8, 18/08/2021 • 59
+
+[[PDF p. 8]]
+Haz lo que yo digo, pero no lo que yo hago
+
+de las normas establecidas en la constitución         sobre el significado de la cláusula en cuestión,
+provincial”.                                          permitiéndole candidatearse una vez más.
+
+  El estándar desarrollado aquí es, por lo tanto,       Así, la enmienda propuesta agregaba: “No
+de máxima deferencia. Basta con que la inter-         hay sucesión recíproca entre el Gobernador y
+pretación llevada a cabo por el tribunal provin-      el Vicegobernador si no hay entrecruzamiento
+cial no sea completamente inaceptable para            de mandatos en las fórmulas por las que hayan
+que la garantía del principio republicano de go-      sido electos. El gobernador o vicegobernador
+bierno sea satisfecha a un nivel mínimo y, por lo     que haya sido electo por un solo período ante-
+tanto, la forma de darse el propio gobierno que-      rior puede ser elegido para el ejercicio en el otro
+de en manos de la provincia.                          cargo por dos [2] mandatos consecutivos. Esta
+                                                      disposición se aplica al art. 171 de la presente
+  Al analizar el fallo del STJ, surge que la inter-   Constitución”.
+pretación allí realizada coincide con lo que el
+voto de mayoría identifica como b1. En el con-          Para poder aprobar una reforma, la Constitu-
+siderando 15 Rosenkrantz analiza esta interpre-       ción de La Rioja exige en sus arts. 84 (23) y 177 (24)
+tación, afirmando que ella no necesariamente          a la legislatura a convocar a una consulta po-
+es correcta, pero que sí es una de las interpreta-    pular, la cual deberá realizarse en las siguientes
+ciones posibles de una cláusula cuyo significado      elecciones generales. Asimismo, la Constitución
+está controvertido entre expertos. Al contrario,      provincial dispone que la propuesta sometida a
+afirma el juez que esta divergencia en las inter-     consulta popular se tendrá por rechazada si una
+pretaciones muestra que la interpretación del         mayoría de más del 35% de los electores inscrip-
+voto de mayoría no es unívoca y, por lo tanto,        tos no la aprueba.
+no se la debe tomar como referencia a la hora de
+analizar si el tribunal provincial se ha apartado        La consulta popular en cuestión fue realiza-
+ostensiblemente del texto constitucional.             da el 29 de enero de 2019. En ella el sí obtuvo el
+                                                      25,48% de los votos, mientras que el no alcanzó
+  Por lo tanto, dado que la interpretación del        el 18,08%. Por lo tanto, el tribunal tuvo por apro-
+STJ se encuentra en el conjunto de interpreta-        bada la enmienda en tanto no fue rechazada
+ciones posibles de la Constitución provincial,        por más del 35% establecido en la Constitución.
+Rosenkrantz encuentra que aplicar el estándar         Esto motivó la presentación de la UCR local,
+de “Santiago” a este caso lo lleva a las conclu-      quien afirmó que el procedimiento de enmien-
+siones contrarias a las del voto de mayoría. El       da constitucional era violatorio de la propia
+voto de Highton comparte el núcleo argumen-           Constitución provincial por la forma de conta-
+tativo del de Rosenkrantz, aunque sin el mismo        bilizar los votos y por no respetar el requisito de
+nivel de desarrollo.                                  realizar el referéndum en la siguiente elección
+                                                      general. Al ser violatorio del texto constitucio-
+  III.4. La Rioja                                     nal, la parte actora afirmó que la reforma viola-
+  Al igual que su par rionegrino, Sergio Ca-
+                                                        (23) Art. 84. Las cuestiones de gobierno y la vigencia de
+sas también quería ser reelecto después de ha-        nuevas leyes, la reforma o derogación de normas jurídi-
+ber sido elegido primero para vicegobernador          cas de significativa importancia, pueden ser sometidas a
+y para gobernador. Asimismo, la Constitución          consulta popular, que podrá ser obligatoria o facultativa.
+riojana también vedaba la reelección para los         Será obligatoria en los siguientes casos: 1. Toda reforma
+casos en los que hubiera existido sucesión recí-      constitucional realizada por la Cámara de Diputados de
+                                                      acuerdo con el Artículo 177.
+proca.
+                                                         (24) Art. 177. La Cámara de Diputados de la Provin-
+  A pesar del llamativo parecido que parece           cia podrá sancionar con el voto de los dos tercios de sus
+existir entre ambos casos, ellos difieren enorme-     miembros la enmienda de esta Constitución, que no po-
+mente. Mientras que Weretilneck aspiró a ocu-         drá exceder de tres artículos, y sólo quedará incorpora-
+                                                      da al texto constitucional si fuere ratificada por consulta
+par la gobernación por un nuevo mandato por           popular, que tendrá lugar en oportunidad de la primera
+vía interpretativa, Casas decidió recurrir a una      elección general que se realice. Esta enmienda no podrá
+enmienda constitucional que no dejara dudas           llevarse a cabo sino con intervalo de dos años.
+
+
+60 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 9]]
+                                                     Patricio Méndez Montenegro - Emiliano Vitaliani
+
+ba el principio republicano de gobierno, lo que      mecanismo validado para dar por perfecciona-
+daba lugar a la intervención.                        da la expresión de la voluntad popular a favor de
+                                                     la adopción de la enmienda, resulta pertinente
+  El voto mayoritario parte de recordar el doble     la intervención de este Tribunal para evaluar si
+compromiso asumido por la Corte tanto con la         se ha afectado el compromiso republicano asu-
+autonomía provincial como con el principio re-       mido por las provincias de asegurar que las de-
+publicano de gobierno. Este doble compromiso         cisiones del gobierno provincial responden al
+es el que da lugar al estándar desarrollado en
+                                                     mandato del pueblo de la manera más inequí-
+“Santiago”, del cual la Corte parte para tomar su
+                                                     voca posible”.
+decisión en este caso.
+                                                        A la luz de esta interpretación democrática
+  Antes de analizar los dos cuestionamientos
+realizados por la UCR, el voto de mayoría re-        del principio republicano de gobierno es que la
+cuerda que en el considerando 20 que una in-         Corte se propone interpretar el confuso art. 84
+terpretación errónea de la Constitución local        de la Constitución provincial. Lo que debemos
+implicaría una violación a la CN en tanto ella       preguntarnos es cómo se computa el silencio de
+violaría el principio republicano de gobierno,       más de la mitad de los electores habilitados para
+cuyo respeto es “condición del reconocimiento        votar. En este sentido, la Corte afirma que inter-
+de su autonomía”. El respeto a la forma republi-     pretar que todos aquellos casos en los que no
+cana de gobierno entendido como respeto al es-       se alcanza el 35% de rechazo implican la apro-
+tado de derecho es lo que le permite a la Corte      bación de la propuesta sometida a referéndum
+juzgar cuestiones que en principio parecen de        no resulta aceptable. Dado que el poder cons-
+derecho local.                                       tituyente es la máxima expresión de la voluntad
+                                                     popular, su expresión debe ser inequívoca, lo
+   Una vez sentado esto, el tribunal pasa a anali-   que excluye la posibilidad de asumir que todas
+zar qué debe entenderse por “elección general”       aquellas personas que no se expresaron dieron
+y qué consecuencias tiene la norma que impone        su apoyo tácito a la enmienda.
+el rechazo con más del 35% de los votos. Respec-
+to a la primera cuestión la Corte afirma que con-      Una vez rechazada la interpretación según
+siderar a una elección convocada ad hoc como         la cual todos los casos en los que no se alcan-
+la próxima elección general tendría el efecto de     za el 35% de rechazo implican aprobación, la
+vaciar de sentido la normativa constitucional, ya    Corte realiza su propio ejercicio hermenéutico
+que cualquier consulta popular sería en sí una       de la cláusula constitucional. Así, afirma que la
+elección general. Si esta fuera la interpretación    interpretación que se corresponde con el prin-
+correcta, entonces, el requisito de la próxima       cipio de soberanía popular es aquella según la
+elección general no implicaría ninguna limita-
+                                                     cual la enmienda se tiene por aprobada siempre
+ción, lo que no resulta plausible.
+                                                     que esta opción gane el referéndum con más
+  Una vez saldada esta cuestión, aborda la pre-      del 35% de los votos de los electores inscriptos,
+gunta sobre cómo computar los votos de la con-       dado que esa es la forma en la que se puede “evi-
+sulta popular. Cabe recordar en este punto que       denciar la voluntad del pueblo”.
+la norma constitucional de La Rioja solamente
+explicita que la enmienda se tendrá por recha-         Por lo tanto, dado que la interpretación de la
+zada con más del 35% de los votos de los electo-     Constitución local resulta incompatible con el
+res inscriptos. Sin embargo, no imputa ninguna       principio republicano de soberanía popular, ella
+consecuencia a todos los demás resultados, por       es rechazada por la Corte que, por lo tanto, da la
+lo que las demás normas deben ser extraídas          razón a los demandantes, declarando la invali-
+por vía interpretativa.                              dez del proceso de enmienda.
+
+  Es aquí donde aparece uno de los aspectos            Al igual que en “Río Negro”, en este caso tanto
+más interesantes de la argumentación de la Cor-      Rosenkrantz como Highton de Nolasco votaron
+te. Ella parte de afirmar que “dado que lo que       por separado, aunque esta vez coincidiendo con
+aparece controvertido en el presente caso es el      las conclusiones del voto de mayoría.
+
+                                                                        JA 2021 - III, fasc. 8, 18/08/2021 • 61
+
+[[PDF p. 10]]
+Haz lo que yo digo, pero no lo que yo hago
+
+   El voto de Rosenkrantz se centra en el conte-      menos que a la Carta Magna”. En primer lugar,
+nido de la cláusula que dispone que la consulta       resulta llamativo que la Corte se considere com-
+popular debe realizarse en la próxima elección        petente para interpretar derecho local. Ello sola-
+general. Así, afirma que se ha fijado “con total      mente es posible porque la garantía republicana
+claridad y exactitud” que la consulta popular         de gobierno implica el respeto al estado de dere-
+debe realizarse en la misma oportunidad que           cho (precisaremos esto más adelante), de modo
+la elección de cargos o autoridades. Al igual que     que al violarse el derecho local se viola una cláu-
+el voto de mayoría, el de Rosenkrantz manifies-       sula de derecho federal.
+ta que, si esta no fuera la interpretación correc-
+ta, el requisito de realizar el referéndum en la         Sin embargo, todavía nos queda la cuestión
+próxima elección general carecería de conte-          del federalismo. Como sabemos, las provincias
+nido. Una vez resuelto el caso por esta vía, Ro-      tienen derecho a darse sus propias instituciones
+senkrantz evita pronunciarse sobre la cuestión        y esto incluye su autonomía para juzgar si se ha
+sobre qué porcentaje de los votos deben ser al-       respetado o no el derecho local, de modo que la
+canzados para ratificar la enmienda constitu-         CS no puede oficiar como juez del derecho lo-
+cional.                                               cal, sino que debe hacer cumplir la Constitución
+                                                      nacional. Esta situación nos pone entre la espa-
+   Por lo tanto, al aplicar el estándar de “Santia-   da y la pared. Si es cierto que la Corte no puede
+go”, encuentra que la oportunidad en la que se        intervenir en cuestiones de derecho local, no lo
+realizó la consulta popular es violatoria del sen-    es menos que el respeto a ese mismo derecho
+tido más evidente de la Constitución provincial,      local forma parte de la forma republicana de go-
+lo que habilita la intervención del tribunal.         bierno y, por lo tanto, corresponde al máximo
+                                                      tribunal garantizarlo, lo que resulta imposible
+   El mismo razonamiento guía el voto de High-
+                                                      sin detenerse a evaluar, aunque sea mínima-
+ton de Nolasco. Su voto afirma que “en el art.
+                                                      mente, su contenido.
+177 de la Constitución provincial se tuvo la clara
+intención de hacer coincidir la consulta popu-           La salida que la Corte da a este dilema pare-
+lar con la primera elección que se celebre den-       ce clara. El test de “Santiago” solamente permi-
+tro del calendario electoral”. Suponer otra cosa      te que la Corte intervenga en aquellos casos en
+implicaría asumir que “el constituyente redactó       los que no puede caber ninguna duda de que la
+una norma vacía de sentido”. Así, al haberse rea-     provincia no ha respetado su propio derecho.
+lizado la consulta popular en una oportunidad         De esta forma evita discutir en detalle el conte-
+diferente a la mandada por la Constitución pro-       nido de la normativa provincial y, por lo tanto,
+vincial, el proceso de enmienda constitucional
+                                                      habilita casi todas las interpretaciones de esta
+fue violatorio del derecho local. En virtud de es-
+                                                      por parte de los tribunales locales. Así, el test de
+tos argumentos, tanto Rosenkrantz como High-
+                                                      “Santiago” es muy laxo y fácilmente superable, y
+ton de Nolasco resuelven declarar la invalidez
+                                                      la intervención de la Corte mínima.
+de la enmienda Constitucional.
+                                                         El estándar desarrollado por la Corte en “San-
+  IV. El devenir del estándar de “Santiago”
+                                                      tiago” tiene un llamativo parentesco con el clá-
+  Dijimos que “Santiago” marcó un quiebre             sico texto de James Thayer “Origen y alcance de
+en la jurisprudencia de la Corte sobre la orga-       la doctrina estadounidense del Derecho consti-
+nización política de las provincias. Ahora bien,      tucional”, por lo que retomaremos sus argumen-
+como en todo quiebre, en este caso fue necesa-        tos para pensar el estándar aquí desarrollado.
+rio construir un nuevo estándar que fuera apli-       Partiendo de la pregunta por el rol de los jueces
+cable a los casos futuros.                            en una democracia constitucional y del hecho
+                                                      de que las personas podemos no acordar sobre
+  Según la decisión sobre el fondo en “Santiago”,     el contenido preciso de la Constitución (25),
+la intervención de la Corte “está rigurosamente       él afirma que cuando esto es así el texto “deja
+limitada a los casos en que frente a un evidente
+y ostensible apartamiento del inequívoco senti-         (25) Al respecto también ver WALDRON, J., "Derecho y
+do que corresponde atribuir nada más ni nada          desacuerdos", Marcial Pons, Madrid, 2005.
+
+
+62 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 11]]
+                                                          Patricio Méndez Montenegro - Emiliano Vitaliani
+
+abierto un abanico de opciones; y que cualquier           parecerían corresponder con el test aquí expli-
+opción racional es constitucional” (26).                  cado.
+
+  Esto mismo es lo que parece sostener la Corte             El primero de los casos en los que la Corte tuvo
+cuando afirma que el apartamiento debe ser os-            que aplicar “Santiago” fue en “Santa Cruz”. A lo
+tensible. Parecería así que hay apartamientos no          largo de todo el fallo se aprecia la centralidad
+ostensibles, interpretaciones que, si bien pue-           que ocupa el federalismo y cómo ello conlleva
+den ser a juicio de la Corte equivocadas, no por          un alto nivel de deferencia hacia las decisiones
+eso son completamente inaceptables y que, por             tomadas en el ámbito local. En este sentido, la
+lo tanto, a la luz de la autonomía que confiere la        Corte destaca, en primer lugar, que un test más
+forma federal de gobierno a las provincias, de-           estricto implicaría el menoscabo del sistema fe-
+ben ser respetadas. Podemos pensar entonces               deral en tanto centralizaría la toma de decisio-
+que existe un conjunto de casos en los que las            nes, y por otro que no es su función juzgar la
+interpretaciones del máximo tribunal provincial           conveniencia de un determinado sistema elec-
+y de la Corte difieren sin que ello autorice a esta       toral, sino simplemente si él implica una viola-
+última para intervenir en estos casos.
+                                                          ción flagrante a las normas constitucionales.
+   Ahora bien, si la Corte no debe buscar y hacer
+                                                            Como era de esperar, dado que el test implica
+cumplir la interpretación correcta del derecho
+                                                          un escrutinio muy débil, el tribunal fue deferen-
+local, ¿cuál es su función? A la hora de respon-
+der esta pregunta, otra vez viene en nuestro              te hacia la interpretación del tribunal provincial
+auxilio Thayer. Partiendo de la premisa del des-          y declaró su admisibilidad. Sin embargo, sabe-
+acuerdo razonable sobre los significados de la            mos que esto no se repitió en los casos poste-
+Constitución y de que en un sistema democrá-              riores.
+tico es el poder legislativo y no el judicial quien
+debe gobernar, Thayer afirma al referirse a la ac-           Si bien el test de “Santiago” nació como uno
+tividad de los tribunales que “la cuestión en úl-         fuertemente deferente hacia las decisiones to-
+tima instancia no es el verdadero significado de          madas en el ámbito provincial, su aplicación en
+la Constitución, sino si la legislación puede sos-        el caso “La Rioja” y en particular en “Río Negro”
+tenerse o no”(27). Por lo tanto, la pregunta ya no        parece adentrarse en la interpretación del dere-
+es si una determinada normativa es compatible             cho provincial. Nos concentraremos en este úl-
+con el que creamos que es el contenido de la              timo caso para estudiar de qué forma aplicó la
+Constitución, sino si es posible argumentar de            Corte su propio estándar.
+forma razonable que no hay contradicción en-
+tre ambas. La pregunta que nos permite utilizar             Recordemos que lo que se discutía en “Río
+test de “Santiago” es la misma. No le preocupa a          Negro” era si la expresión “sucederse recíproca-
+la Corte si ella coincide o no con la decisión del        mente” implicaba a dos personas o si incluía a
+máximo tribunal provincial, sino simplemente              una persona que había sido electa por un perío-
+si este puede sostener su decisión mediante una           do para los cargos de gobernador y vicegober-
+argumentación aceptable.                                  nador. Según el test de “Santiago”, lo que la corte
+                                                          debía decidir era si afirmar que la sucesión re-
+   A pesar de que este estándar parecería ser fá-         cíproca requería a dos personas constituía una
+cilmente aplicable (después de todo si tenemos            posición insostenible, si ello era imposible de
+diferencias sobre una interpretación el aparta-           argumentar.
+miento no es tan ostensible), veremos que en
+los casos que siguieron a “Santiago” la Corte se            Sin embargo, ya desde el considerando 22
+embarcó en análisis mucho más pormenoriza-                podemos ver que la Corte tiene otros planes.
+dos del derecho local que los que en principio            Allí afirma que “corresponde adentrarse en la
+                                                          exégesis que cabe otorgar a la fórmula del art.
+  (26) THAYER, J., "Origen y alcance de la doctrina es-   175 de la Constitución provincial”. Si antes nos
+tadounidense del derecho constitucional", Revista dere-   preguntábamos si la interpretación realizada
+chos en acción, vol. 6, nro. 6, p. 116.                   a nivel provincial era una interpretación posi-
+  (27) Ibídem, p. 124.                                    ble entre muchas otras, ahora lo que nos guía
+
+                                                                             JA 2021 - III, fasc. 8, 18/08/2021 • 63
+
+[[PDF p. 12]]
+Haz lo que yo digo, pero no lo que yo hago
+
+es saber cuál es el significado del texto consti-        Por lo tanto, podemos decir que, si bien las
+tucional.                                              decisiones tomadas en “Río Negro” y “La Rioja”
+                                                       afirman ser hijas de “Santiago”, el razonamien-
+  Siguiendo esta línea de razonamiento, la Cor-        to allí esbozado es diferente al de su antecesor.
+te sostiene que su decisión se basa en una téc-        Tanto las preguntas que lo guían como el nivel
+nica interpretativa “normativo-contextual” a           de deferencia de los escrutinios son diferentes.
+partir de la cual concluye que la decisión del STJ     Resulta esclarecedor el voto de Rosenkrantz,
+estaba equivocada. En el considerando 24, la           quien afirma que la interpretación del STJ es
+Corte afirma que existen “dos respuestas posi-         una que pertenece al conjunto de interpretacio-
+bles” para la pregunta a quienes son los sujetos       nes posibles, repitiendo el razonamiento inau-
+abarcados por la sucesión recíproca. Si ambas          gurado en “Santiago”. Este contrapunto entre el
+respuestas son posibles, parecería entonces            voto en disidencia del presidente de la Corte y el
+que, si bien la resolución del tribunal provincial     voto de mayoría muestra a las claras lo proble-
+puede estar equivocada, ella no es ridícula ni         mática que resulta la aplicación del test “Santia-
+completamente injustificable.                          go” en esta decisión.
+  En resumen, la Corte hace un esfuerzo in-              V. El alcance de la garantía republicana de
+terpretativo muy grande para saber cuál es el          gobierno
+verdadero significado de la Constitución pro-
+vincial. Sin embargo, al hacerlo está llevando a          Esta sucesión de cuatro fallos transita por una
+cabo una tarea diferente a la que nos prometió         cornisa argumentativa respecto a dos cuestiones
+en “Santiago”. Si en aquella decisión la interven-     intrínsecamente vinculadas. Por un lado, cabe
+ción estaba limitada a los casos de apartamiento       preguntarse si la Corte realiza un análisis sus-
+ostensible, aquellos en los que no fuera justifi-      tantivo o procedimental de la garantía republi-
+cable de ninguna forma la decisión tomada a ni-        cana contenida en el art. 5º de la CN, es decir, si
+vel local, aquí lo que afirma es que la decisión       solamente analiza si el gobierno provincial violó
+del STJ estaba equivocada y que, por lo tanto,         su propio estado de derecho o si la Corte pue-
+debe ser revocada.                                     de realizar un análisis sustantivo de las constitu-
+                                                       ciones provinciales para analizar su adecuación
+   Desde esta perspectiva, resulta evidente que        a la garantía republicana. Otra cuestión que no
+la pregunta que se realizó la Corte cambió de un       queda del todo clara es qué concepto de repu-
+fallo a otro. En “Santiago” la Corte se pregunta-      blicanismo utiliza la corte para realizar su aná-
+ba si la decisión tomada a nivel local estaba por      lisis jurídico. La respuesta a estas dos preguntas
+fuera del conjunto de interpretaciones posibles        es relevante para desentrañar el alcance de la
+del texto constitucional. Al llegar a “Río Ne-         doctrina “Santiago”.
+gro”, nuestro máximo tribunal decidió cambiar
+el punto de referencia de su análisis, que dejó           En lo que hace a la primera de estas pregun-
+de ser el conjunto de interpretaciones posibles        tas, pareciera haber una disonancia entre la ju-
+para pasar a ser la interpretación correcta. Así,      risprudencia pasada de la Corte y lo señalado
+este análisis es mucho más estricto que el que         en los casos de Santiago del Estero y Santa Cruz,
+nos había prometido en un primer momento, lo           por un lado, y algunos de los considerandos de
+que permite a la Corte rechazar una interpreta-        los casos Río Negro y La Rioja. La primera te-
+ción que en principio parecería aceptable.             sis fue delineada previamente a lo largo de este
+                                                       trabajo: la Corte no se inmiscuye en el derecho
+  Esto mismo sucede en “La Rioja”, donde la            público local, no hace un análisis de compati-
+Corte elige entre dos interpretaciones posibles        bilidad entre las cláusulas constitucionales que
+de la Constitución local en virtud de que sola-        regulan los procesos electorales provinciales y
+mente una de ellas sería compatible con la CN.         el criterio republicano establecido en el art. 5º.
+Así, otra vez la pregunta deja de ser si la decisión   Dentro de los límites de la razonabilidad y a le-
+tomada a nivel provincial es inaceptable en los        galidad, las provincias pueden tener distintos
+términos del derecho local para pasar a ser cuál       regímenes electorales, pero su compatibilidad
+es la interpretación correcta de la Constitución       con el republicanismo es ajena a la intervención
+provincial.                                            de la Corte. Tal como lo indico en el fallo “Par-
+
+64 • JA • dossier de derecho constitucional﻿
+
+[[PDF p. 13]]
+                                                      Patricio Méndez Montenegro - Emiliano Vitaliani
+
+tido Justicialista”, las provincias no están obli-    tra violada el respeto al derecho local, poniendo
+gadas a seguir el molde establecido en la parte       en el centro de la escena al respeto por la ley. Sin
+orgánica de la Constitución nacional (28).            embargo, y a pesar de afirmar que estos fallos
+                                                      son una continuación de la argumentación ini-
+   Lo que sí hace la Corte, es analizar si las con-   ciada en “Santiago”, encontramos tanto en “La
+ductas de las autoridades provinciales (tanto el      Rioja” como en “Río Negro” que la Corte pone el
+poder ejecutivo y legislativo como el judicial)       foco en el art. 5º como garantía del autogobier-
+han violado la letra misma de la Constitución         no colectivo, entendiendo al republicanismo un
+provincial, es decir, si se ha violentado el estado   concepto fuertemente atado a la soberanía po-
+de derecho provincial. Si eso es claro y patente,     pular.
+la Corte entiende que ha existido una violación
+del art. 5º de la CN. Por lo tanto, pareciera ser       El fallo “La Rioja” retomó la concepción de-
+que el análisis es meramente procedimental.           mocrática de la garantía republicana de gobier-
+Esto quiere decir que la Corte admite, en princi-     no, aunque fue un poco más lejos. Allí, la Corte
+pio, regulaciones que a priori pueden estar por       afirmó: “El principal inconveniente (...) que pre-
+fuera de la tradición republicana pero no admite      senta la lectura del art. 84 realizada por las au-
+que la reelección indefinida sea alcanzada a tra-     toridades riojanas, es que pone en cabeza de la
+vés de procedimientos ajenos a los previstos en       legislatura provincial la potestad de modificar la
+la constitución provincial.                           Constitución sin que el pueblo explicite su vo-
+                                                      luntad en el mismo sentido”. Esta interpretación,
+  La lectura de este conjunto de fallos nos per-      sigue, sería incompatible con la teoría del poder
+mite reconstruir cuál es el alcance que se le da      constituyente según la cual la aceptación popu-
+allí a la garantía republicana de gobierno que        lar es condición de posibilidad de la validez de
+surge del art. 5º de la CN. En “Santiago” el voto     una Constitución.
+de la Corte indica como elemento esencial de
+la garantía republicana el respeto al Estado de          Lo llamativo de esta argumentación es que la
+derecho y el imperio de la ley. Los fallos pos-       Corte no rechaza la interpretación de los tribu-
+teriores abandonaron esta concepción del re-          nales locales por ser completamente incompa-
+publicanismo y sostuvieron que la garantía            tible con el texto de la Constitución provincial.
+republicana implica la protección del ejercicio       Las razones que llevan al voto de mayoría a re-
+de la soberanía popular. Veamos.                      solver contra los tribunales locales están situa-
+                                                      das en las consecuencias que una determinada
+   En el fallo “Santiago” la Corte sostuvo su de-     interpretación tendría. Dado que interpretar
+cisión sobre la garantía republicana de gobier-       que el no rechazo por el 35% implica la acepta-
+no contenida en el art. 5º de la CN. Como vimos,      ción llevaría a violar el principio de soberanía
+ella afirmó que el fallo que habilitaba a Zamo-       popular, la única interpretación compatible con
+ra como candidato violaba flagrantemente la           el principio republicano de gobierno es aquella
+Constitución local, lo que habilitaba la interven-    según la cual el consentimiento debe ser explí-
+ción del tribunal federal. Así, vemos que la di-      cito.
+mensión de la garantía republicana de gobierno
+allí puesta en un lugar central fue aquella rela-        Vemos así que la discusión se corre de la cues-
+cionada con el respeto por el estado de derecho.      tión puramente hermenéutica y pasa a centrar-
+Lo que motivó a la Corte a intervenir no fue el       se en el contenido de la Constitución local. Para
+contenido de una norma ni una interpretación          afirmar que la interpretación realizada por los
+particular de ella, sino que existía un aparta-       tribunales provinciales viola el texto constitu-
+miento ostensible de cualquier interpretación         cional, la Corte parte de una concepción demo-
+razonable del derecho local.                          crática del principio republicano de gobierno, la
+                                                      cual exige que la forma en la que se manifiesta
+  Por lo tanto, vemos que este fallo, al igual que    la voluntad popular sea clara, dejando una sola
+“Santa Cruz”, toma como elemento decisivo             interpretación posible en pie.
+para saber si la garantía republicana se encuen-
+                                                        Dado que “...el mecanismo elegido para vali-
+  (28) Fallos 317:1195.                               dar la expresión de la voluntad popular resulta
+
+                                                                         JA 2021 - III, fasc. 8, 18/08/2021 • 65
+
+[[PDF p. 14]]
+Haz lo que yo digo, pero no lo que yo hago
+
+inconsistente con el que demanda un sistema          “Río Negro” la cosa cambió y el análisis fue mu-
+republicano”, solamente nos queda como acep-         cho más detallado, pasando a estar guiado por
+table la interpretación según la cual el pueblo      la pregunta por el correcto significado de la
+debe manifestar su voluntad de forma explícita.      constitución provincial.
+Es respecto a esta única interpretación posible
+en tanto compatible con el principio republica-        Si bien la Corte afirma seguir la jurispruden-
+no de gobierno que el apartamiento es claro y        cia sentada en “Santiago”, su accionar es zigza-
+ostensible y no respecto al texto constitucional     gueante. Mientras que, por un lado, sienta un
+en sí. Pasajes como este nos permiten pensar         test de máxima deferencia a las decisiones pro-
+que existe una relación entre el alcance de la ga-   vinciales, por otro se interioriza en un análisis
+rantía republicana y el análisis que lleve a cabo    pormenorizado del derecho constitucional lo-
+la Corte. Al abrazar una concepción republica-       cal. En consecuencia, no resulta claro de qué
+na robusta, el escrutinio se aleja de estudio de     forma se operativiza el test utilizado.
+la legalidad de la sustancia y adquiere tintes de
+revisión sustantiva.                                    Por otro lado, vimos que a través de estos fa-
+                                                     llos podemos rastrear cuál es el contenido que
+  Estamos por lo tanto en condiciones de afir-       la Corte brinda a la garantía republicana de go-
+mar que la argumentación del voto de mayoría         bierno y de qué forma esto se relaciona con el
+de “La Rioja”, concibe a la garantía republicana     escrutinio que ella realiza. Así, dijimos que los
+de gobierno como una íntimamente relaciona-          diferentes votos reflejan las diferencias existen-
+da con el autogobierno colectivo. Estos fallos       tes al interior de la teoría republicana. Mientras
+parecen trazar una íntima relación entre auto-       que los votos de mayoría parecen adscribir a
+gobierno, estado de derecho e interpretación,        una concepción democrática del republicanis-
+de forma tal que allí se deja ver una concepción     mo, los del presidente de la Corte se encuentran
+más radical del republicanismo.                      centrados en el valor del estado derecho en sí y
+                                                     no como reflejo de la voluntad popular, lo que
+  VI. Conclusión                                     nos hace pensar que lo que allí subyace es una
+                                                     tradición republicana de corte más liberal.
+   En los últimos años la Corte ha inaugurado
+una nueva línea jurisprudencial en lo que res-          En conclusión, la Corte no ha sido del todo
+pecta al derecho constitucional provincial y su      clara ni sobre el estándar que se debe utilizar
+relación con la garantía republicana de gobier-      para estos casos ni sobre los fundamentos teó-
+no. Sin embargo, todavía no podemos determi-         ricos para ello. Las distintas idas y vueltas en
+nar con precisión de qué forma se ponderan el        torno a la forma en la que se evalúa el derecho
+federalismo y el republicanismo. En los prime-       provincial ya sea en cuanto a si la discusión es
+ros dos fallos la situación parecía más o me-        de fondo o meramente procedimental, al grado
+nos clara. La Corte intervendría solamente en        de deferencia del test utilizado o al alcance de la
+aquellos casos en los que existía una violación      garantía republicana, nos dejan con muy pocas
+flagrante al derecho público provincial. Sin em-     certezas sobre cómo intervendrá la Corte en ca-
+bargo, al momento de decidir en “La Rioja” y         sos similares en el futuro.
+
+
+
+
+66 • JA • dossier de derecho constitucional﻿

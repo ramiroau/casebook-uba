@@ -1,0 +1,88 @@
+# Álvarez Ugarte, Dvoskin y Guidi, «La actividad del Congreso» (U09).
+# Las notas al pie llevan el número en el mismo renglón que el texto, de modo
+# que el corte de notas (renglón con sólo un número) toma el número de página
+# y deja las notas en el cuerpo: se quita cada bloque de notas, anclado en su
+# primer y último renglón.
+# rau2019 PDF p. 1: notas al pie 1-4 (numeradas en el mismo renglón)
+^1\s+Los\s+capítulos\s+I,\s+IV,\s+V\s+y\s+VI\s+fueron\s+escritos\s+por\s+Ramiro\s+Álvarez\s+Ugarte,\s+los\s+capítulos\s+II\s+y\s+III\s+por\s+Sebastian\s+Guidi\s+y\s+el[\s\S]*?http://www\.jstor\.org/stable/41408182\.\s*$
+# rau2019 PDF p. 2: notas al pie 5-9 (numeradas en el mismo renglón)
+^5\s+Esto\s+es\s+así\s+desde\s+la\s+reforma\s+de\s+1994:\s+antes,\s+la\s+Constitución\s+limitaba\s+aún\s+más\s+el\s+trabajo\s+del\s+Congreso\s+al\s+restringir[\s\S]*?Y\s+Concordada\s+\(La\s+Ley,\s+2004\),\s+494\.\s+Gelli\s+agrega\s+que\s+el\s+juicio\s+sobre\s+esas\s+circunstancias\s+extraordinarias\s+no\s+es\s+justiciable\.\s*$
+# rau2019 PDF p. 3: notas al pie 10-13 (numeradas en el mismo renglón)
+^10\s+Segundo\s+V\.\s+Linares\s+Quintana,\s+Tratado\s+de\s+La\s+Ciencia\s+Del\s+Derecho\s+Constitucional\s+Argentino\s+Y\s+Comparado,\s+vol\.\s+8[\s\S]*?13\s+Véase\s+en\s+este\s+volumen\s+el\s+trabajo\s+de\s+Demián\s+Zayat\s+al\s+respecto\.\s*$
+# rau2019 PDF p. 4: notas al pie 14-16 (numeradas en el mismo renglón)
+^14\s+Véase\s+un\s+muy\s+prolijo\s+relevo\s+en\s+García\s+Montero,\s+Mercedes,\s+“El\s+procedimiento\s+legislativo\s+en\s+América\s+Latina”,\s+en[\s\S]*?pág\.\s+55\.\s*$
+# rau2019 PDF p. 5: notas al pie 17-21 (numeradas en el mismo renglón)
+^17\s+Joaquín\s+V\.\s+González\s+había\s+previsto\s+a\s+fin\s+del\s+siglo\s+XIX\s+esta\s+posibilidad,\s+sosteniendo\s+que\s+el\s+texto\s+del\s+entonces\s+art\.\s+44\s+se[\s\S]*?21\s+Bidart\s+Campos,\s+Manual\s+de\s+la\s+Constitucion…\s+citado,\s+Tomo\s+II,\s+Cap\.\s+XXII,\s+par\.\s+56\.\s*$
+# rau2019 PDF p. 6: notas al pie 22-23 (numeradas en el mismo renglón)
+^22\s+Gregorio\s+Badeni\s+sostiene\s+que\s+“como\s+las\s+formas\s+semidirectas\s+de\s+democracia\s+constituyen\s+una\s+excepción\s+al\s+sistema[\s\S]*?en\s+este\s+volumen\.\s*$
+# rau2019 PDF p. 7: notas al pie 24-25 (numeradas en el mismo renglón)
+^24\s+El\s+llamado\s+Estatuto\s+Fundamental\s+impuesto\s+por\s+el\s+dictador\s+Lanusse\s+en\s+1972\s+preveía\s+un\s+procedimiento\s+similar,\s+aunque[\s\S]*?Sagüés,\s+obra\s+citada,\s+T\.\s+II,\s+pág\.\s+519\.\s*$
+# rau2019 PDF p. 8: notas al pie 26-29 (numeradas en el mismo renglón)
+^26\s+Si\s+bien\s+el\s+artículo\s+no\s+lo\s+aclara,\s+los\s+reglamentos\s+de\s+ambas\s+cámaras\s+especifican\s+que\s+se\s+registrará\s+la\s+mayoría\s+con\s+la\s+que\s+fue[\s\S]*?pero\s+no\s+para\s+el\s+finalmente\s+aprobado\)\.\s*$
+# rau2019 PDF p. 9: notas al pie 30-33 (numeradas en el mismo renglón)
+^30\s+Bidart\s+Campos,\s+El\s+Derecho\s+Constitucional\s+Del\s+Poder,\s+2:261–62;\s+Bidegain,\s+Cuadernos\s+Del\s+Curso\s+de\s+Derecho[\s\S]*?33\s+Ibid\.,\s+4:74\.\s*$
+# rau2019 PDF p. 10: notas al pie 34-35 (numeradas en el mismo renglón)
+^34\s+Ibid\.,\s+4:75\.[\s\S]*?35\s+Ibid\.,\s+4:75\.\s*$
+# rau2019 PDF p. 11: notas al pie 36-38 (numeradas en el mismo renglón)
+^36\s+Carlos\s+Santiago\s+Nino,\s+La\s+Constitucion\s+de\s+La\s+Democracia\s+Deliberativa\s+\(Barcelona:\s+Gedisa,\s+1996\),\s+170–71\.[\s\S]*?38\s+Cfr\.\s+Corte\s+Constitucional\s+de\s+Colombia,\s+Sentencia\s+C\-760\s+de\s+2001\.\s*$
+# rau2019 PDF p. 12: notas al pie 39-39 (numeradas en el mismo renglón)
+^39\s+Roberto\s+Gargarella,\s+“Un\s+Papel\s+Renovado\s+Para\s+La\s+Corte\s+Suprema\.\s+Democracia\s+E\s+Interpretación\s+Judicial\s+de\s+La[\s\S]*?Perrot,\s+2009\),\s+149–72\.\s*$
+# rau2019 PDF p. 14: notas al pie 40-43 (numeradas en el mismo renglón)
+^40\s+Así,\s+por\s+ejemplo,\s+el\s+tratamiento\s+legislativo\s+de\s+los\s+decretos\s+de\s+necesidad\s+y\s+urgencia,\s+de\s+la\s+legislación\s+delegada\s+y\s+de\s+los[\s\S]*?43\s+Fallos\s+189:156\.\s*$
+# rau2019 PDF p. 15: notas al pie 44-44 (numeradas en el mismo renglón)
+^44\s+“Ornecio\s+A\.\s+Giulitta\s+y\s+otros\s+v\.\s+Nación\s+Argentina”,\s+Fallos\s+189:156\.\s*$
+# rau2019 PDF p. 16: notas al pie 45-47 (numeradas en el mismo renglón)
+^45\s+Fallos\s+318:445,\s+cons\.\s+7º\s+del\s+voto\s+de\s+la\s+mayoría\s+y\s+9º\s+de\s+la\s+disidencia\s+del\s+juez\s+Fayt\.[\s\S]*?47\s+Fallos\s+319:1479,\s+cons\.\s+3º\s+del\s+voto\s+de\s+la\s+mayoría\s+y\s+de\s+la\s+disidencia\s+del\s+juez\s+Petracchi\s*$
+# rau2019 PDF p. 17: notas al pie 48-52 (numeradas en el mismo renglón)
+^48\s+El\s+caso\s+también\s+es\s+elocuente\s+acerca\s+de\s+la\s+dificultad\s+de\s+apelar\s+a\s+la\s+intención\s+del\s+legislador\s+como\s+parámetro\s+para\s+evaluar[\s\S]*?disponible\s+en\s+www\.parlamentario\.com/noticia\-26119\.html\s*$
+# rau2019 PDF p. 18: notas al pie 53-55 (numeradas en el mismo renglón)
+^53\s+Sagüés,\s+obra\s+citada,\s+pág\.\s+528\.[\s\S]*?55\s+Véase\s+en\s+este\s+tomo\s+el\s+artículo\s+sobre\s+facultades\s+normativas\s+del\s+Poder\s+Ejecutivo\s+de\s+Juan\s+Ignacio\s+Sáenz,\s*$
+# rau2019 PDF p. 19: notas al pie 56-58 (numeradas en el mismo renglón)
+^56\s+Por\s+su\s+parte,\s+el\s+art\.\s+15\s+de\s+la\s+ley\s+26\.122\s+aclara\s+que\s+sus\s+procedimientos\s+“no\s+obstan\s+al\s+ejercicio\s+por\s+el\s+Congreso\s+de\s+sus[\s\S]*?58\s+Esto\s+no\s+significa\s+que\s+pueda\s+haber\s+regímenes\s+legales\s+que\s+consagren\s+soluciones\s+diferentes\.\s*$
+# rau2019 PDF p. 21: notas al pie 59-60 (numeradas en el mismo renglón)
+^59\s+Esto\s+se\s+diferenciaría\s+de\s+la\s+insistencia\s+legislativa\s+en\s+dos\s+puntos\.\s+Por\s+una\s+parte,\s+un\s+proyecto\s+sobre\s+el\s+que\s+se\s+insiste\s+ya\s+no[\s\S]*?60\s+“Colella”\s+cons\.\s+6°\.\s*$
+# rau2019 PDF p. 22: notas al pie 61-66 (numeradas en el mismo renglón)
+^61\s+“Bustos”,\s+voto\s+de\s+juez\s+Petracchi,\s+cons\.\s+4°\.[\s\S]*?66\s+Ibid\.,\s+2:287\.\s*$
+# rau2019 PDF p. 23: notas al pie 67-71 (numeradas en el mismo renglón)
+^67\s+Cfr\.\s+Bidegain,\s+Cuadernos\s+Del\s+Curso\s+de\s+Derecho\s+Constitucional,\s+85\.\s+Por\s+eso,\s+Bidegain\s+considera\s+que\s+son\s+válidas\s+las[\s\S]*?Ministerio\s+de\s+Justicia,\s+sentencia\s+del\s+4\s+de\s+junio\s+de\s+2015\.\s*$
+# Llamadas de nota que MARCA_DE_NOTA no toma (tras punto, comillas tipográficas o espacio)
+(?<=es\ y\ sancionar\ otras\ nuevas\.)2(?=\ Lo\ )
+(?<=blecido\ por\ la\ Constitución\.)3(?=\ Y\ s)
+(?<=específicamente\ legislativa\.)4(?=\ Com)
+(?<=30\ de\ noviembre\ de\ cada\ año\.)5(?=\s*$)
+(?<=su\ funcionamiento\.)6(?=\s*$)
+(?<=\ prórroga\ y\ extraordinarias\.)7(?=\ Est)
+(?<=lusivamente\ en\ el\nejecutivo\.)8(?=\s*$)
+(?<=\ poder\ ejecutivo\ establece"\.)9(?=\s*$)
+(?<=tación\ durante\ sus\ sesiones\.)11(?=\ En\ )
+(?<=ería,\ forma\ parte\ del\ mismo”)18(?=\.\ La)
+(?<=a\ de\ la\ Cámara\ de\ Diputados”)22(?=\.\ El)
+(?<=narse\ por\ la\ primera\ opción\.)30(?=\s*$)
+(?<=\ mitad\ más\ uno\ de\ 187\ es\ 95\.)31(?=\ Exp)
+(?<=fórmula\ 'más\ de\ la\ mitad'\ "\.)32(?=\s*$)
+(?<=m\ al\ momento\ de\ la\ votación\.)33(?=\s*$)
+(?<=contemporánea:)34(?=\ dar)
+(?<=cuentemente,\ sólo\npolítico"\.)35(?=\s*$)
+(?<=emostrar\ que\ son\ legítimos"\.)36(?=\s*$)
+(?<=\ punto\ de\ vista\ imparcial\ "\.)37(?=\s*$)
+(?<=\ \ \ \ \ \ \ democrático"\.)38(?=\s*$)
+(?<=repertorio\ de\ remedios\.)39(?=\s*$)
+(?<=\ en\ el\ precedente\ “Giulitta”)43(?=\ de\ )
+(?<=ha\ merecido\ la\ observación”\.)44(?=\s*$)
+(?<=ques\ Nacionales\ c/\ Franzini”)45(?=,)
+(?<=“Cacace,\ Josefa”)46(?=\ y\ “)
+(?<=speciales\ San\ Antonio\ S\.\ A\.”)47(?=\.\ Am)
+(?<=so,\ sin\ detrimento\ de\ aquél”)49(?=\.\ La)
+(?<=jurídicamente”)50(?=\.\ Ha)
+(?<=chos\ en\ una\ ley\ inexistente”)60(?=\.)
+(?<=ción\ que\ estimen\ necesaria"\.)62(?=\s*$)
+(?<=de\ los\ poderes\ del\nCongreso\.)63(?=\ Per)
+(?<=censura\ por\ parte\ de\ éste\.)64(?=\ El\ )
+(?<=iertas\ cuestiones,\ etcétera\.)66(?=\s*$)
+(?<=legislativa\.)67(?=\ En\ )
+(?<=pública\ su\ fuera\ necesario"\.)68(?=\s*$)
+(?<=rizase\ o\ una\ orden\ judicial\.)69(?=\s*$)
+(?<=ericana\ de\ Derechos\nHumanos\.)70(?=\ Si\ )
+(?<=so\ a\ la\ información\ pública\.)71(?=\s*$)
+(?<=unidad”) 61(?=\. Compartimos)
+(?<=en el mismo sentido\.) 58(?=\s*$)

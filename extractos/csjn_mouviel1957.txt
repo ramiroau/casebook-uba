@@ -1,0 +1,773 @@
+# fuente: Unidad12/2_CSJN - 1957 - Mouviel, Raúl Oscar y otros.pdf
+# md5_original: b5a3b1762830c616f3c21e2c59635453
+# via: texto
+# generado: 2026-11-19
+# modo: texto
+# limpieza_mecanica: quitados los renglones de margen que contienen sólo un número (marca «19» y folio de página, 38 renglones) y la marca «19» pegada al final de 4 renglones (PDF pp. 4, 14, 15, 20); sin otros cambios respecto de corpus/texto/csjn_mouviel1957.txt
+
+[[PDF p. 1]]
+Voces: CONSTITUCIONALIDAD ~ EDICTO POLICIAL ~ FACULTADES DEL
+PODER LEGISLATIVO ~ LEY PENAL ~ RECURSO EXTRAORDINARIO
+Tribunal: Corte Suprema de Justicia de la Nación(CS)
+Fecha: 17/05/1957
+Partes: Mouviel, Raúl O. y otros
+Publicado en: Colección de Análisis Jurisprudencial, con nota de Pablo
+Luis Manili - Colección de Análisis Jurisprudencial - Colección de
+Análisis Jurisprudencial, con nota de Graciela Zorzoli de Ratto
+
+
+HECHOS: Ante la condena a sufrir penas de arresto por infracción a
+los edictos policiales sobre "desórdenes" y "escándalo" los imputados
+interpusieron recurso extraordinario, sosteniendo que "el régimen de
+faltas vigente y las sentencias de 1ª y 2ª instancias son violatorias de
+la Constitución Nacional, dado que la concentración de las facultades
+judicial, ejecutiva y legislativa en materia de faltas por parte del jefe
+de Policía, violaría el principio de la división de los poderes
+establecido por la Constitución. La Corte hace lugar al recurso,
+revocando la sentencia.
+
+
+SUMARIOS:
+1. Es procedente el recurso extraordinario que cuestionó la validez
+constitucionales de ciertos edictos policiales -en la especie, se
+presentó recurso extraordinario cuestionando los que sirvieron de
+fundamento para una pena de arresto por infracción a edictos
+policiales sobre "desórdenes" y "escándalo"- pues si bien el art. 27 del
+Cód. de Proced. Crim. atribuye a las administraciones policial y
+municipal la facultad de juzgar faltas o contravenciones, ello no
+importa la facultad de configurarlas o definirlas.
+
+
+2. Es inconstitucional el art. 7°, inc. a) del dec. 33.265/44 (ratificado
+por ley 13.030 -Adla, 13.030 (Adla, VII-363; Adla, IV-712) en cuanto
+faculta a la Policía Federal para emitir edictos en materia de policía de
+seguridad -en la especie, se hizo lugar al recurso extraordinario que
+
+
+
+[[PDF p. 2]]
+pretendía su declaración de inconstitucionalidad- pues tal atribución
+así entendida incursiona más allá de la facultad simplemente
+"reglamentaria"    que corresponde       al   Poder   Ejecutivo   o   a   sus
+reparticiones administrativas.
+
+
+3. Si bien el legislador puede dejar a los órganos ejecutivos la
+reglamentación de las circunstancias o condiciones concretas de las
+acciones reprimidas y de los montos de las penas dentro de un
+mínimo y máximo, no puede delegar en el Poder Ejecutivo o en
+reparticiones administrativas -en la especie, se presentó recurso
+extraordinario cuestionando la validez constitucional de los edictos
+policiales que sirvieron de fundamento para una pena de arresto por
+"desórdenes" y "escándalo"- la total configuración de los delitos ni la
+libre elección de las penas.
+
+
+TEXTO COMPLETO: Opinión del Procurador General de la Nación:
+
+Raúl O. Mouviel y otros han sido condenados en
+estos autos a sufrir penas de arresto por infracción a
+los edictos policiales sobre "desórdenes" (art. 1°, inc.
+c]) y "escándalo" (art. 1°, inc. a]) , agraviándose la defensa
+del fallo respectivo por considerarlo violatorio de los arts. 29, 68, incs.
+11, 26 y 27, 83, inc. 3°, y 90 de la Constitución nacional.
+El tema no es novedoso, ni incierta la jurisprudencia existente al
+
+respecto. La validez de los edictos emanados del jefe de
+
+Policía ha sido reconocida invariablemente a partir del caso de
+Fallos, t. 155, p. 178 (v. también t. 169, p. 209; t. 175, p. 311; t. 191,
+p. 388; t. 192, p. 81; t. 193, p. 244; t. 199, p. 395; t. 208, p. 253).
+Sin embargo, tan autorizadas han sido las objeciones levantadas
+contra este criterio (Jiménez de Asúa, "Tratado de derecho penal", t.
+2, p. 325; Nuñez, Ricardo C., "La ley, única fuente del derecho penal
+argentino"), tal es el grado de amplitud que ha llegado a cobrar en la
+actualidad el conjunto de las normas así dictadas, y tan fresco
+
+
+
+[[PDF p. 3]]
+permanece todavía en la memoria el recuerdo de las funestas
+consecuencias que para el ejercicio legítimo de la libertad tuvo su
+aplicación en los últimos años, que considero necesario examinar
+nuevamente la cuestión con la amplitud que su importancia exige.
+El sistema constitucional argentino se afirma en el principio
+de la división de poderes. De acuerdo con este principio, el
+Poder Legislativo dicta las leyes; el Poder Ejecutivo las
+ejecuta y hace cumplir; el Poder Judicial las interpreta y aplica
+cuando se suscitan controversias.
+Nuestra Carta fundamental, a diferencia de la de los Estados Unidos
+de América, que no contempló el punto en forma expresa, previó la
+necesidad de que la rama ejecutiva colaborara con el Congreso para
+la mejor ejecución de las leyes, estableciendo en su art. 83, inc. 2°,
+que el Presidente de la Nación "expide las instrucciones y
+reglamentos que sean necesarios para la ejecución de las
+leyes de la Nación, cuidando de no alterar su espíritu con
+excepciones reglamentarias ... ". No es, pues, por delegación
+legislativa sino en uso de una atribución que le pertenece de modo
+exclusivo que el Poder Ejecutivo reglamenta, en este país, las leyes
+dictadas                      por                     el                        Congreso.
+
+Sin   embargo,               la   existencia          de       esta       atribución
+reglamentaria no debe inducir a la errónea creencia
+de que en algún modo el Poder Ejecutivo tiene
+facultades concurrentes con las que son propias del
+Poder Legislativo. Ya estableció V. E., en el t. 1, p. 32 de su
+colección de Fallos, que "siendo un principio fundamental de nuestro
+sistema     político    la    división   del        gobierno    en       tres    grandes
+departamentos,         el     Legislativo,     el     Ejecutivo      y     el     Judicial,
+independientes y soberanos en su esfera, se sigue forzosamente que
+
+las atribuciones de cada uno le son peculiares y exclusivas; pues el
+
+uso        concurrente              o    común             de        ellas         haría
+necesariamente desaparecer la línea de separación
+
+
+[[PDF p. 4]]
+entre los tres altos poderes políticos , y destruiría la base
+de nuestra forma de gobierno".
+Es preciso, por lo tanto, ser muy cautos en la apreciación de los
+
+límites de la facultad reglamentaria conferida por el
+art. 83, inc. 2°, y sobre todo no olvidar jamás que su
+correcto ejercicio presupone el contenido de
+una ley necesariamente preexistente. Reglamentar
+es tornar explícita una norma que ya existe y a la que el Poder
+Legislativo le ha dado una substancia y contornos definidos; y ello,
+
+sólo   en     la   medida      que     sea    necesario         para    su
+ejecución, cuidando siempre de no alterar su espíritu con
+excepciones                                                 reglamentarias.
+"Para establecer las cosas en un terreno firme que impida al Poder
+Ejecutivo arrogarse atribuciones legislativas al tiempo de dictar
+decretos -dice Huneuus, comentando un precepto similar al nuestro-,
+sólo se necesita vigilancia activa de parte del Congreso y de parte de
+
+los tribunales, cada uno en su esfera de acción ... Ejecutar las
+
+leyes no es dictarlas" ("Obras", t. 2, p. 48, 2ª ed., Santiago de
+Chile, 1891). Efectivamente, el poder reglamentario se da
+
+para hacer posible la ejecución de la ley , por donde
+resulta evidente que todo intento de reglamentar lo que no ha
+sido materia de ley constituye una pura y simple usurpación
+de atribuciones legislativas, y no ejercicio legítimo de la facultad
+conferida     en   el   art.   83,   inc.    2°   de   la     Constitución.
+Es preciso agregar también que lo que no puede hacer el Poder
+Ejecutivo por sí sólo, tampoco lo puede aunque cuente para
+ello con una autorización legal, porque de acuerdo con el art.
+41 de la Constitución el Congreso está investido del poder
+legislativo y no puede delegarlo sin violar la prohibición del
+art. 20. "Ciertamente -dijo V. E. en Fallos, t. 148, p. 430- el Congreso
+no puede delegar en el Poder Ejecutivo o en otro departamento de la
+
+
+[[PDF p. 5]]
+Administración, ninguna de las atribuciones o poderes que le han sido
+expresa         o     implícitamente        conferidos.   Es     ese    un        principio
+uniformemente admitido como esencial para el mantenimiento e
+integridad del sistema de gobierno adoptado por la Constitución y
+proclamado enfáticamente por ésta en el art. 29 (actual art. 20)
+(Willoughby, p. 1317; Cooley, C. L., 7ª ed., p. 163)".
+  La diferencia entre una indebida delegación de atribuciones
+legislativas y una simple remisión al poder reglamentario del
+Presidente de la República para reglar pormenores y cuestiones de
+detalle, se estableció con toda claridad en el recién citado caso de
+Fallos,    t.       148,   p.   430,   al   expresarse:   "Existe      una    distinción
+fundamental entre la delegación de poder para hacer la ley y la de
+conferir        cierta     autoridad   al    Poder   Ejecutivo    o    a     un    cuerpo
+administrativo a fin de reglar los pormenores y detalles necesarios
+para la ejecución de aquélla. Lo primero no puede hacerse, lo
+segundo es admitido aun en aquellos países en que, como los Estados
+Unidos de América, el poder reglamentario se halla fuera de la letra
+de la Constitución".
+Precisamente, el recuerdo de dos fallos célebres en los anales de la
+jurisprudencia de la Corte Suprema de los Estados Unidos, creo que
+contribuirá a precisar cuál es el límite de validez del ejercicio del
+poder reglamentario acordado a la rama ejecutiva.El primero es el
+caso "Panamá Refining C° v. Ryan", fallado el 7 de enero de 1935
+(293 U. S. 388, v. traducción en JA, t. 49, sec. jur. extr., p. 6), en el
+que se declaró inconstitucional la sección 9ª, párr. c) del tít. I de la ley
+de reconstrucción de la industria nacional ("Nira"), de junio 16 de
+1933, que autorizaba al Presidente de los Estados a prohibir el
+transporte interestadual y con el extranjero del petróleo producido o
+retirado de depósito en exceso de la cantidad permitida por la
+legislación de los Estados particulares y establecía, al propio tiempo,
+que toda violación a una orden del Presidente en tal sentido sería
+castigada con una multa no mayor de 1000 dólares o con prisión que
+no excediera de seis meses, o con ambas conjuntamente.
+
+
+
+[[PDF p. 6]]
+El "chief justice" Hughes expuso la opinión de la mayoría del tribunal
+y merecen destacarse, entre otros, los siguientes párrafos de su
+exposición: "La sección 9ª, c) no establece si, o en qué circunstancias,
+o bajo qué condiciones, el Presidente deba prohibir el transporte de la
+cantidad de petróleo y sus derivados producida excediendo la
+permitida por el Estado. No establece criterio alguno que gobierne el
+rumbo del Presidente. No exige fundamento alguno por parte del
+Presidente como condición de su acción. El Congreso, en la sección
+9ª, c), no proclama, pues, política alguna acerca del transporte de la
+producción excedente. En cuanto a esta acción se refiere, confiere al
+Presidente una autoridad ilimitada para determinar la política y para
+hacer efectiva o no la prohibición, como lo crea conveniente. Y la
+desobediencia a sus órdenes es calificada de delito castigado con
+multa y prisión... ". "El Congreso dejó el asunto al Presidente, sin
+normas ni reglas, para que lo manejara a su placer. El esfuerzo de
+proporcionar   un   criterio   mediante   una    ingeniosa   y   diligente
+interpretación permite aún tal amplitud autorizada de acción que
+equivale en esencia a conferir al Presidente las funciones de una
+Legislatura, más bien que las de un funcionario ejecutivo o
+administrativo que lleva a cabo una política legislativa declarada.
+Nada hallamos en la sección 1ª que limite o controle la autoridad
+conferida por la sección 9ª, c)... ". "En todos los casos en que la
+cuestión ha sido planteada, la Corte ha reconocido que existen límites
+de delegación que no pueden constitucionalmente ser excedidos.
+Creemos que la sección 9ª, c), va más allá de dichos límites. En lo que
+se refiere al transporte de la producción de petróleo excedente del
+permiso del Estado, el Congreso no ha hecho declaración de política
+alguna, no ha establecido norma alguna, no ha sentado regla alguna.
+No existe ningún requisito, definición de circunstancias o condiciones
+conforme con lo que al transporte debe prohibirse o permitirse".
+El segundo de los fallos a que he hecho alusión recayó en el llamado
+"caso de las aves de corral" (Schechter Poultry Corp. c. United
+States", 295 U. S. 495; v. traducción en J. A., t. 50, sec. jur, extr., p.
+
+
+
+[[PDF p. 7]]
+37) y siguió de cerca al anterior, como que fue dictado el 27 de mayo
+de 1935. También se trataba de una de las leyes integrantes del plan
+de la "Nira", la cual autorizaba al Presidente a aprobar "códigos de
+competencia leal" para las diversas ramas de la producción, a
+solicitud de una o más asociaciones o grupos representantes de una
+industria o comercio.
+La sentencia que declaró inconstitucional la disposición respectiva fue
+dictada   por   unanimidad,    pero    con   la   disidencia   parcial   de
+fundamentos del "justice" Cardozo, a los que adhirió el "justice"
+Stone. El "chief justice" Hughes expresó también en este caso la
+opinión de la Corte, resumiendo el punto relativo a la delegación de
+las facultades legislativas en los siguientes términos: "La sección 3ª
+de la ley de reconstrucción no tiene precedentes. No proporciona
+norma alguna respecto de ningún comercio, industria o actividad. No
+contempla la imposición de reglas de conducta para ser aplicadas a
+situaciones     de   hecho    dadas,    determinadas      mediante       los
+procedimientos administrativos adecuados. En lugar de prescribir
+reglas de conducta, autoriza la redacción de códigos que las
+establezcan. Para tal empresa legislativa, la sección 3ª no sienta
+normas, fuera de la expresión de los propósitos generales de
+rehabilitación, corrección y expansión señalados en la sección 1ª. En
+vista del alcance de esa amplia declaración y de la naturaleza de las
+pocas restricciones que se le imponen, el arbitrio del Presidente para
+aprobar o proscribir códigos y sancionar así leyes para el gobierno del
+comercio e industria en todo el país, carece virtualmente de toda
+traba. Creemos que la autoridad para dictar códigos así conferida
+importa una delegación inconstitucional de facultades legislativas".
+El "justice" Cardozo, que había votado en disidencia en el caso
+"Panamá Refining C° c. Ryan", por considerar que no mediaba allí una
+delegación indefinida que permitiera al Presidente "vagar a voluntad
+entre todas las materias posibles del transporte interestadual,
+tomando y eligiendo a su placer", fue categórico al exponer su
+opinión en este segundo asunto: "El poder delegado para legislar que
+
+
+
+[[PDF p. 8]]
+ha encontrado expresión en este código -dijo- no ha sido canalizado
+entre taludes que le impidan su desborde. Es ilimitado e impreciso, si
+se me permite repetir mis propias palabras de una sentencia anterior
+("Panamá Refining C° v. Ryan", 293 U. S. 388, etc.) ... ".
+Podrá ser objeto de duda actualmente, hasta qué punto se aceptan
+en todo su rigor las consecuencias que derivan de la doctrina
+establecida en estas decisiones, pero me parece indudable que los
+principios en que ella se asienta deben considerarse inconmovibles en
+materia penal, y constituyen, por lo tanto, una guía segura para
+orientarse          en          la       cuestión           de         autos.
+¿Qué otra cosa, en efecto, que una verdadera autorización para dictar
+un código de faltas implica la facultad reconocida al jefe de Policía,
+primero, por la jurisprudencia sentada a partir de Fallos, t. 155, p. 178
+y, posteriormente, mediante la sanción del art. 7°, inc. a) del Estatuto
+de la Policía Federal (dec. 33.265/44, ratificado por la ley 13.030)?
+Confieso que no alcanzo a comprender cómo, precisamente a través
+de la clara doctrina establecida en Fallos, t. 148, p. 430, ha podido
+llegarse a declarar la validez de los edictos policiales en t. 155, p.
+178. Prescindo de que el art. 27 del Cód. de Proced. Crim., invocado
+entonces como fuente de la facultad de emitir estos edictos, no es
+más que una norma atributiva de competencia; y prescindo también
+de que el jefe de Policía no es el titular del poder reglamentario
+acordado por la Constitución al Poder Ejecutivo. Pero, no encuentro
+explicación para la afirmación, contenida en el cons. 7°, de "que
+cuando el Poder Ejecutivo es llamado a ejercer sus poderes
+reglamentarios en materia de policía de seguridad a mérito de una
+ley que lo ha autorizado para ello, lo hace no en virtud de una
+delegación de atribuciones legislativas, sino a título de una facultad
+propia consagrada por el art. 86, inc. 2° de la Constitución y cuya
+mayor o menor extensión queda determinada por el uso que de la
+misma        facultad    haya        hecho   el     Poder        Legislativo".
+Y bien: si ello es así, preciso será reconocer que el Congreso podría
+autorizar al Poder Ejecutivo, no digo ya al jefe de Policía, a dictar
+
+
+
+[[PDF p. 9]]
+también un Cód. Penal, sin otra cortapisa que la fijación del máximo
+de las penas aplicables; y que, en tal caso, dada la existencia de una
+autorización legal, el Presidente no usurparía atribuciones legislativas
+sino que procedería en ejercicio del poder reglamentario.
+Evidentemente no se ha reparado en que la facultad genérica
+
+de reglamentar las leyes acordada por el art. 83, inc.
+2°, exige algo más que una simple autorización
+legislativa para que su ejercicio resulte válido; que
+es necesaria la existencia de leyes dictadas por el
+Congreso lo suficientemente definidas y precisas, como
+para que ese ejercicio no se traduzca -empleando la expresión del
+"justice" Cardozo- en un "vagar a voluntad entre todas las materias
+posibles" de    lo que constituye el objeto         de la   autorización.
+En el caso que se examina, ese objeto es la policía de seguridad,
+como lo señaló V. E. en Fallos, t. 155, p. 178, y tal cual resulta ahora
+del texto expreso del art. 7°, inc. a) del Estatuto de la Policía Federal,
+que entre las facultades de la misma, o mejor dicho de su jefe, prevé
+la de "emitir y aplicar edictos, dentro de la competencia asignada por
+el Cód. de Proced. Crim. (ley 2372), para reprimir actos no
+previstos por las leyes, en materia de policía de seguridad; y dictar
+las    reglas     de     procedimiento       para     su     aplicación".
+¿Puede darse algo más indefinido que esta vaga referencia a la
+policía de seguridad? La medida de sus posibilidades la da, en todo
+caso, el número actual de edictos: veinticuatro, es decir,
+exactamente el doble de los títulos que integran el libro II del
+Cód. Penal, dedicado a la consideración de los delitos en
+particular.
+Parecería que en una correcta interpretación constitucional la
+facultad de dictar el Cód. de Faltas debiera considerarse
+exclusiva de la rama legislativa y, sin embargo, la Capital Federal
+cuenta en la actualidad con un auténtico código contravencional
+dictado por la sola voluntad del jefe de Policía. Lo que no hubiera
+
+
+
+[[PDF p. 10]]
+podido hacer el Presidente de la República, ni por supuesto los
+ministros del Poder Ejecutivo, a quienes la Constitución prohíbe tomar
+resoluciones      que        no       conciernan     al    régimen     económico      y
+administrativo de sus respectivos departamentos, lo ha venido
+haciendo en cambio un funcionario administrativo que, además,
+reúne los poderes de ejecutar y juzgar en los mismos casos que
+legisla.
+He dicho que la Capital Federal cuenta en la actualidad con un
+verdadero Cód. de Faltas como producto de la actividad legislativa
+que en forma discrecional le ha sido reconocida al jefe de Policía, y no
+he exagerado por cierto al afirmarlo así.
+El conjunto de los edictos contenidos en el R. R. P. F. 6 de la Policía
+Federal constituye, en efecto, un cuerpo legal orgánico que hasta
+cuenta con una parte general y otra dedicada al procedimiento.
+La "parte general" consta de ochenta y cinco artículos y de los
+diversos capítulos que la componen cabe mencionar, a título de
+ejemplo, los que corresponden a imputabilidad, tentativa, complicidad
+y encubrimiento, diversas clases de penas, reincidencia, condena
+condicional,     ejercicio        y   extinción     de    las   acciones,    resultando
+interesante destacar que, de acuerdo con el art. 10, en las
+contravenciones se aplican, además de las penas de multa y arresto,
+previstas en el art. 27 del Cód. de Proced. Crim., las de amonestación
+e inhabilitación.
+En cuanto a los veinticuatro edictos a que antes hice referencia
+versan sobre los más variados tópicos, e integran lo que con
+propiedad podría llamarse "parte especial" de este verdadero código
+de faltas. Largo sería enumerarlos, por lo que baste señalar que en
+ellos se legisla toda suerte de materias, desde la referente a asilados
+políticos   hasta      la     relativa     seguridad      económica     y    reuniones
+deportivas, pasando por turismo, juegos de naipes y seguridad
+públicas,   en    un        total     de   ciento   cuarenta      y   ocho    artículos.
+Sea, pues, por su metodología, o por la variedad y extensión de los
+temas contemplados, pienso que no es una hipérbole la afirmación de
+
+
+
+[[PDF p. 11]]
+que el R. R. P. F. 6 configura un código. Hiperbólica sí me resulta, en
+cambio, la pretensión de que todo ese amplio cuerpo de disposiciones
+es consecuencia legítima del poder reglamentario ejercido en torno a
+las escuetas e imprecisas disposiciones del art. 27 del Cód. de Proced.
+Crim. o del art. 7°, inc. a) del Estatuto de la Policía Federal.Puede aquí
+repetirse, una vez más, con el "justice" Cardozo, que "el poder
+delegado para legislar que ha encontrado expresión en este código,
+no ha sido canalizado entre taludes que le impidan su desborde", y
+aún agregar con las mismas palabras empleadas por este gran jurista
+en el ya citado caso "Schechter Poultry Corp. v. United States", que
+"esto importa una delegación desenfrenada".
+Pero, no solamente desde el punto de vista del juego correcto del
+principio de la división de poderes son objetables los edictos
+policiales.
+Está de por medio el significado que tiene en nuestra Constitución la
+
+garantía de que nadie puede ser penado sin juicio previo
+
+fundado en ley anterior al hecho del proceso . En este
+sentido, y refiriéndose precisamente a una pena de $ 100 de multa
+impuesta por una contravención policial, ha dicho V. E. con palabras
+señeras que nunca serán recordadas lo bastante y que resultan
+totalmente contradictorias con el criterio seguido en Fallos, t. 155, p.
+178, que "la configuración de un delito por leve que sea, así como su
+represión, es materia que hace a la esencia del Poder Legislativo y
+escapa de la órbita de las facultades ejecutivas. Nadie está
+obligado a hacer lo que la ley no manda ni privado de lo que
+ella no prohíbe (art. 19, Constitución). De ahí nace la
+necesidad de que haya una ley que mande o prohíba una
+cosa, para que una persona pueda incurrir en falta por haber
+obrado u omitido obrar en determinado sentido. Y es necesario
+que haya, al mismo tiempo, una sanción legal que reprima la
+contravención para que esa persona deba ser condenada por tal
+hecho (art. 18). Estos dos principios fundamentales y correlativos en
+el orden penal, imponen la necesidad de que sea el Poder Legislativo
+
+
+[[PDF p. 12]]
+quien establezca las condiciones en que una falta se produce y la
+sanción que le corresponde, ya que el Poder Ejecutivo solamente
+puede reglamentar la ley, proveyendo a su ejecución, pero cuidando
+siempre de no alterar su sentido (art. 86, inc. 2°). Así, en el caso del t.
+178, p. 355, con motivo de una sanción penal creada por el Poder
+Ejecutivo nacional de orden pecuniario, esta Corte dijo: 'Toda nuestra
+organización política y civil reposa en la ley. Los derechos y
+obligaciones de los habitantes así como las penas de cualquier clase
+que sean, sólo existen en virtud de sanciones legislativas y el Poder
+Ejecutivo no puede crearlas ni el Poder Judicial aplicarlas si falta la ley
+que las establezca' (Fallos, t. 191, p. 245)".
+No se diga, pues, que la circunstancia de no haberse ultrapasado en
+los edictos el límite de las sanciones mencionadas en el art. 27 del
+Cód. de Proced., basta para validarlos, porque tan inconstitucional
+resulta la delegación del poder para fijar penas como la del de definir
+acciones a los efectos de imponer esas penas. El precepto penal es
+inescindible y se integra con ambos elementos, uno y otro del
+exclusivo resorte del Poder Legislativo, como lo ha destacado V. E. en
+el            fallo       que           acabo           de           citar.
+Por otra parte, la garantía del art. 29 asegura que "ningún habitante
+de la Nación puede ser condenado sin juicio previo fundado en ley
+anterior al hecho del proceso", y en el texto constitucional el término
+"ley" no puede tener más que un sentido: el de ley formal, o sea, de
+acto emanado de la rama del gobierno que está investida del Poder
+Legislativo (art. 41), en el modo establecido por los arts. 69 y sigtes.
+para la "formación y sanción de las leyes". Por ello, no creo posible
+sostener que una disposición emanada de una simple autoridad
+administrativa o de un poder que no detenta la atribución de legislar,
+sea la "ley" que la Constitución ha exigido en algunos casos
+especiales como condición necesaria para autorizar, en homenaje al
+interés general, el menoscabo de algún derecho fundamental de los
+individuos.
+Cuando el art. 38 de la Constitución dice que la expropiación por
+
+
+
+[[PDF p. 13]]
+causa de utilidad pública o interés general debe ser calificada por
+"ley" y previamente indemnizada, me parece evidente que se ha
+referido a una ley del Congreso y no sé que se haya sostenido o
+resuelto lo contrario (Gonzalez, J. V., "Manual de la Constitución
+argentina", p. 127, 9ª ed.; Montes de Oca, "Lecciones de derecho
+constitucional", t. 1, p. 389, año 1917; de Vedia, A. "Constitución
+argentina", p. 88, año 1907).
+¿Habrá de concluirse entonces que la Constitución ha protegido con
+mayor vigor la propiedad que la libertad y que si es necesaria una
+"ley" para privar a una persona del goce de sus bienes no lo es en
+cambio para encarcelarla; que a este último efecto basta con una
+disposición dictada por el jefe de Policía? No ha sido este, en todo
+caso, el criterio que informó lo resuelto en Fallos, t. 136, p. 200,
+donde sentó los siguientes principios: "Que es una de las más
+precisas garantías consagradas por la Constitución la de que ningún
+habitante de la Nación puede ser penado sin juicio previo fundado en
+ley anterior al hecho del proceso. Que en el presente caso ha sido
+violada dicha garantía desde que se han aplicado penas fundadas en
+simples decretos del Poder Ejecutivo provincial, que no tienen fuerza
+de ley dentro de nuestro régimen constitucional. Que no cabe admitir
+que la Legislatura de Mendoza haya podido confiar o delegar en el
+Poder Ejecutivo la facultad de establecer sanciones penales por vía de
+reglamentación de las leyes dictadas por aquélla, dado lo que al
+respecto    dispone        el       art.      19   de    la    Constitución".
+Desde otro punto de vista sería erróneo pretender que son aplicables
+al problema que vengo tratando los principios que justifican la validez
+
+de las que en doctrina se denominan leyes penales en blanco.
+En esta categoría encuadran algunas disposiciones como la del art.
+6°, primera parte de la ley 12.830 o la de los arts. 205 y 206 del Cód.
+Penal, en los que las conductas punibles sólo resultan genéricamente
+determinadas, remitiéndose la ley para su especificación a la
+instancia    legislativa        o          bien    a    la    administrativa.
+
+Por supuesto, no existe problema cuando la ley penal en
+
+
+[[PDF p. 14]]
+blanco se remite a otra ley. Pero, cuando la remisión es a la
+instancia administrativa conviene distinguir dos situaciones: una, en
+la que la conducta punible está descripta en la ley penal, pero la
+figura   debe   ser    integrada   con   un   elemento   de   hecho   cuya
+especificación se defiere al Poder administrador, como ocurre en el
+caso de la infracción a la ley de precios máximos (art. 2°, inc. c], ley
+12.830); y otra, en la cual la conducta punible no se especifica sino
+por referencia a normas dictadas por el Poder Ejecutivo.La primera de
+estas formas de no puede, en principio, dar lugar a objeciones de
+carácter constitucional. Pero, importa dejar bien sentado respecto de
+la segunda, que ella sólo es admisible si el Poder Ejecutivo ha dictado
+las normas a que la ley se remite en ejercicio legítimo de la atribución
+reglamentaria que le confiere el art. 83, inc. 2° de la Constitución,
+porque en tal caso dicha norma es como si fuera la misma ley
+reglamentada, puesto que la integra.
+De otro modo, no se respetaría la garantía del art. 29 de la
+Constitución ya que, en definitiva, aunque por vía indirecta, resultaría
+que la descripción de la conducta punible no estaría hecha en la "ley"
+sino en una disposición autónoma del Poder Ejecutivo.
+Superfluo es observar a esta altura del dictamen que, ni el art. 27 del
+Cód. de Proced. Crim., tal como ha sido interpretado en Fallos, t. 155,
+p. 178, ni el art. 7°, inc. a) del Estatuto de la Policía Federal satisfacen
+las                         exigencias                          apuntadas.
+No se argumente, por último, que la materia legislada en los edictos
+policiales es de menor cuantía, porque el monto de las sanciones
+resulta pequeño. Aparte de que ello no bastaría para despojarles de
+su auténtico carácter de disposiciones penales, es un hecho
+comprobado, del cual conservamos desgraciadamente muy recientes
+
+recuerdos, que cuando se quiere subvertir el régimen
+
+republicano        y    democrático,          cuando     se    pretende
+coartar el libre ejercicio de los más elementales
+derechos individuales, las simples contravenciones
+
+
+[[PDF p. 15]]
+resultan ser uno de los principales instrumentos de
+que se valen los gobiernos dictatoriales para sofocar
+la libertad. Sirva esta reflexión para reafirmar que, dentro del
+marco constitucional, sólo la prudencia del legislador, nunca la
+voluntad de un funcionario ejecutivo, puede asumir la delicada y
+trascendente función de describir acciones a los fines de imponer
+penas.
+La jurisprudencia sentada, entre otros, en Fallos, t. 210, p. 554; t.
+215, ps. 159 y 257; t. 217, p. 689, me obliga a abordar la cuestión de
+si el cumplimiento de la pena convierte en abstracto el caso,
+determinando la improcedencia del recurso extraordinario.
+Disiento en forma absoluta con este criterio. La condena es un acto
+jurídico que sobrevive a la ejecución de la pena acarreando una serie
+de consecuencias que impiden sostener con fundamento que no haya
+interés en la decisión. Basta señalar los efectos que ella tiene en
+materia de reincidencia y condena de ejecución condicional aun en el
+actual régimen de edictos (arts. 54 y 58, disposiciones generales del
+R. R. P. F. 6), para comprender que existe un real interés jurídico en el
+fallo       aunque         la        pena         esté        cumplida.
+Los excesos a que puede llevar la tesis contraria los patentiza el caso
+de Fallos, t. 231, p. 35 en el que se llegó hasta negar la procedencia
+de un recurso extraordinario tendiente a establecer el alcance de una
+ley de amnistía so pretexto de que el cumplimiento de la pena
+tornaba irrelevante para el beneficiario la declaración de que la ley
+era aplicable a su situación. En otras palabras, el hecho de haber
+cumplido la pena se consideró obstáculo para que se alcanzara el fin
+primordial de la ley, que no era otro que el de desincriminar la
+conducta que motivó la condena.
+En el mismo orden de ideas no debe olvidarse tampoco el sonado
+caso "Grondona Sáenz Valiente y otras", resuelto por la Corte
+Suprema el 8 de octubre de 1948, que no he podido encontrar en la
+colección de Fallos. Las apelantes pretendían la revisión de la
+sentencia de un juez de faltas de la Municip. de la Capital, que se
+
+
+[[PDF p. 16]]
+decía dictada con violación de la garantía de la defensa en juicio.
+Pero, habiendo enviado el inferior una comunicación en la que
+informaba haber sido puestas en libertad las interesadas por haber
+cumplido la condena impuesta, fue decidido que en tales condiciones
+carecía de objeto y resultaba abstracto todo pronunciamiento sobre
+las cuestiones planteadas en el recurso extraordinario, invocándose al
+efecto como fundamento lo resuelto en fallos, t. 197, p. 321 y los allí
+citados.
+Pues bien, basta leer este fallo y los que en él se citan (Fallos, t. 5, p.
+316; t. 155, p. 248; t. 193, p. 260) para percibir que se refirieron a
+una situación totalmente diversa, como que en ellos no se trataba de
+condenas definitivas sino de recursos de hábeas corpus carentes de
+todo objeto por haber sido el detenido puesto en libertad o hallarse
+fuera de la jurisdicción argentina la persona de cuyo amparo se
+trataba.
+En cuanto al primero de los casos que cité al comienzo, o sea, el de
+Fallos, t. 210, p. 554, se apoya en el de t. 209, p. 337 y el sumario de
+éste remite a su vez al t. 203, p. 312. Pero, también aquí la situación
+resulta distinta de la que se plantea en caso de condena, puesto que
+V. E. se limitó a declarar improcedente el recurso extraordinario
+interpuesto contra una resolución de la Dir. Gral. de Espectáculos
+Públicos que dispuso clausurar durante dos días un cinematógrafo por
+haberse    cumplido   efectivamente     la   medida    y   no   tener,   en
+consecuencia, objeto su revocatoria. Como se observa, se ha ido
+extendiendo en forma que estimo indebida la aplicación de un
+principio que si resulta razonable en los casos de medidas que no
+acarrean, por su naturaleza, modificaciones en el estado jurídico de
+las personas, aparece como notoriamente injusto cuando se trata de
+decisiones judiciales que declaran a alguien responsable de una
+infracción penal, resultando contrario incluso a la garantía de la
+defensa en juicio.
+Que subsiste un interés jurídico digno de protección aunque la pena
+se haya cumplido lo demuestra la disposición del art. 552 del Cód. de
+
+
+
+[[PDF p. 17]]
+Proced. Crim., cuyo espíritu es evidentemente opuesto al que inspira
+la jurisprudencia a que me he referido: "El recurso de revisión -dice
+este texto- podrá promoverse por el condenado o por su cónyuge,
+descendientes, ascendientes o hermanos y por el ministerio fiscal. La
+muerte del condenado no impide que se deduzca para rehabilitar su
+memoria     o   procurar    el   castigo   del   verdadero    culpable".
+Por lo expuesto, opino que los edictos policiales sobre "desórdenes" y
+"escándalo", sobre cuya base se han dictado las condenas de autos
+son violatorios de la garantía establecida en el art. 29 de la
+Constitución nacional y del principio de la separación de poderes en
+que se funda el régimen republicano de gobierno. Correspondería, en
+consecuencia, revocar la sentencia apelada en cuanto pudo ser
+materia de recurso extraordinario. - Abril 25 de 1956. - Sebastián
+Soler.
+
+
+Buenos Aires, mayo 17 de 1957.
+Considerando: Que consta en autos que el jefe de Policía de la
+Capital, por resolución del 12 de noviembre de 1955, impuso a los
+acusados "la pena única e individual de treinta días de arresto no
+redimibles por multa, por 'desórdenes' (art. 1°, inc. c]) y 'escándalo'
+(art. 1°, inc. a]) y aplicación del núm. 36 del R. R. P. F. 6 y
+circunstancia agravante establecida en el art. 3° del edicto señalado
+en primer término -faltas de distinta naturaleza (núm. 13, reglamento
+citado) -"; resolución que fue posteriormente confirmada en lo
+principal por sentencia del juez en lo penal correccional.
+Que contra esta sentencia el defensor de los imputados interpuso
+recurso extraordinario para ante esta Corte, sosteniendo que "el
+régimen de faltas vigente y las sentencias de 1ª y 2ª instancias son
+violatorias de los arts. 1°, 29, 68, incs. 11, 26 y 27, 83, inc. 3° y 90"
+de la reforma de 1949 (arts. 1°, 18, 67, incs. 11, 27 y 28, 86, inc. 3° y
+95, Constitución vigente), dado que la concentración de las facultades
+judicial, ejecutiva y legislativa en materia de faltas por parte del jefe
+
+
+
+
+[[PDF p. 18]]
+de Policía, violaría el principio de la división de los poderes
+establecido por la Constitución.
+Que    esta    Corte,   en    decisiones     anteriores,    ha    declarado    la
+constitucionalidad de los edictos policiales con el fundamento de que
+"no hay delegación de funciones legislativas al conferir al Poder
+administrador o a ciertas reparticiones, la facultad de fijar específicas
+normas    de    policía,     crear    infracciones   y   fijar   las   sanciones
+correspondientes, dentro de límites establecidos por la misma ley,
+sino en ejercicio de la facultad reglamentaria que preceptúa el inc. 2°
+del art. 86 de la Constitución nacional conformada, es claro, al
+espíritu y letra de la ley reglamentada" y de que el edicto policial no
+vulnera la garantía establecida por el art. 18 de la Constitución, que
+requiere para la validez de una sanción penal la existencia de una ley
+anterior, pues constituye una simple consecuencia de la autorización
+legislativa contenida en el art. 27 del Cód. de Proced. Crim., y es tan
+obligatorio, por consiguiente, como la ley misma (Fallos, t. 155, ps.
+178 y 185; t. 156, p. 323; t. 169, p. 209; t. 175, p. 311; t. 191, ps. 388
+y 497; t. 192, p. 181; t. 193, p. 244; t. 199, p. 395; t. 206, p. 293; t.
+208,              p.                 253,            entre                otros).
+Que, sin embargo, esta Corte ha establecido también en causas que
+versaban sobre materias análogas, que "es una de las más preciosas
+garantías consagradas por la Constitución la de que ningún habitante
+de la Nación puede ser penado sin juicio previo fundado en ley
+anterior al hecho del proceso" (Fallos, t. 136, p. 200); que "toda
+nuestra organización política y civil reposa en la ley. Los derechos y
+obligaciones de los habitantes así como las penas de cualquier clase
+que sean, sólo existen en virtud de sanciones legislativas y el Poder
+Ejecutivo no puede crearlas ni el Poder Judicial aplicarlas si falta la ley
+que las establezca" (Fallos, t. 178, p. 355); y que "la configuración de
+un delito, por leve que sea, así como su represión, es materia que
+hace a la esencia del Poder Legislativo y escapa de la órbita de las
+facultades ejecutivas. Nadie está obligado a hacer lo que la ley no
+manda ni privado de lo que ella no prohíbe (art. 19, Constitución). De
+
+
+
+[[PDF p. 19]]
+ahí nace la necesidad de que haya una ley que mande o prohiba una
+cosa, para que una persona pueda incurrir en falta por haber obrado
+u omitido obrar en determinado sentido. Y es necesario que haya, al
+mismo tiempo, una sanción legal que reprima la contravención para
+que esa persona deba ser condenada por tal hecho (art. 18). Estos
+dos principios fundamentales y correlativos en el orden penal,
+imponen la necesidad de que sea el Poder Legislativo quien
+establezca las condiciones en que una falta se produce y la sanción
+que le corresponde, ya que el Poder Ejecutivo solamente puede
+reglamentar la ley, proveyendo a su ejecución, pero cuidando
+siempre de no alterar su sentido (art. 86, inc. 2°)" (Fallos, t. 191, p.
+245).
+Que la necesidad de que el régimen de faltas tenga carácter
+legislativo y emane, por consiguiente, del Congreso como legislatura
+local para la Capital y territorios nacionales, y de las legislaturas
+provinciales     para   sus   respectivas   jurisdicciones,   fue   asimismo
+reconocida y destacada en los antecedentes del Cód. Penal en vigor
+(Rodolfo Moreno [h.], "El Cód. Penal y sus antecedentes", t. 1, núms.
+93 y sigtes.).
+Que conforme con esta doctrina, la "ley anterior" de la garantía
+constitucional citada y del principio "nullum crimen, nulla pna
+sine lege", exige indisolublemente la doble precisión por la
+ley de los hechos punibles y de las penas a aplicar, sin
+perjuicio de que el legislador deje a los órganos ejecutivos la
+reglamentación de las circunstancias o condiciones concretas
+de las acciones reprimidas y de los montos de las penas
+dentro de un mínimo y máximo (Fallos, t. 148, p. 430). En el
+sistema representativo republicano de gobierno adoptado por la
+Constitución (art. 1°) y que se apoya fundamentalmente en el
+
+principio de la división de los poderes, el legislador no puede
+
+simplemente delegar en el Poder Ejecutivo o en
+reparticiones administrativas la total configuración
+de los delitos ni la libre elección de las penas, pues
+
+[[PDF p. 20]]
+ello importaría la delegación de facultades que son
+por esencia indelegables. Tampoco al Poder Ejecutivo le es
+lícito, so pretexto de las facultades reglamentarias que le concede el
+art. 86, inc. 2° de la Constitución, sustituirse al legislador y por
+supuesta vía reglamentaria dictar, en rigor, la ley previa que requiere
+la       garantía        constitucional        del        art.       18.
+Que el art. 27 del Cód. de Proced. Crim., en cuanto dice: "El
+juzgamiento de las faltas o contravenciones a las ordenanzas
+municipales o de policía, corresponde, respectivamente, a cada una
+de estas administraciones, cuando la pena no exceda de un mes de
+arresto o $ 100 de multa", sólo ha concedido a esas administraciones
+la facultad de juzgar las faltas o contravenciones, como surge de su
+propio texto, y no la de configurarlas o definirlas, facultad esta última
+de estricto carácter legislativo, como ya se ha dicho, ajena a los
+órganos de aplicación o de juzgamiento.
+Que, en consecuencia, es también claramente contrario a la garantía
+constitucional antes aludida y al sistema de gobierno establecido por
+la Constitución, el precepto del art. 7°, inc. a) del dec. 33.265/44,
+ratificado por la ley 13.830, que faculta a la Policía Federal, con
+exclusión del territorio de las provincias, para "emitir y aplicar
+edictos, dentro de la competencia asignada por el Cód. de Proced.
+Crim. (ley 2372), para reprimir actos no previstos por las leyes, en
+materia de policía de seguridad; y dictar las reglas de procedimiento
+para su aplicación", desde que tal facultad de emitir edictos para
+reprimir actos no previstos por las leyes va mucho más allá de la
+facultad simplemente "reglamentaria" que corresponde al Poder
+Ejecutivo o a las reparticiones administrativas, en su caso, e importa
+la de legislar en materia exclusivamente reservada al Congreso (art.
+67, inc. 11).
+Que es innegable la necesidad de mantener estrictamente la vigencia
+del principio "nullum crimen, nulla pna sine lege", contenido en la
+garantía consagrada por el art. 18 de la Constitución, no sólo porque
+se trata de un principio constitucional -y esta única consideración
+
+
+[[PDF p. 21]]
+bastaría para aquel efecto- sino, también, porque es notorio que las
+modernas formas de autoritarismo o despotismo utilizan los edictos
+policiales como uno de los instrumentos más eficaces para la opresión
+de los ciudadanos y la restricción de las libertades públicas.
+Que en atención a los fundamentos precedentes, carece de interés
+examinar    los   demás   agravios    invocados   por   los      apelantes.
+Por ello, y las consideraciones concordantes del meditado dictamen
+del procurador general, se revoca la sentencia apelada en cuanto ha
+sido materia del recurso. - Alfredo Orgaz. - Manuel J. Argañarás. -
+Enrique V. Galli. - Carlos Herrera. - Benjamín Villegas Basavilbaso.
+
+
+
+

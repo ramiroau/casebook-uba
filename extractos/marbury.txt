@@ -1,0 +1,500 @@
+# fuente: Unidad4/3_U.S._1803_Marbury v Madison.pdf
+# modo: texto
+# origen: copia de corpus/texto/marbury.txt (texto nativo, nivel A). Única transformación: el PDF está a doble interlineado y pdftotext pone un renglón en blanco entre renglones; se quitó ese renglón en blanco simple y se dejó uno solo donde había dos o más (punto y aparte). Ningún carácter del texto cambió. Además, en PDF p. 15 se subió «sería» al renglón anterior («escrita- sería»), para que el guion de inciso no se tome como corte de palabra.
+# paginas: 18
+
+[[PDF p. 1]]
+                          MARBURY v. MADISON
+      Fallo de la Corte Suprema de los Estados Unidos de 1803
+
+"En el último período, esto es, diciembre de 1801, William Marbury, Dennis
+Ramsay, Robert Townsend Hooe, y William Harper, a través de su abogado
+Charles Lee -ex ministro de Justicia de los EE.UU.- solicitaron al Tribunal
+que ordenara a James Madison manifestar las causas por las cuales la Corte
+debería abstenerse de exigirle la entrega de los nombramientos a los
+demandantes donde se los designaba jueces de paz del Distrito de
+Columbia. Esta petición fue apoyada en testimonios (incluyendo uno del
+hermano de John Marshall -James-) de Ios siguientes hechos: que el señor
+Madison estaba enterado de esta petición y que el señor Adams ex
+presidente de los EE.UU., elevó al Senado las nominaciones de los
+candidatos para ser designados en tales cargos; que el Senado aconsejó y
+consintió estas designaciones; que las correspondientes designaciones
+formales nombrándolos jueces fueron firmadas por el presidente y,
+finalmente que el sello de los EE.UU. estaba puesto en debida forma en
+tales designaciones por el entonces secretario de Estado (John Marshall);
+que los solicitantes habían pedido al señor Madison les entregara tales
+nombramientos con resultado negativo y que dichas designaciones les
+fueran retenidas.
+Sobre estas bases, fue emitida una orden para que el secretario de Estado
+diera cuenta de las causas que motivaron su conducta".
+[[PDF p. 2]]
+El 24 de febrero de 1803, la Corte emitió la siguiente opinión conducida por
+el voto del presidente John Marshall:
+
+"...Durante el último período la Corte expidió una orden para que el
+secretario de Estado exhibiera los motivos por los cuales se le denegaba a
+William Marbury la entrega de su designación como juez de paz del
+Condado de Washington, Distrito de Columbia. No se han dado razones de
+tal proceder y, ahora, la petición se dirige a obtener de la Corte un
+mandamiento que haga efectiva la entrega de dichos nombramientos.
+Lo particularmente delicado de este caso, la novedad de algunas de sus
+circunstancias, y la verdadera dificultad que encierran los puntos contenidos
+en el mismo, requieren una exposición completa de los fundamentos que
+sostienen la opinión que dará esta Corte.
+
+Según el orden seguido en el análisis del caso, que la Corte ha considerado
+y decidido las siguientes cuestiones:
+
+1) ¿Tiene el solicitante derecho al nombramiento que demanda?
+
+2) Si lo tiene, y ese derecho ha sido violado, ¿ proveen las leyes del país un
+remedio a esa violación?
+
+3) Si lo proveen, ¿es dicho remedio un mandamiento que corresponda a
+esta Corte emitir?
+
+La primera cuestión es: ¿Tiene el solicitante derecho al nombramiento que
+demanda?
+
+Es decididamente la opinión de esta Corte que, cuando un nombramiento ha
+[[PDF p. 3]]
+sido firmado por el presidente la designación debe considerarse hecha; y
+que la misma es completa cuando tiene el sello de los EE.UU. puesto por el
+secretario de Estado.
+
+Por lo tanto, teniendo en cuenta que su nombramiento fue firmado por el
+presidente y sellado por el secretario de Estado, el señor William Marburv
+está designado; y como la ley que crea el cargo dio al funcionario (Marbury)
+el derecho de ejercerlo por cinco años, en forma independiente del
+Ejecutivo, el nombramiento es irrevocable por conferir al funcionario
+designado derechos legítimos que están protegidos por las leyes de su país.
+
+La retención de su nombramiento, es por lo tanto, un acto que la Corte
+considera no respaldado por la ley y por ello violatorio de legítimos
+derechos adquiridos.
+
+Esto nos conduce a la segunda cuestión: Si el derecho existe y ha sido
+violado, proveen las leyes del país un remedio a esa violación.
+La esencia misma de la libertad civil consiste, ciertamente, en el derecho de
+todo individuo a reclamar la protección de las leyes cuando ha sido objeto
+de un daño.
+
+Uno de los principales deberes de un gobierno es proveer esta protección.
+
+El gobierno de los EE.UU. ha sido enfáticamente llamado un gobierno de
+leyes y no de hombres. Tal gobierno, ciertamente, dejaría de merecer ese
+alto calificativo si las leyes no brindaran modos de reparar la violación de un
+derecho legítimamente adquirido
+Si tal cosa fuera a suceder en la jurisprudencia de nuestro país, ello sólo
+podría deberse a las especiales características del caso.
+[[PDF p. 4]]
+Nos corresponde, por lo tanto, preguntarnos si existe en este caso algún
+ingrediente que lo exima de investigaciones o que prive a la parte
+perjudicada de la reparación legal. ¿Está dicho elemento presente en el
+caso? Constituye -el acto de entregar o retener una designación escrita- un
+mero acto político reservado al Departamento Ejecutivo para cuyo
+cumplimiento nuestra Constitución ha depositado la total confianza en el
+Ejecutivo supremo, de modo que cualquier conducta desajustada a su
+respecto no tenga prevista la consecuente reparación para el caso que dañe
+a un individuo?
+
+Sin duda, tales casos pueden existir. Pero que cada deber asignado a
+algunos de los grandes departamentos del Poder Ejecutivo constituya uno
+de estos casos es, sin duda, inadmisible.
+
+De ello se sigue, por lo tanto, que el examen de la legalidad de los actos de
+los titulares de las reparticiones dependientes del Ejecutivo, depende -en
+cada caso- de la naturaleza del acto.
+
+Por la Constitución de los EE.UU., el presidente está investido de algunos
+importantes poderes políticos cuyo ejercicio está librado a su exclusivo
+arbitrio, y por el cual es sólo responsable ante el pueblo, desde el punto de
+vista político, y ante su propia conciencia.
+
+Para colaborar con él en el cumplimiento de sus funciones, puede designar
+funcionarios que actúen bajo su autoridad y de conformidad con sus
+órdenes. En estos casos, los actos de los funcionarios son los actos del
+presidente, y sea cual fuere la opinión que pueda merecer el modo en que
+el Ejecutivo utiliza sus poderes discrecionales, no existe ni puede existir
+poder alguno que los controle. Las materias son políticas, atañen a la
+[[PDF p. 5]]
+Nación, no a derechos individuales, y habiendo sido confiadas al Ejecutivo,
+la decisión del Ejecutivo es terminante.
+Lo dicho está claramente ejemplificado en la creación legislativa del
+Ministerio de Relaciones Exteriores. El ministro de Relaciones Exteriores
+debe desempeñarse, desde que su función es creación legislativa,
+precisamente de conformidad con la voluntad del presidente. Es meramente
+el órgano a través del cual se transmite la voluntad del presidente. Los
+actos de ese funcionario, en su calidad de tal, no pueden ser nunca
+examinados por los tribunales.
+
+Pero cuando el Congreso impone a ese funcionario otras obligaciones;
+cuando se le encomienda por ley llevar a cabo ciertos actos: cuando los
+derechos de los individuos dependen del cumplimiento de tales actos, ese
+funcionario deja de ser funcionario del presidente para convertirse en
+funcionario de la ley; es responsable ante las leyes por su conducta y no
+puede desconocer a su discreción los derechos adquiridos de otros.
+
+La conclusión de este razonamiento es que cuando los titulares de los
+departamentos actúan como agentes políticos o confidenciales del Ejecutivo
+y no hacen más que poner en práctica la voluntad del presidente -en
+aquellos casos en que éste posee poderes discrecionales legal o
+constitucionalmente conferidos-, nada puede resultar más claro que el
+control de tales actos sólo puede ser político. Pero cuando se les asigna por
+ley una obligación determinada de cuyo cumplimiento depende la vigencia
+de derechos individuales, parece igualmente claro que todo aquel que se
+considere perjudicado por el incumplimiento de tal clase de obligaciones
+tiene derecho a recurrir a las leves de su país para obtener una reparación.
+[[PDF p. 6]]
+Es por lo tanto la opinión de esta Corte que Marbury tiene derecho a su
+nombramiento y que la negativa a entregárselo constituye una clara
+violación de ese derecho frente a la cual las leyes de su país brindan un
+remedio.
+
+Resta considerar ¿le corresponde el remedio que solicita? Ello depende de:
+a) la naturaleza de la medida que solicita, y b) el poder de esta Corte.
+
+Si la medida solicitada fuera concedida, debería dirigirse a un funcionario
+del gobierno, y el contenido de la misma consistiría, usando las palabras de
+Blackstone, en "una orden de hacer algo en particular allí especificado, que
+atañe a su cargo y deberes y que la Corte ha determinado previamente o al
+menos, supuesto, que es correcto y ajustado a derecho". O bien, en las
+palabras de Lord Mansfieild, el solicitante, en este caso, tiene un "derecho a
+ejecutar un cargo de interés público, y es privado de la posesión de ese
+derecho". Estas circunstancias ciertamente se dan en este caso.
+
+Pero para que el mandamiento -la medida solicitada- surta los efectos
+deseados, debe ser enviada a un funcionario al cual pueda serle dirigida,
+sobre la base de los principios legales; y la persona solicitante de la medida
+debe carecer de otro recurso legal específico.
+
+Respecto del funcionario al cual se dirigiría la medida, la íntima relación
+política que existe entre el presidente de los EE.UU. y los titulares de los
+ministerios hace particularmente fastidiosa y delicada cualquier
+investigación legal de sus actos, y hasta puede dudarse de que corresponda
+llevar a cabo tales investigaciones. Es común que la gente en general no
+reflexione ni examine a fondo las impresiones que recibe y. desde tal punto
+de vista, no sería conveniente que en un caso como éste se interprete la
+[[PDF p. 7]]
+atención judicial del reclamo de un particular como una forma de
+intromisión en la esfera de prerrogativas exclusivas del Poder Ejecutivo.
+
+No es necesario que la Corte renuncie a toda su jurisdicción sobre tales
+asuntos. Nadie sostendría tan absurda y excesiva extravagancia ni por un
+momento. La competencia de la Corte consiste, únicamente en decidir
+acerca de los derechos de los individuos y no en controlar el cumplimiento
+de los poderes discrecionales del presidente o sus ministros. Los asuntos,
+que por su naturaleza política o por disposición constitucional o legal, están
+reservados a la decisión del Ejecutivo, no pueden ser sometidos a la opinión
+de la Corte.
+
+Pero si no se tratara de un asunto de tal naturaleza; si, lejos de constituir
+una intrusión en los asuntos propios del gabinete, estuviera únicamente
+vinculado con un papel cuya obtención la ley permite sólo a condición del
+pago de 10 centavos; si ello no supusiese intromisión alguna en materias
+sobre las cuales se considera al Ejecutivo como no sujeto a control alguno:
+¿qué habría en la alta condición del funcionario que impidiera a un
+ciudadano reclamar sus derechos ante un tribunal de justicia, o que
+prohibiera a este atender el reclamo, o expedir una orden mandando el
+cumplimiento de una obligación no dependiente de los poderes
+discrecionales del Ejecutivo, sino de actos particulares del Congreso y de los
+principios generales del derecho?
+
+Si uno de los titulares de los departamentos de Estado comete un acto
+ilegal aparándose en su cargo, dando lugar a un reclamo de un ciudadano
+afectado, no puede sostenerse que su cargo, por sí solo, lo exima de ser
+juzgado por el procedimiento ordinario y obligado a obedecer el juicio de la
+[[PDF p. 8]]
+ley. ¿Cómo podría entonces su cargo exceptuarlo de la aplicación de este
+modo particular de decidir acerca de la legalidad de su conducta si el caso
+no reviste diferencia alguna con cualquier otro en el cual un individuo
+común sería procesado?
+
+No es por el cargo que tenga la persona sino por la naturaleza de aquello
+que se le ordene hacer que se juzgara la pertinencia del mandamiento.
+Cuando un ministro actúa en un caso en que se ejercen los poderes
+discrecionales del Ejecutivo y donde el funcionario actúa como mero órgano
+de la voluntad del presidente, correspondería rechazar sin la menor duda
+todo pedido a la Corte para que ejerza un control de tal conducta a
+cualquier respecto. Pero cuando la conducta del funcionario es
+encomendada por la ley -de modo tal que su cumplimiento o
+incumplimiento afecte los derechos absolutos de los individuos- la cual no
+se encuentra bajo la dirección de! presidente y no puede presumirse que
+éste la haya prohibido, como por ejemplo registrar un nombramiento o un
+titulo de propiedad que ha cumplido todas las formalidades de la ley, o
+entregar una copia de tales registros: en esos casos, no se adviene sobre
+qué bases los tribunales de la Nación podrán estar menos obligados a dictar
+sentencia que si se tratara de funciones atribuidas a otro individuo que no
+fuese ministro.
+
+Éste, por lo tanto, es un claro caso en el que corresponde emitir un
+mandamiento, sea de entrega de la designación o de una copia de la misma
+extraída de los registros correspondientes, quedando entonces, por
+resolver, una sola cuestión: ¿puede la Corte emitir ese mandamiento?
+[[PDF p. 9]]
+La ley por la que se establecen los tribunales judiciales en los EE.UU.
+autoriza a la Corte Suprema a emitir "mandamientos, en los casos en que
+fuesen comprendidos según los principios y las costumbres del derecho, a
+cualquier tribunal o persona designado en su oficio bajo la autoridad de los
+EE.UU.
+
+Siendo el secretario de Estado un funcionario bajo la autoridad del gobierno
+de los EE.UU., se encuentra precisamente comprendido en las previsiones
+de la ley precitada; y si esta Corte no está autorizada a emitir una orden de
+ejecución a tal funcionario, sólo puede ser a causa de la inconstitucionalidad
+de la ley, incapaz, por ello, de conferir la autoridad y de asignar las
+obligaciones que sus palabras parecen conferir y asignar. La Constitución
+deposita la totalidad del Poder Judicial de los EE.UU. en una Corte Suprema
+y en tantos tribunales inferiores como el Congreso establezca en el
+transcurso del tiempo. Este poder se extiende expresamente al
+conocimiento de todas las causas que versen sobre puntos regidos por las
+leyes de los EE.UU. y, consecuentemente, de algún modo puede extenderse
+al presente caso ya que el derecho invocado deriva de una ley de los EE.UU.
+Al distribuir este poder la Constitución dice: "En todos los casos
+concernientes a embajadores, ministros y cónsules extranjeros, y en los que
+alguna provincia fuese parte, la Corte Suprema ejercerá jurisdicción
+originaria. En todos los casos mencionados anteriormente, la Corte
+Suprema ejercerá su jurisdicción por apelación".
+
+Se ha sostenido ante el Tribunal que, como el otorgamiento constitucional
+de jurisdicción a la Corle Suprema y a los tribunales ordinarios es general, y
+la cláusula que asigna las causas de jurisdicción originaria a la Corle
+[[PDF p. 10]]
+Suprema no contiene expresiones negativas o restrictivas, el Poder
+Legislativo mantiene la facultad de atribuir competencia originaria a la Corte
+en otros casos que los precedentemente indicados, tomando en cuenta que
+tales casos pertenecen al Poder Judicial de los Estados Unidos.
+
+Si se hubiera querido dejar librado a la discreción del Poder Legislativo la
+posibilidad de distribuir el Poder Judicial entre la Corte Suprema y los
+tribunales inferiores, habría sido ciertamente inútil hacer otra cosa que
+definir el ámbito de competencia del Poder Judicial en general, mencionando
+los tribunales a los que corresponde ejercerlo. Si ésta es la interpretación
+correcta, el resto de la norma constitucional carece de sentido.
+
+Si el Congreso tiene la libertad de asignar a esta Corte competencia por
+apelación en los casos en los que la Constitución le asigna competencia
+originaria y fijarle competencia originaria en los casos en que le
+corresponde ejercerla por apelación, la distribución hecha en la Constitución
+es forma carente de contenido.
+
+Las palabras afirmativas son, a menudo en su operatividad, negatorias de
+otros objetos que los prescriptos, y en este caso debe asignárseles ese
+sentido so pena de privarlas de sentido en absoluto.
+
+No puede presumirse que cláusula alguna de la Constitución esté pensada
+para no tener efecto, y, por lo tanto, la interpretación contraria es
+inadmisible salvo que el texto expreso de la Constitución así lo manifieste.
+Cuando un instrumento legal organiza las bases fundamentales de un
+sistema judicial dividiéndolo en una Corte Suprema y en tantas inferiores
+como el Congreso decida, enumerando sus poderes y distribuyéndolos
+mediante la delimitación de los casos en los que la Corte Suprema ejercerá
+[[PDF p. 11]]
+jurisdicción originaria y aquellos en que la ejercerá por vía de apelación, el
+sentido evidente de las palabras parece ser que en una clase de casos la
+competencia será originaria y no en los demás. Si cualquier otra
+interpretación convirtiera en inoperante dicha cláusula, tendríamos allí una
+razón adicional para rechazarla y para adherir al sentido obvio de las
+palabras. Luego, para que esta Corte esté en condiciones de emitir una
+orden de ejecución como la que se pide, debe demostrarse que se trata de
+un caso de competencia por apelación.
+
+Se ha dicho en el Tribunal que la jurisdicción apelada puede ejercerse de
+diversos modos y que siendo la voluntad del Congreso que un mandamiento
+pueda se emitido en el ejercicio de la jurisdicción apelada (ver ley de
+organización judicial de los EE.UU. de 1789), dicha voluntad debe ser
+obedecida. Esto es cierto, pero no obstante ello, la jurisdicción deber ser
+apelada y no originaria.
+
+Es el criterio esencial de la jurisdicción por apelación, que ella abarca
+tópicos previamente determinados y no crea otros nuevos. Por ello, aunque
+es posible emitir un mandamiento a los tribunales inferiores, hacerlo
+respecto de un funcionario para que entregue un documento es lo mismo
+que intentar una acción originaria para la obtención de dicho documento, y
+por ello, no parece pertenecer a la jurisdicción apelada sino a la originaria.
+Tampoco es necesario en este caso, capacitar a la Corte para que ejerza su
+competencia por vía de apelación. Por lo tanto, la autoridad otorgada a la
+Corte Suprema por la ley de organización judicial de los EE. UU. para emitir
+órdenes directas de ejecución de conductas a funcionarios públicos, no
+[[PDF p. 12]]
+parece estar respaldada en la Constitución, y hasta se hace necesario
+preguntarle si una competencia así conferida puede ser ejercida.
+
+La pregunta acerca de si una ley contrariaba la Constitución puede
+convertirse en ley vigente del país es profundamente interesante para los
+EE.UU. pero, felizmente, no tan complicada como interesante. Para decidir
+esta cuestión parece necesario tan sólo reconocer ciertos principios que se
+suponen establecidos como resultado de una prolongada y serena
+elaboración. Todas las instituciones fundamentales del país se basan en la
+creencia de que el pueblo tiene el derecho preexistente de establecer para
+su gobierno futuro los principios que juzgue más adecuados a su propia
+felicidad. El ejercicio de ese derecho supone un gran esfuerzo, que no
+puede ni debe ser repetido con mucha frecuencia. Los principios así
+establecidos son considerados fundamentales. Y desde que la autoridad de
+la cual proceden es suprema, y puede raramente manifestarse, están
+destinados a ser permanentes. Esta voluntad originaria y suprema organiza
+el gobierno y asigna a los diversos poderes sus funciones específicas. Puede
+hacer sólo esto, o bien fijar, además, límites que no podrán ser
+transpuestos por tales poderes.
+
+El gobierno de los EE.UU. es de esta última clase. Los poderes de la
+legislatura están definidos y limitados. Y para que estos límites no se
+confundan u olviden, la Constitución es escrita. ¿Con qué objeto son
+limitados los poderes y a qué efectos se establece que tal limitación sea
+escrita si ella puede, en cualquier momento, ser dejada de lado por los
+mismos que resultan sujetos pasivos de la limitación?
+Si tales límites no restringen a quienes están alcanzados por ellos y no hay
+[[PDF p. 13]]
+diferencia entre actos prohibidos y actos permitidos, la distinción entre
+gobierno limitado y gobierno ilimitado queda abolida.
+
+Hay sólo dos alternativas demasiado claras para ser discutidas: o la
+Constitución controla cualquier ley contraria a aquélla, o la Legislatura
+puede alterar la Constitución mediante una ley ordinaria. Entre tales
+alternativas no hay términos medios: o la Constitución es la ley suprema,
+inalterable por medios ordinarios; o se encuentra al mismo nivel que las
+leyes y de tal modo, como cualquiera de ellas, puede reformarse o dejarse
+sin efecto, siempre que al Congreso le plazca. Si es cierta la primera
+alternativa, entonces una ley contraria a la Constitución no es ley; si en
+cambio es verdadera la segunda, entonces las constituciones escritas son
+absurdos intentos del pueblo para limitar un poder ilimitable por naturaleza.
+
+Ciertamente, todos aquellos que han elaborado constituciones escritas las
+consideran la ley fundamental y suprema de la Nación, y,
+consecuentemente, la teoría de cualquier gobierno de ese tipo debe ser que
+una ley repugnante a la Constitución es nula. Esta teoría esta íntimamente
+ligada al tipo de constitución escrita y debe, por ello, ser considerada por
+esta Corte como uno de los principios básicos de nuestra sociedad. Por ello
+esta circunstancia no debe perderse de vista en el tratamiento ulterior de la
+materia.
+
+Si una ley contraria a la Constitución es nula, ¿obliga a los tribunales a
+aplicarla no obstante su invalidez? O bien, en otras palabras, no siendo ley,
+¿constituye una norma operativa como lo sería una ley válida? Ello anularía
+en la practica lo que se estableció en la teoría y constituiría, a primera vista,
+[[PDF p. 14]]
+un absurdo demasiado grueso para insistir en él, sin embargo la cuestión
+merece recibir un atento tratamiento.
+
+Sin lugar a dudas, la competencia y la obligación del Poder Judicial es
+decidir qué es ley. Los que aplican las normas a casos particulares deben
+por necesidad exponer e interpretar esa norma. Si dos leyes entrañan
+conflicto entre sí el tribunal debe decidir acerca de la validez y aplicabilidad
+de cada una. Del mismo modo cuando una ley está en conflicto con la
+Constitución ambas son aplicables a un caso, de modo que la Corte debe
+decidirlo conforme a la ley desechando la Constitución, o conforme a la
+Constitución desechando la ley, la Corte debe determinar cuál de las
+normas en conflicto gobierna el caso. Esto constituye la esencia misma del
+deber de administrar justicia. Luego, si los tribunales deben tener en cuenta
+la Constitución y ella es superior a cualquier ley ordinaria, es la Constitución
+y no la ley la que debe regir el caso al cual ambas normas se refieren.
+
+Quienes niegan el principio de que la Corte debe considerar la Constitución
+como la ley suprema, se ven reducidos a la necesidad de sostener que los
+tribunales deben cerrar los ojos a la Constitución y mirar sólo a la ley. Esta
+doctrina subvertiría los fundamentos mismos de toda constitución escrita.
+Equivaldría a declarar que una ley totalmente nula conforme a los principios
+y teorías de nuestro gobierno es, en la práctica, completamente obligatoria.
+Significaría sostener que si el Congreso actúa de un modo que le está
+expresamente prohibido la ley así sancionada sería, no obstante tal
+prohibición, eficaz. Estaría confiriendo práctica y realmente al Congreso una
+omnipotencia total con el mismo aliento con el cual profesa la restricción de
+[[PDF p. 15]]
+sus poderes dentro de limites estrechos. Equivaldría a establecer al mismo
+tiempo los límites y el poder de transgredirlos a discreción.
+
+Reducir de esta manera a la nada lo que hemos considerado el más grande
+de los logros en materia de instituciones políticas -una constitución escrita- sería por sí mismo suficiente en América, donde las constituciones escritas
+han sido vistas con tanta reverencia, para rechazar la tesis. Pero las
+manifestaciones particulares que contiene la Constitución de los EE.UU.
+construyen un andamiaje de argumentos adicionales en favor del rechazo
+de esta interpretación.
+
+El Poder Judicial de los EE.UU. entiende en todos los casos que versen sobre
+puntos regidos por la Constitución.
+
+¿Pudo, acaso, haber sido la intención de quienes concedieron este poder,-
+afirmar que al usar la Constitución, no debería atenderse a su contenido?
+¿Que un caso regido por la Constitución debiera decidirse sin examinar el
+instrumento que lo rige?
+
+Esto es demasiado extravagante para ser sostenido. En ciertos casos, la
+Constitución debe ser interpretada y analizado su contenido por parte de los
+jueces.
+
+Y si de este modo los jueces pueden abrir y examinar la totalidad de la
+Constitución ¿qué parte de ella les está prohibido leer u obedecer?
+
+Hay muchas otras partes de la Constitución que ilustran esta materia. Dice
+la Constitución que: "ningún impuesto o carga se impondrá sobre artículos
+exportados desde cualquiera de los estados". Supongamos una carga
+impuesta sobre la exportación de algodón, o tabaco o harina, y supongamos
+[[PDF p. 16]]
+que se promueve una acción judicial destinada a exigir la devolución de lo
+pagado en virtud de dicha carga.
+
+¿Debe darse un pronunciamiento judicial en tal caso? ¿Deben los jueces
+cerrar los ojos a la Constitución y ver sólo la ley?
+
+La Constitución prescribe que: "No se sancionarán leyes conteniendo
+condenas penales individualizadas ni leyes retroactivas'".
+
+Si, no obstante, tales leyes son sancionadas y una persona es procesada
+bajo tales leyes ¿debe la Corte condenar a muerte a esas víctimas a quienes
+la Constitución manda proteger?
+
+Dice la Constitución: "Ninguna persona será procesada por traición salvo
+mediante el testimonio de dos testigos sobre el mismo acto o mediante su
+confesión pública ante un tribunal de justicia".
+
+En este caso, el lenguaje de la Constitución está especialmente dirigido a
+los tribunales. Les prescribe directamente una regla de prueba de la que no
+pueden apartarse.
+
+Si la Legislatura modificara esa norma y permitiera la declaración de un solo
+testigo o la confesión fuera de un tribunal de justicia como requisitos
+suficientes de prueba, ¿debería la norma constitucional ceder frente a esa
+ley?
+
+Mediante estos y muchos otros artículos que podrían seleccionarse es claro
+que los constituyentes elaboraron ese instrumento como una regla
+obligatoria tanto para los tribunales como para la Legislatura.
+[[PDF p. 17]]
+¿Por qué motivo, si no, prescribe a los jueces jurar su cumplimiento? Este
+juramento apela, ciertamente, a su conducta en el desempeño de su cargo
+de carácter oficial.
+
+¡Qué inmoralidad sería imponérselos, si ellos [los jueces] fueran a ser
+usados como instrumentos -y como instrumentos conscientes- de la
+violación de lo que juran respetar!
+
+El juramento del cargo judicial impuesto por el Congreso, es también
+completamente ilustrativo de la opinión legislativa sobre esta cuestión.
+Este juramento dice: "juro solemnemente que administraré justicia sin
+importar las personas y haré justicia igualmente al pobre como al rico, y
+que desempeñaré leal e imparcialmente todas las obligaciones atinentes a
+mi cargo como..., de acuerdo a mis mejores capacidades y compresión,
+conforme con la Constitución y las leyes de los EE.UU.".
+
+¿Por qué motivo jura un juez desempeñar sus deberes de acuerdo con la
+Constitución de los EE.UU. si esa Constitución no fuera una norma
+obligatoria para su gobierno? ¿Si estuviere cerrada sobre él y no pudiera ser
+inspeccionada por él?
+
+Si fuera ese el estado real de las cosas constituiría algo peor que una
+solemne burla.
+
+Pero además de ello una hipocresía
+
+No es tampoco inútil observar que, al declarar cual será la ley suprema del
+país, la Constitución en sí misma es mencionada en primer lugar, y no todas
+las leves de los EE.UU. tienen esta calidad, sino solo aquellas que se hagan
+de conformidad con la Constitución.
+[[PDF p. 18]]
+De tal modo, la terminología especial de la Constitución de los EE.UU.
+confirma y enfatiza el principio, que se supone esencia para toda
+constitución escrita de que la ley repugnante a la Constitución es nula, y
+que los tribunales, así como los demás poderes, están obligados por ese
+instrumento.
+
+Por ello, se rechaza la petición del demandante. Cúmplase".

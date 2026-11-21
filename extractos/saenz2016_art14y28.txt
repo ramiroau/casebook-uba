@@ -1,0 +1,703 @@
+# fuente: Unidad6/1_Saenz 2016.pdf
+# modo: texto
+# paginas: 11
+# clave: saenz2016_art14y28 (se cita [@saenz2016b]; ver notas_unidades/U06_fuentes.md)
+# copiado de corpus/texto/saenz2016_art14y28.txt. Única edición: PDF p. 1, la llamada de nota 1
+# ocupaba un renglón propio y cortaba la página (se tomaba como comienzo de las notas); se quitó.
+
+[[PDF p. 1]]
+Artículos 14 y 28: Poder de policía o poder de “reglamentar” los derechos. Sus
+límites
+
+La primera parte del artículo 14, en cuanto establece que “los derechos (son gozados)
+conforme a las leyes que reglamenten su ejercicio”, y el artículo 28, según el cual
+aquellos derechos “no podrán ser alterados por las leyes que reglamenten su
+ejercicio”, ameritan un comentario conjunto, por la obvia interrelación que existe entre
+ellos. El art. 14 habilita al Estado a recortar (reglamentar) el ejercicio de los derechos,
+y el art. 28 pone un límite a esa potestad, prescribiendo que no puede traducirse en
+una alteración, negación o aniquilamiento de tales derechos. De ambas disposiciones
+derivan principios y reglas de suma importancia pues son las que determinan el límite
+entre los poderes legítimos del Estado y la verdadera medida de los derechos
+constitucionales.
+
+1. Sobre el poder reglamentador en general
+
+Todos los derechos constitucionales resultan inevitablemente recortados o restringidos
+por las normas que emite el Estado para el cumplimiento de sus cometidos. En eso
+consiste el poder reglamentador, llamado históricamente “poder de policía del Estado”: la potestad para limitar el ejercicio de los derechos por las múltiples necesidades de
+interés público. A ello se refiere el artículo 14 al decir que los todos los habitantes de la
+Nación gozan de los derechos que allí se enumeran “conforme a las leyes que
+reglamenten su ejercicio”. La Convención Americana de Derechos Humanos contiene
+la misma idea en su art. 32.2 al disponer que “los derechos de cada persona están
+limitados por los derechos de los demás y por las justas exigencias del bien común en
+una sociedad democrática”.
+
+El ejercicio del poder de policía se concreta en numerosas y diversísimas normas que
+de uno u otro modo restringen el ejercicio de todos los derechos, incluidos los más
+valiosos.
+
+Al decir de la Corte, “ni el derecho de usar y disponer de la propiedad, ni ningún otro
+derecho reconocido por la Constitución, reviste el carácter de absoluto. Un derecho
+ilimitado sería una concepción antisocial. La reglamentación o limitación del ejercicio
+de los derechos individuales es una necesidad derivada de la convivencia social.
+Reglamentar un derecho es limitarlo, es hacerlo compatible con el derecho de los
+demás dentro de la comunidad y con los intereses superiores de esta última. La misma
+Constitución ha consignado limitaciones especiales respecto de algunos derechos;
+pero no siendo posible prever ni establecer en ella todas las condiciones a que sería
+menester subordinarlos para hacerlos adaptables a la vida de relación, ha confiado al
+poder legislativo la misión de reglamentar su ejercicio, poniendo al mismo tiempo un
+límite a esa facultad reguladora (arts. 14 y 28)”2
+
+Por citar algunos ejemplos, la libertad ambulatoria puede ser limitada por la prisión
+preventiva dispuesta sobre una persona sometida a un proceso penal, aún no
+
+1
+  Expresión antigua pero todavía muy presente en los textos legales y doctrinarios. Los orígenes de su empleo se
+remontan a la etapa posterior al nacimiento de los estados nacionales en Europa en el siglo XVII. Los autores
+norteamericanos incorporaron el concepto como equivalente a “poder de regulación” y finalmente John Marshall,
+presidente de la Corte Suprema de los Estados Unidos, en el caso “Gibbons v. Odgen” (1824) se refirió al “reconocido
+poder del estado para regular su policía” y poco después en “Brown v. Maryland” (1827), al “police power” como el
+poder genérico que incluye todo el campo de la autoridad estatal para limitar la libertad de las personas (“The power to
+direct the removal of gunpowder is a branch of the police power”). Ver: Legarre, Santiago, “El poder de policía en la
+historia, la jurisprudencia y la doctrina”, LL, 2000-A, 999). En nuestro país la Corte se refirió al poder de policía por
+primera vez en el caso “Plaza de Toros” (1869), en el que se discutía la legitimidad de una reglamentación de la
+Provincia de Buenos Aires que prohibía las corridas de toros. En la Constitución, los artículos 14, 28 y 99.2 se refieren
+a la reglamentación, mientras que el art.75.30 menciona los “poderes de policía” locales (en referencia a los que
+conservan las provincias y los municipios respecto de los llamados establecimientos de utilidad nacional que se
+encuentren en sus territorios para el cumplimiento de las funciones del gobierno federal).
+2
+  “Ercolano c/Lanteri de Renshaw”, Fallos 136:161 (1922).
+
+[[PDF p. 2]]
+condenada; la libertad de circulación está sujeta a las restricciones de acceso a ciertos
+lugares públicos, por las normas de tránsito, por el pago de peajes para circular por
+determinadas rutas o por la prohibición de salir del país en algunos casos (personas
+sometidas a un concurso de acreedores o a un proceso penal); la libertad de expresión
+se ve restringida por la llamada “veda electoral”, por las normas sobre responsabilidad
+civil derivada del daño al honor o a la intimidad de las personas, y excepcionalmente
+se halla sujeta a la censura previa (prohibiciones para protección de la infancia o
+contra la propaganda en favor de la guerra, el odio racial o religioso, conf. art. 23 de la
+Convención Americana de Derechos Humanos, en adelante CADH). También en el
+caso de los límites e imposiciones referidas a contenidos, idioma, espacios
+publicitarios, horarios, y otras prescripciones que disponen típicamente las
+legislaciones que regulan la actividad de los medios de comunicación3.
+
+Los derechos de mayor jerarquía también son susceptibles de ser alcanzados por el
+poder de policía: la integridad física está sometida excepcionalmente a la coacción
+física del Estado (por ejemplo, ante los casos en que procede desalojar una persona
+de un lugar o detenerla por la fuerza, por cualquier razón justificada), o en el particular
+supuesto de la obtención compulsiva de sangre u otras muestras biológicas para una
+investigación penal4. La ley también regula el derecho a la libre disposición sobre el
+propio cuerpo, prohibiéndola si ocasiona una disminución permanente o es contraria a
+la moral o las buenas costumbres (art. 56 del Código Civil y Comercial), y en lo
+referido a la ablación de órganos para ser implantados en otras personas, lo cual está
+sujeto a los requisitos y condiciones de una legislación especial5. Es posible apreciar
+también restricciones al derecho a la vida, como en el Código de Justicia Militar
+derogado en 2008, que preveía la pena de muerte entre sus sanciones, o en el caso
+del aborto no punible6.
+
+Los derechos a la autonomía personal, a la intimidad y a la privacidad pueden ser
+objeto de regulación estatal para fines públicos, como por ejemplo en los casos de
+reglamentación de los nombres a los fines de la mejor identificación de las personas7,
+la prohibición y sanción de exhibiciones obscenas, la penalización de la tenencia de
+estupefacientes para consumo personal, la posibilidad en una investigación penal de
+allanar el domicilio y de observar comunicaciones telefónicas y electrónicas.
+
+Los derechos a asociarse y a contratar se encuentran profusamente reglamentados en
+las legislaciones civil, comercial y laboral, en cuanto regulan todos los tipos de relación
+jurídica interpersonal (las obligaciones de familia, la disposición de bienes post mortem
+–herencia-, los contratos –elementos esenciales, requisitos, formalidades,
+modalidades, efectos-, etc.-). El contrato de trabajo se encuentra regulado en casi
+todos sus contenidos: remuneraciones, jornadas laborales, vacaciones, horarios,
+seguros, indemnizaciones por despido, formas, etc.
+
+Por último, el derecho de propiedad es acaso el más restringido, por las múltiples
+limitaciones que el Estado impone a las personas en el uso y disposición de sus
+bienes, desde el poder impositivo hasta el uso que puede darse al suelo en un
+inmueble de propiedad privada.
+
+De modo que el poder de policía es una realidad omnipresente en el orden jurídico y
+abarca una variadísima gama de supuestos y de finalidades generales en las que se
+fundamenta. De allí que sea usual en las obras de derecho constitucional y de derecho
+
+3
+  En nuestro país, en el ámbito nacional, se trata de la ley reglamentaria de servicios de comunicación audiovisual nº
+26.522.
+4
+  Ley 26.549
+5
+  Ley 24.193
+6
+  Artículo 86 del Código Penal
+7
+  Ley 18.248
+
+[[PDF p. 3]]
+administrativo la clasificación del poder de policía de acuerdo con su ámbito de
+aplicación, materia regulada o finalidad a que responde. Así, se habla del “poder de
+policía” de seguridad, de higiene, de salubridad, de moralidad pública, económico,
+financiero, bancario, tributario, aduanero, cambiario, urbanístico, ambiental, etc8.
+
+2. Poder de policía local y federal
+
+El poder de policía se encuentra distribuido entre los distintos tipos de estado y
+gobierno que existen en el régimen federal argentino, de acuerdo con las
+competencias que hayan sido delegadas al gobierno federal, las que se hayan
+reservado las provincias y las que correspondan a la Ciudad autónoma de Buenos
+Aires y a los municipios.
+
+Una somera observación de cualquier constitución provincial o ley orgánica de
+municipios nos ofrece una idea bastante completa de todas aquellas materias que
+integran el poder de policía del Estado en general, y en particular de los estados
+locales en el sistema federal argentino. Son típicos ejemplos de regulación local los
+referidos a estas materias: organización electoral y de los partidos políticos a nivel
+local, planeamiento urbano y edificación, ornato y estética urbana, usos del suelo
+(delimitación de zonas industriales, residenciales, comerciales y rurales), condiciones
+de habitabilidad y seguridad de viviendas y establecimientos industriales y
+comerciales, tránsito, circulación, estacionamiento y seguridad vial, servicios de
+transporte público, ejercicio de las profesiones, autorización y represión de la
+explotación de juegos de azar, defensa del usuario y consumidor, control en la
+elaboración, transporte, expendio y consumo de alimentos, alcohol, tabaco y
+medicamentos, protección del medio ambiente, publicidad en sitios públicos,
+habilitación y funcionamiento de espectáculos públicos, prevención y eliminación de
+ruidos molestos, preservación de los recursos naturales y del patrimonio
+arquitectónico, etc.
+
+Paralelamente, en el régimen federal argentino coexiste con el poder de policía local el
+que emana de las facultades que la Constitución asigna expresamente al gobierno
+federal, como las relativas a estas materias: nacionalidad y naturalización9; educación
+(por la competencia para dictar “planes de instrucción general”, “leyes de organización
+y de base de la educación” y de crear universidades –conf. incisos 18 y 19 art. 75
+CN10); restricciones aduaneras y las fundadas en el poder tributario (arts. 4, 9 y 75
+incs. 1º y 2 CN11; navegación y aeronavegación (arts. 26 y 75 inc. 10 CN)12; y emisión
+de moneda nacional, régimen cambiario y actividad bancaria y financiera (art. 75 incs.
+6 y 11 CN)13, entre muchas otras.
+
+Los incisos 12 y 13 del art. 75 constituyen fuentes de diversísimas regulaciones a los
+derechos. Por el primero se delega al gobierno federal el dictado de toda la legislación
+civil, comercial, laboral y de seguridad social, penal y de minería. Ello implica la
+
+8
+   Gordillo clasifica los diversos rubros que abarca el poder de policía: la tranquilidad pública (ruidos, aglomeraciones,
+organización de espectáculos); la confianza pública (control y regulación de la propaganda y la publicidad comercial);
+defensa de la competencia y consumidores y usurarios; lealtad comercial; estética pública (edificación y urbanismo);
+decoro público y buenas costumbres (prohibición del juego, prohibición de boxeo femenino, mal trato a animales,
+corridas de toros, riña de gallos, lugares de diversión o albergues transitorios en determinadas zonas –o en cercanías
+de cementerios o escuelas-, oferta de sexo en la vía pública); seguridad social (obligatoriedad de realizar aportes a los
+sistemas solidarios previsionales y de obras sociales, someterse a revisaciones médicas, contratar seguros de vida, de
+responsabilidad civil, o de riesgos del trabajo); protección de la minoridad (regulación de contenidos en medios de
+difusión, restricciones a la venta de alcohol y cigarrillos); orden urbano (limitaciones al tránsito y la libre circulación).
+Ver: GORDILLO, Agustín, Tratado de Derecho Administrativo, Fundación de Derecho Administrativo, tomo 2, capítulo
+V, “Poder de Policía”. También en www.gordillo.com
+9
+  La vigente es la ley nº 346 de 1869
+10
+   Ver: ley de educación nacional nº 26.206
+11
+   Código Aduanero -decreto-ley 22.415 de 1980-, y Ley de Procedimiento Tributario n° 11.683
+12
+   Ley de Navegación nº 20.094 y ley 17.285 que aprueba el Código Aeronáutico
+13
+   Leyes nº 24.441 (Carta Orgánica del Banco Central) y 21.526 (entidades financieras)
+
+[[PDF p. 4]]
+reglamentación de todos los tipos de relaciones jurídicas privadas obligacionales14. Por
+su parte, la cláusula del 75.13, comúnmente llamada “del comercio” (commerce
+clause) o del “comercio interjurisdiccional”15, al establecer sencillamente que
+“Corresponde al Congreso: … reglar el comercio de las provincias entre sí” da lugar al
+ejercicio del poder de policía respecto de toda actividad de intercambio o tránsito de
+bienes y cosas que trascienda los límites de un territorio provincial, como por ejemplo:
+servicios de comunicación audiovisual (ley nº 26.522), telecomunicaciones (ley nº
+19.798), producción, transporte y distribución de energía eléctrica o gas (leyes 24.065
+y 24.076), transporte terrestre de mercaderías y personas (ley 24.449), etc.
+
+En materia de medio ambiente cabe destacar que el art. 41 CN establece la
+concurrencia de facultades entre Nación y provincias y faculta a la primera a
+establecer los “presupuestos mínimos” de protección, lo cual ha concretado mediante
+las leyes de protección del ambiente en general, nº 25.675 y 25.831, de los bosques,
+ley nº 26.331, y de glaciares, ley nº 26.639. Otras reglamentaciones dictadas por el
+Congreso de la Nación se han estimado incluidas implícitamente en su atribución de
+“promover el bienestar general” (art. 75 inc. 18), como en materia de salud
+(vacunaciones obligatorias, servicios de medicina prepaga16), regulación de la
+explotación, uso y aprovechamiento de recursos naturales17, seguridad interior18,
+abastecimiento y precios internos19, elaboración de alimentos20, medicamentos21, etc.
+En suma, cualquiera de los ejemplos anteriores es útil para ilustrar el poder
+reglamentador del Estado, del que derivan prohibiciones, obligaciones,
+condicionamientos y limitaciones al ejercicio de los derechos, para hacerlos
+compatibles con los propósitos de bien común o interés general que invoca cada
+legislación.
+
+3. Límites a la reglamentación de derechos
+
+3.1. Art. 14: “Leyes”. Principio de legalidad o reserva de ley para reglamentar los
+derechos
+
+El primer límite constitucional al poder reglamentador del estado se encuentra en el
+artículo 14 y se refiere al órgano competente para ejercerlo.
+
+Al referir allí que los derechos están sujetos a la reglamentación de las “leyes”, y en el
+art. 19 sobre que “ningún habitante de la Nación será obligado a hacer lo que no
+manda la ley, ni privado de lo que ella no prohíbe”, consagra el conocido “principio de
+legalidad”, del cual derivan dos reglas: la de la primacía de la ley objetiva sobre la
+discrecionalidad de los funcionarios, y la regla llamada “reserva de ley”. Esta significa
+que el poder reglamentador debe ejercerse a través de leyes formales del Congreso,
+lo cual está establecido de manera más precisa y absoluta en algunas materias
+(tributaria, penal, electoral y partidos políticos, ver arts. 4, 16, 18 y 99.3).
+
+La CADH establece de modo paralelo a los arts. 14 y 19 CN que “Las restricciones
+permitidas, de acuerdo con esta Convención, al goce y ejercicio de los derechos y
+libertades reconocidas en la misma, no pueden ser aplicadas sino conforme a leyes
+14
+   Al decir de la Corte, “al atribuir la Constitución al Congreso la facultad de dictar el Código Civil, ha querido poner en
+sus manos lo referente a la organización de la familia, a los derechos reales, a las sucesiones, a las obligaciones y a
+los contratos, es decir, a todo lo que constituye el derecho común de los particulares considerados en el aspecto de sus
+relaciones privadas” (Fallos: 156:20, 36, 37). En varios precedentes, la Corte convalidó la exclusión de la vivienda única
+familiar del poder de ejecución del acreedor (“Banco del Suquía S.A. c/ Juan Carlos Tomassini”, 19/3/2002).
+15
+   Bidegain, Carlos María, “Poderes del Congreso bajo la cláusula comercial de la Constitución Norteamericana”, La
+Ley, Buenos Aires, Derecho Constitucional - Doctrinas Esenciales Tomo IV, 01/01/2008, 791
+16
+   Ley n° 26.682
+17
+   Hidrocarburos: ley nº 17.319; recursos ictícolas: ley federal de pesca n° 24.922
+18
+   Como la ley n° 20.429, reglamentación de la tenencia de armas
+19
+   Ley n° 20.680
+20
+   Leyes nº 18.284 –Código Alimentario nacional-, y 26.588 sobre alimentos para celíacos
+21
+   Leyes n° 16.969 de medicamentos y 19.303 de sicotrópicos
+
+[[PDF p. 5]]
+que se dictaren por razones de interés general y con el propósito para el cual han sido
+establecidas” (art. 30)
+
+El principio de legalidad o reserva de ley se encuentra establecido en casi todas las
+constituciones republicanas desde finales del Siglo XVIII, e implica algo tan
+fundamental como que los derechos sólo pueden ser restringidos por una norma de
+jerarquía legal, es decir, emanada del órgano donde se encuentra representada toda
+la sociedad, de modo que sea esta la que se autoimponga los límites a los derechos
+de sus integrantes22. La reserva de ley para todos los actos de intervención estatal en
+la libertad, funciona como una garantía democrática de protección de los derechos,
+que no se limita a exigir que las reglamentaciones sean proclamadas formalmente por
+el Congreso, sino que además debe ser consecuencia de procedimientos regulares y
+que aseguren suficiente deliberación.
+
+La cuestión acerca del alcance de la expresión “leyes” empleada en los arts. 14 y 19
+CN, y 30 de la CADH, motivó un pronunciamiento de la Corte Interamericana de
+Derechos Humanos (CIDH), cuyas consideraciones fundamentales fueron las
+siguientes:
+
+“Cabe preguntarse –se dice allí- acerca de la expresión leyes utilizada en el artículo 30
+de la Convención, en cuanto a si se refiere a leyes en sentido formal -norma jurídica
+emanada del Parlamento y promulgada por el Poder Ejecutivo, con las formas
+requeridas por la Constitución-, o en sentido material, como sinónimo de ordenamiento
+jurídico, prescindiendo del procedimiento de elaboración y del rango normativo que le
+pudiera corresponder en la escala jerárquica del respectivo orden jurídico … El sentido
+de la palabra leyes dentro del contexto de un régimen de protección a los derechos
+humanos no puede desvincularse de la naturaleza y del origen de tal régimen. En
+efecto, la protección a los derechos humanos, en especial los derechos civiles y
+políticos recogidos en la Convención, parte de la afirmación de la existencia de ciertos
+atributos inviolables de la persona humana que no pueden ser legítimamente
+menoscabados por el ejercicio del poder público. Se trata de esferas individuales que
+el Estado no puede vulnerar o en las que sólo puede penetrar limitadamente. Por ello,
+la protección de los derechos humanos requiere que los actos estatales que los
+afecten de manera fundamental no queden al arbitrio del poder público, sino que estén
+rodeados de un conjunto de garantías enderezadas a asegurar que no se vulneren los
+atributos inviolables de la persona, dentro de las cuales, acaso la más relevante tenga
+que ser que las limitaciones se establezcan por una ley adoptada por el Poder
+Legislativo, de acuerdo con lo establecido por la Constitución. A través de este
+procedimiento no sólo se inviste a tales actos del asentimiento de la representación
+popular, sino que se permite a las minorías expresar su inconformidad, proponer
+iniciativas distintas, participar en la formación de la voluntad política o influir sobre la
+opinión pública para evitar que la mayoría actúe arbitrariamente. En verdad, este
+procedimiento no impide en todos los casos que una ley aprobada por el Parlamento
+llegue a ser violatoria de los derechos humanos, posibilidad que reclama la necesidad
+de algún régimen de control posterior, pero sí es, sin duda, un obstáculo importante
+para el ejercicio arbitrario del poder” (CIDH, Opinión Consultiva OC-6/86 del 9/5/86: La
+expresión “leyes” en el artículo 30 de la Convención Americana sobre los Derechos
+Humanos).
+
+La CIDH concluye entonces que la expresión leyes, utilizada por el artículo 30, no
+puede tener otro sentido que el de ley formal, es decir, norma jurídica adoptada por el
+
+
+22
+   La Declaración de los Derechos del Hombre y del Ciudadano de 1789 expresa en su artículo 4 que “La libertad
+consiste en poder hacer todo lo que no perjudica a otro; así, el ejercicio de los derechos naturales de cada hombre no
+tiene otros límites que los que garantizan a los demás miembros de la sociedad el goce de esos mismos derechos.
+Estos límites sólo pueden ser determinados por la Ley”
+
+[[PDF p. 6]]
+órgano legislativo y promulgada por el Poder Ejecutivo, según el procedimiento
+requerido por el derecho interno de cada Estado.
+
+Sin embargo, no sería exacto sostener que todas las reglamentaciones válidas al
+ejercicio de los derechos provienen de leyes formales del Congreso. Ello es así porque
+el propio ordenamiento constitucional y legal tolera la reglamentación a cargo del
+Poder Ejecutivo, de los organismos que dependen de este (ministerios, secretarias),
+de los que el Congreso crea para fines específicos (universidades, entes
+descentralizados en general) y de las autoridades superiores de los demás poderes
+(Corte Suprema de Justicia de la Nación y Consejo de la Magistratura en el caso del
+Poder Judicial, y Procurador General de la Nación y Defensor General de la Nación en
+el Ministerio Público23), a tenor de los cual existen muchísimas reglamentaciones a los
+derechos que no provienen estrictamente de una ley del Congreso, sino que son
+aprobadas por otros órganos, en virtud de una habilitación expresa contenida en la ley
+para ello. Por su parte, es de suma relevancia en nuestro sistema constitucional el
+inciso 2º del art. 99 que establece la facultad reglamentaria de las leyes en cabeza del
+Poder Ejecutivo, y que da lugar a los llamados decretos reglamentarios o reglamentos
+de ejecución, cuya función es la de complementar y precisar los contenidos de la ley a
+los fines de permitir o facilitar su ejecución. Si bien un decreto reglamentario se
+encuentra siempre ligado y enmarcado en una ley anterior del Congreso, son
+numerosos los aspectos que suele incluir una reglamentación (precisar conceptos
+previstos en la ley, reglar procedimientos, disponer plazos y requisitos, etc. Por
+ejemplo: una ley puede crear un subsidio destinado a “pequeños productores”,
+mientras que es la posterior reglamentación por decreto la que establece qué se
+entiende por tales, en qué supuestos procede el beneficio, qué requisitos se necesitan
+cumplir para acceder a él, por medio de qué procedimientos y plazos, etc.). A tenor de
+ello los decretos pueden contener limitaciones al ejercicio de los derechos que no son
+exactamente las previstas en la letra de la ley, aunque sean acordes en su propósito y
+estén destinadas a hacer posible su ejecución. Por otro lado, existen leyes que se
+limitan a establecer un marco general de regulación de una materia, facultando a un
+organismo especial al dictado de la reglamentación de “segundo nivel”, que tiene
+carácter normativo general y abstracto y regula conductas y situaciones jurídicas
+(restringe derechos) tanto como lo puede hacer una ley. Son ejemplos de ello, las
+leyes tributarias que encomiendan a la Administración Federal de Ingresos Públicos
+(AFIP) la fijación de requisitos y procedimientos para el cumplimiento de las
+obligaciones de los contribuyentes o las de regulación del ámbito bancario, financiero y
+cambiario que delegan en el Banco Central de la República Argentina (BCRA) la
+reglamentación de la actividad financiera de los bancos e incluso de los derechos de
+las personas de comprar o vender moneda extranjera (por ejemplo, en el año 2012
+prohibió casi por completo la compra de dólares por parte de particulares). Por último,
+existen entes con gran poder de reglamentación, y el mejor ejemplo en nuestro país es
+el de las universidades nacionales, que gozan de “autonomía” (ver art. 75.23) y que en
+ejercicio de ella fijan sus órganos de gobierno, el modo en que se ejercen los derechos
+electorales para elegir sus autoridades y los derechos y obligaciones de los docentes y
+estudiantes.
+
+En suma: el principio de legalidad no excluye que existan reglamentaciones a los
+derechos que provengan de normas infralegales, pero la legitimidad que conforme con
+su adecuación a la letra y a los propósitos de la ley formal le corresponda constituye
+un problema constitucional que debe resolverse caso por caso, y sobre el que existe
+jurisprudencia en la que predomina un criterio flexible, para el cual “las facultades de
+reglamentación que confiere el art. 99, inc. 2º de la Constitución Nacional habilitan
+para establecer condiciones o requisitos, limitaciones o distinciones que, aun cuando
+
+23
+     Ver arts. 113, 114 y 120 CN
+
+[[PDF p. 7]]
+no hayan sido contemplados por el Legislador de una manera expresa, cuando se
+ajustan al espíritu de la norma reglamentada o sirven, razonablemente, a la finalidad
+esencial que ella persigue, son parte integrante de la ley reglamentada y tienen la
+misma validez y eficacia que ésta” (Fallos: 190:301; 202:193; 237:636; 249:189;
+308:668; 316:1239; 318:1707; 325:645 y 330:2255) (ver comentario al inciso 2° del art.
+99).24 Aún así, se han dado casos de invalidación de excesos reglamentarios del
+Poder Ejecutivo o de sus órganos dependientes. Por poner un solo ejemplo –muy
+ilustrativo- mencionaré el caso “Arenzón”25, en el que la Corte declaró inconstitucional
+el reglamento que exigía una estatura mínima de 1,60 m. para el ingreso al
+profesorado de matemática, no sólo por importar una limitación arbitraria a los
+derechos de enseñar y aprender, sino además por constituir un exceso en la
+competencia reglamentaria de la administración, en una materia que en todo caso
+hubiese correspondido a una ley (consid. 5º).
+
+3.2. Debida fundamentación en fines de interés general
+
+En un estado de derecho democrático, y tal como se pone de relevancia en toda esta
+obra, el principio de legalidad no se limita a exigir una ley formal para que las
+restricciones al goce y ejercicio de los derechos y libertades sean constitucionalmente
+válidas sino que requiere, además, que esas leyes se justifiquen en razones de
+comprobado interés general, y sean producto de suficiente deliberación (CIDH,
+Opinión Consultiva OC-6/86, punto 28).
+
+Sobre las razones o finalidades generales que deben fundar cualquier ley
+reglamentaria, antiguamente solían indicarse tres propósitos fundamentales del poder
+de policía: la seguridad en general (física, en los bienes, en las relaciones jurídicas, en
+el tráfico comercial, etc.), la salubridad de la población y la moralidad pública. De ese
+modo era expresado en la jurisprudencia de la Corte: "es un hecho y también un
+principio constitucional, que la policía de las Provincias está a cargo de sus gobiernos
+locales, entendiéndose incluido en los poderes que se han reservado, el de proveer lo
+conveniente á la seguridad, salubridad y moralidad de sus vecinos; y que, por
+consiguiente, pueden lícitamente dictar leyes y reglamentos con estos fines, no
+habiéndose garantido por el artículo catorce de la Constitución Nacional á los
+habitantes de la República el derecho absoluto de ejercer su industria ó profesión, sino
+con sujeción a las leyes que reglamentan su ejercicio"26.
+
+Posteriormente, la legislación, la doctrina y la jurisprudencia ampliaron el menú de
+finalidades legítimas, el que entonces abarca los propósitos más variados: la
+organización económica en general, la estabilidad de los precios, el abastecimiento de
+bienes, el déficit habitacional, la paz social, etc.27
+
+Si bien las decisiones judiciales suelen tener por acreditada la legitimidad de los fines
+de carácter público de las reglamentaciones por su sola invocación, existen
+precedentes en los que se determinó su ausencia (como en el caso pionero del control
+de constitucionalidad en la Argentina, “Municipalidad de la Capital c/Elortondo”28 en el
+24
+   La jurisprudencia de la Corte norteamericana ha considerado que el principio de legalidad se considera resguardado
+siempre que exista un estándar comprensible –intelligible standard, discernible standard o prescribed standard- en la
+ley (“United States v. Chicago”, 282 U.S. 311, 324 -1931-).
+25
+   CSJN, Fallos 306:400, “Arenzón, Gabriel D. c. Gobierno nacional, Ministerio de Educación -
+Dirección Nacional de Sanidad Escolar”, del 15/5/1984.
+26
+   Fallos 7: 150, 1869, caso “Plaza de Toros”.
+27
+   Quizás la ocasión en que la Corte argentina haya definido los cometidos del poder de policía en términos más
+amplios haya sido en el caso “Productos Oleaginosos Cipo” (Fallos: 226:453, 1953), donde –en pleno auge de la
+intervención económica- expresó que “el poder de policía que la doctrina y la jurisprudencia han reconocido como
+existente entre los poderes implícitos (es el que tiene por fin que) sean salvaguardados el bienestar económico y el
+justo equilibrio entre la producción, industrialización y distribución, todo en defensa de la solidaridad social y la
+grandeza de la Nación”.
+28
+   1888.
+
+[[PDF p. 8]]
+que se reputara inexistente la “utilidad pública” en parte de de una ley expropiatoria29),
+o que la remisión a los fines públicos era de una ambigüedad tal que los tornaba
+inválidos30.
+
+Resulta de particular interés, en la causa “Halabi”, en la que la Corte inaugurara los
+efectos erga omnes de sus sentencias declarativas de inconstitucionalidad (ver
+comentario a los arts. 43 y 116), el fallo de primera instancia en que se declarara la
+inconstitucionalidad de la ley 25.873 (que autorizada al Poder Ejecutivo a realizar
+escuchas telefónicas sin orden judicial), con especial fundamento en los defectos de la
+ley relativos a su suficiente motivación y adecuado debate parlamentario31.
+
+3.3. Art. 28: Requisito de razonabilidad, proporcionalidad o necesariedad de la
+reglamentación
+
+El artículo 28 CN establece que los principios, garantías y derechos no pueden “ser
+alterados por las leyes que reglamenten su ejercicio”32, prescripción que ha dado lugar
+a diversos esquemas argumentales tendientes a establecer “el límite” que determina la
+validez o invalidez constitucional de una reglamentación.
+
+Los criterios sobre los límites del poder reglamentario son construcciones doctrinarias
+formuladas a partir de la casuística resuelta por la jurisprudencia de los tribunales
+europeos y de la Corte de los Estados Unidos, fuente de la que se ha valido nuestra
+Corte Suprema, como veremos33. El relevamiento de la jurisprudencia de la Corte
+norteamericana permite describir dos criterios fundamentales de evaluación de las
+reglamentaciones, de acuerdo con el nivel (intensidad) de revisión o escrutinio (levels
+of judicial scrutiny). Para las restricciones a los derechos económicos o patrimoniales
+(economic rights), la revisión consiste en determinar si la restricción al derecho luce
+como un medio racional y adecuado para lograr el fin que se propone (rational basis
+review). Se trata de un análisis poco riguroso que sanciona sólo a aquellas
+reglamentaciones que se advierten como claramente irracionales. En cambio, para las
+limitaciones a los derechos no patrimoniales como la intimidad, la libertad de
+29
+   Se trataba de la ley que dispuso la expropiación de todos los inmuebles que se encontraban en lo que actualmente
+es la Avenida de Mayo en la ciudad de Buenos Aires. La Corte estableció que respecto de una de las fincas no se
+verificaba la causa de “utilidad pública” declamada por la ley, ya que aquella se encontraba fuera del trazado previsto
+para la avenida.
+30
+   En el caso “Hileret”, por ejemplo, del año 1903 (Fallos 98:51), la Corte declaró la inconstitucionalidad de una ley de la
+Provincia de Tucumán que gravaba con un impuesto los excedentes de producción de azúcar, con el fin de deprimir la
+oferta y lograr la suba del precio, a favor de los productores locales. La sentencia, exhaustiva en cuanto a la
+apreciación de la medida desde la faz económica, concluyó que la ley no se dirigía verdaderamente a la satisfacción de
+un interés general prioritario, pues resultaba contraria al interés de los consumidores (que pagarían mayor precio por el
+producto), al de las empresas de ferrocarriles (que transportarían menor carga), y al del personal empleado en la
+industria azucarera, obviamente perjudicado por los topes de producción que la ley pretendía imponer. La Corte
+rechazó así la invocación del interés público realizada por el estado provincial, afirmando que en realidad la ley
+beneficiaba a una veintena de productores en desmedro de todo el resto de afectados, lo cual vulneraba la igualdad
+ante las cargas públicas. Desde luego que un precedente así, con semejante intensidad en el control judicial sobre el
+mérito o la conveniencia de medidas económicas, no volvería a repetirse en la historia de la Corte.
+31
+   "Halabi Ernesto c/ PEN -Ley 25.873 dto. 1563/04- s/ Amparo Ley 16.986", Juzgado Nacional de Primera Instancia en
+lo Contencioso Administrativo Federal Nº 10, 14/06/2005. CSJN, Halabi, 2009, Fallos, 332:111
+32
+    Su origen es el art. 20 del proyecto de Alberdi, que establecía: “Las leyes reglan el uso de estas garantías de
+derecho público; pero el Congreso no podrá dar ley que, con ocasión de reglamentar u organizar su ejercicio, las
+disminuya, restrinja, o adultere en su esencia”. En la nota al artículo remite a sus “Bases”, donde sostuvo “la
+Constitución debe dar garantías de que sus leyes orgánicas no serán excepciones derogatorias de los grandes
+principios consagrados por ella, como se ha visto mas de una vez. Es preciso que el derecho administrativo no sea un
+medio falaz de eliminar y escamotear las libertades y garantías constitucionales. Por ejemplo, la prensa es libre, dice la
+Constitución; pero puede venir la ley orgánica de la prensa y crear tantas trabas y limitaciones al ejercicio de esa
+libertad, que la deje ilusoria y mentirosa. Es libre el sufragio, dice la Constitución; pero vendrá la ley orgánica electoral,
+y a fuerza de requisitos y limitaciones excepcionales, convertirá en mentira la libertad de votar” (Alberdi, Juan B., Bases
+y puntos de partida para la organización política de la República Argentina, Sopena, Bs. As., p. 85)
+33
+   La primera aproximación a una doctrina de los límites al poder de policía en los Estados Unidos se encuentra en el
+caso resuelto por la Corte en “Chicago Milwaukee & Saint Paul v. Minnesota” (1890), en el que se declaró
+inconstitucional una ley que establecía una tarifa que no contemplaba una ganancia razonable en relación con la
+inversión realizada. El debido proceso (due process of law) fijado como garantía en la Enmienda 5ª. de la Constitución
+norteamericana pasó a constituir, además de una garantía de carácter procesal, una exigencia respecto del contenido
+de los actos estatales: razonabilidad, proporcionalidad, equidad, justicia, etc.
+
+[[PDF p. 9]]
+expresión, la participación política, la libertad religiosa y la igualdad (libertades
+preferidas, preferred freedoms) el escrutinio es más estricto (strict scrutiny) e implica
+evaluar si la restricción resulta imprescindible para asegurar fines especialmente
+relevantes del Estado.
+
+Esas pautas de revisión del poder reglamentario se trasladaron al lenguaje y a los
+estándares de decisión de la Corte argentina, cuya sistematización doctrinaria ha dado
+lugar al denominado “control o test de razonabilidad” del poder de policía34.
+
+En síntesis, ese examen sobre la razonabilidad de una norma consiste en analizar si
+esta constituye un “medio” idóneo, proporcionado o necesario en relación al “fin” que
+ha fundamentado su dictado. Como se verá, cada una de esas nociones (idoneidad,
+proporcionalidad y necesariedad) lleva aparejada distinta intensidad o rigurosidad en el
+control, y distintos resultados en relación a la constitucionalidad de las restricciones a
+los derechos.
+
+1) En el juicio de idoneidad35 se determina si la norma reglamentaria (“medio”) es
+eficaz o conduce al resultado que se propone (“fin”) y que ha fundado su dictado. En
+caso de no poder establecerse esa relación, la reglamentación deviene entonces en
+arbitraria y por ende inconstitucional por limitar infundadamente un derecho. Ejemplo
+de ello es el caso “Arenzón”36, que mencioné antes, donde la Corte estableció que la
+norma que exigía una estatura mínima para ejercer la docencia, además de exceder
+los límites de la facultad reglamentaria del Poder Ejecutivo (violación al principio de
+legalidad), resultaba manifiestamente irrazonable, al no poder comprobarse una
+relación entre aquel requisito y el fin estatal de asegurar la idoneidad de los
+docentes37. Por igual motivo y en relación a la idoneidad para desempeñarse como
+funcionario judicial, en el caso “Gottschau”38 se invalidó la norma que requería para
+ello la nacionalidad argentina. También, en “Arriola”39, la Corte declaró la
+inconstitucionalidad del delito de tenencia de estupefacientes para consumo personal,
+que afecta la intimidad consagrada en el artículo 19 CN, por estimar que ese medio
+legal había demostrado ser ineficaz en relación a los fines de salud pública (reducción
+del tráfico y el consumo) que el Estado había invocado históricamente para defender la
+norma.
+
+En definitiva, en tales casos se concluye que la reglamentación, por carecer de
+idoneidad o aptitud, es irrazonable.
+
+34
+   Uno de los primeros y más elaborados estudios sobre la razonabilidad como pauta de control judicial fue el de Juan
+Francisco Linares, en su obra Razonabilidad de las leyes, Ed. Astrea, 2ª. Edición, 1970. Ver también: Padilla, Miguel
+M., “Razonabilidad jurídica y razonabilidad técnica”, en LL, 1984-D, p. 1106; Cianciardo, Juan, El Principio de
+Razonabilidad. Del Debido Proceso Sustantivo al moderno Juicio de Proporcionalidad, Ábaco, Bs. As., 2004; y
+Cianciardo, Juan; Romero, Maximiliano J., “Limitaciones a los derechos constitucionales y control de razonabilidad”, en
+Rivera, Julio César (h) (dir.), Tratado de los derechos constitucionales, Bs. As., Abeledo-Perrot, 2014, Volumen I.
+35
+   También llamado de “aptitud” o de “adecuación”, y aplicado de manera idéntica en los tribunales europeos. Ver:
+Barnes, Javier, “Introducción al principio de proporcionalidad en el derecho comparado y comunitario”, Revista de
+Administración Pública, Núm. 135, Septiembre-diciembre 1994, Madrid, p. 495
+36
+   Fallos 306:400, 1984.
+37
+   Particularmente enfático es el voto de los jueces Belluscio y Petracchi en este punto: “Que, en efecto, la resolución
+957/81 del Ministerio de Educación con arreglo a la cual se exige una estatura mínima de 1,60 m. a los varones que
+deseen ingresar al Instituto Nacional Superior del Profesorado doctor Joaquín V. González para seguir estudios de
+Matemática y Astronomía, comporta una reglamentación manifiestamente irrazonable de los derechos de enseñar y
+aprender (si es que no excediese la potestad acordada al Poder Ejecutivo por el artículo 86, inc. 2º, Constitución
+Nacional), afecta la dignidad de las personas que inicuamente discrimina, y, por lo mismo, conculca las garantías
+consagradas en los artículos. 14, 16, 19 y 28 de la Constitución Nacional”
+38
+   “Gottschau, Evelyn Patrizia c/ Consejo de la Magistratura de la Ciudad Autónoma de Buenos Aires s/ amparo”, 2006.
+39
+   CS, “Arriola, Sebastián y otros s/ causa n° 9080” (2009). Para así decidirlo sostuvo categóricamente que la vigencia
+por más de 20 años de la disposición penal del artículo 14, segundo párrafo, de la ley 23.737 había permitido
+demostrar que las razones pragmáticas o utilitaristas en que se sustentaba (desaliento del consumo y el tráfico) habían
+fracasado, a costa de las acciones privadas protegidas por el art. 19 de la Constitución. Se remitió a numerosos
+informes de organismos nacionales e internacionales en los que se da cuenta que tanto el comercio como el consumo
+de estupefacientes en nuestro país en las últimas dos décadas, lejos de haber disminuido, se acrecentaron
+notablemente.
+
+[[PDF p. 10]]
+2) En otros supuestos, se alude al “juicio de proporcionalidad”: se da cuando, si bien
+es posible reconocer una finalidad legítima o loable en la reglamentación, esta resulta
+desproporcionada, abusiva. La Corte en el mencionado caso “Ercolano” refiere la
+cuestión de esta manera: “hay restricciones a la propiedad y a las actividades
+individuales cuya legitimidad no puede discutirse en principio, sino en su extensión”.
+En el caso “Iachemet”40, por ejemplo, se consideró inaplicable a una anciana de más
+de 90 años de edad, el régimen de consolidación de deudas del Estado (pago en
+bonos y en cuotas de capital durante 10 años o más, con fundamento en la crisis
+presupuestaria)41, precisamente por su desproporción. En definitiva, cualquier norma
+por la que se imponga una restricción a un derecho que se considere una carga
+excesiva, es susceptible de ser reputada irrazonable bajo el escrutinio de
+proporcionalidad.
+
+Debe decirse que en ambos casos (examen de aptitud o idoneidad y examen de
+proporcionalidad) la jurisprudencia exhibe un alto nivel de deferencia hacia los demás
+poderes. Ello tiene origen en las razones que fundamentan la auto-restricción de los
+jueces al ejercer el control de constitucionalidad, y que llevan, en todos los casos
+donde no se encuentre comprometido un derecho especialmente valioso, a presumir
+que las reglamentaciones son legítimas, que la autoridad que dictó la norma ha
+valorado los intereses constitucionales en juego, y que entonces sólo cabe expedirse
+sobre su razonabilidad cuando la falta de idoneidad o de proporcionalidad sean
+manifiestas y evidentes.
+
+3) Por último, existe el examen de “necesariedad”, que consiste en establecer si una
+reglamentación es necesaria o imprescindible para el logro de un interés prioritario del
+Estado. Tal es la construcción que la Corte norteamericana aplica respecto de las
+mencionadas libertades preferidas –especialmente la igualdad- y cuyas restricciones
+quedan sometidas a un escrutinio estricto42.
+En relación a la igualdad, toda reglamentación que establezca una distinción o trato
+diferente (en razón de la edad, la nacionalidad, la raza, el sexo o la religión) es
+considerada una “categoría sospechosa” sobre la que pesa una presunción de
+inconstitucionalidad, que sólo puede ser revertida si el Estado demuestra tal necesidad
+en restringir el derecho en pos de un interés superlativo, y siempre que no exista otro
+remedio con igual efecto pero menos restrictivo.
+El caso “Regents of Univ. of California v. Bakke”43, es muy ilustrativo del modo como
+se aplica el test estricto de razonabilidad o juicio de necesariedad. Se examinó allí un
+sistema de ingreso especial a la Facultad de Medicina de la Universidad de California,
+por el cual se aseguraba un cupo a estudiantes provenientes de grupos sociales
+desaventajados (indígenas, asiáticos y afroamericanos). Un aspirante del sistema
+general que había obtenido mejores calificaciones que los ingresantes beneficiados
+con el plan para minorías demandó a la universidad. La Corte examinó la necesidad
+del medio elegido en relación a cada uno de sus fines, y si bien lo encontró
+irreprochable en orden a asegurar los beneficios educacionales que se derivan de un
+alumnado étnicamente variado, no lo consideró imprescindible para incrementar el
+número de médicos en las comunidades beneficiadas, objetivo invocado por la
+universidad pero al alcance del estado por vía de otras medidas.
+
+En nuestro país, el criterio estricto para evaluar las restricciones a la igualdad tuvo
+aplicación en los casos “Arenzón”, ya referido, y en los relativos a la restricción para
+
+40
+     Fallos 316:779, 1993.
+
+41
+   Ley 23.982 de 1991
+42
+   El origen del test estricto suele ubicarse en la nota 4 del caso “United States vs Carolene Products” (304 U.S. 144,
+1938), donde se postularon sus primeras ideas.
+43
+   438 U.S. 265 (1978).Ver el comentario en Ekmekdjian Miguel y Siegler Pedro, “Discriminación inversa: un fallo
+trascendente de la Corte Suprema de los EE.UU.”, ED, 93-877.
+
+[[PDF p. 11]]
+acceder a profesiones o funciones públicos por razón de la nacionalidad: “Repetto”44,
+“Hooft45 y “Gottschau”46, entre otros. En todos los casos la Corte acudió el test riguroso
+de necesariedad al afirmar que: (t) cuando se impugna una categoría basada en el
+origen nacional corresponde considerarla sospechosa de discriminación y portadora
+de una presunción de inconstitucionalidad; (ii) la mencionada presunción de
+inconstitucionalidad sólo puede ser levantada con una cuidadosa prueba sobre los
+fines que se intenta resguardar, que deben ser sustanciales y no basta que sean
+meramente convenientes; (iii) en cuanto al medio elegido, es insuficiente una genérica
+"adecuación" a los fines, sino que debe demostrarse que son estrictamente necesarios
+y, además, que no existen otras alternativas menos restrictivas para los derechos en
+juego.
+
+En suma, el “control de razonabilidad” sobre las reglamentaciones que derivan del
+poder de policía importa la revisión de los siguientes elementos:
+
+1. La finalidad perseguida por la norma sujeta a examen debe ser legítima,
+   claramente identificable, y relativa a algún aspecto del interés general de la
+   comunidad (salud, seguridad, moralidad, orden público, orden económico y social,
+   etc.).
+2. La norma debe constituir un medio eficaz e idóneo respecto de los fines que se
+   proponen alcanzar.
+3. Compete al legislador la selección del medio adecuado, sin que los jueces deban
+   sustituir sus criterios de apreciación.
+4. La naturaleza y extensión de la restricción no deben ser abusivas ni
+   desproporcionadas.
+5. Para el caso de los derechos de mayor jerarquía, las restricciones sólo son
+   admisibles si son necesarias para lograr un fin o interés especialmente relevante.
+
+
+
+
+44
+   “Repetto, Inés M. c. Provincia de Buenos Aires s/ Acción de Inconstitucionalidad” (1988). La Corte declaró allí la
+inconstitucionalidad del requisito de la nacionalidad argentina para el desempeño como maestra jardinera.
+45
+   “Hooft, Pedro Cornelio Federico c/ Buenos Aires, Provincia de s/ acción declarativa de inconstitucionalidad” (2004),
+en el que se declaró la inconstitucionalidad del art. 177 de la Constitución de la Provincia de Buenos Aires en cuanto
+requiere, para acceder al cargo de juez local de cámara, "haber nacido en territorio argentino o ser hijo de ciudadano
+nativo si hubiese nacido en país extranjero".
+46
+   “Gottschau” , Evelyn Patrizia c/ Consejo de la Magistratura de la Ciudad Autónoma de Buenos Aires s/ amparo”
+(2006), donde acogió la demanda de la actora, de nacionalidad alemana, contra el Gobierno de la Ciudad de Buenos
+Aires, tendiente a que se declare la invalidez de un reglamento que exigía la condición de “argentino nativo o
+naturalizado” para el desempeño del cargo de secretaria letrada en el Poder Judicial. .

@@ -1,0 +1,1291 @@
+# fuente: Unidad4/2_Elfman - 2019 - Comentario al artículo 31.pdf
+# modo: texto
+# origen: copia de corpus/texto/elfman2019.txt (texto nativo, nivel A). Notas al pie y llamadas de nota se filtran con extractos/limpieza/elfman2019.txt
+# paginas: 25
+
+[[PDF p. 1]]
+SUPREMACÍA CONSTITUCIONAL. CONTROL DE CONSTITUCIONALIDAD Y
+CONTROL DE CONVENCIONALIDAD (Arts. 27, 31, 43, 75 inc. 22 y 24, 116 CN)
+
+                                                                                               Jonás Elfman1
+
+Introducción: Democracia y Constitución. Un matrimonio de tradiciones en tensión.
+
+         La mayor parte de las comunidades políticas occidentales se han organizado bajo la forma
+de democracias constitucionales. Esta forma de gobierno plantea la fusión de dos tradiciones
+políticas; la democrática y la constitucional. La primera persigue el ideal de “soberanía popular” o
+autogobierno colectivo. La segunda, el ideal del “gobierno de las leyes”. A pesar de su aparente
+convergencia, ambos ideales tienden a entrar en tensión. Mientras que el autogobierno colectivo
+presupone el poder ilimitado del pueblo, el gobierno de leyes apunta a la limitación de las
+decisiones de gobierno, aún mayoritarias, a través de su sometimiento a normas, derechos o
+principios de superior jerarquía. El fortalecimiento de uno de los ideales, tiende a debilitar la
+realización del otro2.
+
+        Con el fin de superar este dilema, se ha propuesto concebir los derechos constitucionales y
+reglas organizativas de la vida política como precondiciones del sistema democrático, esto es, como
+reglas para su funcionamiento, antes que como límites o restricciones a su operación3. Cualquier
+sistema de gobierno requiere de mínimas pautas regulativas para poder desarrollarse. La democracia
+no es la excepción. Si bien ciertos derechos y reglas constitucionales restringen el marco de acción
+inmediato de las decisiones colectivas, también promueven, paradojalmente, la libertad de la
+comunidad política para decidir cómo autogobernarse en el largo plazo4.
+
+        El valor instrumental de ciertas limitaciones al autogobierno es indiscutible. Sin embargo,
+también es evidente que no toda regulación constitucional representa una herramienta tendiente a
+potenciar el sistema democrático. ¿Cómo podemos discriminar entonces cuáles reglas fortalecen el
+funcionamiento de la democracia y cuáles lo limitan injustificadamente?
+
+
+1
+  Agradezco a Gustavo Maurino las generosas observaciones, comentarios y correcciones a las versiones
+previas de este artículo.
+2
+  En la medida que mayor cantidad de derechos y reglas se “atrincheran” en el texto constitucional, menor
+cantidad de decisiones quedan libradas al juego democrático y viceversa (Nino Carlos, La constitución de la
+democracia deliberativa, Gedisa, Barcelona, 2003, Cap. I).
+3
+  Véase Holmes Stephen, “El precompromiso y la paradoja de la democracia”, en J. Elster y R. Slagstad,
+Constitucionalismo y Democracia, Fondo de Cultura Económica, México, 1999, p. 217-262.
+4
+  Esta teoría suele ser explicada a través de la esclarecedora metáfora de “Ulises y las sirenas”. Para evitar
+sucumbir al llamado traicionero de las sirenas y llegar a destino, Ulises decide atar sus manos al mástil de su
+embarcación. Si bien se han presentado diferentes críticas a la metáfora (véase el debate entre Juan José
+Moreso, “Sobre el alcance del precompromiso”, Discusiones: Derechos y Justicia Constitucional, núm. 1,
+2000, p. 95-107 y Roberto Gargarella, “Los jueces frente al coto vedado”, publicación cit., p. 53-64), ella
+puede ser útil para entender el enfoque que nos propone Holmes, en tanto tengamos presentes las diferencias
+que subsisten entre una decisión personal (Ulises) y una decisión colectiva (comunidad política).
+                                                                                                             1
+
+[[PDF p. 2]]
+        El principio de igualdad puede servirnos de guía. Toda democracia presupone la adopción
+de una noción fuerte de igualdad política ante las decisiones de gobierno; entendida como el
+derecho de cada uno a que sus intereses reciban igual consideración y respeto en la toma de
+decisiones políticas5. A diferencia de otros sistemas políticos, en una democracia, las decisiones de
+gobierno sólo son válidas si, bajo condiciones de igual respeto y consideración, realizan la voluntad
+mayoritaria de los miembros de la comunidad, o sus representantes. Se reconoce entonces mismo
+derecho a cada individuo a participar del autogobierno comunitario, o a elegir a los representantes
+que desempeñan esa función. Por lo tanto, sólo las cláusulas constitucionales que apunten a reforzar
+este ideal de igualdad política se encuentran alineadas con los principios de una democracia.
+
+         No obstante, aun si receptamos el principio de igualdad como criterio para evaluar la
+consistencia democrática del derecho constitucional, el problema no queda resuelto. Como veremos
+más adelante, subsisten importantes discrepancias en torno a los derechos y reglas que deben
+volcarse en el texto constitucional, en especial, a la forma en que deben ser interpretadas
+(problemática que origina la llamada objeción democrática al control judicial de constitucionalidad
+de las leyes, analizada en el cap. II.b.). Por ello, aún cuando compartiéramos una concepción común
+acerca del valor de la democracia, disentimos sobre sus alcances y sobre qué instituciones
+contribuyen mejor a su funcionamiento. Estas concepciones en pugna tienden a condicionar nuestro
+marco conceptual desde donde juzgamos el alcance de nuestra Constitución6.
+
+I.- La recepción del principio de supremacía constitucional.
+
+        El art. 31 de la CN consagra dos principios fundamentales sobre los cuales se asienta el
+ordenamiento jurídico argentino: el principio de supremacía constitucional y el principio de
+jerarquía de las fuentes del derecho. El primero coloca a la Constitución Nacional en la cima de la
+pirámide normativa, confiriendo validez a todo el sistema jurídico político. El segundo establece el
+orden de prelación de las restantes fuentes del ordenamiento, obligándolas a adecuarse y se
+subordinarse a los lineamientos dogmáticos (carta de derechos) u orgánicos (reglas de organización
+de los poderes públicos) de la Constitución.
+
+        La supremacía constitucional se encuentra reforzada a través de un procedimiento rígido de
+reforma constitucional que dificulta su modificación (art. 30 CN), la expresa prohibición de que las
+leyes que reglamentan el ejercicio de los derechos alteren su esencia, así como los principios y
+garantías reconocidas en la Constitución (art. 28 CN) y la subordinación de las Constituciones
+provinciales (art. 5 CN) y tratados internacionales a sus directivas (art. 27 CN).
+
+         La relación entre el Derecho Internacional y el Derecho Interno –constitucional y
+legislativo- ha sido transformada con la última reforma constitucional. Allí se incorporó un nuevo
+esquema normativo que estableció: (a) La jerarquía constitucional de un conjunto de tratados
+
+5
+  Dworkin Ronald, “Igualdad, democracia y constitución: Nosotros, el pueblo, en los tribunales”, El Canon
+Neoconstitucional, Carbonell Miguel y García Jaramillo Leonardo (Edit.), Trotta, Madrid, 2010, p. 117-149.
+6
+  Véase la comparación presentada por Roberto Gargarella en este libro entre la concepción estrecha y la
+concepción amplia sobre la democracia que han convivido en nuestra historia constitucional.
+                                                                                                        2
+
+[[PDF p. 3]]
+internacionales, que “deben entenderse complementarios de los derechos y garantías reconocidos en
+esta Constitución” (2do parr., art. 75 inc. 22 CN); (b) La supremacía legal infraconstitucional de los
+restantes tratados aprobados por nuestra República (1er. párr., art. 75 inc. 22 CN). De esta manera,
+se puso fin a un histórico debate constitucional en torno al orden de prelación entre los tratados
+internacionales y las leyes nacionales, que generaba dudas en la Constitución de 1853-607. Nuestra
+pirámide normativa se estructura con un “bloque de constitucionalidad” compuesto por la
+Constitución Nacional y los tratados con jerarquía constitucional; los tratados comunes sin jerarquía
+constitucional se ubican por debajo, y las leyes de la Nación en un escalón inferior a estos últimos8.
+
+        El artículo 31 de la CN tiene su antecedente más inmediato en el art. VI, 2do. párrafo de la
+Constitución de los Estados Unidos de América9. Por razones histórico-coyunturales, la versión
+original de la cláusula constitucional (CN 1853-60) privaba de validez a los tratados aprobados con
+posterioridad al Pacto del 11 de noviembre de 1859 en relación a la provincia de Buenos Aires10.
+Distintos autores coinciden en señalar la falta de valor práctico de esta disposición11.
+
+        En un principio, la Corte Suprema defendió la vigencia del principio de supremacía
+constitucional tanto en tiempos de paz como de guerra12. Sin embargo, nuestro Máximo Tribunal no
+
+7
+   Hasta el caso “Ekmekdjian c. Sofovich” (1992, Fallos: 315:1492), la Corte mantuvo una postura
+zigzagueante en relación al orden jerárquico entre leyes y tratados (véase “Merck Química Argentina c.
+Gobierno de la Nación”, 1948, Fallos: 115:210; “Martin & Ltda. S.A. c. Administración General de Puertos s/
+Repetición de pago”, 1963, Fallos: 257:99).
+8
+  El reconocimiento de tratados con jerarquía constitucional no ha eliminado por completo la tensión entre
+el derecho interno y el derecho internacional. Tal cual surge de los casos “Cantos” (CSJN, 2003, Fallos:
+326:4015) “Espósito” (CSJN, 2004, Fallos: 327:5668), “Derecho” (CSJN, 2011, Fallos: 334:1504) y
+“Fontevecchia” (CSJN, 2017, CSJ 368/1998 -34 M-/CS1) en ciertas circunstancias se ha planteado un
+enfrentamiento entre derechos o reglas constitucionales y directivas o normas de estos tratados
+internaciones con jerarquía constitucional. En estos casos, la CSJN no ha tenido más remedio que
+determinar cuál es el ordenamiento que debe prevalecer. Mientras en “Espósito” y “Derecho” se inclinó por
+sostener la supremacía del derecho internacional, en los casos “Cantos” y “Fontevecchia” abonó la
+supremacía del derecho interno.
+9
+   “Esta Constitución y las leyes de los Estados Unidos que de ella dimanen y todos los tratados que se
+celebren bajo la autoridad de los Estados Unidos constituirán la ley suprema de la Nación. Los jueces de cada
+estado estarán obligados a observarla aun cuando hubiere alguna disposición en contrario en la Constitución o
+en las leyes de cualquier estado” (Art. VI, 2do. párrafo CN EEUU).
+10
+   “… salvo para la provincia de Buenos Aires, los tratados ratificados después del Pacto de 11 de noviembre
+de 1859” (art. 31 CN).
+11
+    Según describe Colauti, algunos meses después de acordarse la incorporación de Buenos Aires a la
+Confederación a través del Pacto de San José de Flores (11.11.1859), el Presidente en funciones (Urquiza)
+aprobó un tratado internacional con España confiriendo derecho a la ciudadanía a los hijos de españoles. El
+tratado disgustaba a la dirigencia de la provincia siendo que, de haberse aplicado, el número de extranjeros
+hubiese superado a los nacionales en la ciudad de Buenos Aires. Véase Colauti Carlos, Derecho
+Constitucional, Editorial Universidad, Buenos Aires, 1998, p. 54.
+12
+    Véase “Compañía Azucarera Tucumana c. Provincia de Tucumán” (CSJN, 1927, Fallos: 150:150). Sin
+embargo, ya en sus orígenes, la Corte reconoció el poder de facto del General Mitre después de haber
+                                                                                                           3
+
+[[PDF p. 4]]
+fue ajeno a los vaivenes institucionales que atravesó el país como consecuencia de las sucesivas
+interrupciones al orden democrático provocadas por los golpes de Estado. Si bien la Corte declaró
+que la Constitución Nacional mantendría vigencia y supremacía frente a los actos emanados de los
+gobiernos de facto13, en los hechos, la Carta Magna quedó subordinada al imperio de estos
+gobiernos inconstitucionales, cuyos límites sólo excepcionalmente fueron marcados por el Poder
+Judicial. El Máximo Tribunal desarrolló una doctrina muy laxa tendiente a conferirle validez a los
+actos de estos poderes14.
+
+II.- El control de constitucionalidad.
+
+II.a.- Origen.
+
+        Si el principio de supremacía constitucional es la piedra angular del sistema jurídico, el
+control de constitucionalidad es el procedimiento diseñado para hacerlo efectivo cuando una norma
+de inferior jerarquía resulte incompatible con las directivas constitucionales. Al igual que en el caso
+de los Estados Unidos, nuestra Carta Magna no contuvo, hasta su reforma de 1994, ninguna
+referencia textual al sistema de control de constitucionalidad de las normas inferiores, los órganos
+legitimados para realizarlo, ni sus alcances específicos15. Su origen institucional obedeció a las
+leyes N° 27 (1862) y N° 48 (1863) que reglamentaron la competencia de la Justicia Federal16, y se
+
+triunfado en la batalla de Pavón en virtud de la legitimidad derivada de la condición de “revolución
+triunfante” (CSJN, “Martinez Baldomero c. Otero Manuel”, 1865, Fallos: 2:141).
+13
+   “Que ese gobierno se encuentra en posesión de las fuerzas militares y policiales necesarias para asegurar la
+paz y el orden de la Nación, y por consiguiente para proteger la libertad, la vida y la propiedad de las
+personas, y ha declarado, además, en actos públicos, que mantendrá la supremacía de la Constitución y de las
+leyes del país, en el ejercicio del poder… Que ello no obstante, si normalizada la situación, en el
+desenvolvimiento de la acción del gobierno de facto, los funcionarios que lo integran desconocieran las
+garantías individuales o las de la propiedad u otras de las aseguradas por la Constitución, la Administración
+de Justicia encargada de hacer cumplir ésta las restablecería en las mismas condiciones y con el mismo
+alcance que lo habría hecho con el Poder Ejecutivo de derecho” (párr. 1 y 5 ap. 2do. acordada de fecha
+10.09.1930, Fallos: 158:290). Esta doctrina fue reproducida por la Corte con el golpe de estado de 1943 (ac.
+de fecha 07.06.1943, Fallos: 196:5).
+14
+   Convalidó las facultades de los gobiernos de facto para destituir jueces (CSJN “Avellaneda Huergo”, 1935,
+Fallos: 172:344), dictar normas (CSJN “Municipalidad de la ciudad de Buenos Aires c. Mayer”, 1945, Fallos:
+201:249; “Arlandini”, 1947, Fallos: 208:184; “Ziella”, 1947, Fallos: 209:25) o disolver partidos políticos
+(CSJN “Molinas, Ricardo F.”, 1968, Fallos: 270:367). En cambio, eludió pronunciarse sobre la derogación de
+una reforma constitucional provincial (CSJN, “Siganevich”, 1937, Fallos: 177:390) o las causas que
+motivaron la deposición de las máximas autoridades de la Nación (CSJN “Pitto, Luis María s/ Petición”,
+1962, Fallos: 252:177). Avaló también normas dictadas por estos gobiernos que proscribían la afirmación
+ideológica o propagandística de ideas o símbolos partidarios (CSJN, “Bustos Núñez, Manuel E.”, 1958,
+Fallos: 240:223).
+15
+   El artículo 100 de la Constitución (actual 116) siguió el modelo adoptado por la Sección 2da. del artículo
+III de la Constitución de los Estados Unidos.
+16
+   El art. 3 de la ley 27 declara que uno de los objetivos de la Justicia Nacional es “sostener la observancia de
+la Constitución Nacional, prescindiendo, al decidir las causas, de toda disposición de cualquiera de los otros
+poderes nacionales, que esté en oposición a ella”. El art. 21 de la ley 48 establece que “Los tribunales y jueces
+                                                                                                               4
+
+[[PDF p. 5]]
+consolidó como práctica judicial a través de los casos “Sojo” (1887)17 y “Municipalidad de la
+Capital c/ Elortondo” (1888)18.
+
+         En base a una lectura armónica de los arts. 31 y 100 CN (116 CN actual), tanto el Congreso
+de la Nación como la Corte Suprema entendieron que los constituyentes habían atribuido el
+ejercicio del control constitucional al Poder Judicial19. Esta interpretación recoge el razonamiento
+silogístico del célebre caso “Marbury vs. Madison” (1803)20, a través del cual la Corte
+estadounidense justificó el control de constitucionalidad como una derivación lógica del principio
+de supremacía constitucional. Según ese razonamiento, si la Constitución Nacional es la ley
+suprema de la Nación, y si por mandato constitucional la función del Poder Judicial consiste en
+aplicar las leyes, entonces, cuando una ley ordinaria sea contraria a la ley suprema corresponde a los
+jueces aplicar esta última y dejar sin efecto la primera.
+
+        En apariencia, este argumento clásico proporciona un sólido fundamento para defender la
+sujeción de las normas al control judicial de su constitucionalidad. Sin embargo, una mirada más
+aguda pone al descubierto sus deficiencias. El argumento presume que la contradicción entre las
+cláusulas constitucionales y las leyes ordinarias es siempre evidente, motivo por el cual, la labor de
+los jueces resultaría políticamente neutral y automática (detectan la contradicción normativa y
+anulan la norma de inferior jerarquía)21. No obstante, la práctica constitucional demuestra que esa
+posibilidad es remota. El contenido de las cláusulas constitucionales no es generalmente evidente,
+ni manifiesto, sino objeto de importantes desacuerdos que se reflejan en interpretaciones
+divergentes sobre su significado22. Lo mismo ocurre con las leyes. Por lo tanto, si los jueces deben
+
+
+nacionales en el ejercicio de sus funciones procederán aplicando la Constitución como ley suprema de la
+Nación, las leyes que haya sancionado o sancione el Congreso, los tratados con naciones extranjeras, las leyes
+particulares de las provincias, las leyes generales que han regido anteriormente a la Nación y los principios
+del derecho de gentes, según lo exijan respectivamente los casos que se sujeten a su conocimiento, en el orden
+de prelación que va establecido”. El art. 14 de esta misma ley reglamenta el recurso extraordinario federal con
+el objeto de reafirmar la supremacía del sistema normativo federal.
+17
+   CSJN, 1887, Fallos: 32:120.
+18
+   CSJN, 1888, Fallos 33:162. En el primero (“Sojo”), si bien la Corte desarrolla el razonamiento que sustenta
+las bases del control de constitucionalidad no impugna la validez de una norma. En cambio, se limita
+declararse incompetente para intervenir a través de su competencia originaria en una acción de hábeas corpus
+promovida por un ciudadano cuya detención había sido ordenada por la Cámara de Diputados de la Nación.
+Es en el segundo (“Municipalidad de la Capital c/ Elortondo”) donde por primera vez concreta esa decisión.
+Invalida la ley que había declarado de utilidad pública una franja de terreno mayor de la requerida para
+construir la obra pública proyectada (Avenida de Mayo).
+19
+   Véase Sagües Néstor Pedro, Elementos del Derecho Constitucional, Buenos Aires, 2001, Atrea, T I, p. 277-
+278.
+20
+   5 US 137, 1803.
+21
+   Esta concepción responde al ideal formalista de concebir a los jueces como “la boca que pronuncia las
+palabras de la ley” (Montesquieu, El Espíritu de las leyes, Libro XI, Cap. VI, Losada, Buenos Aires, 2007, p.
+212).
+22
+   Para un repaso de las fortalezas y debilidades de las teorías que se han desarrollado con el objeto de
+interpretar la Constitución Nacional véase Gargarella Roberto, “La dificultosa tarea de la interpretación
+                                                                                                             5
+
+[[PDF p. 6]]
+interpretar el alcance de las cláusulas constitucionales y las leyes adoptando un juicio de valor
+frente al caso, la lógica “Marbury” pierde consistencia. Ya no resultaría evidente que el Poder
+Judicial sea la autoridad legitimada para llevar a cabo dicha tarea en el marco de una comunidad
+democrática23.
+
+        Más que defender la supremacía de la Constitución Nacional, el control judicial de
+constitucionalidad conferiría a este poder un imperceptible instrumento para moldear los principios
+más profundos de la comunidad política en función de sus propias preferencias. Los diferentes
+métodos de interpretación constitucional que la Corte Suprema ha empleado a lo largo del tiempo
+avalarían esta impresión24. Esta problemática ha dado lugar a la objeción que reseñamos
+seguidamente y resulta fundamental para comprender el diseño y la operación de esta institución.
+
+II.b.- La objeción democrática al control judicial de constitucionalidad y su impacto en el diseño y
+operación de dicha institución.
+
+        En una democracia las leyes consagran las decisiones de los órganos que ejercen la
+representación política del pueblo, titular de la soberanía. Sólo en la medida en que se verifique una
+contradicción insalvable con los principios de nuestra Carta Magna se admite que aquéllas sean
+declaradas inválidas. Sin embargo, para arribar a esa conclusión debe delimitarse el alcance de la
+Constitución, tarea que no resulta sencilla en tanto conviven interpretaciones rivales sobre su
+sentido correcto.
+
+         Los jueces no son elegidos por el voto popular directo, tienen cargos vitalicios y
+mecanismos de rendición de cuentas también indirectos (arts. 99 inc. 4, 110, 114 CN). Por lo tanto,
+sus credenciales democráticas son sustancialmente menores a los otros órganos de representación
+política (ejecutivos y legislativos). En esas condiciones, ¿Es aceptable que el poder con la menor
+legitimidad democrática intervenga en este tipo de discusiones de trascendente impacto político? En
+caso afirmativo, ¿Es aceptable que dicho poder sea la autoridad legitimada para definirlas en última
+instancia? Se han brindado diversas respuestas a estos interrogantes.
+
+      Una primera posición, tiende a justificar la atribución constitucional de los jueces
+argumentando que estos se encontrarían mejor posicionados o capacitados que los restantes órganos
+
+
+constitucional”, en Teoría y Crítica del Derecho Constitucional, Gargarella Roberto (Coord.), Abeledo-
+Perrot, Buenos Aires, 2009, T. I, 123-148.
+23
+   Véase Gargarella Roberto, La Justicia Frente al Gobierno, Ariel, Barcelona, 1996, cap. 2, p. 53-58.
+También, como lo ha demostrado Nino, el razonamiento presenta problemas internos de consistencia respecto
+al concepto de validez normativa. La circunstancia de que una norma contradiga a una superior (la
+Constitución) no implica la automática pérdida de validez de la primera en términos de su fuerza vinculante o
+el deber de los jueces de abandonar su aplicación, tal cual lo han demostrado los sistemas normativos del
+Common Law. Nino Carlos, Fundamentos de Derecho Constitucional, Astrea, Buenos Aires, 2005, p. 673-
+688.
+24
+   Véase Sagües Néstor, “Interpretación constitucional y alquimia interpretativa (el arsenal argumentativo de
+los tribunales supremos)”, Lexis Nexis, Buenos Aires, 2004.
+                                                                                                           6
+
+[[PDF p. 7]]
+políticos para identificar y proteger los derechos o principios constitucionales25. La posición de
+privilegio de los jueces derivaría de su formación, su cercanía con la ciudadanía, su capacidad para
+proteger los derechos de minorías frente a los intereses mayoritarios, o la imparcialidad inherente a
+su rol institucional. Sin embargo, ninguna de estas cualidades provee fundamentos sólidos para la
+posición que se intenta defender, en tanto presuponen una confianza institucional en las capacidades
+de los jueces (en especial en su imparcialidad) que resulta dudosa26. Pero más importante aún, esta
+postura conlleva una visión sobre las facultades interpretativas de los jueces inevitablemente elitista
+que subestima la capacidad del resto de los miembros de la comunidad y resulta difícil conciliar con
+el ideal soberano de una democracia27.
+
+         Una segunda posición ha justificado el control judicial de constitucionalidad apelando a una
+concepción dualista de la democracia28. Tal cual se desprende del caso “Marbury”, este enfoque
+traza una distinción en torno a la naturaleza de las decisiones políticas que adoptan las
+comunidades. Un primer tipo de decisiones -las “constitucionales”- serían de carácter excepcional,
+reflejarían la voluntad de los miembros de la comunidad y se encontrarían plasmadas en el texto
+constitucional o en momentos fundacionales de la vida política. Un segundo tipo -las de carácter
+“ordinario”- derivarían de la voluntad de los órganos representativos de gobierno en el ejercicio
+
+25
+   Para Dworkin los conflictos constitucionales encierran problemas morales. A pesar del déficit democrático
+de origen, los jueces conservarían un lugar institucional preferencial para transformarse en un foro de
+discusión de esos principios (Dworkin Ronald, Freedom´s Law. The Moral Reading of the American
+Constitution, Harvard University Press, Massachusetts, 1996).
+26
+   Los arreglos contramayoritarios no garantizan la supuesta cercanía de los jueces con el ciudadano, ni
+aseguran una mayor protección de los derechos de las minorías. Tampoco la formación de los jueces, su
+imparcialidad formal frente a los casos concretos, ni el entrenamiento en el tipo de razonamiento que conlleva
+un proceso judicial aseguran que estarán mejor entrenados que el resto de la ciudadanía (o sus representantes)
+para identificar la interpretación más adecuada de los principios constitucionales fundamentales. Véase
+Gargarella Roberto, “La dificultad de defender el control judicial de leyes”, Revista de Teoría y filosofía de
+Derecho, Isonomía, nro. 6, abril 1997, p. 55-70.
+27
+   Para enfrentar esta objeción, se ha planteado que no resulta conveniente dejar que las mayorías juzguen la
+corrección de sus propias decisiones (Dworkin Ronald, Los Derechos en Serio, Ariel, Barcelona, 2010) o se
+ha reconocido una suerte de empate técnico entre los sistemas mayoritarios y contramayoritarios de revisión
+de leyes, en virtud del cual no habría razones relevantes para preferir un sistema por sobre otro en tanto las
+posibilidades de error entre minorías y mayorías son simétricas cuando se trata de evaluar valores
+constitucionales (Dworkin Ronald, Freedom´s Law, Op. Cit.). Si bien el argumento es original e ingenioso no
+resulta concluyente. Más que aportar razones para defender los sistemas de revisión judicial de leyes, se
+concentra en los problemas de los sistemas mayoritarios -los cuales son comunes a los minoritarios-,
+arribando a una elección por descarte. De hecho, en su última obra, uno de los autores que más ha impulsado
+este tipo de argumentos ha exhibido una postura más modesta respecto a legitimidad democrática del control
+judicial de constitucionalidad (Dworkin Ronald, Justicia para Erizos, Fondo de Cultura Económica, Buenos
+Aires, 2014).
+28
+   Desde sus orígenes, el dualismo ha servido de apoyo al control de constitucionalidad. Véase Hamilton
+Alexander, El Federalista, LXXVIII, Fondo de Cultura Económica, México D.F., 2010, p. 330-336.; casos
+“Marbury” (EEUU); “Sojo” (CSJN). Incluso, mantiene plena vigencia al día de hoy (ap. 6 a 13 causa “Rizzo,
+Jorge Gabriel –apoderado Lista 3 Gente de Derecho- s/ Acción de amparo c/ Poder Ejecutivo Nacional, ley
+26.855, medida cautelar”, CSJN, 2013, R. 369 XLIX).
+                                                                                                            7
+
+[[PDF p. 8]]
+cotidiano de su representación. En la medida que sólo las primeras surgirían de un verdadero
+acuerdo social de los titulares de la soberanía, resultaría justificado confiar a los jueces su
+protección frente a cualquier decisión ordinaria de los representantes que tienda a desconocerlas. En
+este caso, no habría ofensa a la soberanía popular plasmada en los acuerdos constitucionales, sino,
+por el contrario, una protección fundamental frente a posibles lesiones por parte de los gobiernos29.
+
+        Si bien sumamente persuasiva en su formulación, esta postura no proporciona demasiadas
+herramientas para superar el problema interpretativo apuntado30. El Poder Judicial actuaría como
+guardián de los acuerdos políticos alcanzados por la comunidad en la medida que el contenido de
+dichos acuerdos no sea discutido. En cambio, si coexisten interpretaciones divergentes sobre su
+alcance, entonces ya no sería tan evidente que el Poder Judicial deba ser la institución legitimada
+para interpretarlos, menos aún, que sus interpretaciones deban ser consideradas “supremas”.
+
+          En contraposición, una última postura parte de un enfoque monista y robusto de la
+democracia, intentando así orientar el control judicial de constitucionalidad de manera que resulte
+consistente con los principios democráticos. Para esta visión, la autoridad de los jueces para revisar
+la constitucionalidad de las leyes sólo sería justificada si tiende a proteger los presupuestos del
+procedimiento democrático en la conformación de las decisiones colectivas31. De la misma forma
+que un árbitro deportivo custodia las reglas de la competencia sin beneficiar las posiciones o
+intereses de los contendientes, los jueces deberían velar por el cumplimiento de las reglas del
+procedimiento democrático, procurando evitar que los participantes desvirtúen su funcionamiento.
+Se encontrarían facultados entonces para invalidar normas incompatibles con los presupuestos
+sustantivos y procedimentales de la democracia establecidos en la Constitución32. En cambio, no
+estarían legitimados para intervenir en decisiones políticas reservadas al ámbito sustantivo de la
+deliberación pública, relativas tanto al alcance general de los derechos como a las concepciones de
+justicia.
+
+        Esta teoría tampoco es ajena a las críticas, pues resulta complejo identificar cuándo el juez
+está protegiendo los presupuestos de una democracia o cuándo excediendo dicho marco. En un
+sistema democrático, presupuestos y decisiones sustantivas se encuentran intrínsecamente
+vinculados. Según cuál sea modelo democrático adoptado, será diferente el tipo de derechos que se
+
+
+
+
+29
+   Algunos autores han buscado perfeccionar el modelo dualista tradicional argumentando que los momentos
+constitucionales no sólo se encontrarían contenidos en las cláusulas del texto constitucional, sino también, en
+cualquier otra decisión colectiva que refleje un acuerdo social profundo. De esta forma, admiten la posibilidad
+de que las comunidades renueven sus acuerdos en el tiempo por fuera de las reformas constitucionales
+(Ackerman Bruce, We the people: Foundation, Cambridge, Mass. Harvard U.P., 1991).
+30
+   Véase Gargarella Roberto, La Justicia Frente al Gobierno, Ariel, Barcelona, 1996, cap. 5, p. 139-146.
+31
+   Véase Ely John H., Democracia y Desconfianza. Una teoría del control constitucional, Bogotá, Siglo del
+hombre, 1997; Nino Carlos, La Constitución de la Democracia Deliberativa, Gedisa, Barcelona, 2003, Cap.
+5, p. 154-199.
+32
+   Fundamentalmente los derechos y condiciones relativas a la inclusión, participación y deliberación política.
+                                                                                                             8
+
+[[PDF p. 9]]
+postulen como precondiciones de ese sistema33.
+
+        En los últimos años, comenzó a delinearse una nueva concepción sobre el ejercicio del
+control judicial de constitucionalidad que ha intentado superar sus tradicionales objeciones,
+concentrándose en el proceso de construcción de la interpretación constitucional. Sobre los
+cimientos del enfoque deliberativo de la democracia34, esta visión plantea la necesidad de abordar
+los conflictos constitucionales a través de un proceso de interpretación continuo, dialógico e
+inclusivo, que involucre no sólo a las distintas ramas del poder, sino, fundamentalmente, a los
+potenciales afectados por la decisión en juego (la ciudadanía)35.
+
+         Sin desconocer las virtudes que derivan de la posición institucional de los jueces para
+revisar la constitucionalidad de las leyes, este enfoque cuestiona la figura de intérprete infalible que
+el Poder Judicial (en especial la Corte) proyecta como “último guardián constitucional”36. A la
+visión tradicional de la interpretación constitucional, concebida como un modelo verticalista con
+predominio del poder judicial sobre los poderes representativos y la ciudadanía en general, oponen
+una versión dialógica donde la interpretación se construye como proceso interactivo, horizontal,
+policéntrico y permanente que dificulta la identificación de un último intérprete.
+
+        Esta teoría ha mostrado un marcado impacto tanto en nuestro sistema judicial como en otros
+sistemas de la región37. En nuestro país, la Corte adoptó significativas reformas institucionales
+tendientes a fortalecer la apertura y publicidad de sus procesos y decisiones en los últimos años38.
+33
+   Amaya Jorge Alejandro, Control de Constitucionalidad, Astrea, Buenos Aires, 2012, p. 181, Gargarella
+Roberto, La Justicia Frente al Gobierno, cap. 6, p. 155- 172.
+34
+   La concepción deliberativa sostiene que el valor de la democracia es epistémico (relativo a la identificación
+y elección de las mejores decisiones sobre los asuntos públicos). Ello es así en la medida que los mecanismos
+de la democracia tienden a generar decisiones que se acercan a un ideal imparcialidad. Dicho ideal tendería a
+ser alcanzado en la medida que todos los potenciales afectados por una decisión política tienen posibilidad de
+participar de ella, expresar sus posiciones, y discutir sobre ellas en base a razones públicas. Véase Nino
+Carlos, La Constitución de la Democracia Deliberativa, p. 154-199.
+35
+   Véase Tushnet Mark, “Revisión judicial dialógica”, Por una Justicia Dialógica, Gargarella Roberto
+(comp.), siglo veintiuno, Buenos Aires, 2014, p. 105-116.
+36
+   Véase Kramer Larry, Constitucionalismo Popular y Control de Constitucionalidad, Marcial Pons, Madrid,
+2011; Post Robert y Seagel Reva, “Constitucionalismo popular, departamentismo y supremacía judicial”,
+Constitucionalismo Democrático, Por Una Reconciliación Entre Constitución y Pueblo, Post Robert y Seagel
+Reva, siglo veintiuno, Buenos Aires, p. 119-139.; Waldron Jeremy, Derecho y Desacuerdos, Marcial Pons,
+Madrid, 2005.
+37
+   En este sentido, mientras la Corte brasileña dispuso un mecanismo de audiencias públicas para tratar la
+constitucionalidad de la Ley de Bioseguridad (Corte Suprema de Justicia de Brasil, acción de
+inconstitucionalidad –ADI/3510-, 29.05.08.), la Corte Constitucional colombiana, pionera de este modelo de
+revisión judicial, dictó sentencias exhortativas al gobierno nacional de su país dirigidas a exigir la
+presentación de un plan que solucione la situación de las personas en condición de desplazamiento (22.01.04.,
+Sentencia T-025/04) o declaró inválidas leyes aprobadas sin suficiente debate legislativo (23.10.13., Sentencia
+C-740/13).
+38
+   Especialmente, este proceso se ha dado a través del desarrollo de un centro de información judicial (CIJ -
+Ac. 17/06, 30.05.06.-). Véase Bourdin María, Justicia y Medios, Sudamericana, Buenos Aires, 2014.
+                                                                                                              9
+
+[[PDF p. 10]]
+Asimismo, reguló e implementó un mecanismo de audiencias públicas y de participación de Amicus
+Curiae para casos de trascendencia institucional39. A través de estas audiencias, se han discutido
+públicamente temas sensibles como la ley de servicios de comunicación audiovisual, el acceso a la
+vivienda y a la información pública, la protección de los derechos de las comunidades originarias y
+se han abordado problemas estructurales medioambientales o carcelarios40. La impronta dialógica
+no sólo se ha expresado en las innovaciones comunicacionales y procedimentales sino que también
+se ha reflejado en formas originales de resolución de algunos complejos casos constitucionales. En
+efecto, lejos de apelar a su condición de “intérprete final” de la Constitución o de intentar imponer
+la “última palabra”, en diversos casos, la Corte ha optado por conducir el proceso e incluso la
+ejecución de las sentencias con una impronta de mediación41 o dictar medidas exhortativas
+tendientes a iniciar un proceso de diálogo con otros poderes o supervisar planes de acción política42.
+Si bien la brecha que nos separa del ideal deliberativo aún es importante, las perspectivas de este
+nuevo modelo de revisión judicial son alentadoras43.
+
+II.c.- El funcionamiento del control de constitucionalidad: características y alcances.
+
+         El control de constitucionalidad federal argentino se caracteriza por ser un control judicial,
+difuso, contradictorio, de revisión posterior y, en principio, operado a petición de las partes en
+litigio y con efectos limitado a ellas (efectos inter partes). Todos los jueces de nuestro país
+
+39
+   Ac. 28/04, 14.07.04. y Ac. 20/07, 5.11.07. Sobre los tipos de audiencias que se han desarrollado ante la
+Corte véase Lorenzetti Ricardo, “Las audiencias públicas y la Corte Suprema”, Por una Justicia Dialógica,
+obra cit., p. 345-354.
+40
+   Véase “Verbitsky”, 2005., Fallos: 328:1146; “Mendoza”, 2006, Fallos: 329:2316; “Salas, Dino y otros c/
+Salta, Provincia de y Estado Nacional s/ amparo”, 2011, Fallos: 334:1754; “Comunidad Aborigen de
+Santuario Tres Pozos y otros c/ Jujuy, Provincia de y otros s/ amparo”, 2011, Fallos: 334:1861; “Q. C., S. Y.”,
+2012., Fallos: 335:4552; “Asociación por los Derechos Civiles”, 2012, Fallos: 335:2393; “Grupo Clarín
+S.A.”, 2013, G. 439 XLIX; “Comunidad Indígena Toba La Primavera - Novogoh c/ Formosa, Provincia de s/
+incidente de medida cautelar”, 2013, C. 528 F. XLVIII.
+41
+   Este tipo de estrategia se desplegó en el reclamo de las empresas asentadas en las provincias cuyanas por la
+actualización de los cupos fiscales derivados del régimen de promoción industrial (“Orbis Mertig San Luis
+S.A.I.C. c/ AFIP y otros s/ ordinario”, 2013, O. 244 F. XLV). Inicialmente, la Corte convocó a una audiencia
+a las partes (incluyendo a los gobernadores de las provincias afectadas y ministros del Estado Nacional)
+donde se acordó formar comisiones de trabajo para resolver el conflicto. Sin embargo, desestimó el recurso
+extraordinario de la AFIP.
+42
+   La Corte dictó sentencias exhortativas al Congreso de la Nación a fin de que dicte una ley de movilidad
+jubilatoria (“Badaro”, 2007, Fallos: 330:4866), a los poderes provinciales con el objeto de que adecuaran las
+leyes de detención y ejecución penal a estándares constitucionales e internacionales (“Verbistsky”) y dictaran
+protocolos hospitalarios para la atención de abortos no punibles (“F.A.L.”, 2012, F. 259 XLVI). Asimismo,
+convocó a una “mesa de diálogo” con el objeto de tratar las condiciones de detención en comisarías y cárceles
+bonaerenses, exigió la elaboración de un plan para el saneamiento de la cuenca Matanza-Riachuelo
+(“Mendoza”) y un plan de relevamiento territorial de las tierras ocupadas por comunidades originarias a fin de
+regularizar su situación (“Comunidad Indígena Toba La Primavera – Novogoh”).
+43
+   Sobre los límites y desafíos que aún debe enfrentar el modelo constitucional dialógico véase Gargarella
+Roberto, “El nuevo constitucionalismo dialógico frente al sistema de pesos y contrapesos”, Por una Justicia
+Dialógica, obra cit., p. 119-151.
+                                                                                                            10
+
+[[PDF p. 11]]
+cualquiera sea su jerarquía, fuero o jurisdicción disponen de la facultad de ejercer un control de
+constitucionalidad sobre las leyes o actos de los restantes poderes del Estado en el marco de su
+competencia44. La Corte Suprema actúa como instancia final de revisión en virtud de su
+competencia originaria (art. 117 CN), ordinaria o extraordinaria (art. 116 CN)45.
+
+        A diferencia de los sistemas concentrados, el control de constitucionalidad argentino no es
+preventivo o abstracto sino remedial y contencioso. El juez sólo se encuentra autorizado para
+invalidar una norma en el marco de una causa o controversia judicial cuando, por vía de acción o
+excepción, alguna de las partes acredite un perjuicio concreto, específico y directo derivado de su
+aplicación46. La noción de caso judicial o interés legítimo no fue pacífica a lo largo de la historia.
+Nuestra Corte fue elaborando distintos criterios hermenéuticos para determinar cuándo estamos en
+presencia de un agravio con entidad suficiente para habilitar la instancia judicial47.
+
+        La introducción de las acciones colectivas, modificó este esquema, al ampliar la naturaleza
+de los agentes autorizados para accionar48. No obstante, la Corte ha señalado que aún en estos
+supuestos la noción de “caso” mantiene vigencia como presupuesto del sistema de control de
+normas49. En este sentido, descartó que la mera defensa de la legalidad permita fundar la revisión
+judicial de las decisiones de los restantes poderes públicos, cuando no se invoca una afectación
+concreta a un derecho individual o de incidencia colectiva50.
+
+44
+   Véase “Strada”, CSJN, 1986, Fallos: 308:490. Esta facultad ha quedado expresamente reconocida con la
+reforma constitucional de 1994 (“…el juez podrá declarar la inconstitucionalidad de la norma en que se funde
+el acto u omisión lesiva” -art. 43 CN-).
+45
+   La Corte declaró inconstitucional la ley que regula el recurso ordinario de apelación ante ella en razón del
+importe objeto de reclamo (art. 24, inc. 6to., ap. “a” del decreto - ley 1285/58). Señaló que la revisión
+ordinaria de causas pecuniarias en las que el Estado es parteexcede el marco de su competencia
+constitucional. Descartó que el valor económico del reclamo tenga entidad para evaluar la afectación a
+derechos o valores constitucionales (CSJN, 2015, “Anadon Tomás Salvador c/ Comisión Nacional de
+Comunicaciones s/ Despido”, 494/2013 -49/A-/CS1).
+46
+   La naturaleza controvertida del control de constitucionalidad derivaría del art. 116 CN cuando dispone que
+la Corte y los tribunales inferiores actúan en todas las “causas” que versen sobre puntos regidos por la
+Constitución y las leyes del Congreso. Dicho requisito fue expresamente previsto en el art. 2 de la ley 27 al
+establecer que la Justicia Federal “nunca procede de oficio ejerciendo su jurisdicción solamente en los casos
+contenciosos en que es requerida a instancia de parte”. La noción de caso ha sido defendida por la Corte desde
+sus orígenes desestimando intervenciones consultivas o declarativas del Poder Judicial (Véase “Villanueva c/
+Municipalidad de la Capital, 1882, Fallos: 24:248; “Ferrocarril Gran Oeste Argentino c. Pcia. De Mendoza”,
+1907, Fallos: 107:179; “Mario Bravo”, 1911, Fallos: 115:163).
+47
+   Para un repaso de esos estándares véase Bianchi Alberto B., Control de Constitucionalidad, Ábaco de
+Rodolfo Depalma, 2002, T 1, p. 276-320.
+48
+   Sobre las características de las acciones colectivas véase Maurino Gustavo, Nino Ezequiel y Sigal Martín,
+Las Acciones Colectivas, Lexis Nexis, Buenos Aires, 2006.
+49
+   CSJN, Consid. 9no. “Halabi”, 2009, Fallos: 332:111 y 4to. “Thomas Enrique”, 2010, Fallos: 333:1023.
+50
+   Un problema particularmente complejo se ha planteado en torno a la legitimidad de los miembros del Poder
+Legislativo para cuestionar por vía judicial la constitucionalidad de las decisiones de los órganos de poder. La
+Corte ha tendido a desestimar su legitimidad, afirmando que el mandato popular de los legisladores se
+circunscribe al órgano colegiado que integran (“Dromi”, 1990, Fallos: 313:863; “Polino”, 1994, Fallos: 317:
+                                                                                                             11
+
+[[PDF p. 12]]
+        También se han planteado dudas respecto al alcance de las sentencias en los casos
+colectivos. Según el principio clásico, la declaración de inconstitucionalidad no afecta la validez de
+la norma cuestionada sino la torna inaplicable para las partes en litigio51. En las acciones colectivas
+los efectos directos de la sentencia se proyectan a los sujetos representados por esa acción,
+¿Significa ello una modificación en la estructura del control de constitucionalidad? Si bien algunos
+autores atribuyen efectos erga omnes a las sentencias recaídas en este tipo de procesos, no
+coincidimos con esta postura52. A diferencia de lo que ocurre en los sistemas de control
+concentrado-abstracto, donde la declaración de inconstitucionalidad deroga la norma atacada, en las
+acciones introducidas a nuestro sistema de control difuso-concreto, los alcances de la sentencia se
+aplican exclusivamente a los integrantes del grupo (más amplio o reducido) representados en la
+acción, sin que ello implique, en sentido estricto, la derogación de la norma53.
+
+II.c.1.- Control constitucional de oficio.
+
+        Uno de los temas que históricamente ha generado más debate en torno a la función
+constitucional del Poder Judicial ha sido la posibilidad de que los jueces prescindan del
+requerimiento de las partes para declarar la inconstitucionalidad de las normas54. Las posturas en
+favor o en contra de esta facultad tienden a vincularse con el rol institucional que se asigna al Poder
+Judicial55.
+
+         La postura favorable al control judicial oficioso se ha fundado en la necesidad de defender
+
+
+335; “Gomez Diez”, 1999, Fallos: 322:528; “Garre”, 2000, Fallos: 323:1432; Raimbault, 2001, Fallos: 324:
+2381; “Thomas”).
+51
+    Como señalan Boulin y Mairal existe un efecto expansivo indirecto de las sentencias que declaran la
+inconstitucionalidad de una norma cuando es declarada por un tribunal superior y la aplicación del precedente
+es obligatoria para el inferior como derivación del principio del stare decisis vertical (Boulin, Alejandro “Los
+efectos de la sentencia declarativa de inconstitucionalidad”, LL Suplemento Actualidad, 20.05.04; Mairal,
+Héctor A., “Los Efectos de las sentencias de la Corte Suprema de Justicia de la Nación”, ED 177-795/797).
+52
+   Véase Biachi, Alberto B., Op. Cit., T. I, p. 386; Boulin, Alejandro, Op. Cit., Sagües, Néstor P., “Los efectos
+expansivos de la cosa juzgada en la acción de amparo”, en Toricelli, Maximiliano (coord.), El Amparo
+Constitucional, Depalma, Buenos Aires, 1999, p. 27.
+53
+   Véase Rivera Julio César (h.) y Lagarre Santiago, “Los efectos de la declaración de inconstitucionalidad en
+los Estados Unidos y la Argentina”, Lecciones y Ensayos, nro. 86, 2009, p. 321-349. Cuando la sentencia a
+dictarse no puede ejecutarse sin suspender los efectos de la norma, la declaración de inconstitucionalidad
+produce un efecto fáctico similar a la derogación de la norma aún cuando la misma mantenga vigencia y
+normativamente no se produce una derogación (véase la disidencia parcial de los Dres. Petracchi y Argibay en
+“Halabi” y su voto particular en la causa “Rizzo”).
+54
+    Esta facultad sólo podría ser ejercida en forma excepcional. El principio general que rige la intervención
+judicial determina que la competencia de los tribunales se encuentra circunscripta por las materias objeto de
+litis, es decir, las cuestiones planteadas por las partes. Por ello, en principio, la revisión judicial de leyes se
+encuentra condicionada por las cuestiones federales introducidas por las partes en conflicto.
+55
+    Las posturas más favorables al activismo judicial han apoyado el control oficioso de los jueces y las más
+reticentes a la ampliación de la acción judicial han tendido a rechazarlo.
+                                                                                                                12
+
+[[PDF p. 13]]
+el principio de supremacía constitucional. Según este enfoque, dado que la validez de nuestra norma
+fundamental es independiente de la posición que asuman las partes en litigo, corresponde al juez
+velar por la supremacía constitucional con prescindencia de la voluntad de aquellas56.
+
+         Las críticas a esta posición se han focalizado en el sistema de división de poderes, la
+presunción de validez de los actos estatales y la garantía de debido proceso57. Al exceder el marco
+de la controversia planteado por las partes el juez rompería el equilibrio derivado del esquema de
+división de poderes, afectaría la presunción de legalidad y violaría el derecho de defensa de las
+partes, al introducir al proceso un tema no planteado por ellas o sobre el cual no se han expedido.
+
+         Como en otras materias, nuestra Corte Suprema ha mantenido un criterio pendular sobre
+esta facultad. En una primera etapa, admitió implícitamente el control judicial oficioso58. A partir de
+la década del ´40 afirmó que la declaración inconstitucionalidad sólo podía efectuarse a petición de
+parte interesada. Se amparó, a esos efectos, en la necesidad de preservar el esquema de división de
+poderes59. Posteriormente, también descalificó dicha facultad por violar la defensa en juicio de las
+partes60.
+
+        Esta doctrina se mantuvo incólume hasta la década del ´80, con algunas excepciones
+(defensa de su propia competencia o independencia del Poder Judicial61). Con el retorno a la
+democracia, algunos ministros comenzaron a cuestionarla62. Finalmente, en la causa “Mill de
+Pereyra”, la postura favorable al control oficioso de constitucionalidad se impuso en el voto
+mayoritario63. El fallo “Banco Comercial de Finanzas S.A.”64, confirmó la nueva doctrina que
+
+
+56
+   Véase Bidart Campos, Tratado elemental de derecho constitucional argentino, Ediar, Buenos Aires, 2001,
+T. I-A., punto 97, p. 453/454; Sagües Néstor, El recurso extraordinario, Astrea, Buenos Aires, 2002, T. I, p.
+144-146; Bianchi Alejandro B., Op. Cit., T. I., p. 338-342. El artículo 3 de la ley 27 parece respaldar esta
+posición en la medida que obliga a la Justicia Federal a mantener la observancia de la Constitución
+prescindiendo de toda disposición de los restantes poderes que esté en oposición a ella.
+57
+   Véase Gonzales Joaquín V., Manual de la Constitución Argentina; Estrada, Buenos Aires, 1897, p. 336;
+Palacio Lino E., Derecho procesal civil, Abeledo-Perrot, Buenos Aires, 1986, T. II, p. 231; Amaya Jorge
+Alejandro, Op. Cit., p. 209.
+58
+   En el caso “Vicente Casares e Hijos c. Sívori y Schiaffino” (1872, Fallos: 11:257) confirmó una sentencia
+que declaró de oficio la inconstitucionalidad de una norma. Posteriormente en la causa “Sojo” (1887), sin que
+mediara petición de parte desarrolló el razonamiento jurídico que estructura el control de constitucionalidad.
+59
+   Véase “Ganadera Los Lagos”, 1941, Fallos: 190:142.
+60
+   Véase “Municipalidad de la Ciudad de Buenos Aires c/ Rodriguez”, 1946, Fallos: 204:671.
+61
+   Véase “Partido Provincial Unión Santiagueña”, 1957, Fallos: 238:288; “Alejandro Bianchi y Cía S.A. c/
+Nación Argentina”, 1960, Fallos: 248:400. En un contexto de alta inestabilidad institucional esta doctrina
+permitió al Poder Judicial forjar una postura prescindente que reforzara el ideal formalista de neutralidad
+valorativa de los jueces.
+62
+   En la causa “Instrucción Militar nro. 50 de Rosario”, 1984, Fallos: 306:303, los jueces Fayt y Belluscio
+sostuvieron que el principio iura novit curia abarca el deber de mantener la supremacía constitucional. En un
+sentido similar se expresó el juez Boggiano en la causa “Ricci Oscar F.A.”, 1998, Fallos: 321:1058.
+63
+   CSJN, 2001, Fallos: 324:3219. El voto mayoritario lo conformaron los Dres. Fayt, Belluscio, Boggiano,
+López, Bossert y Vázquez. Los primeros dos (Fayt y Belluscio), admitieron la tesis favorable (consid. 9 y 10
+                                                                                                           13
+
+[[PDF p. 14]]
+faculta al poder judicial a declarar de oficio la inconstitucionalidad de las normas. A través de la
+causas “Videla” y “Rodriguez Pereyra”, la Corte ratificó la doctrina, esta vez bajo el amparo del
+“control de convencionalidad”65.
+
+II.c.2.- Cuestiones políticas no justiciables.
+
+         El célebre caso “Marbury vs. Madison” planteó el debate sobre los límites al control de
+constitucionalidad en el derecho constitucional norteamericano66. Sin embargo, fueron los casos
+“Luther vs. Borden”67 y “Backer vs. Carr”68 los que delimitaron la doctrina de las cuestiones
+políticas no justiciables69.
+
+        En el derecho argentino, el primer fallo que adoptó la doctrina de autorrestricción
+jurisdiccional fue “Roque Pérez”70. No obstante, con el caso “Cullen vs. Llerena” la doctrina
+adquirió notoriedad. El máximo tribunal rechazó pronunciarse sobre el proceso sanción de una ley
+de intervención federal, entendiendo que se trataba una cuestión privativa de las Cámaras del
+
+
+
+
+de su voto). Bossert y López descartaron que en el caso se hubiera violado el derecho de defensa de los
+litigantes al ser oídos en el recurso extraordinario federal (consid. 9 de su voto). La minoría representada por
+Nazareno, Moliné O´ Connor y Petracchi se enrolaron en la tesis negativa.
+64
+    El fallo especialmente desestimó el argumento vinculado a la presunción de validez de los actos
+administrativos cuando enfrenta el principio de supremacía constitucional (consid. 4to., CSJN, 2004., fallos:
+327:3117).
+65
+    En “Videla” receptó la facultad de los jueces de ejercer de oficio el control de convencionalidad
+apoyándose en la jurisprudencia de la Corte Interamericana (consid. 9no. “Videla Jorge Rafael”, 2010, Fallos:
+333:1657). En “Rodriguez Pereyra” extendió dicha facultad al control de constitucionalidad. En ejercicio de
+la lógica romana Ad maiori ad minus (“Quien puede lo más, puede lo menos”), la Corte señaló que si los
+jueces están habilitados para evaluar de oficio la convencionalidad de las normas, con más razón se
+encuentran a facultados para analizar de oficio su constitucionalidad (consid. 12 “Rodriguez Pereyra, Jorge
+Luis y otra c. Ejército Argentino s/ Daños y perjuicios”, 2012, R. 401 XLIII).
+66
+    En apariencia, el caso “Marbury” aborda un conflicto entre poderes públicos en torno a la puesta en
+funciones de un juez designado pero nunca habilitado. De fondo, una disputa de poder entre los partidos
+gobernantes por el modelo de país. Véase Trionfetti Víctor, “Marbury a contraluz”, LL, 2009-C, 989.
+67
+   48 US 1, 1849.
+68
+   369 US 186, 1862.
+69
+    En el primero la Corte estadounidense rechazó la demanda entablada por el Sr. Luther con motivo de los
+daños sufridos en su propiedad durante un estado de sitio declarado por la legislatura de Rhode Island,
+argumentando que la legitimidad del gobierno era una cuestión política ajena a la jurisdicción del tribunal. En
+cambio, en el segundo, la Corte determinó que el Poder Judicial era competente para revisar la
+constitucionalidad de una ley del Estado de Tennessee sobre prorrateo distrital para la elección de los
+representantes de la legislatura local.
+70
+    CSJN, 1865, Fallos: 2:254. El representante de la Provincia de Mendoza cuestionaba la decisión de la
+Cámara de Senadores de no admitir el pliego de un senador elegido por la legislatura provincial. La Corte
+adhirió al dictamen del Procurador que desestimó la competencia del Poder Judicial para intervenir en el caso.
+Señaló que conforme al texto constitucional cada Cámara es juez de los derechos y títulos de sus miembros.
+                                                                                                             14
+
+[[PDF p. 15]]
+Congreso71.
+
+        Desde su nacimiento, la distinción entre cuestiones revisables y no revisables judicialmente
+ha sido sumamente difusa. La Corte ha recurrido a una serie de enumeraciones casuísticas con el
+objeto de delimitarlas y demostrar así una voluntad respetuosa del sistema de división de poderes72.
+Sin embargo, más que reflejar deferencia por la legitimidad de los órganos representativos de
+gobierno, esta doctrina ha sido históricamente utilizada para permitirle al Poder Judicial
+desentenderse de su función constitucional73.
+
+         En los últimos años, se observa una marcada retracción de las materias que se consideran
+ajenas al control jurisdiccional74. Ello no necesariamente se ha reflejado en un mayor activismo
+judicial. Luego de los embates que recibió la doctrina de “las cuestiones políticas no revisables”
+durante la década de los ´90, la ausencia de legitimidad de los accionantes por “falta de agravio
+concreto” ha tendido a reemplazarla como herramienta para declinar la intervención del control
+judicial75.
+
+II.c.3- Valor de los precedentes de la Corte Suprema en ejercicio del control de constitucionalidad.
+
+        La doctrina “stare decisis et quieta non moveré” (estar a lo establecido y no perturbar lo ya
+establecido) que impera en los sistemas jurídicos del mundo anglosajón, supone la obligación de los
+jueces de adecuar sus decisiones a aquellas previamente adoptadas por los tribunales en casos
+análogos. El precedente genera en el Common Law una regla de derecho. La doctrina se desarrolla
+en forma horizontal (deber de respetar los precedentes del mismo tribunal) y vertical (deber de
+respetar los precedentes de un tribunal superior)76.
+
+71
+   CSJN, 1893, Fallos: 53:420. El contrapunto, lo marca la disidencia del Juez Varela para quien las
+cuestiones políticas no justiciables sólo debían quedar circunscriptas a las cuestiones de soberanía.
+72
+   Gelli identifica las siguientes materias como fuera del control judicial: La declaración de utilidad pública en
+materia de expropiación, las causas de la declaración del estado de sitio, las causas de intervención federal, el
+proceso de sanción de leyes, las causales de enjuiciamiento político, conveniencia o eficacia de la ley, las
+categorías legales en cuanto derecho a la igualdad (Gelli María Angélica, Constitución de la Nación
+Argentina Comentada y Concordada, LL, Buenos Aires, 2011, T. II, p. 537).
+73
+   Véase Amaya, Op. Cit., p. 154. El posicionamiento técnico, prescindente y corporativo que el Poder
+Judicial adoptó a partir del golpe del ´30 contribuyó a reforzar el imaginario de que los jueces actúan en forma
+neutral como funcionarios ajenos a los conflictos políticos de nuestro país (Véase Zaffaroni Eugenio R.,
+Estructuras judiciales, Ediar, Buenos Aires, 1994).
+74
+   Entre otras: Autonomía provincial (“Ríos Antonio J.”, 1993, Fallos: 156:288; “Sosa”, 2001, Fallos:
+324:3322), enjuiciamiento de magistrados (“Cantos José M.”, 1989, 312:253; “Viola Carlos J., 1990,
+313:114), composición de las cámaras del congreso y procedimiento legislativo (“Bussi”, 2007, Fallos:
+330:3160; “Binotti”, 2007, Fallos: 330:2222; “Patti”, 2008, Fallos: 331:549), reforma constitucional (“Fayt”,
+1999, Fallos: 326:1616; “Colegios de Abogados de Tucuman”, 2015, CSJ 22/2009 45-C, “Schiffrin”, 2017,
+CSJ 159/2012 48-S).
+75
+   Véase Gelli, Obra. Cit., T II, p. 538.
+76
+   Se discrimina el Obiter dictum (aspectos incidentales o colaterales del fallo) del holding o ratio decidendi
+(razones tenidas en cuenta por el tribunal para dictar su pronunciamiento) el cual constituye en sentido
+                                                                                                               15
+
+[[PDF p. 16]]
+         La legislación argentina no ha reconocido fuerza vinculante general a la doctrina emanada
+de los fallos de la Corte Suprema, salvo en aislado períodos77. Por su parte, nuestro Máximo
+Tribunal, ha mantenido una postura errante en torno al valor de sus precedentes78. A partir del caso
+“Cerámica San Lorenzo” (1985), sentó el principio según el cual “carecen de fundamento las
+sentencias que se apartan de la jurisprudencia de la Corte sin aportar nuevos argumentos que
+justifiquen modificar la posición sentada por el Tribunal en su carácter de intérprete supremo de la
+constitución y de las leyes dictadas en su consecuencia”79. Este criterio se ha mantenido hasta la
+actualidad. Sin embargo, ¿Cuál es el estándar que se extrae de esta doctrina?
+
+        A pesar de que algunos autores han reconocido una suerte de regla de derecho atenuada
+derivada de esta doctrina80, el criterio establecido por la Corte Suprema no satisface los
+presupuestos del stare decisis81. En tanto ninguna sentencia puede agotar el conjunto de razones
+dirigidas a fundamentarla o cuestionarla, el estándar puede ser sorteado con facilidad, máxime
+cuando la propia Corte tiende a no sujetarse a sus propios precedentes, por lo menos, en relación
+
+
+estricto la regla que se extrae del precedente (Rivera Julio Cesar (h.) y Lagarre Santiago, “Naturaleza y
+dimensiones del ´Stare Decisis´”, LL 2005-F-850).
+77
+   El art. 95 de la CN de 1949 (“la interpretación que la Corte Suprema de Justicia haga de los artículos de la
+Constitución por recurso extraordinario, y de los códigos, y de las leyes por recurso de casación, será aplicada
+obligatoriamente por los jueces y tribunales nacionales y provinciales”) dejada sin efecto por el Decreto
+229/56, el art. 101 bis que el Consejo para la Consolidación de la Democracia propuso incorporar a la
+Constitución (“Las decisiones de la Corte Suprema en materia federal serán obligatorias, en cuanto a los
+principios sentados para decidir casos concretos, para todos los tribunales inferiores de la Nación”), el art. 19
+de la ley 24.463 (“La sentencia definitiva de la Cámara Federal de la Seguridad Social será apelable ante la
+Corte Suprema será apelable ante la Corte Suprema de Justicia de la Nación por recurso ordinario, cualquiera
+fuera el monto del juicio. Los fallos de la Corte Suprema de Justicia de la Nación serán de seguimiento
+obligatorio por los jueces inferiores en causas análogas”) declarado inconstitucional en la causa “Itzcovich”
+(CSJN, 2005, fallos: 328:566) y derogado por ley 26.025.
+78
+   Mientras en “Videla Magdalena”, 1870, Fallos: 9:53 confirmó “por sus fundamentos” la sentencia de un
+tribunal federal que reconoció la obligación de los juzgados seccionales de adecuar sus resoluciones a las
+decisiones de la Corte, poco años más tarde, confirmó por idéntica razón (fundamentos), una sentencia de otro
+tribunal federal que sostenía el criterio contrario (“Nuovo Principio”, 1883, Fallos: 25:364). Posteriormente,
+la Corte desestimó el valor vinculante de su jurisprudencia (“Ferrocarril Sud”, 1920, Fallos: 131:105), si bien
+luego abandonó esa doctrina al asignarle un valor de seguimiento condicionado (“Santín” 1948, Fallos:
+212:51; “Balbuena”, 1981; Fallos: 303:1770). Con el retorno de la democracia, inicialmente negó la
+obligatoriedad de su jurisprudencia (“Quiroga”, 1985, Fallos: 307: 207; “Giorgi”, 1985, Fallos: 307:671) pero
+pocos meses después retornó a la doctrina de seguimiento condicionado en el célebre caso “Cerámica San
+Lorenzo”.
+79
+   Considerando nro. 2, CSJN, 1985., Fallos: 307:1094.
+80
+   Véase Rivera Julio Cesar (h.) y Lagarre Santiago, “La obligatoriedad atenuada de los fallos de la Corte
+Suprema y el stare decisis vertical”, LL, 2009-E, 820.
+81
+   La regla del precedente vertical supone el deber del tribunal inferior de adecuarse a la decisión del superior
+sin posibilidad de apartarse de ella en función de razones o argumentos propios (aún cuando fueron
+novedosos). Incluso, Rivera y Lagarre reconocen que “… hay una diferencia sustancial –no de grado- entre la
+doctrina oficial de la Corte y el stare decisis vertical del Common Law…” (Op. Cit., p. 825).
+                                                                                                              16
+
+[[PDF p. 17]]
+con los fallos dictados por anteriores integraciones82.
+
+         Tampoco se observa que los tribunales inferiores hayan reconocido valor autoritativo a los
+precedentes de la Corte. Un estudio de casos llevado a cabo por Julio C. Rivera (h) y Santiago
+Lagarre revela que los tribunales no comparten un criterio unificado sobre el valor de los fallos del
+Máximo Tribunal, sino que coexisten diversas posiciones al respecto83. En definitiva, el margen de
+discrecionalidad que se confiere a los jueces para aplicar los precedentes del Máximo Tribunal
+acerca a la autoridad de sus decisiones más a una obligación moral -derivada de su autoridad
+institucional- que a una regla vinculante de derecho84.
+
+III.- El control de convencionalidad.
+
+III.a.- Origen y alcances.
+
+         En el marco de un proceso de expansión de la agenda de los órganos del Sistema
+Interamericano de Derechos Humanos, la Corte Interamericana desarrolló la doctrina del “control
+de convencionalidad”. Inicialmente, introducida en el voto concurrente de algunos de sus jueces85,
+el control de convencionalidad se consolidó a partir de los casos “Almonacid Arellano y otros vs.
+Chile”86 y “Trabajadores Cesados del Congreso (Aguado Alfaro y otros) vs. Perú”87. De la misma
+forma que nuestra Corte Suprema reprodujo el razonamiento silogístico del caso “Marbury” para
+fundar el control de constitucionalidad, la Corte Interamericana recorrió el mismo camino para
+justificar el control de convencionalidad88.
+
+        En los citados precedentes se fijaron los principales lineamientos de esta doctrina
+internacional:
+
+
+
+
+82
+   “El estándar propuesto por la Corte es fácilmente superable, pues generalmente, con el dictado de una
+sentencia ni la Corte ni el juez agotan la cantidad de razones en la que basan su decisión” (Garay Alberto. F. y
+Toranzo Alejo, “Los efectos de las sentencias de la Corte Suprema de Justicia de la Nación”, JA, 2005-IV-
+1085, p. 1094).
+83
+   Rivera Julio C. (h) y Lagarre Santiago, “La obligatoriedad atenuada de los fallos de la Corte Suprema de
+Justicia de la Nación desde la perspectiva de los tribunales inferiores”, JA, 2006-IV-1333.
+84
+   Como ha señalado Juan González Bertomeu, “O los precedentes son obligatorios o no lo son. Y si no lo
+son, podrán ser tomados en cuenta ´por su valor y prestigio moral´, o por su autoridad epistémica, pero no
+como dictados por una autoridad en tanto autoridad” (González Bertomeu Juan F., “¡Sin Precedentes!”, JA,
+Suplemento de Jurisprudencia de la Corte Suprema de Justicia de la Nación, Abeledo-Perrot, 2009, p. 14).
+85
+   Véase el voto concurrente del juez Serio García Ramírez en el caso “Myrna Mack Chang vs. Guatemala”,
+Corte IDH, 25.11.03., Serie C nro. 101.
+86
+   Corte IDH, 25.09.06., Serie C nro. 154.
+87
+   Corte IDH, 24.11.06., Serie C nro. 158.
+88
+   No es casual que parte de la doctrina califique a esos precedentes como una suerte de “Marbury vs.
+Madison” regional (Abel, Federico, “El control de convencionalidad como mecanismo para la integración
+entre el derecho interno y el derecho interamericano”, LL 20.05.11.).
+                                                                                                             17
+
+[[PDF p. 18]]
+        En primer lugar, el control de convencionalidad reconoce supremacía al derecho
+internacional emergente de la Convención Americana, y sus protocolos adicionales, frente a las
+normas internas de los Estados parte del Sistema Interamericano, colocando a la Convención
+Americana en la cima de la pirámide normativa de los Estados. Como consecuencia, estos deben
+adecuar sus normas internas (incluyendo las de superior jerarquía) a las normas y principios del
+tratado internacional89. Los fundamentos normativos de esta tesis se extraen del principio de buena
+fe (bona fides) en el cumplimiento de los compromisos internacionales (pacta sunt servanda),
+expresado en el artículo 27 de la Convención de Viena sobre Derecho de los Tratados, y el art. 2 de
+la Convención Americana90.
+
+         En segundo lugar, el control de convencionalidad proyecta a nivel doméstico un sistema de
+revisión de las normas internas de carácter difuso que cada Estado parte del Sistema Interamericano
+debe aplicar en forma complementaria a su propio sistema nacional de control de
+constitucionalidad. Si bien se trataría de una obligación en cabeza de los tres poderes del Estado,
+son los jueces locales de cada jurisdicción quienes, en el marco de su competencia, deben evaluar ex
+officio la compatibilidad entre las normas internas del Estado y la Convención Americana, a fin de
+verificar si se ajustan a las disposiciones, objeto y fin del tratado internacional, invalidando aquellas
+que resulten incompatibles91.
+
+        En tercer lugar, el control de convencionalidad dota de fuerza legal a la jurisprudencia del
+tribunal interamericano, creando una regla vinculante de derecho derivada de sus fallos. En virtud
+de ello, los jueces de los Estados parte del Sistema Interamericano no sólo deben cumplir las
+sentencias de la Corte Interamericana en los procesos que sus Estados fueran parte (art. 68.1
+CADH), sino también, adecuar sus interpretaciones constitucionales y convencionales a la
+hermenéutica de la Corte Interamericana sobre el tratado internacional92. Aún cuando se reconoce
+
+
+89
+   Hitters Juan Carlos “Control de constitucionalidad y control de convencionalidad. Comparación –criterios
+fijados por la Corte Interamericana de Derechos Humanos-”, LL, 2009-D, 1205; Sagües Néstor “El ´control
+de convencionalidad´, en particular sobre las constituciones nacionales”, LL, 19.02.09.
+90
+    Sagües María S., “Modalidades de sentencias de la Corte Interamericana de Derechos Humanos y los
+tribunales domésticos: Implicancias en materia de Ejecución”, Ejecución de Resoluciones Procesales, Revista
+de Derecho Procesal, Rubinzal Culzoni, 2013-2, p. 203-258.
+91
+   “.. los jueces y órganos vinculados a la administración de justicia en todos los niveles están en la obligación
+de ejercer ex officio un ´control de convencionalidad´ entre las normas internas y la Convención Americana”
+(Corte IDH “Gelman vs. Uruguay”, 21.02.11, Serie C nro. 221, párr. 193), criterio que el tribunal
+internacional ya venía reiterando en “Cabrera García Montiel vs. México” (sentencia del 26.11.10., Serie C
+nro. 220, párr. 225), “Gomes Lund y otros (´Guerrilha do Raguaia´) vs. Brasil” (sentencia del 24.11.10, Serie
+C nro. 219, párr. 176), “Ibsen Cárdenas e Ibsen vs. Bolivia (sentencia del 1.09.10, Serie C nro. 217, párr. 202)
+y “Trabajadores Cesados del Congreso vs. Perú” (párr. 128).
+92
+    “… es necesario que las interpretaciones constitucionales y legislativas referidas a los criterios de
+competencia y personal de la jurisdicción militar en México, se adecúen a los principio establecidos en la
+jurisprudencia de este tribunal, los cuales han sido reiterados en el presente caso” (Corte IDH, “Rosendo
+Radilla Pacheco vs. Estados Unidos Mexicanos”, 23.11.09., Serie C nro. 209, párr. 340). En el mismo sentido
+se expresó en el caso Almonacid Arellano, “… el Poder Judicial debe tener en cuenta no solamente el tratado,
+                                                                                                               18
+
+[[PDF p. 19]]
+que esta función supone una “mutación por adición” del tratado internacional, ya que dicha facultad
+no se encuentra expresamente contemplada por la Convención, se la concibe como una función
+inherente al tribunal internacional derivada de su calidad de “intérprete final” de la Convención
+Americana93.
+
+        Tal como hemos señalado precedentemente, nuestra Constitución reconoce jerarquía
+constitucional a dicho tratado internacional (cap. I.b.), dispone de un sistema de revisión judicial de
+normas de carácter difuso (cap. II.c.) y la práctica judicial ha admitido la posibilidad de que los
+jueces ejerzan esa facultad ex officio (cap. II.c.1.). En consecuencia, el debate en torno al control de
+convencionalidad se circunscribe en nuestro país, a la discusión acerca del alcance de los
+precedentes e interpretaciones de la Corte Interamericana y recomendaciones de la Comisión
+Interamericana94. Seguidamente nos ocuparemos de este tema.
+
+III.b.- El valor de los precedentes interamericanos en la jurisprudencia de la Corte Suprema.
+
+         Se registran dos períodos en la jurisprudencia de la Corte. Un primer período en el cual
+nuestro Máximo Tribunal concibió a la jurisprudencia interamericana como una guía de
+interpretación del tratado internacional (desde el año 1995 hasta el año 2004). Un segundo período a
+partir del cual comenzó a concebirla como una pauta insoslayable de interpretación.
+
+III.b.1.- La jurisprudencia interamericana como guía hermenéutica.
+
+        A partir de los casos “Giroldi”95 y “Bramajo”96, la Corte sostuvo que la jurisprudencia de
+los órganos interamericanos constituía una inevitable pauta de interpretación de los tratados con
+jerarquía constitucional. Sin embargo, los fallos no especificaban el grado de autoridad que la Corte
+reconocía a los precedentes interamericanos. La doctrina de la Corte parecía indicar que al
+
+sino también la interpretación que del mismo ha hecho la Corte Interamericana, intérprete última de la
+Convención” (“Almonacid Arellano y otros vs. Chile”, párr. 126).
+93
+   Sagües Néstor “El ´control de convencionalidad´, en particular sobre las constituciones nacionales”, Op.
+Cit.
+94
+   En aquellos Estados del sistema interamericano que adoptan un sistema de revisión de leyes con otras
+características (ej. abstracto-concentrado), la aplicación de esta doctrina conlleva un replanteo adicional
+respecto a la estructura interna del sistema de revisión de normas (véase la postura adoptada por la Corte
+Suprema de México en relación al control de convencionalidad plasmada en el caso “Radilla Pacheco”, expte.
+912/10, julio del 2011). De todas formas, el fallo “Fontevecchia” ha reabierto la discusión sobre la jerarquía
+de los tratados internacionales de derechos humanos en la pirámide normativa de nuestro país.
+95
+   “La recordada ´jerarquía constitucional´ de la Convención Americana sobre los Derechos Humanos (consid.
+5to.) ha sido establecida por voluntad expresa del constituyente, ´en las condiciones de su vigencia´ (art. 75
+inc. 22), esto es, tal como la Convención citada efectivamente rige en el ámbito internacional y considerando
+particularmente su efectiva aplicación jurisprudencial por los tribunales internacionales competentes para su
+interpretación y aplicación” (conf. arts. 75 Constitución Nacional, 62 y 64 Convención Americana y 2do. ley
+23.054)” (Consid. 11, CSJN, 1995, Fallos: 318:514).
+96
+   El caso “Bramajo” (CSJN, 1996, Fallos: 319:1840) extendió el criterio hermenéutico desarrollado en
+Giroldi a las decisiones de la Comisión.
+                                                                                                           19
+
+[[PDF p. 20]]
+interpretarse o aplicarse una cláusula del tratado interamericano, los jueces tenían el deber de
+valorar en sus decisiones las interpretaciones adoptadas por los órganos del Sistema Interamericano.
+De este modo, el estándar adoptado era similar al criterio que la Corte aplicaba en relación con sus
+propios precedentes97. Por otro lado, en los casos “Acosta Claudia”98 y “Felicetti”99 la Corte
+estableció que los informes y recomendaciones de la Comisión Interamericana de Derechos
+Humanos carecían de fuerza jurídica vinculante100.
+
+III.b.2.- La jurisprudencia interamericana como pauta insoslayable de interpretación.
+
+        A partir de la causa “Arancibia Clavel”101, la Corte dio un giro en su forma de valorar los
+precedentes de la Corte Interamericana. El fallo debía decidir sobre el problema de la
+imprescriptibilidad de los delitos de lesa humanidad. En concreto, debía decidir si la aplicación de
+la “Convención sobre Imprescriptibilidad de los Crímenes de Guerra y de los Crímenes de Lesa
+Humanidad”, aprobada por nuestro país en 1995 (ley 24.584), y dotada de jerarquía constitucional
+desde 2003 (ley 25.778), lesionaba el principio de irretroactividad de la ley penal (nullum crimen
+sine poena legali). Sobre la base de los estándares elaborados por la Corte Interamericana para estos
+delitos (fallos “Barrios Altos”, “Velázquez Rodriguez”, “Trujillo Oroza”), el Máximo Tribunal
+concluyó que la indicada Convención era plenamente operativa. A esos efectos, los ministros
+abandonaron el lenguaje tuitivo de los precedentes interamericanos invocado en los casos “Giroldi”
+y “Bramajo” (guía o pauta hermenéutica) sustituyéndolo por otro que revela un mayor grado de
+compromiso con los estándares del tribunal interamericano (pauta insoslayable)102.
+
+          Los fundamentos del fallo Arancibia Clavel, se reproducirán un año más tarde en la causa
+“Simón” cuando la Corte deba juzgar la constitucionalidad de las leyes locales que limitaban o
+extinguían la persecución penal de los crímenes y delitos de lesa humanidad cometidos por agentes
+de la última dictadura militar (punto final –ley 23.492-, obediencia debida –ley 23.521-). Los
+
+97
+   Véase cap. II.c.3.
+98
+   CSJN, “Acosta Claudia Beatriz y otro”, 1998, Fallos: 321:3555.
+99
+   CSJN, “Felicetti, Roberto y otros”, 2000, Fallos: 323:4130.
+100
+    En ambos fallos, la Corte rechazó las acciones promovidas por los condenados de la toma de “La Tablada”
+quienes habían solicitado la revocación de sus condenas sobre la base de un informe de la Comisión
+interamericana (Informe 55/97, 18.11.97) que había encontrado al Estado argentino responsable por diversas
+violaciones a la Convención y recomendado reparar a las víctimas. El Máximo Tribunal trazó diferencias
+entre el alcance que debía asignarse a las decisiones de la Corte Interamericana y los alcances de las
+recomendaciones de la Comisión en los procesos que el Estado argentino fuera parte. Mientras ratificó la
+obligación del Estado de cumplir las resoluciones del tribunal internacional, desestimó atribuirle mismo valor
+a las recomendaciones de la Comisión.
+101
+    CSJN, 2004, Fallos: 327:3312.
+102
+    Según se desprende de los votos particulares de los ministros, los precedentes del tribunal interamericano
+no sólo debían ser valorados por los jueces sino también aplicados como regla de derecho. El juez Petracchi
+abandona su postura disidente sentada en el caso “Erich Priebke” (CSJN, 1995, Fallos: 318:2148) en función
+de la evolución de la jurisprudencia del tribunal internacional (consid. 21 a 23 de su voto). Por otra parte, el
+juez Boggiano postula la necesidad de interpretar los tratados de derechos humanos conforme al derecho
+internacional, esto es, sin admitir limitaciones fundadas en el derecho interno (consid. 16 de su voto).
+                                                                                                             20
+
+[[PDF p. 21]]
+argumentos centrales del fallo se estructuraron en torno al derecho internacional, en especial, a la
+jurisprudencia de la Corte Interamericana, ahora recepcionada más claramente como doctrina de
+cumplimiento “imperativo”103.
+
+         Finalmente a través de los casos “Mazzeo” y “Videla”, la Corte terminó de definir los
+alcances del nuevo estándar para valorar la jurisprudencia de la Corte Interamericana. En el
+primero, recogió en toda su extensión la doctrina del “control de convencionalidad” desarrollada
+por el tribunal interamericano en el caso “Almonacid Arellano” con el objeto de fundar la anulación
+de indultos concedidos a militares, pasados en autoridad de cosa juzgada104. En el segundo,
+incorporó la potestad de los tribunales de ejercer el control de convencionalidad ex officio aplicando
+la doctrina del caso “Trabajadores Cesados del Congreso”105. El estándar autoritativo aplicado a la
+jurisprudencia de la Corte Interamericana fue extendido a las recomendaciones de la Comisión
+Interamericana de Derechos Humanos –órgano no jurisdiccional- a través del caso “Carranza
+Latrubesse”106.
+
+
+
+
+103
+    “La traslación de las conclusiones de la Corte Interamericana en ´Barrios Altos´, al caso argentino resulta
+imperativa si es que las decisiones del Tribunal internacional mencionado han de ser interpretadas de buena
+fe” (consid. 24 voto Petracchi). También los distintos votos valoraron los informes y dictámenes de la
+Comisión sobre las leyes de obediencia debida y punto final (informe 28/92).
+104
+    “…el poder judicial debe tener en cuenta no solamente el tratado, sino también la interpretación que del
+mismo ha hecho la Corte Interamericana, intérprete última de la Convención Americana” (consid. 21, CSJN,
+2007, fallos: 330:3248).
+105
+    “… la sentencia dictada por la Corte IDH en el caso ´Trabajadores Cesados del Congreso (Aguado Alfaro
+y otros) vs. Perú´, del 30 de noviembre de 2007, ha subrayado que los órganos del Poder Judicial debían
+ejercer no sólo un control de constitucionalidad, sino también de ´convencionalidad´ ex officio entre las
+normas internas y la Convención Americana, evidentemente en el marco de sus respectivas competencias y de
+las regulaciones procesales correspondientes” (2do. párr., consid. 10, “Videla Jorge Rafael y Massera Emilio
+Eduardo”, 2010, fallos: 333:519). Fallos posteriores de la Corte ratificaron la vigencia del control de
+convencionalidad (véase “Rodriguez Pereyra”, 2012, R. 401 XLIII; “Acosta, Jorge Eduardo y otro”, 2012, CS
+A. 93 XLV).
+106
+    “Por ende, además de que la voz recomendación, como acción o efecto de recomendar, que es su primera
+acepción corriente, no excluye el contenido obligacional… lo decisivo es que toda eventual hesitación al
+respecto se ve rápidamente despejada ni bien la expresión es puesta en contexto, vale decir, ni bien se observa
+que el artículo 51.2 de la Convención Americana expresa con toda elocuencia que el Estado, frente a las
+recomendaciones, ´debe tomar las medidas que le competan para remediar la situación examinada´, para lo
+cual, incluso, la Comisión, fijará un ´plazo´ (inc. 2). La itálica que se acaba de agregar al original del término
+´debe´, confiere a las recomendaciones un inequívoco significado obligacional puesto en cabeza del sujeto a
+quien aquéllas son dirigidas: el Estado” (2do. párr., consid. 6, “Carranza Latrubesse, Gustavo c/ Estado
+Nacional -Ministro de Relaciones Exteriores- Provincia del Chubut”, 2013, causa 594, L. XLIV).
+                                                                                                               21
+
+[[PDF p. 22]]
+Bibliografía.
+
+Abel Federico (2011), “El control de convencionalidad como mecanismo para la integración entre
+el derecho interno y el derecho interamericano”, LL 20.05.11., 1.
+
+
+Ackerman Bruce (1991), We the people: Foundation, Cambridge, Mass. Harvard U.P.
+
+
+Amaya Jorge Alejandro (2012), Control de Constitucionalidad, Astrea, Buenos Aires.
+
+
+Bianchi Alberto B. (2002), Control de Constitucionalidad, Ábaco de Rodolfo Depalma.
+
+
+Bidart Campos (2001), Tratado Elemental de Derecho Constitucional Argentino, Ediar, Buenos
+Aires.
+
+
+Boulin Alejandro (2004), “Los efectos de la sentencia declarativa de inconstitucionalidad”, LL
+Suplemento Actualidad, 20.05.04, 3.
+
+
+Bourdin María (2014), Justicia y Medios, Sudamericana, Buenos Aires.
+
+
+Colauti Carlos (1998), Derecho Constitucional, Editorial Universidad, Buenos Aires.
+
+
+Ely John H. (1997), Democracia y Desconfianza. Una teoría del control constitucional, Bogotá,
+Siglo del hombre.
+
+
+Dworkin Ronald (1996), Freedom´s Law. The Moral Reading of the American Constitution,
+Harvard University Press, Massachusetts.
+-(2010), Los Derechos en Serio, Ariel, Barcelona.
+-(2010), “Igualdad, democracia y constitución: Nosotros, el pueblo, en los tribunales”, El Canon
+Neoconstitucional, Carbonell Miguel y García Jaramillo Leonardo (Edit.), Trotta, Madrid, p. 117-
+149.
+-(2014), Justicia para Erizos, Fondo de Cultura Económica, Buenos Aires.
+                                                                                             22
+
+[[PDF p. 23]]
+Garay Alberto. F. y Toranzo Alejo (2005), “Los efectos de las sentencias de la Corte Suprema de
+Justicia de la Nación”, JA, 2005-IV-1085.
+
+
+Gargarella Roberto (1996), La Justicia Frente al Gobierno, Ariel, Barcelona.
+-(2000), “Los jueces frente al coto vedado”, Discusiones: Derechos y Justicia Constitucional, núm.
+1, 2000, p. 53-64.
+-(1997), “La dificultad de defender el control judicial de leyes”, Revista de Teoría y filosofía de
+Derecho, Isonomía, nro. 6, abril 1997, p. 55-70.
+-(2009), “La dificultosa tarea de la interpretación constitucional”, en Teoría y Crítica del Derecho
+Constitucional, Gargarella Roberto (Coord.), Abeledo-Perrot, 2009, T. I, p. 123-148.
+-(2014), “El nuevo constitucionalismo dialógico frente al sistema de pesos y contrapesos”, Por una
+Justicia Dialógica, Gargarella Roberto (Comp.), siglo veintiuno, Buenos Aires, p. 119-151.
+
+
+Gelli María Angélica (2011), Constitución de la Nación Argentina Comentada y Concordada, LL,
+Buenos Aires.
+
+
+González Bertomeu Juan F. (2009), “¡Sin Precedentes!”, JA, Suplemento de Jurisprudencia de la
+Corte Suprema de Justicia de la Nación, Abeledo-Perrot., p. 1-63.
+
+
+Gonzales Joaquín V. (1897), Manual de la Constitución Argentina; Estrada, Buenos Aires.
+
+
+Hamilton Alexander, Madison James, Jay John (2010), El Federalista, Fondo de Cultura
+Económica, México D.F.
+
+
+Hitters Juan Carlos (2009), “Control de constitucionalidad y control de convencionalidad.
+Comparación –criterios fijados por la Corte Interamericana de Derechos Humanos-”, LL, 2009-D,
+1205.
+
+
+Holmes Stephen (1999), “El precompromiso y la paradoja de la democracia”, en J. Elster y R.
+Slagstad, Constitucionalismo y Democracia, Fondo de Cultura Económica, México, p. 217-262.
+
+
+Kramer Larry (2011), Constitucionalismo Popular y Control de Constitucionalidad, Marcial
+
+                                                                                                 23
+
+[[PDF p. 24]]
+Pons, Madrid.
+
+
+Lorenzetti Ricardo (2014), “Las audiencias públicas y la Corte Suprema”, Por una Justicia
+Dialógica, Gargarella Roberto (Comp.), siglo veintiuno, Buenos Aires, p. 345-354.
+
+
+Mairal, Héctor A. (1998), “Los Efectos de las sentencias de la Corte Suprema de Justicia de la
+Nación”, ED 177-795/800.
+
+
+Maurino Gustavo, Nino Ezequiel y Sigal Martín (2006), Las Acciones Colectivas, Lexis Nexis,
+Buenos Aires.
+
+
+Montesquieu (2007), El Espíritu de las leyes, Losada, Buenos Aires.
+
+
+Moreso Juan José (2000), “Sobre el alcance del precompromiso”, Discusiones: Derechos y
+Justicia Constitucional, núm. 1, 2000, p. 95-107.
+
+
+Nino Carlos (2003), La constitución de la democracia deliberativa, Gedisa, Barcelona.
+-(2005), Fundamentos de Derecho Constitucional, Astrea, Buenos Aires.
+
+
+Palacio Lino E. (1986), Derecho procesal civil, Abeledo-Perrot, Buenos Aires, segunda edición.
+
+
+Post Robert y Seagel Reva (2013), “Constitucionalismo popular, departamentismo y supremacía
+judicial”, Constitucionalismo Democrático, Por Una Reconciliación Entre Constitución y Pueblo,
+Post Robert y Seagel Reva, siglo veintiuno, Buenos Aires, p. 119-139.
+
+
+Rivera Julio César (h.) y Lagarre Santiago (2005), “Naturaleza y dimensiones del ´Stare
+Decisis´”, LL 2005-F-850.
+-(2006), “La obligatoriedad atenuada de los fallos de la Corte Suprema de Justicia de la Nación
+desde la perspectiva de los tribunales inferiores”, JA, 2006-IV-1333.
+-(2009), “Los efectos de la declaración de inconstitucionalidad en los Estados Unidos y la
+Argentina”, Lecciones y Ensayos, nro. 86, 2009, p. 321-349.
+-(2009), “La obligatoriedad atenuada de los fallos de la Corte Suprema y el stare decisis vertical”,
+LL, 2009-E, 820.
+
+                                                                                                 24
+
+[[PDF p. 25]]
+Sagües María S. (2013), “Modalidades de sentencias de la Corte Interamericana de Derechos
+Humanos y los tribunales domésticos: Implicancias en materia de Ejecución”, Ejecución de
+Resoluciones Procesales, Revista de Derecho Procesal, Rubinzal Culzoni, 2013-2, p. 203-258.
+
+
+Sagües Néstor Pedro (1999), “Los efectos expansivos de la cosa juzgada en la acción de amparo”,
+en Toricelli, Maximiliano (coord.), El Amparo Constitucional: Perspectivas y Modalidades (art. 43
+de la Constitución Nacional), Depalma, Buenos Aires, p. 19-32.
+-(2001), Elementos del Derecho Constitucional, Buenos Aires, Astrea.
+-(2002), Recurso extraordinario, Astrea, Buenos Aires, 4ta. edición ampliada.
+-(2004), “Interpretación constitucional y alquimia interpretativa (el arsenal argumentativo de los
+tribunales supremos)”, Lexis Nexis, Buenos Aires.
+-(2009), “El ´control de convencionalidad´, en particular sobre las constituciones nacionales”, LL,
+19.02.09., 1.
+
+
+Trionfetti Víctor (2009), “Marbury a contraluz”, LL, 2009-C, 989.
+
+
+Tushnet Mark (2014), “Revisión judicial dialógica”, Por una Justicia Dialógica, Gargarella
+Roberto (Comp.), siglo veintiuno, Buenos Aires, p. 105-116.
+
+
+Waldron Jeremy (2005), Derecho y Desacuerdos, Marcial Pons, Madrid.
+
+
+Zaffaroni Eugenio R. (1994), Estructuras judiciales, Ediar, Buenos Aires.
+
+
+
+
+                                                                                                25

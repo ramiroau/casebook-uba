@@ -1,0 +1,710 @@
+# fuente: Unidad13/Otegui - 2016 - Recurso extraordinario federal. Introducción. Requ.pdf
+# md5_original: b4f3d566ad3f99eab789758b5f0e034d
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Algunas notas sobre el Recurso extraordinario federal
+
+
+
+
+Introducción – requisitos comunes- requisitos propios - requisitos formales- sentencia
+arbitraria.
+
+
+
+
+Recurso extraordinario Federal (Introducción):
+
+
+
+El precedente Marbury v. Madison1 ha sido la base granítica del modelo de control de judicial
+de constitucionalidad -judicial review- estadounidense, que fue adoptado en nuestro sistema,
+debido a la influencia que la constitución norteamericana tuvo en la nuestra por la vía
+alberdiana y la recepción de dicho precedente en el caso “Sojo”2 Además de ello debemos
+considerar la influencia de la Judiciary Act de 1789, en la cual está inspirada la ley 48.
+
+Desde entonces, el recurso extraordinario federal ha sido la principal vía de acceso al control
+de constitucionalidad en manos del máximo tribunal de nuestro país3.
+
+Los fines históricos del recurso extraordinario clásico (art. 14, ley 48), fueron tres: a) tutelar la
+primacía del derecho federal, respecto de sentencias provinciales; b) proteger la supremacía
+de la Constitución y del resto del derecho federal, aun contra sentencias de tribunales
+federales (ley 4055), y c) uniformar la aplicación del derecho federal ("casación federal"). El
+recurso extraordinario moderno asume otra tarea más: dejar sin efecto sentencias arbitrarias.
+Esto último fue una creación de la Corte Suprema, y casi cuadruplicó4 el número de los
+recursos extraordinarios. Ocasionalmente ha cumplido el papel de casación general y de
+recurso de justicia y equidad.
+
+El recurso extraordinario importa un tipo de apelación, bien que extraordinaria (más exigente
+en los recaudos formales, y donde la Corte no revisa todo lo actuado, sino solamente temas
+federales), lo que significa generalmente en el orden nacional una (y respecto de las
+provincias5, en ocasiones, una cuarta).
+
+Requisitos comunes:
+
+
+
+
+1
+  (US 1803), y posteriormente, McCulloch v. Maryland (US 1819).
+2
+   (Fallos, 32:120)
+3
+   Véase el artículo de Jonás Elfman acerca de control de constitucionalidad y convencionalidad en este
+mismo volumen.
+4
+   Estadística no publicada confeccionada por el autor.
+5
+   Desde la reforma de 1994, lo dicho en relación a los tribunales provinciales es aplicable a los
+tribunales de la Ciudad de Buenos Aires.
+
+[[PDF p. 2]]
+Cuando nos referimos a estos requisitos, hablamos de aquellos que resultan necesarios para la
+procedencia de cualquier recurso judicial, sin embargo, en el contexto del Recurso
+extraordinario federal (en adelante REF) estos prerrequisitos responden a las particularidades
+de este recurso. Dichos requisitos son: 1) Intervención anterior de un tribunal de justicia; 2)
+existencia de un juicio o proceso; 3) Existencia de una cuestión justiciable; 4) Existencia de un
+gravamen, y 5) subsistencia de todos los requisitos al momento de fallar.
+
+
+
+1) Intervención de un tribunal de justicia:
+
+EL recurso en cuestión resultará procedente respecto de aquellas resoluciones de los
+tribunales de justicia, es decir de aquellos que integren el poder judicial provincial o federal; y
+por extensión de los organismos administrativos dotados por la ley de facultades
+jurisdiccionales, no revisables por la vía de acción o recurso.
+
+De forma excepcional, puede proceder contra una resolución dictada en sede administrativa,
+cuando el funcionario desempeñe funciones de naturaleza judicial.6 Además, resulta
+procedente contra la resolución emanada del Senado, constituido como órgano de
+enjuiciamiento político.7
+
+2) Existencia de un juicio o proceso:
+
+La resolución que se impugna debe haber sido dictada como culminación de un proceso. Es
+decir, todos aquellos procedimientos que según las leyes pueden incoarse en los tribunales,
+por propósitos diversos – según la materia-, es decir desde la protección de derechos o para la
+prevención o castigo de determinados ilícitos civiles o penales. En un mismo orden de cosas y
+siguiendo la enumeración propuesta por Imaz y Rey8, la Corte ha decidido que constituyen
+“juicio”: a) el juicio ordinario; b) el juicio ejecutivo o apremio; c) otros procedimientos
+especiales (ej. juicios de alimentos); d) juicios universales; e) juicios penales (criminales y
+correccionales); f) juicios contenciosos- administrativos.
+
+3) Existencia de una cuestión justiciable:
+
+Este requisito presupone la existencia de un caso concreto, es decir que el REF no se encamina
+a resolver declaraciones generales y de carácter abstracto acerca del derecho.
+
+La Corte Suprema de Justicia defino causa de la siguiente forma: “es aquella en la que se
+persiguen en concreto la determinación del derecho debatido entre las partes adversas. Y por
+ello, no se da una causa o caso contencioso que permita el ejercicio del poder judicial
+conferido a los tribunales nacionales cuando se procura la declaración general y directa de
+inconstitucionalidad de las normas o actos de otros poderes”9.
+
+
+6
+  Aquellas que normalmente se encuentran encomendadas a los jueces (PUEDE CITARSE A GORDILLO, O
+“ANGEL ESTRADA”.
+7
+  Moliné O’Connor, Eduardo s/ su juicio político - 01/06/2004 - Fallos: 327:2048
+8
+  Esteban Imaz y Ricardo E. Rey, El recurso extraordinario, Ediciones de la revista de jurisprudencia
+argentina, 1943.
+9
+  Fallos 306:1125
+
+[[PDF p. 3]]
+Esta doctrina, excluye de modo expreso aquellas cuestiones cuya decisión este reservada a
+otros poderes del Estado. Por motivos de extensión no nos detendremos con mayor detalle en
+la espinosa cuestión de las “cuestiones políticas no justiciables”, simplemente diremos que
+desde que la corte fallara en el caso “Cullen c/ Llerena” en 1893, la doctrina ha sufrido un
+recorte progresivo en su extensión, respecto de aquellas cuestiones que no deben quedar
+sometidas al “resorte” de la acción del poder judicial.10
+
+Quedan excluidas así las “consultas11”, “resoluciones normativas de carácter general” y el
+análisis de cuestiones de índole académica o abstractas.
+
+4- Existencia de Gravamen
+
+La sentencia que se impugna debe causar gravamen, es decir que debe existir en el apelante
+un interés personal y directo, el cual debe ser cierto y actual, lo cual es motivo para descartar
+de plano alegaciones de perjuicios potenciales o aquellos que solo se sostienen en basamentos
+hipotéticos. En un mismo orden, no existirá gravamen o perjuicio, en la hipótesis en la cual aun
+cuando el REF fuera resuelto de modo favorable al apelante, la situación de este no sufriría
+modificación alguna.
+
+5- Subsistencia de todos los requisitos
+
+Los requisitos que hemos enumerado, deben estar presentes al momento en que la Corte
+debe dictar sentencia, caso contrario estaríamos ante un supuesto de “actuación inoficiosa”. El
+fundamento está dado en la necesidad de que los pronunciamientos de la Corte resuelvan el
+conflicto que ante ella se ventila, de acuerdo a la situación existente al momento del dictado
+de la sentencia.
+
+Todo cuanto hemos dicho implica que están excluidas del recurso las “declaraciones
+abstractas”, dado que el gravamen debe existir y mantenerse al momento del dictado de la
+sentencia. Dichas circunstancias no se verifican, si por ej.: la ley que ha sido tachada de
+inconstitucional ha sido derogada, o el acto administrativo que se cuestionaba ha sido dejado
+sin efecto, etc.
+
+
+
+
+REQUISITOS PROPIOS
+
+El REF cuenta con una serie de requisitos que le son propios:
+
+
+
+10
+   Su antecedente mas inmediato es el caso Texas V. White donde la Corte Suprema de los Estados
+Unidos dijo: “according to the course of proceeding under this head in equity, in order to entitle the
+party to the remedy, a case must be presented appropriate for the exercise of judicial power; the rights
+in danger, as we have seen, must be rights of persons or property, not merely political rights, which do
+not belong to the jurisdiction of a court, either in law or equity”. (99 US 999).
+11
+   La Corte Suprema de la República Argentina carece de las funciones consultivas de otras cortes que
+hacen las veces de tribunales constitucionales, como por ejemplo las “certified questions” en el caso de
+la Corte Suprema de los Estados Unidos o la “Question prejudicielle” en el caso de Bélgica o Francia.
+
+[[PDF p. 4]]
+1) Debe existir una cuestión federal; 2) El recurso de ser interpuesto contra una sentencia
+definitiva, y 3) Dicha sentencia debe haber sido dictada por el superior tribunal de la causa, 4)
+la resolución debe haber sido contraria al derecho federal invocado; y 5) Debe existir relación
+directa e inmediata de la cuestión federal con la cuestión debatida.
+
+1) Existencia de cuestión federal
+
+La cuestión federal es un requisito que hace al objeto y materia del recurso y que puede dar
+lugar a este.
+
+Una cuestión federal o constitucional puede ser definida como aquella cuestión en la cual esta
+comprometida – directa o indirectamente- la supremacía de la constitución nacional
+(supremacía que alcanza no solo a la constitución, sino a la interpretación de la misma). Es
+decir las que versan sobre la interpretación de normas federales o de actos federales de las
+autoridades de la Nación, o acerca de los conflictos entre la constitución Nacional y otras
+normas o actos de autoridades nacionales o locales.
+
+En principio, se trata de cuestiones de derecho. Excepcionalmente, el tribunal puede analizar
+los hechos de la causa, cuando estos tienen una relación estrecha con la cuestión federal y la
+misma no puede ser resuelta con independencia de ellos.
+
+CLASES DE CUESTIONES FEDERALES
+
+a.- Cuestión federal simple
+
+La cuestión federal simple o clásica es aquella que versa sobre la inteligencia o interpretación
+de alguna cláusula de la Constitución Nacional, o de leyes federales, tratados o de una
+autoridad o comisión ejercida en nombre de la Nación (art 14, incs 3 y 1, ley 48).
+
+Por ende las Cuestiones Federales simples abarcan:
+
+I) la interpretación de la constitución Nacional y los tratados internacionales con jerarquía
+constitucional (art. 75 inc. 22).
+
+En esta inteligencia la CSJN ha dicho que existe una cuestión federal simple cuando está bajo
+análisis el alcance de una determinada norma constitucional. Si tomáramos como ejemplo un
+proceso civil, en ellos, la corte ha considerado que existirá materia de jurisdicción
+constitucional cuando la interpretación de artículos como el 14 y el 32 de la constitución
+nacional, resultan determinantes para la procedencia de responsabilidad civil, respecto de la
+restricción indebida de la libertad de expresión e información alegada (fallos 326:4136).
+ejemplo podría verificarse en un caso penal, donde el recurso podría otorgarse –como
+normalmente ocurre- por cuestiones “íntimamente ligadas al alcance que cabe otorgar al art
+18 de la Constitución Nacional”.12
+
+En cuanto a la interpretación de tratados constitucionales, la Corte había distinguido entre
+tratados internacionales de derecho público y de derecho privado o común, realizando una
+interpretación -relativamente- uniforme y estableciendo que cuando se tratare de uno de
+
+12
+     Fallos 326:4951
+
+[[PDF p. 5]]
+aquellos, la interpretación de sus cláusulas siempre constituye cuestión federal simple. Sin
+embargo, respecto de aquellos tratados que regulaban materias propias de derecho privado,
+su interpretación no la suscitaba. La Corte cambio este criterio en el caso “Méndez Valle”,
+donde resolvió que la interpretación de los tratados internacionales siempre suscita una
+cuestión federal. Así, el criterio actual de la Corte Suprema es considerar como cuestión
+federal simple a la interpretación de cualquier tratado internacional, con independencia de la
+materia. El fundamento último de esta postura está dado por el hecho de que tanto la
+aplicación como la omisión de ella -en materia de tratados internacionales- puede
+comprometer la responsabilidad del Estado argentino en sistemas jurídicos internacionales.
+
+LEYES FEDERALES
+
+La expresión “leyes del congreso” a primera vista pareciera remitir a todas las leyes que dicta
+el Congreso. Sin embargo, es menester aclarar que existen tres tipos de leyes que el Congreso
+Nacional puede dictar (comunes, federales y locales). Las leyes federales son aquéllas dictadas
+por el Congreso de la Nación en ejercicio de las facultades que le confiere el art 75 de la
+Constitución Nacional, exceptuando aquellas incluidas en los incs. 12 y 30. Por eso, sólo una
+pequeña porción del derecho nacional es derecho federal. Este se compone de aquellas
+normas que tienen por objeto regular los poderes federales y sus competencias en la
+prosecución de fines federales. Estas “normas de carácter federal” -como las ha denominado
+la CSJN- se vinculan principalmente con los lineamientos necesarios para erigir la estructura
+orgánica del Estado federal.Por ende y para echar más luz sobre esta distinción, corresponde
+hacer propias las palabras del máximo tribunal en el fallo “Dirección Nacional de Vialidad”
+(fallos 185:288): “la índole federal de una ley no depende del radio geográfico donde se la
+aplique, si no de la presencia de un interés nacional en sus metas. Es solamente la
+interpretación de este tipo de leyes -y sus reglamentaciones-, la que habilita la apertura del
+recurso.
+
+Pese a las clasificaciones que hemos realizado, puede suceder que en una misma norma,
+convivan disposiciones de orden local, común y federal.
+
+-Decretos y otras normas de carácter federal
+
+En esta categoría están englobados los decretos que en ejercicio de las facultades conferidas
+por el art. 99 CN dicta el Poder Ejecutivo, las acordadas de la propia Corte Suprema, los
+reglamentos que cada cámara del Congreso se da para sí, y las disposiciones que dicten otros
+organismos u entes autárquicos descentralizados en ejercicio de la función administrativa.
+
+-Actos no normativos emanados de autoridades federales:
+
+Estos actos en los cuales se constituye, reconoce, modifica o extingue algún derecho, siguiendo
+la terminología del artículo 14 de la ley 48, caen en el supuesto de “autoridad ejercida en el
+nombre de la nación” o “comisión ejercida en nombre de la autoridad nacional”. Se trata de
+actos administrativos de carácter unilateral, que tengan alcance y efectos de tipo individual.
+Ejemplifica este supuesto, un decreto que reconoce determinados beneficios labores a un
+funcionario nacional.
+
+-Derecho intrafederal
+
+[[PDF p. 6]]
+El derecho intrafederal es aquel que emerge de los acuerdos entre la Nación y las provincias o
+entre éstas, que regulan la relación entre estos sujetos federales o la relación entre éstos y sus
+habitantes. Resulta especialmente útil distinguir si estas disposiciones poseen carácter federal
+o no. Ello nos permitirá conocer con claridad, que órgano resulta competente para entender
+en una causa regida por un acuerdo interjurisdiccional. Tal es el caso de las leyes convenio en
+las cuales las provincias por medio de una ley emanada de su legislatura local, incorporan el
+articulado de una norma de derecho federal a su derecho provincial, lo cual le vale vigencia
+local.
+
+B- Cuestión Federal Compleja:
+
+Cuestión federal compleja directa
+
+Cuando nos referimos a este tipo de cuestiones federales, debemos presuponer un choque
+entre dos normas, ya sea entre una norma nacional o local con la constitución nacional, o los
+tratados con jerarquía constitucional (art 75 inc. 22, CN). Se la denomina directa por que en el
+caso bajo análisis, la controversia versa de tal modo entre el acto o norma nacional o local, que
+se tacha como contrario a la constitución nacional. En este escenario de conflicto es necesario
+revisar la distinción que formuláramos anteriormente entre normas federales y aquellas que
+no lo son. En caso de que exista conflicto entre una norma federal y una cláusula
+constitucional, la Corte deberá interpretar la norma cuestionada y decidir si la norma es
+compatible o no con la cláusula.
+
+Cuando se trata de normas que no son federales, la CSJN debe estar a la interpretación que de
+las mismas hayan hecho los tribunales locales o provinciales, debiendo resolver solamente si
+esa interpretación es compatible con la cláusula constitucional que se hubiera invocado13.
+
+Tratados Internacionales
+
+Habrá cuestión federal compleja directa cuando exista conflicto entre una o más cláusulas de
+un tratado que no posea jerarquía constitucional y lo establecido en una cláusula de la
+constitución nacional o un tratado internacional, que sí posea jerarquía constitucional de
+acuerdo 75 inc. 22..
+
+-Leyes dictadas por el congreso nacional
+
+Estaremos ante una cuestión federal compleja que torna admisible el REF cuando existe un
+conflicto entre una ley dictada por el congreso – sea esta federal, común o local- y un artículo
+de la CN o de alguno de los tratados internacionales con jerarquía constitucional.
+
+-Normas emanadas de autoridades nacionales
+
+Se plantea una cuestión federal compleja directa cuando este tipo de normas (entre las que se
+agrupan decretos del PEN, resoluciones ministeriales, tan solo por nombrar algunas), y uno o
+más artículos de la Constitución Nacional y/o uno o más artículos de un tratado internacional
+que tenga jerarquía constitucional, ya sea de los enumerados en el art. 75, in 22 o los que se
+incorporen a la constitución mediante el procedimiento previsto en el. Normalmente los casos
+
+13
+     Véase en este volumen el artículo de Diego Hammerschlag.
+
+[[PDF p. 7]]
+que caen dentro de esta categoría son cuestionamientos a decretos de carácter general
+emitidos por el PEN. Es interesante incluir en nuestro análisis un caso en que se declaró
+admisible el recurso extraordinario porque se hallaba en juego la constitucionalidad de un
+decreto emanado del Poder ejecutivo nacional y la sentencia del superior tribunal de la causa
+fue contraria a los derechos que la vencida fundó en aquel (incs 1° y 3° del artículo 14 de la ley
+48)14.
+
+-Acto de autoridad nacional
+
+Se verificará la existencia de cuestión federal compleja directa cuando el enfrentamiento con
+la CN y/o un tratado internacional enumerado en el art 75, inc 22 o incorporado con jerarquía
+constitucional se da con un acto no normativo o hechos u actos de mera ejecución por una
+autoridad nacional.
+
+-Norma o acto emanado de una autoridad provincial
+
+Este supuesto de cuestión federal se da cuando existe conflicto entre una resolución
+ministerial provincial y/o ley provincial, u otros actos de autoridad provincial y uno o varios
+artículos de la CN o de los tratados internacionales con jerarquía constitucional.
+
+Es imperioso aclarar que la regla general respecto de la interpretación de la legislación
+provincial corresponde a los tribunales estaduales y la Corte solo podrá intervenir cuando se
+verifique una colisión ostensible con las disposiciones de la Constitución Nacional. La Corte
+también podrá revisar la interpretación de los tribunales provinciales por vía de la doctrina de
+la arbitrariedad15. Quizá el supuesto más interesante de colisión normativa se dé cuando existe
+incompatibilidad entre una o más cláusulas de una constitución provincial y la constitución
+nacional en este supuesto estaremos ante una cuestión federal compleja directa, puesto que
+atenta directamente contra la Constitución misma, y en la circunstancia de que la colisión
+fuera entre la constitución provincial y normas federales, lo será de tipo indirecto.
+
+CUESTIÓN FEDERAL COMPLEJA INDIRECTA
+
+En este caso nos situamos ante un conflicto que no afecta de modo directo la supremacía de la
+Constitución Nacional. En estos casos, la colisión versa entre normas o actos de una autoridad
+nacional entre sí o entre normas o actos de una autoridad provincial y sus equivalentes
+nacionales. En este supuesto la colisión deberá resolverse considerando especialmente el
+artículo 31.
+
+Ensíntesis la cuestión federal compleja es indirecta puesto que al ser contraria una ley o
+disposición provincial con una nacional –que en principio se reputa constitucional- se afecta a
+la misma constitución y el orden jerárquico normativo por ella establecido.
+
+
+
+
+14
+  “Sindicato Argentino de Docentes Particulares SADOP c/ PEN”, CSJN, 4/07/2003 (Fallos 326:2150).
+15
+   Véase el artículo de Diego Hammerschlag en este volumen para un tratamiento de evoluciones
+recientes de esta cuestión en la jurisprudencia de la Corte.
+
+[[PDF p. 8]]
+En este aspecto, la procedencia del REF se da cuando se pone en cuestión la validez de normas
+provinciales por contradecir la legislación nacional, y la decisión final del pleito fuese adversa a
+los derechos que la recurrente funda en esta última16
+
+CUESTIONES EXCLUIDAS
+
+De acuerdo a cuanto hemos expuesto, se encuentran excluidas -como regla general-
+
+     a) Cuestiones de hecho y prueba, dado que -como ya mencionamos- el recurso
+        extraordinario se aboca a cuestiones de Derecho.
+     b) Interpretación de Normas de derecho común
+     c) Interpretación de normas de derecho procesal federal
+     d) Interpretación del derecho provincial o local
+     e) El conflicto de normas de derecho provincial entre sí o con normas o actos
+        correspondientes al derecho municipal
+
+
+
+
+     El recurso debe interponerse contra sentencia definitiva
+
+     El término sentencia definitiva resulta algo insuficiente para delimitar el alcance de este
+     requisito, lo cierto es que es todo cuanto han normado el art. 6 de la ley 4055 y el art. 14
+     de la ley 48. A nuestro modo de ver la expresión “sentencias definitivas” no es demasiado
+     orientadora de la tarea que debe realizar el intérprete al momento de ver si dicho
+     requisito se ha verificado o no. La Corte como máximo intérprete de la Constitución ha
+     delimitado progresivamente los alcances de este requisito. Así la Corte se encargado
+     desarrollar el concepto de sentencia equiparable a definitiva. Esta versión refinada de la
+     idea de sentencia definitiva equipara a esa calidad a aquellas resoluciones interlocutorias
+     que si bien técnicamente no revisten tal carácter puede ocasionar un gravamen
+     irreparable. Acreditado este extremo procedería la interposición del recurso contra una
+     resolución interlocutoria, que se equipara de esta forma con una definitiva. Igualmente es
+     necesario establecer algunas precisiones respecto de los requisitos necesarios para
+     equiparar una interlocutorio con definitiva: (1) pone fin al pleito (2) imposibilita su
+     continuación (3) priva al interesado de otros medios legales para la obtención de tutela de
+     sus derechos (4) Impide el replanteo de la pretensión en otro juicio y (5) Causa gravamen
+     cuya reparación puede ser: 5(a) imposible; 5(b) insuficiente o (c) tardía.17
+
+     De igual manera, debemos sentar unas mínimas bases para definir cuando nos
+     encontramos ante una sentencia definitiva: en tal caso, y siguiendo a Bianchi18, podemos
+     afirmar que “para que el recurso extraordinario sea procedente es necesario que la
+
+
+16
+   Votos de Petracchi y Maqueda en el precedente “Filcrosa” FALLOS….
+17
+   Estas resoluciones pueden dictarse antes o después de la sentencia definitiva.
+18
+   Alberto B. Bianchi- E.D.,T178,pag.11
+
+[[PDF p. 9]]
+       decisión recurrida tenga tal entidad que impida su replanteo idóneo y efectivo en una
+       instancia posterior”.
+
+       SENTENCIA DICTADA POR EL SUPERIOR TRIBUNAL DE LA CAUSA:
+
+       Según lo definió la corte en el faloXXXX el superior tribunal de la causa es: “aquel que
+       dentro de la respectiva jurisdicción procesal se encuentra habilitado para decidir en último
+       término sobre la materia que suscita la cuestión federal”. En este supuesto, la
+       admisibilidad del recurso exige como requisito que la resolución que se pretende llevar
+       ante el máximo tribunal, no pueda ser revocada por otro órgano judicial, o incluso por el
+       mismo que la dictó.19
+
+       La Corte ha mantenido y posteriormente desarrollado una línea jurisprudencial bastante
+       clara, la cual se inicia con el precedente “Strada”(Fallos….). Allí la Corte dijo que: “Tribunal
+       Superior de Provincia, según el art. 14 de la ley 48, es el órgano judicial erigido como
+       supremo por la constitución de la provincia, salvo que sea incompetente en el caso,
+       circunstancia que no podrá extraerse del carácter constitucional federal de la materia que
+       aquel suscite. En los supuestos en que por razones diversas de esta última naturaleza, el
+       órgano judicial máximo de la provincia carezca de aptitud jurisdiccional, aquella calidad la
+       tendrá en cuenta el tribunal inferior habilitado para resolver el litigio por una sentencia
+       que, dentro del régimen procesal respectivo, no sea susceptible de ser revisada por otro, o
+       incluso, por el mismo”. La línea argumental prosigue con una recomendación a las partes a
+       agotar todas las instancias internas en la forma pertinente, para satisfacer este requisito.
+       Por último la Corte dice que “cuando las partes consideren que las vías previas en el
+       ordenamiento local queda, para el caso concreto, terminadas con la intervención de las
+       instancias inferiores de la justicia provincial, deberán exponer las razones pertinentes al
+       interponer el recurso extraordinario federal, cuya concesión o denegación habrá de
+       fundamentar, el tribunal de la causa”.
+
+       Con posterioridad al fallo “Strada”, la Corte Suprema fallo el caso “Christou”20 en el cual la
+       Suprema Corte de la provincia de Buenos Aires concedió el recurso, por considerar que -de
+       acuerdo a su propia jurisprudencia- la sentencia de cámara no podía ser objeto de revisión
+       por tratarse de un amparo, por lo cual entendió que la máxima instancia provincial se
+       encontraba agotada.
+
+       La Corte entendió que el camino a seguir por los litigantes era, cuando fuere necesario,
+       introducir el planteo de los agravios federales en sede provincial, cuestionando la
+       constitucionalidad de las normas locales que impidan a los máximos tribunales estaduales
+       entender en las cuestiones federales que fueran introducidas. En este mismo sentido la
+       corte dijo que “En tales condiciones, la interesada debió articular las cuestiones federales
+       conducentes en el ámbito de los recursos extraordinarios locales y, al mismo tiempo,
+       deducir la inconstitucionalidad de la interpretación restrictiva del art. 278 del Código
+       Procesal de la Provincia de Buenos Aires. En cuanto excluye su examen en supuestos como
+       el presente, toda vez que los planteos reseñados se hallaban inexcusablemente
+
+
+19
+     Fallos 313:863
+20
+     (Fallos 310 v.1: 324)
+
+[[PDF p. 10]]
+     comprendidos en el ámbito cognoscitivo propio de la corte bonaerense en cuanto
+     investida del poder-deber de aplicar con preeminencia la constitución y las leyes de la
+     nación (conf. Art 31 CN)”. La Corte decidió extender y reafirmar esta postura en el caso “Di
+     Mascio”21, donde nuevamente puso de resalto la exigencia de plantear la
+     inconstitucionalidad de aquellas normas que resulten un escollo al acceso del máximo
+     órgano jurisdiccional de la provincia. Por todo lo expuesto podemos concluir que en
+     aquellos procesos que tramiten ante tribunales de provincia, y en los que se plantee una
+     cuestión federal –ya sea inicialmente o de modo sobreviniente-, el superior tribunal de la
+     provincia de que se trate tiene jurisdicción y competencia, la cual deberá ejercer de modo
+     obligatorio incluso cuando el derecho local nada diga o incluso cuando este lo prohíba,
+     para decidir esa cuestión federal con carácter previo al recurso extraordinario federal que
+     se plantea.
+
+     RESOLUCIÓN CONTRARIA AL DERECHO FEDERAL INVOCADO
+
+     Este requisito requiere que en un proceso la sentencia definitiva haya sido contraria al
+     derecho -tratados, constitución o ley- invocado por una de las partes.Para que se verifique
+     el recaudo que analizamos, es necesario que se declare la invalidez de un tratado, una ley
+     o acto de autoridad nacional, en la que el peticionante fundaba su derecho (art. 14, inc. 1).
+     Un supuesto que podría darse a modo de ejemplo es una sentencia declara la validez de
+     una ley federal objetada como contraria a la constitución.
+
+     En aquellos supuestos donde se verifique un conflicto entre una ley o acto de autoridad
+     provincial con la constitución o la legislación federal (CF compleja indirecta), procederá el
+     recurso si la decisión fuera a favor de la validez de la ley o autoridad provincial, pero no en
+     el caso opuesto. De tal modo, la corte ha declarado inadmisible el recurso en un proceso
+     donde “la cámara, al privar de validez a las normas provinciales impugnadas, por ser
+     repugnantes a la Constitución Nacional, ha tutelado la supremacía de la constitución
+     federal invocada por el demandante”. CITA?
+
+     Para que efectivamente exista una resolución contraria al derecho federal invocado, se
+     requiere la prevalencia de una norma provincial, cuando esta ha sido considerada
+     contraria a la constitución nacionalo una norma federal. “Para que medie el supuesto del
+     in 2 del art 14 de la ley 48 se requiere que la decisión haya sido a favor de la ley provincial,
+     cuando se la cuestiona bajo la pretensión de ser repugnante a la Constitución Nacional”22
+
+     En caso de que la decisión en cuestión hubiera reconocido la supremacía de aquella
+     pretensión fundada en derecho federal, estaremos fuera del ámbito de aplicación de la ley
+     48.23
+
+     Dentro del contexto de resolución contraria, la Corte ha entendido que puede darse el
+     caso de que esta se presente de modo implícito. Un claro ejemplo de ello es el caso donde
+     se planteaba la inconstitucionalidad de la ley 11.018 (Prov. de Bs As), por resultar contraria
+     al régimen municipal establecido por el artículo 5 en el que si bién la resolución no era
+
+21
+   (C.S.J.N., Fallos 311:278)
+22
+   Fallos 288:177
+23
+   Fallos 304:1176
+
+[[PDF p. 11]]
+   expresamente contraria a la cláusula constitucional, la corte entendió que tal resolución
+   resulto contraria de modo “implícito”, ya que la mayoría del tribunal decisor no se había
+   expedido respecto de esa cuestión.
+
+   -RELACIÓN, DIRECTA E INMEDIATA DE LA CUESTIÓN FEDERAL CON LA CUESTIÓN
+   DEBATIDA:
+
+   La cuestión federal plateada debe ser de una entidad tal que pueda lograr el objetivo para
+   el cual es introducida, modificar la sentencia recurrida. Para ello no bastará la mera
+   invocación genérica de una determinada cláusula constitucional, muy por el contrario, la
+   decisión del proceso dependerá específicamente de la interpretación que se les dé a
+   dichas normas federales. La exigencia de la demostración de la relación directa e
+   inmediata debe resultar determinante para admisión o rechazo de lo que se pretende en la
+   acción.
+
+   Por ende, quedará en manos de quién recurre la tarea de efectuar una demostración cabal
+   de que existe una relación entre la materia del proceso y la cuestión federal que se invoca.
+
+
+
+REQUISITOS FORMALES
+
+
+
+   Introducción de la cuestión federal
+
+   El requisito de introducir la cuestión federal está ligado a la posibilidad que éste brinda a
+   los jueces de expedirse sobre la cuestión federal que se debate.
+
+   En la praxis cotidiana existen errores muy comunes respecto al momento en el cual resulta
+   oportuno el planteo, por lo general se puede observar a los litigantes hacer una “reserva”
+   del caso federal, lo cierto es que la cuestión federal deberá ser introducida cuando se trata
+   de una cuestión federal “clásica”- en la primer oportunidad que brinde el trámite procesal.
+   Si bien es cierto que el planteo de la cuestión no requiere formulas sacramentales,
+   también puede prestarse a confusión el hecho de que la corte ha utilizado los términos
+   planteo o reserva de modo análogo. A fin de no incurrir en un casuismo inútil, lo que
+   deberá tomar en cuenta quien introduce la cuestión federal es plantearle de modo
+   concreto, explicando en que consiste y demostrando de modo cabal cuál es su relación con
+   el objeto del pleito, para que una vez analizados estos dos elementos el tribunal se expida.
+
+   Por lo general la oportunidad para introducirla, es junto con las demás peticiones, por lo
+   cual quién acciona lo hará al momento de demandar y quién resulta demandado, al
+   momento de la contestación. Excepcionalmente podría ocurrir que la cuestión federal
+   sobreviniera en el proceso, en tal caso deberá plantearse en la primera oportunidad que
+   brinde el proceso para hacerlo . Lo que habitualmente ocurre en casos de sentencia
+   arbitraria.
+
+[[PDF p. 12]]
+       Mantenimiento de la cuestión federal
+
+       Habiendo formulado las precisiones respecto de cuando es oportuno introducir la cuestión
+       federa, es necesario establecer que la misma – de acuerdo con lo que ha dicho la corte-
+       debe mantenerse en todas las instancias, “en todas las oportunidades posibles luego del
+       planteo”24.
+
+       De modo tal que no bastará el solo planteo oportuno de la cuestión federal, sino que esta
+       debe mantenerse en todas las instancias durante el curso del proceso, una postura
+       contraria se ha interpretado como un desistimiento de ella o una suerte de
+       consentimiento tácito a la decisión adversa a aquello que ha sido planteado. Es por ello
+       que la Corte ha dicho “que se ha hecho abandono de la cuestión federal, si en el escrito de
+       contestación de agravios se guarda silencio sobre el planteo del caso federal formulado
+       con anterioridad, ya que la posibilidad de que la cámara acogiera los agravios de la
+       contraparte constituía un evento previsible, que obligaba a mantener el planteo” CITA.
+
+
+
+       AUTONOMÍA DEL RECURSO
+
+El escrito mediante el cual se interpone el recurso extraordinario debe cumplimentar una serie
+de recaudos para ser admitido, a saber: debe ser interpuesto por escrito ante el juez que dictó
+la sentencia que motiva su interposición, en un plazo de diez días contados desde la
+notificación. El plazo de presentación es de carácter perentorio y no se suspende ni se
+interrumpe por la deducción de otros recursos que fueran declarados inadmisibles.
+
+       Debe además ser autónomo, es decir que debe bastarse a sí mismo – quien lo interpone
+       debe evitar fútiles remisiones a escritos que hubiera presentado en otras etapas del
+       proceso- tres pautas son la base granítica del requisito de autonomía de este escrito de
+       apelación:
+
+       a) Debe contener un relato de los hechos relevantes de la causa.
+       b) De efectuar mención precisa de las cuestiones federales en debate y de la vinculación
+          de estas con el resultado de la causa.
+       c) Debe efectuar una crítica concreta y razonada de todos los argumentos utilizados en la
+          sentencia cuestionada.
+
+       La interposición del recurso debe hacerse de manera incondicionada, puesto que de
+       hacerse de otro modo (condicional o subsidiaria en relación al resultado de otro recurso)
+       resultaría rechazada in limine.
+
+       Por último se deberán cumplimentar requisitos de índole procesal: justificar personería,
+       existencia de interés jurídico concreto en el mismo; oportuna introducción de la cuestión
+       federal; mantenimiento de la misma en todas las instancias; cumplimiento de los plazos.
+
+
+
+
+24
+     Fallos 294:380
+
+[[PDF p. 13]]
+Acordada 4/2007
+
+En febrero de 2007, la CSJN dictó la acordada 4 aumentando el monto del depósito en la queja
+y estableciendo algunas rigurosas exigencias respecto de la presentación de los REF y sus
+quejas. Lo que la corte hizo en esta acordada no es más que una compilación y sistematización
+de las normas que rigen la intervención del máximo tribunal por vía recursiva. La novedad
+aparece en las pautas que delimitan la extensión del recurso ya sea su extensión en páginas
+(40 para el REF y 10 para su queja), en renglones (Hasta 26 renglones por hoja) y el tamaño de
+la fuente utilizada (no inferior a 12) y a todo ello se suma una caratula que acompaña el
+recurso sintetizando los aspectos relevantes (Decisión recurrida, tribunal interviniente, órgano
+del que emana la decisión recurrida, etc.). Lo cierto es que a pesar de los requisitos puedan
+resultar algo “rigoristas” el criterio que ha primado ha sido la flexibilidad de los requisitos, por
+ejemplo en el caso “Pavón” (Fallos….) la Corte concluyó que el tamaño de la fuente no era un
+obstáculo insalvable, mientras el escrito fuera legible.
+
+Certiorari negativo
+
+Con la sanción de la ley 23.774 se produjeron 2 cambias de gran relevancia institucional: por
+un lado el menemismo logro materializar el “courtpacking” con el que llevo el número de
+jueces de 5 a 9 y por otra parte modifico los arts 280 y 285 del código de procedimientos
+civiles de la nación, incorporando el “Certiorari negativo” o “requisito de trascendencia”. La
+norma (art. 280 CPCCN) establece en cabeza de la CSJN la potestad discrecional de rechazar un
+recurso extraordinario, mediante su sola invocación.
+
+
+
+Interposición del REF y procedimiento ulterior
+
+Una vez que nos encontremos con la “sentencia definitiva”, dictada por el "superior tribunal
+de la causa" la parte podrá incoar ante ese mismo tribunal y en un plazo de diez días el REF, el
+cual deberá ser sólidamente fundado,y bastarse a sí mismo, de tal modo que de su simple
+lectura surjan los datos suficientes para resolverlo25.
+
+La mera interposición del recurso suspenderá los efectos del decisorio impugnado. El art. 257
+CPCCN prevé un traslado por diez días. Contestado el traslado o vencido este plazo, el órgano
+del que emanó la decisión cuestionada deberá decidir si concede o rechaza el recurso. En caso
+de estar por la afirmativa, se remite lo actuado a la CSJN.
+
+Otro Un posible curso de acción es que la corte desestime el recurso extraordinario mediante
+la invocación del art. 280 CPCCN, lo cual podrá hacer en caso de falta de agravio federal, o
+cuando las cuestiones planteadas resultaren insustanciales o carentes de trascendencia. Esta
+alternativa resulta algo difícil de defender, sobretodo sin consideramos que la Corte puede
+decidir no resolver un recurso por las causales que mencionáramos y decidir resolver otro, con
+un nivel de discrecionalidad tal, que la construcción de pautas que permitan predecir los
+resultados es casi imposible. Es esta dinámica la que ha permitido que un instrumento
+
+
+
+32(Fallos307:885, y Fallos, 310:1465)
+
+[[PDF p. 14]]
+destinado a disminuir el abultado caudal de trabajo del tribunal devenga en un artilugio cuanto
+menos cuestionable execrable26.
+
+Una vez precluída esta etapa, el tribunal deberá dictar sentencia.Si rechazare por inadmisible o
+improcedente el recurso extraordinario, adquirirá firmeza el decisorio cuestionado. En el caso
+de que el máximo tribunal se pronuncie por la revocatoria, la Corte tendrá la posibilidad de
+decidir sobre el fondo del asunto o remitirlo al tribunal que dictó la sentencia revocada, de
+acuerdo a las pautas del fallo dictado por la Corte (lo que se conoce como reenvío).
+
+En el caso que el superior tribunal de la causa no concediera el recurso extraordinario, el
+interesado puede ir a la Corte mediante recurso de queja, cuya única finalidad es cuestionar el
+rechazo de este remedio y abrir la instancia. Para ello, se contempla un plazo de cinco días,
+con uno más por cada cien kilómetros (de la sede de la CSJN). Todo ello deberá ser
+acompañado por un deposito a la orden de la Corte.27 En la eventualidad de rechazarlo, la
+sentencia recurrida adquirirá firmeza y en caso de admitirlo, se pronunciará dentro de las
+alternativas que mencionáramos.
+
+
+
+
+26
+     Véase en este tomo el artículo de Diego Hammerschlag.
+27
+     El monto ha sido fijado en Quince mil pesos, de acuerdo a la acordada 27 de 2014.-

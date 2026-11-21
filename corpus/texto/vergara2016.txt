@@ -1,0 +1,1040 @@
+# fuente: Unidad13/Vergara_Viola_2016_Competencia Federal.pdf
+# md5_original: 2430ce3c62db67d59a26f33e50717d4e
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+                                                                                                   Borrador sujeto a revisión
+
+
+
+
+                    COMPETENCIA FEDERAL
+                    Por Sergio Vergara y Melissa Viola
+                    I-        ORIGEN DE LA COMPETENCIA FEDERAL
+               En Argentina, la coexistencia de una justicia denominada ordinaria y una
+Justicia Federal obedece a cuestiones históricas que tienen origen en la formación de
+nuestro país. Los cambios iniciados por la Revolución de Mayo tuvieron como consecuencia
+el surgimiento de identidades locales muy marcadas que influyeron notablemente en la
+conformación de las autonomías provinciales. Las provincias se caracterizaban por poseer
+fuertes sentimientos de autonomía e independencia, sentimientos que, de alguna manera,
+impidieron que Argentina contara con una Constitución Nacional hasta 1853. Sin embargo,
+paradójicamente, en todo momento las provincias mantuvieron la voluntad de unificarse
+para formar una entidad común superior. El objetivo era crear una unión que permitiera el
+desarrollo del país como un todo, sin por ello avasallar las identidades propias de las partes
+que lo conformaban1. De esta manera, durante el proceso constituyente las provincias
+acordaron delegar ciertas competencias al Gobierno federal, lo que finalmente permitió la
+formación del Estado Nación. Así, las provincias fueron (y aún continúan siendo) los sujetos
+primarios del ordenamiento jurídico argentino, ya que eran éstas las que poseían todas las
+facultades que no fueran expresamente delegadas al Gobierno federal. En la Constitución
+Nacional de 1853-1860 esto quedó plasmado en el artículo 104 (actual artículo 121) en el
+que se establece: “Las provincias conservan todo el poder no delegado por esta
+Constitución al Gobierno federal, y el que expresamente se hayan reservado por pactos
+especiales al tiempo de su incorporación”.
+               Las fuentes que inspiraron el texto de la Constitución Nacional de 1853-1860
+fueron varias, pero es innegable la influencia que tuvo en materia federal la Constitución de
+los Estados Unidos del año 1787. Su objetivo, imitado luego por la Constitución Argentina,
+fue establecer un Poder Judicial federal que garantizara la supremacía de la Constitución y
+de las leyes federales2. En este contexto, el derecho federal surgió con el objetivo de regular
+la organización del Gobierno federal y sus facultades, lo cual, lógicamente, debería tener
+supremacía por sobre las autonomías provinciales. En consonancia con el texto
+estadounidense, en la Constitución argentina de 1853-1860 se plasmaron dos órdenes
+jurisdiccionales: el federal, aplicable a determinados casos expresamente determinados por
+la Constitución y las normas dictadas en consecuencia; y el provincial, que deriva de los
+preceptos contenidos en los actuales artículos 5 y 121 de la Constitución Nacional.
+                La competencia federal surgió como la vía judicial por la cual se tratarían
+aquellas causas en las que fuera aplicable la legislación federal, siempre que existiera
+interés federal o nacional, o en las situaciones en las que la calidad personal de los litigantes
+así lo habilitara. Así, se observa que la competencia federal siempre ha tenido un carácter
+restrictivo, ya que por su naturaleza versa sobre cuestiones determinadas que responden
+
+1 Una prueba de esto es que Buenos Aires, al incorporarse a la Confederación Argentina, en la reforma constitucional de
+
+1860 propugnó por la exclusión de la Justicia Federal de aquellos conflictos entre diferentes poderes públicos de una misma
+provincia a los fines de acentuar su autonomía provincial. (Gelli, María Angélica, Constitución de la Nación Argentina
+comentada y concordada, 4ª ed. 1ª reimp., La Ley, Buenos Aires, 2008, T. II, p. 529. Sagüés, Néstor P., “Las razones del
+Derecho federal” en Palacio de Caeiro, Silvia B. (Dir.), Tratado de derecho federal y leyes especiales, 1ª ed., La Ley, Buenos
+Aires, 2013, p. 14.).
+2 García Mansilla, Manuel J. y Ramírez Calvo, Ricardo, Las fuentes de la Constitución Nacional. Los principios
+
+fundamentales del derecho público argentino, 1ª ed., Lexis Nexis, Buenos Aires, Argentina, 2006, p. 19.
+
+
+
+
+                                                              1
+
+[[PDF p. 2]]
+                                                                                                Borrador sujeto a revisión
+
+
+
+
+a los intereses delegados por las provincias. La regla es que las cuestiones sean dirimidas
+por la justicia ordinaria, la Justicia Federal es la excepción.
+              Las materias que habilitan el fuero federal son aquellas que versan sobre
+puntos regidos por la Constitución, por las leyes del Congreso o tratados celebrados con
+naciones extranjeras, y son privativas de la jurisdicción de los tribunales federales. Esto le
+otorga a la competencia federal un carácter inalterable, restrictivo y exclusivo. En el año
+1884 la Corte Suprema de Justicia de la Nación dijo: “Los jueces de provincia no pueden
+conocer de ellas, so pretexto de ser también intérpretes de la constitución [y de las] leyes
+del congreso (sic). Interpretan y aplican estas leyes, como leyes supremas de la nación, en
+las causas cuyo conocimiento les corresponde (...), no pudiendo, por consiguiente,
+deducirse de aquí que tengan jurisdicción concurrentes con los tribunales nacionales”3.
+                No obstante, pese a que la Justicia Federal tiene carácter exclusivo y
+restrictivo, siempre se ha entendido que los tribunales federales pueden (y deben)
+interpretar y aplicar el derecho común. La Corte Suprema de Justicia de la Nación en el año
+1906 dicta el fallo “Empresa de Transportes Unidos c/ El Ferrocarril Gran Oeste Argentino
+y otros”4, en el cual dice que “[c]orresponde al fuero federal el conocimiento de una causa
+que trata en primer término de la interpretación y aplicación de la ley de ferrocarriles
+nacionales número 2873 y sólo, subsidiariamente, de las disposiciones del derecho común
+invocadas en la demanda”. De esta manera, mediante una interpretación contrario sensu
+del criterio de la Corte, entendemos que las cuestiones federales deben tener un papel
+central en los hechos para que la causa sea sometida al fuero federal. Este es el criterio
+que, con algunas variaciones, ha sostenido la Corte Suprema de Justicia de la Nación a lo
+largo del tiempo para determinar cuándo una causa caerá bajo la competencia ordinaria y
+cuándo bajo la federal.
+
+
+           II-   COMPETENCIA FEDERAL. FINALIDAD. CARACTERES DE LA
+JUSTICIA FEDERAL
+
+                    A)       Jurisdicción y competencia. Competencia federal y competencia
+provincial
+                 Antes de abocarnos al análisis de la competencia federal, establecida por la
+Constitución Nacional y leyes reglamentarias, y referirnos a las características, alcances y
+finalidad de la Justicia Federal, resulta importante discernir entre las nociones de
+jurisdicción y competencia. En más de una oportunidad, tales conceptos han sido utilizados
+para referirse a ideas similares. El término jurisdicción tiene su origen en el latín “jurisdictio”
+que significa la acción de ‘decir o declarar el derecho’. En su sentido más amplio, el
+concepto de jurisdicción se refiere a los tres poderes del Estado: el legislativo, el ejecutivo
+y el judicial5; nuestro análisis se limitará a este último caso: la jurisdicción del poder judicial.
+
+
+
+3 Fallos 27:449.
+4 Fallos 103:331.
+5 En sentido divergente, Clariá Olmedo, Jorge A., Derecho procesal, Depalma, Buenos Aires, 1982, T. I, p. 188,189 y 197,
+
+citado por Gómez, Claudio Daniel, Competencia Federal, Mediterránea, Córdoba, 2003, p. 11, nota al pie 4. “La jurisdicción
+es una manifestación de la soberanía radicada en el pueblo y ejercida por medio de sus representantes, que son los jueces.
+La jurisdicción es ejercida por los jueces, y nada más que por los jueces. No puede sostenerse que se ejercita función
+jurisdiccional cuando es el mismo Estado administrador quien resuelve un requerimiento de un particular, o atiende un
+
+
+
+
+                                                            2
+
+[[PDF p. 3]]
+                                                                                                    Borrador sujeto a revisión
+
+
+
+
+                Se sostiene que la jurisdicción es una función pública, ejercida por el Poder
+Judicial, que tiene a cargo declarar el derecho de las partes en un caso concreto, y debe
+hacerlo observar mediante su decisión con autoridad de cosa juzgada, factible de
+ejecución6. La jurisdicción es “(…) la potestad de conocer en las cuestiones que se susciten
+entre los individuos y la facultad de resolverlas con arreglo a las leyes (…)”7. En otras
+palabras, la jurisdicción judicial es la función ejercida por el Poder Judicial, consistente en
+aplicar el derecho en un caso concreto y hacerlo ejecutar.
+               La competencia, en cambio, es “(…) el fragmento de jurisdicción atribuido a
+un juez. La relación entre la jurisdicción y la competencia es la relación que existe entre el
+todo y la parte. La jurisdicción es el todo; la competencia es la parte, un fragmento de la
+jurisdicción. En todo aquello que no le ha sido atribuido, un juez, aunque sigue teniendo
+jurisdicción es incompetente (…). [U]n juez competente es, al mismo tiempo, juez con
+jurisdicción; pero un juez incompetente es un juez con jurisdicción y sin competencia”8.
+Palacio, por su parte, define a la competencia como “(…) la capacidad o aptitud que la ley
+reconoce a cada órgano o conjunto de órganos judiciales para ejercer sus funciones con
+respecto a una determinada categoría de asuntos o durante una determinada etapa del
+proceso”9.
+              En otros términos, todo juez o tribunal tiene jurisdicción para aplicar el
+derecho vigente a un caso concreto, pero debe hacerlo en la medida de la competencia que
+le haya sido reconocida por la normativa aplicable en razón de la materia, territorio,
+personas, etc.10
+                Ahora bien, cabe destacar que en la Argentina coexisten dos jurisdicciones
+judiciales, la federal y la provincial, reflejo de dos órdenes de gobierno que también
+coexisten, en razón de la delegación de funciones que realizaron las provincias a favor de
+la Nación, a partir del dictado de la Constitución de 1853, y plasmado en el actual artículo
+12111. Clodomiro Zavalía explicaba: “En cada pulgada de territorio de las provincias (…)
+existen dos jurisdicciones judiciales, dos órdenes de jueces con atribuciones de tal manera
+definidas y precisas que, teóricamente, no es posible que choquen”12. La jurisdicción federal
+es ejercida por los jueces federales en nombre de la Nación y de conformidad con las
+facultades acordadas por la Constitución Nacional y las leyes reglamentarias. La
+jurisdicción provincial, de su lado, es ejercida por los jueces provinciales, cuyas facultades
+emanan de las leyes locales. La Corte Suprema ha establecido la coexistencia de “la
+competencia federal que deriva de nuestra organización como Estado federal, con dos
+órdenes de gobiernos distintos y, por ende, con dos poderes judiciales diversos: el nacional,
+que ejerce la jurisdicción en todo el territorio del país, y el Poder Judicial provincial, que la
+
+diferendo que tiene con éste, mediante su propia organización (inter partes) para la protección de los intereses
+programáticos de la colectividad”.
+6 Gómez, Claudio Daniel, Competencia…, obra citada, p. 11.
+7 Gronda, Jorge M., Jurisdicción Federal, Jurisprudencia Argentina, Buenos Aires, p. 17, citado por Palacio de Caeiro,
+
+Silvia B., “La competencia federal”, en Palacio de Caeiro, Silvia B. (dir.), Competencia Federal, La Ley, 1ª ed., Buenos
+Aires, 2012, p. 55.
+8 Gómez, Claudio Daniel, Competencia…, obra citada, p. 11.
+
+9 Palacio, Lino E., Derecho Procesal Civil, Abeledo Perrot, Buenos Aires, 1976, T. I, p. 366 y 463.
+10 De esta forma, el vocablo “jurisdicción federal” se emplea correctamente cuando significa el conjunto de las atribuciones
+
+que ejercen los jueces federales. En cambio, resulta incorrecto si fuera utilizado para distinguir entre las distintas secciones
+judiciales en las que está dividida la justicia federal.
+11 Art. 121: “Las provincias conservan todo el poder no delegad por esta Constitución al Gobierno federal, y el que
+
+expresamente se hayan reservado por pactos especiales al tiempo de su incorporación”.
+12 Zavalía, Clodomiro, Derecho Federal, Librería y Casa Editora de Jesús Menéndez, Buenos Aires, 1921, p.10.
+
+
+
+
+                                                               3
+
+[[PDF p. 4]]
+                                                                           Borrador sujeto a revisión
+
+
+
+
+ejerce en el ámbito de los límites de cada provincia; cada uno de ellos, con competencia
+determinada en razón de la materia, de las personas, de las cosas y del territorio”13.
+             B)   Competencia federal de primera instancia y en grado de
+apelación. Competencia originaria de la Corte Suprema de Justicia de la Nación
+               El artículo 116 de la Constitución Nacional establece la competencia de la
+Justicia Federal, enunciando los casos en los que los jueces de primera instancia y la Corte
+Suprema deben entender. El mencionado artículo dispone: “Corresponde a la Corte
+Suprema y a los tribunales inferiores de la Nación, el conocimiento y decisión de todas las
+causas que versen sobre puntos regidos por la Constitución, y por las leyes de la Nación,
+con la reserva hecha en el inc. 12 del artículo 75; y por los tratados con las naciones
+extranjeras; de las causas concernientes a embajadores, ministros públicos y cónsules
+extranjeros; de las causas de almirantazgo y jurisdicción marítima; de los asuntos en que
+la Nación sea parte; de las causas que se susciten entre dos o más provincias; entre una
+provincia y los vecinos de otra; entre los vecinos de diferentes provincias; y entre una
+provincia o sus vecinos, contra un Estado o ciudadano extranjero”.
+               De la lectura del artículo transcripto se infiere la atribución de la competencia
+federal en razón de dos parámetros diferentes: la materia y las personas. Tal atribución, en
+palabras de la Corte Suprema, responde a diferentes razones, según sea el caso y tal como
+analizaremos a su turno.
+               No debe soslayarse que la determinación de la competencia federal en razón
+de la materia justifica la tarea de mayor relevancia a cargo de los jueces federales: aplicar
+la ley suprema de la Nación en los términos del artículo 31 de la Constitución Nacional –la
+propia Constitución, las leyes del Congreso y los tratados con potencias extranjeras– y velar
+por su celoso cumplimiento, desestimando las pretensiones que impliquen conculcarla y
+declarando la inconstitucionalidad de toda norma local que se le oponga –así como de toda
+ley del Congreso Nacional que se oponga a la Constitución o a los tratados–. La Corte
+Suprema ha sostenido inveteradamente que “(…) es función específica de la Justicia
+Federal prestar resguardo y tutela a las instituciones nacionales y juzgar de la validez de
+los actos de los funcionarios nacionales en provincia”14. Cabe preguntarse cómo podría el
+Gobierno federal ejercer sus atribuciones y preservar la soberanía nacional sin la actuación
+de una Justicia de igual orden que aplique la ley suprema de la Nación.
+               De más está decir que esta relevante función atribuida a la Justicia Federal,
+no conlleva la destrucción de las Constituciones y autonomías provinciales; por el contrario,
+la actuación de la Justicia Federal debe resguardar la coexistencia armoniosa entre los
+órdenes nacionales, provinciales y municipales y fulminar cualquier intento por parte de un
+orden de gobierno de ejercer sus facultades en detrimento de los restantes. La Nación
+adoptó la forma federal de gobierno y ello implica, sí, la preservación de la soberanía
+nacional, pero también de las autonomías locales. Cabe recordar las palabras de Clodomiro
+Zavalía: “(…) Teniendo propósitos distintos y poderes diferentes, lógicamente, la Nación y
+las provincias deben tener jurisdicciones separadas. El régimen federal –ha dicho en una
+ocasión la Corte– tiene la particularidad de permitir la acción simultánea de dos gobiernos,
+uno nacional y otro provincial, sobre los mismos individuos, dentro del mismo territorio,
+aunque en esferas bien distintas, según su competencia respectiva”15. Lo que se señala es
+
+13 Fallos 57:337.
+14 Fallos 319:1155.
+15 Zavalía, Clodomiro, Derecho…, obra citada, p. 119.
+
+
+
+
+                                                        4
+
+[[PDF p. 5]]
+                                                                                                  Borrador sujeto a revisión
+
+
+
+
+que el ejercicio de la competencia federal –con su nota de supremacía, tal como
+analizaremos a su turno– no debe interferir en las cuestiones que hacen a la esfera del
+orden provincial.
+               Prosiguiendo con el análisis de la regulación constitucional de la
+competencia federal, el artículo 117 de la Constitución Nacional establece: “En estos casos
+la Corte Suprema ejercerá su jurisdicción por apelación según las reglas y excepciones que
+prescriba el Congreso; pero en todos los asuntos concernientes a embajadores, ministros
+y cónsules extranjeros, y en todos los que alguna provincia fuese parte, la ejercerá originaria
+y exclusivamente”. Se infiere con claridad que la norma establece la actuación de la Corte
+Suprema en grado de apelación y en competencia originaria y exclusiva.
+                Con relación al primer supuesto, destacamos que la actuación de la Corte
+Suprema es mucho más reducida de lo que parece sugerir la norma. Así, en la actualidad,
+el Alto Tribunal sólo ejerce la competencia federal en grado de apelación a través del
+recurso extraordinario federal, en virtud del cual resuelve exclusivamente cuestiones
+constitucionales y federales. Desde que se dictó la Ley N.° 4055 en el año 1902, la Corte
+Suprema no actúa como alzada de los juzgados federales de primera instancia, sino que lo
+hacen las Cámara Federales con asiento en la Ciudad Autónoma de Buenos Aires y en las
+provincias (cfr. artículo 16 de la mencionada ley).
+                Asimismo, corresponde considerar que, hasta el año 2015 y por aplicación
+del Decreto Ley N.° 1285/58 (cfr. Artículo 24, inciso 6), la Corte Suprema entendía también
+en los recursos ordinarios interpuestos contra las sentencias de las Cámaras Federales de
+Apelación, cuando la Nación era parte de la controversia y el valor disputado era superior
+a cierto monto (desde 2014, $10.890.000, cfr. Acordada 28/2014). No obstante, mediante
+sentencia del 20 de agosto de 2015 in re “Anadon, Tomás Salvador c. Comisión Nacional
+de Comunicaciones s. Despido”, el Máximo Tribunal declaró la inconstitucionalidad del
+artículo 24, inciso 6) del Decreto Ley 1285/58 y aclaró que, en adelante, sólo entendería en
+los recursos ordinarios que fuesen interpuestos por las partes contra sentencias que
+hubiesen sido notificadas antes de que el fallo “Anadon” quedase firme. En otras palabras,
+en el corto plazo, la Corte Suprema dejará de ejercer en grado de apelación por
+interposición del recurso ordinario16.
+                Si a lo expuesto sumamos que, conforme al artículo 280 del Código Procesal
+Civil y Comercial de la Nación, la Corte Suprema puede rechazar el recurso extraordinario
+previsto por la Ley N.° 48, sin invocar fundamentos y según su sana discreción, cuando
+verifique la falta de agravio federal suficiente o cuando las cuestiones planteadas sean
+
+
+
+16 Entre los argumentos que subyacen a la declaración de inconstitucionalidad de la norma que prevé el recurso ordinario,
+
+creemos que resultan centrales a efectos de nuestro trabajo: 1) La Corte Suprema debe fallar todos los asuntos en que pueda
+estar comprometido algún principio constitucional, sin que estas cuestiones se midan por la cantidad de dinero que puedan
+importar, porque un caso en el que esté en juego una suma muy elevada puede depender de una norma de derecho común,
+mientras que una cuestión de unos pocos centavos puede afectar todo el sistema de la propiedad y quizás todo el sistema
+constitucional, por lo que el recurso ordinario de apelación, que considera el requisito económico, se apoya en un criterio
+que no tiene hoy cabida dentro del rol constitucional del Tribunal. 2) La discriminación entre los procesos judiciales según
+que la Nación sea o no parte no se adecúa al rol constitucional que guía la competencia de la Corte ya que la apelación del
+art. 24, inc. 6°, ap. a) del decreto-ley 1285/58, si bien comprende la potestad recursiva de ambas partes, únicamente tiene
+un miras la protección de recursos del Estado y esta relevante finalidad tuitiva de éste tiene adecuada protección ante otras
+instancias -incluso mediante el recurso extraordinario- y no se condice con el rol constitucional que el Tribunal tiene
+asignado.
+
+
+
+
+                                                             5
+
+[[PDF p. 6]]
+                                                                                                 Borrador sujeto a revisión
+
+
+
+
+insustanciales o intrascendentes, podemos comprobar que la competencia del Alto Tribunal
+en grado de apelación es más restringida que lo que sugiere el artículo 117.
+              Además de la hoy reducida competencia en grado de apelación, la Corte
+Suprema ejerce, en los casos previstos por el artículo 117 de la Constitución Nacional,
+competencia originaria y exclusiva. Si bien el análisis de la competencia originaria de la
+Corte Suprema excede el marco del presente trabajo, diremos que es ejercida en las causas
+en las que una provincia es parte y en las causas que conciernen a embajadores, ministros
+públicos y cónsules extranjeros.
+              La competencia exclusiva y originaria del Alto Tribunal en razón de las
+personas se configura frente a la existencia de una controversia entre dos provincias17,
+cuando dos partes suscitan la jurisdicción federal (v. gr. Provincia contra Estado Nacional,
+Provincia contra Estados extranjeros, etc.), o cuando, siendo parte una Provincia y una
+persona que no suscita la jurisdicción federal, la materia involucrada en el pleito es
+predominantemente federal.
+               Con respecto al caso de embajadores, ministros y cónsules el fundamento
+de la intervención de la Corte Suprema en competencia originaria debe encontrarse en “las
+altas razones institucionales que determinaron su consagración constitucional, y que en el
+caso responde a la necesidad de preservar el respeto y la mutua consideración con las
+potencias extranjeras, otorgando a sus representantes diplomáticos una jurisdicción que les
+permita el cumplimiento más eficaz de sus funciones (…)”18.
+
+                   C)        Caracteres concernientes a la                       jurisdicción y competencia
+federales
+               Existe copiosa doctrina y jurisprudencia del Alto Tribunal que ha enumerado
+y tratado los caracteres propios de la jurisdicción y competencia federales, sin resultar
+coincidentes las opiniones respecto de incluir unos y excluir otros. En el presente trabajo
+nos referiremos a aquellos caracteres sin cuya comprensión no pueden concebirse
+acabadamente los alcances y funciones de la Justicia Federal.
+               En primer lugar, la jurisdicción federal es suprema. Clodomiro Zavalía
+afirmaba que, si bien el radio de acción de la Justicia Federal es limitado, “(…) allí donde
+actúa, producido el conflicto, deben primar las leyes de la Nación y las resoluciones de las
+autoridades que obren en su nombre, hasta tanto, naturalmente, que (sic) la Corte suprema,
+con el caso concreto por delante, dirima el conflicto (…). Nunca se insistirá demasiado en
+el concepto de que la jurisdicción federal es limitada y de excepción. Sólo penetrándolo es
+posible comprender la verdadera función que tiene asignado el ‘Poder judicial de la Nación’
+en el sistema institucional que nos rige. Únicamente es de su incumbencia lo que está
+escrito en la Constitución; pero en lo que le incumbe es supremo”19 (el resaltado es
+propio).
+
+
+
+17 La necesidad de la intervención de la Corte Suprema surgiría del artículo 127 de la Constitución Nacional en cuanto
+
+establece: “Ninguna provincia puede declarar, ni hacer la guerra a otra provincia. Sus quejas deben ser sometidas a la
+Corte Suprema de Justicia y dirimidas por ella. Sus hostilidades de hecho son actos de guerra civil, calificados de sedición
+o asonada, que el Gobierno federal debe sofocar y reprimir conforme a la ley.”
+18 Fallos 334:1640.
+19 Zavalía, Clodomiro, Derecho…, obra citada, p.11 y ss.
+
+
+
+
+                                                             6
+
+[[PDF p. 7]]
+                                                                                                   Borrador sujeto a revisión
+
+
+
+
+               En sentido similar, se ha sostenido más recientemente que “en donde se
+observa con mayor claridad la mencionada supremacía de la jurisdicción federal, es en las
+relaciones entre la Justicia Federal y las autoridades locales judiciales o administrativas. En
+caso de conflictos priman las decisiones de aquélla, ya que no existen allí conflictos de
+poderes sino de leyes sancionadas por distintos poderes, dentro del límite de sus facultades
+constitucionales y como en tal caso la interpretación de estas leyes corresponde a la Justicia
+Federal, se deduce que sus resoluciones son supremas, y las autoridades provinciales
+están obligadas a conformarse a ellas”20. La supremacía de la jurisdicción federal puede
+verse reflejada en aquellos casos en los que jueces federales ordenan el dictado de
+medidas cautelares de no innovar, imponiendo a órganos provinciales o municipales
+abstenerse de realizar una conducta determinada, en general, iniciar juicios de ejecución
+de obligaciones tributarias21.
+
+
+                En segundo lugar, la competencia federal prevista por la Constitución es de
+excepción y la enumeración de los casos en los que se suscita es taxativa. Así como los
+Gobiernos provinciales conservaron todos aquellos poderes que no fueron delegados a la
+Nación y esta ejerce solo aquellos que le fueron expresamente delegados por las
+Provincias, los artículos 116 y 117 marcan la delegación que las provincias han efectuado
+a favor de la jurisdicción provincial. En razón de ello, en todos aquellos casos no enunciados
+por los artículos mencionados, resulta competente la justicia local. La Corte Suprema ha
+sostenido que “(…) el fuero federal con asiento en provincias tiene carácter de excepción,
+vale decir, se halla circunscripto a las causas que expresamente le atribuyen las leyes que
+fijan su competencia, cuya interpretación debe ser de carácter restrictivo (…). Debe ser
+subrayado que dicha regla no es sino una aplicación de la tradicional doctrina (…) con
+arreglo a la cual sostener que la justicia nacional tiene que rever los actos de las autoridades
+de provincia contraría y destruye el sistema de gobierno establecido por la Constitución,
+pues los jueces nacionales no constituyen autoridades superiores con respecto a los actos
+de los gobiernos provinciales, sino que sólo tienen jurisdicción cuando las garantías
+constitucionales son violadas por o contra una autoridad nacional (sic)”22. Por lo expuesto,
+en cada controversia que se somete a conocimiento de la Justicia Federal, la parte debe
+acreditar las razones en virtud de las cuales debe intervenir ella y no la Justicia local.
+                Sin perjuicio de ello, el mero hecho de que la enunciación de la Constitución
+resulte taxativa no obsta a que cada vez se sometan más casos a la decisión de la Justicia
+Federal. Tal fenómeno responde a dos razones obvias: la primera, el dictado constante de
+nuevas leyes federales por parte del Congreso, que se suman a las ya existentes y vigentes;
+la segunda, el ascendente número de leyes y decretos provinciales y municipales que,
+
+
+20 Gómez, Claudio Daniel, Competencia…, obra citada, p. 38 y 39.
+21 A lo largo del año 2015 la Corte Suprema ha dictado una serie de medidas cautelares en casos en los que ciertos
+
+contribuyentes impugnaron pretensiones tributarias provinciales por vulnerar las previsiones del artículo 75, inciso 13, de
+la Constitución Nacional. Tales medidas han consistido en indicar a la provincia respectiva que deberá abstenerse de
+reclamar diferencias de impuestos administrativa o judicialmente (Cfr. Expte. CSJ 3750/2014 “Telecom Argentina S. A. c.
+Santa Fe, Provincia de, s. Acción declarativa de certeza”, 1/9/2015, entre otros precedentes). A nuestro criterio, al ordenar
+estas medidas, la Corte Suprema evidencia la supremacía de la jurisdicción federal, pues en aquéllos casos en los que
+consideró que, prima facie, se vulneraban normas constitucionales, dio orden directa a órganos provinciales, consistente en
+no permitir el inicio de acciones. Asimismo, si el órgano pertinente hiciera caso omiso de esa orden e iniciase un juicio de
+ejecución, el beneficiario de la medida cautelar podría oponerla y el juez local no estaría habilitado a dar curso a la acción.
+22 Fallos 327:3515.
+
+
+
+
+                                                              7
+
+[[PDF p. 8]]
+                                                                           Borrador sujeto a revisión
+
+
+
+
+prima facie, conculcan las previsiones de leyes nacionales y de la propia Constitución
+Nacional23, suscitando de esta forma la competencia de excepción.
+               En tercer lugar, cuando la competencia federal se suscita en razón de la
+materia, es improrrogable, privativa y excluyente de los tribunales provinciales. El silencio
+o consentimiento de las partes resultan inhábiles para derogar esos principios24. De tal
+forma, la incompetencia de la Justicia Provincial puede promoverse en cualquier estado del
+proceso25. A nuestro criterio, estos caracteres son la contrapartida lógica de los
+mencionados en el párrafo anterior. Así como la Justicia Federal no debe intervenir en la
+resolución de casos en los que se ventilen cuestiones locales, menos aún la Justicia
+Provincial debe intervenir en casos en los que se hayan puesto en controversia cuestiones
+federales. La improrrogabilidad de la competencia federal cede cuando se suscita en razón
+de la persona y siempre que concurrentemente no se suscite en razón de la materia26.
+                En cuarto y último lugar, la habilitación de la jurisdicción federal requiere la
+existencia de un caso concreto. En tal sentido, el juez federal sólo puede expedirse en
+casos particulares referidos a cuestiones concretas y no sobre principios generales, ni por
+vía de medida general27. Como corolario de ello, la Justicia Federal no procede de oficio y
+sólo ejerce jurisdicción en los casos contenciosos en que es requerida a instancia de parte.
+Resulta ilustrativo el voto del Dr. Santiago Petracchi en Fallos 310:2648. Allí afirma que
+“(…) el Poder Judicial de la Nación conferido a la Corte Suprema de Justicia y a los
+tribunales nacionales (…) se define (…) como el que se ejercita en las causas de carácter
+contencioso a las que se refiere el art. 2° de la ley 27. Tales causas son aquellas en las que
+se persigue en concreto la determinación de derechos debatidos entre partes adversas,
+cuya titularidad alegan quienes lo demandan (…) Al respecto, cabe observar que la
+atribución de declarar la invalidez constitucional de los actos de otros poderes reconocida
+a los tribunales federales ha sido equilibrada poniendo como límite infranqueable la
+necesidad de un caso concreto (…). Por sus modalidades y consecuencias, el sistema de
+control constitucional en la esfera federal excluye, pues, el control genérico o abstracto o la
+acción popular. La exclusión de tales modalidades impide que la actividad del Tribunal se
+dilate hasta adquirir las características del Poder Legislativo, y dentro de la marcha del
+proceso constitucional, subordina la eficacia final de un pronunciamiento al consenso que
+encuentren en el pueblo”.
+
+
+
+
+         III-  REGLAS GENERALES PARA LA DETERMINACIÓN DE LA
+COMPETENCIA FEDERAL
+                En el artículo 116 de la Constitución Nacional se establecen de manera
+taxativa ciertos casos en los que surgirá la competencia federal, ya sea que la ejerza la
+Corte Suprema de Justicia de la Nación, o los tribunales federales inferiores. De acuerdo a
+lo establecido por este artículo, el surgimiento del fuero federal tiene, principalmente, dos
+fundamentos: por un lado, garantizar la supremacía del orden jurídico federal y, por otro,
+garantizar la imparcialidad de quien juzgue la causa. En este sentido, la Corte Suprema de
+
+23 Especialmente en materia tributaria.
+24 Fallos 324:3686.
+25 Fallos 314:1076.
+26 Fallos 325:2311.
+27 Gondra, Jorge M., Jurisdicción…, obra citada, p. 30.
+
+
+
+
+                                                          8
+
+[[PDF p. 9]]
+                                                                                                 Borrador sujeto a revisión
+
+
+
+
+Justicia de la Nación en reiterados fallos ha sostenido que: “la materia y las personas
+constituyen dos categorías distintas de casos cuyo conocimiento atribuye la Constitución
+Nacional a la Justicia Federal (art. 116); el primer supuesto lleva, centralmente, el propósito
+de afirmar las atribuciones del gobierno federal en las causas relacionadas con la
+Constitución, tratados y leyes nacionales, así como las concernientes a almirantazgo y
+jurisdicción marítima, mientras que el segundo procura, en lo esencial, asegurar la
+imparcialidad de la decisión, la armonía nacional y las buenas relaciones con los países
+extranjeros”28. Estas reglas de determinación de la competencia federal responden a los
+criterios de autonomía de las provincias y de la soberanía del Estado nacional29.
+
+
+              Del artículo 116 de la Constitución Nacional y de la Ley N.° 48 se desprende
+que entenderán juzgados federales siempre que se ventilen cuestiones relacionadas con
+ciertos elementos propios de la competencia federal, a saber:
+                   (i)        en razón de la materia;
+                   (ii)       en razón del lugar;
+                   (iii)      en razón de la persona.
+             A los fines de esclarecer lo mencionado, explicaremos someramente por qué
+dichos elementos son propios de la competencia federal y qué ha dispuesto la Corte
+Suprema de Justicia de la Nación en cada caso.
+
+
+                   A)        Competencia federal en razón de la materia
+               En el apartado precedente, nos hemos referido sucintamente a las reglas
+determinativas de la competencia federal, es decir, en razón de la materia, personas, lugar,
+grado y valor. No obstante, dedicaremos un apartado particular para dar tratamiento a la
+competencia ratione materiae en el entendimiento de que, entre todas las reglas que les
+atribuyen a los jueces federales el conocimiento de una causa, es la de mayor relevancia.
+El sustento de tal afirmación radica en que la Constitución Nacional establece que los jueces
+federales tienen como función intervenir en todas aquellas causas en las que se debaten
+cuestiones vinculadas con instituciones e intereses nacionales. Así, del adecuado ejercicio
+de la jurisdicción federal en los casos cuyo entendimiento les atribuye la Constitución,
+depende el sostenimiento del régimen federal. Asimismo, no debe soslayarse que la
+competencia federal en razón de la materia es, por un lado, de excepción y se suscita en
+casos taxativamente enumerados y, por otro lado, improrrogable, privativa y excluyente de
+los tribunales provinciales. Consecuentemente, resulta de importancia determinar cuál es
+la materia que rige un caso determinado, pues sobre esa base debe intervenir la Justicia
+Federal, y no la Provincial, o viceversa.
+               El artículo 116 de la Constitución establece los casos en los que la Justicia
+Federal debe intervenir en razón de la materia: cuando las causas versen sobre puntos
+regidos por la Constitución Nacional, las leyes dictadas por el Congreso de la Nación y los
+tratados con las naciones extranjeras; asimismo, en las causas de almirantazgo y
+jurisdicción marítima.
+
+
+28 Fallos 331:1312; 330:4234; 330:2767, entre otros.
+29 Palacio de Caeiro, Silvia B., “La competencia federal”, en Palacio de Caeiro, Silvia B., Tratado…, obra citada, p. 67.
+
+
+
+
+                                                             9
+
+[[PDF p. 10]]
+                                                                                           Borrador sujeto a revisión
+
+
+
+
+               Ahora bien, en relación con los primeros tres supuestos, ¿cualquier causa
+en la que se discutan cuestiones vinculadas con normas constitucionales, tratados o leyes
+de la Nación, suscita la competencia federal en razón de la materia? La legislación, doctrina
+y jurisprudencia del Alto Tribunal indican una respuesta en sentido negativo.
+               La Ley 48, establece, en su artículo 2, inciso 1, que los jueces federales
+intervienen en las causas que sean “especialmente” regidas por la Constitución Nacional,
+las leyes del Congreso y los tratados públicos con naciones extranjeras.
+               Ricardo Haro considera que la competencia federal en razón de la materia
+se suscita cuando la demanda se basa de modo “directo, principal e inmediato” en una
+cláusula constitucional, ley o tratado. Aclara que esto ocurre cuando “el fundamento jurídico
+medular de las pretensiones que se demanda” deviene del texto de la norma pertinente.
+Afirma que la “(…) vinculación entre las pretensiones jurídicas y la ley federal debe ser tan
+estrecha, que la dilucidación de la controversia dependa de la interpretación y aplicación
+exclusiva o principal de la norma federal, pues lo que en estos casos interesa es la sustancia
+o materia jurídica federal del pleito” En otro apartado asevera que, para que se suscite la
+competencia federal, las causas deben tener una “(…) decisiva, directa y prevalente
+relación con la dilucidación de las pretensiones litigiosas” 30.
+               La Corte Suprema, en un fallo en el que remitió al dictamen de la Procuración
+General, se expidió en el sentido de que la competencia federal prevista por los arts. 116
+de la Constitución Nacional y 2, inc. 1 de la Ley 48 procede cuando el derecho que se
+pretende hacer valer se funda directa e inmediatamente en uno o varios artículos de la
+Constitución Nacional, en leyes federales o en tratados con las naciones extranjeras, es
+decir, cuando lo “medular de la disputa” versa sobre el sentido y los alcances de esos
+preceptos, cuya “adecuada hermenéutica resulta esencial para la justa solución del litigio”31.
+En ese entendimiento es que la Corte ha sentado la doctrina en cuanto a que la
+circunstancia de que alguno de los agravios pueda conducir al estudio de normas de
+naturaleza federal no justifica la declaración de incompetencia de la justicia local y la
+remisión de la causa a la Justicia Federal, ya que todos los jueces de cualquier jerarquía y
+fuero pueden interpretar y aplicar la Constitución y las leyes de la Nación en las causas
+cuyo conocimiento les corresponda, sin perjuicio de que las cuestiones federales
+eventualmente comprendidas puedan ser objeto de adecuada tutela por vía del recurso
+extraordinario32.
+                 Más recientemente, la Corte Suprema se ha declarado incompetente
+originariamente al sostener que “(…) para habilitar la instancia prevista en el art. 117 de la
+Constitución Nacional –cuando en la causa es parte una Provincia– es preciso que en la
+demanda no se planteen, además de las cuestiones federales, otros asuntos que –por ser
+de naturaleza local– resultarían ajenos a su competencia, pues la eventual necesidad de
+hacer mérito de ellos obsta a su radicación por la vía intentada frente a la necesidad de no
+interferir el ejercicio de atribuciones que las provincias no han delegado al conocimiento
+exclusivo de esta Corte”33. La doctrina que establece la Corte es que, cuando una Provincia
+es parte, para que se suscite su competencia originaria, la cuestión federal planteada debe
+ser exclusiva, es decir, no debe haberse planteado conjuntamente una cuestión local.
+
+30 Haro, Ricardo, La Competencia Federal, 2ª ed., Lexis Nexis, Buenos Aires, p.110 y ss.
+31 Fallos 326:1372.
+32 Fallos 314: 158
+33 Fallos 332:1007
+
+
+
+
+                                                           10
+
+[[PDF p. 11]]
+                                                                                                   Borrador sujeto a revisión
+
+
+
+
+Frente al mencionado precedente, se generan algunos interrogantes que, entendemos, aún
+no tienen una respuesta concluyente: las conclusiones de la Corte ¿son aplicables al
+analizarse la competencia federal en las instancias inferiores? En otras palabras, a fin de
+que se suscite la competencia federal en razón de la materia en primera instancia, ¿también
+la cuestión federal planteada debe ser exclusiva? O –por el contrario– ¿la Corte se valió de
+ese argumento únicamente para restringir su competencia originaria ante un creciente
+número de causas similares?
+               Responder a tales interrogantes permitirá dilucidar si la competencia federal
+en razón de la materia se suscita cuando las normas federales “gobiernan” o son
+“esenciales” para la resolución del caso, –lo que no excluye la articulación conjunta de
+cuestiones locales– o si, por el contrario, la cuestión federal debe ser exclusiva. A modo de
+respuesta, ponemos de relieve que, luego del dictado del fallo transcripto, la Corte Suprema
+no ha adoptado una posición única34, como así tampoco los juzgados de primera instancia
+a lo largo del país. Por tal motivo, adquiere relevancia la labor de los profesionales para
+poder predecir aquellos casos en los que la Justicia Federal (en especial, la Corte Suprema
+de Justicia de la Nación) tendrá interés en resolver y, por lo tanto, en declararse
+competente.35
+               Resulta claro que, para que se suscite la competencia federal en razón de la
+materia, por lo menos el fundamento medular de la demanda debe tener sustento en la
+Constitución, en una ley del Congreso de la Nación o en un tratado con potencias
+extranjeras. Por el contrario, la simple invocación o aplicación de normas federales al caso,
+que no lleguen a gobernar su solución, no basta para suscitar la competencia federal en
+razón de la materia. En esos casos, no se priva al interesado del acceso a la jurisdicción
+federal, pero primeramente deberá ocurrir ante la justicia local y luego, por intermedio del
+recurso extraordinario federal, podrá intentar obtener un pronunciamiento de la Corte
+Suprema de Justicia36.
+              La solución resulta de elemental lógica pues, de lo contrario, la Justicia
+Federal debería entender en una cantidad innumerable de causas de derecho común, ya
+que la Constitución contempla casi todos los derechos que asisten a los habitantes de la
+Nación.
+             Con relación a la competencia federal en razón de la materia por la violación
+de normas constitucionales, formularemos algunos comentarios.
+
+
+
+
+34 Tal afirmación se evidencia en dos fallos dictados en la misma fecha, 4 de febrero de 2014. En el expediente A.
+
+911.XLVII. “Aceitera Martínez S.A. c. Misiones, Provincia de s. acción declarativa de inconstitucionalidad”, la Corte
+Suprema se declaró competente en instancia originaria por considerar que la cuestión federal resultaba “predominante” –no
+exclusiva–. Por su parte, en el expediente V.461. XLVIII. “Vicentín S.A.I.C c. Córdoba, Provincia de s. acción declarativa
+de certeza” la Corte Suprema, pese al dictamen a favor de la competencia de la Procuración Fiscal, se declaró incompetente
+con sustento en que el actor, además de la violación de los artículos 8, 9, 10, 11 y 75, inciso 13 de la Constitución Nacional,
+en sede administrativa –es decir, no en la demanda– había articulado argumentos vinculados con derecho local.
+35 En general, en aquellos casos en los que la cuestión a dilucidar versa sobre la preservación de las órbitas de competencia
+
+entre los poderes del Gobierno Federal y los de un Estado provincial.
+36 Siempre y cuando exista “cuestión federal” en los términos del art. 14 de la ley 48. Se ha sostenido que se requiere que la
+
+cuestión federal presente una relación directa e inmediata con la materia del pleito y “Esa relación existe cuando de la
+solución de la cuestión federal dependa, necesariamente, en todo o en parte, la decisión del litigio” Cfr. Palacio de Caiero,
+Silvia B. “Recurso Extraordinario Federal”, 2° Edición actualizada y ampliada, Editorial La Ley, p. 432 con cita de Imaz y
+Rey.
+
+
+
+
+                                                              11
+
+[[PDF p. 12]]
+                                                                                                  Borrador sujeto a revisión
+
+
+
+
+                En primer lugar, la vinculación con normas de la Constitución Nacional debe
+ser directa. No puede desconocerse que casi todas las pretensiones que puedan articularse
+tienen como fundamento el derecho de propiedad, de igualdad, a la vida, etc., pero su mera
+invocación no basta para que se suscite la competencia de excepción. Por el contrario, para
+que ello ocurra, la contienda debe requerir dilucidar los alcances de una norma
+constitucional. A modo de ejemplo, si se impugna una tasa cobrada por una Municipalidad
+a una compañía que presta el servicio de telefonía (comercio interjurisdiccional) por
+considerar que no existe un servicio efectivamente prestado, primero deberá dilucidarse si
+existe la violación de una norma de derecho público local (Ley de Coparticipación Federal
+de Recursos Fiscales) y luego si se conculca el artículo 75, inciso 13 de la Constitución
+(según el cual las Provincias no pueden legislar en materia de comercio interjurisdiccional).
+Consecuentemente, la justicia local resulta competente, sin perjuicio de que podrá acudirse
+a la Corte Suprema mediante la interposición de un recurso extraordinario. Ahora bien,
+supongamos el caso en el que se impugna un tributo provincial porque a esa misma
+compañía telefónica se le cobra un impuesto más alto por tener su sede en la Ciudad de
+Buenos Aires, mientras que a los contribuyentes de la provincia recaudadora se les cobra
+un impuesto más bajo. Aquí sí la pretensión del actor se basaría “directamente” en una
+norma constitucional, pues la provincia estaría regulando el comercio interjurisdiccional, lo
+que le está vedado por imperio del artículo 75, inciso 13, de la Constitución Nacional.
+Entonces, la Justicia Federal resultaría competente.
+               En segundo lugar, debe tenerse en cuenta que la Corte Suprema ha
+declarado la competencia de la Justicia Provincial cuando los derechos que se alegan
+vulnerados están protegidos por la Constitución local y leyes de igual carácter.37
+Consecuentemente, no basta que un derecho esté directamente amparado por un artículo
+de la Constitución Nacional, sino que, además, no debe estar amparado por normativa local.
+A modo de ejemplo, es usual que las constituciones provinciales y demás normas locales
+consagren el “principio de igualdad de las cargas tributarias”. En tales casos, si bien tal
+derecho está amparado por la Constitución Nacional, resultaría competente la justicia local.
+               Con relación a la competencia federal en razón de la materia por leyes del
+Congreso, consideramos relevante remarcar que aquella en general no se suscita cuando
+se plantean cuestiones relacionadas con los códigos de fondo dictados por el Congreso de
+la Nación (Civil y Comercial, Penal, de Minería, del Trabajo y de la Seguridad Social). Ello
+responde a la reserva efectuada en el artículo 75, inciso 12, de la Constitución Nacional,
+según el cual, los códigos de fondo deben ser aplicados por los tribunales federales o
+provinciales según las cosas o personas estuviesen bajo sus respectivas jurisdicciones.
+               En cuanto a la competencia federal en razón de la materia por vulneración
+de tratados internaciones, resulta relevante distinguir entre dos posiciones que ha adoptado
+la Corte Suprema de Justicia a lo largo de los años. Según la primera, la competencia
+federal en razón de la materia sólo se suscita cuando las normas cuya vulneración se
+plantea –contenidas en el tratado– son federales. Por el contrario, si se trata de normas de
+derecho común, se suscita la competencia local38. Por su parte, la segunda postura afirma
+que la naturaleza federal del tratado alcanza también a su contenido, por lo que resulta
+
+
+
+
+37 Fallos 331:2562, en los que la Corte Suprema se remite al dictamen de la Procuración Fiscal.
+38 Fallos 291:602
+
+
+
+
+                                                           12
+
+[[PDF p. 13]]
+                                                                                                Borrador sujeto a revisión
+
+
+
+
+irrelevante que la materia sea de las calificadas como derecho común; la competencia
+federal en razón de la materia se suscita independientemente de tal circunstancia39.
+                Finalmente, con relación a la competencia federal en razón de la materia por
+almirantazgo y jurisdicción marítima, la Corte Suprema ha sostenido que se suscita en todas
+aquellas causas concernientes a la navegación –marítima o fluvial– de buques y sus
+tripulantes, a los fletamentos y pasajeros, a los seguros marítimos, a los naufragios y
+averías, a los privilegios marítimos, entre otros aspectos adicionales.40 También
+consideramos pertinente remarcar los fines perseguidos por el constituyente al atribuir la
+competencia a los jueces federales en estos casos: poner bajo control del Gobierno Federal
+el tráfico de cualquier clase y objeto que concierna a la navegación, que pueda dar lugar a
+presas y capturas, tratar cuestiones que afecten nuestras relaciones con potencias
+extranjeras y comprometan principios de derecho internacional.41
+
+
+                     B)      Competencia federal en razón del lugar
+                 La competencia federal en razón del lugar tiene una aplicación acotada y
+tiene como fundamento el artículo 75, inciso 30, de la Constitución Nacional, el cual
+establece que: “Corresponde al Congreso: (…) 30. Ejercer una legislación exclusiva en el
+territorio de la capital de la Nación y dictar la legislación necesaria para el cumplimiento de
+los fines específicos de los establecimientos de utilidad nacional en el territorio de la
+República. Las autoridades provinciales y municipales conservan los poderes de policía e
+imposición sobre estos establecimientos, en tanto no interfieran en el cumplimiento de
+aquellos fines”. Del análisis del texto de este artículo surge que los lugares sometidos a
+competencia federal son la Ciudad Autónoma de Buenos Aires, en su carácter de capital
+del país, y los establecimientos de utilidad nacional, independientemente de su localización
+geográfica.
+
+               La Corte Suprema de Justicia de la Nación ha construido un criterio
+jurisprudencial que ha sido caracterizado como “criterio finalista”42, el cual establece que el
+Congreso tiene potestad para legislar de manera exclusiva sobre los establecimientos de
+utilidad nacional cuando se trate del cumplimiento de la finalidad de bien general de dicho
+establecimiento. Es decir, se tienen en cuenta los objetivos de la legislación, y para que un
+establecimiento sea considerado “de utilidad nacional” es necesario que el Congreso así lo
+disponga. En virtud de ello, imperan la jurisdicción y la legislación nacional para servir a los
+objetivos expresamente encomendados al Gobierno Federal por la Constitución y por las
+leyes federales.
+
+               Sin embargo, que un establecimiento sea considerado de utilidad nacional
+no implica que la legislación del Congreso excluya potestades provinciales y/o municipales.
+Tal como lo establece el art. 75, inc. 30, continúan vigentes las potestades tributarias y de
+policía, tanto de los municipios como de las provincias, en tanto no perturben el
+cumplimiento de los fines nacionales. Así lo dispuso la Corte Suprema de Justicia de la
+
+39 Fallos 318:2639
+40 Fallos 311:1712
+41 Fallos 312:195
+42 Manili, Pablo L., Tratado de Derecho Procesal Constitucional, 1ª ed., La Ley, Buenos Aires, 2010, p. 271 y ss.  Gómez,
+Claudio D., “La competencia federal en virtud de la ‘cláusula de comercio’ y de los ‘establecimientos de utilidad nacional’
+y su relación con el federalismo argentino”, en Palacio de Caeiro, Silvia B., Competencia…, obra citada, p. 768 y ss.
+
+
+
+
+                                                            13
+
+[[PDF p. 14]]
+                                                                                 Borrador sujeto a revisión
+
+
+
+
+Nación en el fallo “Lago Espejo Resort S. A. c. Neuquén, Provincia del, y otro (Estado
+Nacional) s. acción meramente declarativa”43, en el que establece la diferencia entre
+legislación exclusiva y legislación necesaria. Cabe destacar las palabras de la Corte cuando
+sostiene que “las actividades desarrolladas en los establecimientos de utilidad nacional no
+cuentan con inmunidad absoluta ante la potestad de imposición general que se reconoce a
+las provincias; y el menoscabo al fin público concebido ha de ser efectivamente demostrado
+por quien lo alega”.
+
+                 En cuanto a la competencia federal en la Ciudad Autónoma de Buenos Aires,
+el art. 75, inc. 30, es claro al establecer que el Congreso ejercerá una legislación exclusiva
+en el territorio de la capital de la Nación. Si bien en este territorio todos los tribunales poseen
+naturaleza federal, pues son creados por el Congreso de la Nación en virtud del art. 75, inc.
+20, y por el especial estatus que posee dicho territorio, la división entre Justicia Ordinaria y
+Justicia Federal estará dada por los juzgados nacionales y los juzgados nacionales en lo
+federal. El Congreso de la Nación es el encargado de atribuir competencia a unos u otros
+juzgados, lo cual ha sido realizado con un criterio similar al que rige en el interior del país,
+que diferencia a los tribunales federales de los ordinarios o provinciales44.
+
+
+                     C)      Competencia federal en razón de la persona
+               La competencia federal también se suscita en razón de las personas que
+intervienen en las causas cuando alguna de ellas posee determinadas cualidades que
+hacen necesaria la intervención de la Justicia Federal. Estas cualidades son otorgadas por
+la Constitución Nacional y sus leyes reglamentarias, las cuales disponen que suscitan la
+competencia federal aquellas causas45 (i) en que el Estado federal es parte; (ii) que
+conciernen a embajadores, ministros y cónsules extranjeros; (iii) que se susciten entre dos
+o más provincias; (iv) entre una provincia y los vecinos de otra; (v) entre vecinos de
+diferentes provincias; y (vi) entre una provincia, o sus vecinos, contra un Estado o ciudadano
+extranjero. El artículo 117 es el encargado de determinar cuáles de estas causas
+corresponderán a los tribunales inferiores y cuáles serán de competencia originaria de la
+Corte Suprema de Justicia de la Nación.
+
+               En estos casos, el elemento determinante de la competencia federal es el
+fuero personal de quienes son parte en el proceso, y no son relevantes la materia del pleito
+ni el lugar en el que sucedieron los hechos. La finalidad de la competencia federal difiere
+en cada caso, pero, en general, puede sostenerse que se tiende a asegurar la “convivencia
+armónica en el orden nacional (…) y en el orden internacional (…)”46.
+
+              En cuanto al supuesto de los asuntos en que la Nación es parte, la Corte
+Suprema de Justicia de la Nación es conteste en sostener que entenderá la justicia federal
+en todas aquellas causas en que participe el Estado federal, de manera directa47 o a través
+de sus organismos, empresas o entidades autárquicas48, e incluso cuando el Estado
+
+
+43 Fallos 335:323.
+44 Haro, Ricardo, La competencia… obra citada, p. 483 y ss.
+45 Conforme lo dispuesto por el artículo 116 de la Constitución Nacional.
+46 Manili, Pablo L., Tratado… obra citada, p. 265.
+47 Se entiende que la Nación es parte cuando litiga cualquiera de sus poderes.
+48 Fallos 288:186.
+
+
+
+
+                                                            14
+
+[[PDF p. 15]]
+                                                                                                Borrador sujeto a revisión
+
+
+
+
+intervenga en calidad de tercero49. En este caso, estaremos en presencia de una
+competencia que puede ser prorrogada por parte del Estado hacia tribunales provinciales,
+ya que el fuero federal ha sido otorgado en su favor.
+
+               En cuanto a las causas concernientes a embajadores, ministros y cónsules
+extranjeros, la competencia federal surge como vía de protección de las relaciones
+diplomáticas con otros Estados, las cuales han sido delegadas al Poder Ejecutivo Nacional.
+La Corte Suprema ha dicho que entenderá el fuero federal incluso en aquellas causas que
+tengan como litigantes a las personas que componen la legación extranjera y sus
+familiares50. Cabe destacar que sólo entenderá la Justicia Federal cuando esté en juego
+algún negocio público que involucre la representación del Estado extranjero51, y entenderá
+en instancia originaria la Corte Suprema de Justicia de la Nación52.
+
+                Respecto de las causas que se suscitan entre dos o más provincias, o entre
+una provincia y los vecinos de otra, denominadas comúnmente “causas por razones de
+vecindad”, lo que se busca es garantizar la imparcialidad del juzgador53. Este precepto se
+adoptó siguiendo lo dispuesto por la Constitución de los Estados Unidos y, según la opinión
+de parte de la doctrina, cuando se trata de una causa que involucra a vecinos de distintas
+provincias, el fundamento que habilita la competencia federal es totalmente anacrónico, ya
+que da por sentado que los jueces provinciales tendrán animosidad y parcialidad al juzgar
+causas que involucren ciudadanos de otra provincia54. Asimismo, es importante destacar
+que intervendrá la Justicia Federal55 en aquellas causas suscitadas entre dos o más
+provincias, siempre que no involucren cuestiones sobre límites, las cuales serán dirimidas
+por el Congreso.
+
+               Por su parte, aquellas causas en las que estén involucrados Estados o
+ciudadanos extranjeros son denominadas “causas de extranjería”. Hay que recordar que,
+para que un Estado extranjero sea sometido a jurisdicción de los tribunales nacionales, es
+necesario que este Estado renuncie a su inmunidad de jurisdicción. En cuanto a las causas
+que involucran a un ciudadano extranjero, al igual que en el caso anterior, parte de la
+doctrina entiende que el fundamento de este fuero carece de sentido en la actualidad, ya
+que no puede verse afectada la responsabilidad del Estado nacional por la actuación de los
+jueces locales56.
+
+
+                      IV-    ORGANIZACIÓN DE LA JUSTICIA FEDERAL EN ARGENTINA57
+
+
+49 Fallos 311:2728.
+50 Fallos 301:312.
+51 Fallos 329:4419.
+52 Fallos 323:3592, disidencia de los Dres. Carlos S. Fayt, Antonio Boggiano y Adolfo R. Vázquez.
+53 Badeni, Gregorio, Tratado de Derecho Constitucional: edición actualizada y ampliada, 3ª ed., 3 v., La Ley, Buenos Aires,
+
+2010, p. 716.
+54 Haro, Ricardo, “La competencia federal”, en Sabsay, Daniel A. (Dir.) y Manili, Pablo L. (Coord.), Constitución de la
+
+Nación Argentina y normas complementarias. Análisis doctrinal y jurisprudencial, 1ª ed., 4v., Hammurabi, Buenos Aires,
+2010, p. 583.
+55 Más precisamente, la Corte Suprema de Justicia de la Nación en su competencia originaria o dirimente, según el caso.
+
+Véanse en este tomo los artículos de Juan Nieto y Florencia Saulino, respectivamente.
+56 Haro, Ricardo, “La competencia federal”, en Sabsay, Daniel A. (Dir.) y Manili, Pablo L. (Coord.), Constitución…, obra
+
+citada, p. 585.
+57 Se excluyen del presente trabajo todos los asuntos relacionados con materia penal.
+
+
+
+
+                                                            15
+
+[[PDF p. 16]]
+                                                                                                Borrador sujeto a revisión
+
+
+
+
+               Tal como se ha mencionado en los apartados precedentes, Argentina es un
+país federal en el cual las provincias son entes autónomos que tienen facultades propias
+para entender en ciertas materias y que, a su vez, han delegado expresamente ciertas
+facultades al Gobierno nacional. De esta manera, coexisten dos órdenes jurídicos en un
+mismo territorio: el provincial y el federal, que dan origen a una organización compleja del
+Poder Judicial. Al decir de Haro, “el Poder Judicial de la Nación es un poder multiorgánico
+y el único extendido en todo el territorio del país, descentralizando la función judicial (…).
+Esta presencia de los tribunales federales a través de todo el territorio nacional tiene por
+finalidad acercar el servicio de justicia –esencial en un Estado de Derecho– a los lugares
+donde están las personas (…), asegurando el acceso y la vigencia efectiva del derecho
+constitucional a la jurisdicción”58.
+               La Justicia Federal está compuesta por la Corte Suprema de Justicia de la
+Nación, en su carácter de órgano judicial supremo, y por tribunales inferiores, que entienden
+en aquellas cuestiones asignadas por la Constitución Nacional. Estos tribunales federales
+inferiores tendrán asiento en las provincias y en la Ciudad Autónoma de Buenos Aires.
+               Cabe destacar que la Ciudad Autónoma de Buenos Aires tiene la
+particularidad de ser un territorio federalizado, que no está sujeto a jurisdicción provincial.
+Tal como se explicó en apartados precedentes, en virtud del art. 75, inc. 30, de la
+Constitución Nacional, el Congreso dicta una legislación exclusiva en este territorio, y los
+juzgados son creados por esta legislación dictada por el Congreso Nacional, tal como lo
+establece el art. 75, inc. 20, de la Constitución. Por lo tanto, todos sus tribunales tienen
+carácter federal, aunque cabe distinguir entre juzgados nacionales (a secas), que son los
+encargados de dirimir las cuestiones ordinarias, y los juzgados nacionales en lo federal,
+que resuelven en cuestiones de esta naturaleza.
+                Por su parte, las cámaras federales de apelaciones del interior del país
+entienden en diversas materias, excepto en cuestiones referidas a materia electoral y
+seguridad social. Asimismo, es importante mencionar que las cámaras federales de
+apelaciones emplazadas en el interior del país tienen una competencia territorial que no
+necesariamente coincide con la organización del territorio provincial; es decir, el hecho de
+que una cámara federal se emplace en el territorio de una provincia no implica que sólo
+conocerá en cuestiones suscitadas en dicha provincia. De acuerdo con lo establecido por
+el Ministerio de Justicia y Derechos Humanos59, las cámaras federales de apelaciones
+tienen la siguiente competencia territorial:
+                (i)    Cámara Federal de Apelaciones de Bahía Blanca: ejerce alzada
+sobre los juzgados federales de primera instancia de Bahía Blanca N° 1 y 2, Santa Rosa, y
+General Pico (La Pampa).
+                (ii)   Cámara Federal de Apelaciones de Comandante Luis Piedrabuena60:
+ejerce alzada sobre los juzgados federales de la provincia de Santa Cruz y Tierra del Fuego,
+Antártida e Islas del Atlántico Sur.
+                (iii)  Cámara Federal de Apelaciones de Comodoro Rivadavia: ejerce
+alzada sobre los juzgados federales de primera instancia de Rawson, Comodoro Rivadavia
+
+58 Haro, Ricardo, La competencia…, obra citada, p. 46.
+59  Conforme la Guía Judicial Argentina, a la cual se puede acceder a través de: http://www.jus.gob.ar/la-justicia-
+argentina/guia-judicial.aspx [Última consulta: 28 de octubre de 2015].
+60 Creada por ley N.° 27.154, promulgada el 17 de junio de 2015. Entendemos que, una vez que se designen los vocales,
+
+entenderá como tribunal de alzada de la provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur, superándose así
+la aparente contradicción con la competencia de la (iii)   Cámara federal de apelaciones de Comodoro Rivadavia
+
+
+
+
+                                                            16
+
+[[PDF p. 17]]
+                                                                         Borrador sujeto a revisión
+
+
+
+
+(Chubut), Río Gallegos (Santa Cruz) y de la Tierra del Fuego, Antártida e Islas del Atlántico
+Sur. Además sobre los Juzgados Nacionales Ordinarios de la Tierra del Fuego, Antártida e
+Islas del Atlántico Sur.
+                (iv)   Cámara Federal de Apelaciones de Córdoba: ejerce alzada sobre los
+juzgados federales de primera instancia de Córdoba N° 1, 2 y 3, Río Cuarto, Bell Ville y La
+Rioja.
+                (v)    Cámara Federal de Apelaciones de Corrientes: ejerce alzada sobre
+los juzgados federales de Corrientes.
+                (vi)   Cámara Federal de Apelaciones de General Roca: ejerce alzada
+sobre los juzgados federales de primera instancia de General Roca, Viedma y San Carlos
+de Bariloche (Río Negro), Neuquén y Zapala (Neuquén).
+                (vii)  Cámara Federal de Apelaciones de La Plata: ejerce alzada sobre los
+juzgados federales de primera instancia de La Plata, Lomas de Zamora, Junín y Quilmes.
+                (viii) Cámara Federal de Apelaciones de Mar del Plata: ejerce alzada sobre
+los juzgados federales de primera instancia de Mar del Plata, Azul, Dolores y Necochea.
+                (ix)   Cámara Federal de Apelaciones de Mendoza: ejerce alzada sobre los
+juzgados federales de primera instancia N° 1, 2 y 3 de la ciudad de Mendoza, San Rafael
+(Mendoza), San Juan y San Luis.
+                (x)    Cámara Federal de Apelaciones de Paraná: ejerce alzada sobre los
+juzgados federales de primera instancia de Paraná y Concepción del Uruguay (Entre Ríos).
+                (xi)   Cámara Federal de Apelaciones de Posadas: ejerce alzada sobre los
+juzgados federales de la provincia de Misiones.
+                (xii)    Cámara Federal de Apelaciones de Resistencia: ejerce alzada sobre
+los juzgados federales de primera instancia de Resistencia (Chaco), Formosa, Reconquista
+(Santa Fe) y Roque Sáenz Peña (Chaco).
+                (xiii) Cámara Federal de Apelaciones de Rosario: ejerce alzada sobre los
+juzgados federales de primera instancia de Rosario, Santa Fe (provincia de Santa Fe), y
+San Nicolás (provincia de Buenos Aires).
+                (xiv) Cámara Federal de Apelaciones de Salta: ejerce alzada sobre los
+juzgados federales de primera instancia de Salta, Jujuy y San Ramón de la Nueva Orán.
+                (xv)   Cámara Federal de Apelaciones de San Martín: ejerce alzada sobre
+los tribunales de San Martín, Mercedes, Morón, San Isidro, Campana y Tres de Febrero
+(provincia de Buenos Aires).
+                (xvi) Cámara Federal de Apelaciones de Tucumán: ejerce alzada sobre los
+juzgados federales de primera instancia de Tucumán, Catamarca y Santiago del Estero.
+
+
+
+
+                                             17

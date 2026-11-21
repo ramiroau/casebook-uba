@@ -1,0 +1,1225 @@
+# fuente: Unidad11/2_Sáenz - 2016 - Facultades normativas del poder ejecutivo.pdf
+# modo: texto
+# paginas: 21
+# copiado de corpus/texto/saenz2016b.txt (U11)
+
+[[PDF p. 1]]
+1. Facultades normativas del Poder Ejecutivo (artículos 76 y 99 incisos 1, 2 y 3 CN)
+
+El Poder Ejecutivo participa de la función creadora de normas del sistema jurídico, que no
+pertenece de modo exclusivo al Congreso. En lo que hace a los tratados internacionales, los
+negocia y los firma (99.11), ad referéndum de la posterior aprobación del Legislativo (75.22).
+Respecto de las leyes, le cabe al Presidente la llamada “iniciativa legislativa” (facultad para
+presentar proyectos de ley -art. 77 CN-), y el “veto” de las leyes aprobadas por el Congreso
+(la Constitución se refiere a la potestad de “observación” total o parcial -arts. 80 y 83-).
+Asimismo, le corresponde reglamentar las leyes (art. 99.2 que ahora veremos) y
+excepcionalmente ejercer facultades propias del Congreso, por delegación previa de este
+(art. 76), o sin esa habilitación anterior, por razones de necesidad y urgencia (art. 99.3).
+
+A continuación explicaré los fundamentos constitucionales de la facultad del Poder Ejecutivo
+para dictar normas de dos clases: 1) decretos “comunes” (o reglamentos “administrativos”),
+que son aquellos mediante los cuales dispone la organización de su propio departamento y
+reglamenta las leyes (art. 99 incisos 1 y 2). Estas son facultades normales y regulares del
+Ejecutivo, 2) los decretos con rango o contenido legislativo, que se encuentran en principio
+prohibidos por la Constitución, aunque habilitados por excepción, y que derivan de un
+estado de “necesidad y urgencia” (99.3) o de la delegación legislativa que el Congreso le
+realiza al Poder Ejecutivo (art. 76).
+
+2. Los decretos o reglamentos “autónomos”, “independientes” u “orgánicos”:
+Artículo 99.1
+
+El inciso 1º del artículo 99 expresa tres ideas de distinto alcance que describen el régimen
+presidencialista. La primera, que el Presidente de la Nación “es el jefe supremo de la
+Nación”, expresión algo inadecuada, pues en un sistema republicano no existe un poder
+que tenga “supremacía” sobre otro –de manera total- ni la Nación tiene un “jefe supremo”.
+Antes bien, el Congreso tiene cierta primacía sobre el Poder Ejecutivo, mediante las leyes
+generales que este debe imperativamente ejecutar e incluso removiéndolo por causa de mal
+desempeño del cargo (arts. 53, 59 y 60)1. Aquella expresión, adoptada del proyecto de
+Alberdi, ha querido significar en realidad que el Poder Ejecutivo ejerce la denominada
+“jefatura del estado”, representando a la Nación frente a los estados extranjeros,
+organismos internacionales, estados locales y otras personas públicas y privadas. De ello
+derivan sus facultades para negociar y firmar los tratados internacionales (99.11) y
+convenios, declarar la guerra (99.15, sin perjuicio de la posterior ratificación legislativa
+cuando corresponda), e intervenir en juicio ante tribunales nacionales, extranjeros o
+internacionales en representación del Estado Nacional. A su vez comanda las fuerzas
+armadas (art. 99.12) y posee poder subsidiario para atender las emergencias en que está
+en peligro la paz social, el sistema democrático o la propia subsistencia del Estado2. Todo
+ello se encuadra en la condición de “jefe de estado”.
+
+
+1
+  Asimismo, el Congreso puede determinar en gran medida la actuación de gobierno del Presidente: establece los tributos (art.
+75 incs. 1 y 2), fija el presupuesto anual (75.8), aprueba o desecha los tratados internacionales negociados y firmados por el
+Ejecutivo (99.11 y 75.22), controla y ratifica o rechaza el ejercicio excepcional que aquel hace de facultades legislativas (arts.
+76 y 99.3), aprueba o desaprueba –el Senado- las propuestas de designación de jueces (99.4), de embajadores, ministros
+plenipotenciarios y encargados de negocios ante los estados extranjeros (99.7) y de oficiales superiores de las fuerzas
+armadas (99.13), puede insistir en los proyectos de ley vetados (art. 83), remover al Presidente, los ministros y el Jefe de
+Gabinete (arts. 53, 59 y 101), determinar el número y competencia de los ministerios (art. 100) e interpelar (pedir explicaciones
+e informes) a los ministros (art. 71).
+2
+  Estos poderes de emergencia están expresados por ejemplo en los artículos 99.16 y 20 que facultan al Presidente, durante el
+receso del Congreso, a declarar el estado de sitio por conmoción interior o intervenir una provincia por peligro en sus
+
+[[PDF p. 2]]
+La “jefatura del gobierno” es una noción incorporada en la reforma de 1994 y responde a la
+terminología habitual de las constituciones parlamentarias3. Implica que el Poder Ejecutivo
+ejerce el liderazgo o la conducción del gobierno federal y cuenta con iniciativa y facultades
+propias para proveer a la integración de los demás poderes, y promover su actuación: abrir
+el período de sesiones ordinarias del Congreso (art. 99.8)4, prorrogar sus sesiones (art.
+99.9) o convocar a las cámaras a sesiones extraordinarias (art. 63), designar a los jueces,
+embajadores y a los altos mandos militares –todos ellos con acuerdo del Senado (art. 99
+incisos 4, 7 y 13)-, y nombrar al Jefe de Gabinete y a los ministros (art. 100, si bien su
+número y función es determinado por ley del Congreso)5. Asimismo cuenta con la potestad
+co-legislativa de presentar proyectos de ley -art. 77 CN- y vetar los sancionados por el
+Congreso -arts. 80 y 83-), así como con las facultades de reglamentar las leyes (art. 99.2
+que ahora veremos) y de legislar provisionalmente por delegación previa y transitoria del
+Congreso (art. 76) o por una razón excepcionalísima de necesidad y urgencia (art. 99.3).
+También se le otorgan atribuciones especiales de gobierno como las de convocar a
+consultas populares no vinculantes (art. 40), e indultar o conmutar penas por delitos
+federales (art. 99.5).
+
+Por último, como derivación de la jefatura del gobierno, se establece que el Presidente es el
+titular jerárquico de la Administración Pública Nacional6 o “responsable político de la
+administración general del país”, idea que además está bien expresada en el art. 99.17 que
+lo facultad a “pedir al jefe de gabinete de ministros y a los jefes de todos los ramos y
+departamentos de la administración, y por su conducto a los demás empleados, los
+informes que crea convenientes, y ellos están obligados a darlos”.
+
+La reforma de 1994 procuró transferir al Jefe de Gabinete el ejercicio directo de la
+“administración” –ver art. 100-, reservando al Presidente sólo la responsabilidad política por
+ella7. Esto no se ha trasladado a la práctica pues el Presidente continúa siendo la cabeza
+indiscutida de toda la Administración y mediante su poder jerárquico es quien gobierna y
+
+
+
+
+instituciones republicanas. La expresión máxima de las potestades excepcionales del Presidente en la atribución para emitir
+disposiciones legislativas por vía de decretos de necesidad y urgencia (art. 99.3).
+3
+  La jefatura del Estado y del Gobierno se encuentran desdobladas en los sistemas parlamentarios. La primera corresponde al
+monarca (vgr. España, Bélgica, Holanda) o a un Presidente (vgr. Francia, Alemania, Italia) e implica fundamentalmente y en
+general la representación del Estado, el mando supremo de las fuerzas armadas, la facultad de disolver el Parlamento y
+convocar a elecciones para su renovación y la de convocar a referéndum. A su vez, el Gobierno (encabezado por el jefe del
+gobierno o primer ministro e integrado por los demás ministros) es una emanación del Parlamento, de lo cual resulta que es
+designado por él. Le corresponde la dirección de la administración, el nombramiento de los funcionarios y la facultad co-
+legislativa de reglamentar las leyes. La Constitución española de 1978 establece al respecto que “el Gobierno dirige la política
+interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad
+reglamentaria de acuerdo con la Constitución y las leyes” (art. 97). En Francia, la Constitución de 1958 en sus Título III, “Del
+Gobierno”, dispone de manera similar que el Primer Ministro dirige la acción del Gobierno, y ejerce “la potestad reglamentaria”
+(art. 21). La Constitución de Alemania de 1949 (Capítulo VI, “Del Gobierno Federal” fija su composición con el Canciller federal
+(Bundeskanzler) y los Ministros federales, elegidos a propuesta del Presidente de la Republica por la Dieta (Congreso)
+Federal.
+4
+  Si bien las cámaras pueden iniciar por sí solas las sesiones ordinarias cada 1º de marzo (conf. art. 63)
+5
+  Marienhoff denomina a todos estos “actos institucionales” (Marienhoff, Miguel S., Tratado de Derecho Administrativo,
+Abeledo-Perrot, Bs. As., 1996, T.II, pág. 755).
+6
+  La Administración Pública Nacional es el aparato estatal más grande del Estado. Está integrada por la Presidencia de la
+Nación, la Jefatura de Gabinete de Ministros, los Ministerios y todos los entes u organismos en los que se desconcentran sus
+atribuciones (administración pública centralizada: secretarías, subsecretarías, direcciones nacionales, etc.), y por los entes
+descentralizados (organismos con personalidad jurídica propia creados por la ley para fines específicos. Ej.: Banco Central,
+Administración Federal de Ingresos Públicos, universidades nacionales y muchos más), a cuyo conjunto se llama
+“administración pública descentralizada”.
+7
+  La idea de responsabilidad política se relaciona con el juicio de buen o mal desempeño que realiza el electorado o el
+Congreso para el caso de juicio político.
+
+[[PDF p. 3]]
+administra de modo principal, estableciendo la agenda de gobierno, impartiendo
+instrucciones y realizando la designación de la mayoría de los funcionarios8.
+
+La “administración general” abarca un sinnúmero de acciones y materias: algunas de ellas
+están expresadas en la Constitución y otras no. Entre las más elementales se encuentran
+las de nombrar y remover a los funcionarios y empleados de todos los organismos que
+están en la órbita del Ejecutivo (si la Constitución o las leyes no han prescripto otra cosa, lo
+cual ocurre en muy pocos casos, como los previstos en el art. 99.6), aprobar todos los años
+el proyecto de presupuesto nacional, enviarlo al Congreso (art. 100.6) y luego hacerlo
+ejecutar (art. 100.7) decidiendo la oportunidad de cada gasto e inversión.
+
+Por lo demás, la función administrativa del Presidente es muy diversa y una segura guía
+para apreciar qué se encuentra incluido allí es recorrer la ley de ministerios o el
+organigrama de la Administración Pública Nacional9 y observar los distintos tipos de entes,
+competencias, funciones y servicios administrativos que existen.
+
+El inciso 1º, en cuanto establece la jefatura jerárquica del Presidente sobre todo el aparato
+estatal integrado por el universo de entes administrativos, y que implica su poder de
+organización, ha sido entendido siempre como la fuente de una clase de decretos o
+reglamentos10 denominados “autónomos”. En España se los llama “independientes” y
+algunos autores prefieren denominarlos “orgánicos”. Mediante ellos el Poder Ejecutivo
+determina autónomamente la organización y el funcionamiento de su departamento -la
+Administración Pública-.11 Se denominan así por tratarse de normas que no se encuentran
+estrictamente vinculadas a una ley que las preceda sino que derivan del poder de
+“autogobierno” del Ejecutivo. Así también el Congreso, la Corte Suprema, los demás
+órganos constitucionales y cualquier ente estatal emite disposiciones orgánicas o
+autónomas, pues cualquier de ellos goza de un ámbito de decisión propio sobre aspectos
+de su organización y funcionamiento12.
+
+Si bien los autores han discrepado sobre el alcance de las materias que corresponden a un
+decreto autónomo del Ejecutivo, la doctrina nacional coincide en que dichas normas, como
+mínimo, son las que establecen la organización interna de la Administración Pública y la
+tutela de su normal funcionamiento, esto es: 1) creación de organismos y entes
+“desconcentrados” en el ámbito de la Administración centralizada (secretarías y
+subsecretarías ministeriales, direcciones nacionales y todas las demás aperturas
+
+
+
+8
+ Como contrapartida del poder jerárquico, delega cuantas funciones desea en el Jefe de Gabinete y demás ministros y
+autoridades y puede avocarse a voluntad al conocimiento de cualquier asunto referido a las materias delegadas.
+9
+    Decreto 357/02
+10
+   El tipo formal de acto emitido por el Poder Ejecutivo es el “decreto”, así como respecto del Congreso es la “ley”. Existen
+decretos con efecto particular (por ejemplo, la designación de un funcionario) y otros con alcance general, a los cuales se
+denomina comúnmente “reglamentos”.
+11
+   Marienhoff, Miguel S., Tratado de Derecho Administrativo, Abeledo Perrot, t. I, págs. 242/3; Gordillo, Agustín, Tratado de
+Derecho Administrativo, Fundación de Derecho Administrativo, t. 1, VIII-35/6.
+12
+   Por ejemplo, la Constitución prevé la facultad de ambas cámaras de dictar sus reglamentos de organización interna y
+funcionamiento (art. 64 C.N.), así como los Ministros de tomar resoluciones “concernientes al régimen económico y
+administrativo de sus respectivos departamentos” (art. 103) y la Corte de dictar su “reglamento interno” (art. 113 C.N.),
+mientras que el Consejo de la Magistratura emite “los reglamentos relacionados con la organización judicial” (artículo 114 inc.
+6 C.N.). Otros órganos como el Defensor del Pueblo (art. 86), la Auditoría General de la Nación (art. 85), el Ministerio Público
+(art. 120) y las universidades nacionales (art. 75.19) ejercen un auto-gobierno pleno, pues gozan de autonomía funcional. Los
+llamados entes descentralizados o autárquicos poseen facultades propias de administración en el marco de lo que dispone la
+ley que los crea, y por último, los organismos desconcentrados disponen de aquellas en la medida de la delegación que les
+hubiera hecho el órgano con jerarquía superior. Ver: Linares, Juan Francisco, “Los reglamentos autónomos en el orden
+federal”. LL 1981-D, 1217.
+
+[[PDF p. 4]]
+orgánicas); 2) todas las delegaciones de facultades13 que el Poder Ejecutivo y los ministros
+realicen en los organismos o entes que les dependen jerárquicamente (con excepción de
+las competencias de los Ministerios, que son establecidas por ley del Congreso –art. 100-);
+3) regulación de procedimientos administrativos de actuación y de formación de normas y
+actos del Ejecutivo y demás entes de la Administración, salvo que importen una restricción
+de los derechos de los particulares, en cuyo caso es materia que corresponde a una ley
+formal por imperio de la regla de reserva de ley (arts. 14 y 19 CN)14 ; 4) designación de
+funcionarios y empleados de la Administración (art. 99.7); 5) intervención de entes
+descentralizados (organizados y separados de la Administración central por medio de una
+ley para el cumplimiento de cometidos específicos) con el fin de hacer cesar un
+funcionamiento defectuoso o irregular y restablecer su normalidad15.
+
+3. Los decretos reglamentarios o reglamentos de ejecución: Art. 99. 2
+
+El inciso 2º establece la facultad reglamentaria del Poder Ejecutivo que da lugar a los
+llamados decretos reglamentarios o reglamentos de ejecución. La función de estas normas
+es la de complementar y precisar los contenidos de la ley a los fines de permitir o facilitar su
+ejecución. Conforme con ello, un decreto reglamentario se encuentra siempre ligado a una
+ley precedente del Congreso y su función es la de “llenar los detalles”16 o “regular los
+pormenores y detalles necesarios para la implementación de la ley”17. En este sentido, son
+numerosos los puntos que puede incluir una reglamentación: determinar el alcance de
+conceptos previstos en la ley, reglar procedimientos y formalidades, disponer plazos,
+determinar el organismo de la Administración al que le caben funciones de ejecución e
+interpretación (siempre que la ley no haya establecido ya la llamada “autoridad de
+aplicación” de la ley). En muchos casos, los denominados “decretos reglamentarios”
+contienen disposiciones propias de los decretos “autónomos”, y aún disposiciones que
+corresponden a una ley del Congreso, por exceder el contenido de la ley que están
+llamadas a reglamentar. Por ello es que lo más correcto es referirse a “disposiciones
+reglamentarias” en lugar de “decretos reglamentarios”, puesto que un mismo decreto puede
+contener disposiciones de varias clases (así como el art. 99.3 se refiere a las “disposiciones
+
+
+
+13
+    La delegación administrativa es la transferencia de funciones de quien es titular de una competencia hacia un órgano
+jerárquicamente inferior.
+14
+   Como son las disposiciones de la denominada “ley nacional de procedimientos administrativos”, decreto-ley n° 19.549. Un
+buen ejemplo de decreto autónomo que regula procedimientos es el decreto 1172/03, que aprueba los Reglamentos
+Generales de Audiencias Públicas, para la Publicidad de la Gestión de Intereses, para la Elaboración Participativa de Normas,
+y del Acceso a la Información Pública para el Poder Ejecutivo Nacional en el ámbito del Ejecutivo. También, el Decreto 222/03
+que establece un procedimiento de participación ciudadana previo al nombramiento de los jueces de la Corte, extendido por
+Decreto 588/03 para la designación del Procurador General de la Nación, el Defensor General de la Nación, fiscales y jueces
+de los tribunales federales inferiores.
+15
+   La intervención es un remedio que tiene por fin poner en vigencia plena la causa creadora del ente. En general, la doctrina
+indica que para que proceda la intervención administrativa no se requiere la existencia de una norma que la autorice
+expresamente, pues ella deriva del deber de vigilancia y la responsabilidad de gobierno que incumbe al Presidente, en su
+carácter de órgano superior de la Administración Pública y responsable político de la “administración general del país”, por lo
+que aquella tiene fundamento en el artículo el artículo 99, inciso 1° de la Constitución (cfr. Marienhoff, Miguel S., Tratado de
+Derecho Administrativo, 5a ed. actualizada, t. I, Abeledo Perrot, Buenos Aires, 1995, p. 686; Marienhoff, Miguel S.,
+“Intervenciones administrativas dispuestas por el Poder Ejecutivo”, La Ley 1984-D, p. 884 y ss.; y Barraza, Javier Indalecio, “La
+intervención administrativa y las facultades del interventor”, La Ley 1998-D, p. 187 y ss.) En años recientes, el Poder Ejecutivo
+dispuso numerosas intervenciones administrativas, en los siguientes entes: Comisión Nacional de Regulación del Transporte
+(decreto 454/2000), Sistema Nacional de Medios Públicos Sociedad del Estado (decreto 354/2002), Construcción de Vivienda
+para la Armada (empresa del Estado decreto 1140/2003), Comisión Nacional de Comunicaciones (decreto 521/2002), Instituto
+Nacional de Servicios Sociales para Jubilados y Pensionados (decreto 348/2003), Ente Nacional de Regulación del Gas
+(decreto 571/2007), Obra Social Bancaria (decreto 1246/2009), Instituto Nacional contra la Discriminación, la Xenofobia y el
+Racismo (decreto 756/2011), y Autoridad Federal de Servicios de Comunicación Audiovisual (Decreto 236/15).
+16
+   “Wayman v. Southard”, 23 U.S (10 Wheaton) 1 (1825)
+17
+   CS, “Delfino” (1927)
+
+[[PDF p. 5]]
+de carácter legislativo” para designar a lo que habitualmente se ha conocido como decretos
+legislativos o de necesidad y urgencia).
+
+A diferencia de la mayor parte del texto constitucional, cuya fuente primordial fue la
+Constitución norteamericana de 1787, el inciso 2º del art. 99 procede de la Constitución de
+Cádiz de 1812, que a su vez reconocía la influencia de la constitución francesa de 1791, y
+que en ambos casos establecían la facultad reglamentaria del Ejecutivo como potestad co-
+legislativa18. Al constituir el “gobierno” una emanación del propio Parlamento, es natural en
+el sistema parlamentarista que el Ejecutivo comparta la función de creación normativa19.
+
+Las disposiciones reglamentarias tienen indudable carácter normativo, pues son generales y
+abstractas y regulan conductas y situaciones jurídicas futuras, pero su sujeción al contenido
+de la ley formal del Congreso que reglamentan resulta necesaria para asegurar el principio
+de legalidad, que se desdobla en dos nociones: la primacía jerárquica de la ley y la reserva
+de ley en relación a determinadas decisiones estatales y materias20. En este sentido es que
+este inciso, a la vez que reconoce la competencia presidencial de expedir “instrucciones y
+reglamentos que sean necesarios para la ejecución de las leyes”, exige que ello sea bajo el
+deber de “no alterar su espíritu (el de la ley) con excepciones reglamentarias”21.
+
+Los decretos reglamentarios plantean el problema constitucional vinculado a la división
+entre lo legislativo (lo que corresponde al Congreso) y lo reglamentario, cuyo límite no es
+sencillo trazar en todos los casos. La ambigüedad de las leyes y la vocación legisferante
+creciente del Poder Ejecutivo y de la Administración, ha hecho inevitable que muchas leyes
+operen como un “marco” o “base” sobre la cual los reglamentos desarrollan sus contenidos
+con gran extensión, definiendo su alcance, imponiendo obligaciones, requisitos y
+restricciones, consagrando distinciones, clasificaciones, exclusiones y sanciones que
+muchas veces no figuran en la letra de la ley (por ejemplo: una ley crea un subsidio para
+“pequeños productores”, mientras que es la posterior reglamentación la que establece qué
+
+
+
+18
+   El artículo 171 de la Constitución de Cádiz, además de la prerrogativa del rey de sancionar las leyes y promulgarlas, le
+reconocía la de “expedir los decretos, reglamentos e instrucciones que crea conducentes para la aplicación de las leyes”. La
+Constitución española de 1978 establece que el Gobierno “ejerce la función ejecutiva y la potestad reglamentaria de acuerdo
+con la Constitución y las leyes” (art. 97). En Francia, la Constitución de 1958 dispone de manera similar que el Primer Ministro
+ejerce “la potestad reglamentaria” (art. 21).
+19
+   En la senda de introducir un elemento parlamentario, la reforma constitucional de 1994 otorgó al Jfe de Gabinete la facultad
+para “expedir los actos y reglamentos que sean necesarios” para ejercer la administración general del país al Jefe de Gabinete
+(Ver art. 100, incs. 1º y 2º).
+20
+   La “primacía de la ley” predica la superioridad de la ley sobre los decretos, según la escala de jerarquías normativas
+establecida en los artículos 31, 75.22 y 75.24. Por su parte, la reserva de ley alude a la necesidad de que ciertos contenidos,
+materias o decisiones estatales sean dispuestas bajo la forma de una ley del Congreso (materias penal, tributaria, electoral,
+presupuestaria, deuda pública, monetaria, servicios públicos, entre muchísimas otras mencionadas a lo largo de la
+Constitución, y en general, la regulación de las relaciones jurídicas y la reglamentación de los derechos individuales). El
+principio de legalidad es el gran resultado de las revoluciones democrático-liberales que tuvieron por objeto fundamental
+arrebatar al monarca el poder de restringir los derechos. En este sentido, la Corte Interamericana de Derechos Humanos
+(CIDH) tiene dicho que las restricciones permitidas al goce y ejercicio de los derechos y libertades reconocidas en la
+convención solo pueden ser establecidas por leyes, refiriéndose esta expresión a las normas jurídicas emanadas del
+Parlamento de acuerdo con los procedimientos de elaboración constitucionales. El fundamento de ello es garantizar que la
+extensión de los derechos no quede al arbitrio del poder unipersonal del Ejecutivo, sino que ello esté determinado por el
+órgano de representación popular y de modo que “se permite a las minorías expresar su inconformidad, proponer iniciativas
+distintas, participar en la formación de la voluntad política o influir sobre la opinión pública para evitar que la mayoría actúe
+arbitrariamente”. De modo que el principio de legalidad es “consubstancial con la idea y el desarrollo del derecho en el mundo
+democrático y que tiene como corolario la aceptación de la llamada reserva de ley, de acuerdo con la cual los derechos
+fundamentales sólo pueden ser restringidos por ley, en cuanto expresión legítima de la voluntad de la nación” (CIDH, Opinión
+Consultiva OC-6/86).
+21
+   Vgr.: El decreto 1007/2012 reglamenta la ley 26.743 que reconoce el derecho al reconocimiento de la identidad de género,
+en lo que hace a la organización del sistema de identificación registral (formulario para solicitar la rectificación registral de sexo
+y el cambio de nombre, formalidades de la nueva partida de nacimiento, y los requisitos para las peticiones de ciudadanos
+extranjeros).
+
+[[PDF p. 6]]
+se entiende por tales, a qué tipo de productores beneficia, en qué consiste la ayuda, cuál es
+su cuantía, cuáles son los requisitos para acceder a él, en qué casos se pierde, etc).
+
+Los problemas más comunes podrían resumirse de la siguiente manera: 1) que el
+reglamento establezca disposiciones totalmente nuevas, como ser cargas y obligaciones no
+previstas en la ley; 2) que el reglamento, bajo pretexto de complementar la ley, distorsione o
+contradiga sus disposiciones, afectando su letra o su espíritu.
+
+Ambos fenómenos son muy usuales en el ordenamiento argentino; basta tomar cualquier
+decreto reglamentario y cotejarlo con la ley a la que se refiere para encontrar novedades y
+contradicciones.
+
+Veamos algunos ejemplos reales: la todavía vigente ley de ciudadanía n° 346 de 1869
+establece la posibilidad de optar por la nacionalidad argentina para las personas nacidas en
+el extranjero, en estos casos: si residiesen en el país dos años continuos, hubiesen
+desempeñado empleos públicos, establecido en el país una nueva industria, tuvieran
+cónyuge argentino o ejercieran la docencia. La reglamentación de la ley, aprobada por el
+Decreto 3213/84, precisa el procedimiento judicial para ejercer aquella opción ante un juez,
+las características de los formularios de solicitud, las pruebas que en cada caso debe
+acompañar el extranjero peticionante, y el trámite y los plazos para la notificación de la
+ciudadanía adquirida al Registro Nacional de las Personas. Toda ellas son disposiciones
+indudablemente reglamentarias. El decreto contiene a la vez dos disposiciones que
+ensanchan el contenido sustancial de la legislación: por una de ellas se agrega entre los
+antecedentes que otorgan la opción el de haber tenido un hijo argentino nativo, y la otra
+prescribe como impedimentos para el otorgamiento de la ciudadanía el “no tener ocupación
+o medios de subsistencia honestos” y encontrarse procesado o condenado en una causa
+penal. Estas últimas previsiones, además de no estar incluidas en la ley, parecieran
+pertenecer al núcleo de decisión legislativa, pues precisamente acuerdan y quitan la
+nacionalidad, excediendo lo que constituye un mero detalle para “permitir la ejecución de la
+ley”.
+
+En otro caso que es útil para ilustrar la cuestión, la ley 26.687 regula el consumo y la
+publicidad de los productos elaborados con tabaco. La ley prohíbe la publicidad de “los
+preparados que utilizan total o parcialmente como materia prima tabaco y son destinados a
+ser fumados, chupados, masticados, aspirados o inhalados”. A ello el Decreto reglamentario
+602/2013 añade “los productos que pueden identificarse con productos elaborados con
+tabaco”, como los cigarrillos electrónicos y los accesorios como boquillas, pipas y ceniceros,
+y a los elementos asociados con marcas de tabaco como remeras, gorras y encendedores,
+ampliando notablemente el objeto de regulación. Asimismo, la ley establece la
+obligatoriedad de incluir mensajes e imágenes de advertencia en los empaquetados sobre
+los efectos nocivos del consumo de tabaco, encomendando al Ministerio de Salud la
+reglamentación sobre su contenido y demás características, lo cual importa encomendar la
+tarea reglamentaria no ya al Ejecutivo sino a un órgano inferior o “autoridad de aplicación”,
+como suele llamarse en las leyes al ente al que se transfiere la potestad regulatoria (de allí
+la concepción de los denominados “entes reguladores”, que en algunas materias son
+quienes verdaderamente “legislan” ciertas actividades, sobre la base de los lineamientos
+generales fijados en la ley).
+
+[[PDF p. 7]]
+Un caso sometido a la revisión judicial es el del decreto 936/11, reglamentario de la leye
+26.364 (prevención y sanción de trata de personas), que prohíbe los avisos publicitarios de
+oferta sexual y crea una Oficina de Monitoreo de Publicación de Avisos de Oferta de
+Comercio Sexual con facultades para comprobar infracciones e intimar el cese de prácticas
+contrarias a la norma. Asimismo, la sanción a los medios está prevista en la Resolución
+14/2011 de la Secretaría de Comunicación Pública, reglamentaria del decreto. Un grupo de
+personas que ofrecen dichos servicios impugnó judicialmente el decreto 936/11, aduciendo
+su falta de sustento en la ley contra la trata, que ni siquiera menciona el supuesto de la
+publicidad de servicios sexuales, y por ende la restricción del derecho de intimidad por
+medio de una norma infralegal. El tribunal que resolvió el planteo en última instancia 22
+estimó, con criterio amplísimo, que las reglamentaciones del Ejecutivo son válidas en tanto
+coincidan con la finalidad de la ley, en este caso, mitigar el flagelo de la trata de personas y
+la explotación sexual. La decisión coincide con la jurisprudencia predominante de la Corte,
+para la cual “las facultades de reglamentación que confiere el art. 99, inc. 2º de la
+Constitución Nacional habilitan para establecer condiciones o requisitos, limitaciones o
+distinciones que, aun cuando no hayan sido contemplados por el Legislador de una manera
+expresa, cuando se ajustan al espíritu de la norma reglamentada o sirven, razonablemente,
+a la finalidad esencial que ella persigue, son parte integrante de la ley reglamentada y
+tienen la misma validez y eficacia que ésta” (Fallos: 190:301; 202:193; 237:636; 249:189;
+308:668; 316:1239; 318:1707; 325:645 y 330:2255).
+
+Este criterio, muy tolerante de la reglamentación de las leyes en cuanto “coincida con su
+finalidad”, aproxima casi hasta la confusión los decretos reglamentarios o ejecutivos a los
+decretos dictados en ejercicio de una delegación legislativa, prevista en el art. 76, cuyas
+características se desarrollan más adelante.
+
+La delegación legislativa supone la directa transferencia del poder para legislar del
+Legislativo al Ejecutivo, sobre la base de un “marco” en la ley delegante, que debe ser
+suficientemente preciso. La diferencia entre ejercicio de la delegación legislativa y poder
+reglamentario de las leyes es sutil y en muchas ocasiones imperceptible, si bien puede
+decirse como aproximación teórica que mientras en la delegación el Congreso cede al
+Ejecutivo la decisión sobre los contenidos de rango legislativo, en la reglamentación la labor
+de este es siempre meramente complementaria de la ley, de segundo orden, o limitado a los
+detalles y procedimientos necesarios para que aquella se ejecute.
+
+No obstante, las reglamentaciones que invaden el terreno de la ley son muy usuales, y
+pocas de ellas han generado conflictos judiciales que sirvan de base para establecer
+estándares jurisprudenciales de legitimidad. En uno de ellos, un grupo de ex soldados
+convocados a la guerra de Malvinas plantearon la inconstitucionalidad del decreto 509/88,
+reglamentario de la ley 23.109 que otorgó los beneficios previsionales a los veteranos de
+guerra, pues aquel circunscribió el derecho a aquellas personas que hubieran “participado
+en las acciones bélicas desarrolladas en el Teatro de Operaciones del Atlántico Sur”,
+excluyendo a los soldados que se encontraban físicamente en la retaguardia, sobre el
+continente, precisión que no figura en la ley23.
+
+4. Decretos de necesidad y urgencia: Art. 99.3
+
+
+22
+     Cámara en lo Contencioso Administrativo Federal de la Cap. Fed., Sala III, 26/6/2012; LL 2012-E, 489.
+23
+     CS, "Arfinetti”, 7/7/2015
+
+[[PDF p. 8]]
+Los DNU o reglamentos de urgencia constituían hacia 1989 un tipo de norma más presente
+en los trabajos académicos que en la práctica real del poder. En aquel año irrumpieron
+súbitamente para transformarse, hasta el día de hoy, en un instrumento que todos los
+presidentes han usado con frecuencia y de manera ordinaria, hasta conformar lo que la
+propia Corte describió como una “sistemática extralimitación del ejercicio de tal facultad por
+parte de los titulares del Poder Ejecutivo”, con su secuela de “debilitamiento del sistema
+republicano democrático” 24.
+
+Al dictar un DNU, el Poder Ejecutivo ejerce alguna de las facultades del Congreso, de
+manera espontánea y sin que exista delegación legislativa previa que lo autorice para ello.
+Se trata de un ejercicio liso y llano de poderes legislativos, invocando para ello razones de
+urgencia.
+
+4.1. Causas que habilitan los DNU
+
+Antes de la reforma de 1994, la doctrina y la jurisprudencia abordaron la cuestión relativa a
+las causas que habilitan legítimamente el dictado de un DNU. La primera aproximación que
+la Corte realizó en relación con ello fue en el recordado caso “Peralta” (1990), donde
+rechazó la impugnación realizada al DNU nº 36/90 por el que se había dispuesto la
+devolución en títulos públicos de los depósitos a plazo fijo que se encontraban constituidos
+en las entidades financieras a la fecha del decreto.
+
+En los considerandos 16º a 31º de aquella sentencia la Corte formuló una breve teoría
+sobre los DNU y sus condiciones de validez. Sostuvo que proceden ante a una “situación de
+grave riesgo social”, frente a la cual exista la necesidad de “medidas súbitas” y cuya eficacia
+no sea posible por medio de una ley. Estimó que el DNU 36/90 había resultado esencial
+para el “aseguramiento de la paz y el orden social”25 (considerando 29º), y asimismo
+inevitable, pues la eficacia de la medida adoptada requería precisamente de un carácter
+sorpresivo que sólo la vía del decreto podía lograr, a fin de evitar la huída de los ahorristas
+que hubiera provocado el anuncio de una eventual ley con el mismo objeto26.
+
+Tales menciones bastaron para explicar la causa de los DNU en general y en particular para
+justificar la invocada en el decreto 36/90. Por su parte, como requisito de validez ex post la
+Corte señaló la necesidad de que “el Congreso de la Nación no adopte decisiones
+diferentes” a las del DNU (consid. 24º), rechazándolo o repudiándolo (consid. 25º), cosa que
+no había sucedido27. Vale decir que a falta de rechazo expreso, el DNU debía entenderse
+aceptado de manera tácita o ficta.
+
+La laxitud en la formulación del presupuesto fáctico habilitante de los DNU, junto al sentido
+convalidatorio que se asignó al silencio, la indefinición o la ambigüedad del Congreso,
+fueron entendidos como un aval de la Corte a una práctica que venía creciendo y que luego
+se volvió desmesurada; de allí la connotación negativa que en general arrastra aquel fallo.
+
+24
+   CS, “Consumidores Argentinos” (2010), consid. 5º.
+25
+   Las alusiones a la paz y al orden social que se realizan en el fallo se vinculan con la amenaza que existía al momento del
+dictado del DNU, de un proceso hiperinflacionario como el que había existido seis meses antes y que había provocado la
+paralización de la economía, una grave crisis social y la renuncia anticipada del Presidente Raúl Alfonsín.
+26
+   La retención de los depósitos y su devolución con bonos (“Plan Bonex”) buscó recortar drásticamente el circulante
+monetario, y deprimir la demanda de dólares de los tenedores de dinero, a fin de atenuar la inflación. Para ampliar ver: Sáenz,
+Juan I.: “Balance crítico sobre la jurisprudencia en materia de emergencia económica”, en El Derecho Administrativo de la
+Emergencia II, Fundación de Derecho Administrativo, 2002, ps. 157/184.
+27
+   Para la Corte existió una convalidación implícita pues la ley 23.871 se refirió tangencialmente a la medida adoptada por el
+DNU (al mencionar a “la conversión obligatoria de activos dispuesta por el Poder Ejecutivo”).
+
+[[PDF p. 9]]
+Ello llevó a que en el proceso de reforma constitucional de 1994 se planteara como uno de
+los puntos fundamentales la regulación restrictiva de los DNU28, cuyo resultado es el art.
+99.3 CN29.
+
+Sin embargo, el texto de esa disposición conserva cierta imprecisión en relación a la causa
+que justifica la emisión de un DNU (circunstancias excepcionales que hacen imposible
+seguir los trámites ordinarios para la sanción de una ley), y asimismo omite ciertas
+cuestiones fundamentales, como fijar un plazo para que el Congreso se pronuncie -como
+condición de validez del decreto-, y que esa intervención reúna ciertas condiciones de
+carácter deliberativo. En lugar de ello, la Constitución sólo dispone que el Congreso debe
+dar “inmediato” y “expreso” tratamiento al DNU. Esas deficiencias del texto constitucional
+permitieron que el Poder Ejecutivo continuara –luego de 1994-, actuando con arbitrariedad
+en la valoración acerca de la excepcionalidad de las circunstancias y de la imposibilidad de
+sancionar leyes, y así suele considerar excepcional lo que es ordinario, e imposible lo que
+en realidad es poco conveniente, dificultoso o menos cómodo.
+
+La Corte Suprema tuvo oportunidad de precisar los límites constitucionales a los DNU a
+través de dos fallos: “Verrocchi” (1999) y “Consumidores Argentinos” (2010).
+
+En el primero revisó un DNU que excluía a un grupo de trabajadores de las asignaciones
+familiares otorgadas por una ley30. En primer lugar la Corte determinó que la revisión acerca
+de la existencia de causa legítima para el dictado de un DNU es una cuestión justiciable y
+no a una típica “cuestión política” exclusiva del Ejecutivo y del Congreso, tal como lo
+sostuviera la mayoría del tribunal en un caso anterior (“Rodríguez, Jorge”, 1997)31. Según
+se sostenía en ese precedente, los DNU tienen “un específico ámbito de contralor en sede
+parlamentaria”(consid. 13º), único para “pronunciarse acerca de la concurrencia de los
+extremos -de valoración política- que habilitan el ejercicio de la facultad excepcional del
+Poder Ejecutivo, así como de la oportunidad, mérito y conveniencia de su contenido”
+(consid. 15).
+
+En “Verrocchi” la Corte revirtió aquella posición auto-restrictiva y en un breve párrafo dejó
+en claro que la revisión de las condiciones en que fue emitido un DNU, cuando ello afecta
+derechos subjetivos, es de carácter “judicial”: “corresponde al Poder Judicial el control de
+constitucionalidad sobre las condiciones bajo las cuales se admite esa facultad excepcional,
+que constituyen las actuales exigencias constitucionales para su ejercicio. Es atribución de
+
+28
+   El “Núcleo de Coincidencias Básicas” incluido en la ley declarativa de la necesidad de la reforma de la Constitución (24.309,
+art. 2º), preveía en su punto g), la “regulación de la facultad presidencial de dictar reglamentos de necesidad y urgencia”.
+29
+   De acuerdo con los debates de la Convención, el modelo adoptado es el de la Constitución de Italia, cuyo art. 77 establece:
+“No podrá el Gobierno, sin delegación de las Cámaras, dictar decretos que tengan fuerza de ley ordinaria. Cuando en casos
+extraordinarios de necesidad y de urgencia el Gobierno adopte, bajo su responsabilidad, medidas provisionales con fuerza de
+ley, deberá presentarlas el día mismo para su conversión a las Cámaras, las cuales, incluso hallándose disueltas, serán
+debidamente convocadas y se reunirán dentro de los cinco días siguientes. Los decretos perderán todo efecto desde el
+principio si no fueren convertidos en ley dentro de los sesenta días de su publicación. Las Cámaras podrán, sin embargo,
+regular mediante ley las relaciones jurídicas surgidas en virtud de los decretos que no hayan resultado convertidos”.
+30
+   Por medio del DNU 770/96, se limitó el universo de beneficiarios de las asignaciones familiares creadas por la ley 18.017
+(aportes del Estado; vgr.: para la escolaridad de los hijos, por maternidad, etc.), quedando excluidos los trabajadores con
+remuneración superior a $ 1.000 (pesos mil). El contenido legislativo del decreto era evidente, dejar sin efecto una ley
+sancionada en ejercicio de la facultad del Congreso de la Nación de reglar materia laboral (art. 75 inc. 12 CN), y la de otorgar
+los “beneficios de la seguridad social”, objeto que la Constitución encomienda a una “ley” (art. 14 bis CN). Ezio Verrocchi se
+vio directamente afectado por la mencionada exclusión, al verse privado –por superar su sueldo la suma tope fijada- de los
+beneficios que había gozado durante años bajo la ley 18.017.
+31
+   “Rodríguez, Jorge - Jefe de Gabinete de Ministros de la Nación s/ plantea cuestión de competencia” (1997). El DNU
+establecía la creación del sistema nacional de aeropuertos, su organismo regulador (ORSNA) y la concesión de su
+explotación. Un grupo de legisladores había impugnado el DNU, obteniendo una medida cautelar favorable en primera
+instancia, frente a lo cual el Jefe de Gabinete de Ministros pidió una avocación a la Corte, cuyo resultado fue el caso
+“Rodríguez”, que declaró la cuestión como “no justiciable”.
+
+[[PDF p. 10]]
+este Tribunales en esta instancia evaluar el presupuesto fáctico que justificaría la adopción
+de decretos de necesidad y urgencia y, en este sentido, corresponde descartar criterios de
+mera conveniencia ajenos a circunstancias extremas de necesidad, puesto que la
+Constitución no habilita a elegir discrecionalmente entre la sanción de una ley o la
+imposición más rápida de ciertos contenidos materiales por medio de un decreto” (consid.
+9º, párr. 2º)32.
+
+Colocada la existencia de “causa” legítima dentro del universo de las cuestiones revisables
+por los tribunales, la Corte desarrolló su tesis sobre los extremos que hacen configurar
+dicha causa.
+
+Se establece que la excepción a la regla general de prohibición de legislar que pesa sobre
+el Presidente está dada por un “estado de necesidad”, que es aquel en el cual se verifican
+dos circunstancias: “1) Que sea imposible dictar la ley mediante el trámite ordinario previsto
+por la Constitución, vale decir, que las cámaras del Congreso no puedan reunirse por
+circunstancias de fuerza mayor que lo impidan, como ocurriría en el caso de acciones
+bélicas o desastres naturales que impidiesen su reunión o el traslado de los legisladores a
+la Capital Federal; o 2) que la situación que requiere solución legislativa sea de una
+urgencia tal que deba ser solucionada inmediatamente, en un plazo incompatible con el que
+demanda el trámite normal de las leyes” (considerando 9º).
+
+Vale decir que el tipo de situación que da lugar a un DNU es sumamente acotado, pues
+aquella sólo se verifica ante un “estado de necesidad”33 (donde es impostergable la
+adopción de una medida inmediata), conjugado con un supuesto de “fuerza mayor”34
+consistente en el impedimento fáctico absoluto para que las cámaras del Congreso se
+reúnan y sancionen una ley en tiempo útil35. De ello debe derivarse que quedan excluidas
+como causas justificantes las meras dificultades, o los impedimentos jurídicos (vgr. que el
+Congreso se encuentre en receso), y mucho más los políticos (vgr. que no se logre el
+quórum para sesionar o que el Presidente no cuente con apoyo en una o en las dos
+cámaras).
+
+De modo que el presupuesto que la Constitución establece en el 99.3 no es meramente la
+genérica “emergencia” (como lo es en el caso de la delegación legislativa prevista y
+regulada en el art. 76 CN), la cual ciertamente supone una situación excepcional que
+requiere medidas rápidas, sino un estado particularísimo de urgencia donde concurren dos
+circunstancias: a) el Congreso no puede reunirse; b) hace falta arbitrar una solución (de
+contenido legislativo) inmediata a un problema grave36.
+
+
+
+32
+   Con ello la Corte retomó la tradición jurisprudencial del precedente "Soria de Guerrero” (Fallos: 256:556), según la cual no
+está exenta del control judicial la violación de las normas constitucionales que regulan el proceso de creación de las normas, y
+la concurrencia de los requisitos mínimos e indispensables que condicionan su vigencia (Fallos: 268:352; 318:445; 319:1479;
+321:3487; 323:2256 y 330:2222).
+33
+   Noción jurídica según la cual se considera justificado un daño a otra persona o a un bien jurídico provocado con el fin de
+evitar un mal mayor, siempre y cuando no pueda ser evitado por otro medio menos lesivo.
+34
+   Como es sabido, la fuerza mayor consiste en todo acontecimiento que no ha podido preverse, o que previsto, no ha podido
+evitarse.
+35
+   ¿Cuánto tiempo insume la sanción de una ley? Los reglamentos de ambas Cámaras admiten la posibilidad de un trámite
+sumarísimo, a través del tratamiento y votación directa en el recinto sin necesidad de tratamiento en las comisiones
+legislativas (mediante lo que se denomina en la jerga parlamentaria, tratamiento “sobre tablas”). En este sentido, deben
+tenerse presentes las experiencias de leyes sancionadas en el término de muy pocos días (vgr. la ley de emergencia nº 25561
+de enero de 2002).
+36
+   El Juez Fayt había anticipado este criterio al votar en disidencia en el caso “Rodríguez Jorge” mencionado, donde expresó
+que “la excepción a la prohibición de legislar, impuesta por la Constitución Nacional al Poder Ejecutivo, está condicionada a la
+
+[[PDF p. 11]]
+Definida de ese modo la “causa” de los DNU, a la Corte le bastó en “Verrocchi” y en varios
+casos posteriores con un somero examen de la “motivación” de los decretos para dejar en
+evidencia la ausencia de las condiciones objetivas para su dictado.
+
+En “Verrocchi”, se expresó que el DNU 770/96 no aludía mínimamente a alguna
+imposibilidad real para que el Congreso se reuniera a los fines de tomar aquella medida, ni
+afirmaba siquiera que la necesidad de establecer un techo salarial para el cobro de las
+asignaciones familiares fuera impostergable, sino que sólo refería a ello como “imperativo” e
+“indispensable” para adecuar el régimen a la disponibilidad de recursos. Como conclusión,
+señala el fallo que “Estas afirmaciones resultan dogmáticas e insuficientes pues no
+alcanzan a justificar la imposibilidad de revitalizar el régimen de las asignaciones familiares
+por medio del ejercicio de la función legislativa por el Congreso de la Nación”, agregando
+que “En estas condiciones, cabe concluir en la invalidez de los decretos cuestionados en el
+sub lite, por cuanto no ha existido ninguna de las circunstancias fácticas que la norma
+constitucional describe con rigor de vocabulario” (consid. 10º).
+
+La doctrina de “Verrocchi” fue ratificada en “Consumidores Argentinos” (2010). La ocasión
+surgió a raíz de una peculiar situación política y judicial producida entre fines de 2009 y
+comienzos de 201037, frente a la cual la Corte pretendió dejar sentada una posición
+categórica en relación a los límites constitucionales de los DNU.
+
+La sentencia declaró la inconstitucionalidad del DNU 558/02, que había introducido
+modificaciones permanentes a la ley 20.091 que regula la actividad aseguradora,
+reproduciendo la doctrina del caso “Verrocchi”, a la que agregó algunas consideraciones de
+interés38.
+
+En primer lugar, la Corte realizó una enérgica revindicación de las facultades judiciales de
+revisión de los DNU, que contrasta con las opiniones políticas de la época en las que se
+fustigó a los jueces que habían suspendido los efectos de los DNU 2010/09 y 298/10.
+Sostuvo la Corte: “no puede sostenerse, en modo alguno, que el Poder Ejecutivo puede
+sustituir libremente la actividad del Congreso o que no se halla sujeto al control judicial”
+(consid. 7º in fine) (…) En este aspecto, no puede dejar de advertirse que el constituyente
+de 1994 explicitó en el art. 99, inc. 3º, del texto constitucional estándares judicialmente
+
+existencia de circunstancias excepcionales, propias de un estado de necesidad, que exijan medidas de urgencia que deban
+adoptarse en un tiempo menor al que requiere al Congreso la sanción de las leyes”.
+37
+   En diciembre de 2009, a poco de finalizadas las sesiones ordinarias del Congreso, el Poder Ejecutivo emitió el DNU
+2010/09, por el cual destinó una cantidad de las reservas de divisas extranjeras bajo custodia del Banco Central, al pago de
+obligaciones de deuda pública con vencimientos durante el año 2010. La medida no sólo importaba el ejercicio de la facultad
+del Congreso de “arreglar el pago de la deuda interior y exterior de la Nación” (art. 75.7 CN), sino que constituía una orden
+impartida por el PEN hacia el Banco Central, en oposición a la ley 24.144 según la cual carece de facultades para emitir
+“órdenes o instrucciones” a la entidad. El Presidente del BCRA se negó a instrumentar la transferencia de divisas ordenada, lo
+cual motivó que por vía de otro DNU -18/2010- la Presidenta lo removiera de su cargo por considerarlo incurso en “mala
+conducta e incumplimiento de los deberes de funcionario público”. Frente a la negativa del Poder Ejecutivo a convocar a
+sesiones extraordinarias para tratar el decreto 2010/09, algunos diputados promovieron acciones judiciales contra la medida.
+El 13 de enero de 2010 un tribunal de primera instancia suspendió los efectos de la norma, lo cual fue confirmado por la
+Cámara con fecha 22 de enero, destacándose en ambos casos la inexistencia de una “imposibilidad funcional del Congreso”
+para tratar la medida, así como su falta de inmediatez, dado que disponía pagos a realizar durante todo el año 2010, lo cual
+demostraba una “injustificada premura” y un intento de “evitar a rajatabla” la participación del Poder Legislativo. Ello motivó un
+ataque virulento del gobierno contra los jueces (ver discurso del 12/1/2010 y Conferencia del 19/1/2010 en
+www.casarosada.com.ar), y finalmente una maniobra de elusión de las decisiones judiciales que consistió en derogar el
+decreto suspendido y reemplazarlo por otro idéntico (DNU 298/10) anunciado en el acto de apertura de sesiones ordinarias del
+Congreso de la Nación del 1º de marzo de 2010, que agotó sus efectos sin intervención alguna del Congreso y sin revisión
+judicial oportuna.
+38
+   La asociación, en nombre de los consumidores, impugnó el DNU 558/02, que había modificado la ley 20.091 que regula la
+actividad aseguradora, posibilitando a las aseguradoras tomar deuda poniendo en garantía los mismos activos sujetos a la
+ejecución de los asegurados, a fin de resolver la situación de iliquidez propia de la crisis de 2001/02, pero en desmedro de los
+particulares.
+
+[[PDF p. 12]]
+verificables respecto de las situaciones que deben concurrir para habilitar el dictado de
+disposiciones legislativas por parte del Presidente de la Nación. El Poder Judicial deberá
+entonces evaluar si las circunstancias invocadas son excepcionales, o si aparecen como
+manifiestamente inexistentes o irrazonables; en estos casos, la facultad ejercida carecerá
+del sustento fáctico constitucional que lo legitima” (consid. 11º); y concluye –enérgicamente-
+: “cabe descartar de plano, como inequívoca premisa, los criterios de mera conveniencia
+del Poder Ejecutivo que, por ser siempre ajenos a circunstancias extremas de necesidad, no
+justifican nunca la decisión de su titular de imponer un derecho excepcional a la Nación en
+circunstancias que no lo son. El texto de la Constitución Nacional no habilita a elegir
+discrecionalmente entre la sanción de una ley o la imposición más rápida de ciertos
+contenidos materiales por medio de un decreto” (consid. 13º).
+
+Luego, la Corte hizo fuerte hincapié en la finalidad explícita de los convencionales
+constituyentes de 1994 de atenuar el presidencialismo y fortalecer al Congreso. “El dato
+relevante para la decisión –señala la sentencia- fue la sistemática extralimitación del
+ejercicio de tal facultad por parte de los titulares del Poder Ejecutivo”. Luego de citar las
+principales opiniones expresadas en la Convención, se concluye que “todo lo aquí expuesto
+no permite albergar dudas en cuanto a que la Convención reformadora de 1994 pretendió
+atenuar el sistema presidencialista, fortaleciendo el rol del Congreso y la mayor
+independencia del Poder Judicial (confr. en igual sentido "Verrocchi", Fallos: 322:1726, y
+sus citas)” (consid. 9°), y que “el texto transcripto (en referencia al art. 99.3 CN) es
+elocuente y las palabras escogidas en su redacción no dejan lugar a dudas de que la
+admisión del ejercicio de facultades legislativas por parte del Poder Ejecutivo se hace bajo
+condiciones de rigurosa excepcionalidad y con sujeción a exigencias formales, que
+constituyen una limitación y no una ampliación de la práctica seguida en el país” (consid.
+10°).
+
+4.2. La intervención posterior del Congreso
+
+La reforma constitucional revirtió el principio de convalidación tácita sostenido en “Peralta”,
+estableciendo la necesidad de un tratamiento “expreso” para los DNU y prohibiendo en
+general la sanción tácita o ficta del Congreso (art. 82). La regla tuvo su primera aplicación
+en “Verrocchi”: la Corte no otorgó allí carácter ratificatorio a la ley 24.714, a pesar de que
+esta dispuso los mismos contenidos materiales que el DNU 770/96, lo que según el tribunal
+no equivalía a su convalidación expresa.
+
+Sin embargo, con posterioridad la Corte toleró la ratificación tácita en el caso “Aceval
+Pollachi” (2011) 39, donde consideró que la ley 25.972, en cuanto reiteró el objeto de
+anteriores DNU (883/02; 662/03; 256/03; 1351/03; 369/04 y 823/04 que prorrogaron
+sucesivamente la duplicación indemnizatoria de despidos dispuesta por la ley 25.561) debía
+entenderse como convalidatoria de aquellos. Tampoco se han opuesto reparos a la
+ratificación “vacía” (donde no hay verdadero tratamiento del DNU, sino sólo una votación
+favorable), ni a la ratificación “tardía” (en casi todos los casos la ratificación del Congreso se
+produce años después de dictado el DNU, lo cual es contrario al tratamiento “inmediato” que
+impone el art. 99.3 CN).
+
+En definitiva, ni la Constitución ni la jurisprudencia de la Corte han resuelto los problemas
+relativos a la oportunidad y la forma en que el Congreso interviene en forma posterior a un
+39
+     CS, “Aceval Pollacchi” (2011)
+
+[[PDF p. 13]]
+DNU. La reforma suprimió el silencio positivo, pero al no fijar un plazo para la intervención
+parlamentaria -como sí lo hacen la Constitución española o la Constitución de la Ciudad de
+Buenos Aires40-, dejó las cosas casi en el mismo lugar que antes, al permitir que los DNU
+produzcan sus efectos durante todo el tiempo en que el Congreso no se pronuncia sobre
+ellos, para lo cual pueden pasar años o no ocurrir nunca, como en el caso de muchos DNU.
+
+El obrar del Congreso agravó las cosas. En la demoradísima ley 26.122, del año 2006, que
+reglamenta su intervención, no sólo omitió fijarse un plazo sino que además consagró la
+eficacia de los DNU con la voluntad de una sola de las cámaras, al prever su artículo 24 que
+“el rechazo por ambas Cámaras del Congreso del decreto de que se trata implica su
+derogación”, lo cual significa –a contrario sensu- que basta la aprobación de una sola, o
+peor, su silencio o reticencia para tratarlo, para que el DNU continúe vigente a pesar de
+haber recibido el rechazo de la otra cámara41. En definitiva, el silencio o la indefinición del
+Congreso carecen de sanción jurídica, y un DNU puede agotar sus efectos sin intervención
+del Congreso, lo que nos retorna al estado de cosas pre-reforma42.
+
+En este aspecto, son interesantes los votos de los jueces Petracchi, Maqueda y Argibay en
+“Consumidores”, en cuanto propician soluciones drásticas al problema, con las que
+concuerdo. Petracchi viene sosteniendo desde “Verrocchi” que los DNU emitidos sin una
+regulación adecuada de la intervención del Congreso son –sencillamente-
+inconstitucionales43. En relación a los emitidos con anterioridad a la sanción de la ley
+26.122, lo entiende así por el sólo hecho de no haber intervenido la comisión bicameral
+permanente que, conforme con el 99.3 CN, tiene la función esencial de dictaminar sobre la
+ratificación o rechazo del DNU antes de que ello se trate en el pleno de ambas cámaras. Y
+sobre los otros aspectos fundamentales de la intervención parlamentaria, afirmó que
+además de la causa-antecedente relativa a la urgencia y a la imposibilidad de reunir al
+Congreso, son esenciales: a) la creación efectiva de la comisión bicameral; b) la regulación
+de la intervención del Congreso en relación al plazo de las cámaras para expedirse; c) las
+mayorías (simples o especiales) requeridas para la aprobación o rechazo del decreto; d) el
+significado de eventuales pronunciamientos antagónicos de las Cámaras; e) si el Congreso,
+en caso de aprobar el decreto, podrá (o no) introducirle modificaciones; f) los efectos ex
+tunc o ex nunc de un rechazo (consid. 12º del voto en “Verrocchi”). Y para el caso de tener
+que juzgarse la constitucionalidad de un DNU posterior al 2006 –cosa que aún no ha
+sucedido en instancia de la Corte-, cabe pensar que la solución debería ser la misma, ya
+que la ley 26.122 no prevé el plazo de las cámaras para expedirse.
+
+40
+  El art. 91 de la Constitución de la CABA establece que la Legislatura “debe ratificar o rechazar los decretos de necesidad y
+urgencia dictados por el Poder Ejecutivo, dentro de los treinta días de su remisión. Si a los veinte días de su envío por el Poder
+Ejecutivo no tienen despacho de Comisión, deben incorporarse al orden del día inmediato siguiente para su tratamiento.
+Pierden vigencia los decretos no ratificados. En caso de receso, la Legislatura se reúne en sesión extraordinaria por
+convocatoria del Poder Ejecutivo o se autoconvoca, en el término de diez días corridos a partir de la recepción del decreto”. La
+Constitución italiana prescribe al respecto que “los decretos perderán todo efecto desde el principio si no fueren convertidos en
+ley dentro de los sesenta días de su publicación” (art. 77).
+
+41
+   La Corte resolvió una causa donde una asociación había planteado la inconstitucionalidad del art. 24 de la ley 26.122. Negó
+legitimación a esa entidad, por considerar que carecía de un interés “substancial” y con suficiente “concreción e inmediatez” en
+relación a aquella disposición (CS, “Asociación por los Derechos Civiles (ADC) c. Estado Nacional - ley 26.124”, 3/8/2010).
+42
+   El Proyecto de ley modificatorio de la ley 26.122 que obtuvo media sanción en la Cámara de Diputados en 2010 proponía
+establecer que las cámaras se expidieran en la primera sesión posterior a la recepción del dictamen de la Comisión Bicameral,
+y que perderían vigencia los decretos que no fueran aprobados en forma expresa por ambas Cámaras dentro de los sesenta
+(60) días corridos contados desde la fecha de su dictado. (Orden del Día nº 146/2010). A su vez, en lo relativo a la aprobación
+establecía que debía concurrir la voluntad de las dos cámaras.
+43
+   Vid. casos "Risolia de Ocampo" -Fallos 323:1934-; "Zofracor" -Fallos 325:2394-; "Muller" -Fallos: 326: 1138-; "Leguizamón" –
+Fallos 327:5559-; “Aceval Pollacchi”-Fallos 334: 799- y “Coopser”, del 30/10/12.
+
+[[PDF p. 14]]
+Por su parte, la jueza Argibay había anticipado ya en su voto en la causa “Massa” (2006),
+originada en el DNU 214/02 de pesificación de los depósitos bancarios, que la intervención
+parlamentaria debía producirse bajo rigurosas condiciones de tratamiento inmediato y
+debate expreso para que la ratificación del Congreso sea válida. Respecto de la norma que
+se examinaba en ese caso expresó que “La tardía ratificación por el Congreso, casi tres
+años más tarde, mediante un artículo incluido en la ley de presupuesto 25.967, sin mayor
+debate, es de todo punto de vista inaceptable, puesto que no sólo se aparta del
+procedimiento constitucional en sentido literal, sino que frustra la finalidad misma del
+artículo 99.3, cual es la de asegurar una deliberación oportuna y pública en el seno del
+Congreso para decidir sobre la ratificación o rechazo de los decretos de necesidad y
+urgencia. La brevedad de los plazos contenidos en el tercer párrafo del artículo 99.3 busca
+precisamente evitar que el decreto presidencial se transforme en un hecho consumado de
+difícil reversión por el Congreso y que la ciudadanía, por tratarse de un tema actual y
+vigente, pueda seguir la deliberación legislativa. El dispositivo constitucional creado a tales
+fines sería perfectamente superfluo si esta Corte acepta como sucedáneo el atajo de la
+ratificación de los decretos de necesidad y urgencia mediante un artículo incluido de manera
+descontextualizada en una ley de presupuesto dictada años más tarde”. Según Argibay –en
+una idea que comparto plenamente- la Constitución al crear el procedimiento de revisión de
+los decretos de necesidad y urgencia, “pretende mucho más que la sola aprobación o
+rechazo por el Congreso” (Fallos: 329:5913, 5937, voto de la jueza Argibay). Con iguales
+fundamentos consideró que el DNU revisado en el caso “Consumidores”, que no había
+merecido tratamiento legislativo alguno, era insanablemente nulo. En el mencionado caso
+“Aceval Pollacchi” (2011), también consideró que la ratificación a los DNU de prórroga de la
+doble indemnización, era inválida, por implícita y por extemporánea44.
+
+5. Delegación legislativa y “decretos o reglamentos delegados”: art. 76
+
+La delegación legislativa es la transferencia directa que el Poder Legislativo realiza al
+Presidente, a alguno de los entes que se encuentran en su órbita, o a otros órganos
+constitucionales, del ejercicio directo de alguna de sus atribuciones, lo cual da lugar a los
+llamados decretos o reglamentos delegados. Se trata de una práctica común, prevista
+constitucionalmente, en los países con sistemas parlamentaristas (Inglaterra, Francia, Italia,
+España, Alemania, etc.), y se encuentra admitida también en los Estados Unidos a pesar
+del silencio de su Constitución al respecto, por vía de la jurisprudencia de la Corte Suprema
+y de acuerdo con las condiciones que allí se han establecido para su validez.
+
+En nuestro país la delegación de funciones del Congreso al Presidente u órganos de la
+Administración ha recorrido los dos caminos: fue practicada históricamente sin previsión
+constitucional, tuvo validación general e imposición de ciertos límites en la jurisprudencia de
+la Corte, reconocimiento y regulación constitucional en la reforma de 1994 (artículo 76), y
+nueva jurisprudencia posterior que delimita sus posibilidades a la luz de los requisitos
+constitucionales que establece dicha disposición.
+
+
+44
+    Petracchi y Argibay han confirmado ese temperamento en una disidencia conjunta en el caso “Camaronera Patagónica”
+(2014), donde se examinó una resolución ministerial que había establecido impuestos a la exportación invocando una
+delegación legislativa previa. Mientras la mayoría de la Corte declaró la nulidad de la resolución –por versar sobre materia
+tributaria que es indelegable- pero consideró ratificado el tributo por medio de la ley 25.645, Petracchi y Argibay consideraron
+que dicha ley no podía entenderse como ratificatoria del acto ministerial, pues no traducía una voluntad legislativa clara y
+explícita de avalar los contenidos de aquella (consid. 20º de la disidencia). Para ampliar ver: Sáenz, Juan I., “Los casos
+‘Verrocchi’ y ‘Consumidores Argentinos’: condiciones de validez de los DNU”, en Cassagne, Juan Carlos (Dir.), Colección de
+Máximos Precedentes de la Corte Suprema de Justicia de la Nación, La Ley, 2ª. edición, 2014.
+
+[[PDF p. 15]]
+Si bien la delegación legislativa tiene una connotación inicial negativa, pues implica la
+abdicación del Congreso en el ejercicio de una facultad, con el crujido que ello significa para
+el principio de legalidad y la idea deliberativa45, su justificación tradicional se vincula con
+razones de eficiencia y rapidez en la solución de situaciones de crisis, y de solvencia en
+materias legislativas específicas. En el primero de los supuestos mencionados, la
+delegación se fundamenta en la necesidad de adoptar decisiones legislativas inmediatas
+ante una emergencia, lo cual es incompatible normalmente con el trabajoso trámite de hacer
+funcionar a una legislatura numerosa y plural y procurar la sanción de las leyes; esto es:
+convocar a los legisladores con cierta antelación, lograr los quórum necesarios, tratar los
+proyectos en las comisiones parlamentarias especializadas (y en el mejor de los casos, de
+modo deliberativo y abierto al consenso), otorgar plazos reglamentarios para el estudio de
+los legisladores, realizar las sesiones, girar el proyecto a la otra cámara para su revisión (y
+eventualmente volver a recibirlo en la cámara de origen), pasarlo al Ejecutivo para su
+intervención, etc. Por el contrario, la emisión de un decreto es expedita: requiere de tanta
+preparación previa como prefiera el Presidente, y su decisión unilateral.
+
+En el segundo caso, la razón de la delegación es la naturaleza de la materia legislativa –
+técnica o especializada- cuyo abordaje se considera mejor entregárselo a un órgano
+ejecutivo que posea mayor capacidad de análisis o solvencia profesional que el Congreso46.
+Es lo que ocurre desde antiguo, en todo el mundo: las legislaturas o parlamentos crean un
+marco legal y delegan al Poder Ejecutivo o a una autoridad especializada –en órbita de
+alguno de los poderes o totalmente independiente-, el dictado de la legislación de un ámbito
+o materia específica. En nuestro país existen ejemplos típicos de ello, tanto de delegación
+directa al Ejecutivo de materias fundamentales de administración (organización ministerial,
+ejecución presupuestaria) como de delegación a entes especiales (al Banco Central en
+materia de regulación monetaria, financiera y cambiaria, a los organismos recaudadores en
+administración tributaria y a los genéricamente denominados “entes reguladores” en todo lo
+referido a servicios públicos y actividades de especial interés público) 47.
+
+Antes de la reforma de 1994, la delegación legislativa tuvo su gran hito jurisprudencial en el
+caso “A.M. Delfino”48 en el cual convalidó la delegación conferida al Poder Ejecutivo en una
+ley para ejercer la “la policía de los mares, ríos, canales y puertos” y crear sanciones a ser
+aplicadas además por un organismo administrativo, la Prefectura del Puerto de Buenos
+Aires.
+
+
+
+45
+   Remito al comentario del artículo 14 CN, en relación a la exigencia de ley formal para todo contenido normativo que implique
+una restricción (reglamentación) de los derechos.
+46
+   Y como ha dicho la Corte, “mayor información obtenida merced a su contacto cotidiano e inmediato con la realidad
+económica y social del país” (Fallos: 246:345)
+47
+   En los Estados Unidos, ese tipo de delegación se encuentra generalizada (“subdelegation”) y es ejercida a través de las
+agencias o comisiones, que son entes independientes o en órbita del Poder Ejecutivo que legislan (“rule‐making”) e incluso
+ejercen funciones de resolución de conflictos –cuasi judiciales-. En otros países donde se encuentra prevista la función
+“reglamentaria” del Ejecutivo –vgr. España y Argentina-, también existen numerosos organismos administrativos con
+capacidad para dictar normas sobre la base de un marco legal aprobado por ley. La determinación sobre la naturaleza
+“legislativa” o “reglamentaria” de esas normas es propia de un arduo examen. Algo sobre los fundamentos de existencia de
+esos entes fue dicho por la Corte en oportunidad de convalidar sus funciones jurisdiccionales, en el caso “Fernández Arias”
+(1960). Sostenía allí: “Esta típica modalidad del derecho público actual, desde luego, no ha surgido como consecuencia de
+especulaciones de orden teórico. Tampoco expresa ni encubre una determinada concepción del Estado. Muy por el contrario,
+constituye uno de los modos universales de responder, pragmáticamente, al premioso reclamo de los hechos que componen
+la realidad de este tiempo, mucho más vasta y compleja que la que pudieron imaginar los constituyentes del siglo pasado, y se
+asienta en la idea de que una administración ágil, eficaz y dotada de competencia amplia es instrumento apto para resguardar,
+en determinados aspectos, fundamentales intereses colectivos de contenido económico y social, los que de otra manera sólo
+podrían ser tardía o insuficientemente satisfechos. Así acontece, incluso, en países como Gran Bretaña y los Estados Unidos”.
+48
+   Fallos: 148:430 (1927)
+
+[[PDF p. 16]]
+Los lineamientos que se establecieron allí para la delegación legislativa pueden sintetizarse
+así:
+
+1) debe entenderse por “delegación” la transferencia total de una facultad, esto es, del
+“título” para legislar en una materia (por ejemplo, la potestad de regulación aduanera in
+totum). A esto la doctrina nacional llamó “delegación propia” y está terminantemente
+prohibido al Congreso;
+
+2) no constituye propiamente “delegación”, sino reglamentación autorizada en el ex art. 86
+inc. 2 (actual art. 99.2 CN), la habilitación que el Congreso confiere al Ejecutivo para que
+este ejerza complementariamente la función legislativa de “reglar los pormenores y detalles
+necesarios para la ejecución de la ley”;
+
+3) el poder de reglamentación del Poder Ejecutivo, y el ejercido por el Congreso en la ley
+que lo precede, son de idéntica naturaleza “legislativa”, “en el sentido de que ambos pueden
+comprender y se refieren a disposiciones de un orden semejante o igual”;
+
+4) son propias del reglamento ejecutivo “aquellas modalidades de interés secundario o de
+detalle indispensable para la mejor ejecución de la voluntad legislativa”, sin más limitación
+que la de no alterar el contenido de la ley49.
+
+De acuerdo con ello, no existe diferencia sustancial entre “lo legislativo” propio del Congreso
+y “lo reglamentario”, que es función expresa del Ejecutivo, y su relación está dada por la
+primacía jerárquica que tiene la ley y la subordinación que el reglamento le debe. Por ello,
+se ha llamado “delegación impropia” a aquellas disposiciones legales que encomiendan o
+habilitan al Ejecutivo o a la Administración a complementar la legislación (ya que no se
+considera –en la inteligencia delineada en “Delfino”- una transferencia delegativa de
+funciones, sino de facultades paralelas del Congreso y del Presidente, y donde la primera
+activa a la otra).
+
+A partir de allí el decreto delegado convivió confusamente con el decreto reglamentario –en
+la jurisprudencia al menos-, sin ocasión para establecerse con claridad en los
+pronunciamientos judiciales una diferencia que la doctrina ha persistido en establecer50.
+
+En relación a las condiciones de validez de una disposición delegada o reglamentaria, la
+Corte se limitó a precisar que si bien ellos pueden apartarse de la letra expresa de la ley o
+tratar contenidos no previstos en ella, resultaba necesario que se ajusten a la “política
+legislativa”, expresión de suma ambigüedad, que ha servido para convalidar la delegación
+prácticamente en todos los casos51.
+
+El tratamiento de la delegación legislativa quedó de esa manera emparentado con el que ha
+recibido siempre hasta el día de hoy en los Estados Unidos, ampliamente admitida por la
+
+49
+   Para el caso concreto, la Corte consideró que la ley del Congreso, al legislar el buen mantenimiento de las condiciones
+sanitarias del puerto de la Capital el orden de la navegación, había habilitado implícitamente al Ejecutivo (o este contaba de
+por sí con facultades) para dictar reglamentos a fin de prevenir todos los actos que pusieran en peligro los fines de la ley,
+como crear contravenciones.
+50
+   Ver: Bianchi, Alberto B., La delegación legislativa, Ábaco, Buenos Aires, 1990 y Santiago, Alfonso, Thury Cornejo, Valentín y
+Galeano, Juan José, Tratado sobre la delegación legislativa, Ed. Ábaco, Buenos Aires, 2003. En ambas obras se puede
+encontrar una completa recopilación de los antecedentes nacionales y extranjeros en materia de delegación legislativa.
+51
+   La expresión “política legislativa” fue empleada por la Corte por ejemplo en los casos “Prattico c/ Basso y Cía.”, Fallos:
+246:345 (1960); “Laboratorios Anodia S.A. c/ Nación”, Fallos 270:42 (1968); “Domínguez c/ Kaiser Aluminio S.A.I.C.F.”, Fallos:
+280:25 (1971); “Juan Antonio Brocchiero”, Fallos: 289:457 (1974); “The American Rubber Co. S.R.L.”, Fallos: 298:609 (1977);
+“Ufito S.R.L.”, Fallos: 304:1898 (1982) y “Romero de Martino” Fallos: 335:1227 (2012), entre otros.
+
+[[PDF p. 17]]
+Corte Suprema, tanto respecto del Presidente como de autoridades administrativas. La
+regla jurisprudencial que se ha establecido a fin de revisar su validez también indica que el
+Congreso no puede delegar de modo absoluto la función de legislar en una materia, pero sí
+puede transferir una porción del poder legislativo para llenar los detalles (fill up the details)
+que una ley –por su necesaria generalidad y brevedad- no contempla, y con la única
+exigencia de que esa ley delegante delimite con claridad los aspectos fundamentales de la
+legislación, lo cual la Corte denomina “patrón o estándar inteligible” (intelligible standard,
+discernible standard o prescribed standard)52. Al carecer la constitución norteamericana de
+una previsión como la de nuestro artículo 99.2 sobre la facultad “reglamentaria” del
+Presidente, la delegación legislativa se considera un resorte normal de la organización del
+poder y ese es el único título bajo el cual el Ejecutivo y sus entes reguladores o agencias
+emiten normas o reglamentos.
+
+Bajo el paraguas de gran tolerancia provisto por la jurisprudencia nacional, la delegación
+legislativa se expandió a todos los campos, tanto en épocas de normalidad como de
+emergencia. En un precedente, no obstante, la Corte estableció un categórico límite a la
+delegación en materia penal (caso “Mouviel53) y más recientemente hizo lo propio en
+materia tributaria54. Ambas se encuentran garantizadas en la Constitución por la rígida
+aplicación del principio de legalidad, y por ende el Poder Ejecutivo no puede regularlas, ni
+siquiera en situaciones de necesidad y urgencia (art. 99.3 CN).
+
+Un año antes de la reforma constitucional, la Corte resolvió un caso en el que –
+profundizando la doctrina de “Delfino” y adoptando los criterios de la Corte norteamericana-
+suprimió la diferencia entre ejercicio de la delegación legislativa y del poder de reglamentar
+las (“Cocchia”, 1993)55. Sostuvo allí que los decretos delegados no existían en sentido
+
+
+52
+   “United States v. Chicago, Milwaukee, St. Paul & Pacific R. Co.”, 282 U.S. 311. El Chief Justice Taft en su voto en “J. W.
+Hampton Jr. & Co. v. United States”, 276 U.S. 394 (1928), explicaba: “[…] la bien conocida máxima delegata potestas non
+potest delegare, aplicable a los entes administrativos tanto en el derecho general como en el común, es bien entendida y tiene
+mayor aplicación en la interpretación de la Constitución federal y de las constituciones estatales que en el derecho privado. La
+Constitución federal y las constituciones estatales de este país dividen el poder del gobierno en tres ramas [...] Al poner en
+práctica esa división [...] sería una ruptura de la ley fundamental que el Congreso abandonara su competencia legislativa y la
+transfiriera al Presidente o a la rama judicial, o si intentara investirse por ley de competencias ejecutivas o judiciales. Esto no
+significa que las tres ramas no son partes coordinadas de un gobierno y que cada una –en el terreno de sus atribuciones– no
+pueda apelar a la actividad de las otras dos en la medida en que dicha apelación no constituya una usurpación de la
+competencia constitucional de aquellas. La extensión y el carácter que puede tener la ayuda que un poder pueda requerirle a
+otro debe ser determinada por el sentido común y por las necesidades inherentes de la coordinación gubernamental”. Así, por
+ejemplo, se ha convalidado la delegación en cuanto a la aprobación de condiciones de calidad para la importación de té
+(“Buttfield v. Stranahan”, 192 U.S. 470 -1904-), la aprobación de de reglas sobre uso de las reservas forestales (“United States
+v. Grimaud”, 220 U.S. 506 -1911-), la fijación de la forma de expresar el contenido de los envases de productos alimenticios
+(“United States v. Shreveport Grain & Elevator Co.”, 287 U.S. 77 -1932), la determinación de prioridades en el transporte de
+cargas (“Avent v. United States”, 266 U.S. 127 -1924-), el establecimiento de precios para la distribución de la leche (“United
+States v. Rock Royal Cooperative”, 307 U.S. 533 -1939-), la regulación de precios y salarios en la industria carbonífera
+(“Sunshine Antracite Coal Co. v. Adkins”, 310 U.S. 381 -1940-), la fijación de los precios de los alquileres (“Bowles v.
+Willingham”, 321 U.S. 503 -1944-), la distribución de las cuotas de mercado en la industria tabacalera (“Fahey v. Mallonee”,
+332 U.S. 245 -1947-), etc. Existen solo dos casos significativos en la historia jurisprudencial de los Estados Unidos en los que
+la Corte declaró la inconstitucionalidad de leyes que habían delegado facultades legislativas: los casos “Panama Refining Co.
+v. Ryan”, 293 U.S. 388 (1935) y “A.L.A. Schechter Poultry Corp. v. United States”, 295 U.S. 495 (1935).
+53
+   Fallos: 237:636 (1957). Se declaró allí inconstitucional la delegación que contenía el antiguo Código Procesal Penal de la
+Nación por la que se confería potestad al Jefe de Policía de la Capital para legislador en materia contravencional (“edictos
+policiales”).
+54
+   “Selcro S.A. c/ Jefatura de Gabinete de Ministros” (2008) y “Camaronera Patagónica c/ Ministerio de Economía” (2014)
+55
+   Fallos: 316:2624 (1993). Se trataba de una demanda del gremio de Apuntadores Marítimos contra el Decreto Nº 817/1992
+por el cual –dentro de la política de reforma del Estado– se dispuso la privatización de los servicios portuarios y la
+desregulación de sus actividades en pos de reactivar el comercio exterior. Con ese fin se el decreto dejó sin efecto la
+Convención Colectiva de Trabajo que regía a los trabajadores del sindicato demandante. La Corte, por mayoría, convalidó el
+Decreto Nº 817/1992 por reputarlo producto del ejercicio legítimo de una delegación del Congreso, por doble vía: una, la ley de
+reforma del Estado 23.696, y la otra el Tratado de Asunción del Mercosur, en cuyo marco la desregulación del transporte
+marítimo y fluvial y de la actividad portuaria era necesaria a fin de satisfacer la libre circulación de bienes y personas que
+promueve el tratado. En suma, la Corte consideró que existía una política legislativa o “programa de gobierno” –como ella
+
+[[PDF p. 18]]
+estricto, sino que siempre que para que el contenidos de una ley y hacerla operativa
+estamos ante "reglamentos de ejecución"56.
+
+La gran proliferación de delegaciones del Congreso, sumada a los otros factores que
+describían el fenómeno de “hiperpresidencialismo”, llevó a incluir entre los dispositivos de la
+reforma constitucional de 1994 tendientes a atenuar esa característica, la regulación de la
+delegación legislativa, cuyo resultado es el artículo 76.
+
+El constituyente de 1994 concibe entonces a la delegación como un mecanismo anormal del
+sistema institucional (una “patología”57), de allí que –como primera disposición- la prohíbe
+terminantemente al establecer: “Se prohíbe la delegación legislativa en el Poder Ejecutivo”.
+
+Del resto de la disposición (“...salvo en materias determinadas de administración o de
+emergencia pública, con plazo fijado para su ejercicio y dentro de las bases de la
+delegación que el Congreso establezca”), se desprenden algunos requisitos de
+imprescindible observancia. La delegación (entiéndase por ello tanto la ley delegante como
+las normas de inferior jerarquía por las cuales se hace ejercicio de la delegación) sólo es
+legítima si concurren estos recaudos: 1) fundamentación en un estado de emergencia o en
+tratarse de materias específicas de administración; 2) prescripción de bases de delegación y
+adecuación de las normas “delegadas” a dichas bases antecedentes; 3) plazo determinado
+para el ejercicio de la delegación; 4) no incurrir en la regulación de determinadas materias
+consideradas indelegables, por la especial vigencia del principio de legalidad (tributaria,
+penal y electoral, como mínimo).
+
+En relación al estado de emergencia, los ejemplos más significativos sin dudas que han sido
+las leyes dictadas por el Congreso en las crisis económicas de 1989 y de 200258, que dieran
+lugar a amplísimas delegaciones a favor del Poder Ejecutivo. En cuanto a las “materias
+determinadas de administración”, estas remiten a aquellas que pertenecen al Congreso –
+que las hay-y por ende resulta necesario realizar un repaso de cuáles son ellas. Una buena
+guía la constituye la enumeración realizada en su momento por la ley 25.148 (1999), que
+ratificó con carácter general la delegación anterior a 1994, por tres años (plazo luego
+prorrogado en varias ocasiones y fenecido en 2010). Allí decía (art. 2°): “A los efectos de
+esta ley, se considerarán materias determinadas de administración, aquellas que se
+vinculen con: a) La creación, organización y atribuciones de entidades autárquicas
+institucionales y toda otra entidad que por disposición constitucional le competa al Poder
+Legislativo crear, organizar y fijar sus atribuciones. Quedan incluidos en el presente inciso,
+el correo, los bancos oficiales, entes impositivos y aduaneros, entes educacionales de
+instrucción general y universitaria, así como las entidades vinculadas con el transporte y la
+colonización; b) La fijación de las fuerzas armadas y el dictado de las normas para su
+organización y gobierno; c) La organización y atribuciones de la Jefatura de Gabinete y de
+los Ministerios; d) La creación, organización y atribuciones de un organismo fiscal federal, a
+
+misma lo denominó– constituido por un conjunto de tres leyes que habilitaban al Ejecutivo a derogar aquel régimen laboral,
+aunque ello no estuviera expresamente contemplado en las leyes delegantes.
+56
+   que en algunos casos son “adjetivos” (sólo establecen procedimientos de aplicación) y en otros “sustantivos” (cuando el
+legislador encomienda al Ejecutivo la determinación de aspectos relativos a la aplicación concreta de la ley). No existe en tal
+caso –decía la Corte- transferencia alguna de competencia, sino solo concreción de una clara política legislativa o "programa
+de gobierno aprobado por el Congreso". Cabe precisar que se juzgaba allí la constitucionalidad de un decreto que invocando
+una serie de leyes sobre reforma del Estado y desregulación económica había dejado sin efecto un convenio colectivo de
+trabajo y otras normas de rango legal.
+57
+   Santiago, Alfonso, Thury Cornejo, Valentín y Galeano, Juan José, Tratado sobre la delegación legislativa, Ed. Ábaco,
+Buenos Aires, 2003, p. 257.
+58
+   Ver: leyes 23.697 (1989) y 25.561 (2002) de “emergencia económica”.
+
+[[PDF p. 19]]
+cargo del control y fiscalización de la ejecución del régimen de coparticipación federal; e) La
+legislación en materia de servicios públicos, en lo que compete al Congreso de la Nación; f)
+Toda otra materia asignada por la Constitución Nacional al Poder Legislativo, que se
+relacione con la administración del país. Dentro de este último inciso –residual- cabe incluir
+sin dudas la reasignación de partidas del presupuesto nacional, competencia cuya
+delegación en el Jefe de Gabinete de Ministros ha sido cristalizada en una disposición de
+carácter permanente (art. 37 de la ley 24.156 de Administración Financiera).
+
+El caso “Oviedo c/ Marcone”59, resulta de especial interés porque trató una delegación de
+naturaleza administrativa, pero dirigida a la propia Corte Suprema en su carácter de cabeza
+del Poder Judicial de la Nación. Es la contenida en el Artículo 8º de la Ley Nº 23.853 (de
+autarquía del Poder Judicial) que confirió a la Corte la facultad de establecer aranceles en
+los procesos y fijar sus montos y actualizaciones, administrar los recursos del presupuesto
+judicial y adecuar el monto del recurso de queja establecido en el Artículo 286 del Código
+Procesal Civil y Comercial de la Nación. En ejercicio de esa delegación, la Corte había
+elevado por la Acordada Nº 2/2007 el monto de dicho depósito, cuya validez se discutía. En
+suma, la Corte convalida plenamente su aptitud para ser destinataria de delegación
+legislativa en materias de administración, al igual que el Poder Ejecutivo60.
+
+La ley delegante debe contener las “bases de la delegación”, es decir, aquello que en la
+jurisprudencia se llamó estándar comprensible, política legislativa o con denominaciones
+similares y que quiere significar que la ley debe definir los límites de actuación del
+Ejecutivo61. Las leyes de delegación suelen exhibir límites imprecisos, como cuando el
+Congreso se limita a señalar determinados objetivos generales (“el reordenamiento del
+sistema financiero”, el “control del mercado de cambios”, la “reactivación de la economía” o
+“la regulación de los precios”), y ciertamente el artículo 76 no ha venido a imponer un
+remedio suficiente a ello.
+
+Uno de los casos resueltos por la Corte en forma posterior a la reforma ha sido “Colegio
+Público de Abogados de Capital Federal c/ Estado Nacional”62, donde se estableció que el
+Decreto Nº 1.204/200151, por medio del cual los abogados del Estado Nacional quedaban
+exentos de la obligación de matricularse en el Colegio Público de Abogados de la Capital
+
+59
+   Fallos: 331:419 (2008)
+60
+   Ello con independencia del órgano a quien le corresponda la titularidad de la función administrativa dentro del Poder Judicial:
+si a la Corte Suprema o al Consejo de la Magistratura (ver art. 114).
+61
+   En igual sentido, el art. 76 de la constitución italiana de 1948, dispone el ejercicio de la función legislativa no puede ser
+delegado en el Gobierno sino con determinados principios y criterios directivos, y solamente por tiempo limitado y para objetos
+definidos, y la constitución española de 1978 admite la delegación legislativa por parte de las Cortes Generales en el Gobierno
+pero con una restricción altamente significativa. En efecto, lo relativo al "desarrollo de los derechos fundamentales y de las
+libertades públicas" no puede ser materia de delegación y sólo puede ser regulado por leyes orgánicas, para cuya aprobación,
+modificación o derogación se exige una mayoría absoluta en el congreso (art. 81). En las materias en las que se admite la
+delegación legislativa, la constitución obliga a delimitar con precisión su objeto y su alcance: "... la delegación legislativa habrá
+de otorgarse al Gobierno en forma expresa en materia concreta y con fijación del plazo para su ejercicio. La delegación se
+agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. No podrá entenderse
+concedida de modo implícito o por tiempo indeterminado. Tampoco podrá permitir la subdelegación a autoridades distintas del
+propio Gobierno" (art. 82.3).
+En ambos casos el contrapeso de esta posibilidad del Poder Ejecutivo de recibir por delegación del Parlamento o incluso de
+detraer para sí, en ciertas condiciones excepcionales que él mismo define, una porción de la competencia confiada al
+Congreso, reside en el principio que está en la base del régimen parlamentarista y que sustenta la organización de todo el
+sistema, a saber, la responsabilidad del gobierno ante la asamblea, la cual puede constitucionalmente obligarlo a dimitir si le
+niega su confianza o adopta una moción de censura (art. 94, Constitución italiana de 1948; art. 114, Constitución española de
+1978). En Francia, ni aun con el fortalecimiento del jefe de Estado francés en la Constitución de 1958, se llegó a legitimar
+abiertamente la técnica delegativa. Incluso entonces se mantuvo el principio teórico de la indelegabilidad propia de los poderes
+y el art. 38 faculta al Parlamento a autorizar al gobierno para adoptar durante un plazo determinado medidas que son
+normalmente del dominio de la ley, que se denominan ordenanzas.
+62
+     Fallos: 331:2406 (2008)
+
+[[PDF p. 20]]
+Federal, no había constituido un ejercicio válido de la delegación legislativa contenida en el
+Artículo 1º, apartado I, inciso f), de la Ley Nº 25.414, pues –precisamente- las “bases” allí
+establecidas eran demasiado genéricas e indeterminadas, pues si bien se encontraba claro
+el fin de lograr una reducción del gasto público, se habilitaba para ello al Ejecutivo a derogar
+disposiciones legales en general, sin discernir el tipo o subgrupo de leyes vigentes que
+podrían ser afectadas con aquel propósito63.
+
+Mas reciente, en el caso, “Camaronera Patagónica c/ Ministerio de Economía”, se declaró la
+inconstitucionalidad de la delegación establecida en el Artículo 755 del Código Aduanero
+para fijar derechos de importación y exportación, por su excesiva amplitud y falta bases que
+le den marco suficiente a la voluntad legislativa64.
+
+En la delegación, el Congreso conserva siempre la titularidad de la facultad legislativa
+delegada, con lo cual puede reasumirla en cualquier momento, y además está llamado
+especialmente a revisar los decretos delegados del Ejecutivo, ratificándolos o
+rechazándolos (ley 26.122). A su vez, mientras no sean derogados por el Congreso dichos
+decretos tienen la jerarquía normativa de una ley, a diferencia de los reglamentarios cuyo
+rango es siempre sub-legal.
+
+En relación a la delegación legislativa preexistente a la reforma fue, primero, declarada
+válida por un término de 5 años (claúsula transitoria 8ª. de la Constitución), plazo
+prorrogado por medio de la Ley Nº 25.148, de 1999, por tres años. Luego se dictaron las
+Leyes Nros. 25.645, 25.918, 26.135 y 26.519 que, por un lado, fueron prorrogando el plazo
+originalmente establecido en la Ley Nº 25.148 y, por el otro, generaron nuevas ratificaciones
+de la legislación delegada. En particular, la Ley 26.519, además de prorrogar por un año
+mas la totalidad de la delegación legislativa previa a la reforma constitucional, creó una
+comisión bicameral especial para revisar toda esa normativa, con la finalidad de elevar un
+dictamen con el universos de leyes delegantes vigentes. Ello dio lugar a la conformación de
+un equipo técnico de académicos que realizó un informe sumamente completo sobre toda la
+temática de la delegación legislativa65. Si bien dicho informe estuvo dirigido a sustentar
+decisiones del Congreso “acerca de la necesidad y/o conveniencia política de renovar o no
+las delegaciones legislativas contenidas en las leyes sancionadas con anterioridad a la
+mencionada reforma constitucional”, el plazo fijado en la Ley Nº 26.519 para revisar la
+legislación delegante venció el 24 de agosto de 2010 y no ha sido prorrogado, por lo cual la
+delegación anterior a 1994 debe reputarse que –en principio- ha caducado.
+
+
+
+
+63
+   Esa norma, del año 2001, establecía: “Facúltase al Poder Ejecutivo nacional al ejercicio de las siguientes atribuciones hasta
+el 1º de marzo del año 2002. I. Materias determinadas de su ámbito de administración: […] f) Con el objeto exclusivo de dar
+eficiencia a la administración podrá derogar total o parcialmente aquellas normas específicas de rango legislativo que afecten
+o regulen el funcionamiento operativo de organismos o entes de la administración descentralizada, empresas estatales o
+mixtas, o entidades públicas no estatales, adecuando sus misiones y funciones”
+64
+   “ni la Ley Nº 22.415 ni mucho menos la Ley Nº 25.561 establecen, siquiera con mínimos recaudos, los elementos esenciales
+del tributo de que se trata. Por una parte, la Ley Nº 25.561 solo contiene en su Artículo 5º, tercer párrafo, in fine, una previsión
+de creación de un derecho a la exportación de hidrocarburos, supuesto ajeno al de la especie cuya constitucionalidad no es
+objeto aquí de discusión. Pero, con la salvedad mencionada, no hay otra disposición en su articulado que permita establecer,
+con claridad y sin duda alguna, las pautas de la clara política legislativa a las cuales debe atenerse el Presidente. Es más, de
+su lectura no puede siquiera intuirse que el Poder Legislativo haya delegado en el Ejecutivo la posibilidad de crear este tipo de
+gravámenes, más allá de la admisibilidad constitucional de tal mecanismo, que como se señaló anteriormente debe ser
+enérgicamente rechazada por su naturaleza tributaria
+65
+     Informe final de integrantes del Equipo Técnico Jurídico previsto en el art. 5 de la Ley 26.519
+(http://www1.diputados.gov.ar/dependencias/dip/26519/Informe%20EquipoT%C3%A9cnico%20Jur%C3%ADdicoCBE.pdf).
+
+[[PDF p. 21]]
+Por último, cabe mencionar la cuestión de la subdelegación, sobre cuyo particular la Corte
+se ha pronunciado en los casos “Julio Héctor Czerniecki”66 y “Comisión Nacional de Valores
+c/ Establecimiento Modelo Terrabusi S.A.”67, admitiéndola68.
+
+
+
+
+66
+   Fallos: 318:137 (1995).
+67
+   Fallos: 330:1855 (2007).
+68
+   “[…] las atribuciones especiales que el Congreso otorga al Poder Ejecutivo para dictar reglamentos delegados pueden ser
+subdelegadas por éste en otros órganos o entes de la Administración pública, siempre que la política legislativa haya sido
+claramente establecida […] Sin embargo ... no resulta suficiente invocar una ley genérica o poco específica para justificar que
+la subdelegación se encuentra permitida. En este punto, cabe recordar que el instituto de la delegación es de interpretación
+restrictiva, tanto cuando ocurre entre órganos de la Administración (Artículo 3º de la Ley Nº 19.549), como cuando se trata de
+delegación de facultades de un Poder del Estado a otros, en particular, cuando se delegan facultades legislativas en órganos
+del Poder Ejecutivo, en tanto se está haciendo excepción a los principios constitucionales de legalidad y división de poderes”.

@@ -1,0 +1,1674 @@
+# fuente: Unidad7/Gervasoni_2011_Una teoría rentística de los regímenes subnacionales.pdf
+# md5_original: 0463928de45ddc27b2394db421a98ded
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Desarrollo
+UNA TEORÍA Económico
+             RENTÍSTICA
+                     , vol.DE
+                            50,LOS
+                                Nº 200
+                                   REGÍMENES
+                                       (enero-marzo
+                                               SUBNACIONALES
+                                                    2011)                                                       579
+                                                                                                            579
+
+
+
+
+         UNA TEORÍA RENTÍSTICA
+   DE LOS REGÍMENES SUBNACIONALES:
+    FEDERALISMO FISCAL, DEMOCRACIA
+            Y AUTORITARISMO
+     EN LAS PROVINCIAS ARGENTINAS*
+
+                                       CARLOS GERVASONI**
+
+
+      Los investigadores de los regímenes políticos han notado por mucho tiempo
+que la medida en que los ciudadanos de las democracias disfrutan de las libertades
+y los derechos políticos varía ampliamente, no sólo a través de clivajes sociales
+tales como los de clase y los étnicos, sino también a través de las fronteras
+subnacionales. Desde Brasil a India y Rusia, las naciones a menudo muestran una
+gran heterogeneidad en el grado en que sus unidades subnacionales son
+democráticas. Durante la década de 1990, muchos investigadores destacaron la
+existencia de enclaves autoritarios subnacionales dentro de naciones democráticas,
+especialmente en las extensas y heterogéneas federaciones de la tercera ola
+(O’Donnell, 1993; Fox, 1994; Diamond 1999; Snyder, 1999). Sin embargo, el tema
+ha recibido escasa atención sistemática, aun cuando han transcurrido ya cuatro
+décadas desde que Dahl llamó a la ausencia de las unidades subnacionales una
+“gran omisión” de su influyente libro (Dahl, 1971: 12).
+      La coexistencia de unidades subnacionales más o menos democráticas dentro
+de un mismo régimen político nacional requiere una explicación. Existen varios estudios
+de caso de regímenes subnacionales en federaciones recientemente democratizadas
+(Snyder, 1999; Chávez, 2003; Gibson, 2005; McMann, 2006), pero pocos intentos
+sistemáticos de explicar patrones nacionales generales de variación en el grado de
+democracia subnacional1. Aquí presento una nueva explicación de tal variación que
+se centra en una interpretación rentística de ciertos tipos de federalismo fiscal, y la
+pongo a prueba usando evidencia cuantitativa proveniente de una democracia federal,
+la Argentina.
+       * Traducción del artículo “A Rentier Theory of Subnational Regimes. Fiscal Federalism, Democracy, and
+
+Authoritarianism in the Argentine Provinces”, World Politics 62, Nº 2 (Abril de 2010) pp. 302-40. Desarrollo Económico
+agradece la autorización de Trustees of Princeton University Press, Cambridge University Press.
+       ** Universidad Torcuato Di Tella, Departamento de Ciencia Política y Estudios Internacionales. Miñones
+
+2177, Buenos Aires. Tel. (54 11) 5169-7000; cgervasoni@utdt.edu.
+       1 Algunas excepciones son McMann y Petrov (2000) y Lankina y Getachew (2006).
+
+[[PDF p. 2]]
+580                                                                                     CARLOS GERVASONI
+
+
+
+      Basándome en las teorías fiscales del Estado, propongo que las diferencias en
+los regímenes subnacionales son en gran medida explicadas por la magnitud y el
+origen de sus recursos fiscales: deberían esperarse bajos niveles de democracia
+cuando los estados subnacionales disfrutan de abundantes subsidios del gobierno
+nacional y tienen un vínculo impositivo débil con los ciudadanos y las empresas
+locales. A diferencia de los estados nacionales, que sólo en condiciones muy
+especiales pueden darse el lujo de renunciar a cobrar impuestos y vivir de rentas
+–como es el caso de las naciones ricas en petróleo–, las unidades subnacionales a
+menudo reciben generosos subsidios nacionales y recaudan modestos recursos
+impositivos propios. El tamaño relativo de las transferencias del gobierno central
+tiende a ser particularmente grande para las provincias2 menos pobladas o menos
+desarrolladas, porque suelen ser favorecidas por las reglas relativas a la repartición
+intergubernamental de recursos impositivos. El rentismo, en este contexto, no está
+geográficamente determinado por la abundancia de recursos naturales, sino que es
+políticamente creado a través de las reglas del federalismo fiscal. En resumen: la
+redistribución por parte del gobierno nacional de recursos recaudados en las
+provincias más ricas y demográficamente más grandes hacia las provincias más
+pobres y/o más pequeñas, hace que los gobiernos de estas últimas sean relativamente
+ricos frente a sus sociedades y fiscalmente independientes respecto de sus votantes.
+Es probable que estos Estados rentísticos subnacionales, al igual que sus homólogos
+nacionales basados en los recursos naturales, mantengan regímenes menos
+democráticos porque sus gobernantes pueden usar su privilegiada posición fiscal
+para restringir la competencia política y debilitar las limitaciones institucionales a su
+poder.
+
+
+Teorías sobre la democracia subnacional
+      La investigación sobre regímenes subnacionales se ha inspirado generalmente
+en el robusto cuerpo de teorías nacionales estructurales, especialmente la teoría de
+la modernización; o bien ha enfatizado explicaciones basadas en la agencia para
+contextos específicamente subnacionales. La bien documentada y extensivamente
+teorizada correlación entre desarrollo y democracia eventualmente descendió hacia
+provincias y regiones. Numerosos trabajos han asociado los déficit de la democracia
+subnacional con características socioeconómicas estructurales tales como la pobreza
+o bajos niveles de urbanización y desarrollo económico (O’Donnell, 1993; Linz, 1994;
+McMann y Petrov, 2000).
+      Una segunda tradición teórica estructural nacional (de particular relevancia para
+el argumento aquí propuesto) considera que la democracia es incompatible con el
+estatismo económico. Desde Hayek (1944), a Dahl (1971), Sartori (1987), y Diamond,
+Linz y Lipset (1995), prominentes estudiosos han llamado la atención sobre los efectos
+perjudiciales que tienen el “monopolio… de las sanciones socioeconómicas” por
+parte del gobierno (Dahl, 1971: 50) y “el control estatal centralizado de la economía”
+(Huber, Rueschemeyer, y Stephens, 1993: 74) sobre las libertades políticas. Un estudio
+sobre el caso probablemente más importante de reversión democrática reciente,
+
+      2 Utilizo la palabra “provincia” para referirme a las unidades subnacionales en general.
+
+[[PDF p. 3]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                581
+
+Rusia, identifica el estatismo económico (y a la riqueza petrolera) entre los principales
+culpables. Un desarrollo específicamente subnacional en esta tradición es el enfoque
+de la “autonomía económica”, el cual ha sido utilizado para explicar las diferencias
+regionales de régimen en Rusia y Kirguistán (McMann, 2006). Su idea básica es que
+“la capacidad de ganarse la vida independientemente del Estado es crucial para la
+práctica democrática” (McMann 2006: 4). Los ciudadanos económicamente
+autónomos son más proclives a participar en política y a desafiar a las autoridades,
+creando así condiciones favorables para la democracia. Por el contrario, donde el
+Estado domina las oportunidades económicas, los individuos, racionalmente,
+obedecerán pasivamente. Según McMann, la autonomía económica en las unidades
+subnacionales postsoviéticas es función de factores estructurales tales como la
+geografía y el desarrollo, y de decisiones contingentes de política económica tomadas
+por los gobernantes locales. Como desarrollo más adelante, la autonomía económica
+parece ser también un mecanismo de mediación clave entre las causas fiscales y los
+efectos sobre el régimen en las provincias argentinas. Sin embargo, la explicación
+que enfatizo –el rentismo basado en el federalismo fiscal– es causalmente anterior a
+la autonomía económica y puede afectar a los regímenes subnacionales a través de
+otras causas intermedias.
+       Otras teorías estructurales sobre los regímenes nacionales han tenido menos
+impacto a nivel subnacional. Las teorías culturales que vinculan la democracia con
+actitudes profundamente arraigadas en las elites y las masas (Diamond, 1999) y a
+ciertas tradiciones coloniales o religiosas, han sido aplicadas a contextos
+subnacionales –siendo el trabajo de Putnam (1993) el más notorio– pero no a regímenes
+subnacionales. Los enfoques institucionales que sugieren que las posibilidades de
+supervivencia de la democracia dependen del diseño de las instituciones de gobierno
+(por ejemplo Linz, 1994) no han tenido un impacto significativo en el estudio de los
+regímenes subnacionales, sea porque el diseño institucional general suele mantenerse
+constante entre las subunidades, o porque en la medida en que existe variación en
+otras instituciones –por ejemplo en las reglas electorales– estas son concebidas como
+parcialmente endógenas (Calvo y Micozzi, 2005). Las instituciones pueden
+correlacionarse con los niveles de democracia porque estos afectan a las primeras.
+Las teorías que enfatizan las influencias transnacionales, tales como la difusión de
+ideas y la ayuda extranjera para promover la democracia, sólo recientemente han
+comenzado a ser aplicadas, por Lankina y Getachew (2006), al estudio de la
+democratización subnacional.
+       Los estudios específicamente subnacionales sobre regímenes políticos han
+tendido a enfocarse más en la agencia que en la estructura. Éstos enfatizan
+especialmente las interacciones entre las autoridades nacionales y las provinciales
+(Key, 1949; Snyder, 1999; Gibson, 2005). Un reciente trabajo teórico ha argumentado
+en contra de la aplicación irreflexiva de los marcos teóricos nacionales para analizar
+los regímenes subnacionales (Gibson, 2008). Las autoridades nacionales poseen y
+utilizan regularmente poderes formales e informales para reforzar, debilitar o incluso
+remover a los gobernantes subnacionales. Estos últimos, sin embargo, también
+cuentan con significativos recursos políticos –incluyendo frecuentemente a
+representantes leales en la legislatura nacional– que utilizan para obtener el apoyo o
+defenderse de amenazas del gobierno central. Como el establecimiento y el
+
+[[PDF p. 4]]
+582                                                                                    CARLOS GERVASONI
+
+
+
+sostenimiento de los autoritarismos subnacionales dependen fuertemente tanto de
+las acciones (u omisiones) del gobierno nacional, como del éxito de las estrategias
+de los gobernantes subnacionales para maximizar el “control de fronteras”, la
+“autonomía”, y la “influencia” (nacional), las teorías subnacionales privilegian a los
+actores, a sus elecciones, y a los procesos por sobre la economía, las instituciones,
+la cultura, y otros factores estructurales (Gibson, 2008).
+
+
+Teorías fiscales y rentísticas de la democracia
+      El argumento que propongo se inspira en las teorías fiscales del Estado
+(típicamente nacional) y contiene también un elemento específicamente subnacional
+en el hecho de que la variable explicativa clave se encuentra en las interacciones –en
+particular en las interacciones fiscales– entre los gobiernos nacional y subnacionales.
+Si, como postulan las teorías fiscales, la naturaleza, el origen y el tamaño de los
+ingresos estatales son clave para explicar los resultados políticos (Bates y Lien, 1985;
+Levi, 1988; Karl, 1997; Moore, 2004; Smith, 2008; Morrison, 2009), entonces resulta
+plausible que diferencias en el federalismo fiscal –que organiza el modo en que los
+gobiernos subnacionales son financiados– conduzca a diferencias en los regímenes
+subnacionales.
+      En el nivel más alto de abstracción, mi argumento es una instancia de las “teorías
+del balance entre Estado y sociedad”, las cuales conciben al régimen político como
+una función del balance de poder entre las elites que controlan el Estado (las cuales
+desean permanecer en el poder y ejercerlo del modo más libre posible) y los actores
+sociales (los cuales desean alcanzar el poder o limitárselo a quien lo detenta) (Dahl,
+1971; Huber, Rueschemeyer y Stephens, 1993). Estas teorías explicitan el razonable
+y extendido supuesto de que los gobernantes aceptan limitaciones democráticas a
+su poder sólo cuando los “costos de la represión” son más elevados que los “costos
+de la tolerancia” (Dahl, 1971: 15-6). Si bien este enfoque suele ser presentado en
+términos de modernización, la cual es vista como impulsora del poder de las no elites
+(Huber, Rueschemeyer y Stephens, 1993), en realidad es mucho más general –otros
+factores además de la modernización afectan los recursos políticos disponibles para
+las elites estatales y los challengers sociales. La naturaleza de estos recursos no
+siempre está claramente especificada, pero no hay dudas de que el control de los
+activos económicos es uno fundamental3.
+      Las teorías rentísticas de la democracia pueden ser vistas como un caso
+particular de los enfoques fiscales y del balance de poder entre Estado-sociedad, en
+las cuales el Estado domina a la sociedad por su fácil acceso a significativos recursos
+económicos que son independientes de la tributación doméstica amplia. La evidencia
+empírica proveniente de naciones ricas en petróleo y minerales provee apoyo para
+esta variante de la tesis de la maldición de los recursos (Ross, 2001; Jensen y
+Wantchekon, 2004; Smith, 2004; Ulfelder, 2007)4. La lógica explicativa de la literatura
+
+      3 Heller (2000) utiliza un argumento de balance de poder para explicar el éxito de la democracia en el
+
+estado de Kerala en India.
+      4 Estos hallazgos no han quedado sin respuesta. Para conocer visiones alternativas sobre las teorías del
+
+estado rentístico, véase Herb (2005) y Dunning (2008).
+
+[[PDF p. 5]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                        583
+
+sobre estados rentísticos puede (y según sostengo, debería) ser extendida más allá
+de los recursos naturales. Del mismo modo en que los argumentos y los hallazgos
+empíricos sobre el petróleo aplican más generalmente a otros commodities minerales
+semejantes (Ross, 2001), uno puede incluso ascender más en la escala de abstracción
+de Sartori pensando en las rentas de los recursos como un caso especial de rentas
+fiscales, esto es, de ingresos estatales procedentes de una fuente externa, que no
+dependen de la tributación general de la economía local y que no son necesariamente
+proporcionales al tamaño de ésta5. Las rentas de los recursos, por tanto, deben ser
+ubicadas en la misma categoría analítica que las rentas basadas en la ayuda extranjera
+incondicional6 o en el federalismo fiscal. Los gobernantes que recaudan cualesquiera
+de estas rentas fiscales disfrutan de los beneficios políticos de gastar sin tener que
+enfrentar los costos políticos de recaudar impuestos.
+      Si los ingresos fiscales de una provincia son derivados principalmente de la
+imposición tributaria general a las empresas y los trabajadores, el poder del Estado es
+limitado por su dependencia del consentimiento de los actores económicos, y sus
+ingresos son por necesidad aproximadamente proporcionales al tamaño de la economía
+privada. En el polo opuesto, las provincias rentísticas tienen acceso a ingresos
+provenientes de fuentes básicamente independientes de la tributación general, y estos
+ingresos pueden ser muy grandes en comparación con sus economías domésticas.
+Bajo tales condiciones, el Estado es por lejos la principal fuente de riqueza. Si, además,
+los gobernantes pueden gastar las rentas de modo discrecional, es posible que las
+usen para pagar altos salarios a muchos empleados públicos, adjudicar generosos
+contratos para compras gubernamentales, financiar una extensa red clientelar, y dominar
+el mercado de la publicidad de los medios de comunicación, todo lo cual disminuye los
+incentivos de los actores sociales para oponerse al oficialismo.
+      Las provincias rentísticas, por tanto, se acercan a “las circunstancias menos
+favorables” para la competencia política. Esto es, una situación en la cual “la violencia
+y las sanciones socioeconómicas están disponibles exclusivamente para el gobierno
+y denegadas para la oposición” (Dahl, 1971: 51; el énfasis es mío). Es probable que
+subsidios federales cuantiosos produzcan el “efecto del gasto”, esto es, el uso de
+“presupuestos que son excepcionalmente grandes y sin restricciones” para “reducir
+la disidencia” (Ross, 2001: 333-34). Cuando el Estado provincial domina la economía
+local, los actores sociales son menos autónomos y políticamente menos exigentes.
+La burguesía, las clases medias y las clases trabajadoras independientes del Estado
+que los análisis macrosociales suelen identificar como impulsoras de movimientos
+hacia la democracia (Moore, 1966; Huber Rueschemeyer y Stephens, 1993) son
+generalmente débiles en estas economías Estado-dependientes. De hecho, la
+
+        5 Para intentos similares de crear conceptos más amplios que subsuman a las rentas de los recursos
+
+véase Smith (2008) y Morrison (2009). Los conceptos de “recursos no ganados” de Smith y de “ingresos no
+tributarios” de Morrison son similares aunque no idénticos al concepto de rentas fiscales. Por ejemplo, el último
+incluye sólo los ingresos originados fuera de la unidad política, mientras que los ingresos no tributarios también
+incluyen ingresos locales tales como las tasas pagadas por los residentes a las empresas de propiedad estatal.
+Para una explicación detallada del concepto de rentas fiscales, véase Gervasoni (2009).
+        6 Varios trabajos recientes resaltan los paralelos entre las rentas de los recursos y la ayuda externa, y
+
+consideran la posibilidad de un impacto negativo de la ayuda sobre la democracia; por ejemplo, Therkildsen
+(2002), Moore (2004), Smith (2008), y Morrison (2009).
+
+[[PDF p. 6]]
+584                                                                   CARLOS GERVASONI
+
+
+
+dirección causal con frecuencia se invierte en los estados rentísticos: las clases son
+en gran medida moldeadas e incluso creadas por políticas distributivas orientadas a
+generar apoyo al régimen (Chaudhry, 1994: 18-19). En las provincias argentinas
+rentísticas las clases más grandes son las de los empleados públicos –burócratas,
+maestros, policías– y los trabajadores informales o desempleados que reciben algún
+tipo de ayuda provincial. La misma lógica aplica a las organizaciones de la sociedad
+civil provincial: tal como ocurre en los Estados petroleros, “el hecho de que la mayor
+parte del PBI sea generado por el gasto gubernamental prácticamente asegura que
+pocos o ningún grupo alternativo se desarrolle” (Luciani, 1990: 77).
+       Las macroestructuras económicas y políticas rentísticas producen previsibles
+consecuencias a nivel individual. La teoría y evidencia proveniente de otros contextos
+sugiere que, cuando el Estado controla los empleos más atractivos y otras
+oportunidades económicas, los individuos tienden a subordinarse (McMann, 2006),
+mientras que los activistas y políticos “carreristas” se suman al partido gobernante
+(Greene, 2007). La evidencia que presento más adelante sugiere que los cálculos de
+autonomía económica individual son fundamentales en las provincias rentísticas
+argentinas: enfrentados a un estado económicamente dominante, los ciudadanos
+que de otro modo manifestarían críticas o respaldarían partidos opositores terminan
+apoyando abiertamente al gobierno provincial o prudentemente absteniéndose de
+expresar su disidencia. Aquellos que están excepcionalmente motivados para soportar
+los costos de ser opositores o quienes están protegidos de esos costos (por ejemplo,
+porque tienen una fuente de ingreso independiente) tienen grandes dificultades para
+encontrar seguidores, donantes y cobertura mediática. Esta lógica también aplica a
+muchos empresarios (incluyendo, crucialmente, a los dueños de los medios de
+comunicación) que dependen fuertemente de los contratos, subsidios y exenciones
+tributarias otorgadas por el gobierno (Asociación por los Derechos Civiles y Open
+Society Justice Initiative, 2005; Cao, 2005).
+       Otras dos vías que conducen del rentismo hacia el tipo de régimen subnacional
+pueden complementar a los mecanismos de la autonomía económica. La primera se
+refiere al supuesto vínculo entre tributación y representación (Moore, 2004; Ross,
+2004), y a las consecuencias sobre el régimen que tiene la baja presión tributaria que
+usualmente presentan los Estados rentísticos (Luciani, 1990; Ross, 2001): los
+generosos subsidios federales permiten a los gobernantes provinciales cobrar pocos
+impuestos a los ciudadanos, disminuyendo así los incentivos y el poder de éstos
+para exigir participación en el poder político. La autonomía fiscal de los Estados
+frente a los individuos y las empresas aumenta significativamente el poder político de
+los gobernantes, los cuales no necesitan involucrarse en desgastantes batallas
+políticas para obtener ingresos de los actores económicos locales. La segunda vía
+es el “efecto represión” (Ross, 2001): las rentas pueden ser utilizadas para financiar
+un aparato de inteligencia política interna y de represión, como ha sido documentado
+en el caso de al menos una provincia argentina (Dargoltz, Gerez, y Cao, 2006). Aunque
+por razones que explico luego la represión abierta y masiva no es habitual, las
+provincias rentísticas pueden a veces administrar formas de represión focalizadas y
+poco visibles.
+       Estas hipótesis sobre factores macroestructurales y sus microfundamentos
+implican efectos tanto por el lado de la oferta como por el lado de la demanda (Ulfelder,
+
+[[PDF p. 7]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                             585
+
+2007: 997). Las clases, grupos e individuos que dependen del presupuesto provincial
+y disfrutan de una escasa carga impositiva son, ceteris paribus, menos proclives a
+demandar representación y accountability. En la medida en que tales demandas sí
+surgen, un Estado rico y fiscalmente independiente será especialmente efectivo en
+comprar o castigar a los ciudadanos políticamente “problemáticos”.
+      Los caminos específicos a través de los cuales las rentas fiscales se convierten
+en hegemonía política pueden de hecho variar entre países, entre provincias y en el
+tiempo. Varios trabajos recientes han enfatizado el “desacuerdo generalizado respecto
+de los mecanismos causales” (Goldberg, Wibbels, y Mvukiyehe, 2008: 507) o la
+“variedad de mecanismos” (Jensen y Wantchekon, 2004, 821) y “estrategias” (Morrison,
+2009:107-8) a través de los cuales las rentas debilitan la democracia. Mi suposición
+es que la estructura está detrás de la frecuente asociación estadística entre rentismo
+y autoritarismo, mientras que la agencia es más importante para determinar los
+mecanismos conectores. Puede ser que los líderes de los Estados rentísticos
+compartan preferencias fundamentales por un poder ilimitado y por tanto cedan
+inevitablemente a la tentación de usar su fortaleza fiscal para satisfacerlas; pero
+puede que hagan esto de diversas maneras debido a diferencias en las preferencias
+instrumentales o las restricciones exógenas. La agencia puede dominar el “cómo”
+incluso si la estructura domina el “qué”.
+      Sólo recientemente las teorías fiscales han sido aplicadas a nivel subnacional.
+Hoffman y Gibson (2005) muestran que mayores niveles de transferencias del gobierno
+central y de ayuda extranjera llevan a una menor eficiencia en los gobiernos locales
+de África. Goldberg, Wibbels, y Mvukiyehe (2008) testean las teorías rentísticas en
+los estados estadounidenses, encontrando que la dependencia de los recursos
+naturales está asociada con niveles más bajos de competencia electoral. Varios
+trabajos han estudiado los efectos del federalismo fiscal argentino sobre la reforma
+económica (Gibson y Calvo, 2000; Remmer y Wibbels, 2000), el gasto en patronazgo
+(Calvo y Murillo, 2004; Remmer, 2007), y el apoyo electoral provincial al partido del
+presidente (Gélineau y Remmer, 2005). Basándome en este cuerpo de investigación,
+en las siguientes secciones 1) muestro cómo ciertas normas de reparto de los ingresos
+intergubernamentales dan origen a Estados rentísticos subnacionales, y 2) proveo
+evidencia atinente a que las rentas del federalismo fiscal son perjudiciales para la
+democracia subnacional (y dan cuenta de las amplias diferencias interprovinciales
+de régimen en Argentina) del mismo modo en que las rentas de los recursos naturales
+parecen socavar la democracia nacional.
+
+El federalismo fiscal como fuente de rentismo subnacional
+      El federalismo fiscal crea situaciones rentísticas cuando las unidades
+subnacionales reciben transferencias del gobierno central en cantidades muy
+superiores a las que podrían obtener mediante sus propios esfuerzos impositivos (y,
+menos frecuentemente, cuando se les da el control sobre rentas de recursos naturales).
+Como ilustra el caso argentino, descripto más abajo, dos características bastante
+comunes de los esquemas intergubernamentales de reparto de impuestos resultan
+en rentismo subnacional, especialmente en subunidades económicamente pequeñas:
+1) elevados desequilibrios fiscales verticales (esto es, las transferencias nacionales
+
+[[PDF p. 8]]
+586                                                                                      CARLOS GERVASONI
+
+
+
+como porcentaje del total de los recursos fiscales subnacionales), y 2) la redistribución
+de recursos fiscales en favor de las unidades económicamente más pequeñas
+(especialmente si, como suele ser el caso, existen grandes diferencias en el tamaño
+económico de las provincias).
+      Imaginemos un país donde la provincia más pequeña, La Renta, sólo tiene el
+1% de la población nacional. Imaginemos que todos los impuestos son recaudados
+por el gobierno nacional, pero que las provincias tienen a cargo políticas costosas
+(tales como la educación). Los gastos provinciales, por tanto, son financiados mediante
+grandes transferencias nacionales. Finalmente, imaginemos que las reglas de reparto
+de los recursos fiscales favorecen a La Renta, de forma tal que en lugar de recibir el
+1% de las transferencias nacionales (en proporción a su población) recibe el 4%.
+Esto implica la pérdida de sólo un 3% del total de las transferencias para las otras
+provincias, pero un enorme subsidio fiscal para los gobernantes de La Renta.
+      El federalismo fiscal argentino se acerca a este modelo ideal. La mayor parte de
+los impuestos son recaudados por el gobierno federal, el cual toma una parte para su
+propio financiamiento y distribuye el resto entre las provincias. La proporción destinada
+a las provincias ha aumentado significativamente desde que la coparticipación de
+impuestos fue creada en 1934. En la década de 1990 Argentina tenía la segunda
+mayor proporción de gasto subnacional (después de la India) entre las nueve grandes
+federaciones analizadas por Wibbels (2005), con las provincias dando cuenta de
+más del 40% del total del gasto público (Inter-American Development Bank, 1997).
+La mayor parte de los ingresos son recaudados en los distritos económicamente más
+grandes (como Buenos Aires y Córdoba) y luego redistribuidos mediante un
+complicado sistema que beneficia fuertemente a las provincias menos pobladas y
+más sobrerrepresentadas (Gibson, Calvo y Falleti, 2004), pero no a las más pobres
+(Remmer y Wibbels, 2000). La lógica política que rige es clara: Argentina tiene el
+Senado más desproporcional (malapportioned) del mundo, como también un alto
+grado de desproporcionalidad en la Cámara de Diputados (Samuels y Snyder, 2001),
+por lo que las provincias demográficamente más pequeñas de “bajo mantenimiento”
+(“low-maintenance”) (Gibson y Calvo, 2000) que están fuertemente sobrerrepre-
+sentadas en ambas cámaras legislativas se hallan en una situación ideal para obtener
+un tratamiento favorable cuando se renegocian las instituciones del federalismo fiscal
+y cuando se asignan fondos federales discrecionales. Si bien el esquema de
+coparticipación de impuestos de 1934 básicamente distribuía las transferencias a las
+provincias de acuerdo con la proporción de los recursos recaudados en sus territorios,
+diversas reformas efectuadas en las presidencias de Perón, Frondizi y Lanusse hicieron
+al sistema mucho más redistributivo en favor de las provincias de baja población
+fuera de la región pampeana (Díaz-Cayeros, 2006). Los Gráficos 1a y 1b muestran
+cómo las transferencias federales per cápita7 durante el corriente período democrático
+son básicamente independientes de los niveles de pobreza pero están fuertemente
+asociadas con el tamaño demográfico. El nivel de pobreza8 explica menos del 1% de
+
+       7 Como se describe en la subsección “Operacionalización”, construyo esta variable utilizando la población
+
+adulta (mayores de 18 años) en el denominador.
+       8 Medido como el porcentaje de residentes con “necesidades básicas insatisfechas”, un índice de pobreza
+
+basado en el censo.
+
+[[PDF p. 9]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                          587
+
+                                                                     GRÁFICO 1
+                                        Los determinantes de las transferencias federales (1992-1995)
+                                            (a) Transferencias federales per cápita según nivel de pobrezaa
+Transferencias federales per cápita
+  (en pesos): promedio 1992-95)
+
+
+
+
+                                      Nivel de pobreza (% Población con necesidades básicas insatisfechas)
+                        a El tamaño de los círculos es aproximadamente proporcional a la población
+
+
+
+
+                                                (b) Transferencias federales per cápita según población
+Transferencias federales per cápita
+  (en pesos): promedio 1992-95)
+
+
+
+
+                                                                      1/Población
+
+[[PDF p. 10]]
+588                                                                                       CARLOS GERVASONI
+
+
+
+la variación anual de en las transferencias per cápita en el período 1992-95, mientras
+que la inversa de la población9 explica el 83%10. Santa Cruz puede tener indicadores
+sociales mucho mejores que los de Chaco, pero dada su minúscula población, recibe
+un nivel de transferencias federales por adulto mucho mayor.
+      Aunque en muchos países el gasto subnacional es financiado en buena medida
+por el gobierno central, el desequilibrio fiscal vertical de la Argentina es particularmente
+elevado (Wibbels, 2005), alcanzando aproximadamente el 60% en la década de 1990
+(Banco de Inter-American Development Bank, 1997; Tommasi, Saiegh, y Sanguinetti,
+2001). Todas las provincias, a excepción de Buenos Aires, financian más de la mitad
+de sus presupuestos a través de transferencias federales, y, sorprendentemente,
+ocho de ellas cubren aproximadamente el 90% de sus gastos con recursos del
+gobierno central (Tommasi, Saiegh, y Sanguinetti, 2001). Asimismo, la mayor parte
+de este dinero –la coparticipación federal en sentido estricto y algunos otros fondos
+federales– es transferido por ley sin condiciones. Otras transferencias más pequeñas
+tienen destinos específicos, típicamente obras públicas tales como vivienda e
+infraestructura eléctrica (Gordin, 2006). Wibbels (2005) estima que entre el 88,6% y
+el 98,1% de las transferencias federales del período 1989-97 fueron automáticas, y
+entre el 64,4% y el 80,9% fueron automáticas e incondicionales. (Las transferencias
+con fines específicos también pueden contribuir a los efectos rentísticos, porque son
+en alguna medida fungibles y porque la obra pública es una excelente forma de
+proveer empleos y contratos a los votantes locales). Un estudio reciente sobre el nivel
+de discrecionalidad que caracteriza a todos los programas de transferencias utilizados
+desde 1983 enfatiza que la coparticipación federal es estrictamente automática y por
+tanto inútil para construir coaliciones presidenciales, y concluye que, considerando
+todos los programas, “el presidente argentino goza de absoluta discrecionalidad
+sobre una pequeña proporción de las transferencias federales” (Bonvecchi y Lodola,
+2009: 3-4). El Índice de Discrecionalidad de las Transferencias Intergubernamentales,
+desarrollado por el Banco Interamericano de Desarrollo, clasifica a la Argentina como
+uno de los países de América Latina con niveles de discrecionalidad más bajos,
+tanto en términos de montos como de distribución (Inter-American Development Bank,
+1997: 169-70). Mi propio análisis de los datos oficiales es consistente con estas
+fuentes: las correlaciones de Pearson de la variable Transferencias Federales (ver los
+detalles en la subsección “Operacionalización”) en los cinco períodos gubernativos
+entre 1983 y 2003 son de entre 0,931 y 0,997 (todos los valores-p=0), revelando un
+nivel muy alto de estabilidad en la proporción de recursos federales destinados a
+cada provincia. Finalmente, debe aclararse que, además de los ingresos federales y
+de sus propios ingresos tributarios, algunas provincias también obtienen rentas de
+los recursos naturales en la forma de regalías por el petróleo, el gas y los minerales
+extraídos en sus territorios.
+      Por consiguiente, las reglas de reparto de recursos fiscales en Argentina proveen
+a ciertos gobiernos provinciales de recursos fiscales garantizados mucho más grandes
+que los que sus bases tributarias podrían producir. En estos distritos, que académicos
+
+      9 La transformación inversa se ajusta considerablemente mejor a los datos que la transformación logarítmica.
+      10 Se obtienen resultados similares para cada uno de los mandatos de cuatro años ocurridos entre 1983
+
+y 2003.
+
+[[PDF p. 11]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                          589
+
+argentinos han adecuadamente denominado “provincias fiscales” (Cao, Francés, y
+Vaca, 1997), el sector público concentra una alta proporción del empleo y el PBI, y
+por lo tanto de las oportunidades de ascenso económico. En provincias como
+Catamarca, La Rioja y Santa Cruz hay aproximadamente 1,2 empleados públicos por
+cada empleado privado (mientras que la razón para Buenos y Córdoba es de 0,36)11.
+A mediados de los 90 las transferencias federales representaban aproximadamente
+el 55% del producto bruto geográfico neto de transferencias de La Rioja (pero sólo el
+5% del de Buenos Aires)12. Aun si carecen de valiosos recursos naturales, estos son
+verdaderos Estados rentísticos subnacionales.
+      Argentina resulta especialmente apropiada para testear el enfoque fiscal contra
+la principal alternativa teórica, la teoría de la modernización. Su peculiar variedad de
+federalismo fiscal –que combina grandes desequilibrios verticales con redistribución
+basada en la población– resulta en una significativa variación interprovincial en el
+rentismo que no está correlacionada con los indicadores de modernización (como
+muestra el Gráfico 1a). Efectos rentísticos variables y a menudo grandes que son
+ortogonales a los niveles de desarrollo constituyen un contexto ideal para la estimación
+del poder explicativo independiente de estos dos factores.
+
+Conceptualización y medición de la democracia subnacional
+      Me concentro en dos dimensiones clave de la democracia política para las
+cuales hay datos disponibles: la competencia, que es central en todas las definiciones
+(Dahl, 1971; Alvarez et al., 1996), y los límites al poder del gobierno, un componente
+central de las concepciones liberales o “protectoras” de la democracia (Held, 1987).
+Otros aspectos importantes de la democracia, tales como el respeto por los derechos
+civiles, no pueden ser incorporados dada la inexistencia de datos comparables para
+todas las provincias.
+      Las unidades subnacionales menos democráticas dentro de naciones
+democráticas no son en general particularmente cerradas y represivas. Estos
+regímenes –en Argentina y otros países– tienen elecciones (a menudo razonablemente
+libres), partidos opositores reales representados en la legislatura, y niveles no triviales
+de libertad de expresión. Dado que se encuentran inmersas en una democracia
+nacional, las autoridades subnacionales enfrentan límites al grado en que pueden
+restringir los derechos políticos. La legitimidad nacional de la democracia y los poderes
+constitucionales asignados a las autoridades federales para garantizar este régimen
+en las provincias hacen que los gobernadores tengan fuertes razones para evitar
+prácticas flagrantemente autoritarias, las cuales fácilmente atraen la atención de los
+medios de comunicación nacionales, perjudican sus perspectivas en la política
+nacional e incrementan la probabilidad de una intervención federal13. Además, el
+hecho de que la gente pueda fácilmente abandonar la provincia hace que formas de
+
+       11 Valores calculados por el autor en base al censo de población de 2001.
+       12 Valor calculado por el autor en base a Ministerio de Economía y Producción 2006 y CEPAL 2007.
+       13 La Constitución Argentina asigna al Congreso y al Presidente el poder de destituir a las autoridades
+
+provinciales. “Garantizar la forma republicana de gobierno” es una de las pocas causas que habilitan la intervención
+federal, la cual ha tenido lugar en cuatro provincias desde 1983: Catamarca (1990), Tucumán (1991), Corrientes
+(1991 y 2000), y Santiago del Estero (1993 y 2004).
+
+[[PDF p. 12]]
+590                                                                  CARLOS GERVASONI
+
+
+
+autoritarismo insoportablemente opresivas sean en última instancia contraproducentes
+para sus ejecutores.
+      Algunos regímenes provinciales, entonces, combinan instituciones democráticas
+que no son una mera fachada, con prácticas que son clara pero sutilmente autoritarias.
+Éstos son bien conceptualizados por la reciente literatura sobre regímenes híbridos
+(nacionales). Los rasgos definitorios de las “democracias iliberales” (Zakaria, 1997),
+los “autoritarismos competitivos” (Levitsky y Way, 2002) y los “autoritarismos
+electorales” (Schedler, 2006) describen de modo más preciso a las provincias
+argentinas menos democráticas –como también a otros regímenes subnacionales
+alrededor del mundo– que el concepto tradicional de “autoritarismo” (Linz, 1975).
+Más aún, la lógica causal es similar: tal como los regímenes nacionales híbridos
+existen en gran medida porque necesitan evitar un autoritarismo manifiesto frente a la
+fuerte presión internacional para la democratización, las elites autoritarias
+subnacionales enfrentan una intensa presión nacional para mantener niveles mínimos
+de democracia.
+       Bajo tal estructura de incentivos, los gobernantes generalmente recurren a medios
+sutiles para restringir la democracia. Las elecciones se llevan a cabo y el recuento de
+votos es limpio, pero los gobernantes gastan masivamente más que sus opositores;
+los medios locales son formalmente independientes pero son comprados para sesgar
+la cobertura en favor del partido oficialista; los disidentes no son encarcelados, sólo
+excluidos de los codiciados empleos públicos. Son precisamente los incentivos para
+actuar furtivamente los que hacen que estas prácticas no democráticas sean difíciles
+de medir. Sin embargo, sus efectos sobre los resultados políticos son más susceptibles
+a la observación empírica. En la opción entre medidas de democracia objetivas y
+subjetivas (Bollen y Paxton, 2000), la dificultad de producir evaluaciones válidas y
+confiables de tales prácticas hace que los indicadores objetivos electorales e
+institucionales resulten más atractivos. Las prácticas no democráticas generalizadas
+deberían aumentar la probabilidad de extensos períodos de gobiernos de un mismo
+partido, de mayorías electorales inusualmente amplias del partido gobernante, de un
+abrumador control del poder ejecutivo sobre la legislatura, de la existencia de cláusula
+de reelección indefinida, etc. El régimen político no es definido por ninguno de estos
+rasgos en particular, pero, siguiendo la lógica de los “indicadores efecto” (Bollen y
+Lennox, 1991), ellos deberían reflejar cambios en el nivel subyacente de democracia.
+Este es el razonamiento que se encuentra detrás del conocido argumento de que es
+improbable que un país en el cual los gobernantes obtienen más del 60 o 70% de los
+votos o bancas sea una democracia (Przeworski, 1991; Alvarez et al., 1996; Vanhanen,
+2000). Si la democracia requiere de “una oposición que tenga alguna chance de
+llegar al gobierno como consecuencia de elecciones” (Alvarez et al., 1996: 5),
+provincias como Formosa o San Luis, donde el mismo partido ha controlado el gobierno
+por siete mandatos consecutivos desde 1983 –frecuentemente obteniendo más del
+70% de los votos– son menos democráticas que Entre Ríos o Mendoza, donde
+diferentes partidos se han alternado en el cargo, y donde los gobernantes electos
+rara vez han obtenido más del 50% de los votos.
+    El índice Democracia Subnacional, que utilizo para operacionalizar la variable
+dependiente, incluye dos indicadores de competencia electoral –Competencia
+
+[[PDF p. 13]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                       591
+
+Ejecutiva y Competencia Legislativa– y tres indicadores de concentración del poder
+en el gobernante –Control de Sucesión, Control Legislativo14 y Límites a la Reelección–.
+Las medidas de competencia electoral han sido muy utilizadas para operacionalizar
+la democracia tanto a nivel nacional (Alvarez et al., 1996; Vanhanen, 2000) como
+subnacional (Hill, 1994; Beer y Mitchell, 2006), y han mostrado estar altamente
+correlacionadas con los principales índices subjetivos de derechos y libertades
+políticas (Coppedge, 2005).
+      Dada la estrecha relación entre libertad sustantiva y elecciones competitivas
+(Schedler, 2005), las medidas de competencia electoral han sido habitualmente
+entendidas como indicadores efecto. También pueden ser razonables “indicadores
+causales” (Bollen y Lennox, 1991), dada la creciente evidencia de que una
+competencia electoral vigorosa lleva a una mayor responsiveness de los gobiernos
+nacionales y subnacionales (Besley y Burgess, 2002; Griffin, 2006; Hobolt y
+Klemmensen, 2008) y, en el caso de las provincias argentinas, a poderes judiciales
+independientes que fortalecen la democracia (Chávez, 2003).
+      Competencia Ejecutiva mide las chances reales que tiene la oposición de derrotar
+al partido del gobernador. Es simplemente uno menos la proporción del voto válido
+obtenido por el partido o coalición gobernante en (la primera vuelta de) las elecciones
+a gobernador15. Cuanto mayor sea la proporción obtenida por aquel, menor será el
+nivel subyacente de competencia. Dado que el “relleno de urnas” y el mal conteo de
+votos no han sido problemas significativos en Argentina, las mayorías electorales
+muy amplias obtenidas por un gobernante tienden a reflejar un “campo de juego muy
+inclinado” en el período preelectoral. El hecho de que algunas veces los regímenes
+autoritarios no obtienen tales mayorías (Levitsky y Way, 2002) debería ser interpretado
+como efecto de eventos contingentes (por ejemplo, una crisis económica exógena
+que perjudica al oficialismo) que introducen error de medición aleatorio pero no afectan
+el componente sistemático del indicador. Ceteris paribus, un campo de juego político
+muy desigual produce resultados electorales inusualmente buenos para el oficialismo.
+El inevitable error de medición introducido por los eventos contingentes es reducido
+tanto por su naturaleza no sistemática (que resulta en inferencias estadísticas
+insesgadas, aun si menos precisas) como por la combinación de los indicadores en
+un índice. Una popular medida electoral alternativa –el número efectivo de partidos–
+es inválida, dado que sistemas de partidos no competitivos pueden tener puntuaciones
+más altas que los competitivos16.
+      Competencia Legislativa es uno menos la proporción del voto obtenido por el
+partido o coalición del gobernador en las elecciones para la legislatura (en los
+casos de las provincias bicamerales se toma la Cámara de Diputados). El Control
+de Sucesión mide el grado en que el oficialismo logra retener la gobernación en
+una elección. Se codifica como bajo (=1) si la gobernación es capturada por la
+oposición, medio (=2) si el gobernante es sucedido por un miembro de su partido
+
+       14 Los datos sobre votos y bancas son de la Dirección Nacional Electoral y el Atlas Electoral de Andy Tow,
+
+en http://www.mininterior.gov.ar/elecciones, y http://andy.towsa.com, respectivamente.
+       15 Sólo una minoría de las provincias tiene doble vuelta (o ballotage) en las elecciones para gobernador.
+       16 Por ejemplo, el NEP es 2 en un sistema muy competitivo en el que dos partidos obtienen cada uno el
+
+50% de los votos, mientras que es de 2,06 en otro claramente poco competitivo donde un partido obtiene el 67%
+de los votos y otros tres partidos obtienen el 11% cada uno.
+
+[[PDF p. 14]]
+592                                                                                       CARLOS GERVASONI
+
+
+
+que no es ni un familiar ni un aliado político cercano, y alto (=3) si el gobernador es
+reelegido o es elegido un familiar o aliado político cercano. Estos valores reflejan la
+idea de que es probable que la rotación partidaria en el poder y, en menor medida,
+la alternancia dentro del partido de gobierno, indiquen un nivel subyacente más
+alto de democracia que el continuo control de la gobernación por parte de una sola
+persona17. Control de la Legislatura es la proporción de bancas ganadas por el
+partido o coalición del gobernador (en la Cámara de Diputados) en una elección
+dada18. Esta cifra es en cierta medida función de Competencia Legislativa, pero
+también depende de reglas electorales parcialmente endógenas, las cuales han
+sido reformadas desde 1983 por varios gobernadores ansiosos por obtener
+supermayorías, con el objeto de generar grandes sesgos pro oficialistas en la relación
+votos-bancas (Calvo y Micozzi, 2005). En el mismo sentido, Límites a la Reelección
+asume que en los distritos menos democráticos los gobernadores tendrán éxito en
+reformar la constitución provincial para eliminar cláusulas antirreelección19. Esta
+variable se codifica 0 si la constitución prohíbe la reelección inmediata del
+gobernador, 1 si permite sólo una reelección inmediata, 2 si autoriza dos reelecciones
+consecutivas, y 3 si no establece límites a la reelección. Todos los indicadores son
+medidos en la elección que marca el final de los cuatro años que dura cada mandato
+de gobernador, esto es, aquellos correspondientes a los años 1987, 1991, 1995,
+1999 y 200320.
+      Para establecer si las dimensiones teóricamente independientes de competencia
+y concentración del poder en el gobernante son también empíricamente
+independientes, realicé un análisis factorial de los cinco indicadores y hallé sólo un
+factor significativo, el cual da cuenta de una proporción de la varianza mucho mayor
+que el segundo (los autovalores o eigenvalues son 3,11 y 0,18 respectivamente)21.
+Dada esta clara unidimensionalidad, Democracia Subnacional es definido como los
+puntajes del primer factor (revirtiendo los signos para que los valores más altos
+correspondan a niveles más altos de democracia)22. El valor mínimo corresponde a
+la provincia de La Rioja en 1991 cuando el gobernador, con cláusula de reelección
+indefinida, fue reelecto con el 78,7% de los votos, mientras que su partido obtuvo el
+76,1% de los votos para la legislatura, y 15 de las 16 bancas en juego. La Tabla 1
+presenta las estadísticas descriptivas de Democracia Subnacional y sus cinco
+componentes para todas las provincias en el período 1983-2003. Los lectores
+familiarizados con la política argentina no estarán sorprendidos de saber que las
+
+
+       17 La rotación en el poder ejecutivo es un elemento clave del índice de democracia de Álvarez et al.
+
+(1996:5): “En caso de duda, clasificamos como democracias sólo a aquellos sistemas en los que los partidos
+gobernantes efectivamente pierden elecciones”.
+       18 El índice Democracia Subnacional otorga bajas puntuaciones a las provincias sólo cuando los oficialismos
+
+obtienen mayorías electorales y legislativas muy amplias. A diferencia de la variable “contestation” de Vanhanen
+(2000), la cual evalúa cualquier tipo de mayoría como menos democrática, considero, en el mismo espíritu que
+Álvarez et al. (1996), que un oficialismo claramente derrotado es una expresión de niveles saludables de
+democracia.
+       19 La reelección estaba prohibida en todas las provincias en 1983; muchas la han permitido desde entonces.
+       20 Unas pocas provincias no siguen este calendario electoral.
+       21 Los valores absolutos de los factores de carga para los indicadores electorales tienen un rango de entre
+
+0,89 y 0,93; para Control de Sucesión y Límites a la Reelección estos valores son 0,59 y 0,53, respectivamente.
+       22 Los factores tienen una media y una desviación estándar de aproximadamente 0 y 1, respectivamente.
+
+[[PDF p. 15]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                  593
+
+                                               TABLA 1
+                  El índice de Democracia Subnacional y sus componentes:
+                           Estadísticas descriptivas según provincia
+                       Democracia    Competencia   Competencia    Control de Control     Límites a
+                       Subnacional    Ejecutiva     Legislativa   Sucesión Legislativo   la reelec.
+                    Media       DE      Media        Media         Media     Media          Media     N
+
+La Rioja            -1,90     0,71      0,31         0,34           2,8        0,86         3         5
+San Luis            -1,28     0,87      0,29         0,50           3          0,69         3         3
+Santa Cruz          -0,86     0,77      0,40         0,44           2,8        0,67         1,4       5
+Formosa             -0,83     0,97      0,40         0,40           3          0,61         1,2       5
+Sgo. del Estero     -0,69     0,31      0,44         0,44           2,75       0,67         0,25      4
+Catamarca           -0,30     0,12      0,47         0,48           2,75       0,55         2,25      4
+La Pampa            -0,18     0,20      0,48         0,50           3          0,55         0,6       5
+Neuquén             -0,09     0,47      0,48         0,52           2,4        0,55         0,6       5
+Jujuy               -0,07     0,44      0,49         0,50           2,4        0,54         1         5
+Santa Fe             0,00     0,27      0,50         0,51           2,2        0,56         0         5
+Misiones             0,01     0,26      0,50         0,50           2,4        0,53         0,8       5
+Salta                0,15     0,93      0,52         0,56           2,2        0,55         0,6       5
+Córdoba              0,28     0,57      0,52         0,60           2,4        0,51         1         5
+Chubut               0,30     0,80      0,52         0,54           1,8        0,49         0,6       5
+Buenos Aires         0,31     0,41      0,53         0,58           2,2        0,51         0,6       5
+Corrientes           0,32     0,25      0,54         0,55           2,33       0,51         0         3
+Río Negro            0,33     0,43      0,58         0,59           2,8        0,55         0,8       5
+Chaco                0,56     1,38      0,55         0,58           2          0,45         0,6       5
+Entre Ríos           0,59     0,56      0,55         0,56           1,4        0,46         0         5
+Mendoza              0,96     0,99      0,60         0,63           2          0,41         0         5
+Tucumán              1,03     0,91      0,66         0,61           2          0,43         0         4
+San Juan             1,24     1,23      0,66         0,65           1,5        0,37         1         4
+
+
+
+provincias menos democráticas desde 1983 han sido La Rioja, San Luis, Formosa,
+Santa Cruz y Santiago del Estero.
+       Dado que se aplica a un número relativamente pequeño de sistemas políticos
+institucionalmente similares, el índice Democracia Subnacional permite hacer
+distinciones más finas que las necesariamente simples medidas objetivas diseñadas
+para cubrir todos los países del mundo durante varias décadas (por ejemplo, Alvarez
+et al., 1996; Vanhanen, 2000). Ilustro este punto aplicando el índice dicotómico de
+Alvarez et al. a las provincias argentinas: once de las veintidós provincias existentes
+en 1983 resultan ser “dictaduras” porque el partido en el gobierno jamás fue derrotado
+en una elección para gobernador. (A modo de comparación, cuarenta y nueve de los
+cincuenta estados estadounidenses observó al menos una rotación en el partido de
+gobierno entre 1983 y 2003.) Como Alvarez y sus coautores indican, sin embargo, su
+índice erra sistemáticamente en el sentido de codificar a democracias reales con
+partidos dominantes como dictaduras. Este tipo de error parece probable en los
+casos bajo consideración, dado que las once “dictaduras” incluyen desde San Luis,
+donde la misma familia ha controlado la gobernación desde 1983 (y dirige el único
+periódico relevante), ganando elecciones con hasta el 90% de los votos, hasta Río
+Negro, donde cuatro gobernadores distintos han sido electos con un máximo del
+48,6% de los votos. No es sorprendente, entonces, que San Luis haya sido descripta
+como autoritaria por innumerables estudios académicos y periodísticos (Wiñazki,
+
+[[PDF p. 16]]
+594                                                                                        CARLOS GERVASONI
+
+
+
+1995; Chávez, 2003), mientras que tal caracterización nunca se le ha aplicado a Río
+Negro. El índice Democracia Subnacional sí establece diferencias de grado entre
+provincias dominadas por un único partido dentro de un contexto razonablemente
+democrático, y aquellas en las cuales un partido hegemónico es una expresión
+prominente de un bajo nivel de democracia.
+
+
+Datos, especificación del modelo y análisis estadístico
+      La muestra incluye observaciones de las veintidós provincias argentinas
+existentes al momento de la transición a la democracia y para los cinco mandatos
+cuatrienales de gobernador entre 1983 y 200323. Dado que las observaciones son
+generadas cada cuatro años, esta base de datos evita la inflación artificial de las
+significaciones estadísticas asociadas a datos de panel con períodos de tiempo más
+frecuentes (por ejemplo anuales) (Wilson y Butler, 2007).
+
+Operacionalización
+      Las rentas del federalismo fiscal se miden a través de las transferencias federales
+anuales por adulto (de dieciocho años o más) promediadas para los cuatro años de
+cada mandato (Transferencias Federales)24. (Las transferencias como porcentaje del
+PBI provincial serían un razonable indicador alternativo, pero los valores de PBI sólo
+están disponibles para el período 1993-2000 y utilizan distintos años base que los
+datos fiscales.) Incluyo todas las transferencias desde el gobierno central: los fondos
+de coparticipación, otras transferencias basadas en leyes pero de aplicación
+específica como el FONAVI (viviendas) y los altamente discrecionales Aportes del
+Tesoro Nacional. Las rentas de los recursos naturales son operacionalizadas como el
+promedio cuatrienal de los ingresos por adulto derivados de las regalías provinciales
+del petróleo, el gas y los minerales (Regalías). Para medir el nivel de desarrollo utilizo
+el primer componente de un análisis de componentes principales realizado sobre la
+tasa de analfabetismo, la tasa de mortalidad infantil, y el porcentaje de la población
+con necesidades básicas insatisfechas25, invirtiendo los signos por razones de
+consistencia (Desarrollo)26. La cultura política es una variable difícil de operacionalizar.
+Indicadores de cultura basados en encuestas sólo están disponibles para algunas
+provincias. Los datos censales proveen, sin embargo, un modo indirecto de medir el
+que generalmente es considerado como el principal clivaje cultural de la Argentina:
+el que distingue entre aquellas regiones “tradicionales” marcadas por la colonización
+española temprana y una fuerte herencia católica, y las regiones “cosmopolitas” donde
+la masiva inmigración europea de finales del siglo XIX y principios del siglo XX
+reconfiguró la composición cultural. Para capturar esta dimensión utilizo el porcentaje
+
+         23 El número de observaciones es 102 en lugar de 110, debido a datos faltantes y a la imposibilidad de
+
+calcular la variable dependiente para las elecciones que suceden a una intervención federal (donde no hay un
+oficialismo que busque permanecer en el poder).
+         24 Todos los datos fiscales provienen del Ministerio de Economía y Producción 2006.
+         25 Cuando los datos para este u otro indicador no se encuentran disponibles para un año electoral, utilizo
+
+la interpolación lineal entre los dos años más cercanos para los cuales existen cifras.
+         26 El primer componente explica el 86,3% de la varianza total.
+
+[[PDF p. 17]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                      595
+
+de la población provincial nacida en Europa de acuerdo al censo nacional de 1914
+–llevado a cabo durante el apogeo de la inmigración a la Argentina (Cultura).
+      Como enfatizan los enfoques teóricos específicamente subnacionales, el
+gobierno nacional puede apoyar o minar los esfuerzos de los gobernantes provinciales
+para restringir la democracia. Los presidentes rutinariamente tratan de fortalecer a
+sus aliados y de debilitar a sus opositores en las provincias. Controlo por este factor
+a través de una variable dicotómica en la cual las administraciones provinciales del
+mismo partido que el presidente son codificadas con un uno (Partido del Presidente).
+Como el apoyo del presidente al gobernador es más valioso cuando aquel es popular,
+interactúo esta variable con la aprobación que tenga el presidente en encuestas
+nacionales de opinión pública (Popularidad Presidencial)27. También incluyo una
+variable dicotómica (Líder Nacional) que identifica unas pocas elecciones en las
+cuales un gobernador o ex gobernador que pertenece al partido que gobierna en la
+provincia se presenta como candidato presidencial (como hizo el gobernador Kirchner
+de Santa Cruz en 2003) o es presidente (como ocurrió con el gobernador Menem de
+La Rioja en 1991). La identificación emocional con un líder local de prominencia
+nacional puede fortalecer al partido gobernante en la provincia28.
+
+Estimación
+       La estimación debe tomar en cuenta la estructura de panel de los datos. Dada la
+relativamente pequeña cantidad de períodos temporales, los modelos dinámicos con
+variables dependientes rezagadas –incluyendo los modelos de corrección de errores–
+no son recomendables (Beck, 2001). Una posibilidad es usar estimadores específicos
+del sujeto (subject-specific), como efectos aleatorios y efectos fijos, los cuales lidian
+con la heterogeneidad de las unidades y la autocorrelación usando las observaciones
+repetidas para generar constantes diferentes para cada unidad (Hsiao, 2003). Dado
+que el estimador de efectos fijos se basa sólo en la varianza dentro del caso, su uso no
+es recomendable para datos dominados por la varianza transversal (cross-sectional) y
+que incluyen algunas variables independientes con escasa o nula varianza temporal.
+Los modelos de efectos aleatorios son más adecuados para los datos a analizar,
+asumiendo que las constantes aleatorias y las variables independientes no están
+correlacionadas (Hsiao, 2003). Dada la alta sensibilidad de los análisis de datos de
+panel a las opciones de estimación (Wilson y Butler, 2007), chequeo la robustez de los
+resultados volviendo a correr los principales modelos con estimadores alternativos.
+
+Resultados
+
+     Las estimaciones vía efectos aleatorios son presentadas en la Tabla 2. El Modelo 1
+apoya fuertemente la hipótesis de las rentas fiscales: mayores transferencias por
+adulto del gobierno central están asociadas con menos democracia. Su efecto es
+altamente significativo y sustantivamente importante: en el período 1996-99, por
+
+          27 Los datos de esta variable provienen de las encuestas nacionales de opinión pública de Ipsos-Mora y
+
+Araujo.
+          28 Las estadísticas descriptivas de todas las variables se encuentran disponibles requiriéndoselas al
+
+autor.
+
+[[PDF p. 18]]
+596                                                                    CARLOS GERVASONI
+
+
+
+ejemplo, Buenos Aires recibió en promedio 765 pesos por adulto por año –el más
+bajo del país– mientras, en el otro extremo, La Rioja obtuvo 6.219 pesos; el modelo 1
+predice que, siendo las demás cosas iguales, La Rioja tendrá 2,4 unidades (esto es,
+desviaciones estándar) menos en el índice Democracia Subnacional que Buenos
+Aires. Reestimé el modelo 1 reemplazando este índice por cada una de los cinco
+indicadores usados para construirlo. Estos cinco modelos (no presentados), todos
+los cuales confirman la alta significación de Transferencias Federales, son más fáciles
+de interpretar porque sus coeficientes están expresados en unidades familiares. Así,
+por ejemplo, se hubiera esperado que La Rioja en 1996-99 obtenga, ceteris paribus,
+26,2 puntos porcentuales menos que Buenos Aires tanto en Competencia Ejecutiva
+como Legislativa, y 30,5 puntos porcentuales más que Buenos Aires en Control
+Legislativo. Esto es, diferencias muy grandes en el nivel de rentas del federalismo
+fiscal están asociadas con diferencias muy grandes en el régimen político.
+Contrariamente a lo esperado, Regalías no tiene un efecto significativo sobre la
+democracia subnacional. A la luz del fuerte impacto que tiene Transferencias Federales,
+este hallazgo negativo sugiere o bien que la baja incidencia de los ingresos de recursos
+naturales en las provincias argentinas produce un efecto demasiado pequeño para
+ser capturado estadísticamente, o bien que hay algo en la naturaleza de esas rentas
+que las hace tener menores consecuencias sobre los regímenes subnacionales.
+      Sorprendentemente, el nivel de desarrollo no tiene un efecto significativo (y el
+signo contrario al esperado). Cultura tampoco es estadísticamente distinguible de cero.
+Los tres coeficientes asociados con la interacción entre Partido del Presidente y
+Popularidad Presidencial indican que es probable que la democracia subnacional se
+vea perjudicada cuando el gobernador es del mismo partido que un presidente popular
+(un efecto que se incrementa junto con Popularidad Presidencial). De la misma forma,
+el coeficiente de la variable que identifica las elecciones en las cuales un gobernador
+se presenta para la presidencia, o disfruta del arrastre de un ex gobernador de su
+mismo partido que compite para (o es el) presidente, es significativo y negativo.
+      El hallazgo nulo correspondiente a Desarrollo es contrario a las expectativas
+teóricas y a la evidencia nacional. Volví a correr el modelo 1 usando cada una de las
+tres medidas incluidas en el índice de Desarrollo (analfabetismo, mortalidad infantil y
+necesidades básicas insatisfechas) en forma alternativa. Los tres coeficientes resultantes
+son indistinguibles de cero (valores-p entre 0,41 y 0,71) y tienen el signo equivocado
+(resultados no presentados). El Modelo 2 utiliza una medida alternativa, el producto
+bruto geográfico per cápita estimado por CEPAL (2007). Como estos datos sólo están
+disponibles para el período 1993-2000, proyecto las cifras de 1993 hasta 1987 –el
+primer año en el que la variable dependiente es observada– y las cifras de 2000 hasta
+2003. Siguiendo hallazgos sobre la forma funcional de la relación a nivel nacional
+(Jackman, 1973), utilizo una transformación logarítmica de esta variable (PBG p/c [log]).
+El coeficiente para la nueva medida en el modelo 2 (donde se eliminaron las variables
+anteriormente no significativas) es nuevamente negativo y no significativo.
+      Puesto que los modelos 1 y 2 sufren de una considerable multicolinealidad
+(factor de inflación de la varianza, o FIV=3,48 y 3,76, respectivamente) –causada
+principalmente por la interacción entre Partido del Presidente y Popularidad
+Presidencial–, el modelo 3 elimina los términos individuales de la interacción (como
+también las medidas no significativas de cultura y desarrollo). Constreñir estos términos
+
+[[PDF p. 19]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                        597
+
+                                                    TABLA 2
+                Los determinantes de la democracia subnacional, 1983-2003
+                             (modelos de efectos aleatorios)
+
+                                      Modelo 1      Modelo 2 Modelo 3 Modelo 4 Modelo 5                Modelo 6
+                                                                               (MCG)a
+Transferencias Federales               -,00044***    -,00045*** -,00046*** -,00045 *** ,00047***
+                                       (,00009)      (,00008) (,00009) (,00012) (,00012)
+Regalías                               -,00000
+                                       (,00012)
+Desarrollo                             -,0100                                                          -,0154
+                                       (,0134)                                                         (,0134)
+PBG p/c (log)                                        -,0988
+                                                     (,2216)
+Cultura                                 ,0094                                                           ,0130*
+                                       (,0086)                                                         (,0079)
+Partido del Presidente                  ,2016         ,1935                                             ,0421
+                                       (,3967)       (,3937)                                           (,4038)
+Popularidad Presidencial                ,0053         ,0052                                             ,0100*
+                                       (,0057)       (,0057)                                           (,0058)
+Partido del Presidente x               -,0129*       -,0124*     -,0081 ***   -,0081 ***   -,0081***   -,0131*
+  Popularidad Presidencial             (,0071)       (,0071)     (,0024)      (,0025)      (,0025)     (,0073)
+Líder Nacional                         -,6831**      -,7378**    -,7094**     -,7044**     -,7123**    -,6824**
+                                       (,3076)       (,3043)     (,2948)      (,2960)      (,3006)     (,3148)
+Población (inversa)                                                         -13,738
+                                                                            (93,333)
+Empleados públicos cada
+  1000 habitantes                                                                                      -,0234***
+                                                                                                       (,0049)
+Constante                              1,564         1,857       1,288***     1,288***     1,316***    2,026**
+                                       (,9649)      (1,917)      (,2272)      (,2315)      (,2971)     (,994)
+R2 General                              ,454         ,447         ,438         ,438         ,438        ,431
+Rho                                     ,179         ,120         ,214         ,228         ,190        ,146
+Observaciones                            102          102          102          102          102         102
+    * p < 0,10, ** p < 0,05, *** p < 0,01; las cifras son coeficientes de regresión no estandarizados; los errores
+estándar están entre paréntesis.
+    a Las Transferencias Federales se instrumentan mediante la inversa de la Población, Partido del Presidente x
+
+Popularidad Presidencial, y Líder Nacional.
+
+
+a un valor de cero resulta razonable dado que los modelos 1 y 2 están lejos de
+rechazar las hipótesis nulas. Esto es, los datos apoyan las hipótesis teóricamente
+plausibles de que la imagen pública del presidente no tiene efecto cuando la provincia
+es controlada por un opositor y que la democracia no se ve afectada cuando el
+gobernador pertenece al mismo partido de un presidente altamente impopular. En el
+modelo 3 el FIV promedio cae a 1,07, lo cual permite una estimación más eficiente de
+los demás coeficientes. Transferencias Federales y Líder Nacional prácticamente no
+
+[[PDF p. 20]]
+598                                                                                      CARLOS GERVASONI
+
+
+
+se ven alterados. El coeficiente para el término de interacción se hace un poco más
+pequeño, pero su significancia aumenta sustancialmente (valor-p=0,001), confirmando
+que la capacidad de restringir la democracia de los gobernadores afiliados al partido
+del presidente se fortalece a medida que la aprobación presidencial aumenta. El
+hecho de que tanto la interacción presidencial como Líder Nacional mantengan
+consistentemente coeficientes significativos confirma hallazgos previos según los
+cuales la política nacional es importante para explicar la fortuna política de los
+gobernantes provinciales argentinos (Remmer y Gélineau, 2003; Gélineau y Remmer,
+2005; Gibson, 2005). Los análisis de sensibilidad revelan que estos hallazgos
+estadísticos son muy robustos29.
+
+Endogeneidad: causalidad espuria y simultánea
+
+      La asociación estadística fuerte, altamente significativa y robusta entre rentas
+del federalismo fiscal y democracia subnacional es consistente con el argumento
+fiscal expuesto más arriba, pero, como sucede con cualquier resultado basado en
+datos observacionales, podría sufrir un sesgo de endogeneidad si hubiera causalidad
+espuria o simultánea.
+      La causalidad espuria tendría lugar si una variable omitida explicara tanto las
+rentas como el régimen. Un factor que plausiblemente podría producir una asociación
+espuria entre rentas y democracia es el tamaño demográfico. El Gráfico 1b revela
+una estrecha relación entre la población y las transferencias. Uno podría hipotetizar
+–en el espíritu de Madison– que las provincias escasamente pobladas con sociedades
+más homogéneas tienden a producir regímenes menos democráticos. El Modelo 4 en
+la Tabla 2 agrega la inversa de la población como un predictor. La nueva variable está
+lejos de ser estadísticamente significativa, mientras que el coeficiente de Transferencias
+Fiscales permanece prácticamente sin cambios. Se obtienen resultados casi idénticos
+cuando la población es introducida linealmente o logarítmicamente y cuando es
+reemplazada por la sobrerrepresentación en la legislatura nacional (resultados no
+presentados)30.
+      El sesgo de endogeneidad podría surgir si la causalidad transita, al menos
+parcialmente, desde la democracia subnacional hacia las rentas fiscales. Tal tesis
+contradice el plausible argumento de que los gobernantes nacionales no asignarán
+fondos a los distritos no competitivos donde es poco probable que los resultados
+electorales sean afectados (Wibbels, 2005). Sin embargo, se ha argumentado que
+los regímenes provinciales menos competitivos tienen un desempeño fiscal más pobre
+(Remmer y Wibbels, 2000), lo cual podría llevar a una mayor asistencia por parte del
+gobierno federal (Gordin, 2006). También podría argumentarse que los presidentes
+
+       29 Esto es especialmente cierto para la variable de mayor significación teórica: el coeficiente de
+
+Transferencias Federales no sólo es muy estable en todos los modelos de la Tabla 2, sino notablemente robusto,
+tanto en tamaño como en significación estadística, bajo muchos y diversos estimadores de panel alternativos
+tales como mínimos cuadrados con errores estándar corregidos por panel (PCSE) (Beck and Katz, 1995),
+ecuaciones de estimación generalizadas (GEE) (Zorn, 2001), el estimador “entre” (“between”) y efectos fijos. Ver
+detalles en el apéndice 2 de la versión original en inglés de este artículo.
+       30 La sobrerrepresentación es la razón entre la proporción de legisladores nacionales de una provincia
+
+respecto del total nacional y la proporción de la población adulta de la misma respecto del total nacional.
+
+[[PDF p. 21]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                  599
+
+envían más recursos hacia las provincias menos democráticas con la intención de
+afectar las elecciones nacionales: a cambio de fondos federales los gobernadores
+podrían usar su poder electoral en favor del oficialismo nacional. Sin embargo, los
+estudios académicos sobre los determinantes de la distribución de los ingresos
+impositivos en Argentina son inconsistentes con la tesis de que los regímenes
+determinan las rentas. Estos estudios concluyen que las participaciones provinciales
+son función de la sobrerrepresentación legislativa (Gibson, Calvo y Falleti, 2004), el
+tamaño de la población (Remmer y Wibbels, 2000), la proporción de la delegación
+legislativa nacional de cada provincia controlada por el partido del presidente (Gélineau
+y Dubé, 2005), y, para las transferencias discrecionales, la falta de armonía partidaria
+entre los gobiernos nacional y provincial (Gordin, 2006), no de la naturaleza de los
+regímenes subnacionales. Los estudios históricos sobre la evolución de las
+instituciones del federalismo fiscal en Argentina ni siquiera consideran los niveles de
+democracia subnacional como uno de los factores que influencian las decisiones
+sobre la distribución (Eaton, 2004; Porto, 2004; Díaz-Cayeros, 2006). Además, como
+se ha señalado más arriba, las participaciones provinciales en las transferencias
+federales son mayormente función de coeficientes fijos legalmente estipulados, y
+han sido de hecho muy estables desde 1983. Todo esto pone en duda la posibilidad
+de que las transferencias federales sean endógenas.
+       Proveo un control adicional contra el sesgo de simultaneidad a través de un
+estimador de variables instrumentales. Un instrumento muy razonable es la inversa
+de la población. Sabemos a partir del Gráfico 1b que ésta está altamente
+correlacionada con Transferencias Federales . Al mismo tiempo, no hay forma
+concebible de que los regímenes subnacionales causen la distribución territorial de
+la población, la cual está básicamente determinada por factores históricos, económicos
+y geográficos exógenos. Más aún, el modelo 4 muestra que el efecto condicional de
+1/población sobre la democracia subnacional es esencialmente cero. Población,
+altamente correlacionada con Transferencias Federales y claramente exógena, es
+por tanto un instrumento ideal. Volví a correr el modelo usando el estimador de efectos
+aleatorios de mínimos cuadrados de dos etapas generalizados (G2SLS)31. El Modelo 5
+(Tabla 2) muestra que los resultados apenas cambian respecto de los modelos de
+efectos aleatorios 1 a 3. La estimación para Transferencias Federales es negativa y
+de hecho ligeramente más grande en valor absoluto. Debido a la eficiencia más baja
+de los estimadores de dos etapas, el error estándar es mayor, pero a pesar de ello el
+coeficiente continúa siendo altamente significativo. En resumen, consideraciones
+teóricas y varias corrientes de evidencia histórica y estadística indican que la
+causalidad va desde las rentas fiscales hacia los regímenes provinciales, y no en
+sentido inverso.
+
+Mecanismos causales
+     La teoría y la evidencia previa sugieren que un mecanismo causal central a
+través del cual las rentas perjudican la democracia es el “efecto del gasto”, o el uso
+
+      31 También conocido como el estimador de Balestra y Varadharajan-Krishnakumar. A diferencia de mínimos
+
+cuadrados ordinarios (MCO), los estimadores de mínimos cuadrados de dos etapas son consistentes en la
+presencia de variables independientes endógenas.
+
+[[PDF p. 22]]
+600                                                                                   CARLOS GERVASONI
+
+
+
+de abundantes erogaciones públicas para financiar patronazgo y así prevenir la
+democratización (Ross, 2001). La evidencia sobre el impacto de la dependencia de
+los recursos en los estados de Estados Unidos es consistente con este mecanismo:
+las rentas “permiten a los funcionarios comprar apoyo público y construir redes de
+patronazgo”, que a su vez impiden “el desarrollo de una oposición viable y de las
+instituciones democráticas emparentadas” (Goldberg, Wibbels, y Mvukiyehe, 2008:
+495). El concepto de autonomía económica de McMann se centra en los
+microfundamentos de esta cadena macrocausal: donde un generoso gasto público
+provee a los gobernantes de poderosas zanahorias y garrotes financieros, los
+ciudadanos económicamente vulnerables tienden a apoyarlos o a abandonar la
+participación política (McMann, 2006).
+       La evidencia cualitativa de la Argentina sugiere –consistentemente con los
+hallazgos de McMann en varias regiones postsoviéticas– que los bajos niveles de
+autonomía económica son en buena medida responsables de los bajos niveles de
+democracia provincial. Los reportes periodísticos sobre la política de las provincias
+rentísticas frecuentemente interpretan sus sospechosas democracias en términos de
+autonomía económica: una investigación sobre Santa Cruz (la provincia con mayor
+número de empleados públicos per cápita luego de La Rioja) reporta un clima de
+autocensura en los medios y de sumisión pública que es atribuido al temor de perder
+beneficios provistos por el estado (Mochkofsky, 2003). Gibson sugiere que el
+autoritarismo de Carlos Juárez en Santiago del Estero fue reforzado por su “control
+sobre una vasta maquinaria de patronazgo, fundada en las transferencias del gobierno
+central”, agregando que tal maquinaria “eclipsaba todas las demás actividades
+económicas en la provincia”, a punto tal que “más del 87% de la población
+económicamente activa era empleada por el gobierno provincial” (Gibson, 2005:
+122-23)32. Académicos locales proporcionan una interpretación similar del régimen
+juarista, enfatizando el enorme tamaño relativo y el uso político del empleo público en
+la provincia (Dargoltz, Gerez, y Cao, 2006: 33-34). En el mismo sentido, un estudio
+sobre el estado de derecho en San Luis observa que la economía provincial “depende
+fuertemente de los ingresos impositivos federales”, los cuales le han permitido a
+Adolfo Rodríguez Saá (quien junto a su hermano ha controlado la provincia desde
+1983) “mantener vastos proyectos de obra pública que han mantenido a la población
+dependiente del gobierno para obtener trabajo y vivienda, y por lo tanto sometida”
+(Chávez, 2003: 433). Los análisis sobre la política de las provincias rentísticas también
+contienen frecuentes referencias a la alta dependencia del presupuesto provincial
+que tienen el empresariado local y los medios de comunicación (Wiñazki, 1995: 53-
+54; Cao, 2005:102; Trocello, 2008: 270). Los medios de comunicación de Formosa,
+La Rioja y Santa Cruz, por ejemplo, son destacados por su “enorme dependencia de
+publicidad oficial” (Ruiz, 2009). Existe un acuerdo casi unánime entre los analistas
+respecto de que la dependencia económica del Estado es un hecho políticamente
+consecuente en las provincias rentísticas.
+       Entrevistas realizadas por el autor y un grupo de investigadores asistentes a
+cientistas sociales y periodistas políticos locales en varias provincias durante 2006 y
+
+       32 Esta cifra es considerablemente mayor que la reportada por los datos oficiales sobre empleo público
+
+provincial (Ministerio de Economía y Producción, 2006). Gibson cita una estimación hecha por un periódico que
+probablemente considere formas indirectas de empleo público a través de programas de asistencia social.
+
+[[PDF p. 23]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                       601
+
+2008 produjeron una gran cantidad de respuestas en las cuales se enfatizaban los
+mecanismos de autonomía económica en las provincias rentísticas. Respuestas típicas
+a preguntas sobre cuán libres eran los ciudadanos de criticar al gobernador o de
+asistir a marchas de protesta fueron: “Los empleados públicos no participan en las
+marchas por miedo” (Santiago del Estero); “La gente tiene miedo, porque el 80% de
+la población económicamente activa depende del Estado de una forma u otra” (La
+Rioja); “la economía local es muy frágil y todos le deben algo a la administración
+pública, y esto hace que derrotar al gobernador en las urnas sea muy difícil”
+(Catamarca); “Depende directamente de la relación económica que tiene el ciudadano
+con el gobierno: quienes tienen planes sociales… no son libres” (San Luis). Todas
+estas citas provienen de provincias que se encuentran entre las que más recursos
+federales reciben y entre las menos democráticas (ver Tabla 1). En las provincias que
+se ubican en el otro extremo no se produjo ninguna respuesta de este tipo. Los
+entrevistados o bien no hicieron mención a cuestiones de autonomía económica o
+explícitamente indicaron que no son un problema: “No hay castigo para los empleados
+públicos opositores” (Mendoza). La evidencia es igualmente fuerte respecto de la
+dependencia económica de los medios de comunicación locales. Cuando se les
+preguntó a académicos y periodistas expertos en la política de las cuatro provincias
+más beneficiadas por las rentas del federalismo fiscal (Catamarca, Formosa, La Rioja
+y Santa Cruz) cuán frecuentemente el dinero de la publicidad oficial era distribuido
+selectivamente para castigar a los periodistas críticos, veintitrés de treinta y cuatro (o
+el 67,6%) respondió “bastante” o “muy” frecuente; mientras que sólo uno de quince
+expertos (o el 6,7%) de las cuatro provincias que menos apoyo federal reciben (Buenos
+Aires, Córdoba, Mendoza y Santa Fe) respondió de ese modo33. Los periódicos locales,
+los canales de televisión, y las estaciones de radio en las provincias rentísticas no
+pueden prosperar únicamente con anuncios privados, y por lo tanto los gobernantes
+utilizan el presupuesto publicitario para obtener una cobertura mediática favorable.
+En las provincias no rentísticas el peso de la publicidad oficial en el ingreso de los
+medios es mucho menor, haciendo que la práctica de quitarles la publicidad para
+silenciar las críticas sea menos eficaz.
+       ¿Confirma la evidencia estadística el mensaje de los estudios de caso y las
+entrevistas presentados arriba? Los datos disponibles sobre los empleados públicos
+provinciales permiten realizar un chequeo parcial. El tamaño relativo de las nóminas
+salariales ha sido utilizado como indicador del patronazgo subnacional en Argentina
+y ha mostrado ser una función positiva de las transferencias federales (Calvo y Murillo,
+2004; Remmer, 2007). La teoría y la evidencia provenientes de otras federaciones
+brinda un apoyo adicional al vínculo causal entre transferencias del gobierno central
+y empleo público subnacional (Gimpelson y Treisman, 2002). El análisis de regresión
+en la Tabla 3 modela Empleados Públicos (provinciales) cada mil habitantes34 como
+una función de las variables independientes rentísticas, el nivel de desarrollo (el cual
+de acuerdo a la ley de Wagner debería conducir a gobiernos más grandes), y el
+logaritmo de la población (para tener en cuenta economías de escala en el sector
+público). Transferencias Federales y Regalías tienen, como se esperaba, efectos
+
+      33 Estos datos surgen de la Encuesta de Expertos en Política Provincial que llevó a cabo el autor en el año
+
+2008 con el apoyo de la National Science Fundation (award number: 0719658).
+      34 Datos provenientes del Ministerio de Economía y Producción 2006.
+
+[[PDF p. 24]]
+602                                                                                          CARLOS GERVASONI
+
+
+
+                                                   TABLA 3
+    Los determinantes de la cantidad relativa de empleados públicos provinciales
+                          (Modelos de efectos aleatorios)
+                      Transferencias Federales                                    ,0043***
+                                                                                 (,0012)
+                      Regalías                                                    ,0057***
+                                                                                 (,0014)
+                      Desarrollo                                                 -,206 *
+                                                                                 (,123)
+                      Población (log)                                         -10,64***
+                                                                               (1,78)
+                      Constante                                               199,8***
+                                                                              (23,9)
+
+                      R2 General                                                  ,80
+                      Rho                                                         ,48
+                      Observaciones                                              109
+    * p < 0,10, ** p < 0,05, *** p < 0,01; las cifras son coeficientes de regresión no estandarizados; los errores
+estándar están entre paréntesis.
+
+
+positivos y altamente significativos sobre el tamaño relativo de la burocracia provincial
+luego de controlar por Desarrollo (el cual contrariamente a las expectativas parece
+acarrear menores nóminas salariales) y Población (la cual produce el esperado fuerte
+y altamente significativo coeficiente negativo)35. Estas cuatro variables explican el
+80% de la amplia variación temporal e interprovincial en el tamaño de las nóminas
+salariales.
+      Si la dependencia económica del estado es un mecanismo de mediación entre
+el federalismo fiscal rentístico y los regímenes provinciales, entonces el tamaño relativo
+de la burocracia provincial debería estar negativamente asociado con Democracia
+Subnacional, incluso luego de controlar por explicaciones alternativas. Tal expectativa
+es confirmada por el coeficiente altamente significativo de Empleados Públicos cada
+mil habitantes (modelo 6 de la Tabla 2). Los resultados de este análisis de mediación
+están sintetizados en el Gráfico 2.
+      Otro probable mecanismo intermedio es el “efecto impositivo” (Ross, 2001):
+grandes subsidios federales permiten a los gobernantes provinciales aplicar cargas
+impositivas leves a su electorado, lo cual disminuye los incentivos y la capacidad de
+este último para exigir participación en el poder político. Para probar este mecanismo
+realicé un análisis de mediación usando el porcentaje de ingresos corrientes que se
+originan en la recaudación tributaria provincial promediado por cada mandato de
+cuatro años (Impuestos Propios) como medida de la fortaleza del vínculo tributario
+entre el Estado provincial y los contribuyentes. Tanto Transferencias Federales como
+Regalías tienen el esperado efecto negativo y estadísticamente significativo sobre
+Impuestos Propios (mientras que el efecto de Desarrollo es positivo y significativo).
+Sin embargo, cuando la variable Impuestos Propios es incluida –junto al empleo
+
+      35 Los dos coeficientes rentísticos son de magnitud comparable, sugiriendo que las rentas se convierten
+
+en empleo público a tasas similares independientemente de su fuente.
+
+[[PDF p. 25]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                          603
+
+                                                  GRÁFICO 2
+              La cadena causal rentismo-autonomía económica-democraciaa
+
+         Transferencias Federales
+                                         +
+         Regalías                    +           Empleados Públicos
+                                                 cada 1.000 habitantes
+                                             –
+         Población (log)
+                                         –                                              –
+                                                                                            Democracia
+         Desarrollo
+                                                                                    –       Subnacional
+                                                 Partido del Presidente
+                                                 x Popularidad Presidencial
+
+                                                                                –
+                                                         Líder Nacional
+
+     a Las flechas representan los coeficientes de regresión con valores p < 0,05. Los signos positivos y negativos
+
+indican la dirección de la asociación estadística. Las flechas más gruesas resaltan los coeficientes sustantivamente
+mayores.
+
+
+público– en un modelo para predecir Democracia Subnacional, su coeficiente es
+básicamente cero, mientras que Empleados Públicos cada mil habitantes permanece
+sustancialmente inalterado (resultados no presentados). Estos análisis de mediación
+sugieren que la causalidad en las provincias argentinas fluye al menos parcialmente
+a través del efecto del gasto (pero no del de la tributación).
+      En suma, tanto la evidencia cualitativa como la estadística son consistentes con
+un mecanismo causal que a nivel macro enfatiza los efectos de un fuerte gasto público
+y en el nivel micro resalta la autonomía (o dependencia) económica de la población
+respecto del estado. La democracia subnacional languidece allí donde los gobernados
+dependen económicamente de los gobernantes.
+
+
+Conclusiones
+      Basándome en enfoques fiscales y rentísticos del Estado, he argumentado que
+el origen y el tamaño de los recursos fiscales de una unidad subnacional tienen
+significativas consecuencias sobre el régimen. La evidencia de la Argentina sugiere
+que las diferencias en la democracia subnacional son en gran medida explicadas
+por un tipo de rentismo originado en la redistribución de los ingresos tributarios que
+hace el gobierno central entre las provincias. Los gobernadores que controlan
+abundantes rentas del federalismo fiscal parecen usar su fortaleza financiera para
+minimizar la autonomía económica de su electorado y, en última instancia, debilitar la
+competencia democrática y las limitaciones institucionales a su poder.
+      Este argumento expande la lógica del Estado rentístico en dos direcciones. En
+primer lugar, implica un ascenso en la escala de abstracción desde las rentas de los
+recursos hacia las rentas fiscales. Más allá de ciertas diferencias obvias, las rentas
+basadas en recursos naturales, transferencias del gobierno central, ayuda externa o
+
+[[PDF p. 26]]
+604                                                                  CARLOS GERVASONI
+
+
+
+cualquier otra cosa comparten características clave: todas ellas confieren a los
+gobernantes ingresos fiscales que no requieren de tributación general y que tienen el
+potencial de ser mucho mayores que los que podrían obtenerse mediante tal
+tributación. Los gobernantes rentísticos parecen ser una amenaza para la democracia
+independientemente de cuál sea la fuente específica de sus ingresos. El petróleo y
+otros recursos naturales han sido indudablemente un punto de partida altamente
+relevante y fructífero, pero la política comparada debería ahora trabajar por una teoría
+rentística más general. En segundo lugar, el argumento implica un descenso al aplicar
+esta comprensión más general del rentismo a los regímenes subnacionales, un dominio
+empírico que los académicos han abordado sólo recientemente y que las teorías
+fiscales han en gran medida descuidado.
+      Es probable que los hallazgos que he presentado apliquen más allá de la
+Argentina. Las dos características que crean las condiciones para que el federalismo
+fiscal genere rentismo (altos desequilibrios fiscales verticales y redistribución de los
+ingresos nacionales en favor de unidades económicamente más pequeñas,
+especialmente en combinación con grandes diferencias en el tamaño de las economías
+subnacionales) son relativamente frecuentes alrededor del mundo. Las provincias
+rentísticas probablemente superan en número a las naciones rentísticas. Incluso en
+países donde las unidades subnacionales de primer nivel son básicamente
+autosuficientes, suelen existir gobiernos rentísticos en los niveles más bajos. Las
+“Naciones Originarias” (First Nations) de Canadá, por ejemplo, combinan grandes
+desequilibrios verticales con poblaciones pequeñas y un tratamiento fiscal federal
+favorable. Como varias provincias argentinas, las “Naciones Originarias” dependen
+de las transferencias del gobierno central para cubrir más del 90% de sus ingresos.
+No sorprendentemente, una investigación reciente ha vinculado los problemas de
+gobernanza y accountability de estas comunidades a su extremadamente débil
+tributación y su alta dependencia del dinero federal (Graham y Bruhn, 2008).
+      Las reglas del federalismo fiscal pueden también resultar en rentismo cuando
+otorgan a las unidades subnacionales el control sobre abundantes recursos naturales.
+Considérese Canadá nuevamente. Una de sus diez provincias, Alberta, disfruta de
+amplios recursos rentísticos (sus arenas de alquitrán constituyen uno de los sitios de
+producción de petróleo más grandes del mundo). Desde una perspectiva rentística
+no debería sorprender que la política de Alberta sea excepcionalmente no competitiva:
+el partido Conservador Progresista ha gobernado ininterrumpidamente por treinta y
+ocho años, ha ganado cómodamente once elecciones consecutivas, y usualmente
+obtiene más del 70% de las bancas en la asamblea legislativa. Análisis recientes han
+atribuido este notable nivel de dominio político a la riqueza de recursos (Nikiforuk,
+2008). De modo similar, un estudio cualitativo y cuantitativo de los estados de Estados
+Unidos halla una relación causal entre dependencia de los recursos naturales y una
+competencia política débil (Goldberg, Wibbels, y Mvukiyehe, 2008).
+      Contrariamente a la teoría y a la cuantiosa evidencia existente a nivel nacional,
+el desarrollo no explica la democracia subnacional en Argentina. De hecho la evidencia
+de otros países es consistente con este hallazgo: estados pobres, desde Kerala en la
+India (Heller, 2000) a Piauí y Roraima en Brasil (Montero, 2007), con frecuencia logran
+niveles de democracia más elevados que sus contrapartes más ricas. Un análisis
+estadístico reciente no encuentra asociación estadísticamente significativa entre
+
+[[PDF p. 27]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                 605
+
+riqueza y democracia en las regiones de Rusia (McMann y Petrov, 2000). Una posible
+interpretación es que los efectos esperados de la modernización pueden no ocurrir
+en contextos subnacionales porque la lógica causal propuesta opera sólo
+nacionalmente. Por ejemplo, es poco probable que las teorías que enfatizan los costos
+potenciales que los ricos enfrentan en democracia (Boix, 2003; Acemoglu y Robinson,
+2006) apliquen en las unidades subnacionales, ya que normalmente son los gobiernos
+nacionales los que tienen el poder para implementar expropiaciones y reformas
+tributarias progresivas. Las elites económicas no deberían estar particularmente
+inclinadas a conspirar contra las democracias subnacionales. Una segunda
+interpretación vería este hallazgo nulo como una confirmación de que la asociación
+estadística entre desarrollo y democracia es espuria, dado que en realidad ambas
+variables son causadas por divergencias históricas en los arreglos institucionales
+(Acemoglu et al. , 2008). Investigaciones futuras deberían tratar de testear
+conjuntamente las hipótesis de la modernización y las rentas fiscales en otros dominios
+empíricos para establecer si los hallazgos presentados en este artículo son
+generalizables más allá de Argentina.
+      Los arreglos de federalismo fiscal que resultan en grandes desequilibrios fiscales
+verticales han sido asociados con patologías macroeconómicas tales como los déficit
+fiscales y la inflación (Rodden y Wibbels, 2002). Por tanto, el sistema de coparticipación
+de impuestos de la Argentina podría en parte explicar su proverbial historia de colapsos
+económicos e incluso su marcado patrón de desigualdades económicas regionales
+(dado que las transferencias favorecen a las provincias demográficamente más
+pequeñas, no a las más pobres). He presentado evidencia de que su tipo de
+federalismo fiscal también tiene la perversa consecuencia de financiar la supervivencia
+de elites provinciales poco democráticas que permanecen en el poder indefinidamente
+estableciendo regímenes híbridos. Los hallazgos de este artículo pueden ayudar a
+señalar el camino hacia el diseño de instituciones de federalismo fiscal que
+conjuntamente maximicen la estabilidad macroeconómica, la igualdad regional y la
+democracia subnacional.
+
+[[PDF p. 28]]
+606                                                                                         CARLOS GERVASONI
+
+
+
+                                     REFERENCIAS BIBLIOGRÁFICAS
+ACEMOGLU, Daron, JOHNSON, Simon, ROBINSON, James            C ALVO , Ernesto y M URILLO , María V. (2004): “Who
+   y YARED, Pierre (2008): “Income and Democracy”,              Delivers? Partisan Clients in the Argentine Electoral
+   American Economic Review 98, Nº 3, pp. 808-42.               Market”, American Journal of Political Science 48,
+A C E M O G L U , Daron y R O B I N S O N , James (2006):       Nº 4, pp. 742-57.
+    Economic Origins of Dictatorship and Democracy .        CAO, Horacio (2005): “El Sistema Político Regional de
+    New York, Cambridge University Press.                       las Provincias Periféricas Durante los ’90", Realidad
+ALVAREZ, Michael, CHEIBUB, Jose A., LIMONGI, Fernando           Económica 216, pp. 95-118.
+   y PRZEWORSKI, Adam (1996): “Classifying Political        CAO, Horacio, FRANCES, Mónica y VACA, Ángel (1997):
+   Regimes”, Studies in Comparative International               “Empleo Público en las Provincias Rezagadas”,
+   Development 31, Nº 2, pp. 3-36.                              Aportes para el Estado y la Administración
+ASOCIACIÓN POR LOS DERECHOS CIVILES Y OPEN SOCIETY              Gubernamental 8, pp. 89-104.
+   JUSTICE INITIATIVE (2005): Buying the New: A Report      CEPAL (2007): Dinámica Productiva Provincial, en http:/
+   on Financial and Indirect Censorship in Argentina,           /www.eclac.org/argentina/noticias/paginas/4/
+   New York, Open Society Institute.                            10424/PartPcial.xls (consultado el 3 de septiembre
+BATES , Robert y LIEN, Da-Hsiang (1985): “A Note on             de 2007).
+   Taxation, Development, and Representative                CHÁVEZ, Rebecca Bill (2003): “The Construction of the
+   Government”, Politics and Society 14, Nº 1, pp.              Rule of Law in Argentina: A Tale of Two Provinces”,
+   53-70.                                                       Comparative Politics 35, Nº 4, pp. 417-37.
+BECK, Nathaniel (2001): “Time-Series–Cross-Section          CHAUDHRY, Kiren Aziz (1994): “Economic Liberalization
+   Data: What Have We Learned in the Past Few                   and the Lineages of the Rentier State”, Comparative
+   Years?” Annual Review of Political Science 4, pp.            Politics 27, Nº 1, pp. 1-25.
+   271–93.                                                  COPPEDGE, Michael (2005): “Defining and Measuring
+BECK, Nathaniel y KATZ, Jonathan (1995): “What to Do            Democracy”, IPSA/CIDE Committee on Concepts
+   (and Not to Do) with Time Series Cross-Section               and Methods, Working paper #2, en http://
+   Data”, American Political Science Review 89, Nº 3,           www.concepts-methods.org/
+   pp. 634-47.                                              D AHL, Robert (1971): Polyarchy: Participation and
+BEER, Caroline, y MITCHELL, Neil (2006): “Comparing             Opposition. New Haven, Yale University Press.
+   Nations and States: Human Rights and Democracy           DARGOLTZ, Raúl, GEREZ, Oscar y CAO, Horacio (2006):
+   in India”, Comparative Political Studies 39, Nº 8,           El Nuevo Santiagueñazo: Cambio Político y
+   pp. 996-1018.                                                Régimen Caudillista. Buenos Aires, Biblos.
+BESLEY, Timothy, y BURGESS, Robin (2002):”The Political     DIAMOND, Larry (1999): Developing Democracy: Toward
+   Economy of Government Responsiveness: Theory                 Consolidation. Baltimore, Johns Hopkins University
+   and Evidence from India”, Quarterly Journal of               Press.
+   Economics 117, Nº 4, pp. 1415-51.                        DIAMOND, Larry, LINZ, Juan y LIPSET, Seymour M. (1995):
+BOIX, Carles (2003): Democracy and Redistribution.              “Introduction: What Makes for Democracy?”, en
+   Cambridge, Cambridge University Press.                       Larry DIAMOND, Juan LINZ y Seymour M. LIPSET
+BOIX, Carles, y STOKES, Susan C. (2003): “Endogenous            (Eds.): Politics in Developing Countries: Comparing
+   Democratization”, World Politics 55, Nº 4 (julio), pp.       Experiences with Democracy. Boulder, Colo., Lynne
+   517-49.                                                      Rienner Publishers.
+B OLLEN , Kenneth, y L E N N O X , Richard (1991):          D ÍAZ -C AYEROS , Alberto (2006): Federalism, Fiscal
+   “Conventional Wisdom on Measurement: A                       Authority, and Centralization in Latin America. New
+   Structural Equation Perspective”, Psychological              York, Cambridge University Press.
+   Bulletin 110, Nº 2, pp. 305-14.                          D UNNING , Thad (2008): Crude Democracy: Natural
+BOLLEN, Kenneth, y PAXTON, Pamela (2000): “Subjective           Resource Wealth and Political Regimes .
+   Measures of Liberal Democracy”, Comparative                  Cambridge, Cambridge University Press.
+   Political Studies 33, Nº 1, pp. 58-86.                   EATON, Kent (2004): Politics beyond the Capital: The
+BONVECCHI, Alejandro, y LODOLA, Germán (2009): “The             Design of Subnational Institutions in South America.
+   Dual Logic of Intergovernmental Transfers: Territorial       Stanford, Calif., Stanford University Press.
+   Coalition Building in Argentina”, trabajo presentado     FISH, Steven (2005): Democracy Derailed in Russia: The
+   en el Congreso de Latin American Studies                     Failure of Open Politics. Cambridge, Cambridge
+   Association, Río de Janeiro, 11-14 de Junio.                 University Press.
+C ALVO , Ernesto, y M ICOZZI , Juan P. (2005): “The         FOX, Jonathan (1994): “Latin America’s Emerging Local
+    Governor’s Backyard: A Seat Vote Model of Electoral         Politics”, Journal of Democracy 5, Nº 2, pp. 105-16.
+    Reform for Subnational Multiparty Races”, Journal       GÉLINEAU, François y DUBÉ, Sébastien (2005): “Bringing
+    of Politics 67, Nº 4, pp. 1050-74.                          the Legislators Back en: The Political Determinants
+
+[[PDF p. 29]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                            607
+
+   of Intergovernmental Transfers in Argentina, 1983-        G RIFFIN , John (2006): “Electoral Competition and
+   2001” trabajo presentado en el Congreso anual de              Democratic Responsiveness: A Defense of the
+   American Political Science Association,                       Marginality Hypothesis”, Journal of Politics 68, Nº
+   Washington, D.C., 1-4 de septiembre.                          4, pp. 911-21.
+GÉLINEAU, François, y REMMER, Karen (2005): “Political       HAYEK, Friedrich (1944): The Road to Serfdom. London,
+   Decentralization and Electoral Accountability: The            Routledge and Sons.
+   Argentine Experience 1983-2001”, British Journal          HELD, David (1987): Models of Democracy. Stanford,
+   of Political Science 36, Nº 1, pp. 133-57.                    Calif., Stanford University Press.
+G ÉLINEAU , François y D UBÉ , Sébastien (1994):             HELLER, Patrick (2000): “Degrees of Democracy: Some
+   “Presidential or Parliamentary Democracy: Does It             Comparative Lessons from India”, World Politics 52,
+   Make a Difference?”, en Juan L INZ y Arturo                   Nº 4 (julio), pp. 484-519.
+   V ALENZUELA (Eds.): The Failure of Presidential
+                                                             H ERB , Michael (2005): “No Representation without
+   Democracy. Baltimore, Johns Hopkins University
+                                                                 Taxation? Rents, Development, and Democracy”,
+   Press.
+                                                                 Comparative Politics 37, Nº 3, pp. 297-316.
+GERVASONI, Carlos (2009): “Fiscal Federalism as a
+                                                             HILL, Kim Q. (1994): Democracy in the Fifty States.
+   Source of Rents: Subnational Rentier States and
+                                                                 Lincoln, University of Nebraska Press
+   Democracy in Argentina”, trabajo presentado en el
+   Congreso anual de American Political Science              H OBOLT , Sara B. y K LEMMENSEN , Robert (2008):
+   Association, Toronto, 3-6 de septiembre.                      “Government Responsiveness and Political
+                                                                 Competition in Comparative Perspective”,
+GIBSON, Edward L. (2005): “Boundary Control: Subnational
+                                                                 Comparative Political Studies 41, Nº 3, pp. 309-37.
+   Authoritarianism in Democratic Countries”, World
+   Politics 58, Nº 1 (octubre), pp. 101-32.                  H OFFMAN , Barak, y G IBSON , Clark (2005): “Fiscal
+                                                                 Governance and Public Services: Evidence from
+GIBSON, Edward L. (2008): “Subnational Authorita-
+                                                                 Tanzania and Zambia”, trabajo presentado en el
+   rianism and Territorial Politics: Char ting the
+                                                                 Congreso anual de American Political Science
+   Theoretical Landscape”, trabajo presentado en el
+                                                                 Association, Washington, D.C., 1-4 de septiembre.
+   Congreso anual de American Political Science
+   Association, Boston, 28-31 de agosto.                     HSIAO, Cheng (2003): Analysis of Panel Data, 2nd ed.
+                                                                 New York, Cambridge University Press.
+GIBSON, Edward, y CALVO, Ernesto (2000): “Federalism
+   and Low-Maintenance Constituencies: Territorial           HUBER, Evelyne, RUESCHEMEYER, Dietrich y STEPHENS,
+   Dimensions of Economic Reform in Argentina”,                  John (1993): “The Impact of Economic Development
+   Studies in Comparative International Development              on Democracy”, Journal of Economic Perspectives
+   35, Nº 3, pp. 32-55.                                          7, Nº 3, pp. 71,85.
+GIBSON, Edward, CALVO, Ernesto y FALLETI, Tulia (2004):      I NTER -A MERICAN D EVELOPMENT B ANK (1997): Latin
+   “Reallocative Federalism: Legislative Overrepresen-           America after a Decade of Reform: Economic and
+   tation and Publics Spending in the Western                    Social Progress in Latin America, 1997 Report.
+   Hemisphere”, en Edward GIBSON (Ed.): Federalism               Washington D.C., Inter-American Development
+   and Democracy in Latin America. Baltimore, Johns              Bank.
+   Hopkins University Press.                                 JACKMAN, Robert (1973): “On the Relation of Economic
+GIMPELSON, Vladimir, y TREISMAN, Daniel (2002): “Fiscal          Development to Democratic Per for mance”,
+   Games and Public Employment. A Theory with                    American Journal of Political Science 17, Nº 3, pp.
+   Evidence from Russia”, World Politics 54, Nº 2                611-21.
+   (enero), pp. 145–83.                                      J ENSEN , Nathan, y W ANTCHEKON , Leonard (2002):
+GOLDBERG, Ellis, WIBBELS, Erik y MVUKIYEHE, Eric (2008):         “Resource Wealth and Political Regimes in Africa”,
+   “Lessons from Strange Cases: Democracy,                       Comparative Political Studies 37, Nº 7, pp. 816-41.
+   Development, and the Resource Curse in the U.S.           KARL, Terry (1997): The Paradox of Plenty: Oil Booms
+   States”, Comparative Political Studies 41, Nº 4-5,            and Petro-States. Berkeley, University of California
+   pp. 477–514.                                                  Press.
+G ORDIN , Jorge (2006): “Intergovernmental Fiscal            KEY, Vladimer O. (1949): Southern Politics in State and
+   Relations, ‘Argentine Style’”, Journal of Public Policy       Nation. New York, A. A. Knopf.
+   26, Nº 3, pp. 255-77.                                     LANKINA, Tomila V., y GETACHEW, Lullit (2006): “A Geo-
+GRAHAM, John, y BRUHN, Jodi (2008): “In Praise of                graphic Incremental Theory of Democratization:
+   Taxes: The Link between Taxation and Good                     Territory, Aid, and Democracy in Postcommunist
+   Governance in a First Nations Context”, Ottawa,               Regions”, World Politics 58, Nº 4 (julio), pp. 536-82.
+   Institute on Governance, Aboriginal Governance            LEVI, Margaret (1998): Of Rule and Revenue. Berkeley,
+   Publications.                                                 University of California Press.
+GREENE, Kenneth (2007): Why Dominant Parties Lose:           LEVITSKY , Steven, y WAY, Lucan (2002): “The Rise of
+   Mexico Democratization in Comparative                         Competitive Authoritarianism”, Jour nal of
+   Perspective. New York, Cambridge University Press.            Democracy 13, Nº 2, pp. 51-65.
+
+[[PDF p. 30]]
+608                                                                                          CARLOS GERVASONI
+
+
+
+L INZ , Juan (1975): “Totalitarian and Authoritarian      PRZEWORSKI, Adam (1991): Democracy and the Market:
+    Regimes”, en Fred GREENSTEIN y Nelson POLSBY              Political and Economic Reforms in Eastern Europe
+    (Eds.): Handbook of Political Science , vol. 3.           and Latin America. Cambridge, Cambridge
+    Reading, Mass., Addison-Wesley Publishing                 University Press.
+    Company.                                              P RZEWORSKI , Adam, y L IMONGI , Fernando (1997):
+LIPSET, Seymour M. (1959): “Some Social Requisites of         “Modernization: Theory and Facts”, World Politics
+    Democracy: Economic Development and Political             49, Nº 2, pp. 155-83.
+    Legitimacy”, American Political Science Review 53,    PUTNAM, Robert (1993): Making Democracy Work: Civic
+    Nº 1, pp. 69-105.                                         Traditions in Modern Italy. Princeton, Princeton
+LUCIANI, Giacomo (1990): “The Rentier State in the Arab       University Press.
+   World”, en Giacomo LUCIANI (Ed.): The Arab State.      R EMMER , Karen (2007): “The Political Economy of
+   London, Routledge.                                         Patronage: Expenditure Patterns in the Argentine
+M C M ANN , Kelly (2006): Economic Autonomy and               Provinces, 1983–2003”, Journal of Politics 69, Nº 2,
+    Democracy: Hybrid Regimes in Russia and                   pp. 363-77.
+    Kyrgyzstan . New York, Cambridge University           R E M M E R , Karen, y G É L I N E A U , François (2003):
+    Press.                                                    “Subnational Electoral Choice: Economic and
+MCMANN, Kelly, y PETROV, Nikolai (2000) “A Survey of          Referendum Voting in Argentina, 1983-1999”,
+  Democracy in Russia’s Regions”, Post-Soviet                 Comparative Political Studies 36, Nº 7, pp. 801-21.
+  Geography and Economics 41, Nº 3, pp. 155-82.           R E M M E R , Karen, y W I B B E L S , Erik (2000): “The
+M INISTERIO DE E CONOMÍA Y P RODUCCIÓN (2006):                Subnational Politics of Economic Adjustment:
+    Esquema de Ahorro Inversión Financiamiento (en            Provincial Politics and Fiscal Performance in
+    Valores Constantes), en: http://www.mecon.gov.ar/         Argentina”, Comparative Political Studies 33,Nº 4,
+    hacienda/dncfp/esquema_ahorro/                            pp. 419-51.
+    esquema_ahorro.htm Accedido el 8 de noviembre         RODDEN, Jonathan, y WIBBELS, Erik (2002) “Beyond the
+    de 2006.                                                  Fiction of Federalism. Macroeconomic Management
+MOCHKOFSKY, Graciela (2003): “El Feudo Austral: Santa         in Multitiered Systems”, World Politics 54, Nº 4 (julio),
+  Cruz”, en La Nación (Suplemento Enfoques), 26 de            pp. 494-31.
+  enero, p.1.                                             Ross, Michael L. (2001): “Does Oil Hinder Democracy?”
+                                                              World Politics 53, Nº 3 (abril), pp. 325-61.
+M ONTERO , Alfred (2007): “Uneven Democracy?
+   Subnational Authoritarianism in Democratic Brazil”,    R OSS , Michael L. (2004): “Does Taxation Lead to
+   trabajo presentado en el Congreso de Latin                 Representation?” British Journal of Political Science
+   American Studies Association, Montreal, 5-7 de             34, Nº 2, pp. 229-49.
+   septiembre.                                            RUIZ, Fernando (2009): “Indicadores de Periodismo y
+                                                              Democracia en América Latina”, Número 11.
+M OORE , Barrington, Jr. (1966): Social Origins of
+                                                              CADAL y Universidad Austral, en http://
+   Dictatorship and Democracy: Lord and Peasant in
+                                                              www.cadal.org/informes/nota.asp?id_nota=3008
+   the Making of the Modern World. Boston, Beacon
+   Press.                                                 SAMUELS, David, y SNYDER, Richard (2001): “The Value
+                                                              of a Vote: Malapportionment in Comparative
+MOORE, Mick (2004): “Revenues, State Formation, and           Perspective”, British Journal of Political Science 31,
+  the Quality of Governance in Developing Countries”,         Nº 4, pp. 651-71.
+  International Political Science Review 25, Nº 3, pp.
+                                                          SARTORI, Giovanni (1987): The Theory of Democracy
+  297-319.
+                                                              Revisited . Chatham, N. J., Chatham House
+MORRISON, Kevin (2009): “Oil, Nontax Revenue, and             Publishers.
+  the Redistributional Foundations of Regime              S CHEDLER , Andreas (2005): “Patterns of Interparty
+  Stability”, International Organization 63, Nº 1, pp.        Competition in Electoral Autocracies”, Documentos
+  107-38.                                                     de Trabajo. División de Estudios Políticos, 173.
+NIKIFORUK, Andrew (2008): Tar Sands: Dirty Oil and the        México, D.F., Centro de Investigación y Docencia
+   Future of a Continent. Vancouver, Greystone Books.         Económicas.
+O’D O N N E L L , Guiller mo (1993): “On the State,       SCHEDLER, Andreas (2006): “The Logic of Electoral
+   Democratization and Some Conceptual Problems:              Authoritarianism”, en Andreas S CHEDLER (Ed.):
+   A Latin American View with Glances at Some Post-           Electoral Authoritarianism: The Dynamics of Unfree
+   Communist Countries”, World Development 21, Nº             Competition. Boulder, Colo., Lynne Rienner.
+   8, pp. 1355-69.                                        SMITH, Alastair (2008): “The Perils of Unearned Income”,
+PORTO, Alberto (2004): “Etapas de la Coparticipación          Journal of Politics 70, Nº 3, pp. 780-93.
+   Federal de Impuestos: Un Análisis Crítico”, en         S MITH , Benjamin (2002): “Oil Wealth and Regime
+   Alberto PORTO (Dir.): Disparidades Regionales y            Survival in the Developing World, 1960-1999”,
+   Federalismo Fiscal . La Plata, Editorial de la             American Journal of Political Science 48, Nº 2, pp.
+   Universidad de La Plata.                                   232-46.
+
+[[PDF p. 31]]
+UNA TEORÍA RENTÍSTICA DE LOS REGÍMENES SUBNACIONALES                                                         609
+
+SNYDER, Richard (1999): “After the State Withdraws:       VANHANEN, Tatu (2000): “A New Dataset for Measuring
+   Neoliberalism and Subnational Authoritarian                 Democracy, 1810-1998”, Jour nal of Peace
+   Regimes in Mexico”, en Wayne CORNELIUS, Todd                Research 37, Nº 2, pp. 251-65.
+   EISENSTADT , y Jane H INDLEY (Eds.): Subnational       W IBBELS , Erik (2005): Federalism and the Market:
+   Politics and Democratization in Mexico. La Jolla,           Intergovernmental Conflict and Economic Reform
+   Center for U.S.-Mexican Studies, University of              in the Developing World. New York, Cambridge
+   California, San Diego.                                      University Press.
+T H E R K I L D S E N , Ole (2002): “Keeping the State    WILSON, Sven, y BUTLER, Daniel (2007): “A Lot More to
+     Accountable: Is Aid No Better than Oil?”, IDS             Do: The Sensitivity of Time-Series Cross-Section
+     Bulletin 33, Nº 3, pp. 41-49.                             Analyses to Simple Alternative Specifications”,
+TOMMASI, Mariano, SAIEGH, Sebastián y SANGUINETTI,             Political Analysis 15, Nº 2, pp. 101-23.
+   Pablo (2001): “Fiscal Federalism in Argentina:         WIÑAZKI, Miguel (1995): El Último Feudo. San Luis y el
+   Policies, Politics and Institutional Refor m”,              Caudillismo de los Rodríguez Saá. Buenos Aires,
+   Economía 1 (primavera), pp. 157-211.                        Ediciones Temas de Hoy.
+T R O C E L L O , Gloria (2008): La Manufactura de        Z A K A R I A , Fareed (1997): “The Rise of Illiberal
+     “Ciudadanos Siervos”: Cultura Política y Regímenes        Democracy”. Foreign Affairs 76 (noviembre-
+     Neopatrimonialistas . San Luis, Nueva Editorial           diciembre), pp. 22-41.
+     Universitaria-Universidad Nacional de San Luis.      ZORN, Christopher (2001): “Generalized Estimating
+ULFELDER, Jay (2007): “Natural-Resource Wealth and             Equation Models for Correlated Data: A Review with
+   the Survival of Autocracy”, Comparative Political           Applications”, American Journal of Political Science
+   Studies 40, Nº 8, pp. 995-1018.                             45, Nº 2, pp. 470-90.
+
+[[PDF p. 32]]
+610                                                                                      CARLOS GERVASONI
+
+
+
+                                                   RESUMEN
+
+     Los niveles de democracia subnacional varían          económicamente más pequeños proporcionan a
+significativamente en numerosos países del                 sus gobernantes generosas “rentas del federalismo
+mundo. Basándose en teorías fiscales del Estado,           fiscal”, las cuales les permiten restringir la compe-
+el autor argumenta que esta variación es con               tencia política y debilitar el sistema de pesos y
+frecuencia explicada por un tipo de rentismo que           contrapesos. Evidencia empírica proveniente de
+no está geográficamente determinado por los                datos de panel sobre las provincias argentinas
+recursos naturales, sino políticamente creado por          confirma claramente esta expectativa, incluso
+ciertos arreglos del federalismo fiscal. Postula que       después de controlar por explicaciones alterna-
+los regímenes menos democráticos son más                   tivas estándar tales como el nivel de desarrollo.
+probables en las provincias rentísticas –aquellas          Análisis de sensibilidad demuestran que este
+que reciben transferencias desproporcionada-               hallazgo es extremadamente robusto a estima-
+mente grandes del gobierno central y prácti-               dores de panel alternativos. Evidencia cuantitativa
+camente renuncian a la tributación local. Las reglas       y cualitativa sugiere que el principal mecanismo
+de copar ticipación intergubernamental de                  causal es el efecto que un elevado nivel de gasto
+impuestos que producen grandes desequilibrios              público ejerce sobre la autonomía económica de
+fiscales verticales y favorecen a los distritos            los actores políticos.
+
+
+
+
+                                                   SUMMARY
+
+     Levels of subnational democracy vary signifi-         their incumbents with generous “fiscal federalism
+cantly within countries around the world. Drawing on       rents” that allow them to restrict democratic
+fiscal theories of the state, the author argues that       contestation and weaken checks and balances.
+this variance is often explained by a type of rentierism   Statistical evidence from a panel data set of the
+that is not geographically determined by natural           Argentine provinces strongly confirms this
+resources but politically created by certain fiscal        expectation, even after controlling for standard
+federalism arrangements. He posits that less               alternative explanations such as level of deve-
+democratic regimes are more likely in rentier              lopment. Sensitivity analysis shows that this finding
+provinces –those that receive disproportionately large     is extremely robust to alternative panel estimators.
+central government transfers and practically forgo         Qualitative and quantitative evidence suggests that
+local taxation. Intergovernmental revenue-sharing          the effect of heavy public spending on the economic
+rules that produce large vertical fiscal imbalances        autonomy of political actors is the main causal
+and favor the economically smaller districts provide       mechanism at work.
+
+
+
+
+                                         REGISTRO BIBLIOGRÁFICO
+    GERVASONI, Carlos
+    "Una teoría rentística de los regímenes subnacionales: federalismo fiscal, democracia y autoritarismo en
+    las provincias argentinas". DESARROLLO ECONÓMICO – REVISTA DE CIENCIAS SOCIALES (Bue-
+    nos Aires), vol. 50, Nº 200, enero-marzo 2011 (pp. 579-610).
+    Descriptores: <Argentina> <Federalismo fiscal> <Democracia / autoritarismo subnacional> <Provincias>.

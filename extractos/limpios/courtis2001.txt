@@ -1,0 +1,789 @@
+# fuente: Unidad18/1_Abramovich_Courtis_2009_Apuntes sobre la exigibilidad de los deechos sociales.pdf
+# modo: ocr
+# revisado: si
+# paginas_revisadas: PDF 2-27 (pp. 973-998, capítulo completo). Sin PDF 1 (p. 972, final del capítulo anterior) ni PDF 28 (portadilla siguiente).
+# origen: re-OCR propio (pdftoppm 400 dpi, magick -deskew, tesseract spa --psm 6) sobre el PDF de Materiales_UBA; el OCR del corpus entrelazaba renglones en PDF 4, 5, 8 y 23. Corregido con ediciones puntuales, una por error, contra la imagen.
+# criterio: sin notas al pie ni llamadas de nota, sin encabezados de página; rayas de inciso como «–», igual que en el impreso; cursivas no conservadas; renglones tal como en el impreso (guiones de corte incluidos); renglón en blanco = punto y aparte sólo donde la heurística no lo detecta (títulos, citas en bloque, incisos i-iii).
+# margen_cortado: en PDF 4 (p. 975) y PDF 24 (p. 995), y en menor medida PDF 22 (p. 993), el escaneo corta las últimas letras de muchos renglones. Se completaron por el contexto (p. ej. «pro-tección», «Judi-cial», «propiedad: a», «del PIDESC»); ninguna palabra legible se cambió. «propiedad: a» (p. 975) es la reconstrucción menos segura: la puntuación no se ve.
+# paginas: 28
+
+[[PDF p. 2]]
+
+CAPÍTULO XXXVII
+
+APUNTES SOBRE LA EXIGIBILIDAD JUDICIAL
+
+DE LOS DERECHOS SOCIALES
+
+Por VÍCTOR ABRAMOVICH y CHRISTIAN COURTIS
+
+I. LOS DERECHOS SOCIALES EN TANTO DERECHOS
+
+Gran parte de la tradición constitucional iberoamericana en materia
+de derechos sociales se caracteriza por la repetición de tópicos que, a la
+luz de la experiencia internacional y de la ya considerable acumulación
+de precedentes nacionales, han demostrado ser prejuicios de tipo ideoló-
+gico, antes que argumentos sólidos de dogmática jurídica. Así, aunque
+la gran mayoría de las Constituciones de América latina, la de España y
+la de Portugal estén alineadas dentro del denominado constitucionalismo
+social, se ha repetido hasta el hartazgo que las normas que establecen de-
+rechos sociales son sólo normas programáticas, que no otorgan derechos
+subjetivos en el sentido tradicional del término, o que no resultan justi-
+ciables. De este modo, se traza una distinción entre el valor normativo de
+
+[[PDF p. 3]]
+los denominados derechos civiles –o derechos de autonomía, o derechos-libertades
+–, que sí se consideran derechos plenos, y los derechos sociales,
+a los que se asigna un mero valor simbólico o político, pero poca virtua-
+lidad jurídica.
+Sin embargo, la cuestión dista de ser tan sencilla. Las supuestas dis-
+tinciones entre derechos civiles y derechos sociales no son tan tajantes
+como pretenden los partidarios de la doctrina tradicional. La principal
+diferencia que señalan los partidarios de dicha doctrina reside en la dis-
+tinción entre obligaciones negativas y positivas: de acuerdo con esta lí-
+nea de argumentación, los derechos civiles se caracterizarían por establecer
+obligaciones negativas para el Estado –por ejemplo, abstenerse de matar,
+de torturar, de imponer censura, de violar la correspondencia, de afectar
+la propiedad privada–, mientras que los derechos sociales exigirían obli-
+gaciones de tipo positivo –por ejemplo, dar prestaciones de salud, educa-
+ción o vivienda–. En el primer caso, se dice, el Estado cumpliría su ta-
+rea con la mera abstención, sin que ello implique la erogación de fondos,
+y, por ende, el control judicial se limitaría a la anulación de aquellos ac-
+tos realizados en violación a aquella obligación de abstención. Contra la
+exigibilidad de los derechos sociales, aun cuando tengan reconocimiento
+constitucional, se dice que como se trata de derechos que establecen obli-
+gaciones positivas, su cumplimiento depende de la disposición de fondos
+públicos, y que por ello el Poder Judicial no podría imponer al Estado el
+cumplimiento de conductas de dar o hacer.
+La distinción, sin embargo, es notoriamente endeble. Todos los dere-
+chos, llámense civiles, políticos, económicos o culturales, tienen un cos-
+to, y prescriben tanto obligaciones negativas como positivas. Los dere-
+chos civiles no se agotan en obligaciones de abstención por parte del
+Estado: exigen conductas positivas, tales como la reglamentación –desti-
+nada a definir el alcance y las restricciones de los derechos–, la actividad
+
+[[PDF p. 4]]
+administrativa de regulación, el ejercicio del poder de policía, la pro-
+tección frente a las interferencias ilícitas del propio Estado y de otros par-
+ticulares, la eventual imposición de condenas por parte del Poder Judi-
+cial en caso de vulneración, la promoción del acceso al bien que constituye
+el objeto del derecho. Baste repasar mentalmente la gran cantidad de re-
+cursos que destina el Estado a la protección del derecho de propiedad: a
+ello se destina gran parte de la actividad de la justicia civil y penal, gran
+parte de la tarea policial, los registros de la propiedad inmueble, auto-
+motor y otros registros especiales, los servicios de catastro, la fijación y
+control de zonificación y uso del suelo, etc. Todas estas actividades
+plican, claro está, un costo para el Estado, sin el cual el derecho no resul-
+taría inteligible, y su ejercicio carecería de garantía. Esta reconstrucción
+puede replicarse con cualquier otro derecho –piénsese, en materia de de-
+rechos políticos, en la gran cantidad de conductas positivas que debe
+desarrollar el Estado para que el derecho de votar pueda ser ejercido por
+todos los ciudadanos–. Amén de ello, muchos de los llamados derechos
+civiles se caracterizan justamente por exigir la acción y no la abstención
+del Estado: piénsese, por ejemplo, en el derecho a contar, en caso de acu-
+sación penal, con asistencia letrada costeada por el Estado en caso de
+carecer de recursos suficientes, o en el derecho a garantías judiciales ade-
+cuadas para proteger otros derechos.
+En sentido simétrico, los derechos sociales tampoco se agotan en
+obligaciones positivas: al igual que en el caso de los derechos civiles,
+cuando los titulares hayan ya accedido al bien que constituye el objeto de
+esos derechos –salud, vivienda, educación, seguridad social– el Estado
+tiene la obligación de abstenerse de realizar conductas que lo afecten. El
+Estado afectará el derecho a la salud, la vivienda, o a la educación cuan-
+do prive ilícitamente a sus titulares del goce del bien del que ya dispo-
+nían, sea dañando su salud, excluyéndolos de los beneficios de la seguri-
+dad social o de la educación, del mismo modo en que afecta el derecho a
+la vida, la libertad de expresión, o la libertad ambulatoria cuando inter-
+fiere ilegítimamente en el disfrute de esos bienes. Ciertamente, algunos
+derechos sociales se caracterizan principalmente por exigir del Estado
+acciones positivas –v.gr., los llamados derechos-prestación, es decir, aque-
+llos que requieren la distribución de algún tipo de prestación a sus titulares
+como el servicio educativo o la asistencia sanitaria–, pero como hemos
+visto, esto también sucede con los derechos civiles –que exigen presta-
+ciones de la administración de justicia, de los registros civiles, del regis-
+tro de la propiedad o de las fuerzas de seguridad–. Otros derechos socia-
+les, sin embargo –en especial aquellos caracterizados por regir aun en las
+
+[[PDF p. 5]]
+relaciones entre particulares–, difícilmente puedan conceptualizarse de
+modo adecuado sólo como derechos prestacionales: piénsese en el dere-
+cho de huelga, o en el derecho a la negociación colectiva. Estos derechos
+requieren expresamente abstenciones del Estado: no interferir en la huel-
+ga, no interferir en las tratativas ni en el resultado de la negociación.
+Todo derecho, entonces, requiere para su efectividad obligaciones
+positivas y negativas. En línea con esta idea, autores como Fried van Hoof
+o Asbjørn Eide proponen un esquema interpretativo consistente en el
+señalamiento de “niveles” de obligaciones estatales, que caracterizarían
+el complejo que identifica a cada derecho, independientemente de su ads-
+cripción al conjunto de derechos civiles o al de derechos sociales. De
+acuerdo con la propuesta de van Hoof, por ejemplo, podrían discernirse
+
+[[PDF p. 6]]
+cuatro “niveles” de obligaciones: obligaciones de respetar, obligaciones
+de proteger, obligaciones de asegurar y obligaciones de promover el de-
+recho en cuestión. Las obligaciones de respetar se definen por el deber
+del Estado de no injerir, obstaculizar o impedir el acceso al goce de los
+bienes que constituyen el objeto del derecho. Las obligaciones de prote-
+ger consisten en impedir que terceros interfieran, obstaculicen o impidan
+el acceso a esos bienes. Las obligaciones de asegurar suponen asegurar
+que el titular del derecho acceda al bien cuando no puede hacerlo por sí
+mismo. Las obligaciones de promover se caracterizan por el deber de de-
+sarrollar condiciones para que los titulares del derecho accedan al bien.
+Ninguno de estos niveles puede caracterizarse únicamente a través
+de las distinciones obligaciones positivas/obligaciones negativas, u obliga-
+ciones de resultado/obligaciones de medio, aunque ciertamente las obli-
+gaciones de respetar están fundamentalmente ligadas a obligaciones nega-
+tivas o de abstención, y las obligaciones de proteger, asegurar y promover
+involucran un mayor activismo estatal y, por ende, un número mayor
+de obligaciones positivas o de conducta. Este marco teórico, entiende
+van Hoof, refuerza la unidad entre los derechos civiles y políticos y los
+derechos económicos, sociales y culturales, pues los distintos tipos de
+
+[[PDF p. 7]]
+obligaciones estatales pueden ser hallados en ambos pares de derechos.
+Por ejemplo, señala van Hoof, la libertad de expresión no requiere sólo
+el cumplimiento de la prohibición de censura sino que exige la obligación
+de crear condiciones favorables para el ejercicio de la libertad de mani-
+festarse –mediante la protección policial–, y del pluralismo de la prensa
+y de los medios de comunicación en general. Paralelamente, los derechos
+económicos, sociales y culturales no requieren solamente obligaciones de
+garantizar o de promover, sino que también exigen un deber de respeto o
+de protección del Estado.
+Estas notas están destinadas a mostrar que la distinción entre uno y
+otro tipo de derechos es mucho menos tajante de lo que se afirma habi-
+tualmente, pero no pretende negar la existencia de algunos obstáculos que
+se han interpuesto históricamente a la exigibilidad de los derechos socia-
+les. Muchos de estos obstáculos, sin embargo, tampoco son ajenos a la
+naturaleza de los derechos civiles, y ello no ha sido óbice para considerar
+que éstos son derechos justiciables. Otros obstáculos reflejan algunas par-
+ticularidades de los derechos sociales, aunque ello tampoco es un argu-
+mento para desconsiderarlos como derechos: exigen, más bien, imagina-
+ción a los juristas y a los jueces, en aras de ofrecer protección eficaz a
+aquellos bienes que el constituyente ha decidido priorizar.
+
+II. EL PROBLEMA DE LA EXIGIBILIDAD DE LOS DERECHOS SOCIALES
+
+Parece claro que, de acuerdo con el diseño institucional de las de-
+mocracias occidentales, los poderes encargados de cumplir con las obli-
+
+[[PDF p. 8]]
+gaciones que se desprenden del establecimiento de la mayoría de los de-
+rechos son, primariamente, los denominados poderes políticos, es decir,
+la Administración y la Legislatura. Esto vale tanto para los derechos civi-
+les como para los derechos sociales: a estos poderes les corresponde la
+regulación normativa y la actuación administrativa destinada a velar por
+la efectividad de derechos tales como el derecho a casarse, a asociarse
+con fines útiles, a disponer de la propiedad, a la educación primaria, a la
+asistencia sanitaria, a gozar de condiciones dignas de trabajo, etc. Al Poder
+Judicial le cabe un papel subsidiario: le corresponde actuar cuando los
+demás Poderes incumplan con las obligaciones a su cargo, sea por su pro-
+pia acción, por no poder evitar que otros particulares afecten el bien que
+constituye el objeto del derecho, o por incumplir con las acciones posi-
+tivas debidas.
+Este recurso a la protección judicial en caso de afectación del bien
+que se pretende tutelar constituye un elemento central en la definición de
+la noción de “derecho” –aunque, como lo hemos sugerido, no el único–:
+la existencia de algún poder jurídico de reclamo de su titular en caso
+de incumplimiento de la obligación debida. El reconocimiento de los
+
+[[PDF p. 9]]
+derechos sociales como derechos plenos no se alcanzará hasta superar las
+barreras que impiden su adecuada justiciabilidad, entendida como la po-
+sibilidad de reclamar ante un juez o tribunal de justicia el cumplimiento
+al menos de algunas de las obligaciones que se derivan del derecho. De
+modo que, aunque un Estado cumpla habitualmente con la satisfacción
+de determinadas necesidades o intereses tutelados por un derecho social,
+no puede afirmarse que los beneficiados por la conducta estatal gozan de
+ese derecho como derecho subjetivo, hasta tanto verificar si la población
+se encuentra en realidad en condiciones de demandar judicialmente la pres-
+tación del Estado ante un eventual incumplimiento. Lo que calificará la
+existencia de un derecho social como derecho pleno no es simplemente
+la conducta cumplida por el Estado, sino también la posibilidad de recla-
+mo ante el incumplimiento: que –al menos en alguna medida– el titu-
+lar/acreedor esté en condiciones de producir, mediante una demanda o
+queja, el dictado de una sentencia que imponga el cumplimiento de la
+obligación generada por su derecho.
+
+[[PDF p. 10]]
+Si, como hemos venido diciendo, no existen diferencias sustanciales
+entre las obligaciones correspondientes a derechos civiles y derechos so-
+ciales, debe cuestionarse vigorosamente la idea de que sólo los derechos
+civiles resultan justiciables. Cabe, en ese sentido, referir la opinión del
+Comité de Derechos Económicos, Sociales y Culturales contenida en su
+Opinión General nro. 9 (“La aplicación interna del Pacto”), de 1998:
+
+“En lo relativo a los derechos civiles y políticos, generalmente se da por
+supuesto que es fundamental la existencia de recursos judiciales frente a
+las violaciones de esos derechos. Lamentablemente, en lo relativo a los dere-
+chos económicos, sociales y culturales, con demasiada frecuencia se parte
+del supuesto contrario. Esta discrepancia no está justificada ni por la natu-
+raleza de los derechos ni por las disposiciones pertinentes del Pacto. El
+Comité ya ha aclarado que considera que muchas de las disposiciones del
+Pacto pueden aplicarse inmediatamente. Así, en la Observación General
+nro. 3 (1990) se citaban, a título de ejemplo, los siguientes artículos del Pac-
+to: el art. 3º; el inc. i) del apart. a) del art. 7º; el art. 8º; el párr. 3 del art. 10;
+el apart. a) del párr. 2 y del art. 13; los párrs. 3 y 4 del art. 13, y el párr. 3
+del art. 15. A este respecto, es importante distinguir entre justiciabilidad (que
+se refiere a las cuestiones que pueden o deben resolver los tribunales) y las
+normas de aplicación inmediata (que permiten su aplicación por los tribu-
+nales sin más disquisiciones). Aunque sea necesario tener en cuenta el plan-
+teamiento general de cada uno de los sistemas jurídicos, no hay ningún
+derecho reconocido en el Pacto que no se pueda considerar que posee en la
+gran mayoría de los sistemas algunas dimensiones significativas, por lo
+menos, de justiciabilidad. A veces se ha sugerido que las cuestiones que
+suponen una asignación de recursos deben remitirse a las autoridades políti-
+cas y no a los tribunales. Aunque haya que respetar las competencias respec-
+tivas de los diversos Poderes, es conveniente reconocer que los tribunales
+
+[[PDF p. 11]]
+ya intervienen generalmente en una gama considerable de cuestiones que
+tienen consecuencias importantes para los recursos disponibles. La adop-
+ción de una clasificación rígida de los derechos económicos, sociales y
+culturales que los sitúe, por definición, fuera del ámbito de los tribunales
+sería, por lo tanto, arbitraria e incompatible con el principio de que los dos
+grupos de derechos son indivisibles e interdependientes. También se redu-
+ciría drásticamente la capacidad de los tribunales para proteger los dere-
+chos de los grupos más vulnerables y desfavorecidos de la sociedad” (pun-
+to 10).
+Entendiendo que también los derechos sociales generan al Estado un
+complejo de obligaciones negativas y positivas, cabe analizar entonces qué
+tipo de obligaciones brindan la posibilidad de su exigencia a través de la
+actuación judicial.
+Por un lado, en muchos casos las violaciones de derechos económi-
+cos, sociales y culturales provienen del incumplimiento de obligaciones
+negativas por parte del Estado –ligadas, en muchos casos, a la violación
+de obligaciones de respeto–. Además de algunos de los ejemplos mencio-
+nados más abajo, resulta útil recordar que uno de los principios liminares
+establecidos en materia de derechos económicos, sociales y culturales es
+la obligación estatal de no discriminar en el ejercicio de estos derechos
+(cfr. art. 2.2, PIDESC), que de hecho establece importantes obligacio-
+nes negativas para el Estado. El incumplimiento de este tipo de obliga-
+ciones abre un enorme campo de justiciabilidad para los derechos eco-
+nómicos sociales y culturales, cuyo reconocimiento pasa a constituir un
+límite y por ende un estándar de impugnación de la actividad estatal no
+respetuosa de dichos derechos. Piénsese, por ejemplo, en la violación
+por parte del Estado del derecho a la salud, a partir de la contaminación
+del medio ambiente realizada por sus agentes, o en la violación del de-
+recho a la vivienda, a partir del desalojo forzoso de habitantes de una
+zona determinada sin ofrecimiento de vivienda alternativa, o en la viola-
+ción del derecho a la educación, a partir de la limitación de acceso a la
+educación basada en razones de sexo, nacionalidad, condición económica
+u otro factor discriminatorio prohibido, o en la violación de cualquier otro
+derecho de este tipo, cuando la regulación en la que se establecen las
+E condiciones de su acceso y goce resulte discriminatoria. En estos casos,
+resultan perfectamente viables muchas de las acciones judiciales tradicio-
+nales, llámense acciones de inconstitucionalidad, de impugnación o nuli-
+dad de actos reglamentarios de alcance general o particular, declarativas
+de certeza, de amparo o incluso de reclamo de daños y perjuicios. La ac-
+tividad positiva del Estado que resulta violatoria de los límites negativos
+
+[[PDF p. 12]]
+impuestos por un determinado derecho económico, social o cultural re-
+sulta cuestionable judicialmente y, verificada dicha vulneración, el juez
+decidirá privar de valor jurídico a la acción o a la manifestación de vo-
+luntad del Estado viciada, obligándolo a corregirla de manera de respetar
+el derecho afectado.
+Por otro lado, nos enfrentamos a casos de incumplimiento de obliga-
+ciones positivas del Estado, es decir, omisiones del Estado en sus obliga-
+ciones de realizar acciones o adoptar medidas de protección y asegura-
+miento de los derechos en cuestión. Éste es el punto en el que se plantea
+la mayor cantidad de dudas y cuestionamientos respecto de la justiciabi-
+lidad de los derechos económicos, sociales y culturales. La cuestión pre-
+senta, sin embargo, una multiplicidad de facetas, que conviene repasar.
+Puede concederse que en el caso límite, es decir, el incumplimiento ge-
+neral y absoluto de toda obligación positiva por parte del Estado, resulta
+sumamente difícil promover su cumplimiento directo a través de la ac-
+tuación judicial. Cabe otorgar razón a algunas de las habituales objecio-
+nes efectuadas en esta materia: el Poder Judicial es el menos adecuado
+para realizar planificaciones de política pública; el marco de un caso ju-
+dicial es poco apropiado para discutir medidas de alcance general; la dis-
+cusión procesal genera problemas dado que otras personas afectadas por
+el mismo incumplimiento no participan del juicio; el Poder Judicial care-
+ce de medios compulsivos para la ejecución forzada de una sentencia que
+condene al Estado a cumplir con la prestación omitida para todos los ca-
+sos involucrados, o bien para dictar la reglamentación omitida, etcétera.
+Ahora bien, aun admitiendo las dificultades, cabe señalar algunas
+matizaciones a estas objeciones. En principio, resulta difícilmente imagi-
+nable la situación en la cual el Estado incumpla total y absolutamente con
+toda obligación positiva vinculada con un derecho social. Como hemos
+dicho párrafos atrás, el Estado cumple en parte con derechos tales como
+el derecho a la salud, a la vivienda o a la educación, a través de regula-
+ciones que extienden obligaciones a particulares, interviniendo en el mer-
+cado a través de reglamentaciones y del ejercicio del poder de policía, a
+priori (a través de autorizaciones, habilitaciones o licencias) o a posteriori
+(a través de la fiscalización). De modo que, cumplida en parte la obliga-
+ción de tomar medidas tendentes a garantizar estos derechos, aun en los
+Casos en los que las medidas no impliquen directamente la prestación de
+servicios por el Estado, queda siempre abierta la posibilidad de plantear
+judicialmente la violación de obligaciones del Estado por asegurar dis-
+criminatoriamente el derecho. Las posibilidades son más evidentes cuan-
+do el Estado presta efectivamente un servicio en forma parcial, discrimi-
+
+[[PDF p. 13]]
+nando a capas enteras de la población. Pueden subsistir, evidentemente,
+dificultades procesales y operativas en el planteo de casos semejantes, pe-
+ro difícilmente pueda discutirse que la realización parcial o discriminatoria
+de una obligación positiva no resulte materia justiciable.
+En segundo lugar, más allá de las múltiples dificultades teóricas y
+prácticas que plantea la articulación de acciones colectivas, en muchos
+casos el incumplimiento del Estado puede reformularse, aun en un con-
+texto procesal tradicional, en términos de violación individualizada y con-
+creta, en lugar de en forma genérica. La violación general al derecho a la
+salud puede reconducirse o reformularse a través de la articulación de una
+acción particular, encabezada en un titular individual, que alegue una vio-
+lación producida por la falta de producción de una vacuna, o por la nega-
+ción de un servicio médico del que dependa la vida o la salud de esa per-
+sona, o por el establecimiento de condiciones discriminatorias en el acceso
+a la educación o a la vivienda, o en el establecimiento de pautas irrazo-
+nables o discriminatorias en el acceso a beneficios de asistencia social.
+La habilidad del planteo radicará en la descripción inteligente del entre-
+lazado de violaciones de obligaciones positivas y negativas, o bien en la
+demostración concreta de las consecuencias de la violación de una obliga-
+ción positiva que surge de un derecho social, sobre el goce de un derecho
+civil. Podría señalarse que si la violación afecta a un grupo generalizado
+de personas, en la situación denominada por el derecho procesal contem-
+poráneo de derechos o intereses individuales homogéneos, las numerosas
+decisiones judiciales individuales constituirán una señal de alerta hacia los
+poderes políticos acerca de una situación de incumplimiento generalizado
+de obligaciones en materias relevantes de política pública, efecto especial-
+mente valioso al que nos referiremos en el próximo párrafo.
+En tercer lugar, aun en casos en los que la sentencia de un juez no
+resulte directamente ejecutable por requerir de provisión de fondos por
+parte de los poderes políticos, cabe resaltar el valor de una acción judi-
+cial en la que el Poder Judicial declare que el Estado está en mora o ha
+incumplido con obligaciones asumidas en materia de derechos sociales.
+Las sentencias obtenidas pueden constituir importantes vehículos para Ca-
+nalizar hacia los poderes políticos las necesidades de la agenda pública,
+expresadas en términos de afectación de derechos, y no meramente de
+reclamo efectuado, por ejemplo, a través de actividades de lobby o de-
+manda político-partidaria. Como dice José Reinaldo de Lima Lopes, “el;
+Poder Judicial, provocado adecuadamente, puede ser un poderoso instru-
+mento de formación de políticas públicas. Ejemplo de eso es el caso de
+la seguridad social brasileña. Si no fuese por la actitud de los ciudadanos
+
+[[PDF p. 14]]
+de reivindicar judicialmente y en masa sus intereses o derechos, estaría-
+mos más o menos donde estuvimos siempre”. No cabe duda de que la
+implementación de derechos sociales depende en parte de actividades de
+planificación, previsión presupuestaria y puesta en marcha que corres-
+ponden a los poderes políticos, siendo limitados los casos en los que el
+Poder Judicial puede llevar a cabo la tarea de suplir la inactividad de aqué-
+llos. Ahora bien, uno de los sentidos de la adopción de cláusulas constitu-
+cionales o de tratados que establecen derechos para las personas y obliga-
+ciones o compromisos para el Estado consiste en la posibilidad de reclamo
+de cumplimiento de esos compromisos no como concesión graciosa, sino
+en tanto programa de gobierno asumido tanto interna como internacional-
+mente. Parece evidente que, en este contexto, es importante establecer me-
+canismos de comunicación, debate y diálogo a través de los cuales se “re-
+cuerde” a los poderes públicos los compromisos asumidos, forzándolos a
+incorporar dentro de las prioridades de gobierno la toma de medidas des-
+tinadas a cumplir con sus obligaciones en materia de derechos sociales.
+Resulta especialmente relevante a este respecto que sea el propio Poder
+Judicial el que “comunique” a los poderes políticos el incumplimiento de
+sus obligaciones en esta materia. Cuando el poder político no cumpla con
+las obligaciones frente a las que es “puesto en mora” por el Poder Judi-
+cial, se enfrentará a la correspondiente responsabilidad política que deri-
+ve de su actuación morosa ante su propia población.
+Por último, como veremos en el próximo acápite, algunas objecio-
+nes dirigidas contra la justiciabilidad de los derechos sociales son circu-
+lares, ya que lo único que señalan es que los instrumentos procesales tra-
+dicionales –surgidos en el contexto de litigios que tenían como medida el
+interés individual, el derecho de propiedad y una concepción abstencio-
+nista del Estado– resultan limitados para exigir judicialmente estos dere-
+chos. Esta limitación no es absoluta: en muchos casos las acciones exis-
+tentes pueden emplearse perfectamente para reclamar individualmente el
+cumplimiento de una prestación, y en otros puede reconducirse la exigen-
+cia de derechos sociales al reclamo de derechos civiles.
+Al respecto, es pertinente recordar la línea argumentativa del Comité
+de Derechos Económicos, Sociales y Culturales, plasmada en la ya men-
+cionada Opinión General nro. 9. El Comité interpreta la obligación de
+adoptar medidas de orden interno para dar plena efectividad a los dere-
+
+[[PDF p. 15]]
+chos establecidos en el PIDESC, contenida en el art. 2.1 del Pacto, a la
+luz de dos principios: a) la obligación de los Estados de modificar el or-
+denamiento jurídico interno en la medida necesaria para dar efectividad a
+las obligaciones dimanantes de los tratados en los que sean parte, y b) el
+“derecho a un recurso efectivo, ante los tribunales nacionales competen-
+tes, que la ampare contra actos que violen sus derechos fundamentales
+reconocidos por la Constitución o por la ley”, establecido por el art. 8º de
+la Declaración Universal de Derechos Humanos. Articulando ambos prin-
+cipios, el Comité señala:
+
+“los Estados parte que pretendan justificar el hecho de no ofrecer ningún
+recurso jurídico interno frente a las violaciones de los derechos económi-
+cos, sociales y culturales tendrán que demostrar o bien que esos recursos
+no son “medios apropiados” según los términos del párr. 1 del art. 2º del
+Pacto Internacional de Derechos Económicos, Sociales y Culturales, o bien
+que, a la vista de los demás medios utilizados, son innecesarios. Esto será
+difícil demostrarlo, y el Comité entiende que, en muchos casos, los demás
+medios utilizados puedan resultar ineficaces si no se refuerzan o comple-
+mentan con recursos judiciales” (punto 3).
+De modo que, lejos de entender que los derechos económicos, socia-
+les y culturales no son justiciables, el Comité establece la fuerte presun-
+ción de que la falta de recursos judiciales adecuados, que permitan hacer
+justiciables estos derechos, constituye una violación autónoma del Pacto.
+En síntesis, si bien puede concederse que existen limitaciones a la
+justiciabilidad de los derechos económicos, sociales y culturales, cabe
+concluir en el sentido exactamente inverso: dada su compleja estructura,
+no existe derecho económico, social o cultural que no presente al menos
+alguna característica o faceta que permita su exigibilidad judicial en caso
+de violación. En palabras de Alexy: “Como lo ha mostrado la jurispru-
+dencia del Tribunal Constitucional Federal [alemán], en modo alguno un
+tribunal constitucional es impotente frente a un legislador inoperante. El
+espectro de sus posibilidades procesales-constitucionales se extiende, desde
+la mera constatación de una violación de la Constitución, a través de la
+fijación de un plazo dentro del cual debe llevarse a cabo una legislación
+acorde con la Constitución, hasta la formulación judicial directa de lo
+ordenado por la Constitución”.
+
+[[PDF p. 16]]
+
+III. ALGUNOS OBSTÁCULOS A LA EXIGIBILIDAD JUDICIAL
+DE LOS DERECHOS SOCIALES
+
+Sintéticamente, y sin ánimo de agotar la cuestión, referiremos al-
+gunos obstáculos de índole práctica –aunque a veces también van acom-
+pañados de objeciones teóricas– para hacer plenamente exigibles los de-
+rechos sociales establecidos en una Constitución por vía judicial ante, claro
+está, el incumplimiento de los poderes obligados primariamente, es decir,
+los poderes políticos.
+
+1. La determinación de la conducta debida
+
+Un primer obstáculo a la justiciabilidad de los derechos sociales está
+vinculado con la falta de especificación concreta del contenido de estos
+derechos. Cuando una Constitución o un tratado internacional de derechos
+humanos hablan de derecho a la salud, derecho a la educación, derecho
+al trabajo o derecho a la vivienda, resulta difícil saber cuál es la medida
+exacta de las prestaciones o abstenciones debidas. Evidentemente, la exi-
+gencia de un derecho en sede judicial supone la determinación de un in-
+cumplimiento, extremo que se torna imposible si la conducta debida no
+resulta inteligible.
+Este obstáculo sugiere, sin embargo, varios comentarios. En primer
+lugar, no se trata de un problema ligado exclusivamente a los derechos
+sociales: la determinación del contenido de todo derecho de raigambre
+constitucional se ve afectada por el mismo inconveniente, que radica, en
+el fondo, en la vaguedad característica del lenguaje natural en el que se
+expresan las normas jurídicas. ¿Qué significa “propiedad”? ¿Cuál es el
+
+[[PDF p. 17]]
+tipo de “expresión” protegida por la prohibición de censura previa? ¿Cuál
+es el alcance de la noción de “igualdad”? Sin embargo, esta dificultad
+jamás ha llevado a la afirmación de que los derechos civiles no sean de-
+rechos, o no sean exigibles judicialmente, sino más bien a la tarea de es-
+pecificación de su contenido y límites, a partir de distintos procedimien-
+tos de afinamiento de su significado –principalmente, la reglamentación
+legislativa y administrativa, la jurisprudencia y el desarrollo de la dog-
+mática jurídica–.
+Resulta claro que la tarea de definición del alcance del derecho co-
+rresponde primariamente al legislador y –por vía reglamentaria– a la Ad-
+ministración. En este sentido, la codificación civil puede ser vista como
+un claro ejemplo de especificación –que llega a niveles de detalle casi
+obsesivos– del alcance del derecho de propiedad. Nada impide una ta-
+rea de especificación similar del contenido del derecho a la atención sa-
+nitaria, o a la educación, o a acceder a la vivienda, sobre bases universa-
+les, generales y abstractas. Un buen ejemplo de este empeño, en materia
+de derecho a la salud, es, en la Argentina, el desarrollo de una tendencia
+a la especificación de las prestaciones mínimas debidas por las distintas ins-
+tancias que forman parte del Sistema Nacional del Seguro de Salud –por
+mayor reparo que pueda generar su regulación concreta–.
+En el plano internacional, las Observaciones Generales del Comité
+de Derechos Económicos, Sociales y Culturales constituyen otro ejem-
+plo de esta tarea de especificación del contenido de los derechos esta-
+blecidos en el Pacto Internacional respectivo. Lo mismo puede predi-
+
+[[PDF p. 18]]
+carse del desarrollo de prácticas de exigibilidad de derechos sociales por
+la vía judicial ante los tribunales nacionales. El desarrollo de una dogmá-
+tica de los derechos sociales, tanto en sede nacional como internacional,
+constituye una tarea en muchos casos pendiente, que ofrecerá elementos
+de especificación más detallada del contenido de los derechos sociales. La
+existencia de un cuerpo dogmático considerable en materia de derecho
+laboral y de derecho del consumo son buenas demostraciones de esta
+posibilidad.
+En segundo lugar, y en el mismo sentido de la primera observa-
+ción, cabe señalar que los problemas de falta de especificación del conte-
+nido de un derecho son típicos de las normas constitucionales o de trata-
+dos de derechos humanos, dado que se trata de las normas de mayor nivel
+de generalidad del orden jurídico. Múltiples razones militan a favor de esta
+generalidad: permite mayor flexibilidad y adaptabilidad a instrumentos
+normativos cuya modificación es normalmente más gravosa que la de la
+legislación ordinaria, ofrece a los órganos encargados de especificar el
+contenido de los derechos contenidos en esos instrumentos un margen de
+elección compatible con la prudencia y necesidad de evaluación de la
+oportunidad que requiere la toma de cualquier decisión política, preserva
+la brevedad y concisión que hacen de estos documentos el catálogo de
+principios fundamentales del Estado de derecho. Del reconocimiento
+de la deseable generalidad del texto de una Constitución o de un tratado
+
+[[PDF p. 19]]
+de derechos humanos, sin embargo, no se sigue la imposibilidad absolu-
+ta de señalar casos en los que, pese a la inexistencia de especificación
+ulterior de su contenido, un derecho resulta violado: si ello fuera así, se-
+ría imposible decir que la reglamentación de un derecho es inconstitucio-
+nal, y ello equivaldría a privar completamente de significado al lenguaje
+en el que se expresan una Constitución o un tratado de derechos huma-
+nos. La existencia de una tradición de revisión judicial de constitucio-
+nalidad en la Argentina, en los Estados Unidos y en muchos otros países
+es un ejemplo patente de la posibilidad –y no de la imposibilidad– de ve-
+rificar la compatibilidad de una conducta activa u omisiva, o bien de una
+norma inferior, con un derecho reconocido en una Constitución o en un
+tratado de derechos humanos. Si esto es así ante un derecho civil, no se
+vé por qué no pueda serlo en el caso de un derecho social. En cualquiera
+de los dos supuestos, la tarea será –por supuesto– mucho más fácil cuan-
+do el contenido del derecho resulte especificado por la legislación infe-
+rior. Pero en muchos casos, cuando de la cláusula respectiva de la Cons-
+titución o el tratado de que se trate resulte posible derivar la conducta
+debida por el Estado, la objeción fundada en la indeterminación también
+carece de sentido. Para dar ejemplos provenientes del PIDESC, supuestos
+tales como el derecho de la mujer a “salario igual por trabajo igual” (art. 7º
+a.i), o el derecho de la mujer embarazada a obtener “licencia con remune-
+ración o con prestaciones adecuadas de seguridad social” (art. 10.2) tie-
+nen un sentido suficientemente inteligible como para determinar que, en
+el caso de una mujer que, a igual trabajo que un hombre, recibe una paga
+inferior, o en el de una mujer embarazada que no recibe licencia remu-
+nerada ni prestación alguna de la seguridad social, el Estado incumple con
+el Pacto.
+La tercera observación está dada por la necesidad de considerar un
+doble orden de condicionamientos vinculado con la determinabilidad de
+la conducta debida cuando se trata de derechos sociales. Hasta aquí, nos
+hemos referido a la determinabilidad semántica del contenido de estos
+derechos. Como hemos dicho, la especificación de la conducta debida por
+vía reglamentaria, jurisprudencial o dogmática constituye un recurso para
+la determinación de ese contenido. Sin embargo, cabe considerar otra for-
+ma de determinabilidad, es decir, de estrechamiento o exclusión de alter-
+nativas posibles ante el establecimiento de un deber legal por parte de una
+Constitución o un pacto de derechos humanos. Se trata de la determi-
+nabilidad fáctica: en muchos supuestos, pese a que la conducta debida por
+el obligado no resulta específicamente reglada por un texto normativo,
+fácticamente sólo existe uno o un número limitado de cursos de acción
+
+[[PDF p. 20]]
+determinables para el respeto, la garantía o satisfacción del derecho de que
+se trate. Por ejemplo, en el contexto del derecho a la asistencia sanitaria,
+en materias vinculadas con el desarrollo de tratamientos médicos, produc-
+ción de medicamentos o vacunas ante cuadros concretos de enfermedad,
+la discrecionalidad del Estado para optar entre cursos de acción alternati-
+vos resulta claramente limitada.
+Por último, cabe destacar que el examen judicial no necesariamente
+debe centrarse sobre la determinación de una conducta concreta por ser
+exigida del Estado. Cuando el Estado asume una vía de acción en el cum-
+plimiento de la obligación de adoptar medidas de satisfacción de un dere-
+cho social, el Poder Judicial puede analizar también la elección efectuada
+por el Estado a partir de nociones tales como la de razonabilidad, o bien
+la de carácter adecuado o apropiado, que tampoco son ajenas a la tradi-
+ción de control judicial de actos de los poderes políticos. Los jueces no
+sustituyen a los poderes políticos en la elección concreta de la política
+pública diseñada para la satisfacción del derecho, sino que examinan la
+idoneidad de las medidas elegidas para lograr esa satisfacción. Aunque el
+margen que tiene el Estado para adoptar decisiones es amplio, aspectos
+tales como la exclusión de ciertos grupos que requieren especial protec-
+ción, la notoria deficiencia en la cobertura de necesidades mínimas defi-
+nidas por el contenido del derecho o el empeoramiento de las condicio-
+nes de goce de un derecho son pasibles de control judicial en términos de
+razonabilidad o de estándares similares.
+
+2. La autorrestricción del Poder Judicial frente a cuestiones
+políticas y técnicas
+
+Otro de los tradicionales obstáculos para hacer justiciables los dere-
+chos sociales reside en el criterio sumamente restrictivo que suele emplear
+la magistratura a la hora de evaluar su facultad de invalidar decisiones
+que pueden calificarse como políticas. Así, cuando la reparación de una
+violación de derechos sociales importa una acción positiva del Estado que
+pone en juego recursos presupuestarios, afecta de alguna manera el dise-
+ño o la ejecución de políticas públicas, o implica tomar una decisión acerca
+de qué grupos o sectores sociales serán prioritariamente auxiliados o
+tutelados por el Estado, los jueces suelen considerar que tales cuestiones
+son propias de la competencia de los órganos políticos.
+Por lo demás, el margen de discrecionalidad de la Administración es
+mayor –y, por lo tanto, es menor la voluntad de contralor judicial– cuan-
+
+[[PDF p. 21]]
+do el acto administrativo se adopta sobre la base de un conocimiento o
+pericia técnica que se presume propio de la Administración y ajeno a la
+idoneidad del órgano jurisdiccional.
+Es dable reconocer que existen argumentos atendibles para afirmar, en
+términos generales, que un proceso judicial no es el escenario más ade-
+cuado para discutir aquellos temas. No se trata sólo de considerar la falta
+de una tradición de activismo judicial en Iberoamérica y en otros países de
+tradición continental europea, sino de analizar en qué medida un mecanis-
+mo de solución de conflictos como el proceso judicial, en el que una parte
+gana y la otra pierde, puede resultar idóneo para resolver una situación
+en la que confronten numerosos intereses individuales y colectivos.
+En este sentido, lo que nos interesa analizar aquí no es cómo supe-
+rar esta restricción en el plano de una teoría constitucional o política, sino
+de qué manera esta “forma de actuar” tradicional de la judicatura puede
+afectar la exigibilidad de los derechos sociales.
+Existe una primera conclusión, que no por ser obvia resulta siempre
+atendida a la hora de fijar una estrategia para el litigio de este tipo de casos:
+cuanto mayor sea el margen de debate en relación con estas cuestiones que
+pueden calificarse como “políticas” o “técnicas”, menores serán las posibi-
+lidades de éxito de la acción intentada. Si el juez, además de ser convocado
+a decidir sobre un problema de derecho, debe resolver sobre prioridades
+en la ejecución de partidas presupuestarias, sobre qué sectores o grupos
+merecerán protección preferente del Estado, o sobre la conveniencia o in-
+conveniencia de una política pública, el resultado del litigio será incierto.
+Cabe, sin embargo, aun teniendo presente esta dificultad, formular
+algunas observaciones. En primer término, no hay definiciones esencia-
+les o absolutas acerca del carácter “político” o “técnico” de una cuestión,
+de modo que la línea demarcatoria entre estas cuestiones y las cuestiones
+cabalmente “jurídicas” es una frontera movediza. Durante muchos años,
+en la tradición constitucional estadounidense y, por reflejo, en la Argenti-
+na, el Poder Judicial se negó a la revisión constitucional de las denomina-
+das “cuestiones políticas no justiciables”, cuyo contenido, sin embargo,
+fue variando cualitativamente: muchas de las cuestiones antes considera-
+das “políticas” dejaron de serlo con el tiempo y el Poder Judicial amplió
+así sus poderes de revisión ante actos u omisiones inconstitucionales de
+los poderes políticos.
+
+[[PDF p. 22]]
+Por otro lado, no todas las obligaciones estatales en materia de dere-
+chos sociales revisten el carácter de cuestiones “políticas” o “técnicas”: en
+muchos casos, el control judicial requerido se adecua a los parámetros de
+control habituales en materias comúnmente tratadas por el Poder Judicial.
+Por último, el obstáculo apuntado tampoco resulta insalvable: a par-
+tir de la propia conducta estatal, resulta posible “juridificar” una cuestión
+de “política pública” o “técnica”, de modo que la cuestión jurídica y fáctica
+sobre la cual deba juzgar el tribunal quede demarcada de manera clara.
+
+3. La inadecuación de los mecanismos procesales tradicionales
+para la tutela de derechos sociales
+
+Otro obstáculo importante para la exigibilidad de los derechos so-
+ciales es la inadecuación de los mecanismos procesales tradicionales para
+su tutela. Las acciones judiciales tradicionales tipificadas por el ordena-
+miento jurídico han sido pensadas para la protección de los derechos ci-
+viles clásicos. La cuestión remite a una de las discusiones medulares en
+materia de definición de los derechos, consistente en la relación entre un
+derecho y la acción judicial existente para exigirlo. Algunas dificultades
+conceptuales que plantea esta discusión, fuente constante de respuestas
+circulares, tienen directa relación con la estrecha vinculación de la no-
+ción tradicional de derecho subjetivo, la noción individual de propiedad
+y el modelo de Estado liberal. Dado que gran parte de las nociones
+sustanciales y procesales propias de la formación jurídica continental
+surgen del marco conceptual determinado por esta vinculación, muchas
+de las respuestas casi automáticas que se articulan frente a la posible
+justiciabilidad de los derechos económicos, sociales y culturales insisten
+en señalar la falta de acciones o garantías procesales concretas que tutelen
+los derechos sociales.
+Para verificar las dificultades que genera el marco teórico en el que
+se fundan las acciones tradicionales para proteger adecuadamente dere-
+chos sociales basta señalar algunos ejemplos:
+
+[[PDF p. 23]]
+
+i) La incidencia colectiva de la mayoría de los derechos sociales pro-
+voca problemas de legitimación activa, que no se limitan a la etapa de
+formulación de la acción, sino que se prolongan durante las diferentes
+etapas del proceso, ante la inexistencia de mecanismos de participación
+adecuada de los sujetos colectivos o de grupos numerosos de víctimas en
+las diferentes diligencias e instancias procesales. Esta circunstancia pone
+en evidencia que las acciones y los procedimientos están previstos para
+dilucidar conflictos individuales.
+
+ii) Las violaciones de los derechos sociales requieren al mismo tiem-
+po satisfacción urgente y amplitud de prueba, pero estas dos cuestiones
+son excluyentes para la elección de los mecanismos tradicionales de tute-
+la. Acciones tales como la de amparo, tutela, protección u otras similares
+requieren un derecho líquido, y las medidas cautelares un derecho vero-
+símil, y en ambos tipos de procedimiento el ordenamiento procesal y la
+jurisprudencia restringen al mínimo el marco probatorio del proceso.
+
+iii) Las sentencias que condenan al Estado a cumplir obligaciones
+de hacer no cuentan con resguardos procesales suficientes y resultan por
+ello de dificultosa ejecución.
+Aun advirtiendo esta dificultad –que por supuesto genera límites en
+la justiciabilidad de algunas obligaciones que surgen de derechos económi-
+cos, sociales y culturales– es perfectamente posible, como hemos visto,
+deslindar distintos tipos de situaciones en las que la violación de estos
+
+[[PDF p. 24]]
+derechos resulta corregible mediante la actuación judicial con los instru-
+mentos procesales hoy existentes. Cabe señalar, además, que de la inexis-
+tencia de instrumentos procesales concretos para remediar la violación de
+ciertas obligaciones que tienen como fuente derechos económicos, socia-
+les y culturales no se sigue de ningún modo la imposibilidad técnica de
+crearlos y desarrollarlos. El argumento de la inexistencia de acciones idó-
+neas señala simplemente un estado de cosas, violatorio prima facie del
+PIDESC –de acuerdo con la ya citada opinión del Comité de Derechos
+Económicos, Sociales y Culturales– y susceptible de ser modificado. La
+actual inadecuación de los mecanismos o garantías judiciales no dice nada
+acerca de la imposibilidad conceptual de hacer justiciables los derechos
+sociales, sino que más bien exige imaginar y crear instrumentos procesa-
+les aptos para llevar a cabo estos reclamos.
+Por otro lado, aunque algunas de las cuestiones mencionadas cier-
+tamente plantean inconvenientes, lejos están de constituir una barrera
+
+[[PDF p. 25]]
+insuperable para discutir judicialmente la violación de derechos sociales.
+Parte de la tradición del derecho procesal contemporáneo ha comenzado
+hace tiempo a hacerse cargo de estas dificultades de inadecuación del ins-
+trumental procesal heredado, tributario de una tradición individualista y pa-
+trimonialista, señalando las necesidades de adaptación de las acciones judi-
+ciales previstas por los Códigos de Procedimiento a problemas tales como
+la incidencia colectiva de ciertos ilícitos, o la necesidad de atender ur-
+gentemente violaciones irreparables de bienes jurídicos fundamentales. Las
+nuevas perspectivas de la acción de amparo individual y colectivo, los re-
+cientes desarrollos en materia de medidas cautelares, las posibilidades de
+planteo de acciones de inconstitucionalidad, los avances de la acción de-
+clarativa de certeza, las class actions, la acción civil pública y los manda-
+dos de segurança y de injunção brasileños, la legitimación del Ministerio
+Público o del Defensor del Pueblo para representar intereses colectivos,
+son ejemplos de esa tendencia. La evolución constitucional y legislativa de
+los últimos años es notoria en países como la Argentina y Brasil: por ejem-
+plo, el desarrollo de la interpretación jurisprudencial del amparo colectivo
+incorporado en la Argentina por la reforma constitucional de 1994 ha sido
+sorprendente. En Brasil, el empleo de acciones tales como la denomi-
+nada “acción civil pública” en materia ambiental y de protección del con-
+sumidor se ha generalizado, habilitando la tutela judicial frente a tipos de
+ilícitos que, de otro modo, hubieran sido ejecutados impunemente. Pese
+a las dificultades que toda innovación supone, la evaluación doctrinaria e
+institucional de estos instrumentos procesales novedosos ha sido mani-
+fiestamente laudatoria. Baste decir aquí que muchas de las señales que se
+perciben en esta materia hoy en día son, por lo menos, alentadoras.
+
+[[PDF p. 26]]
+El tercer comentario se refiere a las dificultades de ejecución de las
+condenas contra el Estado y, en general a la particular posición del Esta-
+do ante los tribunales nacionales. También ha sido típico de la tradición
+administrativa continental otorgar al Estado ventajas procesales que se-
+rían impensables en pleitos entre particulares. Aunque en algunos casos
+estas ventajas puedan estar justificadas, en muchos otros la jurispruden-
+cia internacional ha comenzado a señalar que la discrecionalidad absolu-
+ta, la falta de imparcialidad o la ruptura de la igualdad de armas constitu-
+yen violaciones al debido proceso.
+
+4. La escasa tradición de control judicial en la materia
+
+Por último, debemos señalar otro obstáculo de índole cultural, que
+potencia algunos de los anteriores: la ausencia de tradición de exigencia
+de estos derechos –en especial en los casos de derechos que se definen
+fundamentalmente por una prestación, como los derechos a la salud, edu-
+cación, vivienda, entre otros– a través de mecanismos judiciales. Pese
+a la existencia de normas de jerarquía constitucional que consagran estos
+derechos, concepciones conservadoras acerca del papel institucional del
+Poder Judicial y de la separación de Poderes han provocado una escasa
+práctica de exigencia judicial de estos derechos y un menosprecio de las
+normas que los instituyen.
+A este problema se suma, en algunos casos, la falta de percepción
+de ciertos conflictos vinculados con la violación de derechos sociales, en
+términos de violación de derechos por las propias víctimas. En otros ca-
+sos, aun cuando el conflicto sea percibido en términos jurídicos, las vícti-
+mas de estas violaciones dirigen su lucha hacia otras estrategias de recla-
+mo –como la protesta pública, las campañas de divulgación y de presión,
+entre otras–, a partir de su desconfianza, en gran medida justificada, de
+la actuación del Poder Judicial y de los abogados.
+Sin menospreciar esta dificultad, no existen razones que nos fuercen
+a pensar que las cosas no puedan cambiar: una tradición, con todo el peso
+que ella pueda tener, no es más que un conjunto arraigado de actitudes y
+creencias contingentes. La manera de revertirla es, justamente, avanzar
+
+[[PDF p. 27]]
+en el planteo de casos judiciales sólidos, en los que se reclame ante la
+violación de derechos sociales. La gradual acumulación de precedentes
+judiciales, que permita extraer principios de actuación operables en con-
+textos análogos, hará posible un cambio de actitud por parte de los tribu-
+nales, y una mayor visibilidad de la posibilidad de reclamo judicial por
+parte de las propias víctimas.

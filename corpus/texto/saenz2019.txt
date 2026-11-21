@@ -1,0 +1,1077 @@
+# fuente: Unidad17/Sáenz - 2016 - El derecho de propiedad. Control de razonabilidad .pdf
+# md5_original: bde9b8ab630effa47e16d92cd92ac33b
+# via: ocr
+# modo_ocrmypdf: nuevo
+# motor: ocrmypdf + tesseract spa (300 dpi)
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+   1. DERECHO DE PROPIEDAD. CONTROL DE
+     RAZONABILIDAD DE SUS RESTRICCIONES.
+                     LA EXPROPIACIÓN
+
+                      Por Juan Ignacio Sáenz
+
+
+
+
+                   L NOCIÓN DE “PROPIEDAD”
+
+
+    El derecho de propiedad se encuentra formulado en dos artícu-
+los de la Constitución: el art. 14, en cuanto asegura el derecho “de
+usar y disponer de (la) propiedad”, y el art. 17 —más específico—
+según
+  el cual “la propiedad es inviolable, y ningún habitante de la
+Nación puede ser privado de ella, sino en virtud de sentencia
+                                                          fun-
+dada en ley. La expropiación por causa de utilidad pública, debe
+ser calificada por leyy previamente indemnizada. Sólo el Congreso
+impone las contribuciones que se expresan en el art. 4%. Ningún
+servicio personal es exigible, sino en virtud de ley o de sentencia
+fundada en ley. Todo autor o inventor es propietario exclusivo de
+su obra, invento o descubrimiento, por el término que le acuerde
+la ley”.
+
+    De modo concordante, el art. 21, CADH, establece: “Derecho a
+la Propiedad Privada. 1. Toda persona tiene derecho al uso y goce
+de sus bienes, La ley puede subordinar tal uso y goce al interés so-
+Gal. 2. Ninguna persona puede ser privada de sus bienes, excepto
+mediante el pago de indemnización justa, por razones de utilidad
+pública o de interés social y en los casos y según las formas estable-
+
+
+     derecho a “usar y disponer de la propiedad” no se limita a la
+pratección de los bienes patrimoniales y al poder de usarlos y dis-
+poner de ellos con libertad (siempre de un modo no absoluto y su-
+Jana las limitaciones que impone el interés social). La “propiedad”
+
+[[PDF p. 2]]
+342            ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+incluye todas las situaciones y relaciones jurídicas con contenido
+económico: todo el poder jurídico sobre los bienes patrimoniales,
+tanto su dominio como otro derecho real (una servidumbre o una
+hipoteca) o la posesión de un bien para su uso, explotación o apro-
+vechamiento. Asimismo, todo tipo de acreencia actual, futura q
+eventual, como los derechos sobre la herencia, el legado, los bienes
+donados, los derechos que surgen de un litigio (indemnizaciones y
+particiones de herencia o de sociedad conyugal), de un contrato, de
+un acto estatal cualquiera, los frutos no percibidos, el derechoa ju-
+bilación, pensión o subsidio, el derecho a alimentos y la propiedad
+intelectual, artística o industrial.
+
+      Tal latitud de la propiedad ha llevado a la Corte a definir su al-
+cance, desde el precedente “Bourdieu” hasta el día de hoy, del si-
+guiente modo: “El término “propiedad', cuando se emplea en los
+artículos 14 y 17 de la Constitución o en otras disposiciones de ese
+estatuto comprende, como lo ha dicho esta Corte, “todos los inte-
+reses apreciables que un hombre pueda poseer fuera de sí mismo,
+fuera de su vida y de su libertad”. Todo derecho que tenga un valor
+reconocido como tal por la ley, sea que se origine en las relaciones de
+derecho privado sea que nazca de actos administrativos (derechos
+subjetivos privados o públicos), a condición de que su titular dispon-
+ga de una acción contra cualquiera que intente interrumpirlo en su
+goce así sea el Estado mismo, integra el concepto constitucional de
+ propiedad”'". Precisó en otros casos que incluye a “los derechos
+ adquiridos que nacen de una sentencia firme, de un contrato o de
+ un acto administrativo” (Fallos: 314:1477, 199139,
+
+
+
+   (1) “Don Pedro Emilio Bourdieu c. Municipalidad de la Capital” (Fallos: 145:307,
+ 1925). Agregó que “el principio de la inviolabilidad de la propiedad asegurada en
+ términos amplios por el artículo 17, protege con igual fuerza y eficacia tanto los
+ derechos emergentes de los contratos como los constituidos por el dominio y sus
+ desmembraciores. Mientras se halle garantizada en la Constitución la inviolabili-
+ dad de la propiedad o en tanto que el Congreso no se halle investido de facultades
+ constitucionales expresas que lo habiliten para tomar la propiedad privada sin la
+ correspondiente indemnización o para alterar los derechos derivados de los con-
+ tratos ha dicho esta Corte (tomo 137, página 47), la limitación existe para el depar-
+ tamento legislativo cualquiera que sea el carácter y la finalidad de la ley”.
+
+      (2) En Fallos: 158:268 (1930) afirmó: “esta Corte ha declarado que los derechos
+ emergentes de una concesión... de las que reconocen como causa una delegación
+ de la autoridad del Estado (empresas de ferrocarriles, tranvías, luz eléctrica, teléfo-
+ no...) se encuentran tan protegidas por las garantías consagradas en los arts. 14 y 17
+ de la Constitución como pudiera estarlo el titular de un derecho real de dominio”.
+
+[[PDF p. 3]]
+                            LA PROPIEDAD                           343
+
+
+
+
+      2. LA DOCTRINA DE LOS “DERECHOS ADQUIRIDOS”
+             COMO PROTECCIÓN DE LA PROPIEDAD
+
+
+   El derecho positivo ha planteado problemas en relación con la
+aplicación retroactiva de las normasy la afectación que ello puede
+ roducir a los “derechos adquiridos”, pero con efectos o beneficios
+ ndientes de producción (por ejemplo, un derecho jubilatorio que
+haya sido reconocido, pero cuyas prestaciones no hayan comenza-
+do aser pagadas).
+
+    El nuevo Código Civil y Comercial, aprobado en 2014, ordena
+en el art. 7” los principios que deben regir esa situación. Dice su
+art. 7”: “A partir de su entrada en vigencia, las leyes se aplican a
+las consecuencias de las relaciones y situaciones jurídicas existen-
+tes. La leyes no tienen efecto retroactivo, sean o no de orden públi-
+co, excepto disposición en contrario. La retroactividad estableci-
+da por la ley no puede afectar derechos amparados por garantías
+constitucionales”.
+
+   Sabido es que en materia penal el principio de irretroactividad
+es absoluto, pero en el resto del orden jurídico se tolera que las nor-
+mas rijan a hechos pasadoso situaciones jurídicas nacidas con an-
+terioridad a la vigencia de la norma, si el orden público así lo exige
+y si así es dispuesto expresamente. El límite a esa retroactividad se
+funda en la doctrina de los “derechos adquiridos”.
+
+   La Corte tiene dicho desde hace muchos años que “El carácter
+ retroactivo de la norma que desconozca derechos incorporados al
+
+ Patrimonio del actor, viola el principio consagrado en el artículo 17
+ dela Constitución Nacional” (Fallos: 137:47 y 294; 163:155; 178:431;
+ 238:496 y 251:78, entre otros).
+
+    En Fallos: 296:723, consid. 7%, dilucidó todavía más la cuestión
+ en los siguientes términos: “cuando los hechos jurídicos, fuente o
+ Productores de derechos, como que son la causa eficiente del na-
+ “miento de éstos se han consumado en la forma prevista en la ley,
+  ebe considerarse que han producido su efecto específico de crear
+ Un derecho pleno y no una mera expectativa. No se trata, por cierto,
+  “atender a la mera contingencia fáctica de un hecho —natural o
+ LO sino la virtualidad jurídica que les asigna la ley y cuan-
+ 0No Virtualidad se ha actualizado en la realidad, el efecto se ha
+    Cretado e individualizado, entrandoa la categoría de situación
+
+[[PDF p. 4]]
+344             ROBERTO GARGARELLA     - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+pasada y consumada (...) debe considerarse que hay derecho ad-
+quirido aunque falte la declaración formal de una sentencia o de
+un acto administrativo, pues éstos sólo agregan el reconocimiento
+de ese derecho o el apoyo de la fuerza coactiva necesaria para que
+se haga efectivo”.
+
+      En similares términos sostuvo, en varios casos en los que se
+pretendía aplicar leyes regulatorias de honorarios profesionales a
+los trabajos realizados con anterioridad a su vigencia, que “Si bajo
+la vigencia de una ley el particular ha cumplido todos los actos y
+condiciones substanciales y los requisitos formales previstos en
+esa ley para ser titular de un determinado derecho, la ley nueva no
+puede modificar o alterar derechos incorporados al patrimonio al
+amparo de una legislación anterior, pues, en tal caso, los poderes
+legislativos se enfrentan con la protección del derecho de propie-
+dad consagrado por el art. 17 de la Constitución Nacional” (Fallos:
+305:899; 320:378; 321:1757). El nuevo ordenamiento no se proyecta
+atrás en el tiempo, ni altera el alcance jurídico de las consecuencias
+de los hechos y actos realizados en su momento bajo un determi-
+nado dispositivo legal, pues de lo contrario podría afectar derechos
+adquiridos bajo un régimen anterior. En consecuencia es necesa-
+rio indagar en cada caso el momento en que se cumplió el hecho,
+acto o relación jurídica que engendró o sirvió de fundamentoa la
+obligación, ya que esta circunstancia determinará cuál es la legis-
+lación aplicable. En el caso de los trabajos profesionales, el derecho
+ se constituye en el momento en que se los realiza, más allá de la
+ época en que se practique la regulación” *,
+
+    En el caso “Marozzi c. Provincia de Santa Fe”(”, declaró la in-
+ constitucionalidad de una ley provincial que había derogado un
+ régimen jubilatorio y declarado caducos todos los beneficios otor-
+ gados a su amparo y aplicación. El actor en dicha causa había so-
+ licitado la jubilación, y encontrándose ella en trámite administra-
+ tivo de reconocimiento, sobrevino la ley derogatoria, sobre cuya
+ base el estado local pretendió, ilegítimamente, negar el derecho
+ a obtener el haber. Sostuvo la Corte: “existe un derecho adquirido
+
+
+
+      (3) Fallos: 268:561, 314:481 y 1477, causa “Almandos, Gustavo L. c. Superinten-
+ dencía de Seguros de la Nacion” (2011); “García, Jorge c. Reynot Blanco” (1998), Fa-
+ llos: 321:1757, y “Banco Español del Río de la Plata s/quiebra” (2012),
+      (4) Fallos: 316:2090 (1993).
+
+[[PDF p. 5]]
+                                  LA PROPIEDAD                                 345
+
+
+
+pando bajo la vigencia de una ley el particular ha cumplido to-
+pe los actos y condiciones susta
+                                nciales y los            requisitos    formales
+
+
+revistos en aquélla, para ser titular de un determinado derecho.
+De ahí, pues, que frente a la inequívoca declaración de voluntad
+del recurrente de obtener el beneficio establecido por la ley vigente
+¿] tiempo de su petición, el derecho a la prestación resultante de
+dicho régimen quedó consolidado en su patrimonio y amparado
+ orla garantía aludida, máxime cuando no parece adecuado que
+ja decisión sobre si al reclamante le asiste o no el derecho que in-
+voca puede depender —dada la especie del derecho en cuestión—
+de que el peticionario o la caja hayan procedido con más o menos
+diligencia en la gestión administrativa de reconocimiento del ha-
+ber (Fallos: 210:808 y su cita)”, a lo que agregó a renglón seguido
+que, respecto del cumplimiento por parte del peticionario de los
+recaudos legales: “el acto administrativo que comprueba dichas
+circunstancias sólo tiene efecto declarativo de un derecho consoli-
+dado con anterioridad”.
+
+    Como puede apreciarse, existe una línea de precedentes, refor-
+zados con la nueva redacción del art. 7” del Código Civil y Comer-
+cial, consagratoria de la doctrina de los derechos adquiridos y la
+protección que en tal caso provee el art. 17 de la Constitución al
+derecho de propiedad”.
+
+
+      3. REVISIÓN DE LAS RESTRICCIONES A LA PROPIEDAD
+
+
+  Las restricciones a la propiedad son las más numerosas y diver-
+sas del denominado poder de policía estatal%. Las dos primeras y
+más elementales limitaciones del Estado a la propiedad nacen del
+poder expropiatorio y del poder tributario. Por el primero, el Estado
+tiene la potestad de desapoderar de un bien a una persona, si pre-
+viamente declara su utilidad pública e indemniza debidamente al
+Propietario. En ello consiste la expropiación prevista en el art. 17.
+El poder tributario, por su parte, significa la imposición coacti-
+va de exacciones dinerarias a la población, de manera equitativa,
+
+ÓN
+
+
+
+
+a En Fallos: 317:218 (1994) se lo expresó en estos términos: “el principio de la no
+  Vactividad deja de ser una norma infraconstitucional para confundirse con la
+   Ntía de la inviolabilidad de la propiedad reconocida por la Ley Suprema”.
+ (6) Ver comentario al art. 14.
+
+[[PDF p. 6]]
+        346          ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+       acorde con la capacidad contributiva y en una medida que no se
+       considere desproporcionada o excesiva (a lo cual se suele llamar
+       “confiscatorio”).
+
+         Por lo demás, el Estado reglamenta la propiedad a través de la
+      regulación económica (precios, tarifas, peajes, tasas de interés,
+      prohibición de ajuste por inflación, abastecimiento, restricciones
+      aduaneras a la importación y a la exportación, etc.), y las regla-
+      mentaciones que tienen por fin la protección del medio ambiente
+      (art. 41), la competencia y los consumidores y usuarios (art. 42), el
+      uso del suelo (restricción de índole local referida al destino indus-
+     trial, residencial, rural o comercial del territorio), el planeamiento
+     urbano (normas sobre edificación), la seguridad, la minoridad, la
+     salubridad y la moralidad pública. Los ejemplos que provee la rea-
+     lidad son infinitos.
+
+       Como se explica en el comentario de los arts. 14 y 28, los de-
+    rechos constitucionales no son absolutos, se encuentran sujetos al
+    poder reglamentador del Estado y éste, a su vez, tiene por límite la
+    “razonabilidad”.
+
+       Las reglamentaciones a la propiedad se encuentran sometidas
+   a los criterios de revisión más laxos, tanto en la jurisprudencia ex-
+   tranjera como en la nacional. En los Estados Unidos constituye una
+   regla arraigada que las restricciones a los derechos económicos o
+   patrimoniales (economic rights) sólo son revisables a través de un
+   examen sobre la elemental racionalidad del medio escogido por el
+   Estado en relación a determinado fin social (rational basis review).
+   Se trata de un análisis poco riguroso que sanciona sólo a aquellas
+   reglamentaciones que se advierten como claramente arbitrarias,
+  desproporcionadas o excesivas(”.
+
+     La Corte Suprema de nuestro país ha adoptado ese esquema de
+  control sobre las limitaciones a la propiedad'”: aquello que se limi-
+
+
+    (7) En cambio, para las limitaciones a los derechos no patrimoniales como la in-
+ tíimidad, la libertad de expresión, la participación política, la libertad religiosa y
+ la igualdad (libertades preferidas, preferred freedoms) el escrutinio es más estricto
+ (strict scrutiny) e implica evaluar si la restricción resulta imprescindible para ase-
+ gurar fines especialmente relevantes del Estado,
+   (8) Ver: CIANCIARDO, JUAN - ROMERO, MAXIMILIANO J., “Limitaciones a los dere-
+chos constitucionales y control de razonabilidad”, en RIVERA, JuL1IO César (h) (dir.),
+Tratado de los derechos constitucionales, vol. 1, Abeledo-Perrot, Buenos Aires, 2014.
+
+[[PDF p. 7]]
+                                  LA PROPIFDAD                                  347
+
+
+
+ ta a analizar es la idoneidad o eficacia” de la norma reglamenta-
+ ria (“medio”) respecto del resultado que se propone (“fin”), o en su
+ caso la proporcionalidad de la medida, esto es, que no tenga una
+ naturaleza o extensión excesiva, abusiva o inadecuada.
+    En ambos casos (examen de aptitud o idoneidad y examen de
+ proporcionalidad) la intensidad en el análisis que suele verse en la
+ jurisprudencia es baja. Predomina la autorrestricción de los jueces
+ respecto de medidas que por lo general conciernen al gobierno de
+ la economía, y por ende, a fin de no interferir en la actividad de los
+ demás poderes, sólo se invalidan   las normas que evidencian una
+ irrazonabilidad o ilegitimidad manifiesta
+    Las pautas de control del poder de policía reglámentario del de-
+recho de propiedad formuladas por jurisprudencia de la Corte,
+podría resumirse de la siguiente manera:
+
+   1. La finalidad perseguida por la norma sujeta a examen debe ser
+legítima y relativa a algún aspecto del interés general de la comu-
+nida       ubridad,      Seguridad, moralidad, regulación económica, es-
+tabilidad de precios, defensa de la moneda, abastecimiento, protec-
+ción de deudores, ahorristas, desempleados, personas sin vivienda,
+etc.). Dichos fines tenidos en mira por el legislador se presumen legí-
+timos, lo cual sólo puede ser revertido si se comprueba que el propó-
+sito de la reglamentación encubre intereses meramente sectoriales o
+personales;
+
+   2. La norma debe constituir un medio eficaz e idóneo respecto
+de los fines que se proponen alcanzar;
+
+   3, Compete al legislador la selección del medio adecuado, sin
+que los jueces deban sustituir $us criter                          1terto, la COn-
+veniencia, la oportunidad o el mérito de la medida";
+
+
+
+ _ (9) También llamado de “aptitud” o de “adecuación”, y aplicado de manera idén-
+tica en los tribunales europeos. Ver: BARNES, JAVIBR, “Introducción al principio de
+Proporcionalidad en el derecho comparado y comunitario”, Revista de Administra-
+ción Pública, nro. 135, Madrid, septiembre-diciembre 1994, p. 495.
+  (10) En el caso “lachemet”, por ejemplo, se consideró inaplicable a una anciana
+de más de 90 años de edad, el régimen de consolidación de deudas del Estado (pago
+    nos y en cuotas de capital durante 10 años o más, con fundamento en la crisis
+Presupuestaria), precisamente por su desproporción (Fallos: 316:779 [1993]).
+ (11) Las leyes y demás normas respectivas son susceptibles de cuestionamiento
+“Onstitucional cuando resultan irrazonables o sea, cuando los medios que arbitran
+
+[[PDF p. 8]]
+348           ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+      4. La naturaleza, la carga y la extensión de la restricción no de-
+ben ser abusivas ni desproporcionadas;
+                    A                    —        Ñ
+
+
+
+
+      5. En épocas de emergencia económica, e] derecho de propie-
+dad puede ser restrihgido en mayor medida que en la normalidad,
+                        ción ajustada al tiempo que
+                    sea temporal,
+siempre que la restric
+dure la excepción"?;
+
+
+no se adecuana los fines cuya realización procuran o cuando consagran una ma-
+nifiesta iniquidad, y el principio de razonabilidad debe cuidar especialmente que
+las normas legales mantengan coherencia con las reglas constitucionales durante
+el lapso que dure su vigencia en el tiempo, de suerte que su aplicación concreta no
+resulte contradictoria con lo establecido en la Ley Fundamental (Fallos: 307:906;
+243:504; 243: 470; 299:428; 310:2845; 311:394; 312:435; 315:142 y 2804; 319:2151 y
+2215). Este temperamento se complementa con aquel que sostiene que los jueces
+deben evitar pronunciarse sobre el acierto o el mérito de las medidas adoptadas por
+los otros poderes, bajo riesgo de sustituirlos e invadir su esfera alterando el equi-
+librio de poderes. La adopción del medio, alternativa o solución más adecuada a
+una finalidad pública y legítima es una facultad que corresponde al Congreso de la
+Nación, como órgano investido del poder de reglamentar los derechos y garantías
+reconocidos por la Ley Fundamental, y entre cuyas funciones se encuentra la de
+coordinar el interés privadoy el interés público sobre la base de la apreciación polí-
+tica, social y económica que no puede ser sustituida por los jueces sin exceso de sus
+ atribuciones constitucionales. Aunque una norma pudiera importar un desacierto
+ de política legislativa, ello no implica su descalificación constitucional, debiendo
+ recordarse siempre que existe respecto de las leyes una presunción de constitucio-
+nalidad por provenir de un poder que también interpreta y aplica la Constitución
+Nacional. El control de constitucionalidad a cargo del Poder Judicial debe limitar-
+se a confrontar si la norma aplicable violenta o contraría la letra de la Constitu-
+ción, y no a invalidar normas por distintas preferencias o meras discrepancias en
+ cuanto al medio elegido por el legislador. Este razonamiento se engarza con aquel
+ argumento inveteradamente sostenido por la Corte al afirmar: “La declaración de
+ inconstitucionalidad de un precepto de jerarquía legal constituye la más delicada
+ de las funciones susceptibles de encomendarse a un tribunal de justicia, configu-
+ rando un actu de suma gravedad que debe ser considerado como ultima ratio del
+ orden jurídico (Fallos: 303:248, 1708 y 1776; 304:849, 892y 1069; 307:531 y 1656) y que
+ obliga a ejercer dicha atribución con sobriedad y prudencia, únicamente cuando
+ la repugnancia de la norma con la cláusula constitucional sea manifiesta, clara €
+ indudable. De lo contrario se desequilibraría el sistema constitucional vigente, que
+ no está fundado en la posibilidad de que cada poder del Estado actúe destruyendo
+ la función de los otros, para lo cual se requiere el respeto de las normas constitu
+ cionales y del poder encargado de dictar la ley. Tales razones hacen que los órganos
+ jurisdiccionales, al ejercer el elevado control de constitucionalidad, deban impo”
+ nerse la mayor mesura, mostrándose tan celosos en el uso de sus facultades como
+ en el respeto que la ley fundamental asigna, con carácter privativo, a los otros p0”
+ derc ” (conf. Fallos: 226:688; 242:73; 285:369; 300:241 y 1087).
+       2) La Corte ha sostenido —tras recordar que la Constitución Nacional no reco”
+   ¿ce derechos absolutos— que en momentos de perturbación social y económica
+ y en otras situaciones semejantes de emergencia, ante la urgencia de atender a la
+
+[[PDF p. 9]]
+                                     LA PROPIEDAD          ]     ]              349
+
+
+
+
+       6. Tanto en épocas de normalidad como de emergencia las li-
+   mitaciones a la propiedad deben resguardar el núcleo, esencia o
+   sustancia del derecho"?
+    ——
+
+
+       La aplicación de ese conjunto de estándares adquirió especial
+   notoriedad en los precedentes de la Corte en los que se revisaron
+   medidas de emergencia frente a diversos tipos de crisis económi-
+   cas en nuestro país.                  -
+
+      El primer fallo que cabe comentar al respecto, célebre en la his-
+  toria jurídica de nuestro país, es el caso “Ercolano”, de 1922, para
+  lo cual deben reseñarse brevemente sus antecedentes, pues la de-
+  cisión implicó un viraje en relación a la concepción de la propiedad
+  y su función social.
+
+      Con anterioridad, si bien se tenían aceptadas regulaciones eco-
+  nómicas, como la fijación de tarifas en los servicios públicos, la ten-
+  dencia era fuertemente conservadora de la libertad individual de
+  contratar y del uso indiscriminado de la propiedad privada, ejem-
+  plo de lo cual es el caso “Lochner vs. New York”, de 1905, en los
+  Estados Unidos. Allí se declaró la inconstitucionalidad de una ley
+ que limitaba la jornada laboral en las panaderías a un máximo de
+ 10 horas diarias y 60 horas semanales. Sostuvo la Corte norteame-
+ ricana que “la cuestión acerca de si la regulación es válida como
+ una ley laboral pura y simple puede ser rechazada en pocas pa-
+ labras. No hay ninguna razón para interferir con la libertad de la
+ persona o su derecho a contratar libremente, mediante la determi.-
+ nación de la jornada laboral en las panaderías”. Años más tarde, en
+ “Adkins vs. Children's Hospital (1923), declaró la inconstituciona-
+ lidad —nada menos— que de la fijación estatal de salarios míni-
+
+
+solución de los problemas que crean, es posible el ejercicio del poder del Estado en
+forma más enérgica que la admisible en períodos de sosiego y normalidad (Fallos:
+200450; voto de la mayoría Fallos: 313:1513).
+  (13) “La restricción que impone el Estado al ejercicio normal de los derechos pa-
+trimoniales debe ser razonable, limitada en el tiempo, un remedio y no una mu-
+tación en la sustancia o esencia del derecho adquirido por sentencia o contrato”
+(Fallos; 243:467; 323:1566 entre muchos otros). La noción de contenido esencial de
+Un derecho está definida en otros fallos como “aquella parte del contenido de un
+derecho sín la cual pierde su peculiaridad, o, dicho de otro modo, lo que hace que
+sea reconocible como derecho perteneciente a un determinado tipo. Es también
+aquella parte del contenido esencial que es ineludiblemente necesaria para que el
+  recho permita a su titular la satisfacción de aquellos intereses para cuya conse
+Cución el derecho se otorga” (Fallos: 11:1981).
+
+[[PDF p. 10]]
+mos para niños y mujeres. El quiebre —todavía con el predominio
+de un grupo de jueces conservadores en el tribunal— se produjo
+en “Home Building and Loan Association vs. Blaisdell” (1934) en
+el que se convalidó una ley que morigeró las obligaciones de los
+deudores hipotecarios, interviniendo de esa manera el Estado en
+los contratos privados. El mismo año, en el caso “Nebbia vs. New
+York”, se admitió la constitucionalidad de una ley local que creaba
+un ente regulador del precio de la leche.
+
+    En nuestro país, la decisión pátadigmática de la era protecto-
+ra de la propiedad es la del caso “Hileret”, de 19031”. Allí la Corte,
+guiada por su presidente Antonió-Berméjo, declaró la inconstitu-
+cionalidad de una ley de la provincia de Tucumán que gravaba con
+un impuesto los excedentes de producción de azúcar, con el fin de
+deprimir la oferta y lograr la suba del precio, a favor de los produc-
+tores locales. La sentencia analiza en profundidad la conveniencia
+económica de la medida, y concluye que la ley no se dirigía verda-
+deramente a la satisfacción de un interés general prioritario, pues,
+además de conculcar el derecho de propiedad de la actora, era
+contraria al interés de los consumidores (que pagarían mayor pre-
+cio por el producto), al de las empresas de ferrocarriles (que trans-
+portarían menor carga) y al del personal empleado en la industria
+azucarera, obviamente perjudicado por los topes de producción
+que la ley pretendía imponer. La Corte rechazó así la invocación
+del interés público realizada por el estado provincial, afirmando
+que en realidad la ley beneficiaba a una veintena de productores
+en desmedro de todo el resto de afectados, a costa de su derecho de
+propiedad”.
+
+
+
+  (14) Fallos: 98:51.                             ,
+  (15) Sostuvo la Corte: “cumple a los deberes de este tribunal, declarar que no ha
+hallado en autos acreditada la verdad tan preconizada de esta tesis, antes bien, ha
+encontrado en ellos elementos suficientes para formar su juicio contrario, a falta
+de prueba que determine el costo de producción y en su consecuencia el precio
+mínimo de venta que podría mantener en condiciones remunerativas la expresada
+industria”. Agregó asimismo, que desde el momento que la ley se proponía reducir
+la producción, afectaba con ello la mano de obra, el tráfico comercial, la industria
+de los ferrocarriles, y a millones de consumidores del país que realizaron su sacrifi-
+cio en beneficio de una veintena de productores locales. Concluyó: “Que no puede.
+por consiguiente, esta Corte, mirar con favor esa ley bajo su faz económica, sin más
+razón que haberse tratado de convencerla sobre la excelencia e importancia de la
+    ustria azucarera de Tucumán, que nadie discute, y de los grandes bienes qué de
+  «desarrollo ha reportado esa provincia y la Nación; y por haberse insistido en la
+
+[[PDF p. 11]]
+                                LA PROPIEDAD                                  351
+— o
+
+  En el caso “Ercolano”""”, la Corte abandonó el tipo de análisis
+ejercitado en “Hileret” pasando a aplicar las reglas antes descrip-
+as, según las cuales, fundamentalmente, no le compete juzgar el
+mérito de los medios elegidos por el legislador para limitar la pro-
+piedad en aras de necesidades de orden general.
+  El fallo avaló la constitucionalidad de una ley nacional (11.157)
+que intervino en los contratos de locación privados destinados a
+habitación, estableciendo que durante dos años los locadores no
+podían cobrar un precio mayor que el que se pagaba por los mis-
+mos contratos el 1 de enero de 1920. En síntesis, sus fundamentos
+fueron:
+
+   1) El derecho de usar y disponer de la propiedad no es, como
+ninguno, absoluto, y puede ser reglamentado por intereses econó-
+micos generales;
+
+   2) En circunstancias excepcionales (una “crisis de habitación”
+y monopolio de propietarios en este caso) que comprometen “los
+intereses más esenciales para la vida”, la propiedad puede ser más
+intensamente limitada;
+
+   3) No corresponde al Poder Judicial decidir del acierto de la
+medida, sino sólo sobre si su finalidad, naturaleza y extensión son
+compatibles con el derecho afectado;
+
+   4) En el caso: a) la legitimidad del fin se encuentra justificada,
+D) la naturaleza de la restricción no es cuestionable pues no afecta
+la “sustancia” del derecho, esto es, la posibilidad latente de trans-
+ mitir, ceder o gravar la propiedad de los inmuebles, c) la medida es
+ 'azonable en su extensión (proporcionada) pues es temporal y man-
+ tiene la onerosidad del contrato, limitando tan solo su precio(”,
+ ER
+
+
+
+
+  mmPe Comercio y riqueza de ambas, si no se sancionaba dicha ley; sin cuidarse
+ ls ensores de demostrar siquiera que hubiera llegado el caso de haber perdido
+   ndustriales capital y no utilidades, con la superproducción mencionada”.
+ 02) “Ercolano c. Lanteri de Renshaw Julieta s/consignación”, Fallos: 136:161
+  (17)
+   ido Sostuvo en este punto: “Queda aún por considerar si la reglamentación no
+ de br Pra lejos. Reconocer en principio el poder para limitar el derecho
+    ida en las circunstancias excepcionales expresadas, no importa ad-
+    Ao poder sea omnímodo. El congreso no lo tendría para fijar un precio
+          , UN precio que no correspondiese al valor locativo de la habitación, en
+
+      Ones normales, porque ello equivaldría a pretender remediar un abuso con
+
+[[PDF p. 12]]
+     352           ROBERTO GARGARELLA - St BASTIÁN GUIDI (COORDS.)           o
+
+
+           Esta línea sería reafirmada en “Avico c. De la Pesa”""(1934). Se
+    discutió allí la validez de la ley 11.741 de 1933, que dispuso una pró-
+    rroga de gracia de tres años para la ejecutabilidad de obligaciones
+    hipotecarias vencidas y la reducción de los intereses hipotecarios
+    en los contratos privados al 6% anual durante el mencionado plazo.
+
+       Los motivos de “bienestar común” invocados por la ley se refe-
+   rían a la crisis económica que golpeaba particularmente a los deu-
+   dores hipotecarios. Señaló la Corte que la moratoria dispuesta no
+   atacaba la propiedad, que se mantenía “con todos sus atributos”,
+   sólo se postergaba su goce sin extinguir el derecho
+
+       Años después, en “Inchauspe”“”, “Cine Callao”, “Peralta”
+   (1990), “Bustos” (2004) y “Massa” (2006), entre otros, repetiría idén-
+   ticos estándares de análisis en relación con diversas medidas de
+   política económica.
+
+       En “Inchauspe” (1944) convalidó la ley 11.747 que obligaba a
+   los productores, faenadores y comerciantes de carne asociarse a la
+  Junta Nacional de Carnes, un ente regulador del mercado, preci-
+  sando su finalidad legítima como la de “salvaguardar la industria
+  ganadera”, “fomentar la exportación, el mayor consumo interno, el
+  abaratamiento del precio y la mejor calidad de las carnes” (extraído
+  todo esto del mensaje del Poder Ejecutivo que acompañó al pro-
+  yecto de ley) y considerando sin más que los medios elegidos en la
+  ley para ello no lucían desproporcionados ni aniquilatorios de la
+  sustancia del derecho de propiedad” (“la ley no les impide a los
+
+
+ otro mayor y más funesto en sentido contrario, y sobre todo, porque importaría la
+ confiscación de la propiedad. No habiéndose, sin embargo, acreditado en el juicio
+ que el alquiler devengado el 1 de enero de 1920 por la habitación de que se trata, no
+ fuese razonable en el momento de la promulgación de la ley y dado el corto tiem-
+ po transcurrido entre esas dos fechas, cabe presumir que el límite fijado por la ley
+ 11.157 satisface en el caso las condiciones necesarias de razonabilidad y que, po!
+ consiguiente, no ha sido vulnerada la garantía del art. 17 de la Constitución”.
+   (18) “Avico Oscar Agustín c. De La Pesa Saúl”, Fallos: 172:21 (1934).
+   (19) “Inchauspe c. Junta Nacional de Carnes”, Fallos: 199:483 (1944).
+   (20) “Callao (Cine) s/interpone recurso jerárquico c. Resolución dictada por lá
+Dirección Nacional de Servicio de Empleo”, Fallos: 247:121 (1960).
+
+ , (21) “El análisis de la eficacia de los medios arbitrados para alcanzar los fines
+propuestos, la cuestión de saber si debieran elegirse esos u otros procedimientos
+son ajenos a la jurisdicción y competencia de esta Corte Suprema, a la que sólo in”
+cumbe pronunciarse acercar de la razonabilidad de los medios elegidos por el ban
+greso; es decir que sólo debe examinar si son o no proporcionados a los fines que?
+
+[[PDF p. 13]]
+                                   LA PROPIEDAD                                     353
+—
+
+
+
+productores vender a quien quieran, donde quieran y por el precio
+que quieran, O no vender”).
+   En “Cine Callao”
+                  *? examinó la ley 14.226, sancionada para ase-
+ urar el empleo de los artistas de “números vivos”, en orden a lo
+cual declaró obligatoria la inclusión de esos espectáculos de va-
+riedades en los programas de las salas cinematográficas de todo el
+   ís. El recurrente impugnó la constitucionalidad de la ley, soste-
+niendo que vulneraba su libertad de comercio y el derecho de pro-
+piedad, pues le imponía una especialidad comercial a la que no se
+dedicaba, exigiéndole además determinadas obras de refacción en
+la sala y la contratación compulsiva de artistas de varieté.
+
+   La exposición que efectúa la Corte para resolver el caso consti-
+tuye una prolija recopilación de los principios atinentes al poder de
+policía y a la pauta de razonabilidad aplicada desde la posición de
+máxima autolimitación judicial. Señaló la Corte:
+
+   1) Dentro de los objetos propios del poder de policía ha de es-
+timarse comprendida —junto a la seguridad, la moralidad y la
+salubridad pública— la defensa y promoción de los intereses eco-
+nómicos de la colectividad, como “prevenir, impedir, morigerar o
+contrarrestar, en forma permanenteo transitoria, los graves daños
+económicos y sociales susceptibles de ser originados por la des-
+ocupación en mediana o gran escala”, y del “patrimonio artístico
+nacional”;
+
+
+
+legislador se propuso conseguir, y, en consecuencia, decidir si es o no admisible la
+consiguiente restricción de los derechos individuales afectados”; “no aparece, en
+realidad, ni lo ha demostrado el actor, que los medios arbitrados por el Poder Ejecu-
+                                                                         en defensa
+tivo y el Congreso no guarden relación con los fines que se propusierona éstos”
+dela ganadería nacional ni que sean desproporcionados con respecto              .
+   (22) El juicio se originó por el dictado de una resolución por parte de la Dirección
+     ional del Servicio de Empleo, intimandoa la Sociedad Anónima Cinematográ-
+ Ca para que iniciase, dentro del plazo de diez días,Buenla presentación de “números
+vivos” en la sala del Cine “Callao” de la ciudad de multa,   os Aires. Ante su incum-
+      iento, el organismo impuso a la sociedadpara  una        y el apercibimiento de
+      ura si no realizaba las obras necesarias        presentar los “números vivos” y
+'eBistrar los contratos con los respectivos artistas, La afectada recurrió ante la Jus-
+                                    la Corte, El
+ua, llegando el caso a instancia de del          famoso “caso de los números vivos,
+                                        poder de policía. Muchos sostiene    n que las
+WMportó el apogeo jurisprudencial                       o-económico de la época. Sin
+“ticas actuales al fallo no computan el contexto soci
+     rgo, resulta interesante apreciar las opin iones inmediatamente posteriores al
+ lo, especialmente la de CARRIÓ                                      los números vi-
+                                  , GENARO, “Nota sobre el caso de1961,
+ %” en Revista del Colegio de  Abogados de La Plata, t. 111, nro. 6,     p. 49.
+
+[[PDF p. 14]]
+354                 ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)_
+
+
+
+    2) El análisis del mérito o eficacia de los medios arbitrados para
+alcanzar los fines propuestos es ajeno a la competencia de la Corte,
+a la que sólo incumbe pronunciarse acerca de la razonabilidad de
+los medios elegidos por el Congreso, es decir, que sólo debe exa-
+minar si son o no proporcionados a los fines que el legislador se
+propuso conseguir;
+
+            3) En relación a la mutación del núcleo, esencia o sustancia del
+ derecho, sostuvo que la ley no afectaba la actividad cinematográ-
+ fica del afectado, pues se había permitido trasladar al precio de las
+ entradas los mayores costos incurridos por cumplimiento de la
+ ley y el “número vivo” tenía una duración limitada a los treinta a
+ cuarenta minutos, en el intervalo que precedea la exhibición de la
+ película, con lo cual no existía alteración del núcleo esencial de la
+ propiedad, que quedaba suprimida para el libre uso hacia los fines
+ voluntariamente elegidos por el empresario.
+
+     El caso “Peralta”, fallado en 1990, exhibe el ejercicio del con-
+ trol de razonabilidad de una medida inédita en nuestro país. Por
+ vía de un decreto de necesidad y urgencia (36/1990) se estableció
+ un súbito canje de los depósitos a plazo fijo que el público tenía co-
+ locados en los bancos por un título público pagadero a 10 años. Con
+ ello, procuró un recorte del circulante monetario a fin de reducir la
+ presión sobre la cotización del dólar y así desacelerar un proceso
+  hiperinflacionario que iba perfilándose a fines del año 1989”,
+
+
+    (23) “Peralta Luis Arcenio c. Estado nacional”, Fallos: 313:1513 (1990).
+    (24) En 1989 la inflación comenzó a trepar a niveles desconocidos hasta el mo-
+  mento. El índice en marzo fue del 17%, en abril 33%, en mayo 78%, en junio 114,5%
+  y en julio 196,6%. Luego del recambio presidencial anticipado del 8 de julio, y tras
+      algunos meses de moderación de los índices, en diciembre de 1989 se desencadenó
+      el segundo proceso hiperinflacionario del país en 6 meses. Liberado el mercado de
+      cambios, los inversores y el público —en general, todo tenedor de moneda nacio:
+      nal— se volcaba precipitadamente al dólar, que era el resguardo natural del po
+      der adquisitivo. Para evitar que la demanda y la suba del dólar arrastraran con+ig?
+      a todos los demás bienes de la economía a una espiral hiperinflacionaria, el Banco
+      Central financiaba altas tasas de interés   en las entidades financieras, como modo de
+      evitar la presión sobreel dólar. A su vez, el dinero para solventar dichas tasas para 10%
+      depósitos a plazo fijo provenía de la emisión monetaria, lo cual agrava             ba
+                                                                                     el proble”
+                                        en diciembre de 1988 llegaban al 1000 % anual
+      mz : si, las tasas bancarias pagadas
+       '-     nedida como diría la Corte en “Peralta”, no parecía comebible de arbitral po
+             os me - 5 0s€e eliminaba el excesode circulante creado a través de la enmiión 0
+      secor         aha eminiendo a fin de mantener los plazos Nyos y evitar la masiva hunda
+      har         dólar, lo cual era imposible de mantener indefinidamente
+
+[[PDF p. 15]]
+                               LA PROPIEDAD                           355
+ [tm
+
+    sobre la base de esos antecedentes y circunstancias la Corte
+ rechazó el cuestionamiento al DNU, justificando dramáticamente
+ a finalidad de la norma (evitar un grave riesgo social, asegurar la
+paz social y la subsistencia del Estado) y, asimismo, también la me-
+ dida, como instrumento remedio eficaz para neutralizar la espiral
+ inflacionaria.
+
+
+    En particular, resulta de interés el análisis acerca de la afecta-
+ción de la esencia o sustancia del derecho de propiedad en el caso.
+afirma el fallo que si bien se produjo una fuerte postergación en
+la disposición del dinero, ello no implicaba una “quita” sobre el
+capital.
+   En los casos “Bustos” (2004) y “Massa” (2006), en los que se
+sometió a examen la conversión a pesos (pesificación) de los depó-
+sitos a plazo fijo en dólares que existían en los bancos a noviembre
+de 2001, la Corte realizó una análisis muy similar a los anteriores,
+y en relación con la integridad de la propiedad, ponderó determi-
+nados mecanismos fijados en las reglamentaciones de la época que
+permitieron que el capital afectado por las medidas de emergencia
+recuperaran su “poder adquisitivo” (ajuste de las sumas adeudas
+por inflación y aplicación de intereses).
+
+
+           4. POSICIONES PROTECTORIAS DE LA PROPIEDAD
+
+   La serie jurisprudencial que acabo de comentar, convalidatoria
+de las medidas más restrictivas a la propiedad que existieron en
+nuestra historia, ha sido objeto de no pocas críticas y disidencias.
+Creo que los votos de los jueces Antonio Bermejo y Luis María Boffi
+Boggero en los casos “Ercolano” y “Cine Callao” constituyen una
+buena síntesis de aquellas posiciones.
+ - Bermejo sostuvo en su célebre disidencia una interpretación tí-
+           te “originalista” del derecho a usar y disponer de la propie-
+dad. Afirmaba allí que la ley que había congelado el precvaioyde      los
+Quileres no protegía “el propósito de fomentar la, niiniceraiati   la ac-
+las individual” que inspiraba la Constitución                 acorde con
+y ideas expresadas por Alberdi en su obra “Sistema eco  nómico
+                                                            ión
+ tentístico de la Confederación Argentina según su Constituc
+A
+
+
+
+ s) CSJN, 27/12/2006.
+
+[[PDF p. 16]]
+356            ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+de 1853”, donde enfatiza que la propiedad debía gozar de la mayor
+amplitud posible, ratificado luego por Vélez Sarsfield, en su nota al
+art. 2513 del Código Civil. Concluía que el Estado había reemplaza-
+do al propietario interviniendo de manera inaceptable en un con-
+trato privado, lo cual tendría grave repercusión en el futuro para el
+resto de las relaciones económicas, y que disponía de medios a su
+alcance para remediar la situación de déficit habitacional sin su-
+primir la propiedad (otorgar subsidios, construir viviendas, etc.).
+
+   En “Cine Callao”, tanto el dictamen del procurador general Se-
+bastián Soler, como Boffi Boggero, coincidieron en que la ley sobre
+“números vivos” encubría un privilegio sobre grupo minoritario,
+a costa de imponer una carga excesiva sobre los empresarios ci-
+nematográficos. Agregaban que la ley imponía una actividad co-
+mercial determinada o la obligación de contratar con una persona
+en particular, transformando la libertad de celebrar contratos en
+el deber de hacerlos. Y asimismo reiteraban —como Bermejo en el
+caso anterior— que el Estado disponía de medios para crear fuen-
+tes de trabajo (subsidios, construcción de salas para números vivos
+o contratación estatal de los artistas).
+
+
+                               5. LA EXPROPIACIÓN
+
+     Entre las mayores limitaciones que la propia Constitución prevé
+ al derecho de propiedad y que suponen una pérdida sustantiva del
+ patrimonio de las personas privadas (esto es, una “ablación” por
+ transferencia directa de la propiedad privada al Estado), además de
+ las restricciones propias del poder tributario, se encuentra el poder
+ expropiatorio o instituto de la expropiación, que existe en todo el
+ mundo“ y con el que las provincias en nuestro país también cuen-
+ tan como facultad concurrente con el gobierno federal.
+
+       Expropiar significa desapoderar a una persona de un bien (ge-
+ neralmente un inmueble, aunque pueden ser bienes de cualquiel
+
+      (26) La enmienda V de la Constitución de los Estados Unidos dice “ni se privará
+ (a persona alguna) de su propiedad privada para uso público sin una justa indem-
+ nización (nor shall private property be taken for public use without just compensá-
+ tion)”. La Constitución española (art. 33.3) dispone: “Nadie podrá ser privado de
+ sus bienes y derechos sino por causa justificada de utilidad pública o interés social,
+ mediante la correspondiente indemnización y de conformidad con lo dispuesto por
+ las leyes”.
+
+[[PDF p. 17]]
+                                  LA PROPIEDAD                                 357
+
+
+
+ tipo y especie, incluidas acciones en sociedades?”), a fin de des-
+ finarlo a un uso de “utilidad pública”, debiéndose indemnizar al
+ dueño del bien en forma previa.
+
+    Por la significativa intervención que implica en el derecho, la
+ Constitución prevé la expropiación inmediatamente después de
+ declarar, en el art. 17, que “la propiedad es inviolable”, y la sujeta a
+ determinadas garantías para su validez. Prescribe así que “La ex-
+ propiación por causa de utilidad pública, debe ser calificada por ley
+ y previamente indemnizada”.
+
+   La disposición establece tres requisitos sustanciales: 1) la expro-
+piación debe ser dispuesta por una ley formal del órgano legislativo
+(federal o local según el caso); 2) dicha ley debe fundarse en la uti-
+lidad pública que revista el bien y que justifique su apoderamiento
+por el Estado; 3) para que se produzca la transferencia del bien ex-
+propiado del particular al Estado, éste debe pagar la indemniza-
+ción correspondiente de manera previa.
+
+   El art. 21.2 de la Convención Interamericana sobre Derechos
+Humanos (CA DH) prevé el instituto expropiatorio en similares tér-
+minos (agregando que la indemnización debe ser “justa”)%),
+
+
+5.1. La declaración de utilidad pública
+
+   La expresión “utilidad pública” es uno de los típicos “conceptos
+jurídicos indeterminados” que deja enorme margen de discrecio-
+nalidad al Estado —en este caso al Congreso— para su aplicación a
+los hechos de la realidad.
+
+   En el ámbito nacional, la expropiación está reglamentada por
+la 21.499, cuyo art. 19 establece que “la utilidad pública que debe
+servir de fundamento legal a la expropiación, comprende todos los
+“asos en que se procure la satisfacción del bien común, sea éste de
+A
+
+
+
+
+ (7) Como en los ejemplos recientes de Aerolíneas Argentinas SA (expropiada la
+ pued de sus acciones por ley 26.466), YPF SA (expropiado el 51% de sus acciones
+   ey 26.741) y Compañía de Valores Sudamericana SA (ex Ciccone Calcográ
+                                                                           fica,
+ii Con capacidad para imprimir papel moneda, expropiada en todo su patri-
+   9 por ley 26.761).
+da, “Ninguna persona puede ser privada de sus bienes, excepto mediante el
+   . € indemnización justa, por razones de utilidad pública o de interés social y
+    Casos y según las formas establecidas por la ley”.
+
+[[PDF p. 18]]
+358           ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+naturaleza material o espiritual”, con lo cual no agrega mucho para
+precisar el alcance de lo que es la “utilidad pública”.
+
+   La jurisprudencia de la Corte ha sido constante y reiterada en
+excluir del ámbito de las “cuestiones justiciables” (sujetas al control
+de constitucionalidad) las razones tenidas en cuenta por el Con-
+greso para determinar la calificación de un bien como de utilidad
+pública a los efectos expropiatorios?”. Sin embargo, hay dos ex-
+cepciones. Una es el caso que dio origen al control de constitucio-
+nalidad en la Argentina, que precisamente trató sobre la revisión
+judicial de la utilidad pública que fundó en su momento la expro-
+piación de todos los inmuebles que se encontraban en lo que ac-
+tualmente es el trazado de la Avenida de Mayo en la Ciudad de Bue-
+nos Aires (“Municipalidad de la Capital c. Elortondo”**”). La Corte
+reputó inexistente la “utilidad pública” respecto de una de las fin-
+cas expropiadas, ya que aquélla se encontraba fuera del trazado
+previsto para la avenida(*”. El segundo caso es “Fisco Nacional c.
+Ferrario”*2, en el que se había producido un evidente despojo de
+un bien a un particular para cedérselo a otro bajo la apariencia de
+una “causa de utilidad pública” *?,
+
+
+
+  (29) “Nación Argentina c. Ingenio y Refinería San Martín del Tabacal”, Fallos:
+209:390, 401 (1947); “Corporación de Transportes de la Ciudad de Buenos Aires”, Fa-
+llos: 210:1153 (1948). Conf. BIANCHI, ALBERTO B., Control de constitucionalidad, Ába-
+co, Buenos Aires, 2002, cap. V.
+  (30) Fallos: 33:162 (1888).
+   (31) Sostuvo la Corte: “La atribución deferida a aquel cuerpo (el Congreso) por el ar-
+tículo 17 para calificar la utilidad pública y definir los casos de expropiación por razón
+de ella, no puede entenderse ilimitada ni con un alcance tal que lo autorice a disponer
+arbitrariamente de la propiedad de una persona para darla a otra, ni a incorporarla
+tampoco, aún abonando el justo valor que pueda ella tener, al dominio público, fuera
+de los casos y de las forma estrictamente fijadas por la letra de la Constitución o por los
+principios fundamentales sobre que ella reposa”.
+  (32) Fallos: 251:246 (1961).
+  (33) Un corredor de automovilismo había importado un automóvil de fabricación
+extranjera en el año 1953. Poco después se promovió la expropiación del vehículo, qué
+fue inmediatamente vendido a un particular, por gestión expresa de funcionarios del
+Poder Ejecutivo. Se dice en el fallo: “Es deber inexcusable de los jueces rechazar la ac-
+ción expropiatoria cuando, bajo la apariencia de un uso público, la cosa expropiada
+se destina o consagra a un mero uso privado, ya sea que ello ocurra antes de iniciado
+el juicio expropiatorio o durante su tramitación... Admitir que se expropie de alguien
+lo que otro recibirá sin más razón que la de gozar del favor oficial, implica tanto como
+atribuir al Estado potestades despóticas, inconciliables con el ordenamiento jurídico
+argentino”.
+
+[[PDF p. 19]]
+                                    LA PROPIEDAD                                      359
+o
+
+
+       Un supuesto problemático es el de la declaración de utilidad pú-
+blica genérica, esto es, de un conjunto de bienes para obras futu-
+ raso, cuya determinación le es delegada al Poder Ejecutivo por un
+        no administrativo, mecanismo que la Corte ha convalidado en
+numerosos casos*?,
+    Es importante destacar —como se señalara al comentar el
+art. 14— que en un Estado de derecho democrático, el principio de
+       lidad no se limita a exigir una ley formal que declare dogmáti-
+camente la existencia de “utilidad pública”, sino que ello debe ser
+debidamente fundado y deliberado en el procedimiento de forma-
+ción de la ley (conf. CIDH, OC 6/1986, punto 28),
+
+5.2. Indemnización
+
+       El art. 10 de la ley 21.499 establece: “La indemnización sólo
+comprenderá el valor objetivo del bien y los daños que sean una
+consecuencia directa e inmediata de la expropiación. No se toma-
+rán en cuenta circunstancias de carácter personal, valores afecti-
+vos, ganancias hipotéticas, ni el mayor valor que pueda conferir al
+bien la obra a ejecutarse. No se pagará lucro cesante”. El art. 12, por
+su parte, prescribe que “se pagará en dinero efectivo, salvo con-
+formidad del expropiado para que dicho pago se efectúe en otra
+especie de valor”.
+
+  A estas disposiciones, la jurisprudencia de la Corte agrega: “la
+indemnización debe ser justa, requisito que se satisface cuando
+
+a
+
+
+
+
+  (84) Eslo que se denomina expropiación diferida, regulada en el orden nacional
+por la ley de expropiaciones 21.499, en el art. 34.
+  (85) “Ferrocarril del Oeste c. Garbarini”, Fallos: 105:80 (1906); “Ferrocarril Bue-
+195 Aires al Pacífico c. Joaquín del Río”, Fallos: 119:5 (1914); “Ferrocarril Gran Oeste
+PR        Oc. Vidal Hermanos”, Fallos: 120:332 (1915); “Dirección Nacional de Viali-
+     C. Badaracco y Bottaro”, Fallos: 183:88 (1939), entre otros.
+ (86) Reiteramos entonces, por considerarla una sentencia de gran trasce
+                                                                              nden-
+h la remisión al fallo de primera instancia en el caso “Halabi” en que se declarara
+        Nstitucionalidad de la ley 25.873 (que autorizada al Poder
+                                                                     Ejecutivo a realizar
+dela      telefónicas sin orden judicial), con especial fundamento en los defectos
+cual relativos a su suficiente motivación y adecuado debate parlamentario, de
+tado má hizo un exhaustivo análisis para concluir que el Congreso no había tra-
+cidad     oa mente el dilema entre la necesidad de la intervención estatal
+                                                                                y la pri-
+dec. | Cont. Adm. Fed. No 10, 14/6/2005, “Halabi Ernesto c. PEN —ley 25.873,
+Fallos: 04— s/amparo ley 16.986”). El fallo posterior de la Corte (“Halabi”, 2009,
+       92:11) trató únicamente la cuestión de los efectos erga omnes de dicha de-
+“ración de inconstitucionalidad,
+
+[[PDF p. 20]]
+360         ROBERTO GARGARELLA - SEBASTIÁN GUIDI (COORDS.)
+
+
+
+es íntegra, es decir, cuando restituye al propietario el mismo valor
+económico de que se lo priva y cubre, además, los daños y perjui-
+cios que son consecuencia directa e inmediata de la expropiación”
+(Fallos: 268:112, entre muchos otros); “se trata de un fenómeno ju-
+rídico de conversión y sustitución de derechos del particular en fa-
+vor de la comunidad, mediante el cual se abona al expropiado el
+resarcimiento de un perjuicio” (Fallos: 312:2444) . En suma, si bien
+es cierto que la expropiación se legitima por la necesidad que el
+Estado tiene de un bien, “también debe afirmarse que el acto no
+cae en el ámbito prohibido de la confiscación gracias al inexcusa-
+ble pago previo de la indemnización, que debe ser justa, actual e
+ íntegra” (Fallos: 268:112; 301:1205; 302:529; 304:782). Por aplicación
+ de los principios enunciados, en el caso “Servicio Nacional de Par-
+ ques Nacionales c. Franzini” (1995), la Corte excluyó al pago de una
+ indemnización por expropiación del pago en cuotas y con bonos
+ dispuesto en la ley de consolidación de deudas del Estado de 1991
+ (23.982), sosteniendo que “el medio de pago (en la expropiación)
+ es el dinero pues es oficialmente la medida de los valores. Puede
+ admitirse que el pago en dinero no hace a la esencia de la indemni-
+ zación —en el sentido en que son esenciales los caracteres de pre-
+ via, justa e íntegra, puesto que son condiciones de legitimidad de
+ la expropiación—; y por ello es posible que con la conformidad del
+ expropiado esa reposición económica se realice en especie o se re-
+ suelva en una obligación de hacer. Sin embargo, sin la conformidad
+ del expropiado, la indemnización en dinero no puede sustituirse
+ por otras prestaciones, por el riesgo de afectar los requisitos esen-
+ ciales de pago previo, actual e íntegro” (fallo citado, consid. 15).
+
+ 5.3. Juicio de expropiación
+
+      Dispuesta la expropiación por ley —y en caso de no haber aveni-
+ miento voluntario del expropiado— tiene lugar un proceso judicial
+ destinado a determinar la indemnización y a ordenar las modifi-
+ caciones registrales que fueran necesarias (en el caso de los bienes
+ inmuebles). Se cumple así el precepto constitucional del art. 17, se”
+ gún el cual, “ningún habitante puede ser privado de ella (de la pro”
+ piedad) sino en virtud de sentencia fundada en ley”, lo cual consti
+ tuye na garantía elemental en protección de los derechos.
+
+      ¿n este punto, el art. 15 de la ley 21.499 dispone: “no habiendo
+  venimiento respecto del valor de los bienes inmuebles, la cuestióN
+
+[[PDF p. 21]]
+                            LA PROPIEDAD                            361
+
+
+
+será decidida por el juez quien, respecto a la indemnización pre-
+vista en el artículo 10 y sin perjuicio de otros medios probatorios,
+requerirá dictamen del Tribunal
+                             'de Tasaciones de la Nación, el que
+deberá pronunciarse dentro de los noventa días”.
+   Si el expropiante no promoviera el juicio de expropiación dentro
+de los 2 años desde la vigencia de la ley, se tendrá por abandonada
+(art. 33, ley cit.), y asimismo una expropiación consumada puede
+ser revertida (juicio de retrocesión) cuando al bien se le diere un
+destino diferente al previsto en la ley, o cuando no se le diere desti-
+no alguno en un lapso de dos años (art. 35).
+  Con la orden judicial respectiva durante el trámite del juicio,
+cumplidas sus etapas y efectivizada la indemnización, se produce
+el “desapoderamiento” del bien y la transferencia de su dominio en
+favor del Estado.
+
+  Finalmente la ley prevé el supuesto de “ocupación temporá-
+nea” (arts. 57 y 58), que es una medida por la que el Estado puede
+tomar anticipadamente la posesión del bien por “una necesidad
+anormal, urgente, imperiosa, o súbita, o a una necesidad normal
+no inminente”.
+
+  En expropiaciones recientes, el Poder Ejecutivo nacional dispu-
+so la ocupación anticipada a la propia ley declarativa de la utilidad
+pública por medio de decretos de necesidad y urgencia (530/2012,
+en el caso de YPF SA y 1338/2012 respecto de Compañía de Valores
+Sudamericana SA, ver nota 2).

@@ -1,0 +1,567 @@
+# fuente: Unidad6/Maurino_2011_El artículo 28 de la Constitución.pdf
+# md5_original: 718a2c0ad3b8757930976460bf580a43
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+          (DOCUMENTO DE TRABAJO)
+
+          EL ARTÍCULO 28 CN. HACIA UNA REPÚBLICA BASADA EN RAZONES
+
+                                                                                                                                     Gustavo Maurino
+
+          I.- INTRODUCCIÓN
+
+          Juan Bautista Alberdi, por quien vale la pena empezar una consideración sobre la Constitución
+Argentina, tenía plena conciencia acerca de la inexistencia de una tradición constitucional en nuestro
+país, y en particular, de un componente básico de cualquier arreglo constitucional funcionante, a saber:
+el “gobierno limitado” por reglas, prácticas o principios superiores aceptados de buena fe por los
+participantes relevantes del juego institucional. Esa conciencia de la carencia constitucional inspira su
+propuesta de que el arreglo constitucional alumbrado luego de Caseros fuera conformado y entendido
+como “una constitución de transición1.
+
+          En esa “constitución de transición” en la que Alberdi estaba dispuesto a dar al ejecutivo todo
+el poder –pero mediante la constitución, agregaba- los ciudadanos (e inmigrantes) recibían la
+promesa de ciertos “principios, derechos y garantías fundamentales” que conformarían un núcleo
+jurídicamente supremo frente al ejercicio del poder, y su supremacía se garantizaba a partir de
+diversas reglas de salvaguarda frente a las decisiones del gobierno, que el proyecto Alberdiano
+repetía de manera casi obsesiva2.
+
+          Pero, como sabemos, Alberdi, y los constituyentes de 1853, eran ellos mismos miembros
+prominentes de una comunidad política y una clase dirigente cuyas tendencias anómicas eran el modo
+“normal” de ejercer la autoridad política. Nuestra cultura institucional estaba plagada de las diversas
+formas de “actitudes normativamente desleales” que tan bien reconstruyera Carlos Nino en su ensayo
+sobre la anomia argentina3. Y lo único que tenían en sus manos para comenzar a obrar sobre esta
+tradición, era –al parecer- su esperanza y las palabras que pusieran en la Constitución. Alberdi, y los
+
+1
+ En lenguaje actual, su proyecto institucional bien podría describirse como el de la creación de una “pre-constitución”, que sentara las bases de una práctica
+pública que habilitara a luego a nuestra comunidad política a darse una constitución de consolidación. El gran desafío era el de tener, por primera vez, algo
+que funcionara como una Constitución, y de ahí su idea, plasmada en la propia constitución de 1853, de incluir una reglar que prohibir la reforma
+constitucional por un plazo de 10 años, regla que nuestra comunidad política se encargó de ignorar en 1860.
+
+2
+  Artículo 20 (con respecto a los Derechos fundamentales garantizados por el Derecho Público Argentino) “Las leyes reglan el uso de estas garantías de
+derecho público; pero el Congreso no podrá dar ley, que con ocasión de reglamentar u organizar su ejercicio, las disminuya, restrinja, o adultere en su
+esencia”; Artículo 23 (relativo al “Derecho Público deferido a los extranjeros”): “Las leyes y los tratados reglan el ejercicio de estas garantías, sin poderlas
+alterar, ni disminuir”; Artículo 36 (relativo a las Garantías Públicas de Orden y Progreso): “Las leyes orgánicas, que reglen el ejercicio de estas garantías de
+orden y de progreso, no podrán disminuirlas ni desvirtuarlas por excepciones”. Qué fácil resultaría todo –tal vez- si la práctica del gobierno limitado y de la
+supremacía constitucional pudieran construirse mediante simples actos del lenguajes, especies de “fiat lux” constitucionales.
+3
+    Cfme. “Un País al Margen de la Ley”.
+
+[[PDF p. 2]]
+constituyentes de 1853 enfrentaban la paradoja de constitucionalizar una comunidad política que ellos
+mismos formaban y entendían como “anti-constitucional” en su identidad profunda. Su proyecto de la
+constitución de transición constituye un intento lúcido de la generación fundadora de superar esa
+situación paradojal.
+
+     En el texto final de la Constitución del 53, las salvaguardas de Alberdi fueron recibidas y
+consagradas en el condensado Art. 28, y el recuento de nuestras prácticas políticas sin duda debe llevar
+a la conclusión de que no han funcionado verdaderamente para desinsentivar significativamente los
+comportamientos estatales desleales –y mucho menos, para encauzar la práctica de los gobiernos por el
+camino del respeto a los derechos constitucionales.
+
+     La consolidación de la supremacía constitucional en una comunidad política con arraigadas
+tendencias anómicas es una empresa tremendamente desafiante, que en Argentina nos ha legado
+fracasos centenarios. Acaso 1983 sea el año mítico de la fundación de un entendimiento compartido
+acerca de la justificación moral, política y jurídica de los límites constitucionales al poder de los
+gobiernos. En todo caso, la tarea en cuestión difícilmente podrá ser exitosa mientras no desarrollemos
+herramientas interpretativas robustas, que operen como marco limitante de la voluntad desnuda de
+los gobernantes y de las mayorías políticas circunstanciales –y vale resaltar que en una democracia
+genuina, por definición, toda mayoría política debe ser considerada, incluso por sus propios
+partícipes, como circunstancial.
+
+     Esta exploración por el principio de razonabilidad del Art. 28 aspira a contribuir en esa empresa.
+
+
+
+
+     II.- EL (DÉBIL) PRINCIPIO DE RAZONABILIDAD. SU CONFIGURACIÓN EN
+NUESTRA HISTORIA CONSTITUCIONAL
+
+     La construcción constitucional del principio de razonabilidad tuvo hitos muy claros –
+fundamentalmente en relación con derechos económicos-, critalizados en nuestra práctica, y que forman
+el canon jurisprudencial en la materia, desde “Plaza de Toros” (1870) y “Saladeristas” (1887) en el
+Siglo XIX,     pasando por “Ercolano’ (1922), “Horta de Arguindeguy” (1922) “Avico” (1934)
+“Inchauspe”(1944) y “Cine Callao”(1957) en la primera parte del siglo XX. Estos fallos estructuran aún
+hoy el punto de partida de nuestra comunidad jurídica en el entendimiento de la relación entre los
+derechos y la acción regulatoria del gobierno, y –no casualmente- en todos ellos la respuesta final de la
+
+[[PDF p. 3]]
+Corte al conflicto fue deferente a la decisión legal o administrativa que había sido cuestionada4.
+Previsiblemente, los repertorios jurisprudenciales están llenos de casos en los que decisiones
+ciertamente ultrajantes para los derechos, bajo cualquier interpretación medianamente robusta de su
+contenido, fueron sostenidas por los tribunales, como permitidas constitucionalmente. Vale la pena
+entonces analizar cómo se ha construido el sentido y alcance de este principio constitucional, para
+ocupar un rol tan subalterno en nuestra práctica.
+
+        En primer lugar, vale la pena aclarar la obviedad de que esta debilidad del principio de ningún
+modo se debe a una visión de “deferencia democrática” por parte de nuestra comunidad constitucional.
+Ciertamente es una apasionante discusión aquella que se ocupa de la relación entre la aspiración
+democrática y la aspiración constitucional, que se encuentran en el núcleo del experimento político
+occidental de la modernidad. Y ciertamente, hubiera sido muy interesante que nuestra comunidad
+constitucional construyera una conversación acerca del ajuste mutuo entre estos dos ideales, en el
+diseño de instituciones concretas de nuestra práctica. Pero dicha aproximación a los asuntos
+constitucionales es ajena a nuestra historia –y ningún rol ha jugado ella en la conformación de nuestro
+“principio de razonabilidad”- sencillamente porque la aspiración democrática no ha sido nunca
+defendida fuertemente por las Cortes Supremas, ni por la comunidad jurídica del derecho constitucional
+hasta los años más recientes.
+
+         No es mi intención afirmar que un fuerte compromiso democrático reduciría la eficacia de un
+principio como el de razonabilidad; de hecho, no creo que sea así, y en la segunda parte de este trabajo
+defiendo una reconstrucción fuerte del principio, que creo consistente con un rol normativo intenso del
+principio democrático. El punto que estoy señalando aquí es, sencillamente, el hecho de que la
+dimensión democrática de nuestra práctica constitucional no ha jugado un rol normativo significativo en
+relación con el principio de razonabilidad -ni en ningún otro sentido- en el siglo XIX ni en la mayor
+parte del siglo XX.
+
+        Entrando ahora en la construcción doctrinaria de nuestro principio –y la explicitación de su
+debilidad- considero pertinente resaltar los siguientes contornos conceptuales.
+
+        II.1.- Control de Razonabilidad que no atiende a Razones
+
+
+
+4
+ Un análisis sustancial y variado del tipo de aproximación que las CSJN del siglo XX adoptaron hacia decisiones estatales –del Congreso, el presidente o
+agentes administrativos-, muchas de ellas puede hallarse en las seis secciones del capítulo II de la monumental obra de Carlos Nino “Fundamentos de
+Derecho Constitucional”. El recuento de fallos que en los que se avalaron decisiones abierta y groseramente autoritarias, perfeccionistas, discriminatorias,
+persecutorias y que implicaban lisa y llanamente la negación de aspectos nucleares de derechos fundamentales es tan devastador, como necesario para
+comprender el grado de inexistencia de límites constitucionales al ejercicio del poder del estado frente a los derechos, y el rol casi decorativo que terminó
+cumpliendo el art. 28 CN.
+
+[[PDF p. 4]]
+     El control de razonabilidad ha sido diseñado como un análisis orientado a evaluar la decisión
+pública cuestionada de en su objeto, de manera neutral, y fundamentalmente prescindente respecto de
+las motivaciones, explicaciones y fundamentaciones del agente de la decisión.
+
+     Este elemento conceptual resulta consistente con la impronta dogmática, formalista y
+aspiracionalmente despolitizada –como si tal cosa fuera acaso posible- que buena parte de nuestro
+derecho constitucional doctrinario y jurisprudencial ha intentado reclamar. Idealmente, se aspira a que
+el principio del art. 28 se aplique neutralmente, que pueda entregar una conclusión a partir de un
+cotejo objetivo de lo que dispone la medida cuestionada y su contexto de decisión –básicamente, si
+es una situación calificable como “normal” o “de emergencia”- con los derechos que se dicen
+involucrados (ya veremos en qué medida lo hace o no).
+
+      En particular, no se asigna prácticamente ninguna relevancia se asigna a la calidad del
+procedimiento que dio lugar a la norma en cuestión, al modo en que se construyó dicha decisión.
+Precisamente por eso, la técnica del análisis de razonabilidad se ha aplicado exactamente con la misma
+matriz frente a leyes del congreso, leyes del ejecutivo –de facto, delegadas, o de necesidad- reglamentos
+del ejecutivo -autónomos y de ejecución- o actos administrativos -generales o individuales de agentes
+públicos. Esta característica es tan llamativa, como el hecho de que no haya sido siquiera explicitada
+por nuestra práctica.
+
+     El juego de palabras que popularizara Juan Francisco Linares, al referirse al principio del art. 28
+como “debido proceso sustantivo” es ilustrativo de este punto de vista. En nuestra cultura institucional
+se identifica el aspecto procedimental de una decisión legal –en el mejor de los casos- como una
+cuestión “formal”, “adjetiva”(!), relativa, por ejemplo a la existencia de quórum para una sanción
+legislativa, o el cumplimiento de formalidades mecánicas de un expediente administrativo, etc.; y se le
+opone –en el mejor de los casos- un aspecto “sustantivo”, vinculado exclusivamente al contenido
+objetivo de la decisión –precisamente allí donde juega el principio de razonabilidad del Art. 28 en su
+configuración clásica. El concepto de “debido proceso sustantivo” no se refiere, como podría indicar el
+sentido literal de la expresión, a “la sustancia del proceso” de toma de decisión (que es sólo forma) sino
+a “la sustancia de la decisión” que el proceso arrojó.
+
+     II.2.- Test de razonabilidad que no atiende a Funciones Estatales
+
+     En segundo término, la construcción conceptual del principio de razonabilidad, siguiendo el tenor
+textual del Art. 28, se ha orientado casi exclusivamente a la limitación de la actuación
+“típicamente” reglamentaria de los derechos, ejercida –en el imaginario constitucional- mediante
+
+[[PDF p. 5]]
+leyes del Congreso. No se ha construido como una doctrina general compehensiva destinada a encauzar
+el ejercicio de gobierno por parte de las autoridades políticas, sino como una doctrina específica
+destinada a testear cierta función particular y limitada, a saber, la de “reglamentación de derechos” -el
+llamado “poder de policía” en sentido amplio, asociado a la función de reglamentación general que se
+asigna a las leyes del Congreso en miras al bienestar general de la Nación.
+
+     Esta carga conceptual del principio, hacia la actividad de “reglamentación” asociada a su vez con
+la acción del Congreso, en un país que adopta un sistema de Códigos generales para su organización
+legal –con todo lo que de intocables tienen los códigos en la tradición del derecho continental- conduce
+directamente a minimizar la acción del principio. La legislación codificada, como es sabido, avanza,
+se desarrolla, modifica y actualiza fundamentalmente a través de los desarrollos doctrinarios y
+jurisprudenciales –los desarrollos de sus cuerpos dogmáticos-, antes que mediante la acción legislativa,
+que sólo ocasionalmente revisa, todo o parte, de los códigos. No es que el derecho codificado sea más
+estable que el no codificado, sino que su modificación tiene menos actividad de producción
+“legislativa” formal.
+
+     De todos modos, el impacto más significativo de esta construcción conceptual del principio de
+razonabilidad alrededor del ‘poder de policía de base legislativa”, se proyecta en la inoperancia que
+ha tenido para moldear la acción de los órganos de poder ejecutivo, precisamente los agentes
+fundamentales de los desbordes anómicos en nuestro país.
+
+     La idea misma de que existe una actividad tipificable como de “reglamentación” de los derechos,
+cuyo caso típico es el de una ley del congreso, sobre la cual se proyecta la garantía de razonabilidad,
+presupone una concepción sobresimplificada y formalista del ejercicio del gobierno político, imaginada
+hace más de dos siglos para Estados que nada tenían que ver con las complejas organizaciones actuales,
+ni mucho menos, con la estructura hiperpresidencialista de nuestra organización estatal, y este desajuste
+nunca ha sido actualizado por nuestra doctrina.
+
+     La teoría constitucional clásica asumió como un lugar común los esquemas teóricos propuestos
+magistralmente por Montesquieu a mediados del Siglo XVIII, y con ello, la idea de que la soberanía
+popular legislativa se organizaba en el Congreso. Allí se regulaba la vida social y el modo de ejercer los
+derechos constitucionales, siendo el poder administrador el órgano ejecutor de las políticas definidas
+mayoritariamente por el cuerpo legislativo. Nuestro “sentido común” constitucional adoptó el mito
+teórico del Congreso legislador y el Ejecutivo ejecutor-administrador, cuando nuestra práctica política -
+antes y después de los ensayos constitucionales- y mucho más claramente en el siglo XX, estuvo basada
+
+[[PDF p. 6]]
+en el control prácticamente absoluto de todos los resortes del estado por parte del poder ejecutivo
+(incluso el control del poder judicial).
+
+      En una visión tan simplificada de las funciones estatales y del reparto institucional de las
+competencias constitucionales como las que consideraba Monstesqieu, resultaba sensato orientar el
+control de razonabilidad al Congreso; pero en nuestra tradición política dicho reparto nunca existió, y
+en nuestra evolución política las complejidad de las funciones estatales han hecho perder todo
+sentido a la distinción entre reglamentación de derechos por la legislación y ejecución
+administrativa por el ejecutivo. Los lugares comunes de nuestra teoría constitucional fallan, son
+inútiles -e inutilizan el principio de razonabilidad- por no incorporar el dato, definitorio de nuestra
+experiencia, de la primacía avasallante del ejecutivo por sobre el Congreso en el diseño, organización y
+administración de la vida social. Toda política pública –y toda falta de política pública- que realiza el
+ejecutivo es hoy, al mismo tiempo reglamentación y ejecución, satisfacción –o vulneración- de
+derechos.
+
+      Por supuesto que la operación del principio de razonabilidad podría haber desarrollado
+conceptualmente una estructura de límites a la administración a través del sistema que estructura la
+legalidad del obrar del poder ejecutivo, es decir, el derecho administrativo. Sin embargo, la estructura
+de nuestro derecho administrativo, modelada sobre las construcciones del imperio francés, estuvo
+prácticamente en las antípodas de la sujeción del ejecutivo a una supremacía constitucional.
+
+      Una serie de doctrinas - la exorbitante idea de la “discrecionalidad administrativa” que en un
+estado como el nuestro se proyecta a casi todo el obrar estatal, las “cuestiones políticas no justiciables”,
+los “poderes de emergencia reconocidos al ejecutivo”, etc.- y de reglas legales -como las que impedían
+y dificultaban demandar a la administración, leyes de delegación legislativa abierta, y el vetusto sistema
+de nuestra ley nacional de procedimiento administrativo, diseñado más como una ley para custodiar
+prerrogativas de los funcionarios y gobernantes, que como un sistema de garantía a los ciudadanos para
+mantener a la administración responsable y sujeta a la constitución y la ley- han cementado legalmente
+la hipertrofia política de la administración y su actuación sin instancias fuertes de escrutinio
+institucional. Si a todo ello le añadimos, como debemos, la consideración de los períodos de vida
+institucional en los que ni siquiera existía otro órgano de gobierno político efectivo que no fuera el
+“ejecutivo” (de facto) bien podemos concluir que la orientación del control de razonabilidad al poder de
+policía legislativo-reglamentario disminuye significativamente toda posibilidad de incidencia
+institucional.
+
+[[PDF p. 7]]
+     II.3.- Examen de adecuación que no atiende a Derechos
+
+     Finalmente, y no menos importante, vale la pena señalar un elemento relativo al modo concreto de
+operación del test de razonabilidad. Cuando la jurisprudencia explicitó su análisis de razonabilidad, lo
+ha hecho fundamentalmente en base a un examen “interno” a la medida cuestionada instrumental,
+mediante la famosa fórmula de “relación de adecuación medio-fin”.
+
+     Ésta me parece la característica más curiosa y llamativa. Si bien la inclusión de control de
+razonabilidad parecía orientado –en la búsqueda alberdiana- a controlar la adecuación entre las
+regulaciones del congreso y el contenido protegido de los derechos constitucionales, la construcción
+del test por parte de la jurisprudencia y doctrina constitucional organizó la ponderación al ajuste –o falta
+de ajuste- entre la solución normativa adoptada y los fines que –objetivamente considerados, y
+generalmente proyectados en relación con el bienestar general- podrían asignársele, dejando
+inexplicablemente fuera del núcleo del análisis la discusión sobre la sustancia de los derechos
+involucrados. Para una herramienta de aseguramiento de la supremacía constitucional (en particular, la
+supremacía de los derechos), el análisis de razonabilidad debería tener su primer paso en
+
+la reconstrucción general del fundamento, contenido y alcance típico de los
+derechos en juego, para luego analizar de qué manera el ejercicio reglamentario
+impacta sobre ellos y ponderar si dicho impacto los “desnaturaliza”. Esta secuencia me
+parece obvia en una aproximación que tome al menos cierto ámbito de acción de los derechos
+constitucionales como esferas jurídicas inderogables por los poderes políticos. La relación que
+debe ponderarse no debe ser interna a la regulación –relación medio a fin de la
+regulación- sino externa a ella –relación entre la esfera de poderes jurídicos protegida
+por el derecho y la situación jurídica que crea la regulación.
+
+     Los leading cases históricos no se concentran en los derechos, sino en la racionalidad interna de la
+regulación y la afectación o no de los derechos resulta más bien una conclusión derivada de la
+existencia a no de esa adecuación interna. Si la medida impugnada es funcionalmente idónea para
+promover los fines de bienestar general que sean predicables de la regulación, la conclusión será
+que no hay vulneración a los derechos, y si la medida parece irrazonable en dicho análisis interno,
+se concluirá que vulnera derechos. Por eso, el cliche retórico preferido, al comenzar el análisis de
+razonabilidad es la famosa perogrullada según la cual “los derechos no son absolutos”. En términos de
+oposición conceptual entre “bienestar general”-“bien común”-“prosperidad de la nación” (o
+cualquier formula agregativa colectiva semejante) y “derechos constitucionales” nuestra práctica
+
+[[PDF p. 8]]
+constitucional habitualmente ha puesto el servicio al bienestar general (definido por el gobierno de
+turno) por sobre la supremacía de los derechos, y la fórmula del test de razonabilidad ha consolidado
+dicha errada aproximación que frustra en última instancia la función de salvaguarda constitucional del
+Art. 28.
+
+        De hecho, la afirmación de la Corte en el fallo Inchauspe, que es un hito del canon en la materia,
+resuena casi como un acto fallido, cuando los jueces sostienen: “Que esta Corte Suprema,
+interpretando la Constitución de manera que sus limitaciones no lleguen a destruir
+ni a trabar el eficaz ejercicio de los poderes atribuidos al Estado a efectos del
+cumplimiento de sus elevados fines del modo más beneficioso para la comunidad …
+ha reconocido de antiguo la facultad de aquél para intervenir por vía de reglamentación en el ejercicio
+de ciertas industrias y actividades a efecto de restringirlo o encausarlo en la medida que lo exijan la
+defensa y el afianzamiento de la salud, la moral y el orden público”.
+
+        La idea de que en una comunidad como la nuestra, de marcadas tendencias anómicas y con una
+cruel tradición de abusos de los poderes públicos, la CSJN se aproxime al control de constitucionalidad
+con la preocupación de que las “limitaciones” de la Constitución no “traben” el cumplimiento de
+los “elevados fines” del Estado, es casi un epitafio para cualquier concepción robusta de los
+derechos y cualquier esperanza en el principio proclamado en el art. 28 CN5.
+
+
+
+
+        III.- HACIA UN NUEVO PRINCIPIO DE RAZONABILIDAD. TRES VÍAS DE AVANCE
+
+        La consolidación de la democracia constitucional abrazada como ideal en 1983 demanda, entre
+otros desafíos6, el de contrarrestar las tendencias anómicas de nuestros gobiernos y funcionarios
+estatales. Posiblemente sea poco lo que la teoría constitucional pueda impactar en esta empresa. Tal vez
+lo sea, pero en todo caso, quienes dedicamos nuestra vida pública a este campo intelectual debemos
+asumir el imperativo moral de contribuir en todo lo posible a que ese impacto (pequeño o grande) se
+produzca, sin perder de vista que somos partícipes de una empresa agencialmente colectiva y
+temporalmente intergeneracional.
+
+
+
+
+5
+  Por supuesto, en la formulación de “Inchauspe” (1944) tampoco hay ninguna referencia (ni deferencia) a la democracia. La Corte Suprema defería –la
+Constitución- al “poder del estado”, cualquiera fuera su impronta.
+6
+  Cómo no decirlo, el de la creación de condiciones igualdad sustantiva para el ejercicio de la autonomía de los habitantes y el de la superación de las
+estructuras sociales corporativas de distribución del poder social y político, entre otros casi tan titánicos como esos.
+
+[[PDF p. 9]]
+        En este camino, propongo que el Principio de Razonabilidad debe expandirse, profundizarse y
+reorientarse para cumplir adecuadamente con su función de salvaguardar la supremacía constitucional.
+
+        III.1.- Expansión: De la “reglamentación de los derechos” a las “políticas públicas”
+
+        Como hemos ya sugerido, durante el curso del siglo XX las funciones estatales –y la valoración
+cultural de su intervención- se ha transformado. La presencia estatal en la vida social y económica
+adquirió una intensidad sin precedentes, no sólo por los nuevos ámbitos en los que se han expandido sus
+competencias de manera directa –salud, cultura, asistencia y seguridad social- sino también por la
+mayor sofisticación e impacto de su intervención más indirecta o mediata –como resultado de dinámicas
+de regulación general, esquemas de incentivos institucionales, etc. Esta mayor presencia también ha
+hecho que cambiara la valoración de la ausencia del Estado. En otras palabras, la mayor capacidad de
+acción ha transformado la valoración social de la omisión. Históricamente el comportamiento pasivo del
+Estado era visto como “neutral”, hoy lo vemos como apoyo –explícito o implícito- al status quo, y en
+consecuencia se han desdibujado las diferencias entre lo que el estado “hace” y lo que “no hace”:
+prácticamente todo estado de cosas existente resulta atribuible en términos de responsabilidad o
+accountability a una serie de acciones y omisiones estatales.
+
+        Esta manera de ser del Estado desdibuja en la prácica la distinción concetptual entre
+“reglamentación de derechos” y “ejecución” y quita relevancia –en Estados hiperpresidencialistas- a la
+división de roles entre congreso y ejecutivo que la teoría clásica presuponía.
+
+        El modo de obrar funcionalmente relevante en relación con el respeto y la satisfacción de los
+derecho en el siglo XXI son las políticas públicas, que comprenden (o pueden comprender) al mismo
+tiempo elementos de reglamentación, ejecución, y gestión del contenido de los derechos,
+particularmente en relación con aquella parte de su contenido normativo que consiste en deberes
+prestacionales, como típicamente entendemos el núcleo de derechos tales como el derecho a la
+educación, la salud, etc.7.
+
+        La transformación en las funciones estatales operada en el siglo XX y de la estructura de los
+derechos constitucionales producida en 1994 con la adopción de las Convenciones de Derechos
+Humanos como derechos constitucionales, determinan que prácticamente toda conducta estatal
+significativa impacte en algún lugar de la densa red de derechos políticos, civiles, económicos,
+
+
+7
+  Por supuesto, quienes sostengan que los derechos constitucionales son mínimos en su contenido prestacional podrán estar en desacuerdo con este paso que
+propongo. Pienso que no existen hoy buenos argumentos para sostener tal teoría sobre los derechos constitucionales, ni los “clásicos” ni los construidos en
+el siglo XX. La densidad del contenido de los derechos implica, por supuesto que las instancias de interacción entre ellos y las políticas públicas sean
+cuantiosas e intensas.
+
+[[PDF p. 10]]
+sociales, culturales, de incidencia colectiva, o sobre la garantía no discriminación, etc.; y por ello
+resulta obvio que la operación del principio de razonabilidad debe también expandirse, como una
+sombra que cubre toda esta nueva extensión de derechos y acción estatal. Un ejemplo significativo de
+este nuevo ámbito de acción reconocido recientemente por la jurisprudencia de la CSJN puede
+encontrarse en el control de constitucionalidad aplicado a la asignación de pensiones no contributivas,
+actividad históricamente considerada como sujeta a la más absoluta discreción del estado8.
+
+        En todo caso, creo que el nacimiento del nuevo siglo nos provee ya con un leading case
+esperanzador, que proporciona una promisoria base para la expansión del principio de razonabilidad.
+Me refiero al caso “Verbitsky” (2005), conocido por su valiosa doctrina sobre los derechos de las
+personas privadas de libertad. Quiero celebrar aquí un pasaje particular de su fundamentación, en donde
+la CSJN alumbró explícitamente un entendimiento robusto de la supremacía constitucional directa sobre
+las políticas públicas. Sus considerandos 26 y 27 bien merecen consolidarse como hitos
+jurisprudenciales del nuevo ámbito del control de razonabilidad constitucional de las políticas públicas.
+
+        Dijo la Corte: “[…] a diferencia de la evaluación de políticas, cuestión claramente no judiciable,
+corresponde sn duda alguna al Poder Judicial de la Nación garantizar la eficacia de los derechos, y
+evitar que éstos sean vulnerados…Ambas materias se superponen parcialmente cuando una política es
+lesiva de derechos, por lo cual siempre se argumenta en contra de la jurisdicción, alegando que en tales
+supuestos media una injerencia indebida del Poder Judicial en la política, cuando en realidad, lo único
+que hace el Poder Judicial, en su respectivo ámbito de competencia y con la prudencia debida en cada
+caso, es tutelar los derechos e invalidar esa política sólo en la medida en que los lesiona. Las políticas
+tienen enmarco constitucional que no pueden exceder, que son las garantías que se;ala la
+Constitución y que amaran a todos los habitantes de la Nación.”9.
+
+        Qué gran progreso constitucional tendríamos si esos párrafos enviaran al arcón de la historia el
+auto-frustrante cliche de “Inchauspe” y su progenie.
+
+        .
+
+        III.2.- Profundización: De la racionalidad de adecuación interna medio-fin a la ponderación
+de proporcionalidad basada en los derechos
+
+
+
+
+8
+ Ver…., en el que se declaró que …….violaba el principio de no discriminación por origen nacional…
+9
+  No casualmente, los remedios a la vulneración constitucional ordenados por la Corte en ese fallo, incluyeron órdenes a todos los poderes del estado
+condenado, con medidas directas de ejecución, de control y de reforma de “legislación reglamentaria”.
+
+[[PDF p. 11]]
+       Sólo a partir del período constitucional iniciado en 1983, la CSJN se comprometió con una
+concepción robusta de los derechos constitucionales, considerando a algunos de ellos, à la Dworkin,
+como cartas de triunfo frente a consideraciones de bienestar general, aunque dicho progreso no ha
+impactado aún en la doctrina constitucional del art. 28. En la teoría constitucional comparada, los
+estudios doctrinarios del neoconstitucionalismo europeo han revitalizado el rol de los derechos en el
+razonamiento constitucional, y con ello la búsqueda de herramientas analíticas tendientes a efectivizar
+su supremacía frente a las regulaciones estatales.
+
+       Especialmente influyente ha sido el desarrollo filosófico de las teorías sobre la ponderación como
+herramienta analítica para el razonamiento constitucional, y –en lo que nos interesa aquí- la
+conformación y desarrollo del “principio de proporcionalidad”10, abrazado progresivamente por
+varios tribunales constitucionales nacionales y por la jurisprudencia del Sistema Europeo de Derechos
+Humanos y el sistema de la Unión Europea. Estas construcciones interpretativas, moldeadas sobre ese
+monumento cultural que es la dogmática jurídica –con la que tan familiarizados estamos en
+Latinoamérica- constituyen acaso la propuesta teórica que más adhesiones ha suscitado en los últimos
+años en los círculos académicos latinoamericanos contemporáneos, al tiempo que comienza a recibirse
+también por parte de alguna magistratura constitucional de la región –con la Corte Constitucional de
+Colombia acaso como exponente más sofisticado.
+
+       Superficialmente, podría parecer que el principio de proporcionalidad se asemejaría                                               en su
+estructura al clásico y débil principio de razonabilidad de la jurisprudencia vernácula -en su evaluación
+interna de la adecuación medio a fin-, y desde una aproximación ingenua podría caerse en la tentación
+de afirmar que nuestra evaluación de “razonabilidad” es analogable a la modo en que los europeos
+utilizan la “proporcionalidad”. Sería un gran error. Sólo superficialmente, podrían situarse estas
+construcciones interpretativas en un nivel de semejanza, pues ambas estructuras de ponderación
+presentan diferencias fundamentales, tanto sustantivas como analíticas, que ciertamente favorecen el
+modelo europeo..
+
+       Sustantivamente, el principio de proporcionalidad requiere en sus distintos componentes o
+subprincipios, la comparación de los fines de la medida cuestionada y de la medida
+
+misma, con el contenido constitucional supremo y en particular con los derechos
+fundamentales involucrados. Tanto el subprincipio de “idoneidad” (que evalúa los fines) como
+el de “necesidad”, “indispensabilidad” o de “la alternativa menos lesiva” -o como quiera que le
+
+10
+  El libro de Laura Clérico “El examen de proporcionalidad en el derecho constitucional”, EUDEBA, 2009, es un punto de referencia obligatorio para
+comprender la riqueza analítica de esta estructura intepretativa.
+
+[[PDF p. 12]]
+llamemos- (que evalúa el impacto del medio escogido) demandan necesariamente del intérprete un
+ejercicio de fundamentación sobre los derechos y los principios que forman la estructura
+constitucional relevante, que es lamentablemente ajena a nuestra práctica11. Y en términos analíticos, la
+dogmática del principio de proporcionalidad es incomparablemente más sofisticada y afinada, de modo
+tal que permite una reconstrucción pública y una evaluación crítica del ejercicio realizado por el
+intérprete que nuestro sobresimplificado test hace casi imposible12.
+
+           Ciertamente una dogmática constitucional que adoptara y adaptara algunos de los aprendizajes de
+estas herramientas del principio de proporcionalidad para el análisis de la constitucionalidad de las
+leyes en relación con nuestro principio de razonabilidad implicaría un sensible un avance para la
+supremacía constitucional y revitalizaría el valor constitucional del Art. 28. Más allá de la riqueza
+analítica del método, es su dimensión sustantiva lo que resulta a mi juicio especialmente valioso y digno
+de desarrollo en nuestra práctica constitucional.
+
+
+
+
+           III.3- Reorientación: De lo razonado como precondición para lo razonable. La exigencia de
+razones públicas para toda acción u omisión estatal
+
+           La construcción de un decente estado constitucional y democrático requiere que la supremacía
+constitucional chequee todo el obrar estatal y que el análisis de su razonabilidad se apoye en explícitas
+fundamentaciones acerca de los derechos constitucionales. La expansión y profundización del Principio
+de razonabilidad podrían contribuir en estos desafíos y fortalecer nuestro ideal constitucional. Pero un
+exclusivo énfasis en estas dimensiones descuidaría el desafío, igualmente urgente y complejo, de
+fortalecer nuestro ideal democrático.
+
+           Tanto como debemos aprender a vivir con una constitución suprema, debemos aprender a vivir (y
+construir) una práctica democrática valiosa. Para quienes consideramos que el ideal democrático más
+valioso es el deliberativo, la democracia demanda el ejercicio de la razón pública, la renuncia tanto
+a gobernar por el número y la pura voluntad o la fuerza, como por acuerdos reservados de las élites
+
+
+11
+   Como es obvio, no se puede determinar si cierto medio (u otro alternativo) afecta más o menos intensamente a la norma o derecho fundamental, o en
+facetas más o menos relevantes, etc. sin construir un entendimiento del contenido axiológico y normativo de tales derechos. Y no se puede analizar la
+validez constitucional de ciertos fines sin una teoría fuerte sobre el núcleo de valores y principios constitucionales de la comunidad. A diferencia de nuestro
+débil principio de razonabilidad el test de proporcionalidad no es interno a la medida analizada, sino externo, y tiene su punto de partida y su horizonte en la
+teoría de los derechos fundamentales. El principio de proporcionalidad de la doctrina constitucional europea tiene un tercer subprincipio –el subprincipio de
+“proporcionalidad en sentido estricto”- que se parecería al clásico análisis de adecuación (interna) entre la medida y los fines perseguidos, propios de
+nuestra matriz de razonabilidad, pero al cual se llega en el modelo europeo, una vez que los otros dos estadíos –que ponderan los derechos- han sido
+superados.
+12
+     Cada subprincipio opera en base a una matríz de ponderación relativamente compleja que integra diversas dimensiones de análisis en cada subprincipio.
+
+[[PDF p. 13]]
+corporativas. Las tradiciones políticas (y constitucionales) que permiten y avalan el ejercicio de la
+autoridad pública sin razones públicas son un obstáculo radical a la construcción democrática.
+
+        Por ello, creo que la contribución más relevante que el principio de razonabilidad puede hacer a
+nuestro proyecto constitucional democrático reside en reorientar el control hacia la exigencia y
+ponderacón de razones públicas para el obrar estatal.
+
+       Más aún, creo que cualquier test de razonabilidad (o proporcionalidad si hacia allí lleváramos
+nuestro juego constitucional) en nuestra comunidad debería tener un primer paso –si se quiere, un
+cuarto subprincipio, que propondría aplicar al comienzo del análisis- que evaluara la existencia y
+significatividad de razones públicas que el funcionario administrativo, o la autoridad ejecutiva o
+legislativa, ha construido y presentado a la comunidad o a los interesados en el proceso de toma de
+decisión.
+
+       Por supuesto, cuando me refiero a “razones” no me refiero a vagas generalidades que remitan al
+bienestar general o cosas parecidas, sino a un debido ejercicio explicativo y justificatorio sobre la
+decisión pública, que –de manera particular- incluya una consideración sobre la manera en que ella
+honra (y no altera) los principios, derechos y garantías constitucionales.
+
+       La exigencia de “razonamiento” debe tener grados, obviamente. Decisiones cuya sustancia
+explícita sea la de organizar la satisfacción de un derecho –ejemplo, un plan de subsidios alimentarios-
+demandan un ejercicio más intenso, completo y meditado de razonamiento de adecuación constitucional
+de parte del decisor de política pública que otra cuyo vínculo con los derechos sea al menos prima facie
+más lejano. Decisiones que utilizan en su estructura, directa o indirectamente, una categoría
+constitucionalmente protegida contra la discriminación demandarán un nivel de justificación más
+intenso que otras que no lo hacen. Decisiones prima facie relativas a núcleos fundamentales de ciertos
+derechos dispararán una mayor exigencia que otras relativas a aspectos periféricos, etc.
+
+       Del mismo modo, el tipo de escrutinio sobre las razones también debe ser diferente según el
+procedimiento que precedió la decisión. Por ejemplo, a menor riqueza deliberativa (en el sentido de
+que en la decisión hayan tomado parte menos personas o centros de interés), mayor exigencia de
+fundamentación razonada, completa y explícita recaerá sobre el decidor, y previsiblemente, menor
+deferencia en el análisis de las razones deberá dársele a la autoridad en cuestión13.
+
+
+13
+  La comparación más clara en este sentido sería entre una política pública que se constituye mediante simples prácticas que se van acumulando o
+superponiendo en el tiempo, y la decisión pública expresamente adoptada luego de un proceso abierto de participación, negociación, reconocimentos
+mutuos, etc.
+
+[[PDF p. 14]]
+     Nuestros tribunales no tienen, ni por asomo, la práctica de exigir al poder ejecutivo ni al
+legislativo la provisión de razones, de explicaciones públicas sinceras, completas y efectivas sobre las
+decisiones adoptadas. En particular, en relación con el derecho administrativo que supimos conseguir, el
+análisis de “motivación” de los actos administrativos es eminentemente formal y el análisis de la
+“causa” apunta hacia los “antecedentes objetivos”, y no hacia las razones del decidor. Por lo demás,
+doctrinas tales como las de “presunción de legalidad de los actos administrativos” no hacen sino revestir
+esa abstención y esa deferencia extrema de los jueces hacia “él poder” que frustra la construcción de
+una práctica democrática basada en la razón pública.
+
+     En un estado y una práctica política con tan marcadas tendencias anómicas, que recién comienza a
+reconstruir cierta idea de sujeción constitucional, no existe razón alguna para presumir deferentemente y
+a priori dicha autosujeción por parte de nuestros funcionarios. En todo caso, esa presunción sólo puede
+tomarse si en un primer análisis se comprueba que la práctica, decisión o norma en cuestión es el
+resultado verificable de un proceso razonado, y que se apoya públicamente en razones genuinas, no en
+formales y genéricas motivaciones retóricas.
+
+     Creo que este paso en el ejercicio del control de razonabilidad sería una clara contribución para
+encauzar nuestras formas de gobierno hacia los juegos de la razón pública. Los jueces no tendrían por
+qué entrar a construir análisis de proporcionalidad de fines y medios de una decisión pública que
+no esté revestida de razones públicas expresas. Esa sola carencia debería determinar la derrota de la
+decisión cuando fuera desafiada en su relación con los derechos. Y sólo cuando el decidor asumiera la
+carga argumental de justificar públicamente las razones de su decisión, debería sí activarse el control de
+“idoneidad”, “necesidad” y “proporcionalidad estricta” –en la fórmula europea-, o el de razonabilidad
+sustantiva profundizada –en nuestra línea constitucional.
+
+     La reorientación del control de razonabilidad hacia el refuerzo deliberativo, junto con su
+profundización sustantiva y su proyección directa a toda decisión y práctica estatal podría ser, tal vez,
+un camino constructivo para recorrer en el Siglo XXI. Si el poder judicial orientara su intervención por
+ese camino, su acción robustecería -al mismo tiempo- nuestra democracia y nuestra constitución.

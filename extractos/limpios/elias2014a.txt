@@ -1,0 +1,948 @@
+# fuente: Unidad17/1_Elías_2014_El derecho de propiedad en la Constitución argentina.pdf (escaneo a doble página, 14 hojas)
+# modo: ocr
+# revisado: si
+# paginacion: cada hoja lleva dos marcadores con el mismo número; el primero es la mitad izquierda y el segundo la derecha. Impresa = 2n+683 (izq.) y 2n+684 (der.), salvo la hoja 1 (izq. en blanco; der. = p. 685). Capítulo: pp. 685-711
+# paginas_revisadas: todas (hojas 1-14, pp. 685-711), transcriptas renglón por renglón contra la imagen de corpus/pdf/elias2014a.pdf (300 dpi, enderezada), partiendo de un re-OCR por mitad de hoja
+# criterio: sin notas al pie, llamadas de nota ni encabezados de página; punto y aparte = renglón en blanco; cursivas y versalitas no conservadas; erratas del impreso conservadas («susceptibles regulación», «estaría sujetos», «puede imponer», «por dar mencionar», «en la que la no funciona», «en relación el producto»)
+[[PDF p. 1]]
+
+[[PDF p. 1]]
+EL DERECHO DE PROPIEDAD EN LA CONSTITUCIÓN
+NACIONAL: UNA INTRODUCCIÓN TEÓRICA
+
+Por José Sebastián Elias
+
+I. INTRODUCCIÓN
+
+En estas breves páginas quiero ofrecer algunas ideas básicas acerca
+de la conceptualización del derecho de propiedad en nuestro sistema
+constitucional, y brindar un panorama, ciertamente no exhaustivo,
+de algunas de las cuestiones interpretativas que este derecho plantea.
+Sabemos que la Constitución Nacional declara el derecho de todos los
+habitantes de usar y disponer de la propiedad y que ésta es conside-
+rada “inviolable” y rodeada de una serie de protecciones adicionales
+que se encuentran, principal pero no exclusivamente, en los arts. 14
+y 17. Estas normas, sin embargo, no determinan de ninguna manera
+obvia la solución que ha de darse a innumerables situaciones que se
+plantean. Sabemos que la Constitución protege “algo”, pero no se
+sabe cuánto, ni por qué razones.
+
+¿Qué significa, por ejemplo, que la propiedad sea “inviolable”?
+Es claro que no puede significar que el Estado no pueda de manera
+
+[[PDF p. 2]]
+alguna disminuir su valor, porque la misma Constitución establece la
+potestad tributaria. Ahora bien, esa facultad de imposición no pue-
+de ejercerse de manera ilimitada. Pasado cierto punto, pensamos, un
+gravamen es inadmisible por violar la propiedad. Lo consideramos,
+a diferencia de tributos cuya incidencia sobre el derecho es menor,
+confiscatorio. Pero, por supuesto, trazar la línea que separa lo con-
+fiscatorio de lo no confiscatorio es cualquier cosa menos sencillo.
+
+Es común recurrir a la conocida proporción del tercio aproximado
+(el famoso “33%”) para marcar el límite que separa lo permisible de
+aquello que se considera “a extramuros de la Constitución”, como
+gusta decir ocasionalmente la Corte Suprema. Inclusive, el atractivo
+de sentido común que parece ejercer dicho porcentaje ha encontrado
+lugar fuera del área estrictamente tributaria que lo vio nacer. En
+otras áreas, el límite a la extensión de la intervención estatal ha sido
+puesto, no sin variadas inconsistencias, mucho antes. Así, de acuer-
+do a la tradicional doctrina en materia de emergencia económica, en
+circunstancias de excepción, la propiedad financiera puede afectarse
+mediante reprogramaciones y reducciones de las ganancias espera-
+das, pero debe respetarse el capital. Por supuesto, nada hay en el
+texto constitucional que, de manera directa, nos permita saltar de la
+premisa de la inviolabilidad de la propiedad a la conclusión de que la
+afectación es tolerable mientras no exceda cierto porcentual, o a otra
+distinta según la cual solamente es admisible reducir las ganancias
+esperadas mas el capital debe mantenerse intangible. Aunque, como
+en el caso de otros derechos, las cláusulas constitucionales nos seña-
+len un área de interpretaciones posibles que, con límites ciertamente
+imprecisos, separan lo que convencionalmente consideramos válido
+
+[[PDF p. 2]]
+de lo inválido, necesitamos teorías que nos permitan construir doc-
+trinas que llenen el espacio existente entre las enunciaciones generales
+y frecuentemente vagas contenidas en la Constitución y la resolución
+de casos concretos.
+
+Una alternativa posible en la empresa de construcción de tales
+doctrinas es atribuirle un punto o finalidad a la protección del dere-
+cho en cuestión, y en base a ello determinar el área de cobertura del
+derecho (qué se considera, por ejemplo, propiedad constitucional) y
+la intensidad de la protección a otorgarle en cada tipo de casos (qué
+límite demarca las afectaciones que son consideradas violaciones de
+la propiedad, cómo resolver conflictos de derechos, etc.). Veamos,
+entonces, algunas pocas alternativas que han aparecido con alguna
+frecuencia entre los materiales interpretativos usualmente disponibles.
+
+II. ¿POR QUÉ PROTEGEMOS EL DERECHO DE PROPIEDAD
+EN LA CONSTITUCIÓN?
+
+El derecho de propiedad es, en algún sentido, un derecho “difí-
+cil”. Por un lado, en la medida en que provee control sobre recursos
+escasos indispensables para la vida y estabiliza las expectativas de los
+individuos, es un baluarte de autonomía personal y, en consecuen-
+cia, un derecho que debería ser gozado por tantas personas como
+fuera posible y cuya protección a través de normas constituciona-
+
+[[PDF p. 3]]
+les aparece plenamente justificada. Pero, por otro lado, esta misma
+característica dispara una serie de conocidas dificultades. El control
+exclusivo sobre recursos escasos significa que la propiedad privada
+puede ser un juego de suma cero: los recursos son, por definición,
+insuficientes para satisfacer las demandas de todos y pueden inclusive
+no bastar para satisfacer las necesidades de todos. E inclusive si
+cada persona tiene su porción de riqueza social, la acumulación exce-
+siva de propiedad individual podría resultar problemática, por cuanto
+“la porción efectiva de una persona depende de lo que puede hacer
+con lo que tiene, y eso depende no solamente de cuánto tiene, sino de
+lo que otros tienen y de cómo lo que otros tienen está distribuido”.
+El control sobre ítems de riqueza social conlleva poder, y ese poder
+puede ser ejercido de maneras inaceptables. Además, la propiedad
+parece exhibir una peculiar “resiliencia normativa” que hace difícil
+reorganizar los derechos existentes, incluso si su distribución actual
+(o, inclusive, el derecho de propiedad concreto de un individuo) no se
+encuentra totalmente justificada. Finalmente, la ubicuidad social
+de la institución de la propiedad privada vuelve cualquier modifica-
+ción sobre su estructura especialmente complicada y de gran alcance.
+Cuánta rigidez o flexibilidad permitir en la redistribución de derechos
+es, en última instancia, la pregunta que subyace a todo sistema de
+propiedad privada, y la constitucionalización de este derecho tiene un
+impacto directo sobre estas cuestiones.
+
+Dado que nuestra Constitución protege —enfáticamente— el de-
+recho de propiedad, cabe interrogarse por las razones que justifican
+dicha práctica, a los fines de echar algo de luz a las difíciles cuestiones
+interpretativas que este derecho involucra. Vale comenzar recordando
+algunas ideas tradicionales sobre el punto.
+
+[[PDF p. 3]]
+Alberdi, en su “Sistema Económico y Rentístico”, abraza una
+concepción en algún sentido “desarrollista” de la protección cons-
+titucional de la propiedad, aunque en ocasiones exhibe algunos ma-
+tices libertarios. La propiedad individual debe ser fuertemente pro-
+tegida, en la medida en que —de acuerdo a las ideas económicas de
+Alberdi— ésta era el camino hacia el progreso material, el que —a
+su turno— contribuye de la manera más inmediata al bienestar gene-
+ral. La libertad económica es central entre aquellas cuyos beneficios
+asegura el Preámbulo, y su protección en orden a la consecución
+del bienestar general, se realiza inclusive mediante derechos exigibles
+judicialmente. Según Alberdi, el art. 17 de la Constitución garan-
+tiza la propiedad en los términos más beneficiosos para la riqueza
+nacional, como un principio básico de generación de riqueza. Es,
+obviamente, una visión instrumental de la propiedad individual, y su
+fundamento último son consideraciones agregativas. Como veremos
+enseguida, abrazar consideraciones agregativas como fundamento de
+la protección de la propiedad la vuelve particularmente débil en cir-
+cunstancias de grave crisis económica —o, en general, siempre que
+restringir los derechos pueda fomentar el aumento de la riqueza o el
+progreso material del país—, sacrificando otros valores que pueden
+estar involucrados en su protección.
+
+Más cerca en el tiempo, en un texto de contenidos generales alta-
+mente cuestionables pero cuya crítica detallada debo dejar para otra
+oportunidad por razones de espacio, Arturo Sampay propuso una in-
+terpretación alternativa de la finalidad perseguida por el art. 17. Así,
+a su juicio existirían dos grandes categorías de propiedad, una pro-
+tegida por la inviolabilidad constitucional y demás garantías (como
+las que rodean a la expropiación) y otra excluida de tal ámbito de
+protección y, ergo, completamente sujeta a las decisiones mayorita-
+rias. La primera podría denominarse, sin forzar las ideas del autor,
+la “pequeña propiedad” —mayormente agraria, rudimentaria y per-
+sonal—, mientras que la segunda sería, por contraposición, la “gran
+propiedad”. Según Sampay, entonces, “[l]a propiedad de la Consti-
+tución es la de la Declaración de los Derechos del Hombre de la Re-
+volución Francesa y del Code Civil de Napoleón, vale decir, la tierra
+trabajada todavía con instrumentos primitivos por los mismos due-
+ños, y los bienes muebles corporales, que comprendían las herramien-
+tas artesanales y las máquinas simples […] Nada pues tienen que ver
+
+[[PDF p. 4]]
+los tipos de propiedad, cuyo derecho absoluto y exclusivo garantiza
+la Constitución de 1853 con las actuales empresas […] sólo las pe-
+queñas parcelas de tierra trabajadas por sus propietarios, las fábricas
+semi-artesanales, los talleres, los locales de habitación y los menajes
+domésticos tienen carácter de propiedad personal cuya naturaleza, en
+consecuencia, admite el régimen de los tipos de propiedad contempla-
+dos en los artículos 14 y 17 de la Constitución nacional”.
+
+Más allá de los reseñados ejemplos, de larga data ya, los esfuerzos
+por teorizar sobre el derecho de propiedad no son frecuentes en la
+dogmática constitucional argentina. Hay mucho escrito sobre este de-
+recho, pero en general se trata de textos de carácter más bien descrip-
+tivo que intentan sistematizar la jurisprudencia de la Corte Suprema
+sobre el punto —en particular, sobre el derecho de emergencia eco-
+nómica—. Algunos textos toman la tarea de criticar la jurisprudencia
+en cuestión, pero por lo general no encaran cuestiones interpretativas
+profundas, ni parten de la base de alguna concepción teórica rela-
+tivamente sofisticada respecto de la interpretación constitucional y
+del derecho de propiedad, lo que —más allá de su innegable utilidad
+para la práctica del litigio— limita su valor en la empresa que, según
+argumento aquí, debemos acometer a fin de contribuir a una práctica
+constitucional razonable y consistente en la materia. Algunas excep-
+ciones recientes son los trabajos de Federico Orlando, Horacio Etchi-
+chury, Juan Cianciardo y Pilar Zambrano, y Carlos Rosenkrantz. De
+ellos me ocuparé en las páginas que siguen.
+
+Orlando ha presentado una exploración tentativa del tema, en la
+que intenta reconciliar el innegable compromiso textual de la Cons-
+titución con la propiedad privada individual con las aspiraciones
+de justicia distributiva encarnadas en otros textos constitucionales
+y convencionales dotados de jerarquía constitucional. Su propuesta,
+inspirada en la filosofía política de John Rawls, consiste en enten-
+der que la Constitución “incorpora una protección sustantiva y di-
+ferenciada de ciertos bienes materiales e inmateriales; y la diferencia
+se encuentra en nuestros compromisos constitucionales con la auto-
+nomía del individuo”. Proteger constitucionalmente la propiedad
+privada es, para Orlando, “proteger el título normativo que une el
+plan de vida de un sujeto con aquel bien que resulta indispensable
+para ello”. Su teoría, como la de Sampay, establece distintas ca-
+tegorías de “propiedad”, vinculadas cada una de ellas a un grado de
+
+[[PDF p. 4]]
+protección constitucional diferente. La categoría relevante, para esta
+tesis, es la de un mínimo de propiedad que asegura la autonomía
+individual y una vida humana “decente”. Este “piso” gozaría de
+una protección normativa agravada, que se traduciría en la presun-
+ción de inconstitucionalidad —con el consiguiente desplazamiento de
+la carga argumentativa— de medidas restrictivas sobre tales bienes,
+mientras que bienes que se alejen del “núcleo mínimo” estaría suje-
+tos a un escrutinio judicial más débil. La teoría de Orlando es, en
+una primera mirada, dualista: autonomía y “vida humana decente”
+son los valores cuya protección justifica una norma como la de los
+arts. 14 y 17 de la CN.
+
+En una línea afín a la de la teoría de Orlando aparece la propuesta
+interpretativa de Horacio Etchichury, que también supone distinguir
+tipos de propiedad merecedores de diferente tutela constitucional. Et-
+chichury no se pregunta por las razones para atrincherar la propiedad
+en la Constitución, sino que intenta dar cuenta de las relaciones entre
+ese derecho y los derechos sociales que constituyen su objeto central
+de preocupación. En su opinión, la reforma de 1994 habría generado
+una nueva versión del derecho constitucional de propiedad, recor-
+tado frente a la concepción liberal clásica que, en todo caso, habría
+recibido consagración en el texto de 1853. Con apoyo en algunas
+normas de derecho internacional de los derechos humanos —con je-
+rarquía constitucional a tenor del art. 75 inc. 22—, el autor sugiere
+que aquellos bienes que satisfacen las necesidades de una vida deco-
+rosa y contribuyen a la dignidad de la persona y el hogar reciben una
+protección constitucional particularmente intensa, no siendo su uso
+y goce susceptibles regulación que los subordine al interés social.
+Otro tipo de bienes, más alejados de esos valores, gozan de una pro-
+tección menos intensa, en tanto su uso y goce podría ser regulado en
+base al criterio preeminente del “interés social”, aunque ambos tipos
+de bienes gozan, en esta propuesta, de la inviolabilidad que promete
+el art. 17 y solamente excepcionalmente puede una persona ser pri-
+vada de su propiedad, mediante sentencia fundada en ley o procedi-
+
+[[PDF p. 5]]
+miento de expropiación. De modo similar a lo que ocurre con la
+tesis de Orlando, las nociones de dignidad y vida decorosa o decente
+se constituyen en valores centrales de la protección de la propiedad.
+
+Juan Cianciardo y Pilar Zambrano han defendido una tesis que
+presenta varias afinidades con las recién reseñadas. A juicio de estos
+autores, la propiedad privada es un derecho humano de característi-
+cas peculiares: tendría un núcleo mínimo consistente en los recursos
+materiales indispensables para el desarrollo digno de la persona, que
+gozaría de protecciones especiales, y una zona periférica, por llamarla
+de alguna manera, en la que la no funciona como un derecho humano
+y la regulación legislativa puede ser mucho más intensa. En palabras
+de los mismos autores:
+
+“[e]n su versión habitual [el derecho de propiedad], como derecho
+de dominio, no es propiamente un derecho humano, puesto que el tí-
+tulo por ejemplo, en el caso de un auto, la ‘cédula verde’ se segmenta
+nítidamente del fundamento como en todos los casos, la condición de
+persona: un mono o una piedra, por ejemplo, no pueden ser titulares
+de un auto. Esto no significa, desde luego, que no estemos ante un
+derecho, o que el Estado pueda regularlo como le plazca. Sí significa
+que se trata de un derecho que no cuenta con los niveles de protección
+adicionales que se les reconocen a los derechos humanos. El derecho
+de propiedad es, en cambio, un derecho humano como cualquiera
+de los otros cuando su objeto es el conjunto de bienes indispensables
+para un desarrollo digno del ser humano […] Lo anterior explica y
+justifica, en nuestra opinión, el distinto nivel de protección del que
+goza el derecho de propiedad entendido en el segundo de los sentidos
+apuntados, en comparación con la cota de ‘resistencia’ que se recono-
+ce a otros derechos humanos. Esa diferencia se amplía aún más en los
+casos que se plantean con ocasión de crisis económicas generalizadas
+[…] Con vistas a la superación de situaciones de emergencia el Estado
+interviene entonces en las relaciones jurídicas regidas por la justicia
+conmutativa que tiende a asegurar el equilibrio entre contrapresta-
+ciones recíprocas, entre lo dado y lo recibido, animado por la justicia
+distributiva que tiene por fin la distribución de los bienes y cargas
+sociales, tarea propia del Estado cuando del bien común se trata, y
+que consiste en el reparto proporcional, según la necesidad, el mérito
+o la competencia de quienes componen la sociedad”
+
+[[PDF p. 5]]
+Carlos Rosenkrantz, en una de las contribuciones teóricas más
+importantes de los últimos tiempos en el ámbito de nuestra doctri-
+na constitucional, ha sostenido una teoría pluralista del derecho de
+propiedad. En su visión, la justificación de los derechos de propiedad
+varía en función de las cosas cuya particular relación con el titular
+del derecho deseamos proteger. Así, por ejemplo, la propiedad so-
+bre los recursos externos necesarios para sobrevivir sería importante
+porque la supervivencia es importante; la propiedad sobre el trabajo
+individual sería merecedora de protección en base a la autonomía; la
+propiedad sobre bienes tales como un anillo de bodas (o nuestro ho-
+gar) estaría justificada en razón de lo que dichos bienes representan
+para nosotros; la propiedad financiera o sobre bienes de capital orga-
+nizados productivamente, en cambio, no goza de protección por las
+razones anteriores sino, potencialmente, por ser “un medio necesario
+para preservar, en una sociedad compleja como la nuestra, un sistema
+productivo […] apto para maximizar nuestro bienestar colectivo”.
+
+Como puede advertirse, la teoría de Rosenkrantz presenta distintas
+esferas de propiedad, dentro de cada una de las cuales hay un valor cuya
+protección es dominante. En base a dicha idea, sostiene una concepción
+de los derechos de propiedad que se separa, al menos parcialmente, de
+visiones relativamente extendidas que conciben a los derechos indivi-
+duales como resistentes a restricciones basadas centralmente en razo-
+nes de conveniencia o utilidad, y que solamente pueden ser restringidos
+válidamente en razón de la protección de otros derechos de jerarquía
+superior o de la defensa de un mayor número de derechos de idéntica
+jerarquía. Esto podría ser así, argumenta Rosenkrantz, en el caso de
+derechos de propiedad que tutelamos en razón de los intereses de los in-
+dividuos propietarios (por ejemplo, cuando la justificación de su protec-
+ción reside en la vida, autonomía, o privacidad de los individuos), mas
+no cuando la protección se justifica en base a razones que él denomina
+“comunales”, como por ejemplo la propiedad financiera. En este últi-
+mo caso, las consideraciones políticas —o de “utilidad sistémica”, para
+mayor precisión— jugarían un rol central a la hora de justificar la exten-
+sión de la protección de la propiedad privada individual.
+
+[[PDF p. 6]]
+La teoría analizada distingue cuatro tipos de conflictos posibles
+que involucran a la propiedad privada, y postula idéntico número de
+reglas de decisión para tales conflictos. Así, hay “conflictos internos”
+al sistema de derechos de propiedad, y conflictos que resultan “ex-
+ternos” a éste. Un conflicto es “interno” si involucra a un derecho
+de propiedad y consideraciones relativas al sistema de derechos de
+propiedad en sí mismo (“conflicto interno directo”) o a su objetivo
+subyacente e inmediato de preservar el sistema productivo (“conflicto
+interno indirecto”). Son conflictos “externos” aquellos que contra-
+ponen derechos de propiedad y consideraciones relativas al bienestar
+general de la sociedad, distintas de las derivadas del sistema de de-
+rechos de propiedad o de aquéllas dirigidas a preservar su objetivo
+subyacente e inmediato —el sistema productivo.
+
+La regla de resolución de “conflictos internos directos” postu-
+la que debe prevalecer el derecho individual de propiedad, a menos
+que “se espere que las consideraciones que rivalizan con él produz-
+can beneficios amplios y profundos para el sistema de derechos de
+propiedad”. El ejemplo que ofrece Rosenkrantz es, básicamente, el
+de una servidumbre de paso forzosa, donde la restricción al derecho
+del fundo sirviente se justifica porque todos los propietarios, conside-
+rados como una categoría, se benefician de esta restricción. En cier-
+to sentido, la regla supone un cierto tipo de compensación implícita o
+“en especie” para el titular del derecho restringido. Los “conflictos
+internos indirectos” postula, al igual que la regla anterior, la preva-
+lencia del derecho individual salvo que “su limitación o restricción
+pueda producir beneficios más sistémicos para el sistema productivo
+que los que justificarían que el derecho de propiedad cediera en los
+casos de conflictos internos directos; y sin importar la magnitud de
+los beneficios que podrían obtenerse, el derecho de propiedad siempre
+prevalece si la restricción […] es fundamental”. Los ejemplos que
+ofrece el autor son estilizaciones de las situaciones fácticas involucra-
+das en “Ercolano”, “Avico”, “Bustos”, y “Longobardi” y
+Rosenkrantz considera que las restricciones impuestas a los propieta-
+
+[[PDF p. 6]]
+rios en tales casos podrían estar constitucionalmente justificadas en
+razón de consideraciones sistémicas vinculadas con evitar la propa-
+gación de la crisis económica o garantizar la subsistencia del sistema
+financiero, razones “comunales” que se vinculan —a su juicio— con
+las razones por las cuales los derechos de propiedad involucrados
+en el caso son concedidos en primer lugar. Nótese que para esta
+teoría, como para la Corte Suprema ocasionalmente, los beneficios
+que la normativa genera para los deudores son algo así como efectos
+colaterales inevitables, que en ningún caso podrían justificar, por sí
+mismos, la restricción a los derechos de propiedad de los acreedo-
+res. Esta consideración lleva a Rosenkrantz a concluir que los tres
+primeros casos estarían bien decididos, no así el último. La tercera
+regla de resolución de conflictos, aquella que se refiere a “conflictos
+externos”, postula que únicamente cede el derecho individual ante la
+existencia de beneficios para el bienestar general mucho más extensos
+que aquellos que justificarían la restricción en casos de “conflictos
+internos indirectos” y siempre y cuando la restricción al derecho in-
+dividual no sea fundamental. Los ejemplos ofrecidos son el caso
+de la fijación de precios máximos para productos farmacéuticos que,
+siendo obviamente inferiores a los de mercado, son sin embargo supe-
+riores a los costos totales del vendedor, y aquel donde el Estado, con
+la finalidad de producir efectos beneficiosos sobre una comunidad
+deprimida económicamente, invade las tierras de un propietario para
+construir una autopista que, se supone, generará tales efectos benefi-
+ciosos. El primero de los ejemplos tiene, a juicio del autor, una resolu-
+ción dudosa que depende de cuestiones contingentes —diré algo más
+sobre tales cuestiones en un momento— y el segundo mostraría un
+claro supuesto de restricción no permisible en razón del carácter fun-
+damental de la afectación. La última regla de conflicto —la que
+menos desarrollo recibe en la teoría— prohíbe transferir la propiedad
+del dueño a otro particular, con total independencia del beneficio
+que otros sujetos pudieran obtener. Esto sería así por cuanto “[…] la
+única manera de justificar restricciones a los derechos de propiedad
+
+[[PDF p. 7]]
+es mediante razones similares a las que justifican su otorgamiento y,
+en este caso, dichas razones son de índole comunal: el derecho de pro-
+piedad del demandante está sustentado en nuestro interés de proteger
+el sistema de producción, por lo que la restricción, en todo caso, debe
+poder ser sustentada en este tipo de razones”.
+
+Rosenkrantz entiende que su teoría genera derechos individuales
+de propiedad relativamente rígidos y capaces de resistir la presión que
+las circunstancias de escasez puede imponer sobre ellos. La expe-
+riencia demuestra que, al menos en el contexto argentino, la teoría
+no genera derechos de propiedad tan robustos como el autor supone.
+
+Conviene ahora reflexionar sobre las distintas concepciones del
+derecho de propiedad constitucional que he presentado brevemente.
+Cada una de ellas conduce, como es evidente, a distintos tipos de
+soluciones para diferentes tipos de conflictos que pueden presentarse
+con el derecho de propiedad como protagonista. ¿Hay razones para
+preferir alguna de ellas? ¿Qué problemas deben enfrentar cada una de
+ellas? ¿Es posible tomar elementos de diferentes teorías para construir
+alternativas superadoras? ¿Qué elementos deberían ser relevantes en
+la construcción de tales alternativas?
+
+Más allá de que el laissez-faire que atraía a Alberdi ha perdido
+hace mucho tiempo ya el predicamento que tuvo en otras épocas, lo
+cierto es que, al margen de algunas discusiones, el punto básico
+que vincula la protección de la propiedad con el crecimiento económi-
+co parece estar bien establecido hoy.
+
+[[PDF p. 7]]
+“Los países con mayores restricciones sobre los políticos y las eli-
+tes y mayor protección contra las expropiaciones por parte de estos
+grupos poderosos tienen ingresos per cápita sustancialmente más al-
+tos (i.e., mayores tasas de crecimiento de largo plazo), mayores tasas
+de inversión, mayor crédito al sector privado en relación el producto
+bruto interno, y mercados de capitales más desarrollados”.
+
+Estudios recientes sobre la historia económica argentina apuntan
+en la misma dirección, y señalan que el deficiente cumplimiento de
+los contratos y la pobre protección de los derechos de propiedad, en
+especial desde los años cuarenta en adelante, han sido un factor de-
+terminante del estancamiento argentino.
+
+Vale, entonces, rescatar el punto como una posible buena razón
+instrumental para proteger los derechos de propiedad. La limitación
+que tiene la tesitura alberdiana es que, al igual que los casos centra-
+les abarcados en las reglas de conflicto de la teoría de Rosenkrantz,
+otorgan un peso excluyente a consideraciones de tipo agregativo que,
+a mi juicio, empobrecen la concepción constitucional de la propiedad.
+Ambas dejan de lado otros valores de innegable importancia, como
+podría ser la propiedad como base de la autonomía personal, desta-
+cadas en propuestas como la de Orlando y, desde cierta perspectiva,
+también en la de Etchichury.
+
+[[PDF p. 8]]
+Respecto de la tesis de Sampay, me limitaré a decir que es ma-
+nifiestamente inapropiada, no solamente por las razones que la mo-
+tivan —el cambio de lo que él llama “la constitución real” a través
+de la “interpretación revolucionaria” de la “constitución escrita”, lo
+que no es otra cosa que la abierta manipulación ideológica de las
+normas constitucionales, transformando la práctica en una parodia
+de sí misma—, sino porque en esa manipulación recurre a una for-
+ma de originalismo constitucional particularmente objetable: aquella
+que congela las aplicaciones concretas de las normas en la realidad
+existente al momento de su sanción. En el caso particular, el tipo
+de propiedad existente cuando fueron sancionados los textos cons-
+titucionales en cuestión. Aunque los problemas teóricos de este tipo
+de originalismo exceden largamente lo que puedo tratar aquí, basta
+señalar que si la postura de Sampay fuera convincente, deberíamos
+aceptar, por ejemplo, que la prohibición de censura previa garantiza-
+da en el art. 14 se limita únicamente a las modalidades de “prensa”
+existentes en 1853 —no abarcaría la expresión de ideas por radio,
+televisión o internet, por dar mencionar ejemplos obvios—, o que la
+prohibición de tormentos contenida en el art. 18 abarca únicamente
+los mecanismos de tortura en uso en los albores de la organización
+constitucional argentina —pero no otros contemporáneos como la
+tristemente célebre “picana” o, menos aún, lo que hoy consideramos
+condiciones inhumanas de detención—. Como se advierte con facili-
+dad, se trata de una posición absurda.
+
+Alterando en alguna medida el orden en que presenté las distin-
+tas tesis, me ocuparé ahora de la propuesta de Carlos Rosenkrantz,
+puesto que exhibe algunas diferencias de importancia respecto de las
+tesis de Orlando, Etchichury y Cianciardo y Zambrano, las que —en
+cierto modo— pueden ser agrupadas y me servirán luego para desta-
+car lo que entiendo como una limitación de la teoría de Rosenkrantz.
+Se trata de una teoría que, si bien es formalmente pluralista, recurre a
+la división en “esferas de propiedad” dentro de las cuales un valor de-
+terminado es dominante, lo que la vuelve una teoría monista dentro
+de cada ámbito. Además, aunque el autor reconoce que ciertos tipos
+de derechos de propiedad existen, fundamentalmente, para proteger
+otros valores distintos, no se ocupa de profundizar la teoría en esas
+“esferas”. Justo es reconocer que Rosenkrantz parece ocuparse de los
+casos centrales del derecho de propiedad, donde aparece la escasez
+intensa como un elemento relevante, pero uno bien podría pregun-
+tarse si los valores que dominan los ámbitos de los cuales la teoría
+no se ocupa no juegan también un papel en los casos que ocupan
+su atención. En efecto, ¿por qué pensar que el derecho de propiedad
+sobre, por ejemplo, un ahorro bancario de una persona física, inde-
+
+[[PDF p. 8]]
+pendientemente de su cuantía, solamente es protegido en razón de
+consideraciones comunales vinculadas, por ejemplo, a la preservación
+del sistema productivo? ¿Por qué pensar, de igual modo, que el dere-
+cho de propiedad sobre un inmueble locado involucra únicamente la
+preservación de determinado sistema de intercambio de bienes que,
+en general, juzgamos valioso? ¿Hay razones para asumir que cuando
+el derecho de propiedad colisiona con pretensiones que no derivan del
+sistema de derechos de propiedad, ni del sistema de producción (los
+que el autor llama “conflictos externos”) la métrica dominante es,
+nuevamente, puramente agregativa?
+
+La teoría de Rosenkrantz es de inspiración centralmente utili-
+tarista, lo que acarrea los consabidos problemas de determinación
+de la solución correcta propias del cálculo consecuencialista que sus
+fórmulas demandan. Esto, por supuesto, no escapa a la atención del
+autor, quien señala, al analizar el funcionamiento de las reglas re-
+lativas a conflictos internos indirectos y a conflictos externos, que
+“[a]ún cuando fuéramos intelectualmente muy potentes y contáramos
+con un instrumental adecuado tal que pudiéramos realizar el cálculo
+exacto de las consecuencias, no existe una manera canónica de deci-
+dir un caso porque no hay nada, ni en la naturaleza de los derechos
+de propiedad ni en la naturaleza del sistema de producción, que nos
+permita fijar la relación de intercambio entre uno y otro […] Para
+saber si la restricción a la propiedad puede justificarse será preciso
+también realizar una investigación empírica para determinar si las
+consecuencias beneficiosas son mayores que las que justificarían una
+restricción similar fundada en la necesidad de preservar el sistema
+productivo”.
+
+Esta característica de la teoría me lleva a llamar la atención sobre
+tres problemas, potencialmente importantes, que presenta. La pri-
+mera cuestión problemática es que tanto la segunda como la tercera
+regla propuestas, en tanto se refieren a la obtención de beneficios
+para el sistema productivo o beneficios para la comunidad en general,
+mediante restricciones a la propiedad individual, presentan un sesgo
+redistributivo regresivo. Aunque no puedo profundizar aquí la cues-
+tión, es relativamente sencillo advertir que, en tanto los sectores
+más ricos de la sociedad son propietarios de recursos productivos
+cuyo funcionamiento apropiado a menudo tiene un gran impacto so-
+cial, cualquier principio que priorice beneficios sistémicos o genera-
+
+[[PDF p. 9]]
+les (incluyendo la reactivación económica o el crecimiento de corto
+plazo) apuntará en la dirección de resolver los casos de maneras que
+protegen los recursos de quienes más tienen a costa de restricciones en
+los derechos patrimoniales de sectores menos afortunados.
+
+La segunda cuestión tiene que ver con cómo las decisiones que se
+toman bajo la segunda regla (“conflictos internos indirectos”) condi-
+cionan futuras decisiones no solamente bajo la misma regla (en tanto
+actúa como precedente), sino también bajo la tercera regla (en tanto
+actúa como patrón mínimo de utilidad que las medidas enjuiciadas
+bajo la tercera regla deben satisfacer para ser validadas). Dado que
+la segunda regla parece tener un especial campo de aplicación en las
+situaciones de crisis económicas, su adopción involucra la posi-
+bilidad cierta de una expansión progresiva y de difícil reversión de
+las potestades estatales con el consiguiente achicamiento del derecho
+individual de propiedad. Esto, como consecuencia del conocido fenó-
+meno de la “dependencia del camino” y por ciertas características de
+los fenómenos de emergencia económica que tienden a generar des-
+plazamientos unidireccionales de los límites entre facultades estatales
+y derechos individuales. La historia argentina lo demuestra: “Avi-
+co”, el precedente canónico en materia de emergencia, difícilmente
+justificaba “Peralta”; “Peralta”, sin dudas, no justificaba “Bustos”.
+En cada uno de estos casos se toleró una restricción mayor a los de-
+rechos de propiedad, tomando como línea de base el caso anterior.
+Aunque podría construirse un argumento ciertamente más matizado
+e históricamente más rico, creo que esta versión básica, delineada con
+trazos gruesos, se sostiene sin demasiados inconvenientes. Es más,
+Rosenkrantz implícitamente concede esa posibilidad al decir que la
+solución de los ejemplos de “conflictos externos” que plantea “depen-
+derá de consideraciones comparativas relativas a cómo se han resuelto
+otros casos de conflictos internos” y que casos como “Ercolano”,
+“Avico” y “Bustos” podrían potencialmente permitirnos construir
+“una tabla completa de conmensurabilidad con distintos puntos que
+
+[[PDF p. 9]]
+establecen qué restricciones a los derechos de propiedad pueden ser
+compensadas con qué beneficios para el sistema productivo”.
+
+La tercera observación problemática tiene que ver con cómo los
+tribunales deciden casos constitucionales vinculados al derecho de
+propiedad y cómo esto afecta su legitimidad sociológica lo que, en
+buena medida, condiciona sus posibilidades de constituirse como
+un actor constitucional relevante e independiente. Las reglas de
+decisión de Rosenkrantz exigen a los tribunales ponderar factores
+múltiples —en ocasiones posiblemente inconmensurables, como él
+mismo reconoce— en un cálculo consecuencialista que, más allá de
+que se realice sin aspiraciones de gran precisión, resulta sumamente
+complejo y, además, difícil de distinguir del tipo de consideraciones
+apropiadas para el foro legislativo. Como el autor sostiene, no hay
+formas canónicas de decidir los casos que se presentan bajo la segun-
+da (y tercera) regla de decisión. Pero si no hay formas canónicas de
+decisión, es muy probable que los tribunales decidan de maneras que
+sean percibidas como simplemente políticas y sin apoyo en el derecho
+vigente (“Bustos” es un excelente botón de muestra). Esto viola lo
+que Lawrence Lessig llama “la restricción de Frankfurter”. De acuer-
+do a esta restricción, una regla de decisión judicial “es una regla infe-
+rior si, en su aplicación, parece ser política, en el sentido de permitir
+que factores extra-legales controlen su aplicación”. Esa restricción
+implica, de acuerdo a lo dicho respecto de la legitimidad sociológica
+de los tribunales y lo que esperamos de ellos, que la Corte debería
+evitar reglas de decisión que parezcan políticas, a fin de minimizar
+los costos institucionales y preservar —o, en el caso argentino, mejor
+sería decir construir— su capacidad de ser relevantes.
+
+[[PDF p. 10]]
+Rosenkrantz podría replicar que las reglas no están dirigidas
+específicamente a los tribunales y que —en todo caso— solamente
+exigen de estos últimos deferencia a las decisiones que, en base a las
+reglas por él sugeridas, tomen los poderes políticos. Pero eso, si bien
+elude la “restricción de Frankfurter”, simplemente lleva a la Corte
+a otra encerrona, igualmente problemática desde la perspectiva de
+su legitimidad sociológica: si la Constitución promete la inviolabi-
+lidad de la propiedad y si los poderes políticos toman medidas ba-
+sadas en cálculos consecuencialistas que, en principio, contradicen
+las percepciones populares sobre lo que “inviolable” significa, la
+mera deferencia muestra a la Corte abdicando de la defensa de los
+derechos constitucionales y la vuelve irrelevante. Además, no es un
+camino que Rosenkrantz pueda aceptar fácilmente, ya que la falta
+de exigibilidad judicial de la garantía de la inviolabilidad de la pro-
+piedad, en una cultura como la nuestra en la que, según el mismo
+Rosenkrantz, la creencia en los derechos depende de su observancia
+efectiva y su defensa por los tribunales, devalúa notablemente su
+potencia constitucional, socavando no solamente el derecho de pro-
+piedad —cuya valía social el autor no duda en defender— sino
+más generalmente nuestra creencia en la Constitución como norma
+suprema.
+
+[[PDF p. 10]]
+Por lo demás, una teoría de este tipo, preocupada por los efectos
+sociales benéficos del apropiado funcionamiento de un sistema de de-
+rechos de propiedad debería incorporar como un factor importante
+en el cálculo de las consecuencias los efectos de largo plazo que los
+avances sobre el derecho de propiedad, en base a consideraciones vin-
+culadas a la preservación del sistema productivo o a la promoción del
+bienestar general, han tenido o pueden tener. Esto, claro está, no es
+una crítica a la teoría misma, que puede dar cuenta de tal factor, pero
+sí a la aplicación que Rosenkrantz hace de ella al considerar como
+correcta, por ejemplo, la decisión en la causa “Bustos”. La cíclica re-
+currencia de la emergencia económica —que, en ocasiones, se vuelve
+“permanente” a través de sucesivas prórrogas— debe necesariamente
+influir el cálculo consecuencialista que la teoría propone para enfren-
+tar situaciones de escasez.
+
+Desde otra perspectiva, teorías como las de Orlando, Etchichury
+y Cianciardo y Zambrano traen a la mesa de debate la presencia de
+otros valores de importancia que aparecen íntimamente vinculados
+a la protección del derecho de propiedad —en particular, el mínimo
+de control sobre recursos materiales que es necesario para desarro-
+llar una vida autónoma, digna o decente—. No se encuentran, por
+supuesto, libres de problemas. Una dificultad que atraviesa, aunque
+de distinta manera, las tres teorías, es la de cómo justificar un tra-
+tamiento diferenciado para distintos tipos de propiedad, cuando la
+Constitución no sugiere de ninguna manera obvia la diferenciación.
+
+En el caso de Etchichury, la argumentación recurre a normas de
+derecho internacional de los derechos humanos que, a partir de su
+jerarquización constitucional en 1994, deberían influir la manera en
+que concebimos la protección del derecho de propiedad y, en con-
+secuencia, también la forma en que interpretamos las normas que
+instrumentan dicha protección. Así, con base en lo prescripto por el
+art. 21 de la Convención Americana de Derechos Humanos, Etchi-
+chury sostiene que “el uso y goce” de la propiedad puede ahora “su-
+bordinarse al interés social” —en sus palabras, “[h]oy la propiedad
+solo puede interpretarse en relación con el interés social”—. Esto
+genera un criterio de reglamentación que, en la ponderación de diver-
+sos factores propia de toda actividad de regulación, adquiere preemi-
+nencia. Lo propio deberá ocurrir, cabe asumir, en la actividad judicial
+de escrutinio constitucional de tales reglamentaciones. Pero no toda
+propiedad está sujeta a ese criterio colectivo dominante: aquella que
+satisface las “necesidades esenciales de una vida decorosa” y “con-
+tribuye a mantener la dignidad de la persona y del hogar”, se consti-
+
+[[PDF p. 11]]
+tuye —a la manera de la propuesta de Cianciardo y Zambrano— en
+un “núcleo duro” del derecho humano de propiedad, con base en lo
+dispuesto por el art. 23 de la Declaración Americana de los Dere-
+chos y Deberes del Hombre. En todos los casos, sea la propiedad
+esencial para la vida decorosa y para la dignidad de la persona o no,
+goza de inviolabilidad, entendida como la imposibilidad de privar a
+su titular de ella, fuera de los supuestos excepcionales que el propio
+art. 17 contempla.
+
+Más allá del innegable valor que la propuesta interpretativa tiene,
+en tanto intenta distinguir fundadamente casos que, razonablemente,
+podrían considerarse distintos, el recurso a la fuente internacional es
+cuestionable. Esto porque, es sabido, el constituyente de 1994 no po-
+día —por expresa prescripción preconstituyente— alterar ni modifi-
+car en modo alguno los derechos contenidos en la primera parte de la
+Constitución, bajo pena de nulidad absoluta, límite constitucional
+que responde a una sana lógica republicana y democrática y que fuera
+convalidado por la Corte Suprema, correctamente a mi juicio, en el
+caso “Fayt”. Pero además, la propia normativa internacional con-
+duce a idéntica conclusión. El art. 29 de la Convención Americana de
+Derechos Humanos expresamente establece que ninguna disposición
+de la Convención puede ser interpretada en el sentido de permitir a
+los Estados “suprimir el goce y ejercicio de los derechos y libertades
+reconocidos en la Convención o limitarlos en mayor medida que la
+prevista en ella” (énfasis añadido). En suma, si el criterio del “interés
+social” es una pauta que no surge de la propia Constitución Nacio-
+nal —y Etchichury implícitamente lo concede, al argumentar que ha-
+bría sido la reforma de 1994 la que habría impuesto esta nueva “ver-
+sión” del derecho de propiedad— no cabe importarla del art. 21 de la
+Convención para limitar los derechos de propiedad que garantiza el
+art. 14 de la Constitución. En suma, si la Convención Constituyente
+no podía válidamente modificar los derechos y garantías contenidos
+
+[[PDF p. 11]]
+en los primeros 35 artículos de la Constitución, y si la norma inter-
+nacional manda no ser interpretada en el sentido de limitar los ma-
+yores derechos —cualesquiera que éstos fueran— protegidos por las
+normas nacionales, es difícil ver cómo la teoría de Etchichury pueda
+hacer pie, tal como intenta ser justificada.
+
+Orlando se enfrenta con la misma dificultad, pero tiene la ventaja
+de que, al no recurrir a normas de derecho internacional para justifi-
+car su propuesta, elude el problema observado respecto de la teoría de
+Etchichury. La idea de Orlando es que las propias normas constitu-
+cionales —los “compromisos constitucionales con la autonomía”,
+en sus términos, y los derechos sociales— potencian la protección del
+art. 17 de la Constitución. Aunque esta manera de encarar la cues-
+tión no es metodológicamente novedosa —de hecho, es una suerte de
+“interpretivismo” vinculado por los límites del documento, usando
+una traducción libre de las famosas tipologías de Ely—, sí surge
+el siguiente interrogante: ¿qué entendemos, entonces, por “inviolabi-
+lidad” de la propiedad? En este marco teórico, es la conjunción del
+art. 17 con otros artículos y principios constitucionales lo que genera
+un escrutinio agravado. La mera “inviolabilidad” de la propiedad,
+entonces, debería disparar un test de mera razonabilidad, siempre que
+no hubieran otros factores coadyuvantes. O, siguiendo a Etchichury,
+debería reducirse a la imposibilidad de privar a una persona de la titu-
+laridad del derecho sin seguir los procedimientos expropiatorios. Esto
+no es, en sí mismo, una objeción contundente, pero llama la atención
+sobre el problema que “devaluar” el tenor literal de la Constitución
+puede tener. Es claro que la regulación del uso y goce de la propiedad,
+si no existen factores adicionales que señalen la conveniencia de una
+mirada judicial más severa, está protegida únicamente por el test
+de mera razonabilidad —como muchos otros derechos—. Pero, ¿cabe
+interpretar lo mismo ante avances sobre la cosa misma objeto del de-
+recho —en otros términos, sobre “el capital”—? Si así fuera, podría
+sostenerse que disposiciones tan categóricas como la prohibición de
+censura previa (art. 14) o de todo tipo de tormentos (art. 18), garan-
+tizan simplemente la mera razonabilidad de las normas que deciden
+
+[[PDF p. 12]]
+emplear algún tormento o cierto tipo de censura como medio para la
+persecución de fines estatales.
+
+Respecto de la tesis de Cianciardo y Zambrano, que comparte ins-
+piración y fisonomía con las recién analizadas, vale la pena destacar
+dos objeciones que podrían formularse: la primera es que, cualquiera
+que fuere el valor que atribuyéramos a la tesis como interpretativa del
+“derecho humano” de propiedad, lo cierto es que la Constitución ar-
+gentina brinda explícita protección textual a todo tipo de propiedad,
+y no únicamente a aquella que se encuentra en el “núcleo esencial”
+propuesto por los autores; la segunda, es que la condición de la que
+parece depender el carácter de “humano” de un derecho (su universa-
+lización) es también un condicionante de lo que los autores denominan
+el “núcleo esencial”, y no solamente de la parte del derecho de propie-
+dad que, en su opinión, no gozaría de la protección robusta propia de
+los “derechos humanos”. Lo cierto es que ambos son contingentes y
+dependen de la disponibilidad de los recursos en cuestión. Si bien
+uno podría decir que, en condiciones de escasez extrema, el “núcleo
+esencial” (el conjunto de bienes indispensables para el desarrollo dig-
+no del ser humano) debería asegurar al menos un reparto igualitario
+de los bienes escasos que existen, en una suerte de pars conditio credi-
+torum, no es tan claro que ello deba ser necesariamente así. Son clási-
+cos los ejemplos de casos difíciles, en los que —por ejemplo— existe
+un “umbral mínimo” de utilidad de los bienes escasos para cualquier
+individuo dado, donde las dosis disponibles no alcanzan para que
+cada uno reciba dicho mínimo, sin el cual cada individuo muere, pero
+sí son suficientes para que un reparto desigual permita a uno o varios
+de ellos superar dicho umbral y sobrevivir. En un caso tal, ¿debería
+efectuarse el reparto igualitario, aun cuando conduzca a la muerte
+de todos? Este tipo de casos siembra dudas sobre la condición de
+“derecho humano” de tal núcleo esencial (dentro de una concepción
+tal de los derechos humanos).
+
+Por supuesto, nada de lo que digo pretende quitar atractivo ético
+a nociones como la de “suficiencia” o el “prioritarianismo” en que se
+apoyan, de manera directa o indirecta, las propuestas de Orlando, Et-
+chichury y Cianciardo y Zambrano. Ellas, así como otros conceptos
+morales, pueden sin dudas informar nuestras construcciones teóricas
+
+[[PDF p. 12]]
+sobre el derecho de propiedad, en la medida en que éstas constituyan
+interpretaciones plausibles de los textos constitucionales. Las críticas
+y observaciones que aquí ofrezco son simplemente pasos en la cons-
+trucción de dicha plausibilidad.
+
+III. CONCLUSIONES TENTATIVAS
+
+No tengo dudas que la protección constitucional de la propiedad
+reconoce una justificación pluralista: no hay un único valor que se
+satisfaga mediante la declaración de inviolabilidad y libre disposición
+que contiene la Constitución. A la vez, una rápida revisión de algunas
+decisiones de nuestra Corte Suprema muestra que los jueces suelen
+abrazar esa misma idea. Así, se ha dicho que “[e]l progreso del país
+se debió, en buena parte, al lúcido texto constitucional que ofreció
+a nacionales y extranjeros la protección de sus vidas y patrimonios,
+atrayendo una corriente inmigratoria que contribuyó a poblar el de-
+sierto territorio y a cubrirlo de valiosas inversiones desde fines del
+siglo diecinueve. La permanencia de esas bases constitucionales para
+el progreso y el crecimiento no puede ser desconocida por tropiezos
+circunstanciales que sólo pueden ser superados con la madurez de
+los pueblos respetuosos de sus leyes. La fractura del orden funda-
+mental sólo habría de agravar la crisis, al ver afectados ya no sólo
+los derechos aquí lesionados, sino los restantes que protege la Cons-
+titución, hasta tornar inviable el logro de los objetivos de ‘afianzar
+la justicia’ y ‘promover el bienestar general’ sobre los que reposa el
+orden institucional” y que “[l]a propiedad es inviolable y ningún
+habitante de la Nación puede ser privado de ella, sino en virtud de
+sentencia firme fundada en ley”. Soslayar su vigencia, cualesquiera
+sean las razones para enervar su recto contenido, importaría retirar a
+la República del concierto de naciones civilizadas, que contemplan el
+derecho de propiedad como uno de los pilares del respeto a los dere-
+chos inherentes a la persona y que configura una formidable base de
+impulso para el progreso de las naciones”.
+
+Asimismo, se ha sostenido que “[e]l respeto de la seguridad jurí-
+dica es sustancial para la captación del ahorro público así como para
+
+[[PDF p. 13]]
+el desarrollo de la Nación” y que “[…] la interpretación que los
+jueces realicen sobre la protección constitucional del contrato y de la
+propiedad tiene efectos importantísimos sobre la evolución futura de
+las instituciones”.
+
+En otros supuestos se ha afirmado que “[…] la protección de la
+propiedad realiza el valor de la seguridad jurídica y protege a los
+ciudadanos en sus contratos y en sus inversiones, lo cual es esencial
+para la concreción de un Estado de Derecho […] El resguardo de la
+posición contractual del acreedor fortalece la seguridad jurídica y es
+una sólida base para la economía de mercado” y que “[e]s un prin-
+cipio que todos los individuos tienen derechos fundamentales con un
+contenido mínimo para que puedan desplegar plenamente su valor
+eminente como agentes morales autónomos, que constituyen la base
+de la dignidad humana, y que esta Corte debe tutelar. El ahorro que
+hace el ciudadano para resguardarse frente a las inclemencias del
+futuro o para aumentar su patrimonio, debe ser protegido por los
+jueces, cualesquiera sean las finalidades lícitas que persiga el depo-
+sitante. Esta regla es la base de la tranquilidad que nuestro pueblo
+tiene derecho a gozar en una sociedad organizada, es el fundamen-
+to del respeto recíproco y es el principal impulsor del crecimiento
+económico que sólo puede ser realizado en el marco de instituciones
+estables”.
+
+Como puede advertirse, en los fragmentos transcriptos aparece
+una diversidad de valores fundantes de la protección de la propiedad,
+en ocasiones mencionados de forma conjunta. El progreso económi-
+co, la estructuración de una economía de mercado, la realización de
+la seguridad jurídica como valor esencial del Estado de Derecho, la
+evolución de las instituciones, el resguardo de la autonomía indivi-
+dual, la promoción del respeto recíproco y la preservación de un ám-
+bito de tranquilidad aparecen entremezcladas en las distintas visiones
+expresadas por algunos jueces de la Corte Suprema.
+
+El repaso de algunos de los esfuerzos teóricos realizados para jus-
+tificar y delimitar la protección constitucional del derecho de propie-
+dad nos muestra la dificultad de que un único valor estructure una
+
+[[PDF p. 13]]
+teoría que resuelva satisfactoriamente las tensiones —textuales y ex-
+tratextuales— que presentan los casos constitucionales en torno a la
+propiedad privada. Aunque aquí no ofreceré ninguna teoría alternati-
+va a las que he analizado, sí sugeriré algunos factores que una teoría
+con aspiraciones de ser convincente no debería descuidar.
+
+El primer factor que desearía destacar es que el derecho de pro-
+piedad es un derecho de fundamental importancia. Es justamente su
+relevancia y ubicuidad social lo que lo vuelve contencioso. Es, por
+supuesto, un valor secundario respecto de la salud, la vida u otros, si
+uno los compara de manera absoluta. Pero para mucha gente común
+tiene, por su directa vinculación con lo que uno puede y no puede
+hacer en ejercicio de su libertad, una relevancia superior a otros que
+los juristas suelen encumbrar.
+
+Es un lugar relativamente común sostener que “[c]uando lo
+que está en juego son normas referidas a cuestiones patrimoniales
+y restringen derechos de esa naturaleza […] el control debe ser me-
+nos intenso, pues cabe reconocer al legislador un mayor margen de
+discrecionalidad”.
+
+Me parece que ésta no es la manera correcta de enfocar la cues-
+tión. Al igual que ocurre con otros derechos, hay situaciones que jus-
+tifican que los jueces miren “con una lente de mayor aumento” y un
+“ojo algo más desconfiado”, y hay otras donde no existen razones
+que justifiquen una actitud de ese tipo y la deferencia es, en princi-
+pio, apropiada. Pero esto no es una particularidad de las “normas
+referidas a cuestiones patrimoniales [que] restringen derechos de esa
+naturaleza”. Ocurre con la gran mayoría de los derechos. Piénsese,
+por ejemplo, en el caso de la libertad de expresión, libertad “preferi-
+da” si las hay, tanto en la jurisprudencia constitucional estadouniden-
+se, como en la argentina. Sin embargo, y como ha destacado con
+
+[[PDF p. 14]]
+acierto Julio C. Rivera (h), hay numerosas regulaciones de la libertad
+de expresión —inclusive en lo que respecta a su contenido— que no
+merecen —ni reciben— más que un control de mera razonabilidad.
+
+Una buena teoría interpretativa del derecho de propiedad cons-
+titucional debería ser capaz de dar cuenta del hecho de que diferen-
+tes tipos de casos requieren diferentes reglas de solución —judicial o
+no—. En este sentido, muchas de las teorías aquí reseñadas destacan
+la pluralidad de valores involucrados en la protección de la propiedad
+y muestran receptividad a la idea de enfoques diferenciados para dis-
+tintos tipos de cuestiones, más allá de las objeciones analizadas.
+
+El segundo factor a tener en cuenta es relativamente obvio, pero
+vale la pena insistir en él: una teoría interpretativa de cláusulas cons-
+titucionales debe dar cuenta de su texto. En el caso del art. 17, debe
+dar cuenta de la “inviolabilidad” prometida, de una manera que no
+resulte esotérica a la vista del ciudadano medio, ni desvinculada del
+entendimiento ordinario de los términos. En suma, debe respetarse
+la “resistencia semántica” del texto, de acuerdo a las convenciones
+interpretativas prevalecientes en la comunidad.
+
+Por lo demás, relegar el derecho de propiedad a un derecho “de se-
+gunda categoría” potencialmente puede generar, al menos, tres tipos de
+problemas “macro” cuya importancia no deberíamos subestimar: en
+primer lugar, la devaluación terminológica de las cláusulas constitucio-
+nales, que puede acarrear —si, como Rosenkrantz sostiene, es cierto que
+la cultura vernácula solamente reconoce como derechos aquellos que
+efectivamente gozan del respaldo de la coerción estatal— una pérdida de
+valor de la Constitución en general y más allá del derecho de propie-
+dad; en segundo lugar, y en la medida en que amplios sectores de la
+población valoren el derecho de propiedad y entiendan su “inviolabi-
+lidad” de modo más intenso que el que le atribuya la teoría interpre-
+tativa en cuestión, el socavamiento de la legitimidad sociológica del
+Poder Judicial, que aparece a los ojos de la ciudadanía como una “es-
+
+[[PDF p. 14]]
+cribanía del Gobierno”, irrelevante desde el punto de vista del cumpli-
+miento de la Constitución —este efecto es especialmente importante
+en casos de alta visibilidad, como los de emergencia económica—;
+por último, si es cierto que la protección de la propiedad juega un rol
+en el logro del crecimiento económico de largo plazo, no deberíamos
+descuidar los efectos nocivos que relegar la propiedad privada a un
+derecho de “segunda categoría” podría tener sobre nuestro desarrollo
+económico.
+
+Finalmente, una teoría interpretativa de la protección constitucio-
+nal de la propiedad debería desprenderse de un prejuicio sumamen-
+te extendido en ciertos ámbitos académicos liberales: que la defensa
+judicial de la propiedad obstaculiza el logro de una sociedad más
+justa, congelando las distribuciones actuales de derechos y sustra-
+yéndolas de las decisiones mayoritarias que nos llevarían en aquella
+dirección. Una teoría matizada, que dé cuenta de los diversos va-
+lores que surgen de la reseña realizada, debería poder distinguir ade-
+cuadamente aquellos casos que demandan una supervisión judicial
+más intensa de otros donde tal necesidad es menos acuciante —o,
+quizás, incluso contraproducente—. Aunque parezca contraintuitivo,
+hay buenas razones para pensar que no siempre los sectores más ricos
+se benefician de la protección estatal de la propiedad —antes bien,
+muy posiblemente se benefician de su relativa vulnerabilidad—.
+No es infrecuente que, tomando prestada la terminología de Charles
+Donahue, Jr., la “propiedad como poder” juegue muy bien el juego
+político, formal e informal, y que la “propiedad como seguridad” sea
+la que requiera de atención judicial.

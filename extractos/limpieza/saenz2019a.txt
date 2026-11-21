@@ -1,0 +1,46 @@
+# Llamadas de nota pegadas al texto en saenz2019a (generadas para U10; cada patrón lleva el contexto exacto)
+# PDF p. 4: llamada de nota
+(?<=CN)15(?=;\ y)
+# PDF p. 7: llamada de nota
+(?<=nuestra\ CN)33(?=\.Co)
+# PDF p. 7: llamada de nota
+(?<=argentina”)34(?=\.$)
+# PDF p. 8: llamada de nota
+(?<=esarrollo”)37(?=\.$)
+# PDF p. 8: llamada de nota
+(?<=\ Nacional”)38(?=\.$)
+# PDF p. 8: llamada de nota
+(?<=\ Nacional”)39(?=\.$)
+# PDF p. 8: llamada de nota
+(?<=\ privadas”)40(?=\.\ L)
+# PDF p. 8: llamada de nota
+(?<=\ Nacional”)42(?=\.$)
+# PDF p. 9: llamada de nota
+(?<=\ de\ fondo”)43(?=\.$)
+# PDF p. 11: llamada de nota
+(?<=sancionar”)58(?=\.\ E)
+# PDF p. 11: llamada de nota
+(?<=a"\ de\ 1923)59(?=\.$)
+# PDF p. 12: llamada de nota
+(?<=el\ Código”)60(?=\.$)
+# PDF p. 12: llamada de nota
+(?<=esaparece”)61(?=\.$)
+# PDF p. 12: llamada de nota
+(?<=1\ y\ 1002\)”)62(?=\.\ P)
+# PDF p. 12: llamada de nota
+(?<=rovincial”)63(?=\.$)
+# PDF p. 12: llamada de nota
+(?<=eniencia’”)64(?=\.$)
+# PDF p. 13: llamada de nota
+(?<=l\ federal”)65(?=\.$)
+# PDF p. 14: llamada de nota
+(?<=rnacional”)67(?=\.$)
+# PDF p. 15: llamada de nota
+(?<=n\ ese\ fin”)68(?=\.$)
+# PDF p. 16: llamada de nota
+(?<=A\ y\ la\ LDC)71(?=\.\ E)
+# PDF p. 4: llamada de nota 17 pegada al número de ley («Ley N° 346»)
+(?<=incorporada mediante Ley N° 346)17(?=\)\.)
+# PDF p. 3: la nota 7 continúa en el pie de p. 3 antes del primer renglón numerado
+^el valor de la moneda \(depreciada por el proceso inflacionario que ha caracterizado.*$
+^8 y 10 de Ley Nº 23928\.\s*$

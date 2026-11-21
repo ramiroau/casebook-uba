@@ -1,0 +1,1196 @@
+# fuente: Unidad9/1_Álvarez Ugarte et al_2019_La actividad del Congreso.pdf
+# modo: texto
+# copia de corpus/texto/rau2019.txt (nivel A)
+
+[[PDF p. 1]]
+La actividad del Congreso1
+El Congreso es el espacio que la Constitución establece para la creación de leyes. Es el actor
+constitucional encargado de poner en acto las reglas de cambio del derecho: modificar las leyes
+vigentes y sancionar otras nuevas.2 Lo hace a través de reglas previstas en la Constitución y
+desarrolladas en los reglamentos de cada una de las cámaras que lo integran. Estas reglas se
+distinguen entre las que organizan el trabajo interno del Congreso, las que se refieren al proceso
+de sanción de leyes y las vinculadas al ejercicio de facultades institucionales y prerrogativas de
+las personas que integran el cuerpo.
+El Congreso es el órgano constitucional que más cabalmente expresa el carácter representativo
+del gobierno establecido por la Constitución.3 Y si bien la dinámica de la representación política
+requiere un análisis más extenso, en este breve comentario intentaremos evitar esa cuestión
+delicada y nos concentraremos en el funcionamiento interno del Congreso en relación a la
+actividad específicamente legislativa.4 Como órgano colegiado y dividido en dos cámaras, el
+Congreso funciona a través de sesiones en donde se requiere la presencia de un determinado
+número de miembros para funcionar. En esas sesiones los proyectos son discutidos y debatidos.
+A través de un sistema de votación con mayorías diversas, los proyectos de ley son aprobados o
+desechados. En nuestro sistema, ademas, el Poder Ejecutivo debe promulgar los proyectos del
+Congreso para transformarlos en ley. Este artículo estudiará este proceso.
+
+I. Las sesiones
+Tanto la Cámara de Diputados como el Senado de la Nación funcionan sobre la base de sesiones
+públicas en donde se pone en acto el componente deliberativo del proceso de formación de las
+leyes que establece nuestra Constitución. Las sesiones son reuniones de los miembros de cada
+una de las cámaras en donde, sobre la base de una temática predeterminada, se discuten los
+proyectos de ley que están en estado de ser discutidos y tratados.
+La Constitución prevé dos tipos de sesiones: las ordinarias y las extraordinarias, ambas
+previstas en el artículo 63 de la Constitución. Las primeras transcurren entre el 1 de marzo y el
+
+
+1         Los capítulos I, IV, V y VI fueron escritos por Ramiro Álvarez Ugarte, los capítulos II y III por Sebastian Guidi y el
+capituo VII por Brenda Dvoskin y Sebastian Guidi.
+2         H. L. A. Hart, The Concept of Law, 2nd ed. (Oxford: Oxford University Press, 1994), 95–96.
+3         Roberto Gargarella, Nos Los Representantes: Crítica a Los Fundamentos Del Sistema Representativo (Miño y Dávila
+Editores, 1995).
+4         Hay, en este sentido, ciertas cuestiones que se dan por conocidas y que están tratadas en otros comentarios de
+este volumen, tales como la división del Congreso en dos cámaras, sus distintas características, etcétera. En particular,
+sobre la cuestión de la representación política, sugerimos dos lecturas complementarias. Sobre el vínculo entre
+representantes y representados, y las distintas formas de entender al concepto de representación, ver el clásico estudio de
+Hanna Pitkin The Concept of Representation (Berkeley, Calif.: University of California Press, 1972). Ver, también,
+Gargarella, Nos Los Representantes. Sobre los problemas de órden democrático involucrados en el sistema bicameral y en
+la desproporción en términos representativos introducida por el senado de igual representación para todas las
+provincias, ver Carlos Gervasoni, “Una Teoría Rentística de Los Regímenes Subnacionales: Federalismo Fiscal, Democracia
+Y Autoritarismo En Las Provincias Argentinas,” Desarrollo Económico, 2011, 579610,
+http://www.jstor.org/stable/41408182.
+
+
+                                                               1
+
+[[PDF p. 2]]
+30 de noviembre de cada año.5
+Desde la reforma de 1994, el Congreso puede reunirse en sesiones ordinarias por sí mismo y no
+requiere la intervención de otros poderes del Estado para convocarlo a sesiones ordinarias. De
+ese modo, la reforma dejó atrás un debate interpretativo de acuerdo al cual la presencial del
+Presidente para la apertura de sesiones ordinarias del Congreso era requisito indispensable para
+su funcionamiento.6
+La práctica constitucional ha permitido que la actividad del Congreso vaya más allá de las
+sesiones ordinarias previstas en el artículo 63 de la Constitución a través de las llamadas sesiones
+de prórroga y extraordinarias.7 Estas sesiones están expresamente receptadas en el artículo 63 y
+presentan una diferencia significativa: mientras las primeras son simplemente enunciadas,
+respecto de las segundas la Constitución afirma que ellas son "convocadas" por el poder
+ejecutivo. Tradicionalmente, la interpretación de este artículo se ha realizado de cara a lo que
+dispone el actual artículo 99 inc. 9 de la Constitución, según el cual el Presidente "prorroga las
+sesiones ordinarias del Congreso, o lo convoca a sesiones extraordinarias, cuando un grave
+interés de orden o de progreso lo requiera." Según Bidart Campos, esto significa que el poder
+ejecutivo puede prorrogar las sesiones ordinarias pero que el Congreso también puede hacerlo;
+por el contrario, la facultad de convocar a sesiones extraordinarios recae exclusivamente en el
+ejecutivo.8
+Existe otra diferencia sustantiva entre las sesiones de prórroga y las extraordinarias. Mientras
+las primeras continúan con la labor del Congreso y éste mantiene sus facultades de manera plena,
+en las sesiones extraordinarias la acción del Congreso se encontraría limitada por las
+circunstancias extraordinarias que justificaron la convocatoria según el artículo 99 inciso 9. En
+este sentido, Bidart Campos argumenta que
+         "[q]uien convoca con facultad exclusiva y excluyente, convoca para 'algo' (grave interés
+         de orden y de progreso); quien es convocado por iniciativa ajena, no tiene más
+         competencia que la limitada por el temario de la convocatoria. El congreso no podría
+         reunirse fuera del período ordinario y el de su prórroga; luego, si se reúne
+         extraordinariamente porque el poder ejecutivo lo dispone, sólo se reúne para tratar las
+         cuestiones que el poder ejecutivo establece".9
+Otros autores, sin embargo, rechazan esa interpretación restrictiva y sostienen que el Congreso
+
+5         Esto es así desde la reforma de 1994: antes, la Constitución limitaba aún más el trabajo del Congreso al restringir
+las sesiones ordinarias entre el primero de mayo y el treinta de septiembre de cada año.
+6         Sobre esta polémica, ver Germán José Bidart Campos, El Derecho Constitucional Del Poder, vol. 2 (Ediar, 1967),
+252. Bidegain sostiene que hasta 1946 las cámaras del Congreso postergaban las sesiones ordinarias hasta que el
+Presidente las convocaba a Asamblea para la apertura prevista en el artículo 99 inciso 8 de la Constitución Carlos María
+Bidegain, Cuadernos Del Curso de Derecho Constitucional, vol. 4 (Abeledo-Perrot, 1996), 70.
+7         Algunos autores señalan, también, a las sesiones preparatorias, que son aquellas contempladas en los
+reglmaentos de cada cámara y que tienen por objeto "organizar a la Cámara para que se encuentre en condiciones de
+iniciar sus sesiones ordinarias el 1o de marzo. Por ello se deben realizar a fines de febrero. En ellas, en los años en que
+corresponde el ingreso de nuevos legisladores, se verifican los diplomas de los electos, a los efectos de su incorporación;
+en todos los casos, se designa a los integrantes de la mesa directiva y se establecen los días y horas de sesión de ese año"
+ibid., 4:68.
+8         Bidart Campos, El Derecho Constitucional Del Poder, 2:253.
+9         Ver ibid., , 254-255. En sentido similar, ver María Angélica Gelli, Constitución de La Nación Argentina: Comentada
+Y Concordada (La Ley, 2004), 494. Gelli agrega que el juicio sobre esas circunstancias extraordinarias no es justiciable.
+
+
+                                                             2
+
+[[PDF p. 3]]
+mantiene sus facultades en cualquier momento10 pero según Bidegain el Congreso ha aceptado
+esa limitación durante sus sesiones.11 En todo caso, no se entiende por qué el Congreso debería
+limitar sus facultades si se encuentra en sesiones, sean éstas del carácter que sea. Una
+interpretación armónica de la constitución inspirada en el elemento representativo que expresa de
+mejor manera el Congreso de la Nación sugiere que éste puede ejercer sus facultades en
+cualquier circunstancia en la que esté sesionando de acuerdo a la ley fundamental.
+Finalmente, cabe señalar que la doctrina nacional coincide en señalar que las sesiones son
+simultáneas y públicas.
+El primer requisito de la simultaneidad está previsto en el artículo 65 de la Constitución, según el
+cual ambas cámaras "empiezan y concluyen sus sesiones simultáneamente. Ninguna de ellas,
+mientras se hallen reunidas, podrá suspender sus sesiones más de tres días, sin el consentimiento
+de la otra".
+El segundo requisito no está previsto expresamente en la Constitución pero los reglamentos de
+cada cámara lo receptan. La publicidad es un principio fundamental de funcionamiento de los
+órganos republicanos, especialmente el de aquél que invoca la representación del pueblo para
+ejercer el poder legislativo. Sin embargo, los reglamentos también prevén la posibilidad de
+sesiones secretas que deben ser declaradas de ese carácter de manera previa por el voto de la
+mayoría absoluta en el caso de los diputados y por petición de tres o más senadores, por pedido
+del Ejecutivo, por resolución del Presidente o "cuando se trate cualquier asunto que tenga el
+carácter de reservado", en el Senado de la Nación12.
+Las sesiones secretas son sumamente problemáticas de acuerdo a principios básicos del gobierno
+republicano, como aquel relacionado a la publicidad de los actos públicos. Si el Congreso de la
+Nación ejerce la representación del pueblo, el ejercicio de ese poder debe hacerse de cara a él y
+no a sus espaldas: sin esa publicidad no es posible evaluar su conducta y el vínculo entre
+representantes y representados se ve debilitado. No parecen existir argumentos de peso para
+justificar las sesiones secretas, pero tampoco parece haber remedios efectivos para impedir que
+ello ocurra si la mayoría de los representantes decide hacerlo. En todo caso, cabe destacar que la
+ley 26.134 de agosto de 2006 dejó sin efecto y ordenó publicar todas las leyes secretas
+sancionadas hasta ese momento.
+
+
+
+II- La iniciativa
+En nuestro país la iniciativa legislativa (es decir, la prerrogativa de enviar proyectos de ley al Poder
+Legislativo que puedan ser formalmente tratados) se encuentra reservada a los legisladores de ambas
+Cámaras y al Poder Ejecutivo. Además, el art. 39 CN prevé la iniciativa popular, mediante la cual un
+grupo suficientemente (bastante) grande de ciudadanos puede presentar un proyecto ante la Cámara
+de Diputados13.
+
+10        Segundo V. Linares Quintana, Tratado de La Ciencia Del Derecho Constitucional Argentino Y Comparado, vol. 8
+(Plus Ultra, 1988), 261.
+11        Bidegain, Cuadernos Del Curso de Derecho Constitucional, 4:261.
+12        Cfr. Reglamento de la Honorable Cámara de Diputados de la Nación, artículo 31 y Reglamento del Honorable
+Senado de la Nación, artículo 18.
+13 Véase en este volumen el trabajo de Demián Zayat al respecto.
+
+
+
+                                                           3
+
+[[PDF p. 4]]
+La Constitución de los Estados Unidos prevé únicamente la iniciativa por parte de los legisladores: el
+Presidente puede únicamente “recomendar a su consideración aquellas medidas que juzgue convenientes” (art.
+2°, secc. 3). En contraste, la mayoría de las constituciones de la región prevé que otros órganos
+constitucionales (como los tribunales electorales, cortes supremas, defensores del pueblo, etc.)
+puedan presentar (incluso de modo exclusivo) proyectos de ley en los ámbitos de sus respectivas
+competencias14. En nuestro sistema, la intención legisferante del resto de los órganos previstos en la
+Constitución debe ser canalizada a través de los poderes políticos desde su iniciativa.
+Según el art. 77 CN, las leyes “pueden tener principio en cualquiera de las Cámaras del Congreso… salvo las
+excepciones que establece esta Constitución”. El principio general, entonces, es la simetría entre ambas
+Cámaras en cuanto a la iniciativa, con algunas excepciones.
+En primer lugar, al igual que lo hacía el art. 44 de la Constitución de 1853/60, el art. 52 establece que
+“a la Cámara de Diputados corresponde exclusivamente la iniciativa de las leyes sobre contribuciones y reclutamiento
+de tropas”. Esta cláusula se inspiró en la llamada “Origination Clause” de la Constitución de los Estados
+Unidos, que dispone que todo proyecto que genere ingresos (revenue) debe originarse en la Cámara de
+Representantes15. El sentido original de esta cláusula se vincula con la distinta naturaleza de la
+representación de ambas Cámaras: mientras los senadores representaban a las provincias y la Ciudad
+de Buenos Aires, los diputados representaban globalmente al pueblo de la Nación. Así, tenía sentido
+dar a éstos últimos una potestad superior sobre las exacciones que la sociedad exigiría a sus
+miembros. En la redacción de la Constitución de 1949 esta cláusula fue eliminada, ya aquella reforma
+dispuso, como la de 1994, la elección directa de los senadores. Sin embargo, en 1994 se optó
+explícitamente por mantener la cláusula, considerando que a pesar de la elección popular de los
+senadores, la de diputados continúa siendo la Cámara con una mayor representatividad popular.
+Esta cláusula ha sido generalmente interpretada en el sentido de que la Cámara de Diputados debe
+ser la cámara de inicio en estas cuestiones16 (lo que, como veremos en el próximo capítulo, tiene
+consecuencias en caso de desacuerdo entre ambas Cámaras). La práctica constitucional argentina lo
+ha entendido así. De hecho, una buena parte de las leyes tributarias argentinas han tenido origen en
+proyectos del Poder Ejecutivo enviados a la Cámara de Diputados.
+Se han suscitado conflictos en casos en que una misma ley presenta sólo algunas cláusulas en alguna
+de las materias que tienen origen obligado en una de las Cámaras. El caso más frecuente es el de
+
+
+14 Véase un muy prolijo relevo en García Montero, Mercedes, “El procedimiento legislativo en América Latina”, en
+
+América Latina Hoy, 38, 2004, pp. 17-55.
+15 “All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with
+
+amendments as on other Bills.” Artículo 1, Sección 7, Cláusula 1.
+16 Así, por ejemplo, sin mayor argumentación hacen expresamente la reserva de que el art. 52 CN permite al Presidente de
+
+la Nación presentar proyectos de ley en materia de contribuciones y reclutamiento de tropas siempre y cuando la Cámara
+de inicio sea la de diputados: Gelli, María Angélica, Constitución de la Nación Argentina. Comentada y concordada, La Ley,
+Buenos Aires, 2003, pág. 757; Sagüés, Néstor Pedro, Elementos de Derecho Constitucional, Astrea, Buenos Aires, 2003,
+Tomo I, pág. 512; Bidart Campos, Germán J., Manual de la Constitución reformada, Ediar, Buenos Aires, 1995, T. III,
+capítulo XXXVI. Alfredo Vítolo, en minoría, cree que la “iniciativa” del art. 52 CN es diferente a la “cámara de origen” de los
+incs. 2° y 19 del art. 75. Así, el art. 52 CN únicamente permitiría que sean los propios diputados quienes presenten
+proyectos de ley en la materia. No creemos que el texto constitucional sea tan claro como este autor sostiene. Si bien es
+cierto que utiliza la palabra “iniciativa”, la pone en cabeza de la Cámara de Diputados, y no de los diputados individuales.
+O bien la Constitución está utilizando una metonimia, refiriéndose a los diputados por el todo del que forman parte, o bien
+está indicando que la Cámara como cuerpo presenta el proyecto al Senado. Véase Vítolo, Alfredo M., “Leyes que deben
+tener origen en una de las dos Cámaras del Congreso” en Sabsay, Daniel (dir.) y Manili, Pablo L. (coord.), Constitución de la
+Nación Argentina y normas complementarias. Análisis doctrinal y jurisprudencial, Hammurabi, Buenos Aires, 2010, T. III,
+pág. 55.
+
+
+                                                              4
+
+[[PDF p. 5]]
+leyes que regulan una materia específica y contienen entre sus cláusulas alguna previsión tributaria17.
+Así, por ejemplo, en el precedente “Petrus” de 1948, se discutía la consideración de un impuesto que
+había sido incluido en una reforma al Código de Minería que había tenido por cámara de origen el
+Senado. La CSJN, si bien rechaza en general entender en el proceso de formación y sanción de leyes
+(doctrina que ha sido atemperada luego), agrega que “la citada ley no puede definirse como de carácter
+impositivo desde que, por ser modificatorias del cód. de minería, forma parte del mismo”18. La Corte Suprema de
+los Estados Unidos sostiene un criterio similar, distinguiendo en cada ocasión si la ley en cuestión
+tiene por objeto proveer ingresos al Estado o ello es una consecuencia incidental19.
+Es una novedad de la reforma de 1994 la incorporación del Senado como cámara de origen en dos
+casos: en la ley convenio de coparticipación de impuestos (art. 75 inc. 2°) y las leyes que provean “al
+crecimiento armónico de la Nación y al poblamiento de su territorio” y las que promuevan “políticas diferenciadas
+que tiendan a equilibrar el desigual desarrollo relativo de provincias y regiones” (art. 75 inc. 19).
+Por su parte, la iniciativa popular regulada en el art. 39 CN establece que “los ciudadanos tienen el derecho
+de iniciativa para presentar proyectos de ley en la Cámara de Diputados”. Como fue tratado en otro artículo de
+esta obra, la facultad de los ciudadanos de presentar proyectos de ley se encuentra severamente
+restringida. Por una parte, por la alta exigencia en materia de firmas: se requiere por lo menos el
+1,5% del padrón nacional, que debe contener al menos el 1,5% del padrón de seis distritos
+diferentes20. Por otra parte, estas iniciativas no pueden versar sobre materia tributaria,
+presupuestaria, penal, de reforma constitucional o de tratados internacionales. Si bien puede
+comprenderse la limitación en materia presupuestaria y de tratados internacionales, el resto de las
+exclusiones reflejan una desconfianza extrema del constituyente a los reclamos organizados de una
+nada despreciable cantidad de ciudadanos. La iniciativa popular presenta para el Congreso la
+obligación de tratarla dentro del año en que es presentada, previsión que no es expresa para los
+proyectos con otros orígenes.
+Existe una contradicción en el caso de que la iniciativa verse sobre las materias que según el art. 75
+inc. 19 tienen como cámara de origen al Senado. En este caso (que nunca se ha presentado) parte de
+la doctrina considera que, para respetar la letra de ambos artículos, el proyecto deberá presentarse
+ante la Cámara de Diputados para ésta lo gire inmediatamente al Senado, que actuará como cámara
+de origen21. Consideramos que esta interpretación es excesivamente formalista: a imponer que los
+proyectos originados en la iniciativa popular deben ser presentados ante la Cámara de Diputados se
+busca que ésta sea la cámara de inicio, para que prevalezca en el caso de disenso con el Senado. Así,
+en caso de que se presentara una iniciativa popular sobre alguna de las iniciativas que tiene como
+cámara de origen el Senado creemos que deberá tener, excepcionalmente, como cámara de origen la
+Cámara de Diputados. En efecto, la Constitución ha rodeado a la iniciativa popular de tantas
+restricciones que en los casos en los que pueda efectivamente utilizarse se debe dar prevalencia a sus
+reglas procedimentales.
+Por otra parte, el primer párrafo del art. 40 CN establece que el Congreso podrá someter un
+
+17 Joaquín V. González había previsto a fin del siglo XIX esta posibilidad, sosteniendo que el texto del entonces art. 44 se
+
+refiere también a toda ley que “no llevando el propósito directo de crear impuestos, lo contenga implícitamente en sus
+cláusulas” Véase Manual de la Constitución Argentina, Editoral Estrada, Buenos Aires, 1983, pág. 365.
+18 Petrus (S.A. de Minas) c. Impuesto a los réditos, Fallos 210:855, sentencia del 28 de abril de 1948, cons. 7°.
+19 Así lo sostuvo en 1897 en Twin City Bank v. Nebeker (167 US 196) y lo reiteró en numerosos fallos posteriores, como
+
+Millard v. Roberts de 1906 (202 US 429) y United States v. Muñoz Flores de 1990 (495 US 385).
+20 Como se advierte en el trabajo de Demián Zayat en este volumen, un movimiento social capaz de juntar semejante
+
+cantidad de voluntades probablemente pueda acceder a que un legislador presente el proyecto por sí.
+21 Bidart Campos, Manual de la Constitucion… citado, Tomo II, Cap. XXII, par. 56.
+
+
+
+                                                              5
+
+[[PDF p. 6]]
+proyecto de ley a consulta popular vinculante “a iniciativa de la Cámara de Diputados”22. El segundo
+párrafo del art. 40, al regular la consulta no vinculante, no establece ninguna particularidad con
+respecto a la iniciativa, por lo que una consulta no vinculante puede tener origen en cualquiera de las
+Cámaras del Congreso.
+Por último, el Jefe de Gabinete de Ministros cuenta con iniciativa exclusiva en cuanto a la ley de
+ministerios y la ley anual de presupuesto, “previo tratamiento en acuerdo de gabinete y aprobación del Poder
+Ejecutivo” (art. 100 inc. 6°). El art. 26 de la Ley 24.156 de Administración Financiera establece que el
+presupuesto será presentado ante la Cámara de Diputados23. No se ha problematizado la validez de
+esta cláusula frente a la claridad del art. 77 CN, que sólo prevé las excepciones del texto
+constitucional para elegir una u otra cámara como cámara de origen.
+
+
+III.- Trámite interno.
+III.1.- Giro a comisiones
+Una vez ingresado a cualquiera de las Cámaras, un proyecto de ley es derivado a las comisiones
+permanentes de asesoramiento para su estudio. Si bien la Constitución, en su redacción de 1994,
+presupone la existencia de comisiones al interior de cada Cámara (al permitir el art. 79 la delegación
+en ellas), no establece ningún régimen para ellas. La única excepción es la Comisión Bicameral
+Permanente, creada por el art. 99 inc. 3° CN, para controlar el ejercicio de la actividad legislativa del
+Poder Ejecutivo.
+Las comisiones permanentes de asesoramiento son creadas por cada Cámara en virtud de la
+prerrogativa de dictar sus propios reglamentos que les confiere el art. 66 CN. El art. 61 del
+Reglamento de la Cámara de Diputados y el art. 60 del Reglamento del Senado crean las comisiones
+permanentes de asesoramiento en sus respectivos ámbitos, cuya composición deberá guardar en lo
+posible la proporcionalidad con la integración de la Cámara respectiva (art. 105 RHCDN y art. 91
+RHSN). Las comisiones sesionan con un quorum de la mitad de sus miembros, aunque se permite
+que sesionen con sólo un tercio de ellos en la tercera oportunidad que se cita a la comisión con el
+mismo objeto sin reunir dicha mayoría (art. 108 RHCDN y art. 100 HSN).
+
+III.2.- Delegación en comisiones
+En la reforma de 1994 se le otorgó a las comisiones de asesoramiento un nuevo papel que sin
+embargo nunca se ha puesto en práctica. El art. 79 CN dispone que “cada Cámara, luego de aprobar un
+
+22 Gregorio Badeni sostiene que “como las formas semidirectas de democracia constituyen una excepción al sistema
+
+representativo de gobierno que establece la Constitución, la interpretación sobre los alcances de aquéllas debe ser restrictiva.
+Esa interpretación restrictiva nos induce a sostener que la iniciativa para sancionar una ley convocando a la consulta
+popular no vinculante corresponde a la Cámara de Diputados” (Badeni, Gregorio, Tratado de Derecho Constitucional, La Ley,
+Buenos Aires, 2006, T. II, pág. 1363). Consideramos que esta afirmación erra en dos de sus premisas. Por una parte, una
+consulta no vinculante no representa ninguna excepción al sistema representativo, puesto que, justamente por su carácter
+no vinculante, los representantes conservan la decisión final. Aun así, no encontramos motivo para interpretar los
+recursos a formas de democracia semi-directa de modo restrictivo. Por último, ni siquiera una interpretación restrictiva
+habilitaría a interpretar que sólo la Cámara de Diputados tiene iniciativa sobre estas cuestiones. No solamente nada hay
+en el párrafo que habilite esta interpretación: si hubiera querido limitar el procedimiento, lo hubiera hecho al igual que en
+el párrafo anterior. Por el contrario, el segundo párrafo es explícitamente más generoso que el primero, incluso
+habilitando al Poder Ejecutivo a convocar a una consulta popular no vinculante en el ámbito de sus competencias.
+23 Su antecesora, la Ley de Contabilidad, contenía la misma prescripción. Acerca del alcance de la intervención del
+
+Presidente y del Congreso en la elaboración de la ley de presupuesto, puede consultarse el trabajo de Federico Apostolidis
+en este volumen.
+
+
+                                                               6
+
+[[PDF p. 7]]
+proyecto de ley en general, puede delegar en sus comisiones la aprobación en particular del proyecto, con el voto de la
+mayoría absoluta del total de sus miembros”. La “aprobación en general” de un proyecto de ley es un
+mecanismo previsto en los reglamentos de ambas Cámaras para habilitar el tratamiento “en
+particular”, en el que se discute y se vota el proyecto de artículo por artículo, o sección por sección
+(art. 154 RHCDN y art. 169 RHSN). Un proyecto de ley no está aprobado hasta que se lo votó
+entero “en particular” (art. 148 RHCDN y art. 176 RHSN). La aprobación “en general” de un proyecto
+muestra la voluntad de la Cámara de avanzar en su aprobación, aunque existan controversias con
+respecto a algunos artículos en particular. Luego de la votación “en general” del proyecto aún se
+pueden introducir cambios durante la discusión “en particular”.
+Así, con la mayoría de sus miembros totales cada Cámara puede decidir delegar en alguna o algunas
+de sus comisiones la aprobación en particular del proyecto, que una vez aprobado por éstas
+continuará su trámite ordinario (es decir, según corresponda, pasará a la otra cámara para su revisión
+o al Poder Ejecutivo para su promulgación).
+La Constitución previó también que con la misma mayoría24 el pleno de la Cámara pueda recuperar
+la facultad de tratar en particular el proyecto en cuestión. Algunos autores consideran que si el
+proyecto fue delegado en varias comisiones y una de ellas lo aprobó en particular, la facultad de la
+Cámara de retomar la facultad de hacerlo ha quedado precluida25. No coincidimos con esta postura.
+La Cámara es titular del proyecto hasta que éste pasa a la otra cámara o al Poder Ejecutivo. La
+aprobación de una sola comisión (o dos, o tres…), cuando se requiere la aprobación de más de ellas,
+no es un acto jurídico completo que pueda producir efectos sobre las facultades del pleno (como
+tampoco lo es un voto individual en un órgano colegiado). Esto se vuelve evidente cuando
+pensamos en las consecuencias que tal interpretación tendría para un trámite de este tipo: el
+desacuerdo entre las comisiones a las cuales fue delegado el tratamiento en particular implicaría la
+parálisis del proyecto, contra la voluntad de la Cámara investida de la representación popular.
+Consideramos, entonces, que la Cámara puede recuperar el tratamiento del proyecto delegado en
+comisiones en cualquier momento mientras éste no haya sido aprobado por la totalidad de las
+comisiones en las que se produjo la delegación.
+Este procedimiento no puede realizarse con respecto a aquellas leyes que requieren una mayoría
+especial (véase infra) Esto es obvio para las leyes que requieren una mayoría de dos tercios (como la
+incorporación a la jerarquía constitucional de tratados de derechos humanos) pero también es cierto
+para aquellas leyes que requieren la mayoría absoluta de los miembros totales de cada Cámara (es
+decir, la misma mayoría que se requiere para efectuar la delegación en comisión). Esto surge de la
+redacción textual de los artículos que exigen mayorías especiales (que en todos los casos dicen que
+tal o cual ley debe ser sancionada con tal mayoría o recibir la aprobación o el voto de tal proporción
+de legisladores). Así, estas normas contienen una exigencia procedimental específica, y por principio
+de lex specialis prevalecen por sobre las normas generales que regulan el procedimiento en esos
+puntos.
+
+III.3.- Acuerdo y desacuerdo entre las Cámaras
+El art. 78 CN regula el trámite más simple de aprobación de una ley: “Aprobado un proyecto de ley por la
+Cámara de su origen, pasa para su discusión a la otra Cámara. Aprobado por ambas, pasa al Poder Ejecutivo de la
+
+24 El llamado Estatuto Fundamental impuesto por el dictador Lanusse en 1972 preveía un procedimiento similar, aunque
+
+alcanzaba con un cuarto de los miembros de la cámara para recuperar el tratamiento del proyecto.
+25 Así “interpreta con facilidad” Bidart Campos, Manual de la Constitucion…, T. III, cap. XXXV, par. 23. De modo similar,
+
+Sagüés, obra citada, T. II, pág. 519.
+
+
+                                                              7
+
+[[PDF p. 8]]
+Nación para su examen; y si también obtiene su aprobación, lo promulga como ley.”
+En el caso regulado por el art 78 CN, la voluntad de los tres órganos involucrados en la formación
+de una ley (las dos Cámaras del Congreso y el Poder Ejecutivo) es idéntica, por lo que no se requiere
+ningún mecanismo para determinar cuál de estas voluntades debe prevalecer. Esto sí ocurre cuando
+la voluntad de ambas Cámaras difiere, así como cuando la voluntad del Poder Ejecutivo difiere de la
+decisión final del Congreso.
+Sin embargo, la Cámara revisora puede introducir modificaciones en el proyecto que recibe. En ese
+caso, el art. 81 CN ordena que se registre si los cambios fueron aprobados por la mayoría de los
+miembros presentes o por al menos dos tercios de ellos26. El proyecto modificado retorna a la
+cámara de origen, la que no puede rechazar el proyecto ni introducirle nuevas modificaciones: en
+esta oportunidad, la cámara de origen debe optar por la versión original que aprobó al comienzo del
+trámite, o por la versión modificada que le envía ahora la cámara revisora27.
+El art. 81 CN establece además que “ninguna de las Cámaras puede desechar totalmente un proyecto que
+hubiera tenido origen en ella y luego hubiese sido adicionado o enmendado por la Cámara revisora”. Así, la opción
+de la cámara de origen es binaria28: independientemente de cómo sea formulada en el recinto, votar
+por rechazar los cambios implica votar por insistir con la versión original, y viceversa. De otro
+modo, existiría la posibilidad de que la cámara de origen rechace ambas versiones del proyecto, lo
+que el art. 81 CN veda.
+Si la cámara de origen desea aprobar la modificación de la cámara revisora, basta con una mayoría
+simple29 para que tal texto sea considerado sancionado y enviado al Poder Ejecutivo para su
+promulgación.
+Si la cámara de origen desea insistir con su redacción original, se tienen en cuenta la mayoría con la
+que los cambios fueron introducidos en la cámara revisora y los votos con los que se realiza la
+insistencia en la cámara de origen:
+     a) Si los cambios en la cámara revisora fueron realizados por más de la mitad de los miembros
+         presentes, pero menos de sus dos terceras partes, basta una mayoría simple de los miembros
+         presentes de la cámara de origen para insistir con la versión original.
+     b) Si los cambios en la cámara revisora fueron realizados por al menos los dos tercios de sus
+         miembros presentes, la cámara de origen sólo podrá insistir en su versión original con la
+         misma mayoría. Si reuniera un número menor de votos, prevalecerá la versión enviada por la
+         cámara revisora.
+
+
+26 Si bien el artículo no lo aclara, los reglamentos de ambas cámaras especifican que se registrará la mayoría con la que fue
+
+aprobada cada modificación o adición (art. 191 RHCDN y art. 177 RHSN, ambos artículos copiando el texto del acta del 26
+de octubre de 1995 firmada por los presidentes de ambas cámaras). Así, la cámara de origen podrá aceptar algunos
+cambios y rechazar otros, lo que es consistente con el art. 81 CN.
+27 Como se vio en la nota anterior, el art. 81 CN es compatible con que la cámara de origen acepte algunos cambios y
+
+rechace otros. En este caso, el texto sancionado por el Congreso no será ninguno de los aprobados originalmente por las
+cámaras, sino uno construido a partir de ambas versiones.
+28 La cámara tiene la opción de facto de no tratar el proyecto y dejar que venza su estado parlamentario. La Constitución
+
+sólo exige el tratamiento expreso en tiempo determinado de los proyectos provenientes de la iniciativa popular (art. 39
+CN).
+29 Salvo que se trate de una de las leyes para la que la Constitución exige una mayoría especial: en este caso, toda
+
+aprobación por cualquiera de las cámaras en cualquier instancia debe reunir la mayoría exigida. De lo contrario, el texto
+aprobado no habría sido “sancionado con la mayoría absoluta de la totalidad de los miembros de cada Cámara” (por
+ejemplo, art. 75 inc. 2°), sino que lo habría sido por sólo una de ellas (la otra habría prestado tal mayoría para otro texto,
+pero no para el finalmente aprobado).
+
+
+                                                              8
+
+[[PDF p. 9]]
+Así, la cámara de origen cuenta con el privilegio de decidir la versión definitiva de la ley en los casos
+en los que ambas cámaras reunieran el mismo tipo de mayoría.
+
+
+IV.- Quórum
+Al ser un cuerpo colegiado, el Congreso de la Nación funciona necesariamente sobre la base de
+la existencia o no de quórum para sesionar, es decir, la presencia del mínimo indispensable de
+legisladores para que cada una de las cámaras pueda ejercer el poder que le confiere la
+Constitución.
+El principio general lo establece el artículo 64, cuando dice que ninguna de las cámaras "entrará
+en sesión sin la mayoría absoluta de sus miembros; pero un número menor podrá compeler a los
+miembros ausentes a que concurran a las sesiones, en los términos y bajo las penas que cada
+Cámara establecerá". La doctrina nacional se ha ocupado de definir de qué se trata esa mayoría
+absoluta: mientras algunos sostienen que debe leerse como más de la mitad otros sostienen que
+es la mitad más uno. La mayoría parece inclinarse por la primera opción.30
+La diferencia es significativa si la suma de los miembros de la cámara da un número impar:
+mientras más de la mitad de --por ejemplo-- 187 es 94, la mitad más uno de 187 es 95.31 Explica
+Bidegain:
+         "Aplicada a reuniones de personas que totalizan un número par, la 'mitad más uno' da el
+         mismo resultado que 'más de la mitad'. Pero cuando ese total da un número impar, aquella
+         fórmula se torna de imposible aplicación porque, por ejemplo, la mitad más uno de 51 es
+         26 y medio. Como no hay 'medias personas', la mitad más uno debe transformarse en 'la
+         mitad más medio' o 'la mitad más uno y medio', aplicándose en la práctica esta última
+         solución, lo que hace que e quórum de 51 sea 27 y no 26 como resulta por aplicación de
+         la fórmula 'más de la mitad' ".32
+Cabe señalar que sobre el punto los reglamentos de las cámaras también difieren: mientras el
+artículo 15 del reglamento de Diputados establece que la mayoría absoluta es "cuando los
+miembros presentes superen a los miembros ausentes"; el artículo 16 del reglamento del Senado
+habla de la "mayoria absoluta del numero constitucional de senadores". De todas formas, como
+la composición del Senado es un número par (72) en la práctica no hay diferencias entre las
+cámaras.
+El quórum es indispensable para declarar abierta la sesión y debe mantenerse durante le curso de
+la misma, pero en la práctica sólo es importante que haya quórum al momento de la votación.33
+El quórum que exige la constitución para sesionar es usualmente utilizado como una herramienta
+política de la minoría para obtener concesiones de la mayoría o primera minoría: en muchas
+ocasiones, sin la presencia de la oposición política el Congreso no puede funcionar ya que el
+oficialismo carece del número suficiente de legisladores para conformar lo que usualmente se
+
+30       Bidart Campos, El Derecho Constitucional Del Poder, 2:261–62; Bidegain, Cuadernos Del Curso de Derecho
+Constitucional, 4:73; Gelli, Constitución de La Nación Argentina, 503.
+31       El ejemplo está tomado de Bidart Campos, El Derecho Constitucional Del Poder, 2:262.
+32       Bidegain, Cuadernos Del Curso de Derecho Constitucional, 4:74.
+33       Ibid., 4:74.
+
+
+                                                           9
+
+[[PDF p. 10]]
+conoce como quórum propio. El artículo 64 parece establecer un remedio para el uso abusivo de
+ese poder de las minorías: la posibilidad de que los legisladores sean compelidos a concurrir por
+un número menor de legisladores. El reglamento del Senado autoriza a aplicar multas a los
+inasistentes en su artículo 29; el de Diputados permite a la minoría a acordar qué medios se
+utilizarán para la compulsión (artículo 26).
+Sin embargo, estos mecanismos de compulsión no son usualmente utilizados en la práctica
+contemporánea:34 dar o no dar quórum es una herramienta de negociación política: permite a las
+minorías cierto margen de maniobra para bloquear el funcionamiento del Congreso y obtener –
+gracias al ejercicio de ese poder o la amenaza de ejercerlo– ciertas concesiones por parte de los
+bloques mayoritarios que controlan las cámaras. Ello explica por qué la facultad de forzar la
+presencia de legisladores prevista en el artículo 64, y reflejada por los reglamentos de cada
+cámara, no se utiliza en la práctica: ello implicaría afectar las dinámicas políticas de negociación
+internas de cada cuerpo.
+Las cámaras también pueden reunirse en minoría, pero éstas no son técnicamente sesiones del
+Congreso, ya que por definición se trata de reuniones sin quórum. Como explica Bidegain, "las
+reuniones en minoría no tienen (...) relevancia jurídica alguna. Habitualmente se prolongan por
+corto tiempo, levantándose las actas correspondientes, con contenido, frecuentemente, sólo
+político".35
+
+V.- Deliberación
+En general, la doctrina nacional ha prestado poca atención a la cuestión de la deliberación como
+mecanismo de funcionamiento interno del Congreso. En efecto, el poder legislativo --como
+poder colegiado-- funciona sobre la base de un principio deliberativo con fuerte presencia en
+distintas partes de la Constitución. Podemos encontrarlo en el funcionamiento a través de
+sesiones, en la inmunidad de opinión garantizada por la Constitución, en la posibilidad de recibir
+explicaciones e informes, etcétera. El alcance de este principio en el derecho constitucional
+admite, sin embargo, distintas posibilidades. Una de ellas puede asumir que esa deliberación es
+un ideal regulativo pero aceptar que el Congreso funciona bajo premisas de negociación,
+deliberación de elites, a puertas cerradas, etcétera. Esta posición tiende a no asignar efectos
+jurídicos a los componentes deliberativos previstos en la Constitución.
+Una posición más ambiciosa puede asignar contenido específico al componente deliberativo,
+como hacía Nino en La Constitución de la democracia deliberativa.
+       "Quiero defender aquí una visión de la democracia según la cual se asigna un rol a la
+       negociación y a las manifestaciones de emociones, pero manteniendo para ellas un lugar
+       subordinado a la argumentación en la promoción del poder epistémico del proceso de
+       toma de decisiones mayoritarios. (...) Bajo esta visión del proceso democrático como un
+       sucedáneo de la práctica informal de discusión moral, se requiere que todo participante,
+       como sucede en esa práctica original, justifique sus propuestas frente a los demás. Si sus
+
+
+
+34     Ibid., 4:75.
+35     Ibid., 4:75.
+
+
+                                                10
+
+[[PDF p. 11]]
+       intereses son puestos sobre la mesa, ellos deben demostrar que son legítimos".36
+Esta posición asigna al proceso democrático un valor epistémico que supone necesariamente la
+deliberación y discusión de los asuntos públicos bajo reglas claras y precisas. Como explica
+Nino, debería haber "una apariencia prima facie de que la posición asumida en cuestión expresa
+una proposición normativa que podría ser aceptada desde un punto de vista imparcial ".37
+El principio deliberativo puede ser asumido como un ideal regulativo sin consecuencias
+prácticas. En otros países, sin embargo, los tribunales se han comprometido con el principio
+deliberativo de la Constitución y le han asignado consecuencias específicas. Por ejemplo, la
+Corte Constitucional de Colombia ha declarado la inconstitucionalidad de leyes que no han sido
+debidamente debatidas en el seno del parlamento por considerar, entre otras razones, que no ha
+habido "deliberación parlamentaria suficiente".
+       "La actividad legislativa consiste en la facultad reconocida en los regímenes
+       democráticos a los órganos representativos, de regular de manera general, impersonal y
+       abstracta, a través de la ley, los distintos supuestos de hecho relevantes para la obtención
+       de los fines esenciales del Estado. Esta facultad regulatoria, admite una gama amplia de
+       posibilidades, es decir, un mismo supuesto de hecho puede ser regulado de distintas
+       maneras, y la elección de la fórmula precisa que finalmente es recogida en la ley, es fruto
+       de variados factores, como lo son la particular concepción política mayoritaria en el
+       cuerpo legislativo, la influencia del pensamiento de las minorías que propicia fórmulas de
+       conciliación, las circunstancias históricas que ameritan adecuar las formas jurídicas a las
+       especificidades del momento, y otros factores que, como los anteriores, confluyen a
+       determinar las fórmulas de regulación jurídica que resultan ser las finalmente adoptadas.
+       En los regímenes democráticos, el mecanismo mediante el cual se llega a la formación y
+       determinación de la voluntad del legislador en cada fórmula legal concreta, debe estar
+       abierto a la confrontación de las diferentes corrientes de pensamiento que encuentran su
+       espacio en las corporaciones que ostentan esa representación popular. Por ello, las
+       distintas normas que tanto en la Constitución como en la Ley Orgánica del Reglamento
+       del Congreso regulan el trámite de la adopción de la ley, están dirigidas a permitir un
+       proceso en el cual puedan intervenir todas las corrientes mencionadas, y en el cual la
+       opción regulativa finalmente adoptada sea fruto de una ponderada reflexión. Por ello se
+       han previsto cuatro debates, dos a nivel de las comisiones del Congreso, y dos a nivel de
+       la plenaria de cada Cámara (Art. 157 C.P.), lo cual permite, de un lado, que las
+       propuestas sean estudiadas y debatidas con la especialidad y puntualidad que ello
+       amerita, y de otro, que todo el universo de las opiniones representadas en el Congreso,
+       tenga la oportunidad real de incidir el la adopción final de ley. También por esto, la
+       posibilidad de introducir modificaciones a los proyectos que vienen de etapas anteriores
+       del trámite, reconocida por el segundo inciso del artículo 160 de la Constitución, es
+       propia de los regímenes que conceden amplia importancia a la efectividad del principio
+       democrático".38
+
+36     Carlos Santiago Nino, La Constitucion de La Democracia Deliberativa (Barcelona: Gedisa, 1996), 170–71.
+37     Ibid., 171.
+38     Cfr. Corte Constitucional de Colombia, Sentencia C-760 de 2001.
+
+
+                                                        11
+
+[[PDF p. 12]]
+Los tribunales argentinos, en general, no se han preocupado demasiado por considerar las
+características del trámite parlamentario a la hora de evaluar la constitucionalidad de las leyes.
+Pero el principio de deliberación parlamentaria suficiente que reconoce la Corte Constitucional
+colombiana podría ser de aplicación en el orden local, especialmente ante casos donde los
+proyectos de ley fueron discutidos apresuradamente y sin la debida participación de todos los
+sectores afectados por la norma en cuestión. La adopción de soluciones dialógicas es una
+tendencia novedosa de la Corte Suprema argentina que podría incluir este tipo de control entre su
+repertorio de remedios.39
+
+
+VI.- Votaciones y mayorías
+El proceso de deliberación en el Congreso culmina con votaciones que registran los cambios de
+preferencias producidos luego de la deliberación señalada en la sección anterior. Estas
+votaciones, desde hace algunos años, se registran nominalmente en cada cámara del Congreso.
+La regla básica es que para la aprobación de un proyecto se requiere la mayoría absoluta de los
+miembros presentes en número suficiente para formar quórum. Sin embargo, en algunos casos la
+Constitución exige mayorías agravadas, es decir, mayorías especiales para diferentes tipos de
+leyes y tiene sentido prestar atención a esas excepciones ya que revelan mucho respecto de la
+estructura de la Constitución y la importancia que ésta asigna a ciertas leyes por encima de otras.
+En ese sentido, las leyes que necesitan mayorías especiales reflejan decisiones de particular
+importancia que hacen --en general-- a las relaciones entre los poderes.
+
+VI.1. Mayoría de dos tercios:
+En estos casos la Constitución no aclara si se trata de una mayoría a considerar sobre los
+miembros presentes o sobre el total de los miembros de cada cámara. Se trata de los casos de
+declaración de necesidad de la reforma constitucional (artículo 30); corrección, remoción o
+exclusión de los integrantes de las cámaras (artículo 66); desafuero de los legisladores (artículo
+70); insistencia frente al veto presidencial (artículo 83).
+
+VI.2. Mayoría de dos tercios sobre los miembros presentes:
+Esta mayoría especial está reservada por la Constitución para la acusación de la cámara de
+Diputados y la condena de los Senadores en el ámbito del juicio político (artículos 53 y 59); para
+que la cámara pueda imponer su opinión sobre la otra (artículo 81); para la designación y
+remoción del Defensor del Pueblo (artículo 86).
+
+VI.3. Mayoría absoluta sobre el total:
+Esta mayoría está reservada para la sanción de la ley reglamentaria de la iniciativa popular de
+leyes (artículo 39); para la ley reglamentaria de la consulta popular (artículo 40); para la ley de
+coparticipación impositiva (artículo 75.2); para la ley que establezca o modifique asignaciones
+
+39       Roberto Gargarella, “Un Papel Renovado Para La Corte Suprema. Democracia E Interpretación Judicial de La
+Constitución.” in Teoría Y Crítica Del Derecho Constitucional: Democracia, ed. Roberto Gargarella et al., vol. 1 (Abeledo-
+Perrot, 2009), 149–72.
+
+
+                                                             12
+
+[[PDF p. 13]]
+específicas de recursos coparticipables (artículo 75.3); para las leyes que aprueben o denuncien
+tratados de integración con países de América Latina (artículo 75.24); para sancionar leyes
+electorales y de partidos políticos (artículo 77); para la delegación del tratamiento de una ley en
+una comisión (artículo 79); para la ley que reglamente la Auditoría General de la Nación
+(artículo 79), para la ley que reglamente el proceso especial en caso de veto parcial, delegación
+legislativa y decretos de necesidad y urgencia (artículos 80 y 99.3); para interpelar al jefe de
+gabinete (artículo 101); para la ley reglamentaria del Consejo de la Magistratura y del Jurado de
+Enjuiciamiento de Magistrados (artículos 114 y 115) de la Constitución.
+
+VI.4. Mayoría de dos tercios sobre el total:
+Esta mayoría --que es la máxima exigida por la Constitución-- se reserva para el otorgamiento de
+jerarquía constitucional a ciertos tratados o la renuncia de aquellos que tienen ese carácter
+(artículo 75.22). También se incluye dentro de esta categoría a la declaración de la necesidad de
+la reforma constitucional, tal como lo establece el artículo 30 de la Constitución.
+
+En general, las mayorías especiales previstas por la Constitución tienen por objeto evitar que
+ciertas normas consideradas de especial importancia por la Constitución sean sancionadas por
+mayorías simples que pueden presumirse circunstanciales. Al exigir mayorías especiales se busca
+un mayor consenso en torno a normas que tienen una importancia estructural (de integración, de
+coparticipación de impuestos, régimen electoral, etcétera) o que son relevantes para el ejercicio
+de facultades en principio excepcionales (remoción de legisladores, desafuero, reforma
+constitucional, etcétera). Las mayorías diferenciadas de la Constitución tienen por objeto
+establecer incentivos que apuntan a una mayor deliberación interna y al logro de consensos
+ampliados respecto de cuestiones que la Constitución valora especialmente.
+
+
+VII.- El veto
+Una vez aprobado el proyecto de ley por el Congreso, pasa al Poder Ejecutivo para su
+promulgación, que puede adoptar las formas que estudiaremos en el capítulo siguiente. La alternativa
+a la promulgación por parte del presidente es el veto del proyecto de ley (para el cual la Constitución
+utiliza el término “observación”). Así, el procedimiento legislativo argentino exige en general la
+conformidad del Poder Ejecutivo para que un proyecto sea finalmente ley vigente.
+
+VII.1. Veto total e insistencia legislativa
+El art. 83 CN (idéntico al art. 72 anterior a la reforma de 1994) regula el veto en los siguientes
+términos: “Desechado en el todo o en parte un proyecto por el Poder Ejecutivo, vuelve con sus objeciones a la Cámara
+de su origen: ésta lo discute de nuevo, y si lo confirma por mayoría de dos tercios de votos, pasa otra vez a la Cámara
+de revisión. Si ambas Cámaras lo sancionan por igual mayoría, el proyecto es ley y pasa al Poder Ejecutivo para su
+promulgación. Las votaciones de ambas Cámaras serán en este caso nominales, por sí o por no; y tanto los nombres y
+fundamentos de los sufragantes, como las objeciones del Poder Ejecutivo, se publicarán inmediatamente por la prensa.
+Si las Cámaras difieren sobre las objeciones, el proyecto no podrá repetirse en las sesiones de aquel año.”
+El veto presidencial puede recaer sobre (casi) cualquier proyecto de ley y es una facultad irrevisable
+por los jueces. La Constitución no prevé ninguna condición para su ejercicio, por lo que puede ser
+
+
+                                                         13
+
+[[PDF p. 14]]
+ejercido a discreción del Poder Ejecutivo con la sola limitación de que debe ser un acto motivado.
+Las únicas excepciones expresas de la Constitución argentina a la facultad presidencial de ejercer el
+veto están dadas por el art. 40, que regula la consulta popular. Así, según ese artículo, la ley que
+convoca a una consulta popular vinculante no puede ser vetada por el Ejecutivo. Al mismo tiempo,
+el “voto afirmativo del proyecto por el pueblo de la Nación lo convertirá en ley y su promulgación será automática”.
+Esta automaticidad en la promulgación implica la imposibilidad de ejercer el veto. Por supuesto,
+tampoco pueden ser vetados los actos del Congreso que no sean emitidos en la forma de leyes40. Si
+bien la Constitución no prevé otras excepciones, cierto sector de la doctrina las ha propuesto41. Por
+nuestra parte, si bien creemos que si bien convendría reducir el alcance de esta facultad presidencial
+en futuras reformas42, no hay elementos en nuestra Constitución vigente para establecer excepciones
+a la posibilidad de ejercer el veto sobre ningún tipo de ley además de las expresamente previstas por
+la Constitución.
+
+VII.2. Veto parcial
+Cabe hacer una aclaración acerca de la posibilidad de observar “en todo o en parte” un proyecto de ley.
+Si bien la reforma de 1994 (y antes que ella, la jurisprudencia) reconoce en ciertas condiciones la
+posibilidad de promulgar parcialmente la parte no observada de un proyecto de ley, el veto parcial
+no implica necesariamente la promulgación parcial: puede tenerse el uno sin la otra.
+Esto fue observado por la Corte Suprema en el precedente “Giulitta”43 de 1941, en el que el actor
+pretendía que se le aplicara el artículo de una ley que había sido vetada por el Poder Ejecutivo al
+tiempo que había promulgado la parte no vetada. Allí, la Corte afirmó que la facultad presidencial de
+vetar parcialmente un proyecto de ley era indiscutible, ya que estaba expresamente prevista en la
+Constitución. En todo caso, podría existir alguna duda sobre la posibilidad de promulgar
+parcialmente la parte no vetada. Sin embargo, en un caso así sólo quien se viera afectado por la parte
+parcialmente promulgada (y no por la parte parcialmente vetada) tendría acción, ya que lo discutido
+es la promulgación y no el veto.
+Según la Corte en este fallo, tanto si el veto es total como si es parcial, el proyecto de ley vuelve a la
+cámara de origen a fin de retomar su discusión. En el caso del veto parcial, si ambas cámaras
+estuvieran de acuerdo con las observaciones del Poder Ejecutivo podrían devolvérselo, entendemos
+que para su promulgación.
+Por otra parte, si el Ejecutivo se abstiene de promulgar la parte no observada, no existe tampoco
+ninguna limitación a la extensión del veto parcial: la Constitución no exige, para que sea válido, que
+no vulnere el espíritu de la norma o que exista autonomía normativa.
+El art. 83 CN prevé, para los casos de veto total o parcial, que (todo) el proyecto es devuelto a su
+cámara de origen, donde vuelve a discutirse. Si es aprobado por los dos tercios de los miembros
+presentes en ambas cámaras, queda definitivamente sancionado y no puede ser vetado de nuevo. El
+
+40 Así, por ejemplo, el tratamiento legislativo de los decretos de necesidad y urgencia, de la legislación delegada y de los
+
+decretos de promulgación parcial se realiza mediante “sendas resoluciones” de las cámaras, por lo que no pasa al Poder
+Ejecutivo para su promulgación. La declaración de la necesidad de reforma constitucional puede ser considerada uno de
+estos actos si no es ejercida en forma de ley (véase en este volumen el artículo de Juan Ignacio Sáenz acerca de la reforma
+constitucional).
+41 Bidart Campos sostiene que los actos que no son materialmente legislativos, aunque sean emitidos con forma de ley, no
+
+son susceptibles de veto (Manual de la Constitucion…, Tomo III, Cap. XXXVIII, par. 70).
+42 Por ejemplo, el art. 143 de la Constitución de Chubut y el art. 108 de la de Neuquén prevén la promulgación obligatoria
+
+de los proyectos de ley que son sancionados nuevamente dentro de los dos periodos legislativos siguientes a su veto.
+43 Fallos 189:156.
+
+
+
+                                                              14
+
+[[PDF p. 15]]
+Congreso, en esta etapa del trámite, no puede introducir nuevos cambios al proyecto: tiene una
+opción binaria entre aceptar las observaciones del Poder Ejecutivo o insistir en su versión original.
+
+VIII.- La promulgación: expresa, automática, tácita y parcial
+En la medida en que no se ejerza el veto presidencial, el proyecto de ley aprobado por el Congreso
+debe ser promulgado y publicado por el Poder Ejecutivo para ser ley. Mientras que sobre la
+publicación (prevista en el art. 99 inc. 3° CN) no existe mayor discusión, las diferentes instancias de
+promulgación merecen algún desarrollo.
+1.- La promulgación expresa
+Este supuesto, regulado por el art. 78 CN, consiste en la emisión expresa de un acto aprobatorio del
+Poder Ejecutivo, que declara promulgado el proyecto de ley y ordena su publicación.
+2.- La promulgación tácita:
+Según el art. 80 CN, “se reputa aprobado por el Poder Ejecutivo todo proyecto no devuelto en el término de diez
+días útiles”. El transcurso de este plazo, que es contado desde que el Poder Ejecutivo recibe el
+proyecto de ley aprobado por el Congreso, hace precluir la facultad presidencial de vetar el proyecto
+de ley. Por más que la ley promulgada tácitamente no haya sido publicada, sería ineficaz cualquier
+intento de vetar la ley una vez transcurrido este plazo.
+3.- La promulgación automática: Esta promulgación está prevista por el art. 40 CN para el resultado
+afirmativo de una consulta popular vinculante. Si bien la Constitución no hace ninguna aclaración al
+respecto, parecería que implica que se encuentra tácitamente promulgada desde el momento en que
+el resultado de la consulta es conocido. En los casos de proyectos de ley que no pueden vetarse
+(como la ley de convocatoria a consulta popular, también prevista en el artículo 40 CN, o la
+insistencia legislativa frente al veto, no se encuentra prevista la automaticidad de la promulgación,
+por lo que el Poder Ejecutivo conserva la opción de ejercer la promulgación expresa o permitir que
+opere la promulgación tácita.
+4.- La promulgación parcial:
+Según el art. 80 CN, las leyes parcialmente vetadas pueden ser promulgadas en su parte restante si las
+partes así promulgadas tienen “autonomía normativa” y no se altera el “espíritu de la norma”. Este es el
+supuesto más controvertido de promulgación presidencial. Le dedicaremos el próximo apartado.
+
+IX.- La promulgación parcial de leyes
+IX.1.- Situación anterior a la reforma de 1994
+Como se mencionó, la Constitución de 1853/1860 reconoció desde un inicio la facultad de vetar
+parcialmente proyectos de ley. Lo que se discutió a partir del ya citado precedente “Giulitta” de 1941
+es la posibilidad de que el Poder Ejecutivo promulgara parcialmente la parte no vetada: “existe veto
+parcial en nuestro régimen constitucional y lo único de que puede hacerse cuestión es sobre saber si, en tal hipótesis el
+[Poder Ejecutivo] puede promulgar la parte no objetada de la ley enviando a la Cámara de origen sólo la parte del
+proyecto de ley que ha merecido la observación”.44
+Así, mientras en Giulitta la Corte rechazó el planteo por una cuestión de legitimación, recién en
+“Colella” (de 1967) la Corte por primera vez aceptó revisar la constitucionalidad de la promulgación
+parcial de una ley. Decidió la inconstitucionalidad de la promulgación parcial de una ley que, tal
+como había sido enviada por el Congreso, reglamentaba de forma completa el contrato de trabajo en
+sesenta y dos artículos. Sin embargo, el Poder Ejecutivo había promulgado únicamente las normas
+
+
+44 “Ornecio A. Giulitta y otros v. Nación Argentina”, Fallos 189:156.
+
+
+
+                                                             15
+
+[[PDF p. 16]]
+relativas a la extinción del contrato y a las indemnizaciones correspondientes (sólo cuatro artículos).
+La Corte, si bien aclaró expresamente que no deseaba emitir un juicio general acerca de la
+promulgación parcial de las leyes, consideró que en el caso concreto el proyecto parcialmente vetado
+“constituía un todo inescindible, de modo que las normas no promulgadas no han podido separarse del texto total sin
+detrimento de la unidad de éste. Como regla, las disposiciones que componen una ley están vinculadas entre sí. No cabe
+asegurar, pues, que el Congreso hubiera sancionado el proyecto en caso de excluirse algunas de sus normas capitales.
+De ahí que el Poder Ejecutivo no pudo, en su momento, proceder como procedió, sin invadir atribuciones propias del
+Congreso Nacional y sin asumir, en la especie, la calidad de legislador.”
+Es decir, ya en este precedente la Corte no descartaba la posibilidad de la promulgación parcial de
+una ley, contrario sensu, si no se afectaba la unidad del proyecto o si pudiera asegurarse que el
+Congreso lo hubiera sancionado aun excluyendo las normas vetadas.
+Un estándar similar fue utilizado en los fallos “Servicio Nacional de Parques Nacionales c/ Franzini”45,
+“Cacace, Josefa”46 y “Bustos, Julio O. c/ Servicios Especiales San Antonio S. A.”47. Ambos casos, si bien
+fueron resueltos después de la reforma de 1994, versaban sobre promulgaciones parciales realizadas
+bajo el régimen constitucional anterior. En estos casos, la Corte mantuvo el criterio de “Colella”,
+validando aquellas promulgaciones parciales en las cuales las partes observadas puedan escindirse del
+texto del proyecto sancionado por el Congreso sin alterar el objeto central de la norma.
+
+IX.2.- La regulación de la promulgación parcial en la reforma de 1994
+El criterio sentado en “Colella” encontró su consagración constitucional en la reforma de 1994. Al
+igual que lo que ocurre con la facultad de dictar decretos de necesidad y urgencia o de delegar
+facultades legislativas, la Constitución comienza por prohibir con carácter general la promulgación
+parcial de leyes por parte del Poder Ejecutivo para luego establecer una excepción. Así, según el art.
+80 CN, los “proyectos desechados parcialmente no podrán ser aprobados en la parte restante.” Sin embargo, a
+continuación de esta norma aparentemente terminante, llega la excepción: “las partes no observadas
+solamente podrán ser promulgadas si tienen autonomía normativa y su aprobación parcial no altera el espíritu ni la
+unidad del proyecto sancionado por el Congreso”.
+El alcance del concepto de “autonomía normativa” no parece traer grandes complicaciones: significa
+que la parte promulgada pueda sostenerse por sí misma. Parece ser, además de una condición de
+validez, una condición de eficacia de la ley parcialmente promulgada. Los conceptos del “espíritu y la
+unidad del proyecto” son más esquivos. Una primera aproximación, más tradicional en el razonamiento
+jurídico, indica que se debe atender a la intención perseguida por el Congreso al sancionar la norma.
+Sin embargo, como ilustra el siguiente caso, la unidad del proyecto no se identifica con la intención
+real o presunta de quienes sancionaron el proyecto de ley en cuestión.
+Un caso elocuente acerca la “unidad” de un proyecto de ley es “Famyl S.A.”. En este caso, el proyecto
+de ley registrado como 25.063 tenía dos artículos sucesivos: uno que eliminaba la exención de IVA
+que beneficiaba a los servicios brindados por las empresas de medicina prepaga y otro que establecía
+una alícuota preferencial dicho servicio (de la mitad de la alícuota general). El Poder Ejecutivo había
+vetado el artículo que disponía la alícuota preferencial, promulgando el resto de la ley, incluyendo el
+que derogaba la exención. Así, ahora la medicina prepaga estaría sujeta a IVA sin alícuota
+preferencial alguna.
+Este parece un ejemplo claro de cuándo la promulgación parcial de una ley viola la unidad de un
+
+45 Fallos 318:445, cons. 7º del voto de la mayoría y 9º de la disidencia del juez Fayt.
+46 Fallos 318:1887.
+47 Fallos 319:1479, cons. 3º del voto de la mayoría y de la disidencia del juez Petracchi
+
+
+
+                                                              16
+
+[[PDF p. 17]]
+proyecto. En el caso, la ley derogaba una exención impositiva y, a cambio, preveía una alícuota más
+beneficiosa para quienes antes se encontraban exentos48. Las dos normas estaban destinadas a
+regular la situación de los mismos contribuyentes y, en ese sentido, conformaban un todo
+inescindible, en los términos de la doctrina de la Corte. En consecuencia, la Corte confirmó la
+inconstitucionalidad de los artículos del decreto que observaban esta alícuota especial y aprobaban la
+promulgación de la ley en tanto derogaban la exención.
+En “Ministerio de Cultura y Educación” (2008), la Corte validó la promulgación parcial de la Ley 24.521
+de Educación Superior. En este caso, los fragmentos observados eran claramente accesorios a la
+materia de regulación. Sin embargo, la Corte se limitó a ratificar la doctrina “Colella”, afirmando que
+la promulgación parcial “no ha afectado la autonomía normativa y ha dejado inalterado el objeto central de la ley,
+toda vez que, en lo que interesa en el sub lite, los aspectos observados han podido escindirse del texto del proyecto total
+sancionado por el Congreso, sin detrimento de aquél”49. La jurisprudencia aún no ha delineado de modo
+preciso los conceptos del “espíritu y la unidad del proyecto”.
+María Angélica Gelli sostiene que la “unidad” del proyecto que la promulgación parcial no puede
+violar es también una unidad política: “el acuerdo general a que llegaron los legisladores aprobando unas
+disposiciones, porque al mismo tiempo se sancionaban otras, aunque éstas y aquéllas pudieran dividirse
+jurídicamente”50. Han existido varios casos en que legisladores han denunciado que el Poder Ejecutivo
+había promulgado parcialmente proyectos observado las disposiciones que habían sido,
+precisamente, condiciones para el acompañamiento legislativo. Así ocurrió, por ejemplo, con el
+decreto 825/2011 mediante el cual se promulgó parcialmente la ley 26.683, que reformaba el
+régimen de prevención y sanción del lavado de activos. Algunos legisladores denunciaron que
+habían logrado la mayoría en la Cámara de Diputados justamente exigiendo la incorporación de un
+artículo que prohibiera a la Unidad de Información Financiera actuar como querellante, que fue
+precisamente el artículo observado por el Poder Ejecutivo51. Algo similar había ocurrido en 2009 con
+la promulgación parcial de la Ley 26.571 de Reforma Política: el apoyo de algunos partidos chicos
+había sido necesario para obtener la mayoría calificada necesaria para legislar en materia electoral. Sin
+embargo, para esto habían solicitado la postergación de la entrada en vigencia del nuevo régimen,
+que fue precisamente el artículo que el Poder Ejecutivo vetó al promulgar parcialmente la ley52.
+Creemos que el criterio de Gelli es correcto. Sin embargo, es poco menos que imposible para el juez
+conocer el resultado del ejercicio contrafáctico de pensar en qué habría pasado si los legisladores
+hubieran sabido que tal o cual parte del proyecto sería vetada. Tal vez efectivamente la inclusión de
+un artículo luego vetado fue esencial para lograr el apoyo de un bloque político, pero tal vez la
+inclusión de ese mismo artículo fue determinante para que otro bloque lo rechazara. Quienes sí
+pueden evaluar la violación a la unidad política del proyecto son los propios legisladores, a quienes la
+Constitución otorga el control de los decretos de promulgación parcial de leyes.
+
+
+48 El caso también es elocuente acerca de la dificultad de apelar a la intención del legislador como parámetro para evaluar
+
+el respeto por el “espíritu” del proyecto: en este caso, en el que la nueva alícuota está exactamente a mitad de camino
+entre la exención de la que gozaba y la alícuota general, ¿fue la intención del legislador mantener el trato preferencial o
+eliminarlo? No es posible encontrar una respuesta fuera de la psicología de los legisladores.
+49 Fallos 331:1123, cons. 7°.
+50 Gelli, obra citada, pág. 767.
+51 “El Gobierno vetó un artículo de la ley antilavado”, Diario Infobae del 21 de junio de 2011, disponible en
+
+www.infobae.com/2011/06/21/588976/el-gobierno-veto-un-articulo-ley-antilavado
+52 “La CC rechazó la validez del veto parcial de la ley de reforma política”, en Parlamentario.com del 30/12/2009,
+
+disponible en www.parlamentario.com/noticia-26119.html
+
+
+                                                             17
+
+[[PDF p. 18]]
+IX.3.- El control del Congreso
+El art. 80 CN dispone que en los casos de promulgación parcial de leyes “será de aplicación el
+procedimiento previsto para los decretos de necesidad y urgencia. Al mismo tiempo, el art. 83 CN mantiene el
+procedimiento de la insistencia legislativa para proyectos que son desechados “en todo o en parte”. Se
+trata de dos procedimientos diferentes: el que sigue al dictado de un decreto de necesidad y urgencia
+es un trámite expedito (dictamen de la comisión bicameral prevista en el art. 99 inc. 3 CN, que
+desemboca en la aprobación o rechazo de las cámaras mediante sendas resoluciones), mientras que
+el de insistencia es idéntico al de sanción de una ley (tratamiento en comisiones, giros entre cámaras,
+etc.), y de hecho culmina en una ley formal.
+Si bien ciertos autores consideran que el art. 80 in fine, en cuanto remite a las normas relativas a los
+decretos de necesidad y urgencia, carece de sentido53, creemos que no es así. En efecto, si el veto
+parcial y la promulgación parcial son conceptualmente distinguibles, es lógicamente posible
+asignarles procedimientos paralelos y diferentes54 –por más que podamos pensar en diseños más
+convenientes distintos a los que se pensaron en nuestra Constitución.
+El art. 80 remite al procedimiento previsto en el art. 99 inc. 3° (para decretos de necesidad y
+urgencia) para el caso de proyectos de ley promulgados parcialmente, procurando que sea el
+Congreso –mediante un trámite expedito- quien revise y otorgue referendo final a aquello que el
+Poder Ejecutivo ha aprobado en una parte y vetado en otra
+En cambio, la insistencia prevista en el art. 83 se refiere precisamente a la parte vetada, que requiere
+un re-tratamiento legislativo.
+Siempre que exista veto, sea total o parcial, el proyecto debe ser enviado a su cámara de origen. Si
+ambas cámaras insisten con las dos terceras partes de sus miembros (presentes), el proyecto es
+sancionado nuevamente y enviado al Poder Ejecutivo para su promulgación. Dado que la
+Constitución no condiciona de ningún modo el ejercicio del veto, sino que es un acto de voluntad
+fundada del Poder Ejecutivo, tampoco el Poder Legislativo tiene que dar más razones para su
+insistencia que la voluntad política de hacerlo.
+Distinto es el caso de la promulgación parcial. En estos casos, dice el art. 80 CN, se aplicará el
+mismo procedimiento que para los decretos de necesidad y urgencia. Es decir, “el jefe de gabinete de
+ministros personalmente y dentro de los diez días someterá la medida a consideración de la Comisión Bicameral
+Permanente, cuya composición deberá respetar la proporción de las representaciones políticas de cada Cámara. Esta
+comisión elevará su despacho en un plazo de diez días al plenario de cada Cámara para su expreso tratamiento, el que
+de inmediato considerarán las Cámaras. Una ley especial sancionada con la mayoría absoluta de la totalidad de los
+miembros de cada Cámara regulará el trámite y los alcances de la intervención del Congreso”.
+Si bien la cuestión del tratamiento legislativo de los decretos de necesidad y urgencia es abordado en
+otra parte de esta obra55, es pertinente hacer algunas observaciones. Según el art. 14 de la Ley 26.122,
+que regula el funcionamiento de la comisión, ésta debe expedirse acerca de la validez del decreto de
+promulgación parcial. Es decir, sólo puede evaluar si la parte promulgada tiene “autonomía
+normativa” y si afecta “el espíritu o la unidad del proyecto”. Corroborando esto, el art. 23 agrega que
+
+53 Sagüés, obra citada, pág. 528.
+
+54 De hecho, lógicamente podría ocurrir que ambos procedimientos arrojaran resultados diferentes sin que haya
+
+contradicción lógica. El Congreso podría considerar que la promulgación parcial fue válida, pero in embargo insistir en su
+voluntad política de promulgar el proyecto original. También, dado que las mayorías necesarias para ambos
+procedimientos son diferentes, podría considerar que la promulgación parcial fue inválida, pero no insistir en el proyecto
+original.
+55 Véase en este tomo el artículo sobre facultades normativas del Poder Ejecutivo de Juan Ignacio Sáenz,
+
+
+
+
+                                                           18
+
+[[PDF p. 19]]
+las Cámaras sólo pueden aceptar o rechazar la norma propuesta, sin poder realizarle modificaciones.
+El mismo artículo aclara que se necesitará la mayoría absoluta de los miembros presentes para
+hacerlo56.
+El primer punto problemático acerca de la cuestión de la aprobación o rechazo del decreto de
+promulgación parcial por parte del Congreso en el régimen legal actual es cuándo puede tenerse por
+configurado. Según el art. 22 de la Ley 26.122, las Cámaras deben expresar su rechazo o aprobación
+del decreto en cuestión mediante sendas resoluciones. Según el art. 24, “el rechazo por ambas Cámaras
+del Congreso del decreto de que se trate implica su derogación… quedando a salvo los derechos adquiridos durante su
+vigencia”.
+Por otra parte, según la ley vigente las Cámaras deben limitarse a evaluar si el decreto de
+promulgación parcial cumplió con sus condiciones de validez (art. 14): que la parte promulgada
+tenga “autonomía normativa” y no altere “la unidad y el espíritu del proyecto”. Es todo cuanto dice la Ley
+26.122 acerca de la aprobación o rechazo del decreto por parte del Poder Legislativo. De modo
+expreso, el decreto se encuentra rechazado cuando ambas cámaras lo rechazan. Contrario sensu, la sólo
+la aprobación expresa por parte de ambas Cámaras implica su aprobación por parte del Congreso.
+Queda por ver qué ocurre en todos los demás casos: cuando una de las cámaras lo aprueba y la otra
+lo rechaza, o cuando una de las cámaras aún no se ha expedido.
+Según el art. 24 citado, mientras ambas Cámaras no rechacen decreto, éste permanece vigente. Por
+otra parte, el art. 82 CN afirma que “la voluntad de cada Cámara debe manifestarse expresamente; se excluye,
+en todos los casos, la sanción tácita o ficta”. Este artículo imposibilita entender que la falta de tratamiento
+del decreto implique su aceptación. También impide que el mero paso del tiempo haga caducar el
+tratamiento de uno de estos decretos57, ya que esto implicaría su aprobación tácita, dado que la Ley
+26.122 prevé que los decretos continúan vigentes mientras no sean rechazados.
+Por último, es claro que no puede asignarse una voluntad al Congreso si ambas cámaras se
+expidieron en sentido contrario. No sólo sería constitucionalmente dudoso, sino que la Ley 26.122
+no lo hace: en ningún momento dice que la aprobación de una sola de las Cámaras implique la
+aprobación del Congreso.
+Así, en el régimen legal vigente, sólo puede tenerse por configurada la voluntad del Congreso, tanto
+para su aprobación como para su rechazo, cuando ambas cámaras se expresan en el mismo sentido. 58
+En cualquiera de los otros casos, si bien el juez podrá tener en cuenta lo expresado por alguna de las
+cámaras, no ha culminado aún su tratamiento legislativo.
+
+IX.4.- Efectos del tratamiento del Congreso
+Si el Congreso ha declarado la validez de la promulgación parcial, ¿es revisable judicialmente esta
+consideración? No creemos que exista una regla absoluta para responder a esta pregunta. Sin
+embargo, cabe diferenciar entre las dos condiciones que impone la Constitución a la promulgación
+parcial de leyes.
+La autonomía normativa de la parte promulgada es una cuestión que puede revelarse con mayor
+claridad en la etapa de aplicación de la ley que en la de su sanción. Así como la declaración judicial
+56 Por su parte, el art. 15 de la ley 26.122 aclara que sus procedimientos “no obstan al ejercicio por el Congreso de sus
+
+potestades ordinarias relativas a la insistencia respecto de normas legales total o parcialmente vetadas”. Ello significa, en
+línea con lo explicado antes, que el Congreso bien puede por insistir con el todo del proyecto de ley originariamente
+aprobado, independientemente de lo que haga por el procedimiento de los DNU la porción (parcialmente) promulgada.
+57 Así, los decretos enviados por el Poder Ejecutivo a la Comisión Bicamenral no están sujetos a los plazos de caducidad de
+
+la Ley 13.640, ya que esto implicaría su convalidación tácita.
+58 Esto no significa que pueda haber regímenes legales que consagren soluciones diferentes.
+
+
+
+
+                                                            19
+
+[[PDF p. 20]]
+de inconstitucionalidad puede decidirse sobre aspectos sustantivos no tenidos en cuenta al momento
+de la sanción de la ley, esto puede ocurrir también al evaluar que la parte promulgada carecía de
+alguna de las partes del proyecto que completaban su autonomía normativa. De todos modos, es un
+caso que puede ser considerado poco frecuente.
+La cuestión del “espíritu y unidad del proyecto” es diferente: si estos elementos están dados por la
+voluntad presunta o psicológica de los legisladores, éstos son jueces especialmente competentes para
+evaluar con un amplio margen si el Poder Ejecutivo los respetó. Así, los jueces deben ser
+especialmente deferentes con esta decisión. Sin embargo, ésta no es una regla absoluta. Por ejemplo,
+en los casos en los que la Constitución regula un régimen legislativo especial (por ejemplo, mayorías
+especiales), los jueces deben tener en cuenta el especial énfasis que el constituyente otorgó al
+consenso parlamentario en esos asuntos.
+Cuando el tratamiento legislativo de la promulgación parcial no ha concluido, el juez debe evaluar
+estos elementos por sí mismo, ya que no habrá voluntad legislativa a la que guardar deferencia. Por
+el contrario, la única voluntad legislativa expresada habrá sido la del Congreso que sancionó la
+norma parcialmente promulgada.
+Cuando el tratamiento legislativo ha concluido con el rechazo de la promulgación parcial, el decreto
+de promulgación debe considerarse derogado (art. 24 de la Ley 26.122). ¿Qué puede significar esto?
+Una vez que un proyecto de ley fue vetado o promulgado, el decreto a través del cual el Poder
+Ejecutivo lo hizo no puede ser derogado, ya que agotó sus efectos. El art. 24, en su aplicación a la
+promulgación parcial de leyes, sólo puede significar que es la ley parcialmente promulgada la que es
+derogada. Sin embargo, el art. 24 también aclara que quedan a salvo los derechos adquiridos durante
+su vigencia. Un respeto literal y absoluto de esta cláusula llevaría a un resultado paradójico: los
+derechos adquiridos durante la vigencia de estos decretos sufrirían de una precariedad extrema
+mientras el Congreso no los haya tratado, ¡pero quedarían a salvo con su derogación! La derogación
+por parte del Congreso, sea por la vía legislativa tradicional o por el procedimiento de la Ley 26.122
+nunca puede significar la convalidación posterior de un decreto inconstitucional. En todo caso,
+podrá quedar derogado erga omnes a partir de la fecha del rechazo legislativo, pero eso no impedirá al
+juez ejercer el control de constitucionalidad declarando la nulidad de la norma en casos concretos
+anteriores a esa derogación.
+Por supuesto, ya fuera del régimen de la Ley 26.122, el Congreso conserva un amplio margen para
+regular el régimen de los decretos de promulgación parcial, siempre y cuando no establezca que los
+aprueba tácitamente por su silencio, en virtud de art. 82 CN. No habría, en cambio, obstáculo
+constitucional para que ante el silencio del Congreso o la desaprobación de una sola de las cámaras
+se considerara rechazado el decreto. En efecto, la aprobación y el rechazo no son actos simétricos:
+mediante la aprobación del los decretos de promulgación parcial de normas, el Congreso está
+convalidando una invasión a sus facultades. Impedir la convalidación tácita de decretos
+presidenciales materialmente legislativos fue, además, la intención explícita de los convencionales de
+1994 al sancionar el art. 82. Sería razonable entonces que una futura ley reglamentaria del
+tratamiento legislativo de los decretos estableciera requisitos más estrictos para la aprobación del
+Congreso que para su rechazo.
+Tampoco habría obstáculo, por otra parte, en el este procedimiento previera la declaración de
+nulidad de los decretos de promulgación parcial: si la propia Constitución otorga al Congreso a
+facultad de revisar las condiciones de validez de su dictado, es perfectamente lógico que si el
+Congreso considera que el decreto fue dictado en violación de sus requisitos sea inválido con
+carácter erga omnes.
+
+
+                                                 20
+
+[[PDF p. 21]]
+Por último, tampoco existiría inconveniente en una eventual regulación futura con que el Congreso,
+al declarar la invalidez del decreto de promulgación parcial dé por sancionado nuevamente el
+proyecto parcialmente vetado, dando al Presidente nuevamente la posibilidad de vetar el proyecto de
+modo total59.
+
+IX.5 Efectos de la declaración de inconstitucionalidad
+Según la visión tradicional, la promulgación forma parte de la concurrencia de voluntades entre los
+Poderes Legislativo y Ejecutivo que se requiere para la sanción de una ley. Si la promulgación es
+nula, por ejemplo por violar el art. 80 CN, la ausencia de promulgación implica que no se completó
+el proceso de sanción de la ley. Por lo tanto, la invalidez de la promulgación acarrea, en general, la
+inexistencia de la ley.
+Este ha sido el sentido que se le dio unánimemente antes de la reforma de 1994. Así, en el citado
+“Giulitta” de 1941, la Corte rechazó el planteo del actor por estar basado en uno de los artículos que
+había sido vetado por el Poder Ejecutivo. Dado que la facultad del Presidente de ejercer el veto
+(total o parcial) era indiscutible, era imposible para el actor resucitar el artículo vetado. En todo caso,
+quien se viera afectado por los artículos promulgados podría intentar conseguir la nulidad de dicha
+promulgación. La Corte ratificó este criterio en “Colella”, estaba vez sí ejerciendo el control de
+constitucionalidad e invalidando el decreto de promulgación parcial por violar la unidad del
+proyecto: “para que un proyecto se convierta en ley nuestra Constitución exige, no sólo que se sancione por el
+Congreso sino también que lo promulgue el Presidente de la República. Si esto último no ocurre porque la
+promulgación falta en absoluto o porque la promulgación es inválida, no existe ley; y en tal caso claro está que nadie
+podría fundar derechos en una ley inexistente”60.
+Este criterio fue ratificado por la mayoría de la Corte bajo el imperio del texto constitucional de
+1994 en el también citado “Famyl”. En este caso, como se recordará, el proyecto de ley registrado
+como 25.063 tenía dos artículos sucesivos: uno que eliminaba la exención de IVA que beneficiaba a
+las empresas de medicina prepaga y otro que establecía una alícuota preferencial dicho servicio. El
+Poder Ejecutivo había promulgado únicamente el primero de ellos. Así, ahora la medicina prepaga
+estaría sujeta a IVA sin alícuota preferencial alguna. La consecuencia de la nulidad de la
+promulgación parcial, en este caso, fue la declaración de inconstitucionalidad del artículo
+promulgado: las empresas de medicina prepaga continuarían estando exentas. Sólo el juez Vázquez,
+en disidencia, sostuvo que en todo caso la consecuencia debió haber sido la nulidad del veto parcial y
+por lo tanto la vigencia de ambos artículos.
+Una disidencia similar se planteó en el también citado “Ministerio de Cultura y Educación”. En este caso,
+la mayoría de la Corte declaró que la promulgación parcial cumplía con los requisitos del art. 80 CN.
+Sin embargo, los jueces Argibay, Petracchi y Zaffaroni rechazan entender en la cuestión por falta de
+conexión directa entre la cuestión federal invocada y la resolución del caso. Así, estos jueces
+entienden que en caso de prosperar la impugnación a la promulgación parcial, todo lo que ocurriría
+es que la ley sancionada por el Congreso permanecería vigente, sin las observaciones del Poder
+Ejecutivo. Así, para estos tres jueces, la eventual declaración de inconstitucionalidad recaería sobre el
+veto parcial y no sobre la promulgación parcial.
+
+59 Esto se diferenciaría de la insistencia legislativa en dos puntos. Por una parte, un proyecto sobre el que se insiste ya no
+
+puede ser vetado. Por otra parte, el Congreso podría dar por sancionado el proyecto nuevamente sólo si la parte
+promulgada carece de autonomía normativa o altera el espíritu o la unidad del proyecto (a diferencia de la insistencia,
+que es una simple manifestación de la voluntad legislativa).
+60 “Colella” cons. 6°.
+
+
+
+
+                                                              21
+
+[[PDF p. 22]]
+Tampoco parece haber una regla general para resolver estos casos. El juez Petracchi en “Bustos” da
+una pista de lo que podría ser una solución razonable para entender cuál es la situación normativa
+posterior a la declaración de inconstitucionalidad de la promulgación parcial. Sostiene Petracchi que
+“una promulgación parcial puede ser válida en determinado contexto e inválida en otros” y que “una cosa es la
+unidad de un proyecto y otra cosa, muy distinta, es que un proyecto sea sólo una unidad” 61. Compartimos el
+sentido de estas afirmaciones: en el momento de evaluar las consecuencias de la declaración de
+inconstitucionalidad de un decreto de promulgación parcial, el juez debe evaluar si existen unidades
+normativas enteras que no se encuentren cuestionadas y sobre las cuales haya existido coincidencia
+entre ambos poderes políticos. En estos casos, la eventual nulidad de la promulgación parcial
+afectaría únicamente a la unidad normativa que fue violada y no al resto de la ley parcialmente
+promulgada.
+
+X.- Facultades de las Cámaras: interpelación e investigación
+En esta sección analizaremos las facultades de información que posee el Congreso de la Nación,
+es decir, las facultades de interpelación e investigación legislativa. Estas facultades son
+relevantes ya que son las que permiten que la deliberación que ocurre dentro del Congreso sea un
+debate informado. Sin la posibilidad de pedir informes e interpelar a los ministros del poder
+ejecutivo, el Congreso puede legislar a ciegas. El acceso a la información es, desde este punto de
+vista, una herramienta fundamental para el correcto desempeño del poder legislativo. Como
+explica Bidegain, "se requiere (...) el conocimiento de los hechos vinculados a la situación o
+problema sometido a la decisión de las cámaras y para ello deben tener autoridad para recoger
+por sí mismas toda información que estimen necesaria".62
+Estas facultades de información se han considerado como implícitas dentro de los poderes del
+Congreso.63 Pero se encuentra de manera expresa en la llamada interpelación parlamentaria y en
+las facultades de investigación.
+El orígen de la facultad de interpelación se encuentra, según Bidart Campos, en los sistemas
+parlamentarios, donde los ministros son responsables ante el parlamento y pueden ser objeto de
+censura por parte de éste.64 El régimen previsto en el artículo 71 de la Constitución es entonces
+una interpelación con fines de información o conocimiento65, que aleja a la Constitución del
+modelo norteamericano.
+La práctica constitucional argentina ha variado sobre este punto: mientras hacia fines del siglo
+XIX y principios del siglo XX las interpelaciones a ministros del ejecutivo eran usuales, el uso
+de la herramienta fue cambiando con el paso del tiempo. En ocasiones es un instrumento del
+parlamento para hostigar al poder ejecutivo, para llamar la atención de la opinión pública sobre
+ciertas cuestiones, etcétera.66
+Las dinámicas de la interpelación varían de cámara a cámara. Cualquier senador o diputado
+pueden solicitar la interpelación, y si el pedido es aprobado por la cámara que corresponda,
+
+61 “Bustos”, voto de juez Petracchi, cons. 4°.
+
+62       Bidegain, Cuadernos Del Curso de Derecho Constitucional, 4:81.
+63       Ibid., 4:81.
+64       Bidart Campos, El Derecho Constitucional Del Poder, 2:286.
+65       Ibid., 2:286.
+66       Ibid., 2:287.
+
+
+                                                           22
+
+[[PDF p. 23]]
+mediante una resolución, el ministro o ministra debe concurrir a la cita. Mientras que en
+Diputados habla primero el ministro y luego el diputado interpelante, en la cámara de Senadores
+el debate lo abre el senador que ha solicitado la interpelación.
+Respecto de la facultad de investigación, la mayoría de la doctrina considera que esta se vincula
+con la facultad incidental prevista en el artículo 75 inciso 32 de la Constitución. Para Bidegain es
+una facultad incidental, que necesariamente debe vincularse al ejercicio de otra función
+legislativa.67 En general, las facultades de investigación se delegan en comisiones ad-hoc que
+llevan adelante la tarea de recolección de información. "Por lo general, se las autoriza a citar
+testigos, examinar libros y papeles, disponer pericias, compeler la comparecencia de testigos
+recalcitrantes y requerir el auxilio de la fuerza pública su fuera necesario".68
+Por supuesto, estas facultades de información deben ejercerse respetando los principios del
+debido proceso garantizados por la Constitución. En el marco de una investigación realizada por
+el Congreso sobre la Compañía Ítalo Argentina de Electricidad la comisión investigadora ordenó
+el allanamiento de un estudio jurídico, cuyo titular presentó una acción de amparo. La Cámara en
+lo Criminal y Correcional Federal confirmó una decisión de primera instancia que había
+sostenido que si bien el Congreso tiene facultades amplias de investigación, no pueden restringir
+los derechos de los ciudadanos sin una ley formal que lo autorizase o una orden judicial.69
+Finalmente, cabe señalar que en los últimos años muchos legisladores han optado por ejercer el
+derecho constitucional de acceso a la información reconocido por la Corte Suprema de Justicia
+en el caso ADC c. PAMI y previsto en el artículo 13 de la Convención Americana de Derechos
+Humanos.70 Si bien el poder ejecutivo rechazó esos pedidos en algunas circunstancias por
+considerar que ese derecho debe ejercerse a través de pedidos de informes por medio de las
+comisiones del Congreso, en varios casos los magistrados dieron razón a los legisladores y
+sostuvieron que ellos conservan el derecho ciudadano de acceso a la información pública.71
+
+
+
+
+67       Cfr. Bidegain, Cuadernos Del Curso de Derecho Constitucional, 85. Por eso, Bidegain considera que son válidas las
+investigaciones referidas a la función legislativa, la de carácter jurisdiccional que recae sobre el Congreso, los privilegios
+parlamentarios, las facultades del Senado como "consejo de gobierno" y otras funciones políticas.
+68       Ibid., 4:87.
+69       Cfr. Juzgado de Primera Instancia No. 3 en lo Criminal y Correccional Federal, E.D. 110-463. Ver, también,
+Cámara Nacional en lo Criminal y Correccional Federal, Sala II, Caso "F.C.H.", La Ley 1984-D, 550.
+70       Corte Suprema de Justicia. Caso Asociación por los Derechos Civiles c. PAMI. Sentencia del 4 de diciembre de
+2012.
+71       Ver, por ejemplo, Cámara de Apelaciones en lo Contencioso Administrativo Federal, Sala V, Caso Gil Lavedra,
+sentencia del 5 de julio de 2013 (confirmada por la Corte Suprema vía rechazo de recurso extraordinario el 14 de octubre
+de 2014). Ver, también, Cámara de Apelaciones en lo Contencioso Administrativo Federal, Sala V, Caso Garrido c.
+Ministerio de Justicia, sentencia del 4 de junio de 2015.
+
+
+                                                             23

@@ -1,0 +1,10 @@
+# Verrocchi (U12): carátula repetida en el encabezado de las páginas impares
+^\s*V\. 916\. XXXII\.\s*$
+^\s*Verrocchi, Ezio Daniel c/ Poder Ejecutivo\s*$
+^\s*Nacional - Administración Nacional de Aduanas\s*$
+^\s*s/ acción de amparo\.\s*$
+^\s*C orteS uprema deJ usticia dela N ación\s*$
+# Verrocchi (U12): marcas de copia y de continuación de voto
+\s+ES COPIA\s+VO\b.*$
+^\s*ES COPIA\s*$
+^\s*(VO|DISI)\W*$

@@ -1,0 +1,788 @@
+# fuente: Unidad9/2_Guidi_2019_Elección y conformación de Cámaras.pdf
+# md5_original: b37fd32d419a34c3f980b708947f4de8
+# via: texto
+# generado: 2026-11-19
+
+[[PDF p. 1]]
+Elección y conformación de las Cámaras
+
+En nuestro sistema constitucional, el Poder Legislativo está en cabeza de un Congreso Nacional
+compuesto de dos órganos: la Cámara de Diputados y el Senado. En la clasificación politológica que
+popularizó Liphart1, nuestro Congreso es fuertemente bicameral, ya que es simétrico2 e
+incongruente3. El procedimiento de sanción y formación de leyes, así como el régimen de
+funcionamiento de las cámaras, son tratados en otras partes de este volumen. En este artículo
+trataremos la cuestión de la conformación de las cámaras.
+
+1.- Condiciones para ser legislador:
+Las condiciones que deben cumplirse para ser diputado y senador están taxativamente enumeradas
+en los artículos 48 y 55 respectivamente. La Convención Americana sobre Derechos Humanos
+establece taxativamente los criterios que pueden ser utilizados para restringir el derecho a ser
+elegido4. Además, la Corte Suprema ha establecido que cuando la Constitución fija requisitos para
+ocupar un cargo, el Congreso no puede exigir otros que los allí establecidos5. A continuación los
+repasamos:
+a.- La edad: La Constitución exige 25 años de edad para ser diputado y 30 para ser elegido senador.
+Este requisito permanece desde la redacción constitucional de 1853, en lo que se siguió a la
+Constitución de los Estados Unidos (no así al proyecto de Juan Bautista Alberdi, que proponía una
+edad mínima de 35 años para los senadores). Estos cinco años de diferencia, más apreciables en el
+contexto de la esperanza de vida decimonónica, se explican por la intención explícita de hacer del
+Senado, la “Cámara Alta”, una Cámara más selecta y conservadora6.
+b.- La ciudadanía: La Constitución exige tener cuatro años de “ciudadanía en ejercicio” para ser
+diputado y “haber sido seis años ciudadano de la Nación” para ser elegido senador7. Este plazo es
+algo más exigente que el proyecto de Alberdi (dos y cuatro años, respectivamente) aunque más
+generoso que la Constitución Norteamericana (que exige siete y nueve años, respectivamente). La
+diferencia textual entre ambos artículos - el “haber sido” ciudadano que se exige para ser senador,
+tomado tanto del proyecto de Alberdi como de la Constitución Norteamericana, contra el tener
+“ciudadanía en ejercicio” exigido para ser diputado- nunca ha sido problematizada por la doctrina o
+
+1
+  Liphart, Arend, Patterns of Democracy, Yale University Press, 1999, pág. 200 y ss.
+2
+  Ya que ambas cámaras son electas popularmente y gozan de similares competencias constitucionales.
+3
+  Ya que los mecanismos de elección de ambas cámaras son muy diferentes y sus miembros sobre- y
+subrepresentan a distintos grupos de modo diferente.
+4
+  Según el art. 23 ap. 2 de la CADH, el derecho a ser elegido puede ser reglamentado por “razones de
+edad, nacionalidad, residencia, idioma, instrucción, capacidad civil o mental, o condena, por juez
+competente, en proceso penal”.
+5
+  En el fallo “Bianchi” (248:398), la Corte Suprema debió decidir una recusación planteada contra dos de
+sus miembros por ser parientes entre sí, fundada en que el decreto-ley 1285/58 establece que los
+integrantes de un tribunal colegiado no pueden serlo. La Corte entendió que este requisito podría
+aplicarse a los tribunales inferiores pero no a la propia Corte, ya que “los requisitos exigidos en los
+[actuales arts. 55 y 111] no pueden ser alterados por el legislador” (cons. 7°).
+6
+  Con respecto al caso norteamericano, véase Gargarella, Roberto, Nos los representantes. Crítica a los
+fundamentos del sistema representativo, Miño y Dávila Editores, Buenos Aires, 1995, pág. 77.
+7
+  La Constitución de 1949 cambió este plazo, exigiendo a los argentinos naturalizados un plazo de diez
+años de ejercicio de la ciudadanía para ser elegido para cualquiera de los dos cargos (véanse arts. 43 y
+48).
+
+[[PDF p. 2]]
+la jurisprudencia. La Cámara Nacional Electoral ha dejado abierta la posibilidad de que un
+ciudadano nativo que haya estado ejerciendo una segunda nacionalidad pueda ser excluido de sus
+derechos políticos, aunque no ha delimitado el alcance de esta posible exclusión8.
+c.- Nacimiento o Residencia: La reforma constitucional de 1860 incorporó, tanto para diputados
+como para senadores, el requisito de ser natural de la provincia que lo elige o, alternativamente,
+haber residido en ella los dos años inmediatamente anteriores a la elección. Este requisito no se
+encontraba en el proyecto de Alberdi ni en la Constitución de 1853, y la Constitución
+Norteamericana sólo exige para ambos cargos ser habitante del estado correspondiente al
+momento de la elección. En palabras de los convencionales Mitre y Sarmiento, en 1860, se buscaba
+evitar la proliferación de alquilones, que podían servir de legisladores por una u otra provincia sin
+nexo alguno con aquélla por la que eran elegidos. Si bien esta exigencia fue criticada por la doctrina
+constitucional clásica para el caso de los diputados, por representar éstos a la Nación como un todo
+y no a sus provincias como los senadores9, actualmente suele considerarse deseable el vínculo entre
+los legisladores y sus distritos.
+La jurisprudencia de la Cámara Nacional Electoral es consistente en que lo que se requiere es la
+residencia efectiva, que no es equiparable al domicilio -el que, a lo sumo, constituye una presunción
+iuris tantum de residencia. Sin embargo, el art. 34 de la ley 23.298 dispone que la residencia “podrá
+ser acreditada por cualquier medio de prueba, excepto la testimonial, siempre que figuren inscriptos
+en el registro de electores del distrito que corresponda”. La Cámara Electoral considera que esto no es
+un requisito adicional, sino que se trata de una “condición sine qua non para admitir la acreditación
+de la residencia”10. Sin embargo, esta “condición” no se aplica a quienes son naturales de la
+provincia, por lo que la Cámara ha admitido que una persona sea candidata por su distrito natal
+mientras está inscripta para votar en uno diferente11.
+La única circunstancia en la que la residencia efectiva no se computa a los efectos del cálculo es la
+del art. 34 CN: el servicio federal, civil o militar, no da residencia en la provincia en que se ejerce
+salvo que sea la del domicilio habitual del empleado. Así, por ejemplo, la residencia en la Quinta
+Presidencial no da residencia en la Provincia de Buenos Aires mientras se es Presidente de la
+Nación, pero sí si se reside en ella por otro motivo12.
+d.- Renta anual: El art. 55 exige para ser senador una renta anual de dos mil pesos fuertes o una
+entrada equivalente, sin que haya análogo requisito para la elección de diputados. El proyecto de
+
+
+8
+  Cámara Nacional Electoral, sentencia 3819, del 23/06/2004.
+9
+ Estrada, José Manuel, Curso de Derecho Constitucional, Segunda Edición, Editorial Científica y Literaria
+Argentina, Buenos Aires, 1927, pág. 73, “si las provincias son solamente distritos electorales de un solo
+Estado para la elección de diputados al Congreso, ¿en virtud de qué principio, en virtud de qué interés
+que no haya sido del momento y fugitivo, establece la exigencia de cierto tiempo de residencia del
+candidato en el territorio de la provincia que nombra al Congreso, ya que los diputados no representan a
+las provincias -sino la nación-...?”
+10
+   Sentencia 2315 del 23 de septiembre de 1997.
+11
+   Por ejemplo, sentencia 4617 del 2 de agosto de 2011. El juez Dalla Via votó en disidencia, afirmando
+que exigir la inscripción en el registro de electores a quienes no son nativos de la provincia y no a
+quienes sí lo son vulnera la igualdad ante la ley.
+12
+   Sentencia 4167, dictada por la Cámara Nacional Electoral el 1° de junio de 2009. En el caso se
+debatía la posibilidad del ex presidente Néstor Kirchner de ser candidato a diputado por la provincia de
+Buenos Aires. Al decidir, se computó para ello su residencia en la Quinta de Olivos mientras residía en
+ella como esposo de la presidenta Cristina Fernández y no mientras él mismo era presidente.
+
+[[PDF p. 3]]
+Alberdi exigía también el goce de cierta renta anual a los diputados (la mitad que para los
+senadores), mientras que la Constitución de los Estados Unidos no lo exige para ningún cargo.
+Esta diferenciación entre ambas Cámaras responde a la mencionada intención aristocratizante
+sobre el Senado. Ante las objeciones de algunos convencionales en 1853, el convencional Gorostiaga
+explicó que “en el sistema representativo el Senado (es) un cuerpo moderador de las exigencias
+ardorosas del Pueblo que (están) representadas en la Cámara de Diputados.”13 Este artículo fue
+aprobado por una estrecha mayoría. Mientras algunos convencionales votaron en contra por no
+incluirse el requisito de profesar el culto católico, otros manifestaron que la renta exigida era
+excesiva, o que no debía exigirse una renta sino el haber prestado servicios a la Patria. De todos
+modos, todas las intervenciones reconocían que debían contar con algún tipo de calificación
+distintiva de los diputados14.
+Este requisito, que fue brevemente eliminado durante la vigencia de la Constitución de 1949, fue
+repudiado incluso por doctrina constitucional del siglo XIX15 y hoy, a pesar de que cierta doctrina
+minoritaria lo exige16, no se verifica su cumplimiento y suele considerárselo derogado por
+desuetudo17. Además, es el único requisito de los enumerados por los arts. 48 y 55 contrario al art.
+23 de la Convención Americana de Derechos Humanos, que establece taxativamente los criterios
+por los que pueden restringirse los derechos políticos18. Sin embargo, más allá de una consideración
+en obiter dictum del juez Zaffaroni19, no existe un repudio jurisdiccional del requisito20.
+
+
+13
+   Sin embargo, también reconoció que si “un hombre era patriota, virtuoso e ilustrado, el mismo Senado
+que es el Juez de sus títulos daría lugar a estas excepciones sin necesidad de levantar un sumario”.
+Ravignani, Emilio (ed.), Asambleas Constituyentes Argentinas: seguidas de los textos constitucionales,
+legislativos y pactos interprovinciales que organizaron políticamente la Nación, Tomo cuarto, Instituto de
+Investigaciones Históricas, Universidad de Buenos Aires, Buenos Aires, 1937, disponible en
+http://ravignanidigital.com.ar/asambleas/asa4/asa4110000.html?h=0, pág. 526.
+14
+   Id. El convencional Zenteno, por ejemplo, consideraba excesiva la renta exigida pero solicitó que se
+incorporara el requisito de profesar el culto católico. El convencional Llerena dijo que debían ir al Senado
+“los que hubieren merecido bien de la Patria por sus anteriores servicios y que ellos no eran
+generalmente acaudalados”. El convencional Torrent pidió que se requiriera una propiedad de más de
+seis mil pesos fuertes, que era más fácil de medir.
+15
+   “La posesión de una renta como condición previa no es un requisito concordante con nuestro sistema
+de gobierno”, González, Joaquín V., Manual de la Constitución Argentina, Editorial Estrada, Buenos
+Aires, 1983, pág. 352.
+16
+   Así por ejemplo, Badeni, Gregorio, Tratado de Derecho Constitucional, La Ley, Buenos Aires, 2006,
+pág. 1385.
+17
+   Así, por ejemplo, Sagüés, Néstor Pedro, Elementos de Derecho Constitucional, Astrea, Buenos Aires,
+2003, Tomo II, pág. 434.
+18
+   Sobre la relación normativa entre tratados y normas de derecho interno, puede consultarse el artículo
+de Samanta Biscardi en este volumen.
+19
+   “Debe entonces descartarse la más mínima posibilidad de que exista una clase de "habilidad
+económica-financiera" para poder aspirar y eventualmente ejercer determinados cargos públicos. Pues
+de no ser así estaríamos negando una de las mayores obligaciones del Estado social de derecho como
+es la de procurar el desarrollo de la igualdad material, la igualdad de trato y la igualdad de
+oportunidades, implicando además un grave riesgo para la democracia, en especial, si se trata de apoyar
+sobre ella nada menos que el libre e idóneo ejercicio de la magistratura y la igualdad de oportunidades
+para acceder a ella como a cualquier otro cargo público. Basta señalar la mutación por sustracción
+(obsolescencia) de la exigencia constitucional de "disfrutar de una renta anual de dos mil pesos fuertes"
+como condición para acceder a determinados cargos públicos” Disidencia de Zaffaroni en“Carranza
+Latrubesse, Gustavo s/ acción de amparo”, sentencia del 23 de mayo de 2006, Fallos 329:1723.
+
+[[PDF p. 4]]
+e.- ¿Voluntad de asumir?: A lo largo de la historia electoral argentina se ha repetido el fenómeno de
+candidatos que son electos para un puesto que finalmente no asumen, o al que renuncian
+tempranamente, por permanecer en su cargo anterior o por haber sido designados
+simultáneamente para otro cargo incompatible. Sin embargo, en 2009 se dio una curiosa la
+radicalización de este fenómeno: el gobernador de la provincia de Buenos Aires y el Jefe de
+Gabinete de Ministros de la Nación se presentaron como candidatos a diputados nacionales
+anunciando, casi explícitamente, que no asumirían sus bancas sino que permanecerían en sus
+cargos, ya que sus candidaturas sólo daban testimonio de su apoyo al partido de gobierno. La
+prensa las denominó “candidaturas testimoniales”.
+Ante la impugnación de estas candidaturas, la mayoría de la Cámara Electoral afirmó que “obvio es
+decirlo, si se configurase un supuesto de lo que vulgarmente se ha dado en llamar candidatura
+testimonial, ésta no podría ser oficializada”, ya que “habría candidatos que no pretenden ser
+representantes y por lo tanto no podrían ser oficializados por defraudar al elector”21. Sin embargo, la
+mayoría de la Cámara también afirmó que “ninguna declaración… por más actualizada y explícita
+que fuera… alcanzaría a satisfacer una pretensión de certeza… respecto de las conductas futuras de
+los candidatos”22. De la lectura del voto de mayoría no queda claro si existiría algún caso en el que la
+testimonialidad de las candidaturas sea tan evidente como para impedir su oficialización.
+El juez Dalla Via, en disidencia, declaró inválidas las candidaturas testimoniales, aplicando un
+estándar menos exigente que el de la mayoría: mientras que para ésta no parece existir un grado de
+certidumbre tal que permita invalidar las candidaturas en base a que los cargos no serán asumidos,
+la disidencia considera suficiente la incertidumbre provocada por las ambiguas declaraciones
+públicas de los candidatos acerca de su voluntad de asumir, la que denotaba su falta de compromiso
+en hacerlo23.
+f.- ¿Cuándo deben reunirse estas condiciones?: Existe una diferencia en el texto de los arts. 48 y 55:
+mientras que los requisitos que enumera el art. 48 son para “ser diputado”, los del art. 55 lo son
+para “ser elegido senador”. Una interpretación literal de estas normas implica que los requisitos
+para ser senador deben cumplirse al momento de la elección, mientras aquéllos para ser diputado
+deben serlo al momento de la asunción del cargo. Esta interpretación es la que suele hacer la
+doctrina, aunque ciertos autores consideran irrazonable la distinción y sostienen que los requisitos
+para ambos cargos deben reunirse al momento de la aceptación del cargo y no antes24. Sin embargo,
+
+
+
+20
+   En la sentencia 2530 de 1999 la Cámara Nacional Electoral rechazó un planteo de falta de
+acreditación de la renta de dos mil pesos fuertes, pero con fundamento en la falta de legitimación.
+21
+   Sentencia 4168, del 1 de junio de 2009. Cons. 18.
+22
+   Id. Cons. 19. La Cámara también tomó en cuenta que los candidatos habían declarado ante la propia
+Cámara que “eventualmente” asumirían sus cargos. La Cámara interpretó que el “evento” al que estaba
+sujeta la asunción de los cargos era, “naturalmente”, el resultado electoral. Años después, la Corte
+Suprema se expidió sobre el caso y lo declaró abstracto, ya que, paradójicamente, los candidatos habían
+renunciado a sus bancas antes de asumir (Fallos 335:1539, sentencia del 14 de agosto de 2012).
+23
+   Sentencia 4638/09, citada. Cons. 16 de la disidencia.
+24
+   Badeni, obra citada, págs. 1375/1376, considera que los requisitos para ser senador deben
+encontrarse reunidos al momento de los comicios mientras que para ser diputado hay que reunirlos al
+momento de la incorporación a la Cámara. Sagüés, por su parte, considera que el proceso de elección
+de designación concluye con la aceptación de su diploma por el Senado, por lo que éste es el momento
+en el que deben reunirse los requisitos del art. 55. (Sagüés, obra citada, p. 435).
+
+[[PDF p. 5]]
+no existen precedentes de senadores electos sin contar con los requisitos del art. 55, por lo que
+carecemos de decisiones judiciales o parlamentarias que hayan resuelto la cuestión.
+En cambio, a lo largo de la historia la Cámara de Diputados ha resuelto la cuestión de los diputados
+electos sin contar con la edad de 25 años de modos disímiles: se ha retrasado la aprobación del
+diploma hasta pasado el vigésimoquinto cumpleaños (caso de Emilio Hardoy, en 1938), se lo ha
+rechazado (caso de Federico Pinedo, 1919) o incluso se lo ha admitido a pesar de carecer aún de la
+edad mínima (caso de Joaquín V. González). La jurisprudencia tradicional de la Cámara Electoral
+exige que los requisitos sean reunidos al momento de la aceptación del diploma por parte de la
+Cámara, lo que ocurre durante las sesiones preparatorias que tienen lugar algunos días antes del
+inicio del respectivo mandato25. Sin embargo, en el caso de la candidatura del ex presidente Néstor
+Kirchner a diputado por la Provincia de Buenos Aires, la Cámara aceptó que los dos años de
+residencia se cumplieran el preciso día en el que se iniciaría el mandato como diputado26.
+Si bien esto no presenta problemas para el caso de la edad mínima, cuya previsibilidad es
+prácticamente absoluta, sí podría hacerlo para los requisitos de ciudadanía o residencia (ya que un
+candidato podría perder la ciudadanía o cambiar su residencia después de la oficialización de la
+candidatura pero antes de la aceptación del diploma). La Cámara Electoral, en estos casos, valida la
+candidatura y considera que la Cámara de Diputados puede rechazar el diploma del candidato
+electo en su rol de juez de la validez de los títulos de sus miembros27.
+
+2.- Incompatibilidades e inhabilidades
+Tradicionalmente se distingue entre incompatibilidades e inhabilidades parlamentarias. Las
+primeras implican el deber para el sujeto de elegir entre su mandato parlamentario y la función
+incompatible con él. Las segundas implican la imposibilidad para el sujeto de ser electo legislador,
+transitoria o permanentemente. A continuación trataremos tanto las inhabilidades como las
+incompatibilidades previstas en la propia Constitución. Existen inhabilidades e incompatibilidades
+previstas en el Código Nacional Electoral (ley 19.945) y en la Ley Orgánica de Partidos Políticos (ley
+23.298), que son regularmente observadas por la Justicia Electoral, pero que no serán objeto del
+presente trabajo.
+a.- Inhabilidades constitucionales: El art. 36 CN, incorporado en la reforma de 1994, establece la
+pena de inhabilidad perpetua para ocupar cargos públicos para aquellos que hayan perpetrado
+actos contra el orden institucional y el sistema democrático. Asimismo, establece que las leyes
+penales deberán prever la inhabilitación para ocupar cargos públicos para aquellos condenados por
+graves delitos dolosos contra el Estado que conllevan enriquecimiento, dejando al Congreso la
+determinación de su duración. Este artículo no se ha aplicado retroactivamente, por lo que
+existieron luego de 1994 múltiples casos de personas que habían participado de alzamientos
+militares que fueron electas para cargos públicos municipales, provinciales y nacionales.
+Por último, el art. 60 prevé la posibilidad de que el Senado declare la “incapacidad” para ocupar
+empleos públicos de aquellos a quienes destituye en el marco de un juicio político28.
+
+
+25
+   Por ejemplo, fallo 1872 del 25 de abril de 1995.
+26
+   Fallo 4167 del 1 de junio de 2009.
+27
+   Véase, más adelante, la sección dedicada al juicio de elección.
+28
+   Puede profundizarse sobre los efectos de la destitución en juicio político en el artículo de Daniela
+Pearce, en esta obra.
+
+[[PDF p. 6]]
+b.- Los gobernadores: El art. 73 prescribe que no pueden ser miembros del Congreso “los
+gobernadores de provincia por las de su mando”. Esta disposición ha sido tradicional y
+mayoritariamente interpretada como una incompatibilidad funcional, que por cierto se extiende a
+las provincias que no sean las de su mando29. De hecho, a lo largo de la historia casi no ha sido
+controvertida la práctica de los gobernadores de ser electos diputados o senadores por las
+provincias que gobernaban. La mayoría de la Cámara Electoral confirmó este criterio en la causa
+“Novello” resuelta en 200930. El juez Dalla Via sostuvo en disidencia que se trataba, por lo contrario,
+de una causal de “inelegibilidad”. Basándose en la explicación dada por el convencional Seguí en
+185331 y citando doctrina clásica, sostuvo que aquélla era la interpretación auténtica de la norma.
+Este criterio continúa siendo abiertamente minoritario en la jurisprudencia32.
+c.- Los eclesiásticos regulares: El art. 73 CN veda también a los “eclesiásticos regulares” la
+posibilidad de ser miembros del Congreso. El argumento rescatado de la Convención de 1853 es
+que el voto de obediencia debido por ellos no permitiría el ejercicio libre de su mandato. Esta
+prohibición es frecuentemente considerada anacrónica por la doctrina, e incluso se ha afirmado que
+para no vulnerar la igualdad constitucional debe interpretarse comprensiva de los miembros de
+otros cultos que hayan profesado también votos de obediencia33.
+d.- Empleos del Poder Ejecutivo: Esta prohibición aparece doblemente expresada en el texto de la
+Constitución. Por una parte, el art. 72 prohíbe a los miembros del Congreso “recibir empleo o
+comisión del Poder Ejecutivo, sin previo consentimiento de la Cámara respectiva, excepto los empleos
+de escala”. El art. 105 prohíbe a los ministros del Poder Ejecutivo “ser diputados o senadores sin
+hacer dimisión de su empleo de ministros”. Si bien podría interpretarse que el art. 105 presenta una
+prohibición más intensa -ya que no contempla la posibilidad de la autorización por parte de la
+Cámara- la práctica constitucional no ha diferenciado ambos supuestos, volviendo el caso de los
+ministros un caso comprendido en el principio general del art. 72.
+Así, el reglamento de ambas Cámaras prescribe que la autorización que da la Cámara para ejercer
+empleo o comisión del Poder Ejecutivo duran sólo por el año legislativo en el que son otorgados e
+implica la incompatibilidad con el ejercicio simultáneo del mandato34. Ninguno de los reglamentos
+diferencia el caso de los ministros de otros empleos. Sin embargo, existen casos de comisiones del
+Poder Ejecutivo, tales como el acompañamiento a viajes oficiales o incluso la redacción de un
+anteproyecto de Código Penal35, que no han sido acompañadas de la correspondiente autorización.
+e.- Empleos del Poder Judicial: Si bien no surge explícitamente del texto constitucional, existe
+consenso en que el principio de separación de poderes impide que los empleados del Poder Judicial
+
+29
+   De hecho, la reforma constitucional de 1949 mantuvo la incompatibilidad para los gobernadores
+suprimiendo el complemento “por las de su mando”.
+30
+   Fallo 4156 del 12 de mayo de 2009.
+31
+   El convencional Seguí “[dio] las razones de esta exclusión fundándose en la libertad del voto y en el
+temor de que por obtenerlo los Gobernadores violentasen al pueblo”, Ravignani, obra citada, pág. 527.
+32
+   Pablo Manili, que coincide con la postura del juez Dalla Via, realiza un relevamiento de la doctrina en
+“Inegibilidades e incompatibilidades para cargos legislativos” en Sabsay, Daniel (dir.) y Manili, Pablo L.
+(coord.), Constitución Argentina Comentada, Hammurabi, Buenos Aires, 2010, Tomo III, págs. 251-260.
+33
+   Por ejemplo, Gelli, María Angélica, Constitución de la Nación Argentina. Comentada y concordada, La
+Ley, Buenos Aires, 2006, pág. 644.
+34
+   Art. 21 del Reglamento de la Cámara de Diputados y art. 31 del Senado.
+35
+   Así, el decreto 678/2012 nombró a una comisión compuesta, entre otros, por dos diputados nacionales
+que no fueron autorizados por la Cámara a ejercer tal tarea.
+
+[[PDF p. 7]]
+ejerzan simultáneamente la función de legisladores. La excepción está dada por los representantes
+del Poder Legislativo en el Consejo de la Magistratura y en el Jurado de Enjuiciamiento de
+Magistrados, dispuestos por los arts. 114 y 115 CN36.
+
+3.- Elección
+3.1.- La cantidad de diputados:
+El art. 45 CN dispone que “(e)l número de representantes será de uno por cada treinta y tres mil
+habitantes o fracción que no baje de dieciséis mil quinientos. Después de la realización de cada censo,
+el Congreso fijará la representación con arreglo al mismo, pudiendo aumentar pero no disminuir la
+base expresada para cada diputado”. En la Constitución de 1853/60, el número de diputados se
+había fijado en uno cada veinte mil habitantes, sin la posibilidad de que el Congreso reajustara la
+base de cálculo, lo que se habilitó en la reforma constitucional de 1898, permitiéndole “aumentar
+pero no disminuir la base expresada para cada diputado”.
+En la actualidad el número de diputados es fijado por la llamada “Ley Bignone”, promulgada por
+dicho presidente de facto bajo el número 22.487. Su art. 3° dispone que el “número de diputados
+nacionales a elegir será de uno por cada 161.000 habitantes o fracción no menor de 80.500. A dicha
+representación se agregará, por cada distrito, la cantidad de tres diputados, no pudiendo en ningún
+caso ser menor de cinco diputados ni inferior a la que cada distrito tenía al 23 de marzo de 1976”. Así,
+todas las provincias argentinas cuentan con un doble piso: no pueden tener menos de cinco
+diputados o menos de los que tenían el 23 de marzo de 1976. Además, el plus de tres diputados por
+sobre los que corresponden por proporcionalidad también constituye un factor de distorsión que
+acrecenta la representación de las provincias más despobladas, aunque superen el piso. Sin
+embargo, ni siquiera ha sido necesaria hasta ahora la invocación de estas cláusulas (salvo para la
+provincia de Tierra del Fuego, que a la fecha de la promulgación de la ley era aún un territorio
+nacional y contaba con tres diputados) ya que la cantidad de diputados nunca se reajustó por los
+nuevos censos: siguen calculados según el censo de 1980.
+La implicancia aritmética de estas distorsiones de la proporcionalidad es evidente: las provincias
+más despobladas se encuentran groseramente sobrerrepresentadas en la Cámara de Diputados en
+perjuicio de las más pobladas -notoriamente, de la Provincia de Buenos Aires37. Los incentivos
+políticos que se han propuesto como explicaciones del mantenimiento de este esquema van desde
+el sesgo conservador que tendrían las provincias más despobladas, a la obtención de más diputados
+a un menor costo en eventuales negociaciones políticas -por ejemplo, en intercambios de obra
+pública o beneficios impositivos para determinada provincia a cambio de votos en leyes
+
+
+
+36
+   En rigor, el art. 114 CN habla de la “representación de los órganos políticos resultantes de la elección
+popular”, por lo que no necesariamente debe tratarse de legisladores sino que las Cámaras podrían
+designar representantes que no revistan tal carácter. La ley 24.937 y sus modificaciones posteriores han
+optado por que sean directamente los diputados y senadores quienes integren el Consejo.
+37
+   La Cámara de Diputados argentina ocupa el puesto 10 entre 78 países en el ranking de
+“malapportionment” (es decir, discrepancia entre la población de una región geográfica y la cantidad de
+bancas de dicha región en la cámara nacional correspondiente) elaborado por Samuels, David y Snyder,
+Richard, “El valor de un voto: una perspectiva comparada sobre la desproporcionalidad electoral”,en Abal
+Medina, Juan Manuel y Calvo, Ernesto, El federalismo electoral argentino: sobrerrepresentación, reforma
+política y gobierno dividido, INAP-Eudeba, Buenos Aires, 2001, pág. 37.
+
+[[PDF p. 8]]
+generales38. Existe consenso en la doctrina constitucional en que este esquema es inconstitucional
+por violar la proporcionalidad entre cantidad de habitantes y de diputados que exige el art. 4539,
+aunque ni la Cámara Nacional Electoral ni la Corte Suprema han tratado el fondo de la cuestion.
+Existe, sin embargo, cierta discusión acerca de si el texto constitucional permite que una provincia
+tenga un solo diputado basada en el art. 46, que estableció el número con el que cada provincia
+concurriría al primer Congreso, mientras que el art. 47 ordenaba practicar un censo y ajustar a él el
+número de diputados. Si bien estas cláusulas no parecen tener más valor que el histórico, Germán
+Bidart Campos afirmaba que, dado que el art. 46 no asignó menos de dos diputados a ninguna
+provincia de aquel entonces, sería inconstitucional que una provincia contara con sólo un
+diputado40. A pesar de las adhesiones que ha recibido esta postura en la doctrina constitucional
+argentina, no coincidimos con ella. El primer censo general en nuestro país se realizó en 1869:
+dificilmente se puede considerar que los constituyentes eligieron apartarse voluntariamente de un
+dato que en realidad no tenian. Aun prescindiendo del método originalista de interpretación, no
+creemos que haya ningún motivo para creer que una norma explícitamente transitoria como el art.
+46 derogue el principio general de proporcionalidad establecido por el art. 45 -y aún más cuando
+otra norma transitoria, el art. 47, ordena volver inmediatamente al principio general. En definitiva,
+más allá de las desventajas que suelen observarse para los distritos uninominales41, no parece que
+exista remedio constitucional para la situación en la que a una provincia le corresponda sólo un
+diputado -además, claro, de establecer la base pensando en asignarle dos diputados a la provincia
+menos poblada y calcular el resto a partir de ella, lo que a los valores del censo de 2010 arrojaría
+una Cámara de Diputados compuesta por más de cuatrocientos diputados.
+
+3.2.- La elección de los diputados:
+El art. 45 dispone que los diputados son elegidos “directamente por el pueblo de las provincias, de la
+Ciudad Autónoma de Buenos Aires y de la Capital en caso de traslado, que se consideran a este fin
+distritos electorales de un solo Estado”. La Constitución no establece un sistema electoral preciso
+sino que ha permitido que la legislación electoral defina el sistema electoral, siempre y cuando los
+diputados sean elegidos “a simple pluralidad de sufragios”. Esta cláusula ha sido compatible con
+varios sistemas electorales a lo largo de la historia argentina. Así, desde las primeras elecciones de
+diputados nacionales hasta la sanción de la Ley 8871 llamada Ley Sáenz Peña en 1912 se aplicó el
+sistema de lista completa, por el que el partido que obtenía la mayoría relativa se quedaba con
+todas las bancas del distrito. Desde 1912 hasta 1963 se utilizó el sistema llamado de “lista
+incompleta”, por el cual se reservaban dos tercios de las bancas para el partido que obtenía la
+
+
+
+38
+   Véase al respecto, Calvo, Ernesto y Gibson, Edward, “Federalismo y sobrerrepresentación: la
+dimensión territorial de la reforma económica argentina” en Abal Medina y Calvo, obra citada.
+39
+   Por ejemplo, Gelli, obra citada, pág. 545, Sagüés, obra citada, pág. 450.
+40
+   Bidart Campos, Germán J., Manual de la constitución reformada, Ediar, Buenos Aires, 1997, Tomo III,
+pág. 55.
+41
+   Más allá de probables efectos políticos (por ejemplo, la tendencia de los distritos uninominales a
+fomentar el bipartidismo) existen dos complicaciones adicionales. Por una parte, un distrito uninominal es
+difícil de compatibilizar con la representación de género. Por otra parte, un distrito que elige un solo
+diputado no podrá renovar su representación cada dos años. Sin embargo, estos no son impedimentos
+constitucionales sino prácticos.
+
+[[PDF p. 9]]
+mayor cantidad de votos y el tercio restante para el partido que lo seguía42. Desde 1963 se utiliza en
+las elecciones de diputados el sistema de representación proporcional. Durante algunos interregnos
+(1902-1905 y 1951-1955) se utilizó un sistema de circunscripciones uninominales.
+El sistema de representación proporcional que se utiliza actualmente fue ideado por el belga Victor
+D’Hondt y se encuentra definido por el artículo 161 del Código Electoral Nacional. En el sistema
+vigente, cada partido o alianza presenta una lista de candidatos. Luego de los comicios, se divide la
+cantidad de votos obtenido por cada lista por uno, por dos, por tres… sucesivamente hasta llegar a
+la cantidad de bancas a repartir. Finalmente, se ordenan los cocientes así obtenidos hasta llegar al
+número de bancas: las listas de las que salgan esos cocientes ocuparán las respectivas bancas.
+El art. 160 del Código Electoral Nacional exige un piso del 3% del padrón -no de los votos emitidos-
+para entrar en la repartición de bancas de diputados descripta en el párrafo anterior. Este piso ha
+sido reiteradamente impugnado por candidatos que quedan por debajo de él con argumentos
+fundados en la representación de las minorías y el principio de que un hombre es igual a un voto
+contenido en el art. 37 CN: si un partido al que proporcionalmente le corresponde un diputado no
+se le asigna por aplicación del piso, ese diputado se asignará a otro partido que se verá
+sobrerrepresentado. Por otra parte, el piso también implica una diferencia irrazonable entre los
+diferentes distritos: en términos absolutos, el 3% del padrón es abismalmente más alto en Buenos
+Aires que en Tierra del Fuego. Si bien consideramos que estos planteos son correctos, han sido
+sistemáticamente rechazados por la Cámara Nacional Electoral, ya que “en un sistema de listas como
+el vigente en nuestro ordenamiento jurídico electoral no se votan los candidatos singularmente sino la
+lista en su conjunto”43. Además. la Cámara ha sostenido que “la validez constitucional de este tipo de
+regulación se justifica en la necesidad de procurar que la representación en las Cámaras legislativas
+no sea en exceso fragmentaria”44. La CSJN, por su parte, no se ha expedido sobre la cuestión. Al igual
+que lo que ocurre con la cuestión de la sobrerrepresentación de las provincias menos pobladas, esta
+es una cuestión sobre la cual los mismos legisladores que se ven beneficiados por el sistema
+electoral son los que tienen poder de veto sobre su modificación, por lo que corresponde que el
+Poder Judicial controle de modo especialmente riguroso con este tipo de normas45.
+
+
+
+42 En ambos casos, esto es una simplificacion. En ambos sistemas, cada elector votaba por los
+
+candidatos de modo individual, aunque en el sistema anterior a la Ley Saenz Pena cada elector votaba
+por la misma cantidad de candidatos que diputados su distrito elegia, mientras que en el sistema
+posterior cada elector votaba por dos tercios de la cantidad de cargos a elegir. De este modo, la mayoria
+nunca podria llegar a tener mas de dos tercios de los cargos ya que solo presentaba como candidatos a
+dos tercios de ellos. Veanse los arts. 55 y 56 de la Ley 8871.
+43
+   Sentencia 3033 del 25 de junio de 2002. Cons. 9°.
+44
+   Sentencia 4822 del 24 de abril de 2012. Cons. 4°.
+45
+   El juez Warren sostuvo en Kramer v. Union Free School District No. 15 (395 US 621) que “la
+presunción de constitucionalidad [de las leyes] está basada en la asunción de que las instituciones de
+gobierno están estructuradas para representar a todos. Cuando el cuestionamiento a una ley es en
+efecto un cuestionamiento de esta asunción básica, la presunción ya no puede servir como la base de la
+presunción de constitucionalidad”, citado en Ely, John Hart, Democracy and Distrust, Harvard University
+Press, 1980, pág. 117, traducción propia. Comentando casos sobre derechos electorales, afirma este
+autor que los derechos electorales “son esenciales para el proceso democrático y no es seguro dejar sus
+dimensiones en nuestros representantes electores, que tienen obviamente intereses directos en
+mantener el statu quo”, Ely, id.
+
+[[PDF p. 10]]
+3.3.- Sistema electoral de los senadores
+Salvo durante la breve vigencia de la Constitución de 1949 y de la llamada reforma provisoria
+promulgada por el presidente de facto Lanusse en 1972, antes de la última reforma constitucional
+los senadores eran elegidos “a simple pluralidad de sufragios” por la legislatura de cada provincia -
+con excepción de la Capital Federal, en la que se elegían por el voto popular.
+En 1994 se estableció la elección directa para los senadores, la que comenzó a practicarse en 2001,
+tras la vigencia de un régimen transitorio establecido por la cuarta cláusula transitoria.
+Actualmente, el art. 54 CN establece el régimen de elección de los senadores del siguiente modo: “se
+compondrá de tres senadores por cada provincia y tres por la ciudad de Buenos Aires, elegidos en
+forma directa y conjunta, correspondiendo dos bancas al partido político que obtenga el mayor
+número de votos, y la restante al partido político que le siga en número de votos”.
+La elección por los “partidos” que obtienen más votos, y no por los candidatos que lo hacen, dio
+lugar a un notable conflicto en la elección a senadores nacionales de 2001 en la Ciudad de Buenos
+Aires. En aquella oportunidad, Alfredo Bravo había obtenido el segundo lugar en cantidad de votos
+pero lo había hecho en dos listas patrocinadas por partidos diferentes. El candidato Gustavo Béliz
+había obtenido menos votos que Bravo, pero más que cualquiera de sus dos listas individualmente
+considerada. La alianza que postuló a Béliz impugnó la proclamación de Bravo como candidato. La
+Corte Suprema, integrada por conjueces y en una decisión de cinco contra cuatro, confirmó la
+decisión de la Cámara Electoral y proclamó a Béliz como candidato electo46. Para esto, ambos
+tribunales realizaron una interpretación literal de la norma y ponderaron la importancia asignada a
+los partidos políticos por la Constitución Nacional reformada en 1994. Por nuestra parte,
+consideramos que la solución dada por la Corte ni siquiera puede justificarse mediante una
+interpretación literal del art. 54 -ya que Béliz mismo no fue electo por un “partido” sino por una
+“alianza”47. Es decir, la Corte consideró que las “alianzas” presentadas como tales en las elecciones
+son “partidos” en los términos del art. 54 CN, pero las listas idénticas (a pesar de revelar la voluntad
+de distintos partidos de confluir en determinada candidatura) no lo serían.
+En la actualidad, las listas idénticas están prohibidas por el art. 60 del Código Nacional Electoral,
+por lo que la discusión pierde valor práctico48.
+
+3.4.- Cuestión de los suplentes
+Para el caso en el que se produzca una vacante en el cargo de diputado nacional, el art. 51 CN prevé
+que “el Gobierno de provincia, o de la Capital, hace proceder a elección legal de un nuevo miembro”.
+Similar terminología utiliza el art. 62 para el caso de vacante del cargo de senador nacional,
+agregando el adverbio “inmediatamente”. Ambos artículos permanecen como se los redactó en
+1853/60. De hecho, la adición de que la elección debe ser realizada “inmediatamente” en el caso de
+46
+   Fallos 326:1778.
+47
+   Según el art. 157 del Código Electoral Nacional, “[r]esultarán electos los dos titulares correspondientes
+a la lista del partido o alianza electoral que obtuviere la mayoría de los votos emitidos y el primero de la
+lista siguiente en cantidad de votos”. Así, el Código Electoral también se aparta de la literalidad del art.
+54 CN (que sólo habla de “partidos”) sin que esto haya sido problematizado en el fallo.
+48
+   A diferencia de lo que ocurrió en este caso, la sumatoria de los votos para listas idénticas de diputados
+nacionales había sido admitida pacíficamente por la jurisprudencia antes de la reforma de 1994 (por
+ejemplo, sentencia 783/89 de la Cámara Nacional Electoral o Fallos 312:2192 de la Corte Suprema).
+Luego de la reforma este criterio fue mantenido por la Cámara (sentencias 2968/2001 y 3645/2005).
+Puede consultarse al respecto el artículo de Francisco José Quintana en este volumen.
+
+[[PDF p. 11]]
+los senadores presumiblemente responda a que era más fácil que la legislatura provincial eligiera a
+un nuevo senador a que se organizaran comicios en toda la provincia.
+Sin embargo, esta disposición nunca se aplicó en la práctica: desde 1854 se dispuso la elección de
+suplentes para cubrir las bancas vacantes. Actualmente, ambas categorías de legisladores se eligen
+junto con determinada cantidad de suplentes, que son llamados para cubrir las vacantes que se
+vayan produciendo por el orden de su aparición en la lista49. De hecho, incluso la cláusula
+transitoria cuarta, que rigió la elección del tercer senador hasta 2001, año en el que se renovaba
+totalmente el Senado por el voto popular, preveía la elección de un suplente por parte de las
+legislaturas provinciales.
+Es una pregunta recurrente la de la constitucionalidad de este régimen. La doctrina constitucional
+se ha dividido entre quienes consideran al régimen de suplentes inevitablemente inconstitucional y
+quienes tratan de salvar su constitucionalidad de algún modo.
+Entre los primeros se cuenta Bidart Campos, quien considera inconstitucional “todo sistema que
+legal (...) que obliga a elegir suplentes para remplazar a los titulares”50. Esta opinión goza de cierta
+extensión en la doctrina51.
+En cambio, los argumentos usualmente utilizados para fundar la validez del sistema de los
+suplentes suelen acudir al originalismo, fundado en que algunos de los propios constituyentes de
+1853 fueron los que sancionaron en 1854 la Ley 7 de la Confederación Argentina, que fue la
+primera en establecer un régimen de senadores suplentes52. Otra línea de argumentación es la de
+Gelli, quien a pesar de reconocer que el sistema de suplentes sin duda contraría la norma
+constitucional, afirma que “extremando la hermenéutica” podría interpretarse que estas
+disposiciones constitucionales deben leerse como obligando la realización de la nueva elección
+cuando se agoten tanto los titulares como los suplentes53.
+Por nuestra parte, creemos que las propias elecciones producidas por la vacancia serían,
+paradójicamente, contrarias al sistema constitucional. Piénsese en la elección de senadores. Como
+se analizó, el art. 54 dispone que corresponden “dos bancas al partido político que obtenga el mayor
+número de votos y la restante al partido político que le siga en número de votos”. La elección especial
+para cubrir la banca vacante no podría garantizar la composición del Senado de acuerdo con este
+esquema. Por ejemplo, ante la muerte54 del senador por la minoría, una nueva elección podría
+verosímilmente arrojar como tercer senador a un miembro del partido de la mayoría, quedando la
+provincia en cuestión con tres senadores del mismo partido político.
+
+
+49
+   Véanse arts. 156 y 157 del Código Electoral Nacional para el caso de los senadores y arts. 158, 163 y
+164 para el de los diputados.
+50
+   Bidart Campos, obra citada, p. 57. Además, considera que el diputado o senador que cubre el cargo
+dejado vacante debe asumir por cuatro o seis años, respectivamente, ya que sería inconstitucional
+reducir su mandato al plazo necesario para completar el mandato del anterior legislador (pp. 57 y 58). No
+aclara, lamentablemente, cómo sería compatible este sistema con la renovación de cada Cámara por
+mitades o tercios. En los Estados Unidos, los senadores elegidos en elecciones especiales suelen
+completar el mandato del senador que lo había dejado vacante.
+51
+   Por ejemplo, Badeni, obra citada, pág. 1369, quien cita también a Linares Quintana.
+52
+   Sagüés, obra citada, pág. 358.
+53
+   Gelli, obra citada, pág. 552.
+54
+   Por supuesto, el argumento es aplicable a otras causas de vacancia, pero la muerte tiene para el
+argumento la ventaja de que no depende, la mayoría de las veces, de la voluntad del representante.
+
+[[PDF p. 12]]
+En el caso de los diputados, en cambio, la nueva elección podría violar la proporcionalidad que
+creemos que es exigida por el principio de voto igual: por ejemplo, ante la muerte de un diputado
+por un partido minoritario, la nueva elección probablemente arrojaría como resultado que un
+nuevo diputado engrosara la bancada de la mayoría, dejando a los votantes del partido minoritario
+sin la representación parlamentaria que incluso aritméticamente les corresponde.
+En ambos casos, la explicación de la elección por vacancia puede estar dada por circunstancias
+históricas. En el caso de los senadores, todos ellos, salvo los de la Capital, eran elegidos por las
+legislaturas provinciales, por lo que tenía sentido que la propia legislatura eligiera el remplazo para
+la banca vacante. En el caso de los diputados, sólo puede explicarse la elección de las elecciones
+especiales por la inspiración norteamericana de nuestro diseño constitucional: sólo en un sistema
+de circunscripciones uninominales tiene sentido que el cuerpo electoral elija cubrir las vacantes en
+el momento que ellas se producen.
+
+3.5.- Pertenencia de las bancas
+La doctrina constitucional ha tratado bajo el título de “pertenencia de las bancas” la cuestión de qué
+respuesta debe dar el derecho al legislador que, durante su mandato, se aparta del partido político
+por el que fue electo. Una parte de la doctrina afirma que las bancas pertenecen al partido. Así, por
+ejemplo Bidart Campos, que sostiene que si un diputado o senador se separa del partido político
+por el que fue electo debe ser expulsado de la Cámara correspondiente. Lamentablemente, no da
+ningún argumento para sostener semejante postura55. Algunas constituciones provinciales56, así
+como constituciones extranjeras57, adoptan esta solución explícitamente.
+Otros autores, mayoritariamente, han resuelto que el legislador es libre para cambiar de partido
+político o bloque parlamentario. Esta postura suele sostener que la banca pertenece “al pueblo”.
+La jurisprudencia de la Cámara Nacional Electoral avala esta última postura, al menos para el caso
+de los diputados nacionales. En su fallo en la causa “Pagani”, la Cámara decidió sobre la
+incorporación del diputado electo Eduardo Lorenzo “Borocotó”, quien a poco tiempo de su elección
+por un partido opositor, y antes aun de asumir su banca, anunció públicamente junto al Jefe de
+Gabinete de Ministros que pasaría a colaborar con el gobierno nacional. La Cámara afirmó que “en
+relación con la elección de diputados nacionales, no existe disposición alguna que admita la
+prevalencia de los partidos por sobre los candidatos”58. Así, fue el candidato y no la agrupación por la
+que se postuló, quien fue elegido diputado59. Al mismo tiempo, la Cámara sostuvo que esta
+conclusión es consistente con el “principio de representación libre que invisten los diputados
+nacionales”, ya que no están atados por mandatos rígidos dados por el electorado60. Coincidimos en
+
+55
+   Bidart Campos, obra citada, pág. 51.
+56
+   Por ejemplo, el art. 242 de la Constitución de Catamarca, art. 78 de la Constitución de La Rioja y art.
+25 de la Constitución de Río Negro. Los tres establecen mecanismos de remoción de los legisladores
+que incurrieran en inconducta partidaria o se apartaran de la plataforma electoral del partido.
+57
+   Art. 163 de la Constitución de Portugal.
+58
+   Sentencia 3738 dictada el 29 de agosto de 2006. Cons. 5°. La cita es de “UCR-CFI Partido Federal y
+Frejupo” (Fallos 312:2192), cons. 13, aunque allí se refiere a que en el Código Nacional Electoral no
+existe tal disposición, sin realizar una valoración constitucional al respecto.
+59
+   Sentencia 3738 citada. Cons. 8°.
+60
+   Id. Cons. 7°. Curiosamente, la Cámara invoca para semejante afirmación “Economía y sociedad” de
+Max Weber. Esta referencia es curiosa, no sólo porque las obras de Weber carecen de fuerza normativa
+en nuestro sistema ni porque “Economía y sociedad” es una obra descriptiva y no prescriptiva, sino
+
+[[PDF p. 13]]
+este punto: la representación libre es la más compatible con una concepción deliberativa de la
+democracia, ya que un mandato rígido no permitiría que los representantes cambien de opinión
+mediante la deliberación61. No es obvio que de este principio se derive la pertenencia de la banca al
+legislador: podría sostenerse que el principio de la representación libre se respeta si son los
+partidos quienes la ejercen. Sin embargo, creemos que es mas factible que sean los legisladores
+individuales quienes cambien de opinion siguiendo los resultados de la deliberacion a que sean los
+partidos quienes lo hagan organicamente. Al mismo tiempo, la posibilidad de que los diputados
+cambien de opinion individualmente puede resultar un incentivo para que las estructuras
+partidarias se muestren mas abiertas a aceptar cambiar de postura como resultado de la
+deliberacion.
+No existe en la jurisprudencia un fallo análogo para el caso de los senadores nacionales. La
+redacción del art. 54 CN, al afirmar que corresponden dos bancas al partido que obtiene la mayor
+cantidad de votos y una banca al que le sigue, podría permitir una interpretación diferente. Sin
+embargo, consideramos que dicho artículo sólo rige la asignación de bancas luego de los comicios y
+no el ejercicio del mandato. La práctica parlamentaria posterior la reforma de 1994 ha seguido tal
+interpretación, existiendo numerosos casos en los últimos años de senadores que se separan de sus
+partidos sin que se exija su separación del cuerpo. Por otra parte, no parece que los argumentos de
+la Cámara Electoral en “Pagani” puedan distinguir la situación de los senadores de la de los
+diputados. Por último, existiría un problema práctico en adoptar una solución diversa: en los
+últimos años rara vez los partidos se presentan como tales a elecciones, sino que lo hacen en
+alianzas electorales que se disuelven tras los comicios, muchas veces llevando incluso candidatos
+extrapartidarios. Así, en muchos casos es imposible saber efectivamente si un legislador abandonó
+el partido a través del cual fue electo, ya que fue electo a través de varios, o de ninguno.
+
+4.- Juicio de elección
+El art. 64 CN dispone que “(c)ada Cámara es juez de las elecciones, derechos y títulos de sus miembros
+en cuanto a su validez”, disposición que toma textualmente del proyecto de Alberdi y que a su vez
+éste tomó de la Constitución norteamericana, aunque con una diferencia textual importante62. La
+facultad de juzgar la validez de los diplomas de los legisladores electos está regulada en el
+reglamento de cada Cámara: se ejerce durante las sesiones preparatorias, antes del comienzo del
+mandato de los nuevos legisladores. Las impugnaciones sólo pueden ser presentadas por otros
+miembros de la respectiva Cámara o por autoridades de partidos políticos, y sólo pueden consistir
+en la negación de alguno de los requisitos exigidos para ocupar el cargo o en irregularidades en el
+proceso electoral63.
+La doctrina constitucional clásica consideró durante más de cien años que este llamado “juicio de
+elección” era privativo de cada Cámara y no revisable judicialmente64. La propia Corte Suprema
+
+también porque a continuación de la cita que efectúa la Cámara Weber pondera la importancia de los
+partidos políticos para el ejercicio de la representación en las repúblicas parlamentarias.
+61
+   Carlos Santiago Nino. La constitución de la democracia deliberativa. Gedisa. Barcelona. 1993. Pp.
+235-236.
+62
+   El art. I, sección 5, de la Constitución norteamericana dispone: “Each House shall be the Judge of the
+Elections, Returns and Qualifications of its own members”.
+63
+   Art. 7º del Reglamento del Senado y art. 5º del Reglamento de la Cámara de Diputados.
+64
+   Por ejemplo, González, Joaquín V., obra citada, pág. 380.
+
+[[PDF p. 14]]
+sostuvo este criterio desde 1866, en un fallo unánime sobre la exclusión de un senador nacional. En
+este caso, la Corte remitió al dictamen del Procurador General, que afirmó que “la Corte Suprema no
+tiene competencia para intervenir en este asunto, que la Constitución atribuye exclusivamente al
+Senado”65. Este criterio se mantuvo sin ser problematizado durante más de un siglo y llegó a su
+cénit en 1998. En dicho año regía para la elección de senadores la cláusula transitoria cuarta de la
+reforma de 1994. Así, en 1998 las provincias cuyos senadores concluían su mandato debían elegir
+tres senadores, cuidando que “en lo posible (...) correspondan dos bancas al partido político o alianza
+electoral que tenga el mayor número de miembros en la legislatura, y la restante al partido político o
+alianza electoral que le siga en número de miembros de ella”. Al considerar el ingreso de los
+senadores elegidos por la legislatura chaqueña, la mayoría del Senado hizo uso de la facultad
+conferida por el art. 64 CN, argumentando que la legislatura chaqueña había burlado los requisitos
+de pertenencia partidaria exigidos por la cláusula transitoria cuarta, y denegando así el diploma del
+senador titular y del senador suplente -pertenecientes a la Unión Cívica Radical- y designando en su
+lugar a otros dos para esos cargos -pertenecientes al Partido Justicialista. La decisión del Senado fue
+impugnada judicialmente por el gobernador de Chaco argumentando que el Senado se había
+excedido en su competencia, ya que del art. 64 no puede deducirse que la Cámara pueda nombrar
+senadores en remplazo de aquellos que rechaza. Ante la solicitud de una medida cautelar para
+impedir asumir a los senadores así nombrados, la mayoría de la Corte Suprema resolvió que el
+ejercicio de la facultad contenida en el art. 64, tal como es reglamentada por el propio Senado, es
+una de “sus facultades constitucionales privativas, ámbito pacíficamente excluido del control
+jurisdiccional”, por lo que “no hay en esa limitación desmedro alguno del orden constitucional sino,
+por el contrario, preservación del principio de separación de poderes, base de su subsistencia”66. Los
+votos disidentes en este fallo dejaron la puerta abierta a una revisión judicial del juicio de elección:
+“el Poder Judicial siempre estaría habilitado para juzgar, en los casos que lo planteen, si el acto
+impugnado ha sido expedido por el órgano competente, dentro del marco de su competencia y con
+arreglo a las formalidades a las que está sujeto”67. Los votos disidentes otorgan la cautelar, sin
+resolver sobre el fondo.
+De todos modos, esta doctrina jurisprudencial varió sustancialmente a partir del caso del represor
+Antonio Domingo Bussi, quien había sido electo diputado por la provincia de Tucumán en 1999 sin
+que su candidatura hubiera sido objeto de impugnaciones ante la Justicia Electoral. La Cámara de
+Diputados juzgó que no podía asumir su banca por carecer de idoneidad moral, resolución que
+Bussi impugnó y llegó a la Corte Suprema en tres oportunidades sucesivas. En la primera de ellas, la
+Corte revocó el fallo de la Cámara Electoral, y admitió por lo tanto el carácter justiciable de la
+cuestión68. El segundo fallo de la Corte también revocó una segunda sentencia de la Cámara
+Electoral, esta vez para declarar que la cuestión no se había tornado abstracta por la asunción del
+
+65
+   Dictamen del Procurador General Pico en la “Causa CIV” relativa a la exclusión del senador José
+Roque Pérez (Fallos 2:253).
+66
+   “Provincia del Chaco c/ Estado Nacional (Senado de la Nación) s/ acción declarativa de
+inconstitucionalidad”, Fallos 321:3236, sentencia del 24 de noviembre de 1998. Voto de los jueces
+Nazareno, Moliné O’Connor y López (cons.15) y voto del juez Vázquez (cons. 12). El juez Boggiano, en
+concurrencia, advirtió además que el ejercicio por parte del Senado de esta facultad había sido
+razonable.
+67
+   Id. Voto disidente de los jueces Fayt y Bossert (cons. 6°) y del juez Petracchi (cons. 3°).
+68
+   Fallos 324:3358.
+
+[[PDF p. 15]]
+diputado suplente69. El tercer y último fallo, si bien declaró abstracta la cuestión ya que el mandato
+de Bussi había caducado, decidió sobre el fondo ante la posibilidad de repetición de los hechos y
+concluyó que la decisión de la Cámara de Diputados de impedir la asunción de Bussi había sido
+inconstitucional por excederse de la competencia que le confiere el art. 64 CN.
+Por un lado, entonces, la Corte concluyó que “ cuando la Constitución, en su art. 48, regula los
+requisitos necesarios para ser diputado de la Nación no requiere la idoneidad ni calidades morales. La
+Cámara, como juez, no puede agregar nuevos requerimientos que la Constitución no contempla”. Aun
+suponiendo que la idoneidad del art. 16 CN sea uno de los requisitos exigidos para ser diputado, el
+único juez de esta idoneidad, afirma la Corte, es el pueblo en elecciones70. Sin embargo, luego va
+más allá y, contra lo dispuesto por los reglamentos de ambas Cámaras legislativas, la Corte concluye
+que “los conflictos vinculados a la etapa previa a la elección, así como los que tienen relación con el
+acto eleccionario en sí mismo, son materias sometidas a la Justicia (...) De tal modo, es claro que la
+facultad de la Excma. Cámara de Diputados sólo puede referirse a la revisión de la legalidad de los
+títulos de los diputados electos y la autenticidad de los diplomas, esto es, si fueron regularmente
+electos por la autoridad competente”71. Por último, la Corte advirtió que la decisión de la Cámara de
+Diputados estaba violando el principio de inocencia, ya que Bussi no se encontraba condenado en
+ese momento. En el caso de Luis Abelardo Patti, electo diputado en 2005 y cuyo ingreso fue
+impedido por la Camara de Diputados al igual que el de Bussi, la Corte remitió a estos mismos
+razonamientos72.
+
+
+
+
+69
+   Fallos 326:4468.
+70
+   Fallos 330:3160.
+71
+   Id.. Cons. 6°.
+72
+   Fallos 331:549. Para un debate acerca de las implicancias de la exclusión de actores antidemocráticos
+en el debate democrático, sugerimos los articulos “Las paradojas de la democracia: excluyendo voces
+del proceso deliberativo”, de Federico Orlando; “El caso Patti y otra paradoja de la democracia” de
+Demián Zayat; “Los casos Bussi y Patti: una cláusula anacrónica en la Constitución y la alteración del
+proceso democrático” de Juan Ignacio Sáenz; y “Las obligaciones por hechos del pasado y las
+atribuciones de la Cámara de Diputados. Glosas al proceso Pattii” de Diego R. Morales, todos ellos
+contenidos en Gargarella, Roberto (coord.), Teoría y crítica del derecho constitucional, Abeledo Perrot,
+Buenos Aires, 2008, Tomo II.
